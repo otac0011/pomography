@@ -1,4 +1,6 @@
-# Pomona - the heirloom apple atlas
+# Pomography - the heirloom apple atlas
+
+*Pomology* is the study of fruit; *pomography* is the mapping of it - where each apple tastes the way it should and where it won't.
 
 An independent, static website about apple varieties and rootstocks, built around the range of
 [Keepers Nursery](https://www.keepers-nursery.co.uk/fruit-trees/apple) (East Farleigh, Kent; nursery manager
@@ -10,7 +12,7 @@ Karim Habibi).
 * **Rootstocks** - vigour, precocity, anchorage, disease and soil tolerance for ~50 apple rootstocks (M.27 to
   MM.111, Budagovsky, Polish, Geneva...), a comparison table and a "which rootstock for me?" chooser.
 * **World map** - pick favourites, then click **any spot on land** (the dots are only pre-computed reference places).
-  Pomona fetches ten years of real weather plus dew point and rain hours for that point and scores each favourite for
+  Pomography fetches ten years of real weather plus dew point and rain hours for that point and scores each favourite for
   winter chill, winter cold, blossom frost, ripening season, summer heat, water supply and disease pressure, with the
   reasons written out. Disease pressure is driven by leaf wetness and humidity (apple scab infection periods, a
   Maryblyt-style fire blight model, mildew, canker); whether fire blight or cedar-apple rust exists there at all comes

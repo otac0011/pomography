@@ -8,7 +8,7 @@ const GLOSS = [
   ['Self-fertile', 'Can set a crop with its own pollen. Even then, a partner nearby usually improves yield.'],
   ['Spur-bearer / tip-bearer', 'Spur-bearers fruit on short stubby spurs along the branches and take hard pruning. Tip-bearers fruit on the ends of last year\'s shoots, so heavy pruning removes the crop.'],
   ['Biennial bearing', 'The habit of cropping heavily one year and lightly the next. Thinning the fruitlets in the heavy year helps.'],
-  ['Chill (hours or units)', 'The winter cold a tree needs to break dormancy evenly; too little and blossom is thin and late. Pomona counts Utah-style chill units from 1 November to 31 March: an hour at 2.5–9 °C counts as 1, an hour at 1.4–2.5 or 9–12.5 °C as one half. Published requirements, including the ones on variety pages, are rough and use a mix of methods.'],
+  ['Chill (hours or units)', 'The winter cold a tree needs to break dormancy evenly; too little and blossom is thin and late. Pomography counts Utah-style chill units from 1 November to 31 March: an hour at 2.5–9 °C counts as 1, an hour at 1.4–2.5 or 9–12.5 °C as one half. Published requirements, including the ones on variety pages, are rough and use a mix of methods.'],
   ['Hardiness zone', 'USDA zone: the average coldest night of the year. Zone 5 is −29 to −23 °C; zone 8 is −6.7 to −12 °C. Lower number = colder.'],
   ['Growing degree-days', 'A tally of warmth above 5 °C. Late-ripening apples need many; cool summers leave them sharp and unripe.'],
   ['Precocity', 'How soon a tree starts fruiting. Dwarfing rootstocks such as M.9 crop in year 2–3; vigorous ones may take 6–8 years.'],
@@ -28,11 +28,12 @@ export function renderGuide(app) {
   <h1>Guide</h1>
   <div class="sections">
     <section class="card pad wide">
-      <h2>How to use Pomona</h2>
+      <h2>How to use Pomography</h2>
+      <p><i>Pomology</i> is the study of fruit; <i>pomography</i> is the mapping of it: which apples suit which places, and why.</p>
       <ol>
         <li><b>Explore varieties.</b> Filter ${c.varieties} apples by flavour (rose-water, vanilla, pineapple, nutty&hellip;), season, use, origin or disease resistance. Open a variety for its taste profile, growing habits, pollination partners and climate needs.</li>
         <li><b>Heart the ones you like.</b> Your favourites are kept in your browser.</li>
-        <li><b>Click the world map.</b> Click one of the dots or anywhere at all: Pomona downloads ten years of real weather for that spot and scores each favourite for winter chill, hardiness, spring frost, ripening, summer heat and disease &mdash; with the reasons in words.</li>
+        <li><b>Click the world map.</b> Click one of the dots or anywhere at all: Pomography downloads ten years of real weather for that spot and scores each favourite for winter chill, hardiness, spring frost, ripening, summer heat and disease &mdash; with the reasons in words.</li>
         <li><b>Compare rootstocks.</b> See how vigour, precocity, anchorage and disease resistance differ, or use the chooser.</li>
       </ol>
     </section>
@@ -52,7 +53,7 @@ export function renderGuide(app) {
     </section>
     <section class="card pad wide">
       <h2>What you get when you click anywhere</h2>
-      <p>The dots on the map are just reference places: <b>solid</b> dots were analysed in advance and open instantly, <b>dashed</b> dots are analysed live when you click them. <b>Every spot on land can be clicked.</b> For a new spot, Pomona downloads ten years of daily weather for the surrounding 25 km grid cell (plus a short record of dew point and hours of rain), then works out everything below. Each line in the panel's <i>Climate</i> tab is labelled with where it came from:</p>
+      <p>The dots on the map are just reference places: <b>solid</b> dots were analysed in advance and open instantly, <b>dashed</b> dots are analysed live when you click them. <b>Every spot on land can be clicked.</b> For a new spot, Pomography downloads ten years of daily weather for the surrounding 25 km grid cell (plus a short record of dew point and hours of rain), then works out everything below. Each line in the panel's <i>Climate</i> tab is labelled with where it came from:</p>
       <p><span class="kind kind-measured">Measured</span> counted directly from the weather record (hot days, rainfall, elevation, humidity) &nbsp; <span class="kind kind-modelled">Modelled</span> an apple-specific index calculated from that weather (chill, bloom date, frost risk, leaf wetness, disease pressure) &nbsp; <span class="kind kind-regional">Regional</span> looked up by country or range, because weather cannot tell you whether a disease exists there (fire blight status, cedar-apple rust, a few pests) &nbsp; <span class="kind kind-assumed">Assumed</span> a default, such as a variety's unrecorded chill need &nbsp; <span class="kind kind-extrapolated">Extrapolated</span> blended from the nearest reference places because live weather could not be loaded.</p>
       <p><b>Humidity and disease.</b> Disease pressure uses leaf wetness, not just rainfall: hours of dew (from the day's dew point) and rain together decide how many apple-scab infection periods occur in spring (after Mills' infection table). Fire blight uses a Maryblyt-style model of warm, wet blossom days; powdery mildew uses warm dry days after humid nights; European canker uses mild wet days from October to March. The <i>Regional</i> tab then says whether fire blight or cedar-apple rust exists there at all.</p>
       <p><b>If the live weather service is busy</b> (it is free and rate-limited), the panel falls back to <span class="kind kind-extrapolated">extrapolated</span> values: an inverse-distance blend of up to four reference places in the same hemisphere within 1,500 km. The banner names them and their distances, and offers a retry.</p>
@@ -81,7 +82,7 @@ export function renderGuide(app) {
     </section>
     <section class="card pad wide">
       <h2>About this atlas and Keepers Nursery</h2>
-      <p>Pomona's range is inspired by <a href="https://www.keepers-nursery.co.uk/fruit-trees/apple" target="_blank" rel="noopener">Keepers Nursery</a> in East Farleigh, Kent &mdash; one of the best-known sources of rare and heritage fruit trees in Britain, run by Karim Habibi, who also breeds new apples from seed (Hamid's Red Pippin, Sima Joon, Primrose Pippin). The <span class="badge keepers">Keepers</span> badge marks varieties that appear on Keepers' public apple catalogue pages; follow the link on a variety to see what they have and what they charge.</p>
+      <p>Pomography's range is inspired by <a href="https://www.keepers-nursery.co.uk/fruit-trees/apple" target="_blank" rel="noopener">Keepers Nursery</a> in East Farleigh, Kent &mdash; one of the best-known sources of rare and heritage fruit trees in Britain, run by Karim Habibi, who also breeds new apples from seed (Hamid's Red Pippin, Sima Joon, Primrose Pippin). The <span class="badge keepers">Keepers</span> badge marks varieties that appear on Keepers' public apple catalogue pages; follow the link on a variety to see what they have and what they charge.</p>
       <p>This is an independent project. It is not affiliated with, endorsed by or sourced from Keepers Nursery: their descriptions and database are their copyright, so none of that text is used here. Everything else you read was researched and written separately.</p>
       <p class="small muted">Data built ${esc(S.data.built)}. ${c.varieties} varieties, ${c.rootstocks} rootstocks, ${c.regions} reference places.</p>
     </section>

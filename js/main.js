@@ -41,16 +41,16 @@ async function route() {
   // switching map -> map (same page, different place) should not rebuild when the URL was just set by the map itself
   current = key;
   const [a, b] = parts;
-  let nav = 'explore', title = 'Pomona — the heirloom apple atlas';
+  let nav = 'explore', title = 'Pomography — the heirloom apple atlas';
   window.scrollTo(0, 0);
   try {
     if (!a) renderExplore(app, params);
-    else if (a === 'v') { renderVariety(app, b); nav = 'explore'; const v = S.byId.get(b); if (v) title = v.name + ' — Pomona'; }
-    else if (a === 'rootstocks') { renderRootstocks(app); nav = 'rootstocks'; title = 'Rootstocks — Pomona'; }
-    else if (a === 'r') { renderRootstock(app, b); nav = 'rootstocks'; const r = S.rsById.get(b); if (r) title = r.name + ' rootstock — Pomona'; }
-    else if (a === 'map') { renderMap(app, b, params); nav = 'map'; title = 'World map — Pomona'; }
-    else if (a === 'favourites') { renderFavourites(app); nav = 'favourites'; title = 'Favourites — Pomona'; }
-    else if (a === 'guide') { renderGuide(app); nav = 'guide'; title = 'Guide — Pomona'; }
+    else if (a === 'v') { renderVariety(app, b); nav = 'explore'; const v = S.byId.get(b); if (v) title = v.name + ' — Pomography'; }
+    else if (a === 'rootstocks') { renderRootstocks(app); nav = 'rootstocks'; title = 'Rootstocks — Pomography'; }
+    else if (a === 'r') { renderRootstock(app, b); nav = 'rootstocks'; const r = S.rsById.get(b); if (r) title = r.name + ' rootstock — Pomography'; }
+    else if (a === 'map') { renderMap(app, b, params); nav = 'map'; title = 'World map — Pomography'; }
+    else if (a === 'favourites') { renderFavourites(app); nav = 'favourites'; title = 'Favourites — Pomography'; }
+    else if (a === 'guide') { renderGuide(app); nav = 'guide'; title = 'Guide — Pomography'; }
     else app.innerHTML = '<div class="empty"><h2>Page not found</h2><p><a href="#/">Home</a></p></div>';
   } catch (err) {
     console.error(err);

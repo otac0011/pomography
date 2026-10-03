@@ -1,4 +1,4 @@
-# Brief: flavour verification pass (Pomona)
+# Brief: flavour verification pass (Pomography)
 
 The site lets people search apples by taste: Cox's Orange Pippin is floral / rose-water / pear-drop / honeyed;
 some apples carry vanilla, aniseed, pineapple, banana, strawberry, nutty notes. The first research pass recorded

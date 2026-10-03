@@ -1,6 +1,6 @@
-# Brief for region-notes agents (Pomona)
+# Brief for region-notes agents (Pomography)
 
-Pomona's world map shows ~135 reference places as pins. For each place the site computes the climate
+Pomography's world map shows ~135 reference places as pins. For each place the site computes the climate
 numbers itself from real weather data (chill hours, winter lows, frost at bloom, season length, rainfall
 and disease pressure). **Your job is the human knowledge the numbers cannot give:** what apple growing is
 really like there, written in your own words, so a hobby grower reading the panel learns something true.

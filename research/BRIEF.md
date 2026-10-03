@@ -1,6 +1,6 @@
-# Brief for variety-research agents (Pomona)
+# Brief for variety-research agents (Pomography)
 
-Pomona is a static website about heirloom and modern apple varieties, focused on the range grown by
+Pomography is a static website about heirloom and modern apple varieties, focused on the range grown by
 Keepers Nursery (Kent, UK; nursery manager Karim Habibi). Users browse varieties, learn about taste and
 growing habit, then click a world map to see how well their favourite apples would do in that climate.
 The data you write is the foundation, so **accuracy beats completeness**.

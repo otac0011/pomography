@@ -1,4 +1,4 @@
-# Pomona variety record schema
+# Pomography variety record schema
 
 One JSON object per variety. A data file is a JSON **array** of these objects
 (`data/varieties/<batch>-<letter>.json`). `tools/validate.py` checks every file

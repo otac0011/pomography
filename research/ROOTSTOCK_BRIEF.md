@@ -1,4 +1,4 @@
-# Brief for rootstock-research agents (Pomona)
+# Brief for rootstock-research agents (Pomography)
 
 Write detailed, accurate records for **apple** rootstocks. The site lets users compare precocity, vigour,
 disease resistance, soil and climate tolerance, and recommends rootstocks for a clicked place on a map.

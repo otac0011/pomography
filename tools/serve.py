@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dev server for Pomona: static files (no caching) + two local-only helpers used by tools/bake.html.
+"""Dev server for Pomography: static files (no caching) + two local-only helpers used by tools/bake.html.
 
     python tools/serve.py [port]          # default 8190
 
@@ -63,5 +63,5 @@ class T(socketserver.ThreadingMixIn, http.server.HTTPServer):
 
 
 if __name__ == "__main__":
-    print("Pomona dev server on http://localhost:%d/" % PORT)
+    print("Pomography dev server on http://localhost:%d/" % PORT)
     T(("127.0.0.1", PORT), H).serve_forever()

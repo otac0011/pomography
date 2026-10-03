@@ -1,7 +1,7 @@
 # Notices
 
 ## Not affiliated with Keepers Nursery
-Pomona is an independent project. It is not affiliated with, endorsed by or sourced from Keepers Nursery Ltd.
+Pomography is an independent project. It is not affiliated with, endorsed by or sourced from Keepers Nursery Ltd.
 
 * Keepers' copyright statement reserves their articles, descriptions, images and database. **None of their text,
   photographs or tables is reproduced here.** Variety *names* shown on their public catalogue pages were used to
@@ -11,7 +11,7 @@ Pomona is an independent project. It is not affiliated with, endorsed by or sour
   entries for *facts only* (parentage, year, picking time, flowering group, size, colour) and wrote the
   descriptions ourselves. See `research/patches/001-keepers-seedlings.json` and `docs/decisions/0003-*`.
   If Keepers Nursery would prefer these entries changed or removed, please open an issue.
-* Pomona links to Keepers for purchases; it sells nothing.
+* Pomography links to Keepers for purchases; it sells nothing.
 
 ## Data sources (facts only; all prose is original)
 National Fruit Collection (Brogdale / University of Reading / Defra), Orange Pippin, Wikipedia, Hogg's

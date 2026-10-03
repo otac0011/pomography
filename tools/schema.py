@@ -1,4 +1,4 @@
-"""Shared validation + normalisation for Pomona variety / rootstock / region records."""
+"""Shared validation + normalisation for Pomography variety / rootstock / region records."""
 import re
 
 TASTE_TAGS = [
