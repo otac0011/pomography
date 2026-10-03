@@ -38,21 +38,29 @@ export function renderGuide(app) {
     </section>
     <section class="card pad">
       <h2>How the scores work</h2>
-      <p>Each variety is compared with the place on six factors, each from 0 (hopeless) to 1 (ideal):</p>
+      <p>Each variety is compared with the place on seven factors, each from 0 (hopeless) to 1 (ideal):</p>
       <table class="dt"><tbody>
-        <tr><td><b>Winter chill</b> <span class="muted">(critical, weight ${WEIGHTS.chill})</span></td><td>Chill hours at the site vs. what the variety needs.</td></tr>
+        <tr><td><b>Winter chill</b> <span class="muted">(critical, weight ${WEIGHTS.chill})</span></td><td>Chill units at the site vs. what the variety needs.</td></tr>
         <tr><td><b>Winter cold</b> <span class="muted">(critical, ${WEIGHTS.hardiness})</span></td><td>Coldest-night zone of the site vs. the variety's hardiness zone.</td></tr>
         <tr><td><b>Ripening season</b> <span class="muted">(critical, ${WEIGHTS.season})</span></td><td>Growing degree-days between blossom and the first hard freeze vs. the warmth the variety needs, calibrated from its harvest date in south-east England.</td></tr>
-        <tr><td><b>Blossom frost</b> <span class="muted">(${WEIGHTS.frost})</span></td><td>How often frost fell inside the flowering window of its flowering group.</td></tr>
-        <tr><td><b>Summer heat</b> <span class="muted">(${WEIGHTS.heat})</span></td><td>Days of 32 °C or more vs. its heat tolerance, plus warm autumn nights for red-blushed apples.</td></tr>
-        <tr><td><b>Disease</b> <span class="muted">(${WEIGHTS.disease})</span></td><td>Local scab, canker, fire blight, mildew and rust pressure vs. its susceptibility to each.</td></tr>
+        <tr><td><b>Summer heat</b> <span class="muted">(critical, ${WEIGHTS.heat})</span></td><td>Days of 32 °C or more vs. its heat tolerance, plus warm autumn nights for red-blushed apples. A desert fails here whatever else is true.</td></tr>
+        <tr><td><b>Blossom frost</b> <span class="muted">(${WEIGHTS.frost})</span></td><td>How often damaging frost fell inside the flowering window of its flowering group.</td></tr>
+        <tr><td><b>Water</b> <span class="muted">(${WEIGHTS.water})</span></td><td>Growing-season rain as a share of what the trees would use. Low scores mean irrigation is essential.</td></tr>
+        <tr><td><b>Disease</b> <span class="muted">(${WEIGHTS.disease})</span></td><td>Local scab, canker, fire blight, mildew and rust pressure vs. its susceptibility to each (see below).</td></tr>
       </tbody></table>
       <p style="margin-top:10px">The score is the weighted average, then pulled down hard if any <i>critical</i> factor fails: a Cox cannot be saved by a lovely summer if the winters are too warm to chill it. Anything under 35 is marginal; under 15 is not viable.</p>
+    </section>
+    <section class="card pad wide">
+      <h2>What you get when you click anywhere</h2>
+      <p>The dots on the map are just reference places that were analysed in advance so the map opens with something on it. <b>Every spot on land can be clicked.</b> For a new spot, Pomona downloads ten years of daily weather for the surrounding 25 km grid cell (plus a short record of dew point and hours of rain), then works out everything below. Each line in the panel's <i>Climate</i> tab is labelled with where it came from:</p>
+      <p><span class="kind kind-measured">Measured</span> counted directly from the weather record (hot days, rainfall, elevation, humidity) &nbsp; <span class="kind kind-modelled">Modelled</span> an apple-specific index calculated from that weather (chill, bloom date, frost risk, leaf wetness, disease pressure) &nbsp; <span class="kind kind-regional">Regional</span> looked up by country or range, because weather cannot tell you whether a disease exists there (fire blight status, cedar-apple rust, a few pests) &nbsp; <span class="kind kind-assumed">Assumed</span> a default, such as a variety's unrecorded chill need &nbsp; <span class="kind kind-extrapolated">Extrapolated</span> blended from the nearest reference places because live weather could not be loaded.</p>
+      <p><b>Humidity and disease.</b> Disease pressure uses leaf wetness, not just rainfall: hours of dew (from the day's dew point) and rain together decide how many apple-scab infection periods occur in spring (after Mills' infection table). Fire blight uses a Maryblyt-style model of warm, wet blossom days; powdery mildew uses warm dry days after humid nights; European canker uses mild wet days from October to March. The <i>Regional</i> tab then says whether fire blight or cedar-apple rust exists there at all.</p>
+      <p><b>If the live weather service is busy</b> (it is free and rate-limited), the panel falls back to <span class="kind kind-extrapolated">extrapolated</span> values: an inverse-distance blend of up to four reference places in the same hemisphere within 1,500 km. The banner names them and their distances, and offers a retry.</p>
     </section>
     <section class="card pad">
       <h2>Where the numbers come from</h2>
       <ul>
-        <li><b>Weather:</b> ERA5 reanalysis (ECMWF/Copernicus) daily highs, lows and rain for 2015–2024, served free by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a>. Place names from BigDataCloud; map tiles &copy; OpenStreetMap contributors &copy; CARTO.</li>
+        <li><b>Weather:</b> ERA5 reanalysis (ECMWF/Copernicus) daily highs, lows and rain for 2015–2024 and dew point and rain hours for 2022–2024, served free by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a>. Place names from BigDataCloud; map tiles &copy; OpenStreetMap contributors &copy; CARTO.</li>
         <li><b>Chill</b> is counted in Utah-model units from daily highs/lows turned into hourly temperatures with a cosine day (checked against real hourly data, within ~4%). In very cold winters at least half the hours below 9 °C are counted, so freezing climates are not wrongly marked short of chill.</li>
         <li><b>Blossom date</b> is predicted from a heat sum fitted to known bloom dates in Kent, Paris, Michigan and Washington; <b>frost</b> uses a threshold calibrated because 25 km grid cells hide the coldest hollows.</li>
         <li><b>Variety and rootstock facts</b> were researched from public pomological sources (National Fruit Collection, Orange Pippin, university extension and breeder pages, Wikipedia) and written in our own words. Each variety shows a confidence level; <i>not recorded</i> means we found nothing reliable rather than guessing.</li>

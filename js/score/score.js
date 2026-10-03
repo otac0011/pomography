@@ -14,8 +14,8 @@ export function pw(x, pts) {
   return pts[pts.length - 1][1];
 }
 
-export const WEIGHTS = { chill: 3, hardiness: 3, season: 3, frost: 2, heat: 2, disease: 1.5 };
-const CRITICAL = ['chill', 'hardiness', 'season'];
+export const WEIGHTS = { chill: 3, hardiness: 3, season: 3, frost: 2, heat: 2, water: 1.2, disease: 1.5 };
+const CRITICAL = ['chill', 'hardiness', 'season', 'heat'];
 const HEAT_ALLOW = [3, 8, 15, 25, 40];           // days >= 32 C per year a variety of heat tolerance 1..5 shrugs off
 const SUSC_W = [0.03, 0.2, 0.5, 0.8, 1.0];       // susceptibility 1..5 -> weight
 
@@ -118,6 +118,18 @@ function fSeason(v, F, ctx) {
   return { f, text, harvest, shift, need: R };
 }
 
+function fWater(v, F) {
+  const ar = F.wet.aridity;
+  const f = pw(ar, [[0, 0.3], [0.25, 0.55], [0.5, 0.8], [0.8, 1]]);
+  const pct = Math.round(Math.min(1, ar) * 100);
+  let text;
+  if (ar >= 0.8) text = 'Growing-season rain (' + fmt(F.wet.gsPrecip) + ' mm) meets the water needs of the trees, so irrigation is not required.';
+  else if (ar >= 0.5) text = 'Growing-season rain covers about ' + pct + '% of the trees’ water needs: water young trees and dwarfing rootstocks in dry spells.';
+  else if (ar >= 0.25) text = 'Dry growing season: rain covers only about ' + pct + '% of the trees’ water needs, so regular irrigation is needed.';
+  else text = 'Arid: rain covers about ' + pct + '% of the water apples need. Apples can only be grown here with full irrigation (as in dry orchard districts such as Washington State or Xinjiang).';
+  return { f, text };
+}
+
 function fHeat(v, F) {
   let h = v.climate.heat_tolerance, est = false;
   if (h == null) { h = 3; est = true; }
@@ -140,14 +152,20 @@ function fHeat(v, F) {
   return { f, text: text + colourNote };
 }
 
+/**
+ * Disease pressure 0..1 for a place. Weather decides severity; the regional lookup (F.regional) decides whether a disease
+ * exists there at all. Humidity enters through leaf wetness (dew + rain hours) in the scab and rust infection counts and
+ * through humid nights in the mildew index.
+ */
 function pressures(F) {
-  const W = F.wet;
+  const W = F.wet, R = F.regional;
   const tempSuit = pw(W.springT, [[2, 0.3], [6, 1], [20, 1], [26, 0.4]]);
-  const scab = clamp((W.springWetDays - 10) / 30, 0, 1) * tempSuit;
-  const canker = clamp((W.cankerDays - 40) / 70, 0, 1) * (F.winter.extMinMean > -28 ? 1 : 0.6);
-  const mildew = clamp((W.mildewIdx - 0.25) / 0.35, 0, 1);
-  const fireBlight = clamp(W.fireBlightDays / 10, 0, 1);
-  const rust = F.flags && F.flags.rustRegion ? scab * 0.9 : 0;
+  const scab = clamp((W.scabEvents - 8) / 26, 0, 1) * tempSuit;
+  const canker = clamp((W.cankerDays - 25) / 60, 0, 1) * (F.winter.extMinMean > -28 ? 1 : 0.6);
+  const mildew = clamp((W.mildewIdx - 0.25) / 0.4, 0, 1);
+  const fbStatus = R ? R.fireBlight.status : 'unknown';
+  const fireBlight = clamp(W.fireBlightEvents / 4, 0, 1) * (fbStatus === 'absent' ? 0.1 : 1);
+  const rust = R && R.rust.present ? clamp((W.scabEvents - 6) / 22, 0, 1) * 0.9 : 0;
   return { scab, canker, mildew, fire_blight: fireBlight, rust };
 }
 export const sitePressures = pressures;
@@ -168,14 +186,26 @@ function fDisease(v, F) {
     if (P[k] >= 0.33 && s >= 3) issues.push({ k, pen, s, unrated, p: P[k] });
   }
   issues.sort((a, b) => b.pen - a.pen);
+  const W = F.wet, hum = F.humidity;
   let text;
   if (!issues.length) {
     const top = Object.keys(P).sort((a, b) => P[b] - P[a])[0];
     text = P[top] < 0.12 ? 'Disease pressure is light here.' : 'Disease pressure is modest and ' + v.name + ' has no major weak spot against it.';
   } else {
-    text = issues.slice(0, 3).map(i => cap(DNAME[i.k]) + ' pressure is ' + pressureWord(i.p) + ' here and ' + v.name + ' is ' + (i.s >= 5 ? 'very susceptible' : i.s >= 4 ? 'susceptible' : 'moderately susceptible') + (i.unrated ? ' (assumed)' : '') + '.').join(' ');
+    text = issues.slice(0, 3).map(i => cap(DNAME[i.k]) + ' pressure is ' + pressureWord(i.p) + ' here (' + driver(i.k, F) + ') and ' + v.name + ' is ' + (i.s >= 5 ? 'very susceptible' : i.s >= 4 ? 'susceptible' : 'moderately susceptible') + (i.unrated ? ' (assumed)' : '') + '.').join(' ');
   }
+  if (hum && hum.estimated) text += ' (Humidity is estimated from the temperature range here.)';
   return { f: prod, text, pressures: P };
+}
+/** One short phrase on what drives a disease at this place. */
+function driver(k, F) {
+  const W = F.wet;
+  if (k === 'scab') return '~' + Math.round(W.scabEvents) + ' infection periods in spring; leaves stay wet ~' + Math.round(W.lwdSpring) + ' h a day';
+  if (k === 'canker') return Math.round(W.cankerDays) + ' mild wet days from October to March';
+  if (k === 'mildew') return 'warm dry days after humid nights';
+  if (k === 'fire_blight') return '~' + (W.fireBlightEvents < 1 ? W.fireBlightEvents.toFixed(1) : Math.round(W.fireBlightEvents)) + ' warm wet blossom days a year' + (F.regional && F.regional.fireBlight.status === 'unknown' ? ', regional status unmapped' : '');
+  if (k === 'rust') return 'cedar-apple rust occurs here and spring is wet';
+  return '';
 }
 const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
 
@@ -185,9 +215,9 @@ export function scoreVariety(v, F, ctx) {
   if (F.noBloom) return { score: 0, label: 'Not viable', factors: [{ key: 'season', title: 'Season', f: 0, tone: 'bad', text: 'It never warms enough here (10-day mean of 10 °C) for apples to flower.', critical: true }], limiting: 'season' };
   const parts = {
     chill: fChill(v, F), hardiness: fHardiness(v, F), frost: fFrost(v, F), season: fSeason(v, F, ctx),
-    heat: fHeat(v, F), disease: fDisease(v, F),
+    heat: fHeat(v, F), water: fWater(v, F), disease: fDisease(v, F),
   };
-  const titles = { chill: 'Winter chill', hardiness: 'Winter cold', frost: 'Frost at blossom', season: 'Ripening season', heat: 'Summer heat', disease: 'Disease pressure' };
+  const titles = { chill: 'Winter chill', hardiness: 'Winter cold', frost: 'Frost at blossom', season: 'Ripening season', heat: 'Summer heat', water: 'Water', disease: 'Disease pressure' };
   let sw = 0, sf = 0;
   const factors = [];
   for (const k of Object.keys(parts)) {
@@ -218,7 +248,7 @@ export function siteProfile(F) {
   } else {
     const c = F.chill.mean;
     out.push({ title: 'Winter chill', tone: c >= 1200 ? 'good' : c >= 800 ? 'ok' : c >= 400 ? 'warn' : 'bad',
-      text: '~' + fmt(c) + ' chill units from November to March (' + fmt(F.chill.p20) + ' in a mild winter). ' + (c >= 1800 ? 'Satisfies even the highest-chill varieties.' : c >= 1000 ? 'Enough for most traditional varieties.' : c >= 600 ? 'Fine for medium and low-chill varieties; high-chill ones may struggle.' : 'Only low-chill varieties are realistic.') });
+      text: '~' + fmt(c) + ' Utah chill units from November to March (' + fmt(F.chill.p20) + ' in a mild winter)' + (F.chill.hours72 != null ? ', or about ' + fmt(F.chill.hours72) + ' hours below 7.2 °C (45 °F), the classic "chill hours" count' : '') + '. ' + (c >= 1800 ? 'Satisfies even the highest-chill varieties.' : c >= 1000 ? 'Enough for most traditional varieties.' : c >= 600 ? 'Fine for medium and low-chill varieties; high-chill ones may struggle.' : 'Only low-chill varieties are realistic.') });
     out.push({ title: 'Winter cold', tone: z.value >= 6 ? 'good' : z.value >= 4.5 ? 'ok' : z.value >= 3.5 ? 'warn' : 'bad',
       text: 'Coldest night in a typical winter ≈ ' + Math.round(F.winter.extMinMean) + ' °C (zone ' + z.label + '); the coldest in ' + F.period + ' reached ' + Math.round(F.winter.extMinAbs) + ' °C.' });
   }
@@ -229,17 +259,28 @@ export function siteProfile(F) {
     const days = F.season.days, g = F.season.gendMedian;
     out.push({ title: 'Growing season', tone: g >= 1700 ? 'good' : g >= 1300 ? 'ok' : g >= 900 ? 'warn' : 'bad',
       text: 'About ' + Math.round(days) + ' days from bloom to ' + (F.season.firstFreeze ? 'the first hard freeze (~' + F.season.firstFreeze + ')' : 'the end of the season') + ', accumulating ~' + fmt(g) + ' growing degree-days (base 5 °C). ' + (g >= 1800 ? 'Late-ripening varieties are comfortable.' : g >= 1400 ? 'Early to late-mid varieties ripen reliably.' : g >= 1000 ? 'Choose early and mid-season varieties.' : 'Only the earliest varieties will ripen.') });
+    if (F.frostFreeDays != null) {
+      const ffd = F.frostFreeDays;
+      out.push({ title: 'Frost-free season', tone: ffd >= 200 ? 'good' : ffd >= 150 ? 'ok' : ffd >= 110 ? 'warn' : 'bad',
+        text: 'About ' + Math.round(ffd) + ' days between the last spring and first autumn frost (last spring frost ~' + F.frost.lastSpring + ')' + (F.snowDays >= 1 ? '; roughly ' + Math.round(F.snowDays) + ' days a year bring snow.' : '; snow is rare.') });
+    }
     const hot = F.heat.hot32;
     out.push({ title: 'Summer heat', tone: hot < 3 ? 'good' : hot < 12 ? 'ok' : hot < 30 ? 'warn' : 'bad',
       text: 'Hottest month averages ' + Math.round(F.heat.tmaxHot) + ' °C highs; ' + (hot < 1 ? 'days of 32 °C+ are rare.' : 'about ' + Math.round(hot) + ' days a year reach 32 °C or more.') });
     const P = pressures(F);
     const bits = [];
     for (const k of ['scab', 'canker', 'fire_blight', 'mildew', 'rust']) if (P[k] >= 0.33) bits.push(DNAME[k] + ' (' + pressureWord(P[k]) + ')');
-    out.push({ title: 'Wetness & disease', tone: bits.length === 0 ? 'good' : bits.length <= 1 ? 'ok' : 'warn',
-      text: fmt(F.pann) + ' mm rain a year; ' + Math.round(F.wet.springWetDays) + ' wet days around blossom. ' + (bits.length ? 'Watch for ' + bits.join(', ') + '.' : 'Disease pressure is generally low.') });
+    const rh = F.humidity;
+    if (rh) {
+      const g = rh.gs;
+      out.push({ title: 'Humidity & leaf wetness', tone: g < 60 ? 'good' : g < 72 ? 'ok' : g < 80 ? 'warn' : 'bad',
+        text: 'Relative humidity averages ~' + Math.round(g) + '% through the growing season' + (rh.estimated ? ' (estimated from the temperature range)' : '') + '. In spring, leaves stay wet ~' + Math.round(F.wet.lwdSpring) + ' hours a day from dew and rain, enough for ~' + Math.round(F.wet.scabEvents) + ' scab infection periods between early bloom and early summer.' });
+    }
+    out.push({ title: 'Disease pressure', tone: bits.length === 0 ? 'good' : bits.length <= 1 ? 'ok' : 'warn',
+      text: fmt(F.pann) + ' mm of rain a year. ' + (bits.length ? 'Watch for ' + bits.join(', ') + '.' : 'Disease pressure is generally low.') + (F.regional ? ' ' + F.regional.fireBlight.note + ' ' + F.regional.rust.note : '') });
     const ar = F.wet.aridity;
-    out.push({ title: 'Water', tone: ar >= 1 ? 'good' : ar >= 0.6 ? 'ok' : ar >= 0.3 ? 'warn' : 'bad',
-      text: ar >= 1 ? 'Growing-season rain covers the trees\' needs; irrigation is unnecessary.' : ar >= 0.6 ? 'Rain covers most of the trees\' needs; water young trees in dry spells.' : ar >= 0.3 ? 'Dry growing season: irrigation will be needed, especially on dwarfing rootstocks.' : 'Arid: apples need regular irrigation (and probably mulching) to survive.' });
+    out.push({ title: 'Water', tone: ar >= 0.8 ? 'good' : ar >= 0.5 ? 'ok' : ar >= 0.25 ? 'warn' : 'bad',
+      text: ar >= 0.8 ? 'Growing-season rain covers the water the trees need; irrigation is unnecessary.' : ar >= 0.5 ? 'Rain covers most of what the trees need; water young trees in dry spells.' : ar >= 0.25 ? 'Dry growing season: irrigation will be needed, especially on dwarfing rootstocks.' : 'Arid: apples need full irrigation (and probably mulching) to survive.' });
   } else {
     out.push({ title: 'Spring', tone: 'bad', text: 'It never warms to a 10-day mean of 10 °C, so apple trees would not flower.' });
   }

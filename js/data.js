@@ -1,5 +1,6 @@
 // Data loading, favourites, and derived helpers shared by every view.
 import { makeContext } from './score/score.js';
+import { regionalFor } from './climate/regional.js';
 
 export const S = { data: null, byId: new Map(), rsById: new Map(), regionById: new Map(), presets: {}, ctx: null, ready: null };
 
@@ -49,6 +50,7 @@ export function load() {
     for (const r of data.rootstocks) S.rsById.set(r.id, r);
     for (const r of data.regions) S.regionById.set(r.id, r);
     S.presets = presets;
+    for (const r of data.regions) if (presets[r.id]) presets[r.id].regional = regionalFor(r.lat, r.lon, r.country);
     S.ctx = presets.kent ? makeContext(presets.kent) : null;
     try { favs = JSON.parse(localStorage.getItem(FAV_KEY) || '[]').filter(id => S.byId.has(id)); } catch (e) { favs = []; }
     return S;

@@ -4,6 +4,8 @@ import { appleSVG, scoreRing, bar, toneOf, chips } from './widgets.js';
 import { scoreVariety, rankVarieties, siteProfile, rootstockAdvice, labelOf, pressureWord, sitePressures } from '../score/score.js';
 import { climateFor, fallbackFor, reverseGeocode, ClimateError } from '../climate/fetch.js';
 import { MONTH_NAMES } from '../climate/features.js';
+import { regionalFor } from '../climate/regional.js';
+import { haversine, nearestPreset } from '../data.js';
 
 let map = null, pinLayer = null, selMarker = null, pins = new Map(), token = 0, sel = null, tab = 'apples', offFavs = null, friendly = null;
 const SETS = [
@@ -60,14 +62,17 @@ export function renderMap(app, regionId, params) {
   const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 12 });
   const topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { attribution: 'Map data &copy; OpenStreetMap contributors, SRTM | Style &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (CC-BY-SA)', subdomains: 'abc', maxZoom: 12 });
   osm.addTo(map);
-  L.control.layers({ 'Street map': osm, 'Terrain': topo }, null, { position: 'topright', collapsed: true }).addTo(map);
   pinLayer = L.layerGroup().addTo(map);
+  L.control.layers({ 'Street map': osm, 'Terrain': topo }, { 'Reference places (pre-computed dots)': pinLayer }, { position: 'topright', collapsed: true }).addTo(map);
   drawPins();
+  const hint = L.control({ position: 'topleft' });
+  hint.onAdd = () => { const d = L.DomUtil.create('div', 'map-hint'); d.id = 'maphint'; d.innerHTML = '<b>Click anywhere</b> on the map &mdash; any spot on land gets its own climate analysis. The small dots are just pre-computed reference places.'; return d; };
+  hint.addTo(map);
   const legend = L.control({ position: 'bottomleft' });
   legend.onAdd = () => { const d = L.DomUtil.create('div', 'legend-box'); d.id = 'legend'; return d; };
   legend.addTo(map);
   updateLegend();
-  map.on('click', e => selectPoint(e.latlng.lat, e.latlng.lng));
+  map.on('click', e => { const h = document.getElementById('maphint'); if (h) h.classList.add('quiet'); selectPoint(e.latlng.lat, e.latlng.lng); });
   offFavs = onFavs(() => { drawSide(); recolour(); updateLegend(); if (sel) renderPanel(); });
   setTimeout(() => map && map.invalidateSize(), 60);
   if (regionId) {
@@ -86,7 +91,7 @@ function drawPins() {
   pins.clear(); pinLayer.clearLayers();
   for (const r of S.data.regions) {
     if (!S.presets[r.id]) continue;
-    const m = L.circleMarker([r.lat, r.lon], { radius: 7, weight: 2, color: '#fff', fillColor: colour(pinScore(r)), fillOpacity: .95 });
+    const m = L.circleMarker([r.lat, r.lon], { radius: 5, weight: 1.5, color: '#fff', fillColor: colour(pinScore(r)), fillOpacity: .9 });
     m.on('click', e => { L.DomEvent.stopPropagation(e); selectRegion(r.id); });
     pinLayer.addLayer(m); pins.set(r.id, m);
   }
@@ -156,15 +161,20 @@ function panelLoading(msg) {
 
 export async function selectRegion(id) {
   const r = S.regionById.get(id); if (!r) return;
-  const my = ++token;
+  ++token;
   showSel(r.lat, r.lon); setHash(id);
-  sel = { lat: r.lat, lon: r.lon, name: r.name, region: r, F: S.presets[id], source: 'preset' };
-  tab = tab === 'local' ? 'local' : tab;
+  sel = { lat: r.lat, lon: r.lon, name: r.name, region: r, F: S.presets[id], source: 'preset', country: r.country };
   renderPanel();
+}
+
+/** Attach the regional (presence/absence) factors, which depend on the country rather than on weather. */
+function withRegional(F, lat, lon, cc) {
+  return F.regional && F.regional.country === (cc || F.regional.country) ? F : Object.assign({}, F, { regional: regionalFor(lat, lon, cc) });
 }
 
 export async function selectPoint(lat, lon) {
   const my = ++token;
+  lon = ((lon + 540) % 360) - 180;
   showSel(lat, lon); setHash('@' + lat.toFixed(3) + ',' + lon.toFixed(3));
   panelLoading('Looking up this place…');
   const ac = new AbortController(); const to = setTimeout(() => ac.abort(), 3500);
@@ -182,9 +192,20 @@ export async function selectPoint(lat, lon) {
     err = e; res = fallbackFor(lat, lon);
   }
   if (my !== token) return;
-  if (!res) { document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><div class="note bad">${esc(err ? err.message : 'No climate data available.')}</div></div>`; wireClose(); return; }
-  sel = { lat, lon, name: res.region && res.source === 'preset' ? res.region.name : (geo && geo.label) || 'Selected spot', region: res.region || null, F: res.F, source: res.source, err, distanceKm: res.distanceKm, geoLabel: geo && geo.label };
-  tab = tab === 'local' && !sel.region ? 'apples' : tab;
+  if (!res) {
+    document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><div class="note bad"><b>No climate data for this spot.</b> ${esc(err ? err.message : '')} It is also more than 1,500 km from every pre-computed reference place, so nothing could be extrapolated. <button class="btn sm" data-retry>Try again</button></div></div>`;
+    wireClose(); const rb = document.querySelector('#placepanel [data-retry]'); if (rb) rb.onclick = () => selectPoint(lat, lon); return;
+  }
+  const cc = geo && geo.country;
+  const F = res.source === 'preset' ? res.F : withRegional(res.F, lat, lon, cc);
+  const np = nearestPreset(lat, lon);
+  sel = {
+    lat, lon, name: res.region && res.source === 'preset' ? res.region.name : (geo && geo.label) || 'Selected spot',
+    region: res.region || null, F, source: res.source, err, country: cc || (res.region && res.region.country) || F.regional.country,
+    nearest: np && np.d <= 800 ? np : null,
+    cellKm: res.source === 'live' || res.source === 'cache' ? Math.round(haversine(lat, lon, F.lat, F.lon)) : null,
+  };
+  if (tab === 'local' && !sel.region && !sel.nearest) tab = 'apples';
   renderPanel();
 }
 
@@ -194,31 +215,40 @@ function wireClose() {
 }
 
 // ---------------------------------------------------------------- panel
-const TABS = [['apples', 'Your apples'], ['best', 'Best here'], ['climate', 'Climate'], ['rootstocks', 'Rootstocks'], ['local', 'Local notes']];
+const TABS = [['apples', 'Your apples'], ['best', 'Best here'], ['climate', 'Climate'], ['regional', 'Regional'], ['rootstocks', 'Rootstocks'], ['local', 'Local notes']];
+
+function sourceBanner() {
+  const F = sel.F;
+  if (sel.source === 'preset') return `<div class="prov prov-measured"><b>Measured &amp; modelled.</b> Reference place with ten years of real weather (${esc(F.period || '2015–2024')}).</div>`;
+  if (sel.source === 'live' || sel.source === 'cache') {
+    const cell = sel.cellKm != null ? ` The weather comes from the 25 km grid cell centred ${sel.cellKm < 3 ? 'on this spot' : sel.cellKm + ' km from your click'}.` : '';
+    return `<div class="prov prov-measured"><b>Measured &amp; modelled for this exact spot.</b> Ten years of daily weather (${esc(F.period || '2015–2024')}${sel.source === 'cache' ? ', cached' : ''}) fed through the apple models.${cell}</div>`;
+  }
+  const x = F.extrapolated;
+  return `<div class="prov prov-extrap"><b>Extrapolated, not measured here.</b> Live weather could not be loaded${sel.err ? ' (' + esc(sel.err.message) + ')' : ''}, so these numbers are blended from the nearest reference places: ${x.from.map(f => esc(f.name) + ' ' + f.km + ' km').join('; ')}. Terrain, elevation and local frost pockets are not captured. <button class="btn sm" data-retry>Try live data again</button></div>`;
+}
 
 function renderPanel() {
   if (!sel) return;
   const p = document.getElementById('placepanel'); if (!p) return;
   const F = sel.F;
-  const sourceNote = sel.source === 'preset' ? `Reference place &middot; weather ${esc(F.period || '2015–2024')}`
-    : sel.source === 'nearest' ? `<span class="tone-warn">Live weather unavailable (${esc(sel.err ? sel.err.message : '')}) &mdash; showing the nearest reference place, ${sel.distanceKm} km away.</span>`
-    : `Live ERA5 weather ${esc(F.period || '2015–2024')}${sel.source === 'cache' ? ' (cached)' : ''}`;
   const place = sel.region && sel.source === 'nearest' ? 'Near ' + sel.region.name : sel.name;
-  const tabs = TABS.filter(([k]) => k !== 'local' || sel.region);
+  const tabs = TABS.filter(([k]) => k !== 'local' || sel.region || sel.nearest);
   p.innerHTML = `
     <div class="ppad" style="padding-bottom:6px">
       <div class="row" style="align-items:flex-start"><div style="flex:1"><h3 style="margin:0">${esc(place)}</h3>
-      <div class="small muted">${sel.lat.toFixed(2)}&deg;, ${sel.lon.toFixed(2)}&deg;${F.elev != null ? ' &middot; ' + fmtInt(F.elev) + ' m' : ''}${F.koppen ? ' &middot; ' + esc(F.koppen.name) + ' (' + esc(F.koppen.code) + ')' : ''}</div>
-      <div class="tiny muted">${sourceNote}</div></div><button class="btn sm" data-close aria-label="Close panel">&times;</button></div>
+      <div class="small muted">${sel.lat.toFixed(2)}&deg;, ${sel.lon.toFixed(2)}&deg;${F.elev != null ? ' &middot; ' + fmtInt(F.elev) + ' m' : ''}${F.koppen ? ' &middot; ' + esc(F.koppen.name) + ' (' + esc(F.koppen.code) + ')' : ''}</div></div><button class="btn sm" data-close aria-label="Close panel">&times;</button></div>
+      ${sourceBanner()}
     </div>
     <div class="tabs" role="tablist">${tabs.map(([k, l]) => `<button role="tab" aria-selected="${tab === k}" class="${tab === k ? 'on' : ''}" data-tab="${k}">${l}</button>`).join('')}</div>
     <div class="ppad" id="tabbody"></div>`;
   wireClose();
+  const rb = p.querySelector('[data-retry]'); if (rb) rb.onclick = () => selectPoint(sel.lat, sel.lon);
   p.querySelector('.tabs').onclick = e => { const b = e.target.closest('[data-tab]'); if (b) { tab = b.dataset.tab; renderPanel(); } };
   const body = p.querySelector('#tabbody');
   if (F.error) { body.innerHTML = '<div class="note bad">Not enough weather data for this point.</div>'; return; }
   if (!tabs.some(([k]) => k === tab)) tab = 'apples';
-  ({ apples: tApples, best: tBest, climate: tClimate, rootstocks: tRoot, local: tLocal })[tab](body);
+  ({ apples: tApples, best: tBest, climate: tClimate, regional: tRegional, rootstocks: tRoot, local: tLocal })[tab](body);
 }
 
 function factorHTML(f) {
@@ -226,7 +256,7 @@ function factorHTML(f) {
 }
 function scoreRow(v, s, extra = '') {
   const first = s.factors && s.factors.length;
-  return `<div class="scorerow" data-open="${esc(v.id)}" tabindex="0" role="button" aria-expanded="false">${scoreRing(s.score)}<div style="flex:1;min-width:0"><h4>${esc(v.name)}</h4><div class="small muted">${esc(s.label)}${s.harvest ? ' &middot; ripens ~' + esc(s.harvest) : ''}${s.limiting ? ' &middot; limited by <b>' + esc(({ chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', disease: 'disease' })[s.limiting]) + '</b>' : ''}</div></div>${extra}</div>
+  return `<div class="scorerow" data-open="${esc(v.id)}" tabindex="0" role="button" aria-expanded="false">${scoreRing(s.score)}<div style="flex:1;min-width:0"><h4>${esc(v.name)}</h4><div class="small muted">${esc(s.label)}${s.harvest ? ' &middot; ripens ~' + esc(s.harvest) : ''}${s.limiting ? ' &middot; limited by <b>' + esc(({ chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply', disease: 'disease' })[s.limiting]) + '</b>' : ''}</div></div>${extra}</div>
   ${first ? `<div class="factors">${s.factors.map(factorHTML).join('')}<p class="small"><a href="#/v/${esc(v.id)}">Full profile of ${esc(v.name)} &rarr;</a></p></div>` : ''}`;
 }
 function wireRows(body) {
@@ -289,25 +319,72 @@ function chart(F) {
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Monthly climate chart: temperatures and rainfall">${g}</svg>`;
 }
 
+const KIND = {
+  measured: ['Measured', 'Counted directly from weather records for this spot'],
+  modelled: ['Modelled', 'An apple-specific index calculated from the measured weather'],
+  regional: ['Regional', 'Looked up from a country or range map; not measured at this spot'],
+  assumed: ['Assumed', 'A default or estimate used because no record was available'],
+  extrapolated: ['Extrapolated', 'Blended from nearby places; not measured at this spot'],
+};
+const kindBadge = k => `<span class="kind kind-${k}" title="${esc(KIND[k][1])}">${KIND[k][0]}</span>`;
+
+function provenanceTable(F) {
+  const ex = sel.source === 'extrapolated';
+  const m = ex ? 'extrapolated' : 'measured', d = ex ? 'extrapolated' : 'modelled';
+  const R = F.regional, W = F.wet, P = F.noBloom ? null : sitePressures(F);
+  const row = (name, val, kind) => `<tr><td>${name}</td><td>${val}</td><td>${kindBadge(kind)}</td></tr>`;
+  const rows = [
+    row('Daily temperature and rain', ex ? 'blended from ' + F.extrapolated.from.length + ' places' : esc(F.period) + ', 25 km ERA5 grid cell', m),
+    row('Elevation', F.elev != null ? fmtInt(F.elev) + ' m (terrain model)' : 'not known', F.elev != null ? m : 'assumed'),
+    row('Humidity and dew point', F.humidity ? (F.humidity.estimated ? 'estimated from the temperature range' : 'RH ~' + Math.round(F.humidity.gs) + '% in the growing season') : '–', F.humidity && F.humidity.estimated ? 'assumed' : m),
+  ];
+  if (!F.noBloom) {
+    rows.push(
+      row('Winter chill', fmtInt(F.chill.mean) + ' Utah units (' + fmtInt(F.chill.p20) + ' in a mild winter)' + (F.chill.hours72 != null ? '; ' + fmtInt(F.chill.hours72) + ' h below 7.2 °C' : ''), d),
+      row('Coldest nights / hardiness zone', F.winter.extMinMean.toFixed(0) + ' °C / zone ' + esc(F.winter.zone.label), d),
+      row('Full bloom, mid-season varieties', esc(F.bloom.label) + ' ±' + Math.round(F.bloom.sd) + ' days', d),
+      row('Blossom frost chance (groups 1–7)', F.frost.p.map(x => Math.round(x * 100) + '%').join(' '), d),
+      row('Growing degree-days, bloom to freeze', fmtInt(F.season.gendMedian) + ' (base 5 °C); first hard freeze ' + esc(F.season.firstFreeze || 'none'), d),
+      row('Frost-free season / snow days', (F.frostFreeDays != null ? Math.round(F.frostFreeDays) + ' days / ' + Math.round(F.snowDays || 0) + ' days' : '–'), m),
+      row('Days at or above 32 °C a year', F.heat.hot32.toFixed(1), m),
+      row('Rain: year / growing season', fmtInt(F.pann) + ' / ' + fmtInt(W.gsPrecip) + ' mm', m),
+      row('Water balance (rain / crop demand)', Math.round(Math.min(9.99, W.aridity) * 100) + '%', d),
+      row('Leaf wetness in spring', '~' + Math.round(W.lwdSpring) + ' h a day; ~' + Math.round(W.scabEvents) + ' scab infection periods', d),
+      row('Apple scab, canker, mildew pressure', ['scab', 'canker', 'mildew'].map(k => pressureWord(P[k])).join(' / '), d),
+      row('Fire blight: weather risk', '~' + (W.fireBlightEvents < 1 ? W.fireBlightEvents.toFixed(1) : Math.round(W.fireBlightEvents)) + ' warm wet blossom days a year (' + pressureWord(P.fire_blight) + ')', d),
+    );
+  }
+  rows.push(
+    row('Fire blight: is it present?', R ? esc(R.fireBlight.status === 'present' ? 'present in ' + (R.country || 'this country') : R.fireBlight.status === 'absent' ? 'not known in ' + (R.country || 'this country') : 'not mapped; assumed present') : '–', R && R.fireBlight.status === 'unknown' ? 'assumed' : 'regional'),
+    row('Cedar-apple rust: is it present?', R ? (R.rust.present ? 'yes (eastern North America)' : 'no') : '–', 'regional'),
+    row('Variety traits used in the scores', 'where a variety\'s chill need, hardiness, flowering group or harvest date is unrecorded, a default is used and the reason says "assumed"', 'assumed'),
+  );
+  return `<table class="dt prov-table"><thead><tr><th>Factor</th><th>Value here</th><th>Basis</th></tr></thead><tbody>${rows.join('')}</tbody></table>
+    <p class="tiny muted" style="margin-top:6px">${Object.keys(KIND).map(k => kindBadge(k) + ' ' + esc(KIND[k][1].toLowerCase())).join('<br>')}</p>`;
+}
+
 function tClimate(body) {
   const F = sel.F, prof = siteProfile(F);
-  const P = F.noBloom ? null : sitePressures(F);
   body.innerHTML = `${chart(F)}
     <div class="siteprof" style="margin-top:10px">${prof.map(p => `<div class="sp ${p.tone}"><i></i><div><b>${esc(p.title)}</b><span>${esc(p.text)}</span></div></div>`).join('')}</div>
-    ${F.noBloom ? '' : `<details style="margin-top:14px"><summary class="small">The numbers behind this</summary>
-    <table class="dt" style="margin-top:8px"><tbody>
-    <tr><td>Chill units (Utah-style, Nov–Mar)</td><td>${fmtInt(F.chill.mean)} (mild winter ${fmtInt(F.chill.p20)})</td></tr>
-    <tr><td>Mean coldest night / zone</td><td>${F.winter.extMinMean.toFixed(1)} °C / ${esc(F.winter.zone.label)}</td></tr>
-    <tr><td>Full bloom (mid-season varieties)</td><td>${esc(F.bloom.label)} ±${Math.round(F.bloom.sd)} d</td></tr>
-    <tr><td>Blossom frost chance by flowering group 1–7</td><td>${F.frost.p.map(x => Math.round(x * 100) + '%').join(' ')}</td></tr>
-    <tr><td>Growing degree-days, bloom to freeze</td><td>${fmtInt(F.season.gendMedian)} (base 5 °C)</td></tr>
-    <tr><td>First hard freeze</td><td>${esc(F.season.firstFreeze || 'none recorded')}</td></tr>
-    <tr><td>Days ≥ 32 °C per year</td><td>${F.heat.hot32.toFixed(1)}</td></tr>
-    <tr><td>Annual rain / growing-season rain</td><td>${fmtInt(F.pann)} / ${fmtInt(F.wet.gsPrecip)} mm</td></tr>
-    <tr><td>Wet days around blossom</td><td>${Math.round(F.wet.springWetDays)} of 80</td></tr>
-    <tr><td>Pressure: scab / canker / fire blight / mildew</td><td>${['scab', 'canker', 'fire_blight', 'mildew'].map(k => pressureWord(P[k])).join(' / ')}</td></tr>
-    </tbody></table></details>`}
+    <h4 style="margin-top:16px">Where each number comes from</h4>
+    ${provenanceTable(F)}
     <p class="tiny muted" style="margin-top:12px">ERA5 grid cells are ~25 km wide: they smooth out frost hollows, hills and lake shores, so local frost is usually worse than shown on low, sheltered ground and chill can differ on hills. Treat scores as a regional guide, not a guarantee.</p>`;
+}
+
+function tRegional(body) {
+  const F = sel.F, R = F.regional;
+  if (!R) { body.innerHTML = '<p class="muted">Regional data unavailable.</p>'; return; }
+  const P = F.noBloom ? null : sitePressures(F);
+  const fbTone = R.fireBlight.status === 'absent' ? 'good' : R.fireBlight.status === 'present' ? 'warn' : 'ok';
+  body.innerHTML = `<p class="small muted">Some risks depend on <i>where you are</i> rather than on the weather: whether a disease exists in the region at all. These come from coarse country and range maps. Weather then decides how bad they get.</p>
+    <div class="siteprof">
+      <div class="sp ${fbTone}"><i></i><div><b>Fire blight ${kindBadge('regional')}</b><span>${esc(R.fireBlight.note)}${P ? ' Weather-driven pressure here: <b>' + pressureWord(P.fire_blight) + '</b>.' : ''}</span></div></div>
+      <div class="sp ${R.rust.present ? 'warn' : 'good'}"><i></i><div><b>Cedar-apple rust ${kindBadge('regional')}</b><span>${esc(R.rust.note)}${P && R.rust.present ? ' Pressure this wet-spring pattern allows: <b>' + pressureWord(P.rust) + '</b>.' : ''}</span></div></div>
+      ${R.pests.map(x => `<div class="sp ok"><i></i><div><b>${esc(x.name)} ${kindBadge('regional')}</b><span>${esc(x.note)}</span></div></div>`).join('')}
+      ${P ? `<div class="sp ok"><i></i><div><b>Weather-driven diseases here ${kindBadge(sel.source === 'extrapolated' ? 'extrapolated' : 'modelled')}</b><span>Apple scab: <b>${pressureWord(P.scab)}</b> &middot; European canker: <b>${pressureWord(P.canker)}</b> &middot; powdery mildew: <b>${pressureWord(P.mildew)}</b>. These follow from leaf wetness, humidity and temperature in the climate record.</span></div></div>` : ''}
+    </div>
+    <p class="tiny muted" style="margin-top:12px">Country detected: ${esc(R.country ? countryName(R.country) : 'unknown')}. Plant-health rules (restrictions on moving trees or fruit) also vary by region; check with your national plant-health authority before ordering.</p>`;
 }
 
 function tRoot(body) {
@@ -318,12 +395,15 @@ function tRoot(body) {
 }
 
 function tLocal(body) {
-  const r = sel.region;
-  if (!r || !r.summary) { body.innerHTML = '<p class="muted">No local notes for this place yet.</p>'; return; }
-  const near = sel.source === 'nearest' ? `<div class="note">These notes are for the nearest reference place, ${esc(r.name)}.</div>` : '';
+  let r = sel.region, nearNote = '';
+  if ((!r || !r.summary) && sel.nearest) {
+    r = sel.nearest.region;
+    nearNote = `<div class="note warn"><b>Context from a nearby place.</b> These notes were written for ${esc(r.name)}, ${sel.nearest.d < 5 ? 'right here' : Math.round(sel.nearest.d) + ' km away'}; your spot may differ. <a href="#/map/${esc(r.id)}">Open that reference place</a>.</div>`;
+  }
+  if (!r || !r.summary) { body.innerHTML = '<p class="muted">No local notes within 800 km of this spot.</p>'; return; }
   const vs = (r.variety_ids || []).map(id => S.byId.get(id)).filter(Boolean);
   const free = (r.local_varieties || []).filter(n => !vs.some(v => v.name.toLowerCase() === n.toLowerCase()));
-  body.innerHTML = `${near}<h4>Climate for apples</h4><p>${esc(r.summary)}</p><h4>Apple culture</h4><p>${esc(r.apple_culture)}</p>
+  body.innerHTML = `${nearNote}<h4>Climate for apples</h4><p>${esc(r.summary)}</p><h4>Apple culture</h4><p>${esc(r.apple_culture)}</p>
     ${(vs.length || free.length) ? `<h4>Varieties linked with this place</h4><div>${vs.map(v => `<a class="chip" href="#/v/${esc(v.id)}">${esc(v.name)}</a>`).join('')}${free.map(n => `<span class="chip">${esc(n)}</span>`).join('')}</div>` : ''}
     <h4>Pests &amp; diseases</h4><p>${esc(r.pests_diseases)}</p><h4>Tips for growers</h4><p>${esc(r.tips)}</p>
     <p class="tiny muted">Notes written for this atlas; confidence: ${esc(r.confidence || '?')}.</p>`;

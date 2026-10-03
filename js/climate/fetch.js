@@ -1,9 +1,11 @@
 // Live climate lookup for an arbitrary map click: Open-Meteo archive (ERA5) -> features. Cached; degrades gracefully.
-import { computeFeatures, compactFeatures } from './features.js';
+import { computeFeatures, compactFeatures, humidityClimatology } from './features.js';
+import { extrapolate } from './extrapolate.js';
 import { S, haversine, nearestPreset } from '../data.js';
 
 const START = '2015-01-01', END = '2024-12-31';
-const LS = 'pomona.climate.v2';
+const LS = 'pomona.climate.v3';
+const HUM = { start: '2022-01-01', end: '2024-12-31' };
 const mem = new Map();
 let inflight = null;
 
@@ -47,8 +49,11 @@ export async function climateFor(lat, lon, { preferPreset = true } = {}) {
 
   if (inflight) inflight.abort();
   const ac = inflight = new AbortController();
-  const url = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat.toFixed(3)}&longitude=${lon.toFixed(3)}&start_date=${START}&end_date=${END}` +
-    `&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&models=era5&timezone=auto`;
+  const base = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat.toFixed(3)}&longitude=${lon.toFixed(3)}&models=era5&timezone=auto`;
+  const url = base + `&start_date=${START}&end_date=${END}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum`;
+  const humUrl = base + `&start_date=${HUM.start}&end_date=${HUM.end}&daily=temperature_2m_min,precipitation_sum,dew_point_2m_mean,precipitation_hours`;
+  // the humidity record is a nice-to-have: if it fails the features fall back to an estimate and say so
+  const humP = fetch(humUrl, { signal: ac.signal }).then(r => r.ok ? r.json() : null).catch(() => null);
   let resp;
   try {
     resp = await fetch(url, { signal: ac.signal });
@@ -64,15 +69,21 @@ export async function climateFor(lat, lon, { preferPreset = true } = {}) {
   const x = d.daily;
   const nulls = x.temperature_2m_max.filter(v => v == null).length;
   if (nulls > x.time.length * 0.3) throw new ClimateError('nodata', 'No land weather data at this point (open sea?).');
-  const F = computeFeatures({ lat: d.latitude, lon: d.longitude, elevation: d.elevation, start: x.time[0], tmax: x.temperature_2m_max, tmin: x.temperature_2m_min, prcp: x.precipitation_sum });
+  let humClim = null;
+  const hd = await humP;
+  if (hd && hd.daily && hd.daily.dew_point_2m_mean) {
+    const h = hd.daily;
+    humClim = humidityClimatology({ start: h.time[0], tmin: h.temperature_2m_min, prcp: h.precipitation_sum, dew: h.dew_point_2m_mean, ph: h.precipitation_hours });
+  }
+  const F = computeFeatures({ lat: d.latitude, lon: d.longitude, elevation: d.elevation, start: x.time[0], tmax: x.temperature_2m_max, tmin: x.temperature_2m_min, prcp: x.precipitation_sum, humClim });
   F.reqLat = lat; F.reqLon = lon;
   const C = compactFeatures(F);
   remember(k, C);
   return { F: C, source: 'live' };
 }
 
-/** Fallback when live data is unavailable: the nearest baked reference place, with its distance. */
+/** Fallback when live data is unavailable: features extrapolated from the surrounding reference places (null if none is near). */
 export function fallbackFor(lat, lon) {
-  const np = nearestPreset(lat, lon);
-  return np ? { F: S.presets[np.region.id], source: 'nearest', region: np.region, distanceKm: Math.round(np.d) } : null;
+  const F = extrapolate(lat, lon);
+  return F ? { F, source: 'extrapolated' } : null;
 }

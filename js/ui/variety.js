@@ -68,6 +68,7 @@ export function renderVariety(app, id) {
     </div>
   </section>
 
+  ${v.conf === 'low' ? `<div class="note warn"><b>Sparsely documented.</b> We found little reliable information about ${esc(v.name)}; fields shown as "not recorded" are unknown rather than zero, and climate scores for it use assumed values (marked as such).</div>` : ''}
   <div class="sections">
     <section class="card pad wide">
       <h2>Taste</h2>

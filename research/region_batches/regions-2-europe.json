@@ -87,8 +87,8 @@
    "id": "hardanger",
    "name": "Hardanger (Norway)",
    "country": "NO",
-   "lat": 60.4,
-   "lon": 6.6,
+   "lat": 60.34,
+   "lon": 6.66,
    "group": "Northern & Central Europe",
    "kind": "commercial"
   },
@@ -141,8 +141,8 @@
    "id": "thurgau",
    "name": "Thurgau (Switzerland)",
    "country": "CH",
-   "lat": 47.55,
-   "lon": 9.0,
+   "lat": 47.57,
+   "lon": 9.11,
    "group": "Northern & Central Europe",
    "kind": "heritage"
   },
@@ -202,10 +202,10 @@
   },
   {
    "id": "etna",
-   "name": "Mount Etna (Sicily)",
+   "name": "Mount Etna slopes (Sicily)",
    "country": "IT",
-   "lat": 37.75,
-   "lon": 15.0,
+   "lat": 37.72,
+   "lon": 15.12,
    "group": "Southern Europe",
    "kind": "heritage"
   },

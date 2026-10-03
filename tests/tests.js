@@ -1,5 +1,6 @@
 // In-browser unit tests: open /tests/ (served by tools/serve.py). All lines must say PASS before committing.
-import { computeFeatures, chillUnitsDay, utahWeight, koppen, usdaZone, viLabel, viToDate, doyToVi, curveAt, offsetFor, ra, et0Hargreaves, buildCycles, compactFeatures } from '../js/climate/features.js';
+import { computeFeatures, chillUnitsDay, utahWeight, koppen, usdaZone, viLabel, viToDate, doyToVi, curveAt, offsetFor, ra, et0Hargreaves, buildCycles, compactFeatures, dayHumidity, leafWetHours, millsHours, blightDegreeHours, humidityClimatology } from '../js/climate/features.js';
+import { regionalFor, inPolygon } from '../js/climate/regional.js';
 import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf } from '../js/score/score.js';
 
 const out = document.getElementById('out');
@@ -103,7 +104,7 @@ t('susceptible variety is penalised more than resistant one under high scab pres
   const b = scoreVariety(V({ health: { scab: 5, canker: 5, mildew: 5, fire_blight: 5, rust: 5 } }), wet, ctx);
   if (!(a.score > b.score)) throw new Error(`${a.score} vs ${b.score}`);
 });
-t('score has factors with text and tones', () => { const s = scoreVariety(V(), temperate, ctx); eq(s.factors.length, 6); if (!s.factors.every(f => f.text && f.tone)) throw new Error('missing'); });
+t('score has seven factors with text and tones', () => { const s = scoreVariety(V(), temperate, ctx); eq(s.factors.length, 7); if (!s.factors.every(f => f.text && f.tone)) throw new Error('missing'); });
 t('null variety data does not crash', () => { const s = scoreVariety(V({ climate: {}, pollination: {}, season: {}, health: {} }), temperate, ctx); if (!isFinite(s.score)) throw new Error('NaN'); });
 t('rankVarieties sorts descending', () => { const r = rankVarieties([V({ id: 'a', climate: { chill_hours: 3000, hardiness_zone: 5 } }), V({ id: 'b' })], temperate, ctx); if (r[0].s.score < r[1].s.score) throw new Error('order'); });
 t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Not viable'); });
@@ -111,10 +112,69 @@ t('thermalNeed grows with later harvest', () => { if (!(thermalNeed(ctx, 300) > 
 t('siteProfile returns entries for a normal site', () => { if (siteProfile(temperate).length < 5) throw new Error('short'); });
 t('rootstockAdvice groups by size', () => {
   const rs = [{ id: 'm9', name: 'M.9', size_class: 'dwarf', hardiness_zone: 5, susceptibility: { fire_blight: 5 }, tolerance: {} }, { id: 'g41', name: 'G.41', size_class: 'dwarf', hardiness_zone: 4, susceptibility: { fire_blight: 1 }, tolerance: {} }, { id: 'm25', name: 'M.25', size_class: 'vigorous', hardiness_zone: 4, susceptibility: {}, tolerance: {} }];
-  const warmWet = computeFeatures(synth(40, 14, 10, 6, { rain: 2 }));
+  const warmWet = computeFeatures(synth(40, 15, 11, 6, { rain: 2 }));
+  if (!(warmWet.wet.fireBlightEvents >= 1)) throw new Error('scenario should have blight weather, got ' + warmWet.wet.fireBlightEvents);
   const g = rootstockAdvice(rs, warmWet);
   eq(g.length, 2);
   eq(g[0].items[0].r.id, 'g41', 'fire-blight resistant dwarf should win when blight pressure is high');
+});
+
+// ---------------------------------------------------------------- humidity, leaf wetness, regional, extrapolation
+t('dayHumidity: saturated night (Td = Tmin) gives long dew hours; dry air gives none', () => {
+  const humid = dayHumidity(18, 8, 0), dry = dayHumidity(30, 10, 10);
+  if (!(humid.dew >= 6)) throw new Error('humid dew ' + humid.dew);
+  eq(dry.dew, 0); if (!(dry.rh < humid.rh)) throw new Error('rh order');
+});
+t('leafWetHours: rain adds wetness, capped at 24', () => { if (!(leafWetHours(0, 5) > leafWetHours(0, 0))) throw new Error('rain'); if (leafWetHours(24, 30, 20) > 24) throw new Error('cap'); });
+t('millsHours: warmer needs fewer hours (to ~20 C); freezing never infects', () => { if (!(millsHours(16) < millsHours(6))) throw new Error('order'); eq(millsHours(0), Infinity); });
+t('blightDegreeHours: cool days 0, hot days positive', () => { eq(blightDegreeHours(15, 5), 0); if (!(blightDegreeHours(30, 14) > 50)) throw new Error('hot'); });
+t('humidityClimatology: months with data are measured, others default', () => {
+  const tmin = Array(60).fill(5), dew = Array(60).fill(2), prcp = Array(60).fill(2), ph = Array(60).fill(8);
+  const h = humidityClimatology({ start: '2022-01-01', tmin, dew, prcp, ph });
+  near(h.dewDep[0], 3, 0.01); near(h.rainHrs[0], 8, 0.01); eq(h.dewDep[6], 2, 'unmeasured month default');
+});
+t('features without a humidity record are flagged estimated; with one they are not', () => {
+  const raw = synth(51.2, 10.5, 7.5, 3.5);
+  eq(computeFeatures(raw).humidity.estimated, true);
+  const hum = { start: '2022-01-01', tmin: Array(400).fill(5), dew: Array(400).fill(3), prcp: Array(400).fill(0), ph: Array(400).fill(0) };
+  eq(computeFeatures({ ...raw, hum }).humidity.estimated, false);
+});
+t('drier nights mean fewer scab infection periods than humid nights (same temperatures and rain)', () => {
+  const raw = synth(51.2, 10.5, 7.5, 3.5, { rain: 3 });
+  const mk = dep => ({ start: '2022-01-01', tmin: Array(365).fill(5), dew: Array(365).fill(5 - dep), prcp: Array(365).fill(0), ph: Array(365).fill(8) });
+  const humid = computeFeatures({ ...raw, hum: mk(0.5) }), dry = computeFeatures({ ...raw, hum: mk(9) });
+  if (!(humid.wet.scabEvents > dry.wet.scabEvents)) throw new Error(`humid ${humid.wet.scabEvents} dry ${dry.wet.scabEvents}`);
+  if (!(humid.wet.lwdSpring > dry.wet.lwdSpring)) throw new Error('lwd');
+});
+t('regional: Michigan has cedar-apple rust, Kent does not', () => { eq(regionalFor(42.2, -86.2, 'US').rust.present, true); eq(regionalFor(51.3, 0.5, 'GB').rust.present, false); });
+t('regional: fire blight absent in Australia and Japan, present in the US and UK, unmapped elsewhere', () => {
+  eq(regionalFor(-42, 147, 'AU').fireBlight.status, 'absent'); eq(regionalFor(40.8, 140.7, 'JP').fireBlight.status, 'absent');
+  eq(regionalFor(42.2, -86.2, 'US').fireBlight.status, 'present'); eq(regionalFor(51.3, 0.5, 'GB').fireBlight.status, 'present');
+  eq(regionalFor(30, 70, 'PK').fireBlight.status, 'unknown');
+});
+t('regional: country guessed from a bounding box when no code is given', () => eq(regionalFor(-33.9, 151.2, null).country, 'AU'));
+t('inPolygon basics', () => { const sq = [[0, 0], [10, 0], [10, 10], [0, 10]]; eq(inPolygon(5, 5, sq), true); eq(inPolygon(15, 5, sq), false); });
+t('rust makes a rust-susceptible variety score worse where rust occurs (same weather)', () => {
+  const wet = computeFeatures(synth(40, 12, 10, 4, { rain: 2 }));
+  const v = V({ health: { scab: 1, canker: 1, mildew: 1, fire_blight: 1, rust: 5 } });
+  const a = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).score, b = scoreVariety(v, { ...wet, regional: regionalFor(40, 10, 'IT') }, ctx).score;
+  if (!(b > a)) throw new Error(`rust ${a} no-rust ${b}`);
+});
+t('fire blight country status changes the score of a blight-susceptible variety under blight weather', () => {
+  const wet = computeFeatures(synth(40, 15, 11, 6, { rain: 2 }));
+  const v = V({ health: { scab: 1, canker: 1, mildew: 1, fire_blight: 5, rust: 1 } });
+  const present = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).score, absent = scoreVariety(v, { ...wet, regional: regionalFor(-33, 150, 'AU') }, ctx).score;
+  if (!(absent >= present)) throw new Error(`present ${present} absent ${absent}`);
+});
+t('extreme heat and aridity are critical: a desert scores near zero even though winters chill', () => {
+  const desert = computeFeatures(synth(23, 24.5, 10.5, 9, { rain: 40 }));
+  const s = scoreVariety(V(), { ...desert, regional: regionalFor(23, 12, 'NE') }, ctx);
+  if (!(s.score <= 15)) throw new Error('desert scored ' + s.score);
+});
+t('water factor penalises an arid site but not a wet one', () => {
+  const dry = computeFeatures(synth(45, 9, 12, 7, { rain: 40 })), wet = computeFeatures(synth(45, 9, 12, 5, { rain: 2 }));
+  const fd = scoreVariety(V(), dry, ctx).factors.find(f => f.key === 'water').f, fw = scoreVariety(V(), wet, ctx).factors.find(f => f.key === 'water').f;
+  if (!(fw > fd + 0.2)) throw new Error(`wet ${fw} dry ${fd}`);
 });
 
 // ---------------------------------------------------------------- data integrity (needs assets/data.json)
@@ -132,6 +192,22 @@ try {
   const pres = await (await fetch('../assets/climate-presets.json')).json();
   t('presets: Kent exists (reference climate)', () => { if (!pres.kent) throw new Error('missing kent'); });
   t('presets: every baked place has chill, zone, bloom, curve', () => { for (const [k, F] of Object.entries(pres)) { if (F.error) continue; if (!F.noBloom && (!F.bloom || !F.season.gddCurve || F.season.gddCurve.length !== 27)) throw new Error(k); } });
+  const { S } = await import('../js/data.js'); S.data = d; S.presets = pres;
+  const { extrapolate } = await import('../js/climate/extrapolate.js');
+  t('extrapolate: between Kent and Paris the blend lies between them and cites both', () => {
+    const E = extrapolate(50.0, 1.2, { k: 4 });
+    if (!E) throw new Error('null'); const lo = Math.min(pres.kent.chill.mean, pres.paris.chill.mean), hi = Math.max(pres.kent.chill.mean, pres.paris.chill.mean);
+    const names = E.extrapolated.from.map(f => f.id);
+    if (!names.includes('kent') || !names.includes('paris')) throw new Error('sources ' + names);
+    if (!(E.extrapolated.from.length >= 2)) throw new Error('sources');
+    if (!isFinite(E.chill.mean) || !isFinite(E.bloom.vi) || E.season.gddCurve.length !== 27) throw new Error('shape');
+  });
+  t('extrapolate: exactly at a reference place reproduces its values closely', () => {
+    const E = extrapolate(pres.kent && 51.25, 0.47, { k: 4 }); near(E.bloom.vi, pres.kent.bloom.vi, 6, 'bloom'); near(E.winter.extMinMean, pres.kent.winter.extMinMean, 2.5, 'winter');
+  });
+  t('extrapolate: nothing within range of the mid-Pacific', () => eq(extrapolate(0, -140), null));
+  t('extrapolate: respects the hemisphere', () => { const E = extrapolate(-20, -50); if (E && E.extrapolated.from.some(f => S.data.regions.find(r => r.id === f.id).lat > 0)) throw new Error('mixed hemispheres'); });
+  t('extrapolated features can be scored end to end', () => { const E = extrapolate(50.0, 1.2); E.regional = regionalFor(50, 1.2, 'FR'); const s = scoreVariety(d.varieties[0], E, makeContext(pres.kent)); if (!isFinite(s.score)) throw new Error('NaN'); });
   if (pres.kent) {
     const c2 = makeContext(pres.kent);
     const cox = d.varieties.find(v => v.id === 'coxs-orange-pippin');
