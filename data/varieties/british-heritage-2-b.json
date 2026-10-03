@@ -1,0 +1,339 @@
+[
+  {
+    "id": "lord-grosvenor",
+    "name": "Lord Grosvenor",
+    "aka": [
+      "Grosvenor"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": null,
+      "year": 1872,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Its origin was never recorded; it was regarded as a new apple around 1872. Hogg grouped it with the pale, early English codlin-style cookers such as Keswick Codlin and Stirling Castle. It is a parent of Emneth Early (Early Victoria).",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "cream",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, tall-conical fruit, strongly and irregularly ribbed with a puckered eye; even pale straw-yellow that fades almost to white when ripe."
+    },
+    "taste": {
+      "summary": "Soft, white, juicy flesh with a clean, sharp acidity. A codlin-type cooker for late summer, used straight from the tree.",
+      "sweet": 1,
+      "acid": 4,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, for cooking soon after picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Bunyard rated it among the most prolific of all apples, though not a strong grower, and said it usually needs fruit thinning to give well-shaped apples. He found it did well on dry soils."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 3 from National Fruit Collection flowering dates, which put it in bloom alongside Lord Hindlip. Plant a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate British gardens, including drier eastern soils; an early cooker that ripens even in short or cool seasons.",
+      "poor_climates": "Little information. Soft early fruit is unlikely to keep or travel well in hot weather."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour is not well recorded. The main problem is overcropping, which leads to small, misshapen fruit."
+    },
+    "grow_notes": "Grow it for an early supply of cooking apples, and thin the fruitlets hard in heavy-setting years. It tolerates a drier site better than many cookers.",
+    "conf": "medium"
+  },
+  {
+    "id": "mere-de-menage",
+    "name": "Mère de Ménage",
+    "aka": [
+      "Mere de Menage",
+      "Combermere",
+      "Lord Combermere",
+      "Flanders Pippin",
+      "Queen Emma"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": 1800,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Known in Britain by the late 1700s, but its origin is uncertain. Bunyard considered it most probably Continental (it was grown in Belgium as Queen Emma) but distinct from the French apple of the same name. It was widely grown in East Anglia as a long-keeping kitchen apple. Old catalogues often confuse it with Gloria Mundi and other giant cookers.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, irregular, ribbed, flat-conical fruit; almost covered with dull brownish-crimson and broad darker stripes, scattered with conspicuous pale dots."
+    },
+    "taste": {
+      "summary": "Firm, coarse, greenish flesh with a brisk, sharp flavour, juicy when fresh but drier in store. A first-rate cooker in its day and a good keeper.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan, for cooking (keeps to March)"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Bunyard describes a vigorous tree that grows large and spreading, with only moderate cropping. Give it room."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 3 from National Fruit Collection flowering dates. Ploidy is unrecorded, so plant two partners to be safe."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate lowlands of eastern England and the Low Countries, where it was traditionally grown.",
+      "poor_climates": "No record from warm climates. A late, large apple that probably needs a long, mild autumn."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease responses are not recorded."
+    },
+    "grow_notes": "A heritage curiosity for a large garden or orchard. Plant it on a vigorous rootstock with plenty of space, and store the fruit cool for winter cooking.",
+    "conf": "low"
+  },
+  {
+    "id": "michaelmas-red",
+    "name": "Michaelmas Red",
+    "aka": [
+      "Tydeman's Michaelmas Red"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1929,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Worcester Pearmain",
+      "raised_by": "H. M. Tydeman, East Malling Research Station"
+    },
+    "history": "Raised in 1929 by H. M. Tydeman at East Malling from McIntosh x Worcester Pearmain, the same cross that produced Tydeman's Early Worcester. The National Fruit Collection lists it as Tydeman's Michaelmas Red; the name refers to ripening around Michaelmas (29 September).",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, truncate-conical fruit with greenish-yellow skin largely covered by streaked red."
+    },
+    "taste": {
+      "summary": "Rather soft, very juicy greenish-white flesh with a sweet, refreshing, vinous flavour that shows its McIntosh parentage.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little growing information is recorded; it is rarely planted outside collections. Both parents are diploid."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 3 from National Fruit Collection flowering dates; plant a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate climates like south-east England. Its McIntosh and Worcester parents both colour best with cool autumn nights.",
+      "poor_climates": "Warm-night regions are likely to give poorly coloured, soft fruit (inferred from its parents)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour is not recorded for this variety."
+    },
+    "grow_notes": "A collector's early-autumn dessert apple. Grow it like Tydeman's Early Worcester in a sunny, open spot, and eat the fruit fresh because the soft flesh does not keep long.",
+    "conf": "low"
+  },
+  {
+    "id": "norfolk-royal-russet",
+    "name": "Norfolk Royal Russet",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Burnham Overy Staithe, Norfolk, England",
+      "year": 1973,
+      "year_note": "before",
+      "kind": "sport",
+      "parentage": "Russeted sport of Norfolk Royal",
+      "raised_by": "Rev. C. E. Wright (discoverer)"
+    },
+    "history": "A russeted sport of Norfolk Royal, found in the Burnham Overy Staithe garden of RAF chaplain Rev. C. E. Wright. It entered the National Fruit Collection in 1973 and was released commercially by Highfields Nursery, Gloucester, in 1983. It is now a favourite in East Anglian farm shops. The parent, Norfolk Royal, was a chance seedling found at Wright's Nurseries, North Walsham, around 1908.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 2,
+      "description": "Shaped like Norfolk Royal but largely covered in golden-brown russet, with a warm red flush glowing through on the sunny side; a very handsome apple."
+    },
+    "taste": {
+      "summary": "A sweet, pear-like russet with the classic English russet richness and enough acidity to stay lively; tasters rank it among the best-flavoured russets. The flesh is soft and slightly chewy, a little dry but less spongy than Egremont Russet, and it is a short keeper of two to three weeks.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "pear",
+        "sweet",
+        "nutty"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec; good from the tree, keeps a few weeks"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A spur-bearer of average vigour that crops regularly. Behaves like its parent Norfolk Royal."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "The East of England Apples & Orchards Project lists it in group D (4), while Orange Pippin gives group 3. It is not self-fertile, so a group 3 or 4 partner covers both."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, fairly dry eastern England and similar mild temperate regions.",
+      "poor_climates": "Untested in hot climates. Like other russets it may lose flavour and texture in heat."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good resistance to scab and mildew is reported. The cut flesh browns."
+    },
+    "grow_notes": "An excellent russet for gardens in the east and south. Grow it in full sun on well-drained soil with a mid-season pollinator, and pick in mid-September.",
+    "conf": "medium"
+  }
+]

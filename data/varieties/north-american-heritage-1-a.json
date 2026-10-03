@@ -1,0 +1,519 @@
+[
+  {
+    "id": "rome-beauty",
+    "name": "Rome Beauty",
+    "aka": [
+      "Rome",
+      "Gillett's Seedling"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Rome Township, Lawrence County, Ohio",
+      "year": 1816,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; arose as a shoot from below the graft of a nursery tree bought by Joel Gillett",
+      "raised_by": "Joel and Alanson Gillett"
+    },
+    "history": "Joel Gillett noticed an odd tree among grafted stock he had bought around 1816, and his son Alanson planted it beside the Ohio River. First called Gillett's Seedling, it was renamed after Rome Township in the 1830s; the original tree was lost to a flood in 1860. It became one of the main American baking apples of the early 20th century and has given many redder sports.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Big, smooth, glossy apple with a thick skin, mottled and streaked bright red over a greenish-yellow base, dotted with pale lenticels."
+    },
+    "taste": {
+      "summary": "Firm, slightly coarse and moderately juicy flesh with a mild, gently sweet-tart flavour and little perfume when raw. Its real strength is in the oven: it holds its shape when baked whole and the flavour deepens with cooking.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; mainly for baking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Bears a good part of its crop on the shoot tips, so avoid heavy tipping-back in winter pruning. Comes into bearing young and crops heavily."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "partial",
+      "notes": "Late flowering, which helps it miss spring frosts. Often described as partly self-fruitful in North America but crops better with a late-flowering partner."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, warm summers with late springs, as in the Ohio valley, the Virginias and irrigated parts of the US West, where late bloom avoids frost.",
+      "poor_climates": "Short, cool seasons give small, poorly finished fruit; humid areas with junipers nearby bring heavy cedar-apple rust."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Very susceptible to cedar-apple rust and also prone to scab, powdery mildew and fire blight; needs a spray programme where these are common."
+    },
+    "grow_notes": "Give it a sunny, open site and a long season. Prune lightly to renew fruiting wood rather than shortening every shoot, because of its tip-bearing habit. Keep it well away from junipers (red cedar) in North America.",
+    "conf": "medium"
+  },
+  {
+    "id": "stayman-winesap",
+    "name": "Stayman Winesap",
+    "aka": [
+      "Stayman",
+      "Stayman's Winesap"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Leavenworth, Kansas",
+      "year": 1866,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Seedling of Winesap (open-pollinated)",
+      "raised_by": "Dr Joseph Stayman"
+    },
+    "history": "Raised in 1866 by Dr Joseph Stayman of Leavenworth, Kansas, from Winesap seed, and sold by nurseries from the 1890s. It became a major apple of the Shenandoah Valley and Pennsylvania and remains a regional favourite there.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, roundish-conical fruit almost covered in dull red with darker stripes and russet dots, often russeted in the stalk cavity and prone to fine cracks."
+    },
+    "taste": {
+      "summary": "Fine-grained, tender and very juicy flesh with a brisk, tart-sweet, spicy, wine-like flavour that recalls its Winesap parent but is softer in texture. Sharp at picking, it mellows after a few weeks in store.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "wine",
+        "spice",
+        "sharp"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "triploid",
+      "notes": "A large, spreading tree. Fruit splits after heavy rain following a dry spell, so even watering helps."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Triploid with poor pollen: plant with two other diploid varieties flowering in groups 3-5, one to pollinate it and one to pollinate the other."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer apple districts of the mid-Atlantic US, such as the Shenandoah and Cumberland valleys, where it ripens fully and colours well.",
+      "poor_climates": "Cool, short seasons leave it sharp and under-ripe; erratic rainfall in late summer causes fruit cracking."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Fruit cracking is the main fault; also susceptible to cedar-apple rust."
+    },
+    "grow_notes": "Needs two pollinators because of its triploid pollen. Choose a sunny site with even soil moisture to limit splitting. Pick when fully coloured and let it mellow before eating.",
+    "conf": "high"
+  },
+  {
+    "id": "winesap",
+    "name": "Winesap",
+    "aka": [
+      "Wine Sop",
+      "Winter Winesap",
+      "Old Virginia Winesap",
+      "American Wine Sop"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Probably New Jersey",
+      "year": 1804,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old colonial American apple of unknown origin, probably from New Jersey; it was described in print as 'Wine Sop' in 1804 and illustrated by William Coxe in 1817. Prized for cider and for keeping, it was widely planted across the South and in Washington State until the mid-20th century, and is the parent of Stayman and probably Arkansas Black.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small to medium, slightly oblong fruit with a smooth, tough skin almost entirely dark cherry-red, scattered with small pale dots."
+    },
+    "taste": {
+      "summary": "Crisp, firm, juicy yellowish flesh with a tangy, spicy and distinctly wine-like flavour, sweet with a sharp finish. Keeps its character for months in store, which is why it was a favourite cider and winter apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "spice",
+        "sharp"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Slow to start bearing but then a regular cropper. Ploidy is reported inconsistently (diploid with sterile pollen in some accounts, triploid in others); either way treat it as a non-pollinator."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Pollen is essentially sterile, so it cannot pollinate other trees and needs a separate pollinator. Flowers are an unusually deep pink-red. US growers describe it as late-blooming; one UK listing gives group 3."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, hot summers and mild autumns, from Virginia and the Carolinas to irrigated central Washington; historically one of the better apples for the upper South.",
+      "poor_climates": "Cool, short seasons such as England's rarely ripen it properly, leaving small, sour fruit."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Fairly resistant to powdery mildew and cedar-apple rust; some susceptibility to fire blight."
+    },
+    "grow_notes": "Best in warm regions with a long growing season. Plant two good pollen-producing varieties nearby, since its own pollen is useless. Leave fruit on the tree until well coloured, then store to let the flavour develop.",
+    "conf": "medium"
+  },
+  {
+    "id": "york-imperial",
+    "name": "York Imperial",
+    "aka": [
+      "York",
+      "Johnson's Fine Winter"
+    ],
+    "uses": [
+      "culinary",
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Hellam, near York, Pennsylvania",
+      "year": 1820,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Jonathan Jessop (propagator)"
+    },
+    "history": "A chance tree on a farm near York, Pennsylvania, propagated around 1820 by Quaker nurseryman Jonathan Jessop. A. J. Downing later praised it as the 'imperial of keepers', and it became the backbone of the Pennsylvania and Virginia processing industry for sauce and pie filling.",
+    "look": {
+      "size": "large",
+      "shape": "irregular",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Distinctly lopsided, oblique fruit, flushed and streaked red over greenish-yellow, with pale specks and a greyish bloom."
+    },
+    "taste": {
+      "summary": "Firm, crisp, moderately juicy flesh that is tart-sweet at picking and needs a month or more in store to develop, becoming sweeter, mellower and honeyed, with a pear-like note some tasters pick up; it keeps until spring under refrigeration. Holds together well in cooking and gives a good sauce.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp",
+        "pear",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; improves in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 3,
+      "ploidy": null,
+      "notes": "Strong tendency to crop in alternate years; fruit thinning in a heavy year helps even it out."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a compatible pollinator; UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer mid-Atlantic orchards of Pennsylvania, Maryland, Virginia and West Virginia.",
+      "poor_climates": "Short, cool seasons leave it hard and sour; humid regions bring heavy disease pressure."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": 4,
+      "bitter_pit": 4,
+      "other": "Prone to the calcium disorders cork spot ('York spot') and bitter pit, and susceptible to scab, mildew, fire blight and cedar-apple rust."
+    },
+    "grow_notes": "A warm-region processing and storage apple. Keep soil calcium and moisture steady and thin heavy crops to reduce cork spot and biennial bearing. Store for a month or more before judging the flavour.",
+    "conf": "medium"
+  },
+  {
+    "id": "arkansas-black",
+    "name": "Arkansas Black",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Benton County, Arkansas",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, thought to be from Winesap",
+      "raised_by": null
+    },
+    "history": "Appeared as a chance seedling in Benton County, north-west Arkansas, around 1870, and is usually taken to be a Winesap offspring. Valued in the Ozarks for its near-black colour and long keeping; it is a different apple from 'Arkansas' (Mammoth Black Twig).",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 1,
+      "description": "Glossy, waxy fruit so deep a red-purple on the sunny side that it looks almost black, with small pale lenticels."
+    },
+    "taste": {
+      "summary": "Very hard, dense and sharp straight from the tree. After one to two months in store it becomes sweeter and aromatic, with a crisp, rather dry yellow flesh and a lingering spicy note.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 2,
+      "tags": [
+        "sharp",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after storage"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Vigorous and slow to start cropping. Ploidy is uncertain (listed as triploid by one source); it is in any case a poor pollen donor."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Poor pollen; needs a good diploid pollinator such as Golden Delicious, and cannot be relied on to pollinate others."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Dec-Mar",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, hot southern US summers (Ozarks, upper South, California) where its dark colour and late ripening are fully achieved.",
+      "poor_climates": "Cool, short seasons may not ripen it; in England it is likely to stay hard and sour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Generally regarded as fairly disease-resistant, including to cedar-apple rust; few specific weaknesses recorded."
+    },
+    "grow_notes": "Suited to warm regions with a long autumn. Leave the fruit on the tree as long as frost allows, then store it for several weeks before eating. Plant a reliable diploid pollinator nearby.",
+    "conf": "medium"
+  },
+  {
+    "id": "ben-davis",
+    "name": "Ben Davis",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Southern United States, probably Kentucky (Tennessee and Virginia also claimed)",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Of disputed southern origin, it spread through the Ohio and Mississippi valleys in the 19th century and became the leading commercial winter apple around 1880-1910 because it shipped and kept so well, earning the nickname 'mortgage lifter'. Its poor eating quality later made it a byword for blandness; it is a parent of Cortland.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Handsome, uniform, thick-skinned fruit, yellow mottled and striped bright red."
+    },
+    "taste": {
+      "summary": "Firm, coarse, rather dry white flesh with a mild, plain sweet-sharp flavour; often described as cottony. It softens and loses what little flavour it has late in storage.",
+      "sweet": 2,
+      "acid": 2,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; better cooked or dried than fresh"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Tough, adaptable and an early, heavy cropper, which explains its former commercial dominance."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Plant with another diploid flowering in groups 3-5."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Hot continental summers of the US Midwest, Ozarks and upper South, where it was planted widely and coped with heat and drought.",
+      "poor_climates": "Cool maritime climates ripen it poorly and make an already plain apple worse."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Susceptible to cedar-apple rust; otherwise regarded as a robust, hardy tree."
+    },
+    "grow_notes": "Grown today mainly as a historical curiosity or for drying and cooking. Hardy and undemanding; give it a warm, sunny site and a pollinator in groups 3-5.",
+    "conf": "medium"
+  }
+]

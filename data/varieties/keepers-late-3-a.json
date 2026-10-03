@@ -1,0 +1,684 @@
+[
+  {
+    "id": "goldrush",
+    "name": "Goldrush",
+    "aka": [
+      "Gold Rush",
+      "GoldRush",
+      "Co-op 38"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, West Lafayette, Indiana",
+      "year": 1972,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Co-op 17 (a PRI scab-resistant selection with Malus floribunda in its ancestry)",
+      "raised_by": "Purdue-Rutgers-Illinois (PRI) cooperative breeding programme"
+    },
+    "history": "Bred in the joint disease-resistance programme of Purdue, Rutgers and the University of Illinois, which aimed for apples that need no scab sprays. Tested as Co-op 38 and released in the early 1990s, it has become a favourite of organic and backyard growers for its keeping quality and immunity to scab.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Greenish-yellow apple that turns deep gold in store, sometimes with a faint bronze-orange cheek and a little russet around the stalk."
+    },
+    "taste": {
+      "summary": "Very hard and crisp, with high sugar and high acid at the same time. Straight off the tree it can be harshly sharp; after a month or two in store it mellows into an intense, spicy sweet-tart apple with a long, rich finish, and it keeps its crunch for months.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "spice",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; too sharp at picking, best after 1-3 months in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Willowy branches bend under heavy crops. Strongly inclined to alternate bearing and to small fruit if left unthinned, so thin hard and early in an 'on' year. Needs a long season; fruit hangs well on the tree."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Mid-late flowering diploid; plant with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "late Oct-mid Nov",
+      "eating": "Dec-Apr",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Places with long, warm summers and long autumns, such as the US Midwest, mid-Atlantic and upper South, where it ripens fully and develops its best sugar.",
+      "poor_climates": "Short-season or cool maritime areas (northern Britain, high latitudes) where it may not ripen before winter; humid areas with junipers need rust control."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 3,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Immune to the common races of scab (Vf gene) and fairly tolerant of mildew, but notably susceptible to cedar-apple rust. Main cultural problems are biennial bearing and undersized fruit on overcropped trees."
+    },
+    "grow_notes": "A good choice where spraying is unwelcome, as long as the site gives a long, warm autumn; in Britain it suits the south-east on a sunny wall or open site. Thin fruit to one per cluster to keep size up and to even out cropping, and pick as late as frost allows.",
+    "conf": "high"
+  },
+  {
+    "id": "granny-smith",
+    "name": "Granny Smith",
+    "aka": [
+      "Granny"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Eastwood, Ryde, Sydney, New South Wales",
+      "year": 1868,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Chance seedling, traditionally said to come from discarded French Crab apples; the other parent is unknown",
+      "raised_by": "Maria Ann (Granny) Smith"
+    },
+    "history": "Arose as a chance seedling on the orchard of Maria Ann Smith, an English emigrant from Sussex, near Sydney; trees were fruiting by 1868. Its long keeping and ability to ship made it one of the world's main export apples in the 20th century.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Bright grass-green apple with conspicuous pale lenticel dots, occasionally a faint brownish-pink cheek and a little fine russet near the stalk."
+    },
+    "taste": {
+      "summary": "Hard, crisp and juicy with a clean, sharp, lemony acidity and only moderate sweetness; flavour is simple rather than aromatic. Sweetens a little and yellows in store. Cooks well, keeping some shape and plenty of tang.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "lemon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; UK-grown fruit needs a long warm autumn to ripen properly"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Partial tip-bearer, so avoid shortening all the young laterals. Crops heavily and early; thin to keep fruit size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Brogdale records show it flowering alongside Cox and Golden Delicious; some lists put it a group later. Partly self-fertile but sets better with a partner."
+    },
+    "season": {
+      "harvest": "mid Oct-early Nov",
+      "eating": "Dec-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 500,
+      "hardiness_zone": 6,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-temperate and Mediterranean climates with long, hot growing seasons: Australia, New Zealand, South Africa, Chile, California, southern Europe and Washington State.",
+      "poor_climates": "Cool short-summer areas such as northern Britain and Scandinavia, where it often fails to ripen and stays hard, sour and starchy."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": 2,
+      "bitter_pit": 3,
+      "other": "Susceptible to scab, powdery mildew and fire blight; fruit prone to superficial scald in store and to sunburn in very hot climates."
+    },
+    "grow_notes": "Only worth growing in Britain on a warm, sheltered south-facing site where it can hang into November. Elsewhere it is easy and productive in warm climates; spray or choose a clean site for scab and mildew, and thin heavily.",
+    "conf": "high"
+  },
+  {
+    "id": "holstein",
+    "name": "Holstein",
+    "aka": [
+      "Holsteiner Cox",
+      "Holstein Cox",
+      "Holsteiner Gelber Cox"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Eutin, Holstein (Schleswig-Holstein), Germany",
+      "year": 1918,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Cox's Orange Pippin; pollen parent unknown",
+      "raised_by": "Vahldik, a schoolteacher in Eutin"
+    },
+    "history": "One of several Cox seedlings raised around 1918 by a teacher named Vahldik in Eutin, northern Germany (it was once known as his Cox seedling No. III). It became widely planted in northern Germany as a larger, easier relative of Cox.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Big, slightly conical apple, yellow with a broken orange flush and stripes and a light scattering of russet."
+    },
+    "taste": {
+      "summary": "Juicy, fairly soft yet dense yellowish flesh, sweet with a richly spiced acidity when fully ripe and an aromatic, Cox-like character; several tasters note a pineapple flavour. Prized for its orange-tinted juice; keeps only a month or two and is best eaten cool.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "spice",
+        "pineapple",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "A large, broad, vigorous triploid tree; use a dwarfing rootstock in gardens. Slow to come into bearing on stronger stocks."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid: a poor pollen donor, so plant two compatible diploids nearby (one to pollinate it and each other)."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist north-European climates such as northern Germany, Denmark and Britain, where it is less fussy than Cox.",
+      "poor_climates": "Hot summers are likely to give soft, poorly flavoured fruit; little evidence of success in warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthier than Cox, with good scab resistance reported, but some susceptibility to canker, mildew and fire blight."
+    },
+    "grow_notes": "A good substitute for Cox where Cox sulks, especially in wetter northern gardens. Because it is triploid and vigorous, give it room or a dwarfing stock and make sure two diploid partners flower nearby.",
+    "conf": "medium"
+  },
+  {
+    "id": "honeycrisp",
+    "name": "Honeycrisp",
+    "aka": [
+      "Honeycrunch",
+      "MN 1711"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota Horticultural Research Center, Excelsior, Minnesota",
+      "year": 1960,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Keepsake x MN1627 (an unreleased selection with Duchess of Oldenburg and Golden Delicious as parents); originally recorded, wrongly, as Macoun x Honeygold",
+      "raised_by": "University of Minnesota apple breeding programme"
+    },
+    "history": "Came from a 1960 cross in the University of Minnesota programme, tested as MN 1711 and released in 1991. DNA work later corrected its recorded parentage. Its exceptional crunch made it one of the most valuable apples in North America and the parent of many newer varieties.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 65,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, rounded apple, yellow mottled and striped with bright red, the amount of colour varying a lot with climate."
+    },
+    "taste": {
+      "summary": "Famous for its texture: large cells that fracture with a light, juicy crunch rather than a hard, dense one. Flavour is mainly sweet with little acidity or depth, sometimes with a faint pear-drop or honeyed note; a well-grown fruit is refreshing, an ordinary one simply sweet. Stays crisp in store until spring, and the flavour can improve for a week or so after leaving cold storage.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "honey",
+        "pear-drop",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Feb; crisp from the tree and still crisp after months in store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and easily stunted by early overcropping; thin hard and remove fruit in the first years. Prone to alternate bearing and to a zinc-related yellow blotching of leaves. Ripens unevenly, so pick over several passes and clip stalks short to avoid punctures."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Needs a compatible diploid flowering at about the same time."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Feb",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, cool-summer regions: Minnesota, Wisconsin, New England, eastern Canada, and similar northern Europe sites, where it colours well and keeps its texture.",
+      "poor_climates": "Hot summers give poor colour, softer fruit, sunburn and more storage disorders; quality from warm regions is noticeably lower."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 3,
+      "bitter_pit": 5,
+      "other": "Very prone to bitter pit, and to soft scald and soggy breakdown if put straight into cold storage (needs a week of conditioning at about 10 C). Leaf blotch/chlorosis and sunburn are common."
+    },
+    "grow_notes": "Best in a cold-winter, cool-summer climate on good, well-drained soil; it needs regular calcium sprays to limit bitter pit. Thin firmly every year and do not let a young tree crop heavily, or it stalls.",
+    "conf": "high"
+  },
+  {
+    "id": "idared",
+    "name": "Idared",
+    "aka": [
+      "Ida Red"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Idaho Agricultural Experiment Station, Moscow, Idaho",
+      "year": 1935,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Jonathan x Wagener",
+      "raised_by": "Leif Verner, University of Idaho"
+    },
+    "history": "Bred by Leif Verner at the Idaho station in the 1930s and introduced in 1942. Its heavy crops and very long storage life made it a major commercial apple in Europe, especially Poland, for decades.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 0,
+      "description": "Flattish, glossy apple almost covered in bright red over a pale green-yellow ground, with smooth clean skin."
+    },
+    "taste": {
+      "summary": "Crisp, fine white flesh, juicy but rather plain when first picked; after a few months in store it becomes sweeter with a light vinous tang. Holds its shape when baked or cooked.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; improves after a couple of months in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing quickly and crops heavily; thin to keep size and colour. Early blossom can be caught by frost."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; pair it with a group 1-3 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Continental climates with cold winters and warm summers: central and eastern Europe, the US Midwest and Northeast.",
+      "poor_climates": "Frost pockets (early blossom), and humid warm areas where mildew and fire blight run rampant."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 5,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "Very susceptible to powdery mildew and fire blight; early flowering makes it vulnerable to spring frost."
+    },
+    "grow_notes": "Plant away from frost pockets and keep mildew in check by removing infected shoot tips in spring. A good dual-purpose keeper for anyone with cool storage space.",
+    "conf": "high"
+  },
+  {
+    "id": "jester",
+    "name": "Jester",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1966,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Worcester Pearmain x Starkspur Golden Delicious",
+      "raised_by": "Dr F.H. Alston, East Malling Research Station"
+    },
+    "history": "Raised by Frank Alston at East Malling in 1966 and released in 1981 as a well-coloured, heavy-cropping modern garden apple. It never became a major commercial variety.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 55,
+      "stripes": true,
+      "russet": 0,
+      "description": "Smooth, attractive apple with a creamy-yellow ground, flushed and streaked bright red; skin becomes greasy in store."
+    },
+    "taste": {
+      "summary": "Crisp to softish, very juicy white flesh with a sweet, light flavour and little sharpness. Pleasant and refreshing rather than complex, and popular with children.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Regular, heavy and early cropper of average vigour; straightforward to prune as a spur-bearer."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Fairly late flowering, which helps it avoid frost; plant with a group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp temperate climates like southern England, where it was bred.",
+      "poor_climates": "Little grown outside Britain; hot summers likely give soft fruit and poorer colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported as having average all-round disease resistance; good blossom frost tolerance."
+    },
+    "grow_notes": "An easy, reliable garden apple for southern Britain, good for a family wanting sweet, colourful fruit. Grow on a dwarfing rootstock as a bush or cordon and thin in heavy years.",
+    "conf": "medium"
+  },
+  {
+    "id": "jonagold",
+    "name": "Jonagold",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1943,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Jonathan",
+      "raised_by": "New York State Agricultural Experiment Station (Cornell University)"
+    },
+    "history": "Raised from a 1943 cross at the Geneva station and released in 1968. It became hugely popular with European growers, especially in Belgium and the Netherlands, and has produced dozens of redder sports such as Jonagored.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, rounded golden-yellow apple, flushed and striped orange-red over about half the surface."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, creamy-white flesh with a honeyed sweetness from Golden Delicious, kept lively by plenty of balancing acidity from Jonathan; some tasters note a subtle pear-drop sweetness. Best within a month or two of picking: it softens quickly out of the fridge and turns greasy in long storage, so supermarket fruit is often disappointing.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "honey",
+        "sweet",
+        "pear-drop"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "triploid",
+      "notes": "Vigorous triploid that crops well and early; thin to avoid overcropping and small fruit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid, so a poor pollen donor; needs two diploid partners nearby. Sources advise against relying on Golden Delicious (a parent) as its pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool-summer climates: Belgium, the Netherlands, northern Germany, Pacific Northwest coast, Michigan and New York.",
+      "poor_climates": "Hot summers give soft fruit with poor colour and sunburn, which is why it lost ground in warmer US regions."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Susceptible to mildew and fire blight; big fruit on light crops may get bitter pit; greasy skin in store."
+    },
+    "grow_notes": "Give it space or a dwarfing stock, and two diploid pollinators. Excellent in cool, moist climates; in hot areas choose a red sport and pick on time.",
+    "conf": "high"
+  },
+  {
+    "id": "jonagored",
+    "name": "Jonagored",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "BE",
+      "place": "Halen, Limburg, Belgium",
+      "year": 1985,
+      "year_note": "first recorded",
+      "kind": "sport",
+      "parentage": "Sport of Jonagold",
+      "raised_by": "Jos Morren"
+    },
+    "history": "A redder-skinned bud sport of Jonagold found by grower Jos Morren at Halen in Belgium and introduced in 1985. It is one of the most widely planted Jonagold sports in Europe; apart from colour it behaves like Jonagold.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 1,
+      "description": "Like Jonagold but with a much fuller, deeper red flush covering most of the fruit."
+    },
+    "taste": {
+      "summary": "Same as Jonagold: very juicy, sweet and honeyed with a balancing tang. The extra colour can tempt early picking, which gives a less developed flavour.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "honey",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "triploid",
+      "notes": "As Jonagold."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "As Jonagold: triploid, needs two diploid pollinators."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "As Jonagold: cool-summer north-western Europe and similar regions.",
+      "poor_climates": "As Jonagold; it colours more reliably than the parent in warmer autumns, but the fruit still softens in hot summers."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Same disease profile as Jonagold."
+    },
+    "grow_notes": "Grow exactly as Jonagold; choose it over the parent where autumns are too mild for good colour.",
+    "conf": "medium"
+  }
+]

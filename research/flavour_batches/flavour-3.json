@@ -1,0 +1,609 @@
+{
+ "batch": "flavour-3",
+ "count": 45,
+ "varieties": [
+  {
+   "id": "dolgo",
+   "name": "Dolgo",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Very tart and juicy with a clean, bright fruitiness; just about pleasant raw when fully ripe but really a kitchen crab. It gives a clear, deep ruby jelly that sets well and a vividly coloured juice.",
+   "sweet": 2,
+   "acid": 5,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "dorsett-golden",
+   "name": "Dorsett Golden",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Sweet and fairly mild with a Golden Delicious character; lightly crisp and juicy. Flavour is said to be best on fruit ripened in light shade, and it softens quickly after picking.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "duchess-of-bedford",
+   "name": "Duchess of Bedford",
+   "tags": [
+    "aniseed"
+   ],
+   "summary": "Soft, fine-textured pale flesh with a mild, gently acidic flavour; one reference notes an aniseed note, a trait associated with its Cellini parent. Eat it fresh, as it softens quickly.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": null
+  },
+  {
+   "id": "duchess-of-oldenburg",
+   "name": "Duchess of Oldenburg",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Juicy, rather coarse white flesh with brisk, sharp acidity and only modest sweetness. At its best as an early cooker, collapsing quickly to a tangy, orange-tinted puree; eaten raw it is refreshing but turns mealy within days.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "duchesss-favourite",
+   "name": "Duchess's Favourite",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Crisp to tender, juicy flesh with a brisk, fairly sharp but not harsh flavour; pleasant straight from the tree though less rich than later apples.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "ducks-bill",
+   "name": "Duck's Bill",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, crisp white flesh that is sweet and rather chewy; no detailed tasting notes have been published.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "duke-of-devonshire",
+   "name": "Duke of Devonshire",
+   "tags": [
+    "nutty",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, fine-grained and rather dry flesh with a rich, nutty flavour that balances sweetness against a fruity sharpness, in the same style as Ashmead's Kernel rather than the softer Egremont Russet. It needs a long time in store and is at its best in late winter.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "dumelows-seedling",
+   "name": "Dumelow's Seedling",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Very firm, crisp, juicy white flesh that is intensely acid. Cooks down to a stiff, pale, strongly flavoured purée, ideal for mincemeat and sauces.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "dunns-favourite",
+   "name": "Dunn's Favourite",
+   "tags": [],
+   "summary": "No verified tasting notes are available for this name.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "early-harvest",
+   "name": "Early Harvest",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Tender, crisp, juicy white flesh with a brisk, tangy sub-acid flavour. Best for sauce and pies, and pleasant raw when fully ripe; it goes soft and mealy quickly.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "early-victoria",
+   "name": "Early Victoria",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Crisp, very acid greenish flesh that softens quickly once ripe; cooks rapidly to a light, frothy, sharp purée.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 1,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "easter-orange",
+   "name": "Easter Orange",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Crisp, firm cream flesh with a sweet, aromatic flavour that develops in store; a late keeper for winter and early spring eating.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "ecklinville",
+   "name": "Ecklinville",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Fine-grained, tender white flesh with a very sharp, brisk acidity. Cooks quickly to a smooth froth.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 1,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "edward-vii",
+   "name": "Edward VII",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, rather coarse, fairly juicy white flesh with a brisk acidity; an excellent late cooker that makes a well-flavoured purée.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "egremont-russet",
+   "name": "Egremont Russet",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Dense, firm, fairly dry cream flesh with a sweet, distinctly nutty flavour and modest acidity. Crisp at picking, it mellows and becomes richer in store but shrivels if kept too long.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "ein-shemer",
+   "name": "Ein Shemer",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Crisp and juicy, on the sharp side with only moderate sweetness; a pleasant early apple rather than a rich one, and it keeps for only a short time.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "ellisons-orange",
+   "name": "Ellison's Orange",
+   "tags": [
+    "aniseed",
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Soft, very juicy yellow flesh, sweet and perfumed, with an unmistakable aniseed note that strengthens a few days after picking. Low in acid; it does not stay at its best for long.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 5,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "elstar",
+   "name": "Elstar",
+   "tags": [
+    "honey",
+    "sharp",
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Crisp, juicy cream flesh with an intense, lively sweet-sharp balance and honeyed, aromatic notes. Best quite soon after picking; keeps its sharpness well for cooking.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "elton-beauty",
+   "name": "Elton Beauty",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Soft, fine and very juicy flesh with a lively, fairly sharp and aromatic flavour; best eaten fresh as it does not keep.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 5
+  },
+  {
+   "id": "emperor-alexander",
+   "name": "Emperor Alexander",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Coarse, rather dry and fairly acid flesh with little aroma; more impressive for size than flavour when raw, but useful for cooking.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 2
+  },
+  {
+   "id": "empire",
+   "name": "Empire",
+   "tags": [
+    "sweet",
+    "wine"
+   ],
+   "summary": "Crisp, juicy, very white flesh with a sweet flavour and a gentle vinous tang from McIntosh, but less acidity. Best fresh from the tree; resists bruising.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "enterprise",
+   "name": "Enterprise",
+   "tags": [
+    "sharp",
+    "spice"
+   ],
+   "summary": "Firm, crisp cream flesh, moderately juicy, with a sharp, slightly spicy flavour at picking that mellows and improves after a month or two in store. Holds up well in cooking.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "envy",
+   "name": "Envy",
+   "tags": [
+    "sweet",
+    "floral"
+   ],
+   "summary": "Very sweet with low acidity and a faint floral note; crisp, juicy, pale flesh that browns very slowly once cut. Firmness holds well in storage.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "esopus-spitzenburg",
+   "name": "Esopus Spitzenburg",
+   "tags": [
+    "spice",
+    "perfumed",
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Crisp, firm yellow flesh, not especially juicy, with a rich, sweet-sharp, spicy and aromatic flavour that deepens after a few weeks in store. Also excellent for pies.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "evereste",
+   "name": "Evereste",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Grown above all for show; the fruit is sharp and not an eating apple, but it is used alone or with other fruit to make crab apple jelly, where its pectin helps the set.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "fall-pippin",
+   "name": "Fall Pippin",
+   "tags": [],
+   "summary": "Tender, juicy, aromatic white flesh tinged yellow, with a rich sweet-sharp balance. Used both raw and for cooking, drying and sauce.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "falstaff",
+   "name": "Falstaff",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp, juicy flesh with a fresh sweet-sharp flavour that owes more to James Grieve than to Golden Delicious. Makes good juice.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "fiesta",
+   "name": "Fiesta",
+   "tags": [
+    "perfumed",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp, very juicy cream flesh with a sweet, aromatic Cox-like flavour, easier and crunchier than its parent. Stays firm for months in store, though the aroma and sweetness gradually fade.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "filippa",
+   "name": "Filippa",
+   "tags": [],
+   "summary": "A sweet-sharp Calville-type apple eaten fresh and pressed for juice and cider; the juice is pale and not very sweet, so it is often blended.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "flanders-cox",
+   "name": "Flanders Cox",
+   "tags": [],
+   "summary": "No reliable tasting notes found for this name.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "fortune",
+   "name": "Fortune",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Fairly firm, slightly coarse, juicy cream flesh with a sweet, aromatic flavour that hints at its Cox parent; best eaten fresh in early autumn.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "francis",
+   "name": "Francis",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Firm, fine, crisp flesh with a very sweet and aromatic flavour in the Cox tradition.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "freedom",
+   "name": "Freedom",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, very juicy cream flesh with a mild, sweet-sharp flavour; pleasant rather than intense. Good for sauce, juice and cider blends as well as eating.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "freiherr-von-berlepsch",
+   "name": "Freiherr von Berlepsch",
+   "tags": [
+    "sharp",
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Intensely flavoured: very juicy, firm, pale-yellow flesh with lively acidity balanced by plenty of sugar and a rich, aromatic finish. Keeps its quality for months in store.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "freyberg",
+   "name": "Freyberg",
+   "tags": [
+    "aniseed",
+    "honey",
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Fine-textured, juicy, firm cream flesh with a sweet, intense flavour often described as having an aniseed or fennel note on top of a honeyed Golden Delicious base. Sharper and more complex than Golden Delicious, but without the full richness of Cox.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "frostbite",
+   "name": "Frostbite",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Intensely sweet and dense, with hard, crunchy, juicy flesh and a deep flavour often likened to molasses or cane sugar. Acidity is low, but the taste is anything but plain; it also makes a rich sweet cider.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": 4,
+   "crisp": 5,
+   "juicy": 4
+  },
+  {
+   "id": "fuji",
+   "name": "Fuji",
+   "tags": [
+    "sweet",
+    "honey"
+   ],
+   "summary": "Very dense, crisp and juicy flesh with high sugar and low acidity, giving a sweet, honeyed flavour; well-ripened fruit may show glassy watercore that tastes especially sweet. Keeps its texture for months.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 5
+  },
+  {
+   "id": "gala",
+   "name": "Gala",
+   "tags": [
+    "sweet",
+    "mild",
+    "pear"
+   ],
+   "summary": "Crisp, fine, juicy cream flesh with a sweet, low-acid flavour and a light pear-like fragrance. Pleasant and easy rather than complex, and loses crispness after a couple of months.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "gascoynes-scarlet",
+   "name": "Gascoyne's Scarlet",
+   "tags": [
+    "sweet",
+    "mild"
+   ],
+   "summary": "Firm, fine-grained, rather dry white flesh, sweet with only a light, faintly perfumed flavour; sharper at picking and mellower after storage. Grown more for looks, cooking and coloured juice than for depth of flavour.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "gavin",
+   "name": "Gavin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, fairly juicy flesh with a delicate, mildly aromatic balance of sweetness and acidity. Pleasant fresh but goes past its best within a few weeks.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "george-cave",
+   "name": "George Cave",
+   "tags": [],
+   "summary": "Fine-textured, juicy white flesh with a pleasant, lightly acid and gently aromatic flavour, brisker than most other August apples. Softens and goes mealy within days, so eat it straight from the tree.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "gladstone",
+   "name": "Gladstone",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp and juicy when just picked, with a sweet, pleasantly aromatic flavour, but it turns soft and slightly floury within a few days.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "glockenapfel",
+   "name": "Glockenapfel",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Dense, firm, almost pure-white flesh with a pronounced, bracing acidity and a fresh aromatic quality that builds after a couple of months in store. Holds its shape in baking; eaten raw it is best in late winter and spring when the sharpness has eased.",
+   "sweet": 2,
+   "acid": 5,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "gloster",
+   "name": "Gloster",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, crisp and juicy greenish-cream flesh with a fairly sharp, plain flavour and modest aroma; tarter than the Delicious side of its parentage. Keeps its crunch for months and mellows slightly in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "golden-bounty",
+   "name": "Golden Bounty",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, fine, crisp flesh with a rich, brisk, sharply aromatic flavour that recalls an early-season Cox with extra acidity.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  }
+ ]
+}

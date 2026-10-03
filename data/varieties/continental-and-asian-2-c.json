@@ -1,0 +1,156 @@
+[
+  {
+    "id": "sekai-ichi",
+    "name": "Sekai Ichi",
+    "aka": ["Aori 4"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "JP",
+      "place": "Aomori Apple Experiment Station, Aomori, Japan",
+      "year": 1930,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Delicious x Golden Delicious",
+      "raised_by": "Aomori Apple Experiment Station"
+    },
+    "history": "From a 1930 cross of Delicious and Golden Delicious at the Aomori Apple Experiment Station; the seedling first fruited in 1946 and was registered (as Aori 4) in 1974. The popular name, meaning 'world's number one', began as a trial grower's boast about its size, and it is sold mainly as a luxury gift apple in Japan and East Asia.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Huge round to conical apple, typically 500-800 g and sometimes over 1 kg, yellow-green almost covered in bright red stripes."
+    },
+    "taste": {
+      "summary": "Mild and gently sweet with very little acidity and little aroma; the dense flesh is crunchy and very juicy. Prized for size and looks more than intensity.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["mild", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Top-grade fruit depends on careful thinning and good light; the very largest fruits keep less well."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Diploid and self-incompatible (S3S9); UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool northern Japan (Aomori), with a warm summer and a cool, sunny autumn.",
+      "poor_climates": "Little grown outside Japan; no reliable data from hot or very short-season climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented."
+    },
+    "grow_notes": "A curiosity for growers who want giant fruit: thin hard to one fruit per cluster and give the tree full sun. Pick in October and keep cold; plant a mid-season diploid partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "hokuto",
+    "name": "Hokuto",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "JP",
+      "place": "Aomori Apple Experiment Station, Aomori, Japan",
+      "year": 1970,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Registered as Fuji x Mutsu, but later genetic work indicates the pollen parent was not Mutsu and is unidentified",
+      "raised_by": "Aomori Apple Experiment Station"
+    },
+    "history": "Selected from a 1970 cross at the Aomori Apple Experiment Station, named in 1981 and registered in 1983. It was released as Fuji x Mutsu, but DNA studies since then point to a different pollen parent. Japanese tasters rate it among the best-flavoured apples, though it remains a niche variety.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Large, round to flattish apple, usually about 350 g and often over 600 g, deep purplish-red with stripes over a yellow ground."
+    },
+    "taste": {
+      "summary": "Exceptionally juicy, firm cream flesh with a balanced sweet-sharp taste and a rich scent; fully ripe fruit often has watercore, giving glassy, honey-sweet patches.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": ["sweet", "honey", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Needs plenty of sun to colour. Listed as triploid by Pomiferous; given the doubt over its pollen parent, treat this as provisional."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "If triploid, a poor pollen donor: plant with two compatible diploids. UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov-Feb",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Northern Japan's cool, sunny autumns.",
+      "poor_climates": "Little grown outside Japan; dull or short seasons are likely to leave this late apple under-coloured."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to watercore and to mouldy core, which spoils the centre but not the surrounding flesh."
+    },
+    "grow_notes": "Plant in the sunniest spot available with two diploid pollinators. Pick in late October or early November, store cold and eat by late winter, cutting out any mouldy core.",
+    "conf": "medium"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "vojvodina",
+    "summary": "A flat Pannonian plain with a continental climate: cold winters swept by the dry košava wind, hot and often dry summers, and deep, fertile black loess soils. Spring frost, summer heat and drought, and hail are the main weather risks.",
+    "apple_culture": "Vojvodina is mainly grain and vegetable country, but intensive apple orchards with hail nets and drip irrigation spread across Serbia in the 2010s, with much of the crop exported east. Home gardens and village orchards keep old Serbian varieties that have been grown in the country for centuries.",
+    "local_varieties": ["Idared", "Golden Delicious", "Red Delicious", "Budimka", "Kolačara", "Kožara", "Petrovača"],
+    "pests_diseases": "Codling moth runs several generations in the long hot summer and is the main fruit pest. Powdery mildew, fire blight and sunburn are serious, while scab is mostly a problem in wet springs.",
+    "tips": "Plan for irrigation and summer mulch, and keep a leafy canopy so fruit is shaded from sunburn. Choose mildew-tolerant varieties or the hardy old Serbian types, and monitor codling moth with traps all season.",
+    "confidence": "medium"
+  },
+  {
+    "id": "south-tyrol",
+    "summary": "An inner-Alpine valley climate: the Adige valley around Bolzano is sheltered, sunny and warm by day with cool nights that give excellent colour and crunch, while the Vinschgau (Val Venosta) higher up is one of the driest valleys in the Alps. Spring frost on the valley floor is fought with overhead sprinklers, and hail nets are standard.",
+    "apple_culture": "South Tyrol is Europe's largest single apple-growing region, built on thousands of small family farms organised into cooperatives and supported by the Laimburg research centre. The fruit is sold under the Südtiroler Apfel protected geographical indication, and orchards climb from the Bolzano valley floor high into the Vinschgau.",
+    "local_varieties": ["Golden Delicious", "Gala", "Red Delicious", "Pink Lady", "Granny Smith", "Fuji", "Kalterer Böhmer", "Weißer Rosmarin"],
+    "pests_diseases": "Apple proliferation (a phytoplasma spread by psyllids) has been a major problem in South Tyrol and Trentino, alongside scab, woolly aphid and codling moth, which is widely managed by mating disruption. The brown marmorated stink bug has arrived in recent years.",
+    "tips": "Buy certified healthy trees and remove any tree that shows proliferation symptoms (witches'-brooms, small pale fruit). In the dry Vinschgau irrigation is essential, and everywhere a sunny site with good air drainage gives the region's trademark colour.",
+    "confidence": "high"
+  },
+  {
+    "id": "saluzzo",
+    "summary": "The foot of the Cottian Alps above the Po plain has a subalpine continental climate: cold winters, warm humid summers, and cool nights from mountain air that colour fruit well. Summer hailstorms are frequent enough that nets are standard, and spring frost can hit low ground.",
+    "apple_culture": "The Saluzzo-Lagnasco-Cuneo district is Piedmont's fruit bowl, growing apples alongside kiwifruit, peaches and pears, with red apples from the province marketed under the Mela Rossa Cuneo IGP. The valleys also keep a Slow Food presidium of old Piedmontese apples, led by the russeted Grigia di Torriana of Barge.",
+    "local_varieties": ["Renetta Grigia di Torriana", "Buras", "Runsè", "Magnana", "Gamba Fina", "Gala", "Red Delicious"],
+    "pests_diseases": "Hail is the major weather risk. Apple scab, codling moth and the invasive brown marmorated stink bug cause the most crop damage, and Marssonina leaf blotch has become a concern.",
+    "tips": "The old local types such as Grigia di Torriana and Buras are late keepers that suit standard trees and baking; for dessert apples, choose scab-resistant varieties. Netting protects small trees from hail and also helps against stink bugs.",
+    "confidence": "medium"
+  },
+  {
+    "id": "bologna",
+    "summary": "The Po plain around Bologna has hot, humid summers and cold, foggy winters that provide adequate chilling; spring frost settles on the flat lowland, and sultry summer nights limit red colour and keeping quality. The Apennine foothills to the south are cooler and airier and suit apples better.",
+    "apple_culture": "Emilia-Romagna is better known for pears (Abate Fetel), peaches and kiwifruit, with commercial apples concentrated mainly around Ferrara and Modena. Bologna's own heritage apple is the Rosa Romana of the Apennine foothills, once the dominant local variety and now being revived, and regional programmes have rescued other old apples such as Campanina and Abbondanza.",
+    "local_varieties": ["Rosa Romana", "Campanina", "Abbondanza", "Decio", "Golden Delicious", "Fuji"],
+    "pests_diseases": "The brown marmorated stink bug caused severe fruit damage here after it spread in the 2010s, and codling moth is persistent through the long summer. Scab, powdery mildew and fire blight (mainly on pears) also occur.",
+    "tips": "On the plain, choose heat-tolerant varieties and irrigate; in the hills, Rosa Romana and similar old keepers do well as standard trees. Fine-mesh exclusion netting over small trees helps against both stink bug and codling moth.",
+    "confidence": "medium"
+  },
+  {
+    "id": "etna",
+    "summary": "A Mediterranean island climate made apple-friendly by altitude: on Etna's slopes above the citrus and vine belt, winters are cold enough for chilling (with snow higher up), and cool nights temper the hot, dry summer. The deep volcanic soils drain freely, so summer drought is the main stress.",
+    "apple_culture": "Etna has long grown small, fragrant mountain apples on its terraced volcanic slopes; the ancient Etna apples - Cola, Gelato, Gelato Cola and Cirino - were made a Slow Food presidium in 2016, and Gelato Cola is still sold today. Elsewhere in Sicily apples are scarce because the lowlands are too warm.",
+    "local_varieties": ["Gelato Cola", "Cola", "Gelato", "Cirino"],
+    "pests_diseases": "Mediterranean fruit fly attacks apples at lower elevations in warm autumns, and codling moth is widespread. Sunburn and drought stress are bigger issues than scab.",
+    "tips": "Grow apples only at altitude; on the coastal lowland, choose low-chill varieties or other fruit. On the volcano, mulch and water young trees, try the local Etna types for flavour and keeping, and harvest promptly where fruit fly is active.",
+    "confidence": "medium"
+  },
+  {
+    "id": "asturias",
+    "summary": "Green Atlantic Spain: mild winters, cool cloudy summers and rain in every season, with sea fogs and high humidity. Frost rarely threatens blossom, but the constant damp makes fungal disease the dominant concern.",
+    "apple_culture": "Asturias is the cider capital of Spain: natural sidra is poured from a height (escanciado) in sidrerías, pressed in family llagares and protected as DOP Sidra de Asturias, which allows only approved local cider varieties. Villaviciosa, home of the SERIDA research centre and its apple collection, is the heart of the apple country, and many farms still keep traditional tall orchards (pomaradas).",
+    "local_varieties": ["Raxao", "Regona", "Verdialona", "Durona de Tresali", "Blanquina", "De la Riega", "Collaos", "Teórica"],
+    "pests_diseases": "Apple scab, European canker and woolly aphid are persistent in the wet climate, and rosy apple aphid and codling moth reduce yields. Traditional orchards also crop in a strong alternate-year rhythm.",
+    "tips": "Plant robust local cider varieties and mix sweet, bittersweet and sharp types for a balanced cider. Choose well-drained slopes for airflow, prune for an open crown, and thin heavy crops to soften biennial bearing.",
+    "confidence": "high"
+  },
+  {
+    "id": "lleida",
+    "summary": "The inland Ebro depression is semi-arid and continental: hot, very sunny summers, cold winters with long spells of ground fog (boira), and too little rain to grow fruit without irrigation. Spring frost on the flat plain and summer heat are the main constraints, and warm nights limit red colour.",
+    "apple_culture": "The irrigated plains of the Segrià and Pla d'Urgell, watered by historic canals, form one of Spain's biggest fruit districts; stone fruit and pears dominate, but apples - especially Golden Delicious and Gala - are a major crop. The area is a hub of cooperatives, packhouses and IRTA fruit research.",
+    "local_varieties": ["Golden Delicious", "Gala", "Fuji", "Granny Smith", "Red Delicious"],
+    "pests_diseases": "Codling moth runs several generations through the long summer and is the key pest. Sunburn, powdery mildew and occasional fire blight matter, while scab is minor in the dry climate.",
+    "tips": "Irrigation is non-negotiable - drip plus mulch is ideal for a home tree - and shade netting or a well-leafed canopy protects fruit from sunburn. Choose varieties that do not depend on cool nights for colour (Golden types, Granny Smith) and expect repeated codling moth control.",
+    "confidence": "medium"
+  },
+  {
+    "id": "alcobaca",
+    "summary": "The Oeste region north of Lisbon has an Atlantic-tempered climate: mild winters with modest chilling, warm summers cooled by sea breezes and frequent morning fog, and rain concentrated in the cool season. The maritime humidity favours fungal disease but slows ripening, giving a fresh sweet-sharp balance.",
+    "apple_culture": "Apples have been grown here since the Cistercian monks of the Alcobaça monastery developed the surrounding farmland in the Middle Ages, and Maçã de Alcobaça has been a protected geographical indication since the 1990s. The Oeste is Portugal's main apple and pear district (alongside the Rocha pear), and the old local Casa Nova de Alcobaça is still certified under the IGP.",
+    "local_varieties": ["Casa Nova de Alcobaça", "Reineta", "Gala", "Golden Delicious", "Fuji", "Granny Smith"],
+    "pests_diseases": "Apple scab and powdery mildew are encouraged by the Atlantic humidity, and codling moth is the main pest. Mediterranean fruit fly can attack ripening fruit in warm autumns, and fire blight has reached Portuguese pome-fruit orchards.",
+    "tips": "Choose varieties with modest chilling needs that suit mild winters - the local Casa Nova and Reineta, Gala and Granny Smith all perform here. Give trees open, airy crowns against scab, and pick promptly where fruit fly is active.",
+    "confidence": "medium"
+  },
+  {
+    "id": "pelion",
+    "summary": "A steep, forested mountain peninsula on the Aegean that catches unusually high rainfall for Greece; the cool, moist eastern slopes above Zagora give apples the chilling and mild summers they need despite the southern latitude. Snow can fall at altitude in winter, and elevation and sea moisture soften the dry Mediterranean summer.",
+    "apple_culture": "Apples are a mountain-village crop on the terraces of eastern Pelion, organised around the long-established Zagora cooperative. Two apples hold PDO status: the small, aromatic Firiki of Pelion, grown here since at least the 1700s, and Zagora Starking Delicious, introduced in the mid-20th century.",
+    "local_varieties": ["Firiki", "Starking Delicious", "Royal Gala", "Fuji", "Reinette du Canada"],
+    "pests_diseases": "Codling moth and apple scab are the main problems, and the Mediterranean fruit fly can strike lower orchards. Hail and summer drought are the chief weather risks.",
+    "tips": "Grow apples at altitude on the moist eastern side; on the hot lowland, choose low-chill types. The local Firiki is a good keeper suited to traditional standard trees, and young trees need mulch and water through the dry summer.",
+    "confidence": "medium"
+  }
+]

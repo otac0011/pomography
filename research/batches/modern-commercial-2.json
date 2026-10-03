@@ -1,0 +1,103 @@
+{
+ "batch": "modern-commercial-2",
+ "theme": "modern-commercial",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "rave",
+   "name": "Rave",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "mutsu",
+   "name": "Mutsu",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "akane",
+   "name": "Akane",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "sansa",
+   "name": "Sansa",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "liberty",
+   "name": "Liberty",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "spartan",
+   "name": "Spartan",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "gloster",
+   "name": "Gloster",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "pristine",
+   "name": "Pristine",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "enterprise",
+   "name": "Enterprise",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "freedom",
+   "name": "Freedom",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "redfree",
+   "name": "Redfree",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "priscilla",
+   "name": "Priscilla",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "sir-prize",
+   "name": "Sir Prize",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "melrose",
+   "name": "Melrose",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "ligol",
+   "name": "Ligol",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "lobo",
+   "name": "Lobo",
+   "theme": "modern-commercial",
+   "keepers": false
+  }
+ ]
+}

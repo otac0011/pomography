@@ -1,0 +1,425 @@
+[
+  {
+    "id": "lady-of-wemyss",
+    "name": "Lady of Wemyss",
+    "aka": [
+      "Lady of the Wemyss",
+      "Lady Wemyss"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Scotland",
+      "year": 1831,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Scottish cooking apple, on record since 1831; the National Fruit Collection holds it as 'Lady of the Wemyss'. The name points to the Wemyss estates of Fife, but no reliable account of its exact birthplace was found.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, broad apple, ribbed from eye to base, pale or yellowish green with a dull orange-red to mauve-red flush and russet flecks."
+    },
+    "taste": {
+      "summary": "Hard, fine-textured greenish-yellow flesh with a distinctly acid flavour, used as a cooker.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Group estimated from National Fruit Collection flowering dates (early May, alongside Grenadier); treat as mid-season and provide a partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool Scottish and northern British conditions, where it originated.",
+      "poor_climates": "No record of performance in warm climates; assume it prefers cool summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A heritage choice for Scottish and northern collections. Little is documented about the tree, so grow on a moderately vigorous rootstock and treat as a standard spur-bearing cooker.",
+    "conf": "low"
+  },
+  {
+    "id": "lanes-prince-albert",
+    "name": "Lane's Prince Albert",
+    "aka": [
+      "Prince Albert",
+      "Lane's",
+      "Victoria and Albert"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Berkhamsted, Hertfordshire, England",
+      "year": 1840,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Recorded as Russet Nonpareil x Dumelow's Seedling",
+      "raised_by": "Thomas Squire; introduced by John Lane (nurseryman, Berkhamsted)"
+    },
+    "history": "Raised around 1840 by Thomas Squire in Berkhamsted and named, by tradition, after Prince Albert passed through the town. The local nursery of John Lane released it in 1850; it won an RHS First Class Certificate in 1872 and remains one of the classic English cookers, holding an RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, smooth, bright green apple ripening yellowish, striped and lightly flushed with red on the sunny side."
+    },
+    "taste": {
+      "summary": "Very juicy, soft white flesh with a strong, clean acidity. It cooks to a sharp puree that keeps a little texture, and it softens and sweetens somewhat in store; flesh browns quickly once cut.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar for cooking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Fairly weak, compact tree with a spreading, somewhat drooping habit, which makes it suitable for small gardens. Crops young and regularly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-to-late flowering (group 3 in most lists, 4 in some). A good pollinator for others; needs a partner. Blossom is sensitive to frost."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Throughout Britain, including the north, Scotland and the wet west; hardy to roughly -20 C and fine in mild damp climates.",
+      "poor_climates": "Frost-prone hollows can damage its blossom; hot climates are untested and would likely shorten storage."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main weakness is powdery mildew; otherwise a healthy tree with good scab resistance."
+    },
+    "grow_notes": "A good choice for a small garden that wants one reliable cooker; its modest vigour suits bush or cordon forms. Prune out mildewed shoot tips in spring and keep the tree open to airflow.",
+    "conf": "high"
+  },
+  {
+    "id": "lemon-pippin",
+    "name": "Lemon Pippin",
+    "aka": [
+      "Kirke's Lemon Pippin",
+      "Quince Apple",
+      "Reinette Limon de Galles"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1744,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old apple, probably English though a Norman origin has been suggested, on record since the mid-eighteenth century. Its name comes from the lemon-like shape and colour of the fruit, which often has a fleshy knob at the stalk end; it spread widely in Europe under names such as Englischer Quittenapfel.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Oval, lemon-shaped fruit, often with a fleshy swelling at the stalk, ripening to clear lemon-yellow with fine russet dots."
+    },
+    "taste": {
+      "summary": "Firm, rather dry, coarse flesh that is moderately sharp with a faint aroma. It keeps its shape when cooked, suiting pies and slices, and was traditionally used for drying and preserves; by late winter it is acceptable eaten raw.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing and regular."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Late-ish flowering (group 4); pair with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate western Europe; long grown in England and across continental collections.",
+      "poor_climates": "No documented performance in hot climates; short cool seasons may not let it finish ripening for storage."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported as having good general disease resistance; specific susceptibilities not recorded."
+    },
+    "grow_notes": "A curiosity worth growing for its unusual lemon-shaped fruit and long keeping. Pick in October and store cool; use for cooking first and eat the remainder raw in late winter.",
+    "conf": "medium"
+  },
+  {
+    "id": "london-pippin",
+    "name": "London Pippin",
+    "aka": [
+      "Five Crowned Pippin",
+      "Five Crown Pippin",
+      "Royal Somerset",
+      "Calville du Roi"
+    ],
+    "uses": [
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Essex or Norfolk, England",
+      "year": 1580,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the oldest named English apples, recorded in 1580 and thought to have arisen in Essex or Norfolk. The alternative name Five Crowned Pippin refers to the five prominent knobs around the eye; it was later grown in Somerset as Royal Somerset and travelled widely in Europe under many names.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish fruit ribbed along the sides and crowned with five bold ridges at the eye; yellow with a dull brownish-red flush on the sunny side."
+    },
+    "taste": {
+      "summary": "Crisp, firm, white flesh with moderate acidity and little perfume. Used chiefly for cooking through the winter; its juice has also gone into Somerset cider, where it rates as a low-tannin sweet type.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 1,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": "sweet",
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing information."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group estimated from National Fruit Collection flowering dates, which match the group 4 Lemon Pippin; use a mid-to-late flowering partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Lowland England and similar temperate climates; long established in European collections.",
+      "poor_climates": "No reliable evidence for hot or very cold climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded."
+    },
+    "grow_notes": "A historic keeper for heritage orchards. Pick in mid-October, store cool and use for cooking from midwinter onward.",
+    "conf": "medium"
+  },
+  {
+    "id": "newton-wonder",
+    "name": "Newton Wonder",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "King's Newton, Melbourne, Derbyshire, England",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Probably Dumelow's Seedling x Blenheim Orange",
+      "raised_by": "Mr Taylor, King's Newton"
+    },
+    "history": "Found by a Mr Taylor at King's Newton in Derbyshire (traditionally growing at the village inn) and released around 1887, when it also earned an RHS First Class Certificate. Its likely parents are Dumelow's Seedling and Blenheim Orange; it in turn fathered Howgate Wonder.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, flattish fruit, bright yellow with a scarlet flush and stripes over the sunny half."
+    },
+    "taste": {
+      "summary": "A large cooker with sharp, acidic flesh that is crisp and very juicy at picking, though a little sweeter than Bramley; it cooks to a puree needing little sugar. After a few months in store, by about Christmas, it softens and mellows into a pleasant sweet-sharp eating apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; raw from about Jan"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Very vigorous and wide-spreading; slow to start but then crops heavily, with a strong tendency to biennial bearing. Thin in heavy years."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Late flowering (group 4 in some lists, 5 in others); partly self-fertile but better with a late-flowering partner. Blossom has good frost tolerance."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, damp temperate climates throughout Britain; its late blossom helps it avoid spring frosts.",
+      "poor_climates": "Hot summers are likely to cut storage life and colour; untested in warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some resistance to scab and canker; somewhat susceptible to powdery mildew. Biennial cropping is the main practical nuisance."
+    },
+    "grow_notes": "Needs space or a dwarfing rootstock because of its vigour. A good late-flowering cooker for frosty sites; thin hard in heavy years to even out cropping.",
+    "conf": "high"
+  }
+]

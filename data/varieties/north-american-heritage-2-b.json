@@ -1,0 +1,444 @@
+[
+  {
+    "id": "hewes-crab",
+    "name": "Hewes Crab",
+    "aka": [
+      "Hewe's Crab",
+      "Virginia Crab",
+      "Hughes' Virginia Crab",
+      "Cider Crab",
+      "Red Hughes"
+    ],
+    "uses": [
+      "cider",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Virginia, USA",
+      "year": 1817,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": "Unknown; it is sometimes suggested to carry native American crab (Malus angustifolia) ancestry, but this is unproven",
+      "raised_by": null
+    },
+    "history": "Virginia's classic colonial cider apple, described in the early nineteenth century from trees that were already said to be about a century old. It was planted at Monticello and on many Virginia plantations, and is now prized again by American craft cider makers.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "green",
+      "blush": "deep-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Very small crab-like fruit, about 4 cm across, dull green streaked and overlaid with purplish dull red and peppered with pale dots."
+    },
+    "taste": {
+      "summary": "Firm, crisp, very juicy flesh that is sharply acidic with a noticeable astringent, slightly bitter edge. Too austere for most people raw; its value is a clear, dry, well-structured cider, on its own or in blends.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 2,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "astringent",
+        "bitter"
+      ],
+      "cider_class": "bittersharp",
+      "best_eaten": "Pressed Oct-Nov, after a short sweat"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Long-lived, hardy tree that crops heavily but with a strong tendency to alternate years; thinning in the 'on' year helps even it out."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Listed as group 3 and a good pollinator, with some self-fertility claimed; crops are better with a partner nearby."
+    },
+    "season": {
+      "harvest": "late Sep-mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer eastern US climates such as Virginia and the Mid-Atlantic, and also cold northern orchards where its hardiness counts.",
+      "poor_climates": "Few clear weaknesses recorded; in cool, cloudy summers the juice will be sharper and thinner."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally regarded as a tough, long-lived tree; main drawback is biennial bearing. Specific disease ratings are not well documented."
+    },
+    "grow_notes": "A good backbone tree for a cider orchard in a cold or hot-summer area. Thin heavy crops to reduce alternate bearing, and blend its sharp, tannic juice with sweeter apples.",
+    "conf": "medium"
+  },
+  {
+    "id": "smokehouse",
+    "name": "Smokehouse",
+    "aka": [
+      "Gibbons Smokehouse",
+      "Mill Creek",
+      "Mill Creek Vandevere",
+      "English Vandevere",
+      "Red Vandevere"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Mill Creek, Lancaster County, Pennsylvania, USA",
+      "year": 1837,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Said to be a seedling of Vandevere; not confirmed",
+      "raised_by": "William Gibbons"
+    },
+    "history": "Arose in the 1830s on William Gibbons' farm near Mill Creek in Lancaster County, Pennsylvania, from a tree growing beside his smokehouse, which gave it its name. It spread through Pennsylvania and the Mid-Atlantic as an all-purpose farm apple.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Fairly large, flattish fruit, greenish-yellow shaded and striped with red."
+    },
+    "taste": {
+      "summary": "Firm, crisp, moderately fine-grained yellowish flesh with a pleasant balance of sweetness and acidity, a gently spicy, honeyed note and a fresh-cider character. Good raw and very good for pies and baking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "spice",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Spur-bearing; other tree characteristics are not well documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not recorded; provide a pollinator."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mid-Atlantic and lower Northeast climates with cold winters and warm summers, like south-east Pennsylvania.",
+      "poor_climates": "Not well documented; climate values are inferred from its region of origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well documented."
+    },
+    "grow_notes": "A dependable dual-purpose farmstead apple for cold-winter, warm-summer regions. Plant with a pollinator and use the fruit for eating and baking through early winter.",
+    "conf": "low"
+  },
+  {
+    "id": "sheepnose",
+    "name": "Sheepnose",
+    "aka": [
+      "Black Gilliflower",
+      "Gilliflower",
+      "Black Spitzenburg",
+      "Crow's Egg"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Probably Connecticut, USA",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Sheepnose is the common rural name, especially in Vermont and Pennsylvania, for the apple pomologists call Black Gilliflower, an eighteenth-century New England variety probably from Connecticut. The southern Crow's Egg is widely thought to be the same apple. Named for its long, tapering, nose-like shape.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": true,
+      "russet": 0,
+      "description": "Distinctive tall, tapering, ribbed fruit with dark red skin deepening to almost black-purple, with faint darker stripes."
+    },
+    "taste": {
+      "summary": "Greenish-white, firm, coarse flesh that is sweet, mild in acid and notably aromatic, with a dry, nutty quality. It turns dry and fibrous if over-ripe or stored long, so it is best used fairly soon; traditionally baked or dried.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sweet",
+        "nutty"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Spur-bearing and reported to crop prolifically; fruit hangs well but must not be left to over-ripen."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not recorded."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter New England and northern Mid-Atlantic climates, where it is regarded as a hardy variety.",
+      "poor_climates": "Hot, humid climates are likely to give poorer colour and quicker drying out of the flesh; inferred from origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main fault is flesh that becomes dry and mealy if picked late or stored too long."
+    },
+    "grow_notes": "Hardy and productive in cold-winter areas. Pick promptly when coloured and use for baking, drying and early-winter eating rather than long storage.",
+    "conf": "medium"
+  },
+  {
+    "id": "magnum-bonum",
+    "name": "Magnum Bonum",
+    "aka": [
+      "Bonum",
+      "Red Bonum",
+      "Maggie Bowman",
+      "Magna Bonum"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Davidson County, North Carolina, USA",
+      "year": 1828,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Seedling grown from seed of the Hall apple",
+      "raised_by": "John Kinney"
+    },
+    "history": "Raised in 1828 in Davidson County, North Carolina, when John Kinney planted seeds of the Hall apple. It became a long-standing southern favourite for early autumn and was grown commercially in Virginia for a time.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small to medium yellow apple largely covered with light and dark red streaks and many small pale dots."
+    },
+    "taste": {
+      "summary": "Fine-grained, crisp, juicy white flesh, often pink-stained under the skin, with a well-flavoured, aromatic sweet-sharp balance; one grower in England found it a little sharper than Cox. Regarded as one of the best early-autumn southern dessert apples.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Described as a hardy and productive tree; other details are not well documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "The piedmont and mountains of the upper South (North Carolina, Virginia), with hot summers and moderate winters; reported to do well in mild south-west England too.",
+      "poor_climates": "Not well documented; chill and hardiness figures are inferred from its North Carolina origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not documented."
+    },
+    "grow_notes": "A good early-autumn dessert apple for warm-summer regions. Plant with a pollinator of similar season; the fruit keeps reasonably for a few weeks if stored cool.",
+    "conf": "low"
+  },
+  {
+    "id": "yates",
+    "name": "Yates",
+    "aka": [
+      "Yates Winter",
+      "Red Warrior",
+      "Jates"
+    ],
+    "uses": [
+      "dessert",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Fayette County, Georgia, USA",
+      "year": 1844,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Matthew Yates"
+    },
+    "history": "Found around 1844 by Matthew Yates in Fayette County, Georgia, and widely grown across the South for its exceptional keeping. Valued as a winter eating apple and as a cider apple, and reported to grow well from the southern mountains down to the coastal plain.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small to very small fruit, pale yellow almost hidden under dark red shading and stripes; flesh sometimes tinged red under the skin."
+    },
+    "taste": {
+      "summary": "Pleasant, sweetish yellowish-white flesh, usually described as tender, juicy and aromatic, though one modern grower found it crisp and fairly dry with a tangy flavour suggesting blood orange. Holds its quality through the winter and is well regarded for cider as well as fresh eating.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "citrus"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Tree habit not well documented."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed as a group 4 diploid in one database; plant with a compatible pollinator."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Dec-Mar",
+      "storage_weeks": 22
+    },
+    "climate": {
+      "chill_hours": 500,
+      "hardiness_zone": 6,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Hot-summer, mild-winter regions of the American South, from the Georgia piedmont to the coastal plain.",
+      "poor_climates": "Cool, short-season climates such as Britain may not ripen this very late apple; chill and hardiness are estimates inferred from its Georgia origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease profile not documented in sources checked; its long popularity in the humid South suggests reasonable tolerance, but this is unverified."
+    },
+    "grow_notes": "One of the best choices for a long-keeping apple in a warm southern garden. Leave the fruit on the tree as late as possible and store it cool for eating through late winter.",
+    "conf": "low"
+  }
+]

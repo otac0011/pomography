@@ -1,0 +1,387 @@
+[
+  {
+    "id": "pilot",
+    "name": "Pilot",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "DE",
+      "place": "Dresden-Pillnitz, Saxony",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Clivia x Undine",
+      "raised_by": "Institut für Obstforschung Dresden-Pillnitz"
+    },
+    "history": "A late-keeping dessert apple from the East German fruit research institute at Dresden-Pillnitz, released in 1988 and a half-sibling of Pinova through its parent Clivia. Not to be confused with the old American 'Pilot', a nineteenth-century Virginia seedling.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium fruit with a yellow to orange ground covered up to about two-thirds in strong cinnabar red; the skin is rather rough and tough, so it bruises little."
+    },
+    "taste": {
+      "summary": "Firm, juicy flesh with a sweet-sharp, fairly brisk flavour that becomes sweeter and more aromatic after a few months in store. A true winter keeper rather than an apple for picking and eating.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sharp", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Jan-May; not ready until after Christmas"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Reported to crop early and heavily on dwarfing stocks and to be easy to grow; detailed habit data are scarce in English sources."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "UK flowering group not published; plant with another diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Jan-May",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central European fruit regions with cold winters and moderate summers, and by extension most of lowland Britain.",
+      "poor_climates": "Hot, short-winter climates are untested; very short seasons may not mature a mid-October apple."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Low susceptibility to scab, powdery mildew and fire blight is reported, making it suitable for most apple-growing sites."
+    },
+    "grow_notes": "A good choice for anyone wanting home-grown apples into spring: pick in October, store cool and start eating in the new year. Its disease tolerance suits low-spray gardens.",
+    "conf": "medium"
+  },
+  {
+    "id": "santana",
+    "name": "Santana",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "NL",
+      "place": "Wageningen",
+      "year": 1978,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Elstar x Priscilla",
+      "raised_by": "Plant breeding research at Wageningen (now Wageningen University & Research)"
+    },
+    "history": "Raised at Wageningen in the Netherlands from a 1978 Elstar x Priscilla cross and brought to market in the mid-1990s as a scab-resistant dessert apple. It later attracted attention because many people with apple allergy react less, or not at all, to it.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium to large fruit, green to yellow-green with a strong red flush on the sunny side that ranges from marbled to solid."
+    },
+    "taste": {
+      "summary": "A delicately perfumed apple with a vinous sweet-sharp balance, compared with Spartan; some tasters find hints of rose, lychee or sweet grape. Creamy-yellow flesh is firm and juicy rather than crunchy, and it does not keep long.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["perfumed", "wine", "rose", "grape"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Spur-bearing and a regular cropper. Reports of vigour conflict (one source calls it weak-growing, another strong), so judge rootstock choice on site."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; an average pollinator for other varieties."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool to mild temperate climates of north-west Europe, including wet areas where its scab resistance pays off.",
+      "poor_climates": "Hot, dry summers that favour powdery mildew and are likely to blunt its delicate flavour."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 2,
+      "mildew": 4,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Vf scab resistance (from Priscilla) and some canker tolerance, but notably susceptible to powdery mildew. Lower in the allergen Mal d 1 than most apples."
+    },
+    "grow_notes": "A good scab-free choice for damp gardens, but watch for mildew and remove infected shoots in spring. Pick in late September and eat within a month or two.",
+    "conf": "medium"
+  },
+  {
+    "id": "delbarestivale",
+    "name": "Delbarestivale",
+    "aka": ["Delcorf", "Delbard Estivale"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "FR",
+      "place": "Malicorne, Allier",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Stark Jon Grimes x Golden Delicious",
+      "raised_by": "Delbard nursery (Georges Delbard)"
+    },
+    "history": "An early dessert apple bred by the Delbard nursery in central France; the cultivar name is Delcorf and Delbarestivale is its trade name. German sources date its market launch to 1982, and several redder sports (such as Celeste and Monidel) have since been selected.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, somewhat cylindrical fruit with smooth greenish-yellow skin streaked and flushed red on the sunny side."
+    },
+    "taste": {
+      "summary": "Aromatic and sweet with gentle acidity; juicy and fairly crisp for an early apple, and it keeps better than most summer varieties.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Aug-Oct"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous with steep, sparsely branched growth and a strong tendency to crop every other year; thin early. Fruit ripens unevenly, so pick over several passes."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "UK flowering group not confirmed; plant with another diploid."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate France and central Europe; its early season helps in places where autumn comes early.",
+      "poor_climates": "Wet climates with high scab and mildew pressure, where it needs regular spraying."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab, powdery mildew and red spider mite; considered unsuited to low-input growing."
+    },
+    "grow_notes": "One of the better-flavoured early apples, but needs spraying in damp climates and firm thinning to break biennial cropping. Tie down or spread its upright branches to encourage fruiting.",
+    "conf": "medium"
+  },
+  {
+    "id": "opal",
+    "name": "Opal",
+    "aka": ["UEB 32642"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "CZ",
+      "place": "Institute of Experimental Botany, Czech Republic",
+      "year": 1991,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Topaz",
+      "raised_by": "Jaroslav Tupý, Institute of Experimental Botany (Czech Academy of Sciences)"
+    },
+    "history": "Bred in the Czech Republic by Jaroslav Tupý's team at the Institute of Experimental Botany from a Golden Delicious x Topaz cross (1991 per German sources), and protected in the USA and EU in 2005-06. Marketed as Opal, it is grown mostly in Washington State and in several European countries. Not the same as the older English apple 'Opal' (Seabrook, Essex, 1930s).",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Bright yellow to yellow-orange skin, sometimes lightly russeted, on a Golden Delicious-like fruit."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and sweet with a tangy edge; the fine cream-yellow flesh has a quince-like fragrance with a hint of pear. It barely browns when cut thanks to low polyphenol oxidase.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["quince", "pear", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Feb; ready about two weeks after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Medium vigour with a weak central leader, good branching, dense foliage and short fruiting wood."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "UK flowering group not published; plant with another diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Continental and temperate Europe and dry sunny regions such as central Washington; as a yellow apple it does not depend on cool nights for colour.",
+      "poor_climates": "Very short seasons where an early-October apple will not ripen; russeting may be worse in humid conditions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rvi6 (Vf) scab resistance inherited from Topaz and reported tolerance of fire blight; skin may russet."
+    },
+    "grow_notes": "A low-spray option for scab-prone areas. Ripens with Golden Delicious, so it needs a reasonably warm, sunny site in the UK. Give the weak central leader support while young.",
+    "conf": "medium"
+  },
+  {
+    "id": "cosmic-crisp",
+    "name": "Cosmic Crisp",
+    "aka": ["WA 38"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "US",
+      "place": "WSU Tree Fruit Research and Extension Center, Wenatchee, Washington",
+      "year": 1997,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Enterprise x Honeycrisp",
+      "raised_by": "Bruce Barritt, Washington State University (completed by Kate Evans)"
+    },
+    "history": "Crossed in 1997 at Washington State University's Wenatchee station by Bruce Barritt and taken forward by Kate Evans. Trees went to Washington growers from about 2016-17, with first fruit on sale in 2019, it was the first major variety bred in Washington and was initially restricted to growers in that state.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, dark wine-red fruit speckled with pale lenticels - the 'cosmic' starry look that gave it its name."
+    },
+    "taste": {
+      "summary": "Very crisp and juicy, firmer than Honeycrisp, with both sugar and acid high so the flavour is a bright sweet-tart balance. The flesh browns slowly and keeps its texture for months.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": ["sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Apr"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Precocious and productive; crop load must be managed to avoid alternate bearing. Fruit set is lower than in most varieties."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4. Washington State University recommends late-flowering crab apples as pollinators because fruit set is relatively poor."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Apr",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Sunny, dry, irrigated fruit regions with hot days and cool nights, such as central Washington.",
+      "poor_climates": "Short or cool seasons may not mature it; humid climates are largely untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Prone to 'green spot', a calcium-related, bitter-pit-like skin disorder, and to a physiological leaf blotch and fruit staining. Disease ratings not well published."
+    },
+    "grow_notes": "Plant with late-flowering crab apples to improve set and thin consistently to keep cropping annual. Apply calcium sprays to limit green spot. Outside Washington, availability depends on licensing.",
+    "conf": "high"
+  }
+]

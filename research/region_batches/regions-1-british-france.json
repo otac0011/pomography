@@ -1,0 +1,249 @@
+{
+ "batch": "regions-1-british-france",
+ "count": 27,
+ "regions": [
+  {
+   "id": "kent",
+   "name": "Kent (East Farleigh and the Weald)",
+   "country": "GB",
+   "lat": 51.25,
+   "lon": 0.47,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "norfolk",
+   "name": "Norfolk (Norwich)",
+   "country": "GB",
+   "lat": 52.63,
+   "lon": 1.3,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "herefordshire",
+   "name": "Herefordshire",
+   "country": "GB",
+   "lat": 52.06,
+   "lon": -2.72,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "somerset",
+   "name": "Somerset (Taunton and the cider country)",
+   "country": "GB",
+   "lat": 51.02,
+   "lon": -3.1,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "devon",
+   "name": "Devon (Totnes)",
+   "country": "GB",
+   "lat": 50.43,
+   "lon": -3.69,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "cornwall",
+   "name": "Cornwall (Truro)",
+   "country": "GB",
+   "lat": 50.26,
+   "lon": -5.05,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "evesham",
+   "name": "Vale of Evesham (Worcestershire)",
+   "country": "GB",
+   "lat": 52.09,
+   "lon": -1.95,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "fens",
+   "name": "Cambridgeshire Fens (Wisbech)",
+   "country": "GB",
+   "lat": 52.67,
+   "lon": 0.16,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "york",
+   "name": "York (Vale of York)",
+   "country": "GB",
+   "lat": 53.96,
+   "lon": -1.08,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "northumberland",
+   "name": "Northumberland (Alnwick)",
+   "country": "GB",
+   "lat": 55.41,
+   "lon": -1.71,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "lothians",
+   "name": "East Lothian and Edinburgh",
+   "country": "GB",
+   "lat": 55.95,
+   "lon": -3.19,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "carse-of-gowrie",
+   "name": "Carse of Gowrie (Perthshire)",
+   "country": "GB",
+   "lat": 56.45,
+   "lon": -3.15,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "highlands",
+   "name": "Scottish Highlands (Inverness)",
+   "country": "GB",
+   "lat": 57.48,
+   "lon": -4.22,
+   "group": "British Isles",
+   "kind": "marginal"
+  },
+  {
+   "id": "south-wales",
+   "name": "South Wales (Usk Valley)",
+   "country": "GB",
+   "lat": 51.7,
+   "lon": -2.9,
+   "group": "British Isles",
+   "kind": "garden"
+  },
+  {
+   "id": "armagh",
+   "name": "County Armagh (Northern Ireland)",
+   "country": "GB",
+   "lat": 54.35,
+   "lon": -6.65,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "tipperary",
+   "name": "Tipperary and Cork (Ireland)",
+   "country": "IE",
+   "lat": 52.35,
+   "lon": -7.7,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "jersey",
+   "name": "Jersey (Channel Islands)",
+   "country": "GB",
+   "lat": 49.19,
+   "lon": -2.11,
+   "group": "British Isles",
+   "kind": "heritage"
+  },
+  {
+   "id": "shetland",
+   "name": "Shetland (Lerwick)",
+   "country": "GB",
+   "lat": 60.15,
+   "lon": -1.15,
+   "group": "British Isles",
+   "kind": "extreme"
+  },
+  {
+   "id": "paris",
+   "name": "Paris (Ile-de-France)",
+   "country": "FR",
+   "lat": 48.86,
+   "lon": 2.35,
+   "group": "France",
+   "kind": "garden"
+  },
+  {
+   "id": "pays-dauge",
+   "name": "Pays d'Auge (Normandy)",
+   "country": "FR",
+   "lat": 49.1,
+   "lon": 0.1,
+   "group": "France",
+   "kind": "heritage"
+  },
+  {
+   "id": "rennes",
+   "name": "Rennes (Brittany)",
+   "country": "FR",
+   "lat": 48.11,
+   "lon": -1.68,
+   "group": "France",
+   "kind": "heritage"
+  },
+  {
+   "id": "angers",
+   "name": "Angers (Loire Valley)",
+   "country": "FR",
+   "lat": 47.47,
+   "lon": -0.55,
+   "group": "France",
+   "kind": "commercial"
+  },
+  {
+   "id": "limousin",
+   "name": "Limousin (Limoges)",
+   "country": "FR",
+   "lat": 45.83,
+   "lon": 1.26,
+   "group": "France",
+   "kind": "commercial"
+  },
+  {
+   "id": "savoie",
+   "name": "Savoie (Chambery)",
+   "country": "FR",
+   "lat": 45.57,
+   "lon": 5.92,
+   "group": "France",
+   "kind": "garden"
+  },
+  {
+   "id": "avignon",
+   "name": "Provence (Avignon)",
+   "country": "FR",
+   "lat": 43.95,
+   "lon": 4.81,
+   "group": "France",
+   "kind": "commercial"
+  },
+  {
+   "id": "toulouse",
+   "name": "Toulouse (Southwest France)",
+   "country": "FR",
+   "lat": 43.6,
+   "lon": 1.44,
+   "group": "France",
+   "kind": "garden"
+  },
+  {
+   "id": "alsace",
+   "name": "Alsace (Strasbourg)",
+   "country": "FR",
+   "lat": 48.58,
+   "lon": 7.75,
+   "group": "France",
+   "kind": "garden"
+  }
+ ]
+}

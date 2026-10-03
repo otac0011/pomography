@@ -1,0 +1,170 @@
+{
+ "batch": "keepers-late-2",
+ "theme": "keepers-late",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "cornish-aromatic",
+   "name": "Cornish Aromatic",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "cornish-aromatic",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "cornish-gilliflower",
+   "name": "Cornish Gilliflower",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "cornish-gilliflower",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "cortland",
+   "name": "Cortland",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "cortland",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "crimson-crisp",
+   "name": "Crimson Crisp",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "crimson-crisp",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "crispin",
+   "name": "Crispin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "crispin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "decio",
+   "name": "Decio",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "decio",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "ducks-bill",
+   "name": "Duck's Bill",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "ducks-bill",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "easter-orange",
+   "name": "Easter Orange",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "easter-orange",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "elstar",
+   "name": "Elstar",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "elstar",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "empire",
+   "name": "Empire",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "empire",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "esopus-spitzenburg",
+   "name": "Esopus Spitzenburg",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "esopus-spitzenburg",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "falstaff",
+   "name": "Falstaff",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "falstaff",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "fiesta",
+   "name": "Fiesta",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "fiesta",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "flanders-cox",
+   "name": "Flanders Cox",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "flanders-cox",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "francis",
+   "name": "Francis",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "francis-apple",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "freyberg",
+   "name": "Freyberg",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "freyberg",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "fuji",
+   "name": "Fuji",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "fuji",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "gala",
+   "name": "Gala",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "gala",
+   "keepers_cat": "late-season-eating-apple",
+   "also_in": [
+    "modern-commercial"
+   ]
+  },
+  {
+   "id": "golden-delicious",
+   "name": "Golden Delicious",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "golden-delicious",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "golden-knob",
+   "name": "Golden Knob",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "golden-knob",
+   "keepers_cat": "late-season-eating-apple"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "batch": "keepers-late-4",
+ "theme": "keepers-late",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "merton-russet",
+   "name": "Merton Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "merton-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "nonpareil",
+   "name": "Nonpareil",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "nonpareil",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "norfolk-beefing",
+   "name": "Norfolk Beefing",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "norfolk-beefing",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "northern-spy",
+   "name": "Northern Spy",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "northern-spy",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "nuvar-cheerfull-gold",
+   "name": "Nuvar Cheerfull Gold",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "nuvar-cheerfull-gold",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "orin",
+   "name": "Orin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "orin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "orleans-reinette",
+   "name": "Orleans Reinette",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "orleans-reinette",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "otava",
+   "name": "Otava",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "otava",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "oxford-conquest",
+   "name": "Oxford Conquest",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "oxford-conquest",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "pecks-pleasant",
+   "name": "Peck's Pleasant",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "pecks-pleasant",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "pigs-nose-pippin",
+   "name": "Pig's Nose Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "pigs-nose-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "pitmaston-pine-apple",
+   "name": "Pitmaston Pine Apple",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "pitmaston-pine-apple",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "pixie",
+   "name": "Pixie",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "pixie",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "polly-prosser",
+   "name": "Polly Prosser",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "polly-prosser",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "primrose-pippin",
+   "name": "Primrose Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "primrose-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "rajka",
+   "name": "Rajka",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "rajka",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "red-delicious",
+   "name": "Red Delicious",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "red-delicious",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "red-falstaff",
+   "name": "Red Falstaff",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "red-falstaff",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "rhode-island-greening",
+   "name": "Rhode Island Greening",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "rhode-island-greening",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "ribston-pippin",
+   "name": "Ribston Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "ribston-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  }
+ ]
+}

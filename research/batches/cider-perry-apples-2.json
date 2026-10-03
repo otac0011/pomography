@@ -1,0 +1,133 @@
+{
+ "batch": "cider-perry-apples-2",
+ "theme": "cider-perry-apples",
+ "count": 21,
+ "varieties": [
+  {
+   "id": "court-royal",
+   "name": "Court Royal",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "royal-wilding",
+   "name": "Royal Wilding",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "frequin-rouge",
+   "name": "Frequin Rouge",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "binet-rouge",
+   "name": "Binet Rouge",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "muscadet-de-dieppe",
+   "name": "Muscadet de Dieppe",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "kermerrien",
+   "name": "Kermerrien",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "raxao",
+   "name": "Raxao",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "xuanina",
+   "name": "Xuanina",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "bohnapfel",
+   "name": "Bohnapfel",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "bortlinger-weinapfel",
+   "name": "Börtlinger Weinapfel",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "ashton-bitter",
+   "name": "Ashton Bitter",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "browns-apple",
+   "name": "Browns Apple",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "gennet-moyle",
+   "name": "Gennet Moyle",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "hereford-redstreak",
+   "name": "Hereford Redstreak",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "white-jersey",
+   "name": "White Jersey",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "bens-red",
+   "name": "Ben's Red",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "dymock-red",
+   "name": "Dymock Red",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "hagloe-crab",
+   "name": "Hagloe Crab",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "tom-putt",
+   "name": "Tom Putt",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "sheeps-nose",
+   "name": "Sheep's Nose",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "nehou",
+   "name": "Nehou",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  }
+ ]
+}

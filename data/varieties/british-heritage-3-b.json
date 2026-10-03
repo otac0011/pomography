@@ -1,0 +1,427 @@
+[
+  {
+    "id": "bess-pool",
+    "name": "Bess Pool",
+    "aka": [
+      "Bess Poole",
+      "Stadway Pippin",
+      "Walsgrove Blenheim"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "A wood near Nottingham, Nottinghamshire, England",
+      "year": 1824,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": "Chance seedling, parentage unknown",
+      "raised_by": "Found by Bess Pool; introduced by the Pearson nursery of Chilwell"
+    },
+    "history": "Said to have been found as a fruiting seedling in a Nottinghamshire wood by Bess Pool, whose father kept a village inn. The Pearson family's Chilwell nursery took grafts and released it by 1824. Its very late blossom made it a useful apple for frosty sites.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Handsome, rather tall and slightly irregular fruit, yellow washed and striped with clear red or crimson on the sunny side, with russet around the short, knobbed stalk."
+    },
+    "taste": {
+      "summary": "Sweet, gently wine-like flesh, sometimes tinged red under the skin. Old accounts call it tender and juicy, while the National Fruit Collection finds it rather dry and slightly coarse. It stays firm in store until spring.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": "light",
+      "biennial": null,
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Hardy and vigorous, forming a big round-headed standard, but slow to start bearing; 19th-century growers called it an irregular, unreliable cropper until the tree is mature."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Very late flowering: the National Fruit Collection records full bloom around 22 May. Orange Pippin lists group 5. It needs a late-flowering partner such as Edward VII, Court Pendu Plat or Crawley Beauty."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, frost-prone parts of central and northern England, where its late bloom misses spring frosts.",
+      "poor_climates": "Mild-winter or hot-summer regions: a late-blooming, long-keeping English apple is unlikely to get enough chill or keep its texture."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Its dense blossom clusters on thin stalks were said to be damaged badly by aphids. Otherwise disease behaviour is not well recorded."
+    },
+    "grow_notes": "Plant it where late frosts ruin other apples, and be patient, because young trees bear little. It suits a large standard better than a dwarf tree and needs a late-flowering pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "cockle-pippin",
+    "name": "Cockle Pippin",
+    "aka": [
+      "Cockle's Pippin",
+      "Brown Cockle Pippin",
+      "Pilot Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Godstone, Surrey, England (older accounts say Sussex)",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mr Cockle"
+    },
+    "history": "Raised around 1800 by a Mr Cockle, placed at Godstone in Surrey by the National Fruit Collection and in Sussex by Hogg and Bunyard; it was widely grown in both counties during the 19th century. It is often confused with Nutmeg Pippin, which Bunyard regarded as a separate apple.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 2,
+      "description": "Conical, slightly angular fruit, greenish-yellow turning golden, with a faint brownish-orange flush and thin cinnamon russet that thickens towards the base."
+    },
+    "taste": {
+      "summary": "Firm, crisp, fine-grained flesh, sweet with a mild sub-acid balance and a pleasant aromatic flavour; it can be on the dry side. Bunyard noted it tastes best after a warm summer, and it keeps well into spring.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after storage"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous and upright, with long, whippy shoots that make it easy to recognise; reported as fertile."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records full bloom around 11 May, so group 3 is inferred. Plant a mid-season partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "South-east England (Surrey and Sussex) and similar mild lowland areas, ideally with warm summers to bring out its flavour.",
+      "poor_climates": "Cold, dull, short-season areas may leave it under-flavoured; it is untested in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded."
+    },
+    "grow_notes": "A late russet-style keeper for a warm, sunny spot in southern England. Pick in mid October and store it cool until after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "queen-cox",
+    "name": "Queen Cox",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Appleby Fruit Farm, Kingston Bagpuize, Berkshire (now Oxfordshire), England",
+      "year": 1953,
+      "year_note": "first recorded",
+      "kind": "sport",
+      "parentage": "Colour sport of Cox's Orange Pippin",
+      "raised_by": null
+    },
+    "history": "A more highly coloured clone of Cox's Orange Pippin, found at Appleby Fruit Farm, Kingston Bagpuize, and received by the National Fruit Trials in 1953. It became one of the standard commercial Cox clones. A separate self-fertile selection is sold under a similar name.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Typical Cox shape and russet freckling, but more of the skin is covered by a deeper orange-red flush and stripes than in standard Cox."
+    },
+    "taste": {
+      "summary": "Like Cox, with firm, juicy, slightly acid flesh and a rich, aromatic flavour that brings floral, pear-drop and honeyed notes into balance. It improves for a few weeks after picking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "floral",
+        "pear-drop",
+        "honey",
+        "rose"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; best 2-4 weeks after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Grows and crops like ordinary Cox: a spur-bearer of medium vigour that needs good soil, shelter and attentive disease control."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Cox in group 3. Standard Queen Cox needs a pollinator; only the separately sold self-fertile selection can set fruit alone. Good partners include Egremont Russet, Discovery and Worcester Pearmain."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm, sheltered sites in southern England and similar cool-summer maritime climates on well-drained soil.",
+      "poor_climates": "Cold, wet districts encourage canker and scab, and hot summers give poorly coloured, soft fruit with less aroma."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Shares Cox's weaknesses: canker, scab and mildew, along with some bitter pit and cracking."
+    },
+    "grow_notes": "Grow it as you would Cox: a sunny, sheltered site on fertile, free-draining soil, with spraying or careful hygiene against scab and mildew. Choose it over standard Cox mainly for better colour.",
+    "conf": "medium"
+  },
+  {
+    "id": "lord-suffield",
+    "name": "Lord Suffield",
+    "aka": [
+      "Lady Suffield",
+      "Livesay's Imperial"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Boardman Lane, Middleton, near Manchester, Lancashire, England",
+      "year": 1836,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Thomas Thorpe, a hand-loom weaver"
+    },
+    "history": "Raised by Thomas Thorpe, a hand-loom weaver of Middleton near Manchester, and released around 1836. It was named after Lord Suffield, then lord of the manor of Middleton. It was a leading early codlin in Victorian times until Early Victoria and other varieties replaced it.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, tall, ribbed conical codlin with smooth pale greenish-yellow skin, occasionally with a faint red tinge."
+    },
+    "taste": {
+      "summary": "Crisp, juicy white flesh with a sharp, fresh acidity; it collapses completely to a fluffy froth when cooked. It is used for cooking straight from the tree and does not keep.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 5,
+      "ploidy": null,
+      "notes": "A small, compact, twiggy tree that bears very young and very heavily, but tends to be short-lived."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering: the National Fruit Collection records full bloom around 4 May, so group 2 is inferred (it may also overlap group 1). Use an early-blooming partner."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, northern English conditions such as Lancashire, where early codlins were valued for their reliable early crops.",
+      "poor_climates": "Wet, heavy soils make its canker worse, and hot climates would soften and rot this early, tender fruit even faster."
+    },
+    "health": {
+      "scab": null,
+      "canker": 5,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very prone to canker, and the fruit is apt to rot on the tree. Trees are short-lived."
+    },
+    "grow_notes": "Worth growing only for heritage interest or an early cooking crop, on well-drained soil with prompt removal of cankered wood. Pick and use the fruit as soon as it sizes up in August.",
+    "conf": "medium"
+  },
+  {
+    "id": "bismarck",
+    "name": "Bismarck",
+    "aka": [
+      "Bismark",
+      "Prince Bismarck",
+      "Prince Bismark"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Disputed: Bismarck (now Collinsvale), Tasmania; Carisbrook, Victoria; or Canterbury, New Zealand",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Named after the German chancellor, this apple has three origin stories: the German settlement of Bismarck (now Collinsvale) in Tasmania, the orchard of a German settler named Fricke at Carisbrook in Victoria, or Canterbury in New Zealand, which Hogg recorded. It reached Britain in the 1880s, won a First Class Certificate from the RHS in 1887, and was then widely planted in British and European gardens. It is distinct from a German apple of the same name.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, flattened, ribbed fruit, pale to rich yellow, streaked and often largely flushed bright to dark crimson."
+    },
+    "taste": {
+      "summary": "Firm, fine-textured, juicy white flesh with a clean, fairly sharp acidity and a faint perfume. It cooks to a soft, pale puree, and once mellowed in store it can be eaten raw by those who like a tart apple.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb for cooking; raw later in the season"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Grows strongly when young and then settles; old trees become broad and spreading. It suits bush forms but still needs an occasional firm prune. Crops well and fairly regularly once established."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Medium-early flowering (National Fruit Collection full bloom around 8 May), so group 3 is inferred and group 2 is possible. Described as partially self-fertile and frost-tolerant in blossom; a partner improves cropping."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate climates, from Tasmania and Victoria to Britain and upland central Europe; its wood is described as frost-hardy.",
+      "poor_climates": "Very hot, humid areas are untested; scab and mildew can be troublesome in damp seasons."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Somewhat susceptible to scab, canker and mildew; one grower reports brown rot."
+    },
+    "grow_notes": "A robust, heavy-cropping cooker for gardens, including colder upland sites. Give it room, or keep it as a bush with occasional firm pruning, and store the fruit for use through winter.",
+    "conf": "medium"
+  }
+]

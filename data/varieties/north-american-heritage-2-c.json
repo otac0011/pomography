@@ -1,0 +1,433 @@
+[
+  {
+    "id": "limbertwig",
+    "name": "Limbertwig",
+    "aka": [
+      "Old Fashioned Limbertwig"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Southern Appalachians, USA (North Carolina, Georgia, Tennessee, Virginia)",
+      "year": 1832,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": "Not a single clone: a family of related Appalachian seedlings sharing a drooping habit and similar fruit",
+      "raised_by": null
+    },
+    "history": "Limbertwig is a group name for a family of old Appalachian apples, recorded before the 1830s, whose trees share long, drooping, limber branches. Dozens of local strains exist (Old Fashioned, Red, Royal, Victoria, Brushy Mountain, Kentucky and others); this record describes the group in general and the Old Fashioned type in particular, which is said to come from north Georgia in the early 1800s.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium fruit with rather rough, thick, greenish-yellow skin washed with dull to deep red; appearance varies between strains."
+    },
+    "taste": {
+      "summary": "Firm to hard, yellowish, aromatic flesh with a distinctive flavour that improves in storage; Limbertwigs are valued more as long keepers and for pies, jelly and cider than as showy dessert apples. Flavour differs from strain to strain.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after storage"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "The defining feature is the weeping, limber-branched habit; branches bend down under crop, so leave headroom and avoid heavy heading cuts that spoil the form."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded for the group; plant with another late-season apple."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Upland South: the Blue Ridge and Smoky Mountains and surrounding foothills, with hot summers and cool mountain nights.",
+      "poor_climates": "Cool, short-season climates may not ripen these late apples; climate values are inferred from region of origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease profile not documented and likely varies between strains."
+    },
+    "grow_notes": "Choose a named strain from a heritage nursery, since 'Limbertwig' covers many different trees. Give the weeping tree room, pick late and store the fruit for winter use.",
+    "conf": "low"
+  },
+  {
+    "id": "fall-pippin",
+    "name": "Fall Pippin",
+    "aka": [
+      "Pound Pippin"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown; links to Holland Pippin or White Spanish Reinette have been suggested but are unproven",
+      "raised_by": null
+    },
+    "history": "An American apple of uncertain origin, documented from the early nineteenth century and widely grown in the eastern states, particularly the Shenandoah Valley, as a late autumn and early winter apple. Its exact birthplace is not known.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large to very large, roundish or slightly oblong fruit with thin, clear yellow skin, occasionally with a faint blush."
+    },
+    "taste": {
+      "summary": "Tender, juicy, aromatic white flesh tinged yellow, with a rich sweet-sharp balance. Used both raw and for cooking, drying and sauce.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Recorded as a spur-bearing triploid; triploids generally make large trees, so allow space. Other tree traits are not well documented."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 triploid and a poor pollinator; plant two compatible diploids nearby."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Eastern US temperate climates from New York to Virginia's Shenandoah Valley.",
+      "poor_climates": "Not well documented; values inferred from where it was traditionally grown."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not documented in sources checked."
+    },
+    "grow_notes": "Give this large triploid room and two diploid pollinators. Handle the thin-skinned fruit gently and use it through late autumn and early winter.",
+    "conf": "medium"
+  },
+  {
+    "id": "early-harvest",
+    "name": "Early Harvest",
+    "aka": [
+      "Yellow Harvest",
+      "Early June",
+      "July Pippin",
+      "Prince's Early Harvest",
+      "Yellow June",
+      "Tart Bough"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Probably Long Island, New York, USA",
+      "year": 1800,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An eighteenth-century American summer apple, believed to have originated on Long Island, New York; the synonym Prince's Early Harvest suggests it was distributed by the Prince nursery there. For a century it was one of the most widely planted early apples in the eastern and southern United States.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small to medium, smooth pale yellow fruit with whitish specks and only occasionally a faint orange-red cheek."
+    },
+    "taste": {
+      "summary": "Tender, crisp, juicy white flesh with a brisk, tangy sub-acid flavour. Best for sauce and pies, and pleasant raw when fully ripe; it goes soft and mealy quickly.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Jul-Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Fruit ripens over an extended period, so several pickings are needed; reported to grow on most soil types."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded; blossom dates in the US suggest it flowers fairly early."
+    },
+    "season": {
+      "harvest": "late Jul-early Aug",
+      "eating": "Jul-Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Widely adapted across the eastern US from New York to the upper South, where it was a standard June-July apple.",
+      "poor_climates": "Not well documented; climate values inferred from its historical range."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease profile not documented; like most summer apples the fruit does not keep."
+    },
+    "grow_notes": "A good first apple of the season for sauce and pies. Pick in several passes as the fruit yellows and use within days.",
+    "conf": "medium"
+  },
+  {
+    "id": "american-mother",
+    "name": "American Mother",
+    "aka": [
+      "Mother",
+      "Mother (American)",
+      "Gardner's Apple",
+      "Lavanttaler Bananenapfel"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Bolton, Massachusetts, USA (farm of General Stephen P. Gardner)",
+      "year": 1848,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A chance seedling from General Stephen Gardner's farm at Bolton, Massachusetts, recorded in the 1840s. It became popular in Britain and Europe; in Austria's Lavant valley it was introduced around 1882 and is grown as the 'Lavanttaler Bananenapfel' because of its banana-like aroma.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, slightly tall fruit with thin, smooth golden skin largely covered with red flush and stripes, becoming almost fully red in sun."
+    },
+    "taste": {
+      "summary": "Tender, juicy, fine-grained yellow flesh that is sweet with little acidity and an unusual, strongly perfumed aroma that many describe as banana-like. Improves after about a month in store.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "banana",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous, rather upright tree that is weaker on poor soils; crops regularly with good care."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not verified; plant with another diploid apple of similar season."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool-temperate climates with cold winters: New England, Britain and central European uplands, where it is reported as undemanding and tolerant of harsh, frosty sites.",
+      "poor_climates": "Very hot, short-winter regions; though one southern nursery reports it doing well in the North Carolina piedmont, so it is more adaptable than its origin suggests."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have little scab and relatively low mildew susceptibility; tolerant of exposed, frost-prone sites."
+    },
+    "grow_notes": "A good choice for a cold or exposed garden. Feed it on poorer soils to keep growth going, and keep the fruit a few weeks before eating to let the aroma develop.",
+    "conf": "medium"
+  },
+  {
+    "id": "pink-pearl",
+    "name": "Pink Pearl",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ettersburg, Humboldt County, California, USA",
+      "year": 1944,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Seedling of Surprise, a red-fleshed apple",
+      "raised_by": "Albert Etter"
+    },
+    "history": "Bred by the Californian plant breeder Albert Etter at Ettersburg from the red-fleshed apple Surprise, and introduced in 1944 as the pick of his red-fleshed seedlings. It remains one of the best-known pink-fleshed apples.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "cream",
+      "blush": "pink",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, conical fruit with translucent creamy pale green-yellow skin, a soft pink blush and striking bright pink flesh; the blossom is also pink."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, bright pink flesh with a very tart flavour lifted by just enough sweetness; tasters compare it to pink grapefruit or sweet lemonade, and one notes a touch of tannin. Almost a cooker in acidity, it makes attractive pink sauce and juice but keeps only two to three weeks.",
+      "sweet": 3,
+      "acid": 5,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "citrus",
+        "lemon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "light",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and a light, rather biennial cropper; put it on a moderately vigorous rootstock and thin heavy crops."
+    },
+    "pollination": {
+      "flower_group": 1,
+      "self_fertile": "no",
+      "notes": "Listed as very early flowering (group 1) in one database; choose an early-flowering pollinator. Pink blossom is ornamental."
+    },
+    "season": {
+      "harvest": "late Aug-mid Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild coastal climates like northern California and the Pacific Northwest, and other temperate regions with moderate winters.",
+      "poor_climates": "Humid, disease-prone regions where its poor disease resistance shows; early bloom risks spring frost damage."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated as having poor overall disease resistance; early blossom can be caught by frost."
+    },
+    "grow_notes": "Plant in a frost-free, sunny spot with an early-flowering pollinator and good air flow to limit disease. Eat or cook the fruit soon after picking.",
+    "conf": "medium"
+  }
+]

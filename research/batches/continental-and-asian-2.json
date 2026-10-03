@@ -1,0 +1,115 @@
+{
+ "batch": "continental-and-asian-2",
+ "theme": "continental-and-asian",
+ "count": 18,
+ "varieties": [
+  {
+   "id": "annurca",
+   "name": "Annurca",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "rosa-mantovana",
+   "name": "Rosa Mantovana",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "berner-rosen",
+   "name": "Berner Rosen",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "maigold",
+   "name": "Maigold",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "antonovka",
+   "name": "Antonovka",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "anis",
+   "name": "Anis",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "borovinka",
+   "name": "Borovinka",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "papirovka",
+   "name": "Papirovka",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "pepin-shafranny",
+   "name": "Pepin Shafranny",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "kronprinz-rudolf",
+   "name": "Kronprinz Rudolf",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "zuccalmaglios-renette",
+   "name": "Zuccalmaglio's Renette",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "malus-sieversii",
+   "name": "Malus sieversii",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "aport",
+   "name": "Aport",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "ralls-janet",
+   "name": "Ralls Janet",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "tsugaru",
+   "name": "Tsugaru",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "shinano-sweet",
+   "name": "Shinano Sweet",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "sekai-ichi",
+   "name": "Sekai Ichi",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "hokuto",
+   "name": "Hokuto",
+   "theme": "continental-and-asian",
+   "keepers": false
+  }
+ ]
+}

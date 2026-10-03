@@ -1,0 +1,135 @@
+{
+ "batch": "keepers-cooking-1",
+ "theme": "keepers-cooking",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "annie-elizabeth",
+   "name": "Annie Elizabeth",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "annie-elizabeth",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "arthur-turner",
+   "name": "Arthur Turner",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "arthur-turner",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "beauty-of-kent",
+   "name": "Beauty of Kent",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "beauty-of-kent",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "bountiful",
+   "name": "Bountiful",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "bountiful-apple",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "bow-hill-pippin",
+   "name": "Bow Hill Pippin",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "bow-hill-pippin",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "bramley-20",
+   "name": "Bramley 20",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "bramley-20",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "bramleys-seedling",
+   "name": "Bramley's Seedling",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "bramleys-seedling",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "catshead",
+   "name": "Catshead",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "catshead",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "chelmsford-wonder",
+   "name": "Chelmsford Wonder",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "chelmsford-wonder",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "coeur-de-boeuf",
+   "name": "Coeur de Boeuf",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "coeur-de-boeuf",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "costard",
+   "name": "Costard",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "costard",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "crimson-bramley",
+   "name": "Crimson Bramley",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "crimson-bramley",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "domino",
+   "name": "Domino",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "domino",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "ecklinville",
+   "name": "Ecklinville",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "ecklinville",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "flower-of-kent",
+   "name": "Flower of Kent",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "flower-of-kent",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "glockenapfel",
+   "name": "Glockenapfel",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "glockenapfel",
+   "keepers_cat": "cooking"
+  }
+ ]
+}

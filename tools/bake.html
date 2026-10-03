@@ -1,0 +1,35 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Pomona - bake climate presets</title>
+<style>body{font:13px system-ui,sans-serif;margin:16px}table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:2px 6px;text-align:right}td:first-child,th:first-child{text-align:left}</style>
+<h3>Bake climate presets</h3>
+<p id="status">loading...</p>
+<table id="t"></table>
+<script type="module">
+import { computeFeatures, compactFeatures } from '../js/climate/features.js';
+const status = document.getElementById('status'), tb = document.getElementById('t');
+const seed = await (await fetch('../data/regions_seed.json')).json();
+const have = await (await fetch('/__climate_list')).json();
+const out = {};
+const cols = ['chill', 'zone', 'bloom', 'frost3', 'gend', 'endFreeze', 'hot32', 'springWet', 'canker', 'fb', 'pann', 'koppen'];
+tb.innerHTML = '<tr><th>region</th>' + cols.map(c => '<th>' + c + '</th>').join('') + '</tr>';
+let n = 0;
+for (const id of have) {
+  const raw = await (await fetch('../cache/climate/' + id + '.json')).json();
+  const F = computeFeatures({ lat: raw.lat, lon: raw.lon, elevation: raw.elevation, start: raw.start, tmax: raw.tmax, tmin: raw.tmin, prcp: raw.prcp });
+  const s = seed.find(x => x.id === id);
+  F.id = id; F.name = s ? s.name : id;
+  out[id] = compactFeatures(F);
+  const row = F.error ? [] : F.noBloom ? ['-'] : [Math.round(F.chill.mean), F.winter.zone.label, F.bloom.label, Math.round(F.frost.p[2] * 100) + '%', Math.round(F.season.gendMedian), F.season.firstFreeze, F.heat.hot32.toFixed(1), F.wet.springWetDays.toFixed(0), F.wet.cankerDays.toFixed(0), F.wet.fireBlightDays.toFixed(1), Math.round(F.pann), F.koppen.code];
+  tb.insertAdjacentHTML('beforeend', '<tr><td>' + id + '</td>' + row.map(v => '<td>' + v + '</td>').join('') + '</tr>');
+  n++;
+}
+window.__baked = out;
+const body = JSON.stringify(out);
+let msg = n + ' regions computed (' + Math.round(body.length / 1024) + ' KB). ';
+if (new URLSearchParams(location.search).has('save')) {
+  const r = await fetch('/__save?name=climate-presets', { method: 'POST', body });
+  msg += 'Saved: ' + await r.text();
+}
+status.textContent = msg;
+</script>

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "hardanger",
+    "summary": "Orchards cling to the steep sides of the inner Hardangerfjord, where Gulf Stream-warmed fjord water and slopes that drain cold air away create a surprisingly gentle growing climate so far north. Summers are cool but have very long days, and the season is short, so fruit is crisp, acidic and aromatic rather than large and sweet.",
+    "apple_culture": "Norway's oldest and best-known fruit district: tradition credits medieval Cistercian monks with bringing fruit growing to the fjord around Lofthus, and today small family farms grow apples, pears, plums and cherries on terraces above the water. Cider from Hardanger has protected geographical status, and the May blossom draws visitors from far away.",
+    "local_varieties": ["Gravenstein", "Raud Gravenstein", "Aroma", "Discovery", "Summerred", "Raud Prins"],
+    "pests_diseases": "Apple scab and European canker thrive in the wet coastal climate. The rowan moth can ruin crops in years when rowan berries are scarce, as it then lays its eggs in apples instead.",
+    "tips": "Choose Nordic-tested varieties such as Aroma and Discovery that ripen within the short season, and plant on a slope where cold air can drain away. Prune for an open crown so foliage dries quickly, limiting scab and canker.",
+    "confidence": "high"
+  },
+  {
+    "id": "helsinki",
+    "summary": "Marginal but workable apple country: winters are long and cold with snow cover and occasional severe cold snaps, and the cold Baltic delays spring. The short summer has very long days that help fruit colour, but growers are limited to early and mid-season types, and test winters periodically kill less hardy trees.",
+    "apple_culture": "Apples are Finland's main tree fruit and a fixture of southern home gardens, though commercial orchards are small and concentrated in the southwest and Åland. Finnish gardeners rely on very hardy cultivars from Russia, the Baltics and domestic breeding (Pirja and Petteri came from the national programme), and home juicing and baking are strong traditions.",
+    "local_varieties": ["Valkea kuulas", "Huvitus", "Pirja", "Petteri", "Antonovka", "Lobo", "Sävstaholm"],
+    "pests_diseases": "Winter cold injury, and voles and hares gnawing trunks under the snow, cause the heaviest losses; the rowan moth attacks fruit in poor rowan-berry years. Apple scab and canker affect susceptible varieties.",
+    "tips": "Buy only trees rated for your Finnish fruit-growing zone on hardy rootstock, and plant them in the warmest sheltered spot away from frost hollows. Protect trunks with mesh, and avoid feeding late in summer so wood can harden before winter.",
+    "confidence": "medium"
+  },
+  {
+    "id": "tartu",
+    "summary": "Inland southern Estonia is cooler and more continental than the coast: winters are cold and snowy, with occasional severe winters that kill trees outright, and the frost-free season is short. Summers are warm enough for good summer and autumn apples, but long-season winter apples do not always ripen fully.",
+    "apple_culture": "Estonia has a lively garden-apple culture and its own breeding tradition at the Polli Horticultural Research Centre of the Tartu-based Estonian University of Life Sciences, which produced hardy dessert apples such as Talvenauding and Liivi Kuldrenett. Manor and farm orchards were once widespread, and the old Baltic summer apple Suislepa originated in south Estonia.",
+    "local_varieties": ["Suislepa", "Liivi Kuldrenett", "Talvenauding", "Tellisaare", "Antonovka", "Valge klaarõun"],
+    "pests_diseases": "Winter damage, sunscald and bark splitting on sunny late-winter days, and gnawing by voles and hares cause the heaviest losses. Apple scab is common in wet summers, and the rowan moth attacks fruit in years when rowan crops fail.",
+    "tips": "Plant Estonian and Baltic-bred varieties on hardy rootstocks, and whitewash or wrap trunks against late-winter sun. Choose a sheltered, slightly raised site away from frost pockets, and favour summer and autumn apples over long-season keepers.",
+    "confidence": "medium"
+  },
+  {
+    "id": "grojec",
+    "summary": "Continental central Poland: cold winters, warm to hot summers and a fairly dry climate on light, sandy soils that drain quickly. Frost during bloom is a recurring hazard, and summer drought increasingly limits fruit size where trees are not irrigated.",
+    "apple_culture": "The Grójec district south of Warsaw calls itself the largest orchard in Europe - a near-continuous carpet of intensive apple farms that made Poland one of the world's biggest apple producers. Much of the crop went east until the 2014 Russian import ban, after which growers replanted toward western-market varieties; the nearby Skierniewice pomology institute bred both apples (Ligol) and the P-series dwarfing rootstocks.",
+    "local_varieties": ["Idared", "Szampion", "Ligol", "Jonagold", "Gala", "Golden Delicious", "Antonówka"],
+    "pests_diseases": "Apple scab and powdery mildew (Idared and Jonagold are susceptible) are the main diseases, with codling moth, aphids and spider mites as the key pests. Fire blight flares in hot, stormy springs.",
+    "tips": "Irrigate on the sandy soils and mulch to hold moisture; dwarfing rootstocks need a stake and steady water. Late-flowering varieties and a slight slope help dodge spring frost, and mildew-tolerant varieties reduce spraying.",
+    "confidence": "high"
+  },
+  {
+    "id": "prague",
+    "summary": "Central Bohemia has a mild continental climate: cold but not extreme winters, warm summers and modest rainfall, as the basin lies in the rain shadow of the surrounding mountains. Late frost in valley bottoms and summer dry spells are the main limits.",
+    "apple_culture": "Czech gardens are thick with apple trees, and the country has an outstanding modern breeding record: Šampion and Rubín came from the Holovousy fruit institute, and scab-resistant Topaz, Rajka and Rubinola from the Academy of Sciences programme. The Elbe lowland and the hills around Litoměřice - the 'Garden of Bohemia' - are the traditional orchard districts, and Prague itself keeps historic orchards on Petřín hill.",
+    "local_varieties": ["Šampion", "Rubín", "Topaz", "Rajka", "Panenské české", "Malinové holovouské"],
+    "pests_diseases": "Apple scab and powdery mildew are the main diseases and codling moth the main fruit pest. Late frost and summer drought damage crops more often than in wetter western Europe.",
+    "tips": "The Czech scab-resistant varieties (Topaz, Rajka, Rubinola and relatives) are the obvious first choice for a low-spray garden. Avoid valley-bottom frost pockets, mulch and water through dry summers, and use pheromone traps to time codling moth control.",
+    "confidence": "high"
+  },
+  {
+    "id": "graz",
+    "summary": "Southeast Styria has a warm, sub-Mediterranean (Illyrian) tinge for central Europe: hot summers, plenty of rain falling largely in thunderstorms, and relatively mild winters. Hail is notoriously frequent, and late April frosts have wiped out whole regional crops in some years.",
+    "apple_culture": "Styria grows the great majority of Austria's apples, chiefly in the hilly Steirisches Apfelland east of Graz around Gleisdorf and Puch bei Weiz, along a signposted apple road. Hail nets cover most modern orchards, and alongside dessert apples there is a deep tradition of standard trees, Most (cider) and fruit schnapps.",
+    "local_varieties": ["Kronprinz Rudolf", "Steirischer Maschanzker", "Ilzer Rosenapfel", "Golden Delicious", "Gala", "Topaz", "Jonagold"],
+    "pests_diseases": "Hail is the single biggest crop threat. Apple scab is serious in the warm, wet summers, fire blight has caused outbreaks, and Marssonina leaf blotch has emerged as a late-summer defoliator, especially in organic orchards.",
+    "tips": "Protect small trees with a hail net if you can, and choose scab-resistant types or the robust local Kronprinz Rudolf and Maschanzker. Keep the canopy open so leaves dry quickly, and clear fallen leaves in autumn to reduce scab and Marssonina.",
+    "confidence": "high"
+  },
+  {
+    "id": "thurgau",
+    "summary": "Rolling country between Lake Constance and the Thur valley with a moderate, fairly humid climate: the lake tempers winter and frost near the shore, and summers are warm with frequent showers and thunderstorms. Hail is a recurring risk.",
+    "apple_culture": "Thurgau is Switzerland's leading apple canton, nicknamed 'Mostindien' for its sea of cider-apple trees, and big cider and juice presses such as Möhl in Arbon have worked here for generations. Standard-tree (Hochstamm) orchards remain a valued landscape alongside modern low-trunk dessert-apple plantations.",
+    "local_varieties": ["Thurgauer Weinapfel", "Bohnapfel", "Schneiderapfel", "Sauergrauech", "Boskoop", "Gravensteiner"],
+    "pests_diseases": "Fire blight is the dominant concern - eastern Switzerland suffered severe outbreaks, and infected trees fall under official control measures. Apple scab is constant in the damp climate, and hail can strip a season's crop.",
+    "tips": "Choose fire-blight-tolerant, scab-resistant varieties and remove suspect shoots promptly, reporting fire blight where required. The old Thurgau cider apples such as Thurgauer Weinapfel are healthy, late-flowering standard trees, ideal for a meadow orchard.",
+    "confidence": "high"
+  },
+  {
+    "id": "szabolcs",
+    "summary": "The sandy Nyírség plain of northeast Hungary has a strongly continental climate: cold winters, hot dry summers and a wide day-night temperature swing that colours fruit well. Drought on the light sands, spring frost and summer hail are the main hazards.",
+    "apple_culture": "Szabolcs-Szatmár-Bereg county produces most of Hungary's apples - historically dominated by Jonathan - and a large share of the crop now goes to juice concentrate and processing. The Szatmár corner also keeps old Carpathian-basin varieties in village orchards, and fruit pálinka is a strong local tradition.",
+    "local_varieties": ["Jonathan", "Idared", "Golden Delicious", "Starking", "Pónyik", "Batul", "Húsvéti rozmaring"],
+    "pests_diseases": "Powdery mildew is the classic problem, especially on Jonathan, and codling moth runs several generations in the hot summers. Fire blight and sunburn are serious in some years, while scab matters mainly in wet springs.",
+    "tips": "Irrigate on the sands and mulch heavily, since heat plus drought brings sunburn and small fruit. Choose mildew-tolerant varieties or the robust old Carpathian-basin types, and use pheromone traps to time codling moth control.",
+    "confidence": "medium"
+  },
+  {
+    "id": "cluj",
+    "summary": "The Transylvanian plateau is cool continental and ringed by the Carpathians: winters are cold, spring comes late with frost risk in the valleys, and summers are warm with thunderstorm rain. Hill slopes above the valley floors give the best air drainage for orchards.",
+    "apple_culture": "Transylvanian village orchards hold a rich heritage of old apples shared by Romanian, Hungarian and Saxon communities, and researchers in the region have collected and evaluated these cultivars for disease resistance. Dried apples, fruit brandy and cellaring late keepers through winter are traditional.",
+    "local_varieties": ["Batul", "Pónyik", "Sikulai", "Jonathan", "Parmen auriu"],
+    "pests_diseases": "Apple scab and powdery mildew are the main diseases and codling moth the key pest; fire blight also occurs. Late frost in valley bottoms is the main weather risk.",
+    "tips": "Old local cultivars such as Batul and Pónyik are relatively disease-tolerant and suit low-input standard trees. Plant on mid-slope rather than the valley floor, and use vigorous rootstocks on poor hill soils.",
+    "confidence": "medium"
+  }
+]

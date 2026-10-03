@@ -1,0 +1,159 @@
+{
+ "batch": "keepers-late-5",
+ "theme": "keepers-late",
+ "count": 19,
+ "varieties": [
+  {
+   "id": "rosemary-russet",
+   "name": "Rosemary Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "rosemary-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "ross-nonpareil",
+   "name": "Ross Nonpareil",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "ross-nonpareil",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "saltcote-pippin",
+   "name": "Saltcote Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "saltcote-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "sam-young",
+   "name": "Sam Young",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "sam-young",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "saturn",
+   "name": "Saturn",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "saturn-apple",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "self-fertile-cox",
+   "name": "Self-Fertile Cox",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "self-fertile-cox",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "sima-joon",
+   "name": "Sima Joon",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "sima-joon",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "sturmer-pippin",
+   "name": "Sturmer Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "sturmer-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "suntan",
+   "name": "Suntan",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "suntan",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "swaar",
+   "name": "Swaar",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "swaar",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "sweet-society",
+   "name": "Sweet Society",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "sweet-society",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "topaz",
+   "name": "Topaz",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "topaz",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "twenty-ounce",
+   "name": "Twenty Ounce",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "twenty-ounce",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "tydemans-late-orange",
+   "name": "Tydeman's Late Orange",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "tydemans-late-orange",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "wheelers-russet",
+   "name": "Wheeler's Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "wheelers-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "william-crump",
+   "name": "William Crump",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "william-crump",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "winter-pearmain",
+   "name": "Winter Pearmain",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "winter-pearmain",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "xanthous",
+   "name": "Xanthous",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "xanthous",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "zabergau-reinette",
+   "name": "Zabergau Reinette",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "zabergau-reinette",
+   "keepers_cat": "late-season-eating-apple"
+  }
+ ]
+}

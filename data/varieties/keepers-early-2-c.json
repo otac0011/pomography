@@ -1,0 +1,437 @@
+[
+  {
+    "id": "white-transparent",
+    "name": "White Transparent",
+    "aka": [
+      "Yellow Transparent",
+      "Transparente Blanche",
+      "Klarapfel",
+      "Papirovka",
+      "Belyi Naliv",
+      "Skorospelka",
+      "Alebastrovoe"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": "Russian Empire, probably the Baltic provinces (Livonia, now Latvia/Estonia)",
+      "year": 1850,
+      "year_note": "c.",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old summer apple of Russia and the Baltic that reached western European nurseries around the middle of the 1800s and was imported to the USA by the Department of Agriculture in 1870, where it is known as Yellow Transparent. Russian pomologists sometimes separate Papirovka from Belyi Naliv, but collections such as Brogdale treat them as one variety. It is a parent of Lodi and Early McIntosh.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Pale, almost translucent whitish-yellow apple, slightly ribbed, with fine pale dots and a waxy bloom; no red colour."
+    },
+    "taste": {
+      "summary": "Brisk and acidic with a little sweetness and coarse, very juicy white flesh; usually picked while still greenish, since once it yellows it turns soft and mealy within days. Opinions on raw fruit range from bland to delightful at its brief peak, but it cooks quickly to a smooth, pale sauce that needs little or no sugar.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Jul-Aug, within a few days of picking; cook slightly under-ripe fruit"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Fruits very young and heavily, which pushes it into alternate-year bearing; thin hard in heavy years. Fruit bruises easily and drops when ripe."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early flowering (group 2) and partly self-fertile; a poor pollen donor for others."
+    },
+    "season": {
+      "harvest": "late Jul",
+      "eating": "Jul-Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold continental climates: Russia, Scandinavia, the Baltic and the northern USA and Canada, where its extreme hardiness and earliness are prized.",
+      "poor_climates": "Warm, humid regions where fire blight is common; in heat the fruit softens and goes mealy almost at once."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 5,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Very susceptible to fire blight. Moderate canker and mildew; fairly scab-resistant. Fruit bruises and becomes woolly very quickly."
+    },
+    "grow_notes": "A first-of-the-season cooker for cold gardens. Thin fruit each year to reduce biennial cropping, pick slightly early for cooking, and plant another early-flowering apple nearby.",
+    "conf": "high"
+  },
+  {
+    "id": "williams-pride",
+    "name": "Williams' Pride",
+    "aka": [
+      "William's Pride",
+      "Co-op 23"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "PRI co-operative breeding programme (Purdue University, Indiana; Rutgers, New Jersey; University of Illinois)",
+      "year": 1988,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "PRI 1018-101 x NJ 50; complex pedigree including Mollie's Delicious, Julyred, Rome Beauty, Jonathan and Wealthy, plus the Malus floribunda scab-resistance gene (Vf)",
+      "raised_by": "Purdue-Rutgers-Illinois (PRI) apple breeding programme"
+    },
+    "history": "Selected as Co-op 23 by the PRI disease-resistance programme and released in 1988. It honours Edwin B. Williams of Purdue, one of the scientists behind the programme. It carries the Vf gene and is immune to the common races of apple scab.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "purple",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Handsome slightly conical apple, mostly covered with a dark red to purplish-red flush over yellow-green."
+    },
+    "taste": {
+      "summary": "Crisp, juicy cream-white flesh with a rich, aromatic, spicy sweet-tart flavour that is unusually full for a midsummer apple; one taster noted butterscotch hints among the fruit flavours, though another found it bland. Ripens unevenly and keeps only a few days, so pick fully ripe fruit and eat it fresh.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "spice",
+        "sharp",
+        "sweet",
+        "perfumed",
+        "butterscotch"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug, fresh; will keep a few weeks in a fridge"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fairly vigorous, vase-shaped tree that needs little spraying. Fruit ripens over several weeks, so pick in two or three passes. Some tendency to biennial bearing."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (group 2) with a long bloom period; a good pollinator for other early apples."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid continental and warm-summer areas of the eastern and midwestern USA, where its disease resistance and July-August ripening are most useful; also fine in mild damp climates.",
+      "poor_climates": "Very short-season or high-altitude sites may see erratic crops; otherwise widely adaptable."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Immune to scab (Vf), very resistant to cedar-apple rust, resistant to fire blight and fairly resistant to mildew. Early fruit attracts wasps and birds."
+    },
+    "grow_notes": "One of the best early apples for organic or low-spray growing. Plant with another early-flowering variety and harvest in several pickings as fruit colours.",
+    "conf": "high"
+  },
+  {
+    "id": "worcester-pearmain",
+    "name": "Worcester Pearmain",
+    "aka": [
+      "Worcester"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Swan Pool, near Worcester, England",
+      "year": 1874,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Seedling, probably of Devonshire Quarrenden",
+      "raised_by": "Mr Hale of Swan Pool; introduced by Smith of Worcester"
+    },
+    "history": "Raised by Mr Hale at Swan Pool outside Worcester and put on the market by the Worcester nurseryman Smith in 1874, winning an RHS First Class Certificate the next year. It became the standard English early-season red apple and an important parent, giving rise to Discovery, Lord Lambourne, Tydeman's Early Worcester and many others.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 1,
+      "description": "Bright, almost all-over scarlet flush with a few streaks over pale green-yellow, dotted with fine russet lenticels; flesh white."
+    },
+    "taste": {
+      "summary": "Firm, crisp white flesh that is sweet rather than sharp, with the well-known strawberry-like, slightly perfumed flavour, though its intensity varies. Traditional advice is to let it ripen fully on the tree because early-picked fruit is dull, yet some growers prefer it just short of full ripeness since ripe fruit softens fast; either way it keeps only about a week.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "strawberry",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-early Oct; leave on the tree until fully coloured"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Partial tip-bearer: prune lightly and leave some shoot tips. Reliable, heavy cropper of moderate vigour."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3 and partly self-fertile; frost-resistant blossom and a decent pollinator for others in groups 2-4."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "The drier, sunnier parts of southern and western England; a classic of the Worcester and Hereford orchards.",
+      "poor_climates": "Wet western and northern districts encourage scab and canker; in hot climates the fruit softens and loses its delicate flavour."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab is the main problem; some canker. Good mildew resistance. Fruit attracts wasps, birds and codling moth."
+    },
+    "grow_notes": "A dependable early apple for most English gardens. Avoid heavy pruning because it fruits partly on tips, and be patient at harvest: the flavour comes only when the fruit is fully red and ripe.",
+    "conf": "high"
+  },
+  {
+    "id": "yellow-ingestrie",
+    "name": "Yellow Ingestrie",
+    "aka": [
+      "Ingestrie",
+      "Yellow Ingestre",
+      "Summer Golden Pippin",
+      "Little Golden Knob"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Wormsley Grange, Herefordshire, England",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Orange Pippin x Golden Pippin",
+      "raised_by": "Thomas Andrew Knight"
+    },
+    "history": "One of the first deliberately crossed English apples, raised around 1800 by the horticulturist Thomas Andrew Knight at Wormsley Grange in Herefordshire; Red Ingestrie came from the same cross. The 'Orange Pippin' parent is an old variety, not Cox. It was a well-regarded Victorian dessert apple for September.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small, neat, shiny apple that ripens to a clear bright golden yellow, sometimes with faint freckling."
+    },
+    "taste": {
+      "summary": "Fine-textured, tender flesh with an intense, rich sweet-sharp and pleasantly aromatic flavour; one taster found a hint of pineapple. Only moderately juicy, and best eaten within two or three weeks of its early-September picking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed",
+        "sharp",
+        "pineapple"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-early Oct"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Weak-growing, spreading, flat-topped tree that crops regularly; well suited to small gardens."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; plant with another group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist English and Irish climates where it has been grown for two centuries.",
+      "poor_climates": "No documented performance in hot or very cold regions; values inferred from its English origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A pretty, compact heritage tree for a small garden. Leave fruit until it is fully golden for the best flavour, and give it a mid-season pollination partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "young-america",
+    "name": "Young America",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York, USA",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A small 19th-century apple from New York State, held at Brogdale since 1954. The National Fruit Collection records it only to the genus Malus rather than Malus domestica, which hints at crab apple ancestry, and its precise origin and date are not documented.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small, tall, somewhat ribbed fruit almost entirely streaked bright red over yellow, with a slightly greasy skin."
+    },
+    "taste": {
+      "summary": "Sharp and noticeably astringent, more like a large crab than a typical dessert apple; an unusual, intense fruit flavour for those who like tartness.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 2,
+      "crisp": null,
+      "juicy": null,
+      "tags": [
+        "sharp",
+        "astringent"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Brogdale records it flowering several days before Cox, so roughly group 2."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool-temperate climates like its native New York and southern England.",
+      "poor_climates": "No documented performance in hot or very cold regions; values inferred from its New York origin and possible crab parentage."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A curiosity for collectors: attractive small red fruit with a tart, astringent bite. Plant with an early-flowering partner.",
+    "conf": "low"
+  }
+]

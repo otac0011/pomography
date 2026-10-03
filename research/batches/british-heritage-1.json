@@ -1,0 +1,103 @@
+{
+ "batch": "british-heritage-1",
+ "theme": "british-heritage",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "ashmeads-kernel",
+   "name": "Ashmead's Kernel",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "allington-pippin",
+   "name": "Allington Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "barnack-beauty",
+   "name": "Barnack Beauty",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "court-pendu-plat",
+   "name": "Court Pendu Plat",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "coxs-pomona",
+   "name": "Cox's Pomona",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "darcy-spice",
+   "name": "D'Arcy Spice",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "devonshire-quarrenden",
+   "name": "Devonshire Quarrenden",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "dumelows-seedling",
+   "name": "Dumelow's Seedling",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "early-victoria",
+   "name": "Early Victoria",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "edward-vii",
+   "name": "Edward VII",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "fortune",
+   "name": "Fortune",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "gascoynes-scarlet",
+   "name": "Gascoyne's Scarlet",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "george-cave",
+   "name": "George Cave",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "george-neal",
+   "name": "George Neal",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "golden-noble",
+   "name": "Golden Noble",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "gladstone",
+   "name": "Gladstone",
+   "theme": "british-heritage",
+   "keepers": false
+  }
+ ]
+}

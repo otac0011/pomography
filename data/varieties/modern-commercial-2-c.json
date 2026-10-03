@@ -1,0 +1,416 @@
+[
+  {
+    "id": "priscilla",
+    "name": "Priscilla",
+    "aka": [
+      "Co-op 4"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, Lafayette, Indiana (PRI co-operative programme)",
+      "year": 1972,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Starking Delicious x PRI 610-2 (Vf scab resistance from Malus floribunda)",
+      "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+    },
+    "history": "One of the earliest releases (1972) of the Purdue-Rutgers-Illinois programme that bred scab resistance from a Japanese flowering crab into dessert apples. It was intended as a disease-resistant apple with some Delicious character.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Waxy, bright red blush over a yellow ground, slightly conical in the Delicious manner."
+    },
+    "taste": {
+      "summary": "Crisp, fairly juicy flesh with a sweet but noticeably tart flavour that varies from year to year; descriptions range from mild and Delicious-like to pleasantly sharp. Good fresh off the tree, it also holds its shape when baked, makes a pink-tinged sauce and keeps one to two months.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with a spreading, flat-topped habit; regular cropper suited to beginners and organic growers."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; plant with another group 2-4 variety."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid continental climates of the eastern and midwestern US where scab, rust and fire blight are routine problems.",
+      "poor_climates": "Little documented performance in hot, low-chill or very cool maritime regions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": 1,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Scab-immune (Vf) and very resistant to fire blight and cedar-apple rust; some susceptibility to canker."
+    },
+    "grow_notes": "A dependable low-spray apple for the home garden. Give it full sun and a mid-season pollinator; chill and hardiness figures are estimates from where it is grown.",
+    "conf": "medium"
+  },
+  {
+    "id": "sir-prize",
+    "name": "Sir Prize",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, Indiana (PRI co-operative programme)",
+      "year": 1975,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x PRI 14-152 (a PRI selection carrying Vf scab resistance)",
+      "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+    },
+    "history": "Released by the PRI disease-resistance programme in 1975, unusually as a triploid. Its extremely thin, easily bruised skin kept it out of commercial trade, so it survives mainly in home and collectors' orchards.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large greenish-yellow apple in the Golden Delicious style, with a very thin, tender skin that marks at a touch."
+    },
+    "taste": {
+      "summary": "Tender, very juicy cream flesh with a sweet, lightly scented Golden Delicious-type flavour. Good for eating fresh and for baking, but the fruit bruises badly in handling.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Autumn, soon after picking (exact timing not recorded for the UK)"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Few growing details published. Handle the fruit with great care at harvest because of the delicate skin."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Triploid and a poor pollen donor; needs two diploid partners nearby."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": 5,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Raised for the US Midwest; probably suits similar climates to Golden Delicious, though this is not well documented.",
+      "poor_climates": "Not recorded."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Bred for Vf scab immunity; other disease ratings not found. Severe bruising of the thin skin is the main drawback."
+    },
+    "grow_notes": "A curiosity for a home orchard rather than a production apple. Plant with two reliable diploid pollinators and pick and store gently.",
+    "conf": "low"
+  },
+  {
+    "id": "melrose",
+    "name": "Melrose",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ohio Agricultural Experiment Station, Wooster, Ohio",
+      "year": 1944,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Jonathan x Red Delicious",
+      "raised_by": "Freeman S. Howlett, Ohio Agricultural Experiment Station"
+    },
+    "history": "Bred by Freeman Howlett at Wooster from a cross made in the 1930s and introduced in 1944; it is the official state apple of Ohio. It found a second home in Europe, where it became a significant late-keeping variety in Belgium, northern France and Poland.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Broad, flattish fruit streaked and flushed dark red over yellow-green, with patches of russet around the stalk."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse but juicy cream flesh with a Jonathan-like sweet-sharp balance, milder than Jonathan; some tasters notice pineapple. Plain when first picked and then best in pies, it develops a fuller, fruity aroma after two or three months in store, from around Christmas.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp",
+        "pineapple"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; best after Christmas"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, vase-shaped tree that crops heavily and regularly; scab control is usually needed."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; average pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter continental and north-west European climates (Ohio, Belgium, Poland) with cool autumns that colour the fruit and a long enough season to finish it.",
+      "poor_climates": "Wet, humid areas without a spray programme because of scab; warm-night regions give poorer colour."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Scab is the main problem; slightly prone to mildew; some resistance to cedar-apple rust."
+    },
+    "grow_notes": "Give it space or a semi-dwarfing rootstock and an open, airy site to limit scab. Pick in mid October and store for several weeks before eating.",
+    "conf": "high"
+  },
+  {
+    "id": "ligol",
+    "name": "Ligol",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "PL",
+      "place": "Research Institute of Pomology and Floriculture, Skierniewice, Poland",
+      "year": 1972,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Linda x Golden Delicious",
+      "raised_by": "S. Zagaja, A. Przybyła and J. Krzewiński at Skierniewice (seedlings from crosses by W. Dzięcioł)"
+    },
+    "history": "Selected at Skierniewice in 1972 from seedlings of Linda x Golden Delicious crosses made in the 1960s, and entered in the Polish national variety register in 1997. It became one of Poland's most widely grown commercial apples and is also planted in Lithuania and neighbouring countries.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large to very large, glossy fruit, ribbed at the eye and somewhat irregular, with a diffuse carmine blush over greenish-yellow."
+    },
+    "taste": {
+      "summary": "Crisp, juicy flesh that is sweet with a delicate tartness, scoring well with consumer panels. Holds its firmness unusually well through long storage.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous with a dense, pyramidal crown that needs thinning out. Fairly resistant to bark diseases and winter cold."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers mid-season (approximately group 3) and is a good pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 22
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter continental climates of central and eastern Europe, where it is frost-hardy and stores into spring.",
+      "poor_climates": "Areas with heavy fire blight pressure, and hot summers that would soften the fruit and dull its colour."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to fire blight; moderately susceptible to scab and mildew. Stores well with good resistance to storage rots."
+    },
+    "grow_notes": "Suits an open, sunny site in a cold-winter climate; thin the dense crown for light and air. Avoid areas where fire blight is common.",
+    "conf": "medium"
+  },
+  {
+    "id": "lobo",
+    "name": "Lobo",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Central Experimental Farm, Ottawa, Ontario, Canada",
+      "year": 1898,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh, open-pollinated seedling",
+      "raised_by": "Central Experimental Farm, Ottawa"
+    },
+    "history": "Raised at Ottawa in 1898 from McIntosh seed and released in 1930. It became widely grown in Scandinavia, Poland and the Baltic region as a hardy, attractive McIntosh-type apple.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, flattish apple flushed and faintly striped dark red with a bloom; the short, stout stalk is often tinged red."
+    },
+    "taste": {
+      "summary": "White, juicy McIntosh-type flesh, sweeter and less acid than McIntosh, with a gently vinous character; some tasters find strawberry and caramel hints. Accounts of texture differ: some growers praise its satisfying crunch and say it keeps late, while others find it softens and turns mealy within a few weeks. Cooks well in pies and sauce.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Hardy and a regular cropper. Watch for canker and scab, both common on this variety."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Average pollinator. Swedish growers pair it with mid-season varieties such as Cox's Orange Pippin, Discovery, James Grieve and Katja."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, cool-summer climates such as eastern Canada, Scandinavia and the Baltic, where it is fully hardy and colours deeply.",
+      "poor_climates": "Hot summers give soft, poorly coloured fruit; wet, mild regions encourage scab and canker."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and frequently affected by canker; fruit softens quickly after picking."
+    },
+    "grow_notes": "A good choice for cold, northern gardens. Plant on well-drained soil to limit canker, keep the canopy open against scab, and use the fruit soon after picking.",
+    "conf": "medium"
+  }
+]

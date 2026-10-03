@@ -1,0 +1,421 @@
+[
+  {
+    "id": "rave",
+    "name": "Rave",
+    "aka": [
+      "MN55",
+      "First Kiss"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota Horticultural Research Center, Excelsior, Minnesota",
+      "year": 1997,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Honeycrisp x MonArk",
+      "raised_by": "University of Minnesota apple breeding programme (David Bedford, James Luby)"
+    },
+    "history": "Bred at the University of Minnesota by crossing Honeycrisp with the early Arkansas apple MonArk, and trialled as MN55. It is a managed (licensed) variety: Stemilt in Washington State markets it as Rave from about 2017-18, while Minnesota growers sell the same apple as First Kiss.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Bright red flush with some streaking over a yellow ground; a Honeycrisp-type look on a smaller, earlier fruit."
+    },
+    "taste": {
+      "summary": "Very crisp, shattering, juice-laden flesh in the Honeycrisp mould, with a brighter tart edge than its parent balanced by good sugar. An eating apple only: the flesh collapses when cooked.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Oct; fresh, or from cold store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Fruit tends to drop before it is fully ripe, so crops need watching and picking promptly. Propagation is restricted under licence, so trees are rarely available to home growers outside Minnesota (where it is sold as First Kiss)."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "No published UK flowering group; plant with another apple flowering at the same time."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug-Oct",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Bred for Minnesota winters and grown commercially in the hot, dry, irrigated orchards of central Washington, where it ripens in midsummer.",
+      "poor_climates": "Little record outside the northern US; untested in mild maritime climates such as the UK, and its pre-harvest drop is a nuisance anywhere."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main documented weakness is pre-harvest fruit drop. Disease ratings not published in the sources checked."
+    },
+    "grow_notes": "Mainly a commercial club apple; where trees are available, give it a sunny site and pick over several passes as fruit colours, because ripe apples fall readily. Chill hours and hardiness are estimates from its Minnesota origin.",
+    "conf": "medium"
+  },
+  {
+    "id": "akane",
+    "name": "Akane",
+    "aka": [
+      "Tokyo Rose",
+      "Prime Red",
+      "Tohoku No. 3"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Morioka, Iwate Prefecture, Japan",
+      "year": 1937,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Jonathan x Worcester Pearmain",
+      "raised_by": "Morioka (Tohoku) fruit research station"
+    },
+    "history": "Bred in Morioka in the late 1930s (sources give 1937 or 1939) by crossing Jonathan with the English Worcester Pearmain, and only named and released around 1970. Its good disease resistance has made it a favourite of low-spray growers in North America.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 0,
+      "description": "Glossy, almost entirely cherry-red skin over a yellow-green ground; fruit can be small unless thinned."
+    },
+    "taste": {
+      "summary": "Crisp, juicy white flesh with a lively, well-balanced sweet-sharp flavour in the Jonathan style. The flesh is slow to brown, but the fruit softens fast and is best eaten within a week or two of picking; it also makes a good sauce.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing early and crops well. Thin the fruitlets for better size; ripe apples tend to drop."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; needs a compatible partner flowering at the same time."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Does well in warm-summer temperate climates (Japan, the US mid-Atlantic and Pacific Northwest) yet tolerates cold winters; colours readily.",
+      "poor_climates": "In cool, dull maritime summers fruit can stay small; its short keeping life limits its value where a long season is wanted."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Generally healthy; some resistance to scab, mildew, fire blight and cedar-apple rust. Pre-harvest drop and small fruit are the usual complaints."
+    },
+    "grow_notes": "A good early red apple for low-spray gardens. Thin hard in June for decent size and pick promptly as the fruit colours, since it drops and does not keep.",
+    "conf": "medium"
+  },
+  {
+    "id": "sansa",
+    "name": "Sansa",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Morioka, Iwate Prefecture, Japan (cross made in New Zealand)",
+      "year": 1969,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Gala x Akane",
+      "raised_by": "Morioka fruit research station, in collaboration with New Zealand DSIR"
+    },
+    "history": "A joint Japanese-New Zealand project: the Gala x Akane cross was made in New Zealand and the seedlings were raised and selected at Morioka in Japan. It was released in 1988 as an early, disease-resistant Gala-type apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Gala-like: yellow ground largely washed and streaked with bright red."
+    },
+    "taste": {
+      "summary": "Sweet, juicy and crisp-tender in the Gala style, with a little more acidity from Akane to keep it lively. An early apple to eat soon after picking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Aug-Sep, soon after picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and quick to crop, so avoid very dwarfing rootstocks and thin the fruit to keep the tree growing."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; average pollinator."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate to warm climates with reasonably sunny summers; its disease resistance suits humid regions where scab and rust are a problem.",
+      "poor_climates": "Cold, short-season areas where the weak tree struggles; no long-keeping value."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 1,
+      "fire_blight": null,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Good general disease resistance (very resistant to mildew and cedar-apple rust, some scab resistance). The main limitation is weak growth."
+    },
+    "grow_notes": "Give it a semi-vigorous rootstock and good soil to compensate for its weak growth. A useful low-spray early apple; chill hours are an estimate.",
+    "conf": "medium"
+  },
+  {
+    "id": "liberty",
+    "name": "Liberty",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1955,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Macoun x PRI 54-12 (a Purdue selection carrying Malus floribunda scab resistance)",
+      "raised_by": "New York State Agricultural Experiment Station (R.C. Lamb)"
+    },
+    "history": "Crossed at Geneva, New York in 1955 and released in 1978 as a disease-resistant McIntosh-type apple. It became one of the standard low-spray apples for home and organic orchards in North America.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": true,
+      "russet": 1,
+      "description": "Dark red, striped colour over almost the whole fruit, with a little russet in the stalk cavity."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, pale yellow flesh with a sprightly, vinous McIntosh-family flavour, sharper and better balanced than many of its relatives. Improves for a few weeks after picking and makes a pink-tinged sauce.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; improves a few weeks after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Sets far more fruit than it can size; thin hard or apples stay small and the tree slips into alternate bearing."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Orange Pippin lists group 2; other lists place it mid-season, so pair it with a group 2-3 partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Humid, cold-winter regions such as the north-eastern US and upper Midwest, where its scab and rust resistance saves a lot of spraying; also fine in the UK.",
+      "poor_climates": "Very hot summers give softer, less well coloured fruit, as with other McIntosh relatives."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Carries the Vf scab-resistance gene (immune to common scab races, though Vf-breaking races exist in parts of Europe). Main cultural problem is overcropping."
+    },
+    "grow_notes": "One of the best choices for an unsprayed garden apple. Thin fruitlets to one per cluster, and plant with an early-to-mid season partner.",
+    "conf": "high"
+  },
+  {
+    "id": "spartan",
+    "name": "Spartan",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Dominion Experimental Station, Summerland, British Columbia, Canada",
+      "year": 1926,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Newtown Pippin according to the breeder's records; the pollen parent is doubtful",
+      "raised_by": "R.C. Palmer, Summerland Research Station"
+    },
+    "history": "Raised in 1926 at the Summerland research station in British Columbia and introduced in 1936. It became an important commercial apple in Canada and was widely planted in Britain and northern Europe in the mid twentieth century.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "purple",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 0,
+      "description": "Almost entirely deep maroon-purple with a waxy bloom that polishes to a shine; strikingly white flesh."
+    },
+    "taste": {
+      "summary": "Snow-white, crisp and juicy flesh with a sweet, gently vinous McIntosh character and low acidity. Very good fresh from the tree but softens and loses crunch if kept too long or grown too large.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Crops freely; thin to get reasonable fruit size. Prone to canker on cold, wet soils."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile and a good pollinator for other group 2-4 varieties; crops better with a partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool-temperate regions such as interior British Columbia, Britain and Scandinavia; it colours deeply even in dull summers and the blossom is fairly frost-tolerant.",
+      "poor_climates": "Hot summers soften the fruit; heavy, wet soils encourage canker."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": 2,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Canker is the main weakness in wet regions; fruit may break down in store if picked late or kept long."
+    },
+    "grow_notes": "Choose a well-drained site and avoid heavy, waterlogged clay because of canker. Thin heavily in good years and pick before the fruit becomes over-mature for best keeping.",
+    "conf": "high"
+  }
+]

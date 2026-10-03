@@ -1,0 +1,602 @@
+[
+  {
+    "id": "jupiter",
+    "name": "Jupiter",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1966,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Starking (a Delicious sport)",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "A triploid seedling raised at East Malling in 1966 from Cox crossed with the American Starking, and released to growers in 1981. It was one of several attempts to capture Cox flavour in a bigger, easier tree, and it has won an RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "A big, rather tall apple, greenish-yellow under an orange-red flush broken into stripes, with a little russet."
+    },
+    "taste": {
+      "summary": "A strong, very fruity Cox-type apple, sweet but noticeably sharper than its parent, with an intense, well-balanced flavour some tasters compare to Topaz. Juicy cream flesh with a green tinge, dense and firm rather than crunchy; it keeps a month or two before softening.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; at its best in the first weeks after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "triploid",
+      "notes": "A strong-growing triploid that needs room or a dwarfing rootstock. Thin heavy sets to keep size up and to discourage alternate-year cropping."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid: a poor pollen donor, so it needs one diploid partner in group 2-4 and ideally a second diploid to pollinate that partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, temperate lowland Britain and north-west Europe, where it gives a Cox-like apple with less trouble than Cox.",
+      "poor_climates": "Hot-summer regions are untested and likely to give soft, poorly coloured fruit; very cold continental winters are also outside its known range."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthier than Cox, with good mildew and fair scab resistance; fruit does not keep as long as some Cox types."
+    },
+    "grow_notes": "A good garden substitute for Cox in southern and central England. Plant with two diploid companions such as Discovery or Sunset, choose M26 or M9 to restrain its vigour, and thin fruitlets in June.",
+    "conf": "high"
+  },
+  {
+    "id": "king-of-the-pippins",
+    "name": "King of the Pippins",
+    "aka": [
+      "Reine des Reinettes",
+      "Golden Winter Pearmain",
+      "Goldparmäne",
+      "Hampshire Yellow",
+      "Prince's Pippin",
+      "Winter Goldparmane"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Probably France (as Reine des Reinettes); origin disputed",
+      "year": 1800,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An 18th-century apple whose origins are muddled: the British national collection treats it as identical to the French Reine des Reinettes, and in England it seems to have been sold first as Golden Winter Pearmain before the nurseryman Kirke of Brompton renamed it. It was widely planted across Europe in the 19th century and carries well over a hundred synonyms.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Neat, slightly conical golden fruit with an orange flush streaked in red and freckled with russet dots."
+    },
+    "taste": {
+      "summary": "Firm, juicy, yellowish flesh with a brisk sweet-sharp balance and a light aromatic, almond-like note; it is sharper when picked and mellows in store. Holds its shape when cooked, which is why the French favour it for tarte Tatin.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "sweet",
+        "almond"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; sweeter after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A fairly compact, upright, easy tree that crops well; heavy years can be followed by lighter ones, so thin in big years."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile but sets better with a group 3-5 partner; a useful pollinator for other diploids."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate western Europe, from southern England through France and the Low Countries, where it has been grown for over two centuries.",
+      "poor_climates": "Very wet, scab-prone sites can mark the fruit; extreme continental cold is outside its documented range."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Some scab susceptibility; otherwise regarded as a trouble-free garden tree."
+    },
+    "grow_notes": "A versatile choice for anyone wanting one tree for both the fruit bowl and the kitchen. Grows well on ordinary soils in sun; prune as a spur-bearer and thin in heavy-crop years to avoid alternate bearing.",
+    "conf": "medium"
+  },
+  {
+    "id": "limelight",
+    "name": "Limelight",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Faversham, Kent, England",
+      "year": 1985,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Discovery x Greensleeves",
+      "raised_by": "Hugh Ermen"
+    },
+    "history": "Raised around 1985 by the Kent fruit breeder Hugh Ermen at Faversham and released in 2000. Bred as a compact, disease-resistant green dessert apple for gardens.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Smooth, clear lime-green fruit ripening to pale yellow, without any red flush."
+    },
+    "taste": {
+      "summary": "Firm, crisp and juicy with a clean, refreshing sweetness and enough acidity to keep it lively; tasters place it somewhere between Golden Delicious and Granny Smith. Best eaten soon after picking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, within a few weeks of picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and compact, so suited to small gardens, patio containers and cordons; crops regularly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner flowering in group 2-4."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist British gardens, where its scab and mildew resistance pays off.",
+      "poor_climates": "Not documented in hot or continental climates; a green apple bred in Kent is unlikely to enjoy hot summers."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good resistance to scab and mildew is reported, though scab can still appear in wet years."
+    },
+    "grow_notes": "An easy, low-spray apple for a small garden. Because the tree is weak-growing, give it a semi-vigorous rootstock such as MM106 or M26 in poorer soil, and plant near another mid-season diploid.",
+    "conf": "medium"
+  },
+  {
+    "id": "macoun",
+    "name": "Macoun",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1918,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "McIntosh x Jersey Black",
+      "raised_by": "Richard Wellington, NYSAES Geneva"
+    },
+    "history": "Bred at the Geneva station in New York State, described in 1918 and released in 1923. It was named after W. T. Macoun, the Canadian Dominion Horticulturist, and remains a much-loved New England autumn apple despite its short season.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Flattish apple almost covered in a dark purplish-red flush and stripes, often with a bluish bloom."
+    },
+    "taste": {
+      "summary": "Very crisp, tender, snow-white flesh that bursts with sweet juice and a strong vinous perfume typical of the McIntosh family, with just a little tartness. Best fresh; it loses its snap quickly out of cold storage.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "wine",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov, fresh from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Upright and vigorous; strongly inclined to crop every other year and to set small fruit unless thinned early. The short stem makes fruit prone to drop before harvest."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, cool-autumn regions such as New England, upstate New York, Ontario and Quebec, where it colours deeply and keeps its crunch.",
+      "poor_climates": "Warm or hot autumns give poorly coloured, soft fruit; in mild maritime Britain it grows but is seldom planted."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Scab-prone like McIntosh; marked biennial bearing and pre-harvest drop are the main grower complaints. Fruit bruises easily."
+    },
+    "grow_notes": "Worth growing where winters are cold and autumns crisp. Thin hard every year to break the alternate-bearing habit and to get decent size, and pick promptly before the fruit drops.",
+    "conf": "high"
+  },
+  {
+    "id": "mcintosh-red",
+    "name": "McIntosh Red",
+    "aka": [
+      "McIntosh",
+      "Mac"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Dundela, Dundas County, Ontario, Canada",
+      "year": 1811,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, possibly of Fameuse (Snow Apple) or Saint Lawrence",
+      "raised_by": "John McIntosh"
+    },
+    "history": "Found as a wild seedling by the settler John McIntosh while clearing land at Dundela, Ontario, in the early 1800s (the national collection gives 1796). His son Allan began grafting and selling it in the 19th century, and it became the classic apple of eastern Canada and New England and a parent of Macoun, Spartan, Empire and many others.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Pale green-yellow fruit flushed and striped bright red, with a waxy bloom on the skin."
+    },
+    "taste": {
+      "summary": "Bright white, very juicy flesh that is crunchy when fresh but soon softens, with a simple sweet flavour, refreshing acidity and the vinous, perfumed note likened to wild grapes that defines the McIntosh family. The vinous character fades within a few weeks of storage and the flesh can go mealy; it collapses to a smooth sauce when cooked.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "wine",
+        "perfumed",
+        "grape",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov; best soon after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Vigorous, spreading and productive; fruit drops readily as it ripens, so pick on time. Stop-drop sprays are routine in commercial orchards."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early-flowering; pair with another group 1-3 diploid."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, cool-summer regions: Ontario, Quebec, the Maritimes, New England and the upper Midwest, where cool autumn nights give its bright red colour.",
+      "poor_climates": "Hot summers and warm nights give poor colour and soft fruit, and its scab susceptibility is a burden in humid maritime climates such as Britain."
+    },
+    "health": {
+      "scab": 5,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": 2,
+      "other": "Very prone to apple scab; pre-harvest drop and soft, easily bruised fruit are the other weaknesses."
+    },
+    "grow_notes": "Best in cold, continental gardens; in damp mild areas expect to manage scab. Plant in an open, airy site, thin crops, and harvest promptly to beat fruit drop.",
+    "conf": "high"
+  },
+  {
+    "id": "opalescent",
+    "name": "Opalescent",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ohio, USA",
+      "year": 1899,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An American apple introduced in 1899 by the nursery firm McNary & Gaines of Xenia, Ohio; its true origin and parentage are not recorded. The name refers to the waxy skin, which polishes to a high, almost reflective shine. It is a parent of Shenandoah.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, somewhat ribbed conical apple, striped and flushed red over pale yellow, with a greasy skin that takes a glossy polish."
+    },
+    "taste": {
+      "summary": "Thin-skinned, juicy and just crisp enough, with a sweet flavour balanced by a fair tartness. Growers single out a delicate floral character, some likening it to lilac, and compare the overall taste with Mutsu or Crispin. Used for baking as well as eating.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "floral",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Reported to be very productive; little other modern growing data."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering diploid; pair with a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Its home range is the American Midwest and mid-Atlantic, with warm summers and cold winters.",
+      "poor_climates": "No documented performance in very cold or subtropical regions; the fruit is said to ripen quickly and not travel well."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A heritage curiosity for collectors of old American apples. Give it a sunny site and a mid-season pollinator, and use the fruit promptly as it does not keep long.",
+    "conf": "low"
+  },
+  {
+    "id": "patte-de-loup",
+    "name": "Patte de Loup",
+    "aka": [
+      "Patte du Loup",
+      "Pomme de Loup"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Beaupréau area, Maine-et-Loire (Anjou), France",
+      "year": 1790,
+      "year_note": "c.",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old russet from the Beaupréau district of Anjou in the Loire valley, generally dated to the late 1700s, although one French account links it to a description from 1670. 'Wolf's paw' refers to a scar-like line across the russet, as though the fruit had been clawed.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 3,
+      "description": "Flattish, often lopsided fruit almost covered in fawn-brown russet over green, typically marked by a narrow scratch-like scar."
+    },
+    "taste": {
+      "summary": "Fine, dense, firm flesh, not especially juicy, with a sweet, gently acid and perfumed flavour carrying a faint aniseed note, in the manner of the French fennel-scented russets. Develops in store through winter.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "perfumed",
+        "aniseed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after a period in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, upright and fruitful; fruit holds firmly on the branch, so it tolerates windy sites."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Mid-to-late flowering; French sources suggest Golden Delicious as a partner."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": null,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild Atlantic-influenced western France and southern England, with a long autumn to finish this late apple.",
+      "poor_climates": "Short-season or cold-autumn areas may not ripen it fully before frost."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "French sources report good resistance to scab and pests; little UK data."
+    },
+    "grow_notes": "A late keeping russet for a sunny, sheltered garden in the south. Pick in late October and store cool and slightly humid so the russet skin does not shrivel; eat from midwinter.",
+    "conf": "low"
+  }
+]

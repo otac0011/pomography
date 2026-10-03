@@ -1,0 +1,420 @@
+[
+  {
+    "id": "lady-sudeley",
+    "name": "Lady Sudeley",
+    "aka": [
+      "Jacob's Strawberry"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Petworth, Sussex, England",
+      "year": 1849,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mr Jacob, a cottager at Petworth"
+    },
+    "history": "Raised around 1849 by a Petworth cottager named Jacob and later introduced by George Bunyard and Co. of Maidstone in 1885, a year after it won an RHS Award of Merit. A showy Victorian garden apple, it is a parent of Benenden Early and Laxton's Beauty of Bedford.",
+    "look": {
+      "size": "medium",
+      "shape": "ribbed",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Handsome, distinctly ribbed fruit, golden yellow boldly striped and flushed with orange-red to scarlet."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained and juicy yellowish flesh with a lively, slightly sharp flavour of good quality. Best eaten straight from the tree; it softens within about a week.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with attractive blossom. The wood is brittle and branches can snap under a heavy crop, so thin fruit and support laden limbs."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Fairly late-flowering for an early apple (group 4) with frost-resistant blossom; partly self-fertile but crops better with a group 3-5 diploid partner."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and central England and similar mild climates; its later, frost-resistant blossom helps in gardens with spring frosts.",
+      "poor_climates": "Hot summers would hasten softening and dull the striped colour; no records from hot regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have good general disease resistance. Main weakness is brittle wood that breaks under heavy crops."
+    },
+    "grow_notes": "A decorative early apple for gardens, good in sites where late frosts catch earlier blossom. Thin the fruit in heavy years to protect the brittle branches, and pick over a few weeks from late August.",
+    "conf": "medium"
+  },
+  {
+    "id": "laxtons-epicure",
+    "name": "Laxton's Epicure",
+    "aka": [
+      "Epicure"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bedford, Bedfordshire, England",
+      "year": 1909,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Wealthy x Cox's Orange Pippin",
+      "raised_by": "Laxton Bros."
+    },
+    "history": "Crossed by the Laxton Brothers of Bedford in 1909 and released in 1929; it won an RHS Award of Merit in 1931 and later the Award of Garden Merit. It brings some of Cox's flavour to an apple that ripens several weeks earlier.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Smallish truncated-conical apple, greenish-yellow streaked and mottled with brownish to bright red."
+    },
+    "taste": {
+      "summary": "Sweet, juicy and aromatic, with a fine-grained, moderately crisp texture and something of the Cox richness in it. Flavour is best when the apples are left to ripen fully on the tree, and it fades within a couple of weeks.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-mid Sep; does not keep long"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "A rather small, very precocious tree with large leaves that will set fruit even on unpruned one-year shoots. Thin heavy crops to keep fruit size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering (group 3); plant with another group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate gardens such as most of Britain; ripening in late summer, it is picked before autumn weather sets in.",
+      "poor_climates": "Wet, high-rainfall districts raise the risk of canker; hot summers would give soft fruit with little colour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease resistance slightly above average overall, but canker can be a problem in wet districts."
+    },
+    "grow_notes": "A good Cox-flavoured early apple for small gardens because the tree stays compact and crops young. Grow on well-drained soil, thin the fruit, and leave apples on the tree until fully ripe for the best flavour.",
+    "conf": "high"
+  },
+  {
+    "id": "maidstone-favourite",
+    "name": "Maidstone Favourite",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Maidstone, Kent, England",
+      "year": 1913,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Alexander x Beauty of Bath",
+      "raised_by": "George Bunyard & Co."
+    },
+    "history": "Raised by the Maidstone nursery of George Bunyard and Co. and given an RHS Award of Merit in 1913. A Kent early apple from the same firm that introduced Lady Sudeley, now rare outside collections.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Smallish to medium, flattish, very even fruit, pale green-yellow prettily striped with carmine red."
+    },
+    "taste": {
+      "summary": "Fine-textured, juicy and sweet, with a pleasant and slightly distinctive aromatic flavour. An apple for eating within days of picking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Mid Aug-early Sep, fresh"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little growing data recorded. Prune as a normal spur-bearing dessert apple."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not published; National Fruit Collection blossom dates are early-to-mid season, similar to Beauty of Bath."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Kent and similar mild south-east English conditions where it was raised.",
+      "poor_climates": "No records from hot or very cold regions; soft early fruit generally fares badly in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A Kent heritage apple for collectors and local-variety orchards. Grow in sun on well-drained loam with an early or mid-season diploid pollinator and pick in mid August.",
+    "conf": "low"
+  },
+  {
+    "id": "melba",
+    "name": "Melba",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Central Experimental Farm, Ottawa, Ontario, Canada",
+      "year": 1898,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh seedling; the pollen parent is often given as Liveland Raspberry but is not firmly documented",
+      "raised_by": "W. T. Macoun, Central Experimental Farm"
+    },
+    "history": "Raised in 1898 by W. T. Macoun at Canada's Central Experimental Farm in Ottawa and released in 1909; it is generally said to be named after the opera singer Nellie Melba. It won the American Pomological Society's Wilder Medal in 1927 and became a leading summer apple in Canada and Scandinavia.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Pale yellow apple washed and striped with pinkish to crimson red, with a whitish bloom and somewhat ribbed shape."
+    },
+    "taste": {
+      "summary": "Snow-white, crisp and juicy flesh that softens fairly quickly, with a sweet, lightly tart, wine-like flavour and the perfumed skin aroma typical of the McIntosh family. Also makes good sauce.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-early Sep; eat soon after picking or use for sauce"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Very productive and bears young, but strongly inclined to alternate cropping; thin hard in heavy years. Fruit bruises easily."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "UK flowering group not reliably published; National Fruit Collection blossom dates are early-to-mid season, similar to Beauty of Bath."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter continental and northern climates such as eastern Canada, the northern US and Scandinavia, where it is very winter-hardy.",
+      "poor_climates": "Hot humid summers bring soft fruit, poor colour and heavy scab pressure; mild, wet maritime climates also favour scab."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab like other McIntosh offspring; strongly biennial; fruit bruises easily."
+    },
+    "grow_notes": "One of the hardiest good-quality summer apples, worth growing in cold districts. Thin fruit every year to curb biennial bearing, and spray or choose an open, airy site where scab is common.",
+    "conf": "medium"
+  },
+  {
+    "id": "millers-seedling",
+    "name": "Miller's Seedling",
+    "aka": [
+      "The Shah"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Newbury, Berkshire, England",
+      "year": 1848,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "James Miller"
+    },
+    "history": "Raised in 1848 by James Miller at Newbury in Berkshire and given an RHS Award of Merit in 1906. Popular with Victorian and Edwardian gardeners as a sweet, juicy early apple; a redder sport, Red Miller, also exists.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 0,
+      "description": "Pale greenish-yellow, flattish apple with a light pink-red flush and fine red stripes on the sunny side."
+    },
+    "taste": {
+      "summary": "White, very juicy flesh, crisp but light when first picked and soon softening, with a sweet, refreshingly tart and fragrant flavour. It bruises at the slightest knock and goes waxy within about a week, so eat it straight from the tree.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-mid Sep, fresh from the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Crops very heavily in its 'on' years and then rests, so thin fruitlets hard to even out cropping."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Usually placed in early flowering group 2 (one guide gives 3); partly self-fertile but sets better with a partner."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, mild temperate climates like southern and central England.",
+      "poor_climates": "Hot summers make the soft, easily bruised fruit deteriorate even faster; no records from hot regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Average disease resistance. Main faults are a strong biennial habit and fruit that bruises very easily."
+    },
+    "grow_notes": "A rewarding sweet early apple for gardens if thinned every year to avoid feast-and-famine cropping. Handle the fruit gently and eat or juice it within a week of picking.",
+    "conf": "medium"
+  }
+]

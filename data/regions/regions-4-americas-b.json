@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sebastopol",
+    "summary": "Coastal-influenced western Sonoma County: wet, mild winters with moderate chilling, then dry summers cooled by fog drifting in from the Pacific. The cool mornings suit early and mid-season apples, while a fully dry summer means trees need watering in light soils.",
+    "apple_culture": "Sebastopol is the home of the Gravenstein in California, with a Gravenstein Highway, an apple blossom festival and an apple fair, though many orchards have given way to vineyards. Luther Burbank's experimental farm was here, and a lively cider and heirloom scene keeps old varieties in demand.",
+    "local_varieties": ["Gravenstein", "Rome Beauty", "Jonathan", "Golden Delicious", "Sierra Beauty", "Wickson"],
+    "pests_diseases": "Codling moth is the main insect, scab appears in rainy springs, and powdery mildew thrives in the foggy, dry-leaf summers. Fire blight is occasional.",
+    "tips": "Gravenstein ripens in mid-summer and keeps poorly, so pair it with later keepers and use it for sauce and juice. Mulch and water through the dry season, and choose scab- and mildew-resistant varieties if you want to spray little.",
+    "confidence": "high"
+  },
+  {
+    "id": "watsonville",
+    "summary": "Cool, foggy coastal valley near Monterey Bay: mild winters with marginal-to-moderate chilling, and long, cool, overcast summers that ripen fruit slowly. Fog-tolerant green and yellow apples historically did better here than varieties needing strong sun to colour.",
+    "apple_culture": "The Pajaro Valley was once called Apple City, famous for Newtown Pippin and Bellflower apples dried and shipped worldwide, and Martinelli's has made sparkling cider from local Newtown Pippins since the late 1800s. Strawberries and cane berries have replaced most orchards, and the remaining growers depend heavily on juice markets.",
+    "local_varieties": ["Newtown Pippin", "Yellow Bellflower", "Ortley"],
+    "pests_diseases": "Powdery mildew is favoured by the foggy, mild summers, and codling moth is the main insect pest. Scab can appear in wet springs.",
+    "tips": "Choose moderate-chill varieties that colour without much sun, and favour mildew-resistant types or prune for airflow. Thin fruit early so it sizes during the long cool season, and leave late varieties on the tree to develop flavour.",
+    "confidence": "medium"
+  },
+  {
+    "id": "los-angeles",
+    "summary": "Mild Mediterranean basin with warm, dry summers and frost-free or nearly frost-free winters, so winter chilling is very low near the coast and only a little better in the inland valleys and foothills. Hot spells and dry Santa Ana winds can sunburn fruit and stress trees.",
+    "apple_culture": "Apples are a backyard crop here, made possible by low-chill varieties from Israel, Bermuda and California breeding. Southern California is the birthplace of the California Rare Fruit Growers and of the 'backyard orchard culture' style of small, summer-pruned trees.",
+    "local_varieties": ["Anna", "Dorsett Golden", "Ein Shemer", "Beverly Hills", "Fuji", "Pink Lady"],
+    "pests_diseases": "Codling moth is the main fruit pest, and sunburn and heat stress are common. Low-chill trees bloom early and over a long period, which can expose them to fire blight in warm, damp spring weather.",
+    "tips": "Plant genuinely low-chill varieties and pair them for pollination (Anna with Dorsett Golden is the classic match). Inland valleys and foothills get more chill than the coast; water deeply but infrequently, paint trunks white, and keep trees small with summer pruning.",
+    "confidence": "high"
+  },
+  {
+    "id": "south-michigan",
+    "summary": "Lake Michigan's 'fruit belt': prevailing westerly winds over the lake keep springs cool, delaying bloom past many frosts, and soften autumn freezes. Winters bring lake-effect snow and plenty of chilling, while humid summers create high disease pressure.",
+    "apple_culture": "Southwest Michigan has grown apples, peaches, cherries and grapes for well over a century, with roadside markets, u-pick farms and Michigan State University research stations in the area. Michigan is one of the top apple states, and this end of it is known for processing apples and a strong cider scene.",
+    "local_varieties": ["Jonathan", "Northern Spy", "McIntosh", "Red Delicious", "Golden Delicious", "Honeycrisp", "Gala", "Jonagold"],
+    "pests_diseases": "Apple scab and fire blight are the big diseases; a severe fire blight epidemic in 2000 killed large numbers of trees here. Plum curculio, codling moth, apple maggot and oriental fruit moth all need managing, and cedar-apple rust is common.",
+    "tips": "Plant on slopes with cold-air drainage, close to the lake if you can. Choose scab-resistant varieties and fire-blight-resistant rootstocks (such as the Geneva series), and avoid heavy nitrogen that drives soft, blight-prone growth.",
+    "confidence": "high"
+  },
+  {
+    "id": "traverse-city",
+    "summary": "Grand Traverse Bay country, where deep lake water moderates temperatures: cold, snowy winters, late springs that hold bloom back, and pleasant but shorter summers than the south of the state. Lake-moderated hillsides and peninsulas are much safer than inland hollows.",
+    "apple_culture": "The region is best known for tart cherries, but apples are a major crop on Old Mission and Leelanau peninsulas, much of it for processing such as slices and sauce. It also has a thriving hard-cider and winery trade, and Michigan State runs a horticultural research station nearby.",
+    "local_varieties": ["Northern Spy", "McIntosh", "Honeycrisp", "Gala", "Idared", "Jonagold", "Empire"],
+    "pests_diseases": "Apple scab is the main disease in the cool, wet springs, with fire blight in warm bloom periods. Plum curculio, apple maggot and codling moth are the key insects.",
+    "tips": "Choose hardy varieties that ripen before mid-October; very late ones such as Fuji or Granny Smith rarely mature well. Plant on a slope near the water for frost protection and keep a scab programme or plant resistant varieties.",
+    "confidence": "high"
+  },
+  {
+    "id": "hudson-valley",
+    "summary": "Humid continental river valley: cold winters with ample chilling, warm, humid summers and frequent rain. The river and valley slopes moderate frost somewhat, but late spring frosts and long wet periods are routine, so disease pressure is high.",
+    "apple_culture": "One of the oldest apple-growing regions in North America, settled by Dutch and English farmers and the birthplace of Esopus Spitzenburg. It remains a major McIntosh district for the New York City market, with Cornell's Hudson Valley lab and a fast-growing craft cider movement.",
+    "local_varieties": ["Esopus Spitzenburg", "Newtown Pippin", "McIntosh", "Empire", "Macoun", "Cortland", "Jonagold"],
+    "pests_diseases": "Apple scab, fire blight and summer diseases such as sooty blotch and flyspeck are constant; cedar-apple rust is common. Plum curculio, apple maggot, codling moth and brown marmorated stink bug are the main insects.",
+    "tips": "If you want to spray little, start with scab-resistant varieties like Liberty, Enterprise or GoldRush and bag fruit to beat curculio and maggot. Rake leaves in autumn to cut scab, and favour hillside sites over the valley floor.",
+    "confidence": "high"
+  },
+  {
+    "id": "finger-lakes",
+    "summary": "Glacial lakes too deep to freeze moderate the surrounding slopes, delaying spring bloom and extending autumn. Winters are cold and snowy with abundant chilling, and summers are warm and humid, with Lake Ontario's shore to the north as the core commercial apple belt.",
+    "apple_culture": "Geneva is one of the world's centres of apple science: Cornell AgriTech bred Cortland, Macoun, Empire, Jonagold, Liberty and SnapDragon, the Geneva rootstocks come from here, and the USDA keeps a vast apple germplasm collection nearby. Northern Spy originated near the region, and cider houses now sit alongside the wineries.",
+    "local_varieties": ["Empire", "Cortland", "Macoun", "Jonagold", "Northern Spy", "Liberty", "SnapDragon", "RubyFrost"],
+    "pests_diseases": "Apple scab and fire blight are the major diseases; codling moth, apple maggot, plum curculio and obliquebanded leafroller are the main insects.",
+    "tips": "Use Geneva rootstocks for fire blight tolerance and plant on slopes near the lakes for frost protection. Local releases like Liberty give you scab resistance without giving up flavour.",
+    "confidence": "high"
+  },
+  {
+    "id": "champlain",
+    "summary": "The warmest, driest corner of Vermont, where Lake Champlain softens temperatures on its shores. Winters are still severe, with occasional deep cold that injures tender varieties, and springs are cool and wet; summers are warm enough for a full McIntosh-type season.",
+    "apple_culture": "Addison County along the lake is Vermont's main commercial apple area, long devoted to McIntosh and its relatives. Orchards here now supply a strong Vermont cider scene, and old varieties such as Snow apple (Fameuse) recall the region's links with Quebec.",
+    "local_varieties": ["McIntosh", "Empire", "Cortland", "Macoun", "Honeycrisp", "Zestar!", "Fameuse", "Northern Spy"],
+    "pests_diseases": "Apple scab is the dominant disease, and McIntosh-type apples are very susceptible; fire blight and cedar-apple rust also occur. Apple maggot and plum curculio are the key insects, and voles and deer damage trees in winter.",
+    "tips": "Pick cold-hardy varieties and rootstocks, and use vole guards and deer fencing. Choose scab-resistant varieties or commit to a scab programme, and avoid varieties that ripen too late for the season.",
+    "confidence": "high"
+  },
+  {
+    "id": "pioneer-valley",
+    "summary": "Connecticut River valley in western Massachusetts: cold winters with ample chilling, warm, humid summers and regular rain. Low valley floors are notorious frost pockets, while the hill towns on either side drain cold air better but have shorter seasons.",
+    "apple_culture": "Massachusetts is the cradle of New England apples, home of Roxbury Russet and Baldwin, and the valley has old family orchards, u-pick farms and heirloom collections. UMass Amherst's Cold Spring Orchard in Belchertown carries out apple research for the region.",
+    "local_varieties": ["McIntosh", "Macoun", "Cortland", "Baldwin", "Roxbury Russet", "Northern Spy", "Honeycrisp"],
+    "pests_diseases": "Apple scab, fire blight and cedar-apple rust (with abundant red cedar nearby) are the major diseases. Plum curculio and apple maggot are the classic New England insect pests.",
+    "tips": "Plant on a gentle slope rather than the valley bottom so cold air drains away. Scab-resistant varieties such as Liberty, Freedom or Redfree cut spraying, and you should keep ornamental junipers well away from apples.",
+    "confidence": "high"
+  },
+  {
+    "id": "maine",
+    "summary": "Cold, snowy interior New England: long winters with deep cold snaps, short but warm summers, and plenty of rain. Hardiness and early ripening matter more than chilling, and snow cover brings vole and deer damage.",
+    "apple_culture": "Central Maine is the heart of the US heritage-apple revival: Fedco Trees and orchardist John Bunker have spent decades rescuing old Maine varieties, and MOFGA's Maine Heritage Orchard in Unity preserves hundreds of them. Old farmhouse trees and wild seedlings are everywhere, and cider making is popular.",
+    "local_varieties": ["Black Oxford", "Starkey", "Blue Pearmain", "Wolf River", "Duchess of Oldenburg", "McIntosh", "Cortland"],
+    "pests_diseases": "Apple scab and apple maggot are the main problems, with plum curculio close behind. Winter moth is an invasive defoliator near the coast, and voles under the snow can girdle young trees.",
+    "tips": "Use hardy rootstocks such as Antonovka seedling or B.118 and varieties proven in Maine, many of which local nurseries stock. Put hardware-cloth guards around trunks before snowfall and pick early- to mid-season varieties that ripen before hard frost.",
+    "confidence": "high"
+  },
+  {
+    "id": "adams-county",
+    "summary": "Mid-Atlantic fruit belt along the slopes of South Mountain: cold-enough winters for full chilling, hot and humid summers, and a long season. Ridge and slope sites drain frost well, but the summer heat and humidity bring heavy disease and insect pressure.",
+    "apple_culture": "Adams County is Pennsylvania's apple county, with a large processing industry built around the Knouse Foods cooperative, the National Apple Museum in Biglerville and Penn State's fruit research centre. York Imperial, a processing favourite from neighbouring York County, has long been grown here.",
+    "local_varieties": ["York Imperial", "Stayman", "Rome Beauty", "Golden Delicious", "Gala", "Honeycrisp", "Fuji"],
+    "pests_diseases": "Brown marmorated stink bug became a severe pest here after about 2010, alongside codling moth and oriental fruit moth. Fire blight, scab, bitter rot and sooty blotch/flyspeck are the main diseases in the hot, wet summers.",
+    "tips": "Choose disease-resistant varieties such as GoldRush or Enterprise and fire-blight-tolerant Geneva rootstocks. Bagging fruit helps against stink bugs and summer rots, and good sanitation of mummified fruit reduces bitter rot.",
+    "confidence": "high"
+  }
+]

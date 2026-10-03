@@ -1,0 +1,447 @@
+[
+  {
+    "id": "baldwin",
+    "name": "Baldwin",
+    "aka": [
+      "Woodpecker",
+      "Butters"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Wilmington, Massachusetts",
+      "year": 1740,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Found on the farm of John Ball; popularised by Col. Loammi Baldwin"
+    },
+    "history": "A chance seedling from Wilmington, near Boston, first known locally as Woodpecker or Butters; Colonel Loammi Baldwin spread it in the late 18th century and it took his name. It was New England's leading apple for over a century until the severe winter of 1933-34 killed huge numbers of trees.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, roundish fruit flushed and striped bright red over yellow, with prominent pale russet dots."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, coarse-grained flesh with a brisk sweet-tart balance and a light spiciness. Good fresh, holds its shape in pies and was long used for New England cider.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "spice",
+        "sweet"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Large, long-lived tree that is slow to bear and strongly biennial; thin fruit in the 'on' year."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Triploid with poor pollen: needs two diploid partners flowering in groups 3-5."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "New England, New York and similar humid continental climates with warm summers and cool autumns.",
+      "poor_climates": "Areas with severe winters (it was devastated by the 1934 freeze) and hot southern lowlands."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": 4,
+      "other": "Bitter pit was once called 'Baldwin spot' after this variety; also biennial bearing and limited winter hardiness."
+    },
+    "grow_notes": "Plant where winters are not extreme and supply two pollinators. Thin crops hard in heavy years and keep calcium up to reduce bitter pit in storage.",
+    "conf": "high"
+  },
+  {
+    "id": "roxbury-russet",
+    "name": "Roxbury Russet",
+    "aka": [
+      "Boston Russet",
+      "Putnam Russet",
+      "Sylvan Russet"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Roxbury, Massachusetts",
+      "year": 1635,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Arose in Roxbury in the Massachusetts Bay Colony in the mid-1600s and is generally regarded as the oldest named apple variety raised in what is now the United States. It was valued as a winter keeper and cider apple, and Thomas Jefferson grew it at Monticello.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 2,
+      "description": "Dull greenish-yellow apple heavily patched and netted with grey-brown russet, sometimes with a faint bronze cheek."
+    },
+    "taste": {
+      "summary": "Firm, somewhat coarse yellowish flesh, sugary yet tart, with a rich, slightly spicy character that improves after a few weeks in store. Makes a sweet, high-sugar juice and cider.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Vigorous, long-lived and hardy. Ploidy unconfirmed (one source lists it as triploid); treat it as a poor pollen donor."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Needs a pollinator; reported as a poor pollinator of other varieties."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold-winter, warm-summer climates of New England and the northern US, where it keeps through winter.",
+      "poor_climates": "Hot, humid southern lowlands, where flesh texture and keeping suffer."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Reported to be fairly resistant to scab, fire blight and cedar-apple rust; flesh browns quickly when cut."
+    },
+    "grow_notes": "A tough, hardy heritage tree for northern orchards. Plant a reliable pollinator, prune lightly to keep fruiting tips, and store the fruit for a month or so before eating or pressing.",
+    "conf": "medium"
+  },
+  {
+    "id": "newtown-pippin",
+    "name": "Newtown Pippin",
+    "aka": [
+      "Albemarle Pippin",
+      "Yellow Newtown",
+      "Green Newtown",
+      "Newtown"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Newtown (now Elmhurst), Queens, Long Island, New York",
+      "year": 1720,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A chance seedling from Newtown on Long Island in the early 1700s, and one of the first American apples exported to Britain; it was later grown in Virginia as Albemarle Pippin and admired by Jefferson. In the 20th century it became a processing and juice apple in California and Oregon.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Somewhat lopsided, flattened apple, grass-green ripening to yellowish-green, sometimes with a faint pinkish cheek and russet around the stalk."
+    },
+    "taste": {
+      "summary": "Hard, tight-grained and rather unappetising straight off the tree; after one to two months in store it turns crisp and juicy with a tart-sweet, wine-like and richly aromatic flavour, famously said to carry a hint of pineapple. The cut flesh browns quickly. A versatile apple for eating, pies, juice and cider.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "pineapple",
+        "wine",
+        "sharp",
+        "citrus"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Jan-Apr, after 2-3 months in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Slow to start cropping and inclined to biennial bearing; needs fertile soil and a long season to finish its fruit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Diploid; plant with another variety flowering in groups 2-4."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Jan-Apr",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, warm growing seasons: the Virginia Piedmont, coastal California (Watsonville) and Oregon's Hood River valley.",
+      "poor_climates": "Cool, short summers such as Britain's and New England's leave it small, green and sour."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Moderate susceptibility to most diseases; prone to storage disorders including bitter pit and internal browning."
+    },
+    "grow_notes": "Only worth growing where autumns are long and warm. Give rich, well-drained soil and a pollinator, thin heavy crops to limit biennial bearing, and store before eating.",
+    "conf": "high"
+  },
+  {
+    "id": "yellow-bellflower",
+    "name": "Yellow Bellflower",
+    "aka": [
+      "Bellflower",
+      "Bellefleur",
+      "Lincoln Pippin"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Near Crosswicks, Burlington County, New Jersey",
+      "year": 1742,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An 18th-century chance seedling from Burlington County, New Jersey, that spread west with settlers and became a staple of early California orchards; Bellflower in California and Bellflower in Illinois are named after it.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, elongated, tapering fruit with ribs at the eye end, pale lemon-yellow with a soft pinkish cheek on the sunny side."
+    },
+    "taste": {
+      "summary": "Tender, juicy, fine-grained flesh that is tart and aromatic when picked, mellowing in store into a rich, honeyed, highly flavoured apple; one taster likened it to key lime pie. Used for pies early in the season and for eating later.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "perfumed",
+        "sweet",
+        "honey",
+        "citrus"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little reliable modern growing data; fruit bruises easily, so handle with care."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Plant with a compatible pollinator; UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, long-season districts of the eastern US and California, where it was widely planted in the 19th century.",
+      "poor_climates": "No firm record; probably under-ripens in short, cool seasons."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded; fruit marks and bruises easily."
+    },
+    "grow_notes": "A heritage choice for warm-summer gardens. Pick carefully to avoid bruising and allow a few weeks in store for the flavour to soften and sweeten.",
+    "conf": "low"
+  },
+  {
+    "id": "tolman-sweet",
+    "name": "Tolman Sweet",
+    "aka": [
+      "Tolman Sweeting",
+      "Tallman Sweet"
+    ],
+    "uses": [
+      "culinary",
+      "dessert",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Probably Massachusetts or Rhode Island",
+      "year": 1822,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown; sometimes said to be Sweet Greening x a russet, without firm evidence",
+      "raised_by": null
+    },
+    "history": "An old New England sweet apple of uncertain origin, recorded by the early 1820s and grown for well over a century in New York and New England. Its exceptional winter hardiness made it a favoured grafting stock as well as a baking apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Pale butter-yellow, roundish fruit with faint russet dots and a distinctive line running down one side like a seam."
+    },
+    "taste": {
+      "summary": "Firm, rather dry flesh with an intensely sweet, low-acid flavour; fairly plain raw but prized for baking, boiling and pickling, which bring out its richness. Also used in sweet ciders.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": "sweet",
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Hardy, long-lived and productive, though inclined to crop in alternate years. Fruit hangs well on the tree."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Plant with a pollinator; UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold-winter northern New England, northern New York and similar climates where tenderer varieties fail.",
+      "poor_climates": "Hot southern regions; not a variety for warm, low-chill areas."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour poorly documented; fruit bruises readily and needs careful handling."
+    },
+    "grow_notes": "One of the hardiest old New England apples, good for cold sites. Thin in heavy years to reduce biennial cropping, and handle the fruit gently.",
+    "conf": "medium"
+  }
+]

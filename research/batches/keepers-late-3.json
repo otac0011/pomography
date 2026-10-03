@@ -1,0 +1,167 @@
+{
+ "batch": "keepers-late-3",
+ "theme": "keepers-late",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "goldrush",
+   "name": "Goldrush",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "goldrush",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "granny-smith",
+   "name": "Granny Smith",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "granny-smith",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "holstein",
+   "name": "Holstein",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "holstein",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "honeycrisp",
+   "name": "Honeycrisp",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "honeycrisp",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "idared",
+   "name": "Idared",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "idared",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "jester",
+   "name": "Jester",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "jester",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "jonagold",
+   "name": "Jonagold",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "jonagold",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "jonagored",
+   "name": "Jonagored",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "jonagored",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "jonathan",
+   "name": "Jonathan",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "jonathan",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "kent",
+   "name": "Kent",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "kent",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "kentish-quarrenden",
+   "name": "Kentish Quarrenden",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "kentish-quarrenden",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "kidds-orange-red",
+   "name": "Kidd's Orange Red",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "kidds-orange-red",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "king-david",
+   "name": "King David",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "king-david",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "knobby-russet",
+   "name": "Knobby Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "knobby-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "landsberger-reinette",
+   "name": "Landsberger Reinette",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "landsberger-reinette",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "laxtons-superb",
+   "name": "Laxton's Superb",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "laxtons-superb",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "leathercoat-russet",
+   "name": "Leathercoat Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "leathercoat-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "lodgemore-nonpareil",
+   "name": "Lodgemore Nonpareil",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "lodgemore-nonpareil",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "margil",
+   "name": "Margil",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "margil",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "meridian",
+   "name": "Meridian",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "meridian",
+   "keepers_cat": "late-season-eating-apple"
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "chisel-jersey",
+    "name": "Chisel Jersey",
+    "aka": ["Sidestalk Jersey"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown; an old Somerset seedling",
+      "raised_by": null
+    },
+    "history": "A nineteenth-century Somerset bittersweet; 'Jersey' is the old county word for a bittersweet apple, and 'Chisel' is usually traced to a dialect word for pebble, a nod to its small, hard fruit. It is widely thought to be one parent of Dabinett.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, hard greenish fruit with a striped red flush; the stalk often sits off-centre."
+    },
+    "taste": {
+      "summary": "A full bittersweet: the juice is high in sugar and very high in tannin with little acid, giving heavy astringency and bitterness. Prized for body and mouthfeel in blends rather than for fresh eating.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 5,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["bitter", "astringent", "sweet"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill in Nov-Dec after a short spell of sweating."
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous and comes into bearing fairly early, but tends strongly towards alternate-year crops. Prone to virus infection, which shows as small, cracked, heavily russeted fruit."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Late flowering; needs another late-blossoming cider variety nearby."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp maritime climates like Somerset and the English West Country, where long autumns ripen the late fruit.",
+      "poor_climates": "Areas with short seasons or early autumn frosts, since it is picked very late; hot dry summers are untested for it."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to virus (fruit becomes small, cracked and russeted); marked biennial bearing."
+    },
+    "grow_notes": "Plant with other late-flowering cider varieties such as Dabinett or Yarlington Mill. Thinning in heavy years helps to even out its alternate cropping. Use virus-tested stock.",
+    "conf": "medium"
+  },
+  {
+    "id": "cider-ladys-finger",
+    "name": "Cider Lady's Finger",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English cider apple of uncertain origin, named for its long, elliptical fruit; 'Lady's Finger' has been attached to several unrelated elongated apples, and different sources link this one to the West Country or to Herefordshire. It appears on the UK statutory list of cider apple varieties and is still pressed as a single-variety cider in the Welsh Marches.",
+    "look": {
+      "size": null,
+      "shape": "oblong",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Distinctly elongated, finger-like fruit, green with a red flush."
+    },
+    "taste": {
+      "summary": "Described by cider makers as a mild sharp: fresh acidity with little tannin, giving a light, easy-drinking cider rather than a heavy, tannic one.",
+      "sweet": null,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": "sharp",
+      "best_eaten": "Not recorded as a dessert apple; used for cider."
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little published information on tree habit."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Reported to be self-sterile; plant with another cider variety."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Grown in the cool, moist cider country of western England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "Treat as a typical West Country cider tree: a sheltered, well-drained site and a compatible pollinator. Because the name has been used for several elongated apples, buy from a source that traces its stock to a known collection.",
+    "conf": "low"
+  },
+  {
+    "id": "dabinett",
+    "name": "Dabinett",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Middle Lambrook, South Petherton, Somerset, England",
+      "year": 1900,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling found in a hedge; Chisel Jersey is thought to be one parent",
+      "raised_by": "William Dabinett (finder)"
+    },
+    "history": "Found as a wilding in a hedgerow at Middle Lambrook in south Somerset by William Dabinett around the turn of the twentieth century. Its compact growth and reliable crops made it the backbone of modern bush-orchard cider planting in England and abroad.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": null,
+      "description": "Small, yellow-green fruit flecked and streaked with dark red."
+    },
+    "taste": {
+      "summary": "A medium-to-full bittersweet with plenty of sugar, low acidity and soft, rounded tannin rather than harsh bitterness. Gives a full-bodied cider that stands on its own as a single variety.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 4,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent", "bitter"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Naturally small, spreading tree that comes into bearing early and crops regularly; ideal for bush orchards and small gardens. Usually listed as a vintage-quality variety."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "yes",
+      "notes": "Late flowering and largely self-fertile, so it crops on its own, though a late-flowering partner helps."
+    },
+    "season": {
+      "harvest": "late Oct-mid Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist maritime climates; widely and successfully planted in English, Irish, Pacific Northwest and Australian cider orchards.",
+      "poor_climates": "Places where autumn ends early, as the fruit is picked late; very hot, humid regions raise disease pressure."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy; good resistance to scab and canker for a cider apple."
+    },
+    "grow_notes": "One of the easiest cider apples for a beginner: compact, early-bearing and self-fertile. Suits dwarfing or semi-dwarfing rootstocks in a bush orchard. Leave fruit on the tree until it begins to drop in November.",
+    "conf": "high"
+  },
+  {
+    "id": "ellis-bitter",
+    "name": "Ellis Bitter",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Newton St Cyres, near Crediton, Devon, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A nineteenth-century Devon bittersweet, probably arising on a Mr Ellis's farm at Newton St Cyres in the Crediton area. Its early ripening let commercial growers supplying Bulmers start pressing sooner, and Long Ashton included it in trials.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Fairly large for a cider apple; conical, yellow with an orange-red striped flush and russet-ringed lenticels."
+    },
+    "taste": {
+      "summary": "A mild to medium bittersweet: sweet, low-acid juice with moderate, soft tannin, useful for adding body to early blends.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill in October, it hangs on the tree for only a couple of weeks once ripe."
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Very vigorous with a strong tip-bearing habit, so heavy pruning removes fruiting wood. Heavy cropper with some biennial tendency."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Self-sterile; needs a pollinator flowering at the same time."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, wet South West England and similar maritime climates.",
+      "poor_climates": "Warm humid regions where scab and fire blight are rife."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 1,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to mildew but prone to scab and fire blight."
+    },
+    "grow_notes": "Give it room: it is a strong grower. Prune lightly and renew rather than shortening every shoot, as fruit forms at the tips. Useful to start the cider season before the late bittersweets.",
+    "conf": "medium"
+  },
+  {
+    "id": "foxwhelp-broxwood",
+    "name": "Foxwhelp (Broxwood)",
+    "aka": ["Broxwood Foxwhelp"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Broxwood, Herefordshire, England",
+      "year": 1920,
+      "year_note": "c.",
+      "kind": "sport",
+      "parentage": "Thought to be a sport or close seedling of the ancient Foxwhelp; the exact relationship is not proven",
+      "raised_by": null
+    },
+    "history": "A Herefordshire selection of Foxwhelp, the celebrated seventeenth-century West Midlands bittersharp. Several Foxwhelp clones exist; the Broxwood form is generally regarded as the most reliable and is the one most often propagated today.",
+    "look": {
+      "size": "medium",
+      "shape": "ribbed",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium, somewhat uneven fruit with a dark crimson flush streaked over a yellow ground."
+    },
+    "taste": {
+      "summary": "A powerful bittersharp: high acid and noticeable tannin give a rich, full-bodied, deeply coloured juice that ages well and lifts blends of softer bittersweets.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp", "astringent", "bitter"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Not for eating; mill late Sep-Oct."
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Foxwhelp trees grow upright with stout branches and curled, wavy leaves; the Broxwood clone is reputed to crop more dependably than older Foxwhelp strains."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not reliably recorded; plant with other cider varieties."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Sep-Oct",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist West Midlands and Welsh Marches cider country.",
+      "poor_climates": "Wet areas with high scab pressure; little documented about hot climates."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Foxwhelp types are known to be scab-prone."
+    },
+    "grow_notes": "An early bittersharp, so pair it with other early-season apples for pressing. Choose an airy site to keep scab down. Check the clone when buying, as 'Foxwhelp' covers several different trees.",
+    "conf": "low"
+  },
+  {
+    "id": "harry-masters-jersey",
+    "name": "Harry Masters Jersey",
+    "aka": ["Harry Master's Jersey"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Yarlington, Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown; sometimes suggested to be a seedling of Yarlington Mill",
+      "raised_by": "Harry Masters"
+    },
+    "history": "Raised or selected by Harry Masters, the Yarlington nurseryman who also spread Yarlington Mill, around the late nineteenth or early twentieth century. It became a standard Somerset bittersweet and is rated of vintage quality.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Conical, mostly covered in a dark red flush and stripes."
+    },
+    "taste": {
+      "summary": "A medium-to-full bittersweet with good sugar, low acid and soft but firm tannin; makes a rich, rounded cider with good body.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 4,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent", "bitter"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Fairly weak-growing and early to bear, with a tip-bearing habit and a strong biennial tendency."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Needs a pollinator flowering in mid season."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp maritime climates such as Somerset.",
+      "poor_climates": "Short-season areas where late fruit cannot ripen."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some susceptibility to scab; biennial bearing is the main grower complaint."
+    },
+    "grow_notes": "Its modest vigour suits a vigorous rootstock or a bush orchard on MM106. Prune lightly as it bears at the tips. Fruit thinning in on-years helps even out cropping.",
+    "conf": "medium"
+  },
+  {
+    "id": "kingston-black",
+    "name": "Kingston Black",
+    "aka": ["Black Taunton"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Kingston St Mary, near Taunton, Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "Named after the parish of Kingston St Mary near Taunton, it was well known in Somerset by the nineteenth century and by the mid twentieth was one of the most widely grown cider apples in the West Country. It is the classic example of a balanced bittersharp capable of a fine single-variety cider.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, rounded fruit, yellow and red-streaked on the shaded side, deep maroon-purple where sunlit, with patches of grey russet."
+    },
+    "taste": {
+      "summary": "The benchmark bittersharp: sharp, tannic and sugary all at once, so its juice is well balanced on its own. Ciders from it are full, fruity and long-lived.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp", "astringent", "bitter"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Slow to come into bearing and a shy, erratic cropper; sources differ on how strongly biennial it is, some calling it markedly so."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Self-sterile; plant with a mid-season flowering cider apple."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Somerset-like mild maritime climates with long, mild autumns and good drainage.",
+      "poor_climates": "Wet, cold or high-disease sites, where canker and scab overwhelm it; humid regions with cedar-apple rust."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Prone to canker and scab, and to cedar-apple rust in North America; not well suited to organic growing."
+    },
+    "grow_notes": "Give it a warm, free-draining, sheltered spot and good air movement to limit canker and scab. Be patient: it can take years to crop and yields are modest. Worth growing for the quality of the juice rather than the quantity.",
+    "conf": "high"
+  },
+  {
+    "id": "slack-ma-girdle",
+    "name": "Slack Ma Girdle",
+    "aka": ["Slack-ma-Girdle", "Slack-my-Girdle"],
+    "uses": ["cider", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Devon, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A long-established sweet cider apple of the West Country, associated with Devon and also grown in Somerset and Dorset. The comic name is variously explained as a warning about its laxative effect or about the potency of its cider.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium, flattish fruit, yellow-green with bright red streaks."
+    },
+    "taste": {
+      "summary": "Very sweet, soft and tender with little acid or tannin; pleasant to eat fresh and used in cider to add sugar, with some makers noting a woody note.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": 2,
+      "juicy": null,
+      "tags": ["sweet", "mild"],
+      "cider_class": "sweet",
+      "best_eaten": "Late Oct-Nov, straight from the tree."
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A vigorous tree; detailed growth data are scarce."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not reliably recorded."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp South West England.",
+      "poor_climates": "Not documented; as a late variety it needs a long season."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "A good choice for a traditional orchard on a vigorous rootstock. Blend its sweet juice with bittersharps or bittersweets, as alone it makes a thin cider.",
+    "conf": "low"
+  }
+]

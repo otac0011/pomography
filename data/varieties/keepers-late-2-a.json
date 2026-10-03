@@ -1,0 +1,598 @@
+[
+  {
+    "id": "cornish-aromatic",
+    "name": "Cornish Aromatic",
+    "aka": [
+      "Siberian Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Cornwall, England",
+      "year": 1813,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": "Unknown; probably an old local Cornish seedling",
+      "raised_by": null
+    },
+    "history": "A Cornish garden apple that came to wider notice in 1813, when it was shown to the Horticultural Society of London, though it was believed even then to be much older. It is one of the best-known of the West Country heritage dessert apples and is held in the National Fruit Collection.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Broad, slightly ribbed conical fruit with a golden ground washed and streaked orange-red, often with patches of fine russet."
+    },
+    "taste": {
+      "summary": "Firm, rather dry cream flesh with a rich, sweet-sharp flavour carrying a distinct spicy, perfumed note. Best after a few weeks in store; in a cool, dull summer it can stay sharp and less aromatic.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "spice",
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A fairly strong-growing spur-bearer that crops regularly; prune as a conventional spur-bearing tree."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "UK listings disagree on its flowering group (figures from 2 to 4 are quoted), so pair it with a mid-season group 3 diploid, which should overlap either way."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp maritime climates such as Cornwall, Devon, Wales and Ireland, where its disease tolerance is a real asset.",
+      "poor_climates": "Short, cool summers leave the fruit sharp and dull; there is no record of it doing well in hot continental regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Regarded as resistant to both scab and canker, which is why it suits wet western districts."
+    },
+    "grow_notes": "One of the easier heritage dessert apples for wet western gardens. Give it a sunny position, average soil and a mid-season pollinating partner; it needs a reasonably warm autumn to develop its full flavour.",
+    "conf": "medium"
+  },
+  {
+    "id": "cornish-gilliflower",
+    "name": "Cornish Gilliflower",
+    "aka": [
+      "Cornish Gillyflower",
+      "Cornish July Flower",
+      "Calville d'Angleterre"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Cottage garden near Truro, Cornwall, England",
+      "year": 1813,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": null,
+      "raised_by": "Brought to notice by Sir Christopher Hawkins"
+    },
+    "history": "Found growing in a cottage garden near Truro and introduced in 1813 by Sir Christopher Hawkins. 'Gilliflower' is an old name for the clove-scented pink, and the name is usually linked to the clove-like scent of the blossom; Victorian writers ranked it among the best-flavoured English apples.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Tall, conical and noticeably ribbed, greenish-yellow with a dull red flush and broken streaks plus some russet; some trees give much more russet and less red."
+    },
+    "taste": {
+      "summary": "Firm, yellowish, rather dry flesh with a rich, sweet and highly aromatic flavour that has a perfumed edge. Keeps its quality well into the new year in a cool store.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb; improves for some weeks after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "A partial tip-bearer with long, bare-ish shoots; unsuited to cordons and espaliers. Often slow to start cropping and yields are modest and sometimes irregular. Renewal-prune rather than shortening every tip."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4; plant near another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist south-western Britain and Ireland, given a sheltered sunny spot so the late fruit ripens fully.",
+      "poor_climates": "Cold, exposed northern sites with short autumns, where the late fruit fails to sweeten; hot dry climates are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease scores not well recorded; main grower drawbacks are tip-bearing habit, slow start and light cropping."
+    },
+    "grow_notes": "Grow it as a free-standing bush or half-standard and prune lightly because much of the fruit is borne at shoot tips. A warm wall or sunny sheltered site helps the flavour; be patient, as trees can take several years to crop.",
+    "conf": "medium"
+  },
+  {
+    "id": "cortland",
+    "name": "Cortland",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Geneva, New York",
+      "year": 1898,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Ben Davis x McIntosh",
+      "raised_by": "New York State Agricultural Experiment Station"
+    },
+    "history": "Bred at the New York State experiment station in Geneva from an 1898 cross and released in 1915. It became one of the main McIntosh-type apples of New York, New England, Quebec and Ontario, valued for its hardiness and for white flesh that is slow to brown when cut.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, flattish apple with a pale green-yellow ground under a dark red flush and stripes; colours best after cold autumn nights."
+    },
+    "taste": {
+      "summary": "Tender, very white, juicy flesh with a sweet, mildly sharp and slightly vinous McIntosh-style flavour, less tart than McIntosh. Crispness and sweetness fade fairly quickly after harvest. Holds its shape when cooked and stays white in salads.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov, best soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Spreading, somewhat drooping partial tip-bearer that crops heavily; thin fruit to keep size and avoid alternate bearing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3; partly self-fertile, but crops better with a group 2-4 diploid partner."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, sunny-autumn climates such as upstate New York, New England, Quebec and Ontario, where it is hardy and colours deeply.",
+      "poor_climates": "Mild, cloudy maritime climates give poorer colour and flavour; hot summers make the tender flesh soft and short-lived."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": 3,
+      "bitter_pit": 2,
+      "other": "Susceptible to apple scab and powdery mildew like most McIntosh types; some susceptibility to fire blight and cedar-apple rust. Fruit bruises fairly easily."
+    },
+    "grow_notes": "A good choice for cold inland gardens. Plan a spray or sanitation programme for scab in wet areas, thin heavily after June drop, and prune lightly to keep the fruiting tips.",
+    "conf": "high"
+  },
+  {
+    "id": "crimson-crisp",
+    "name": "Crimson Crisp",
+    "aka": [
+      "CrimsonCrisp",
+      "Co-op 39",
+      "PRI 2712-7"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Cross made at Rutgers, Cream Ridge, New Jersey; selected at Purdue, West Lafayette, Indiana",
+      "year": 1971,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cross between two PRI scab-resistant breeding selections; carries the Vf resistance gene from Malus floribunda 821",
+      "raised_by": "PRI co-operative programme (Purdue, Rutgers, Illinois)"
+    },
+    "history": "Bred by the joint Purdue-Rutgers-Illinois (PRI) disease-resistant apple programme: the cross was made in 1971, the seedling first fruited in 1979 and was tested as Co-op 39 before release in 2006 under the trade name CrimsonCrisp. It carries the Vf gene and is field-immune to the common races of scab.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, roundish to slightly flat apple almost entirely covered in glossy deep purplish-red."
+    },
+    "taste": {
+      "summary": "Very hard, crisp, breaking yellowish flesh, moderately juicy, with a rich sweet-tart flavour and a slight spicy edge. Can taste quite sharp at picking and mellows over a few weeks in store.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "sweet",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; sharper at picking, sweeter after 2-3 weeks"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderate to low vigour with upright, rather thin branches; standard (non-spur) growth type that can go biennial if allowed to overcrop. Fruit hangs well on the tree for several weeks."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "The release description says it flowers mid-season just after Golden Delicious (group 4); some UK lists give group 3. Any group 3-5 diploid should overlap."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Humid temperate climates where scab is a constant problem, from the US Midwest and north-east to western Europe; trialled across 20 US states and in France and Italy.",
+      "poor_climates": "Areas with heavy cedar-apple rust or fire blight pressure need care, as it is susceptible to both."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 4,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Vf scab immunity (the resistance can be overcome by races 6 and 7 of the fungus); susceptible to cedar-apple rust and fire blight, and some growers report powdery mildew."
+    },
+    "grow_notes": "A low-spray option for gardens where scab ruins other varieties. Keep it away from junipers in rust-prone regions, thin crops to avoid alternate bearing, and leave fruit on the tree a little longer for best sweetness.",
+    "conf": "high"
+  },
+  {
+    "id": "crispin",
+    "name": "Crispin",
+    "aka": [
+      "Mutsu"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Aomori Apple Experiment Station, Kuroishi, Aomori, Japan",
+      "year": 1930,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Indo",
+      "raised_by": "Aomori Apple Experiment Station"
+    },
+    "history": "Raised in Aomori prefecture, Japan, from a 1930 cross and named Mutsu (after the old name of the region) in 1948. It was renamed Crispin when introduced to UK growers in the late 1960s, and is still sold as Mutsu in Japan and North America.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "green",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Big, slightly lopsided, rather tall fruit; green ripening to yellow-green, sometimes with a faint orange cheek and scattered russet dots."
+    },
+    "taste": {
+      "summary": "Coarse, very crisp and juicy cream flesh with a sweet, honeyed flavour inherited from Golden Delicious but balanced by more acidity. Equally good raw, juiced or cooked, when slices hold their shape.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "honey",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Very vigorous triploid; use a dwarfing rootstock in gardens. Heavy crops of very large fruit; thin to reduce a tendency to alternate bearing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid, group 3: needs a group 2-4 diploid partner and is useless as a pollinator itself, so a third variety is needed to pollinate the partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate climates with long, fairly warm autumns, such as northern Japan, the US north-east and Pacific north-west and southern England.",
+      "poor_climates": "Very short-season areas where the late fruit does not size or sweeten; humid regions with high fire blight pressure."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 4,
+      "rust": 3,
+      "bitter_pit": 4,
+      "other": "Prone to bitter pit, especially on young trees with light crops; some susceptibility to scab and fire blight."
+    },
+    "grow_notes": "Give it room or a dwarfing stock, and plant two compatible diploid pollinators nearby. Calcium sprays and even cropping help reduce bitter pit.",
+    "conf": "high"
+  },
+  {
+    "id": "decio",
+    "name": "Decio",
+    "aka": [
+      "Deci",
+      "Decio nostrano",
+      "Dezi"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IT",
+      "place": "Italy (traditionally grown in the Veneto)",
+      "year": null,
+      "year_note": "",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old Italian apple surrounded by legend: it is said to date back to the time of Attila (around 450 AD) and to be linked with the Roman general Aetius (Ezio). Firm documentary evidence only begins in the Middle Ages, but it is still one of the oldest named apples in cultivation; the National Fruit Collection received it in 1983.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 15,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, flattish pale green-yellow apple, sometimes with a light orange-red flush or a few streaks, and russet netting around the stalk and eye."
+    },
+    "taste": {
+      "summary": "Firm, fine, fairly dense flesh with little juice and a gently sweet, mildly acid flavour. Pleasant enough, but plain by modern standards; its appeal is historical.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; keeps into the new year"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little modern growing data in UK conditions."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group unclear: one UK listing gives group 5, while National Fruit Collection records show quite early blossom. Not self-fertile."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long warm summers and autumns like those of northern Italy, where the very late fruit can ripen fully.",
+      "poor_climates": "Short-season or cool northern sites, where the late-hanging fruit may not mature before the frosts."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A curiosity for collectors of historic fruit. Give it the warmest, sunniest spot available so the very late crop ripens, and plan for a pollinator that overlaps in flowering.",
+    "conf": "low"
+  },
+  {
+    "id": "ducks-bill",
+    "name": "Duck's Bill",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Sussex, England",
+      "year": 1937,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Known from a single historical source: it reached the National Fruit Trials in 1937 from Fred Streeter, then head gardener at Petworth House in Sussex. Its earlier history is not recorded; the name presumably refers to its narrow, strongly ribbed shape.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Narrow, tall conical fruit with strong ribs, greenish-yellow with orange stripes over part of the surface."
+    },
+    "taste": {
+      "summary": "Firm, crisp white flesh that is sweet and rather chewy; no detailed tasting notes have been published.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not recorded; assume it needs a pollinating partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Presumably the mild lowland climate of south-east England where it was found.",
+      "poor_climates": "No performance records outside southern England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "A rare Sussex variety kept mainly for conservation interest. Treat it as a typical English dessert apple: sunny site, decent drainage and a pollinating partner nearby.",
+    "conf": "low"
+  }
+]

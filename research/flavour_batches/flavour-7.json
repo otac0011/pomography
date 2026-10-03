@@ -1,0 +1,629 @@
+{
+ "batch": "flavour-7",
+ "count": 45,
+ "varieties": [
+  {
+   "id": "reinette-clochard",
+   "name": "Reinette Clochard",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, juicy, sweet flesh; a very long-keeping winter apple that stays good into March, though it shrivels and softens toward the end of storage.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "reinette-grise-du-canada",
+   "name": "Reinette Grise du Canada",
+   "tags": [
+    "sharp",
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Fine, dense, lightly crisp flesh that is juicy, sweet and pleasantly sharp, with a good perfume. Excellent for purées and baking, where it breaks down into a tangy fluff; keeps rather less well than the smooth-skinned form.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "rescue",
+   "name": "Rescue",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Crisp and juicy with a tart-sweet balance, good eaten fresh from the tree; it turns mealy within a few weeks. Also used for sauce and preserves.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "reverend-w-wilks",
+   "name": "Reverend W. Wilks",
+   "tags": [],
+   "summary": "Crisp, fine-grained, juicy white flesh with a mild sweet-sharp balance. It cooks quickly to a pale yellow froth or smooth purée that needs little sugar. The flesh browns very fast once cut.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "rhode-island-greening",
+   "name": "Rhode Island Greening",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, juicy flesh with a strong, clean sharpness; hard and tart fresh off the tree but richer after storage. Cooked, it keeps its shape and develops a full, sweet-tart flavour, making it a classic American pie apple.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "ribston-pippin",
+   "name": "Ribston Pippin",
+   "tags": [
+    "perfumed",
+    "pear",
+    "sharp"
+   ],
+   "summary": "Firm, fine-grained flesh with an intense, rich, aromatic flavour that is sharper and more robust than Cox, with some pear-like notes. Best a few weeks after picking; also good for cooking and juice.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "rome-beauty",
+   "name": "Rome Beauty",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Firm, slightly coarse and moderately juicy flesh with a mild, gently sweet-tart flavour and little perfume when raw. Its real strength is in the oven: it holds its shape when baked whole and the flavour deepens with cooking.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "rosemary-russet",
+   "name": "Rosemary Russet",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, fine-grained and juicy, with a lively balance of sugar and acid and a rich, aromatic finish. Sharper than most russets when first picked, it rounds out and sweetens after a few weeks in store.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "ross-nonpareil",
+   "name": "Ross Nonpareil",
+   "tags": [
+    "fennel",
+    "aniseed",
+    "sweet"
+   ],
+   "summary": "Firm, crisp and on the dry side, with plenty of sugar and a rich, aromatic flavour that old writers likened to the fennel-scented Fenouillet apples, giving it a faint anise note.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "roxbury-russet",
+   "name": "Roxbury Russet",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, somewhat coarse yellowish flesh, sugary yet tart, with a rich, slightly spicy character that improves after a few weeks in store. Makes a sweet, high-sugar juice and cider.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "royal-gala",
+   "name": "Royal Gala",
+   "tags": [
+    "sweet",
+    "mild",
+    "floral",
+    "pear"
+   ],
+   "summary": "Sweet and gentle with little acidity and a light floral, pear-like scent; crisp rather than hard, with thin skin and juicy cream flesh. Best fresh off the tree - the flavour is pleasant but simple, and after long storage it fades and the texture can turn mealy.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "royal-jubilee",
+   "name": "Royal Jubilee",
+   "tags": [],
+   "summary": "Firm, yellow, medium-coarse flesh with a moderate sub-acid taste. A sound cooker of no special aroma.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "rubens",
+   "name": "Rubens",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp and juicy with a good blend of sweetness and lively acidity, often described as almost fizzy on the tongue; more aromatic than Gala, showing some of Elstar's character.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "rubinette",
+   "name": "Rubinette",
+   "tags": [
+    "perfumed",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Rich, intense sweet-sharp flavour with Cox-like aromatics and a juicy, crisp bite; widely rated among the best-flavoured modern apples, and more consistent from year to year than Cox.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "rubinola",
+   "name": "Rubinola",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Sweet with balancing acidity and a good aroma; the cream flesh is crisp but light and juicy, and slow to brown when cut.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "saltcote-pippin",
+   "name": "Saltcote Pippin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, crisp cream flesh that is only moderately juicy, with a sweet, pleasantly aromatic flavour.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "sam-young",
+   "name": "Sam Young",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, rather tough greenish flesh; older descriptions call it sugary and highly flavoured, while modern NFC notes describe a milder, subacid taste.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "sansa",
+   "name": "Sansa",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Sweet, juicy and crisp-tender in the Gala style, with a little more acidity from Akane to keep it lively. An early apple to eat soon after picking.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "santana",
+   "name": "Santana",
+   "tags": [
+    "perfumed",
+    "wine",
+    "rose",
+    "grape"
+   ],
+   "summary": "A delicately perfumed apple with a vinous sweet-sharp balance, compared with Spartan; some tasters find hints of rose, lychee or sweet grape. Creamy-yellow flesh is firm and juicy rather than crunchy, and it does not keep long.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "saturn",
+   "name": "Saturn",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp flesh that snaps cleanly and is very juicy. Clearly sweet but balanced by a good measure of acidity, so it tastes properly of apple rather than just sugary.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "schoner-aus-nordhausen",
+   "name": "Schöner aus Nordhausen",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "A sharp, finely aromatic late keeper, used both for eating once it mellows in store and in the kitchen.",
+   "sweet": null,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "scotch-bridget",
+   "name": "Scotch Bridget",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Soft, tender white flesh, juicy with a lively acidity. Cooks well, and after a couple of months in store it mellows enough to be eaten raw in the new year.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "scrumptious",
+   "name": "Scrumptious",
+   "tags": [
+    "strawberry",
+    "sweet",
+    "aniseed"
+   ],
+   "summary": "Sweet but well balanced by a fresh acidity, with the strawberry hint of its Discovery and Worcester ancestry and sometimes a faint aniseed note. Thin skin and white flesh that snaps cleanly at first but goes soft and floury if left on the tree too long.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "self-fertile-cox",
+   "name": "Self-Fertile Cox",
+   "tags": [
+    "floral",
+    "pear-drop",
+    "honey",
+    "rose"
+   ],
+   "summary": "Tastes like Cox's Orange Pippin: rich and aromatic with honeyed sweetness, floral and pear-drop notes and balancing acidity. Some growers find heavy self-set crops give smaller fruit with slightly less depth.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "sheepnose",
+   "name": "Sheepnose",
+   "tags": [
+    "sweet",
+    "nutty"
+   ],
+   "summary": "Greenish-white, firm, coarse flesh that is sweet, mild in acid and notably aromatic, with a dry, nutty quality. It turns dry and fibrous if over-ripe or stored long, so it is best used fairly soon; traditionally baked or dried.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "shenandoah",
+   "name": "Shenandoah",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Crisp, juicy, yellowish flesh with a sweet, lightly perfumed flavour; pleasant raw but at its most useful in the kitchen, where slices hold their shape.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "siberian-crab",
+   "name": "Siberian Crab",
+   "tags": [
+    "sharp",
+    "astringent"
+   ],
+   "summary": "Small, sharp and somewhat astringent; one grower notes a fleeting sweet, rosy start followed by a dry, bitter finish. Cooks to a pink-tinged sauce and makes good jelly.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "signe-tillisch",
+   "name": "Signe Tillisch",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Juicy, sweet and only mildly acidic, with the soft, tender texture of the Calville group; best for a few weeks in late autumn.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "sima-joon",
+   "name": "Sima Joon",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "A crisp late apple whose flavour is described as an even balance of sweetness and acidity. Early reports only; it has had very little independent tasting.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "sir-prize",
+   "name": "Sir Prize",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Tender, very juicy cream flesh with a sweet, lightly scented Golden Delicious-type flavour. Good for eating fresh and for baking, but the fruit bruises badly in handling.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 5
+  },
+  {
+   "id": "slack-ma-girdle",
+   "name": "Slack Ma Girdle",
+   "tags": [
+    "sweet",
+    "mild"
+   ],
+   "summary": "Very sweet, soft and tender with little acid or tannin; pleasant to eat fresh and used in cider to add sugar, with some makers noting a woody note.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": null,
+   "crisp": 2,
+   "juicy": null
+  },
+  {
+   "id": "smokehouse",
+   "name": "Smokehouse",
+   "tags": [
+    "spice",
+    "honey"
+   ],
+   "summary": "Firm, crisp, moderately fine-grained yellowish flesh with a pleasant balance of sweetness and acidity, a gently spicy, honeyed note and a fresh-cider character. Good raw and very good for pies and baking.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "snowsweet",
+   "name": "Snowsweet",
+   "tags": [
+    "sweet",
+    "savoury"
+   ],
+   "summary": "Sweet, with just enough tartness for balance and a rich, rounded, almost savoury depth. Flesh is crisp-tender and juicy, and slices stay white long after cutting.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "spartan",
+   "name": "Spartan",
+   "tags": [
+    "wine",
+    "sweet"
+   ],
+   "summary": "Snow-white, crisp and juicy flesh with a sweet, gently vinous McIntosh character and low acidity. Very good fresh from the tree but softens and loses crunch if kept too long or grown too large.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "st-edmunds-pippin",
+   "name": "St Edmund's Pippin",
+   "tags": [
+    "pear",
+    "sweet"
+   ],
+   "summary": "Juicy, fine-textured cream flesh, firm when picked, with a sweet, rich flavour often likened to pear and a touch of acidity. It is at its best within a few weeks and turns soft and dull if kept.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "st-helens",
+   "name": "St Helens",
+   "tags": [
+    "floral",
+    "sweet"
+   ],
+   "summary": "A dark red early dessert apple with a crisp, light texture. A taster found it floral and sugary, a lighter style than the nursery's other early seedling.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "statefair",
+   "name": "Statefair",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Juicy and crisp with a firmer bite than most summer apples, and a tart-sweet, mildly aromatic flavour that leans to the sharp side.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "stayman-winesap",
+   "name": "Stayman Winesap",
+   "tags": [
+    "wine",
+    "spice",
+    "sharp"
+   ],
+   "summary": "Fine-grained, tender and very juicy flesh with a brisk, tart-sweet, spicy, wine-like flavour that recalls its Winesap parent but is softer in texture. Sharp at picking, it mellows after a few weeks in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 5
+  },
+  {
+   "id": "stirling-castle",
+   "name": "Stirling Castle",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Very soft, coarse, juicy white flesh with plenty of acidity. Cooks quickly to a sharp, fluffy puree.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "sturmer-pippin",
+   "name": "Sturmer Pippin",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Very firm, crisp and juicy. Hard and sharp when first picked, it slowly sweetens in store and by late winter is rich and brisk, still with plenty of acidity.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 5,
+   "juicy": 4
+  },
+  {
+   "id": "summer-rambo",
+   "name": "Summer Rambo",
+   "tags": [
+    "honey"
+   ],
+   "summary": "Coarse, tender, breaking flesh that is exceptionally juicy, with a mildly tart, sweet-sharp, slightly honeyed flavour. Good fresh straight off the tree and very good for sauce, pies and frying; it softens quickly.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 5
+  },
+  {
+   "id": "sunrise",
+   "name": "Sunrise",
+   "tags": [
+    "strawberry",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Remarkably crisp for an August apple, with juicy white flesh and a balanced sweet-sharp flavour that some tasters liken to strawberry. Best chilled and eaten within a week or so of picking.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "sunset",
+   "name": "Sunset",
+   "tags": [
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Crisp, fine, cream flesh with a sweet, aromatic Cox-like flavour and gentle acidity. In good summers it rivals Cox; in dull years it is still sweet and crisp but less complex.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "suntan",
+   "name": "Suntan",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, slightly coarse, moderately juicy cream flesh with an intense, aromatic flavour in the Cox mould but noticeably sharper. It mellows after some weeks in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "swaar",
+   "name": "Swaar",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Dense, fine-grained creamy flesh that is sweet and richly aromatic with a nutty depth, the qualities that made its name among 19th-century American growers. Best after a spell in store.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 3
+  }
+ ]
+}

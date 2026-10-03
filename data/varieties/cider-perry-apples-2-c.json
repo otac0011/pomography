@@ -1,0 +1,387 @@
+[
+  {
+    "id": "dymock-red",
+    "name": "Dymock Red",
+    "aka": ["Peggy Red"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Dymock, Gloucestershire, England",
+      "year": 1700,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": "Unknown; local historians suggest it descends from the old Herefordshire Redstreak",
+      "raised_by": null
+    },
+    "history": "An old vintage cider apple named after the village of Dymock on the Gloucestershire-Herefordshire border, already well regarded by the late seventeenth century. Long Ashton rated it a vintage-quality apple comparable with Kingston Black, and Bulmers continued to distribute it for cider orchards.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium, round to flattish, often lop-sided apple almost covered with dark mahogany red streaked brighter crimson, dotted and patched with cinnamon russet."
+    },
+    "taste": {
+      "summary": "Soft, slightly sweet flesh with a pleasant acidity and moderate tannin, giving a balanced juice good enough for single-variety vintage cider. Sources differ on its class: the NFC calls it a bittersweet, while juice data and its comparison with Kingston Black point to a bittersharp.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 2,
+      "crisp": 2,
+      "juicy": null,
+      "tags": ["sharp", "astringent"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Mill Oct-Nov; local children ate it fresh"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Medium vigour with thick, twiggy growth."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Recorded as an early-to-mid season flowerer at the NFC; exact group not established."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "The Three Counties cider country (Gloucestershire, Herefordshire, Worcestershire): cool, moist, with sunny autumns that deepen its colour.",
+      "poor_climates": "Not documented outside western England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease record not documented."
+    },
+    "grow_notes": "A good heritage choice for a Gloucestershire or Herefordshire orchard. It can stand alone for a single-variety cider or be blended to add balance.",
+    "conf": "medium"
+  },
+  {
+    "id": "hagloe-crab",
+    "name": "Hagloe Crab",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Hagloe, parish of Awre, near Blakeney, Gloucestershire, England",
+      "year": 1720,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of unknown parentage (not a true crab apple)",
+      "raised_by": "Bellamy family of Hagloe"
+    },
+    "history": "Said by William Marshall to have been raised from seed around 1720 on the Bellamy family's land at Hagloe in the Forest of Dean; Knight suspected it was older. Its cider was among the most prized of the eighteenth century, fetching extraordinary prices, but the variety almost vanished; graftwood from a verified old tree at Tibberton now survives in the Gloucestershire Apple Collection, and it is critically rare.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 2,
+      "description": "Small, oblong-ovate, lop-sided fruit, pale yellow to green with broken bright red streaks, orange where thin, and a net of russet over much of the skin."
+    },
+    "taste": {
+      "summary": "The flesh is firm and dry, sweet with a bitter edge; old analyses describe sweetish, subacid juice with some astringency, and harshness unless fully ripe. Its cider was famed for strength, body and richness when grown on warm limestone soils. Not formally classed: one modern list calls it a sharp, which old descriptions do not support.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": ["sweet", "bitter", "astringent"],
+      "cider_class": null,
+      "best_eaten": "Not for eating; mill when fully ripe in Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "light",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Historically described as seldom very productive. Its decline is thought to stem from virus build-up during propagation."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering time not recorded."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm, dry sites on limestone soils with warm autumns, as in its Forest of Dean home.",
+      "poor_climates": "Deep, rich or heavy vale soils and cool seasons, where the cider stays harsh and rough."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Light cropping; old stock likely virus-affected."
+    },
+    "grow_notes": "Plant on a warm, free-draining, ideally limestone site and let the fruit ripen fully before milling. A conservation variety; source from the Gloucestershire collection where possible.",
+    "conf": "low"
+  },
+  {
+    "id": "tom-putt",
+    "name": "Tom Putt",
+    "aka": ["Tom Potter", "Coalbrook", "Marrowbone", "Ploughman", "Thomas Jeffreys", "Devonshire Nine Square", "Izod's Kernel"],
+    "uses": ["cider", "culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Devon or Somerset/Dorset, England (associated with Combe House, Gittisham, and with Trent)",
+      "year": 1780,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Attributed to Thomas Putt of Combe, Gittisham, or his nephew Rev. Thomas Putt, rector of Trent"
+    },
+    "history": "A late-eighteenth-century West Country apple named after the Putt family: either 'Black Tom' Putt, a barrister of Combe House, Gittisham, or his nephew the Rev. Thomas Putt of Trent. Grafted everywhere in Devon and Somerset gardens and orchards (hence the nickname 'Cottage Apple'), it picked up many local names and is now somewhat variable.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, broad, strongly ribbed fruit with a greasy skin, pale yellow almost covered by bright crimson-red stripes and blotches."
+    },
+    "taste": {
+      "summary": "Sharp and juicy with a slightly bitter edge when picked, mellowing into a brisk, fragrant eating apple after a few weeks. It cooks well and makes a sharp cider with low tannin.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 1,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": "sharp",
+      "best_eaten": "Sep-Nov; cook or press from picking, eat fresh once it has mellowed"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "triploid",
+      "notes": "Vigorous, wide-spreading and quick to crop. Generally regular, though some Devon growers found it less reliable."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid: a poor pollinator. Needs two diploid partners flowering mid-season."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp temperate climates with cool summers, such as south-west England; growers report good crops as far north as Aberdeenshire.",
+      "poor_climates": "Hot summer climates are untested; fruit keeps poorly in warm conditions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy with some scab resistance; triploid; fruit does not keep long."
+    },
+    "grow_notes": "Give it room, as it spreads widely. Plant two diploid pollinators nearby. One of the most versatile West Country apples for kitchen, table and cider.",
+    "conf": "high"
+  },
+  {
+    "id": "sheeps-nose",
+    "name": "Sheep's Nose",
+    "aka": [],
+    "uses": ["cider", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Somerset and the West Country, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "The name has been given to several different apples. Hogg (1884) described a Somerset cider and cooking apple called Sheep's Nose, and slightly later writers found it grown in Somerset, Gloucestershire and Worcestershire; the National Apple Register lists four different 'Sheep's Nose' apples, and the American 'Sheepnose' (Black Gilliflower) is unrelated. Which of these is in today's cider orchards is not certain.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "crimson",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": null,
+      "description": "Tall, angular, conical fruit narrowing to a waist and ending in knobbly ridges at the crown; bright crimson broken by yellow stripes."
+    },
+    "taste": {
+      "summary": "Hogg's Somerset apple has tender, juicy, sweet flesh with mild acidity, good for cooking and cider; the 'Sheep's Nose' held at the National Fruit Collection is harder, drier and subacid. No cider classification is documented.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Not documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Not recorded for the cider form."
+    },
+    "season": {
+      "harvest": "mid Sep-early Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "West Country and Severn-valley orchard conditions where it was traditionally grown.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not documented."
+    },
+    "grow_notes": "Check the source before buying: several unrelated apples share this name. Treat it as a mid-season dual-purpose cooking and cider apple.",
+    "conf": "low"
+  },
+  {
+    "id": "nehou",
+    "name": "Nehou",
+    "aka": ["Néhou"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "France (probably Normandy; the name matches the village of Néhou in the Cotentin)",
+      "year": 1920,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A French bittersweet brought to England in the 1920s by Dr H.E. Durham for the Hereford cider makers H.P. Bulmer. It is valued for very high tannin and an excellent, fruity, full-bodied cider.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small to medium, oblong-conical yellow fruit with only a faint washed orange flush; soft and easily bruised."
+    },
+    "taste": {
+      "summary": "A full bittersweet with very high tannin and little acid, giving a heavy, astringent but fruity juice; cider made from it is rich and full-bodied. The flesh is soft.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": 3,
+      "tannin": 5,
+      "crisp": 1,
+      "juicy": null,
+      "tags": ["bitter", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct, handle gently as it bruises"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Average vigour and very quick to crop, but the NFC records it as a biennial cropper."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Fairly early flowering over a long period; a good pollinator."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild maritime cider regions such as Herefordshire, Somerset and Normandy.",
+      "poor_climates": "Wet, humid sites where scab is severe; hot climates untested."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab; soft fruit bruises easily; biennial bearing."
+    },
+    "grow_notes": "Spray or site it carefully against scab, and thin in heavy years to even out cropping. Use small amounts in blends to add tannin and body.",
+    "conf": "medium"
+  }
+]

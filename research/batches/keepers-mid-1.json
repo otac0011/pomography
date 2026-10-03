@@ -1,0 +1,159 @@
+{
+ "batch": "keepers-mid-1",
+ "theme": "keepers-mid",
+ "count": 19,
+ "varieties": [
+  {
+   "id": "autumn-pearmain",
+   "name": "Autumn Pearmain",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "autumn-pearmain",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "bardsey",
+   "name": "Bardsey",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "bardsey",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "bloody-ploughman",
+   "name": "Bloody Ploughman",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "bloody-ploughman",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "captain-kidd",
+   "name": "Captain Kidd",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "captain-kidd",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "carswells-orange",
+   "name": "Carswell's Orange",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "carswells-orange",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "charles-ross",
+   "name": "Charles Ross",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "charles-ross",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "cherry-cox",
+   "name": "Cherry Cox",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "cherry-cox",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "coxs-orange-pippin",
+   "name": "Cox's Orange Pippin",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "coxs-orange-pippin",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "crimson-peasgood",
+   "name": "Crimson Peasgood",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "crimson-peasgood",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "egremont-russet",
+   "name": "Egremont Russet",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "egremont-russet",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "ellisons-orange",
+   "name": "Ellison's Orange",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "ellisons-orange",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "elton-beauty",
+   "name": "Elton Beauty",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "elton-beauty",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "emperor-alexander",
+   "name": "Emperor Alexander",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "emperor-alexander",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "gavin",
+   "name": "Gavin",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "gavin",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "golden-bounty",
+   "name": "Golden Bounty",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "golden-bounty",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "golden-delicious-russet",
+   "name": "Golden Delicious Russet",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "golden-delicious-russet",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "greensleeves",
+   "name": "Greensleeves",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "greensleeves",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "hamids-red-pippin",
+   "name": "Hamid's Red Pippin",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "hamid's-red-pippin",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "hidden-rose",
+   "name": "Hidden Rose",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "hidden-rose",
+   "keepers_cat": "mid-season-eating-apple"
+  }
+ ]
+}

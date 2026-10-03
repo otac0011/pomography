@@ -1,0 +1,503 @@
+[
+  {
+    "id": "golden-spire",
+    "name": "Golden Spire",
+    "aka": [
+      "Tom Matthews"
+    ],
+    "uses": [
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Lancashire, England",
+      "year": 1850,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Richard Smith of Worcester (finder and introducer)"
+    },
+    "history": "A Victorian apple found in Lancashire around 1850 and put into commerce by the Worcester nurseryman Richard Smith. It later spread into Gloucestershire, where it went by the name Tom Matthews and was used in cider making as well as in the kitchen.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": true,
+      "russet": 1,
+      "description": "Tall, narrow, strongly ribbed fruit, greenish-yellow ripening to gold, with at most a few faint orange streaks."
+    },
+    "taste": {
+      "summary": "Firm, crisp, juicy cream flesh; sharp, with a slightly astringent, distinctly cider-like back-taste, though tasters find enough sweetness to eat it fresh straight from the tree. Cooks down to a well-flavoured purée; it is not a keeper and is best used early.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 1,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "astringent"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Sep-Oct, used soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing. Generally regular, though old trees are reported to fall into alternate heavy and light years. Blossom is showy and early."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Flowers early (NFC records it opening with Keswick Codlin); Orange Pippin places it in group 1 and calls it self-fertile, but a group 1-3 partner will improve cropping. A good pollen donor."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, damp northern and western British conditions such as its native Lancashire and the cider country of Gloucestershire.",
+      "poor_climates": "Untested in hot or continental climates; as an early, sharp English apple it is likely to soften and drop early in hot summers."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated about average for disease; somewhat susceptible to scab. Wasps attack ripe fruit."
+    },
+    "grow_notes": "An easy, attractive tree for northern or wet gardens that wants a dual-purpose cooking and cider apple. Plant with an early-flowering partner and use the fruit within a few weeks of picking.",
+    "conf": "medium"
+  },
+  {
+    "id": "grenadier",
+    "name": "Grenadier",
+    "aka": [],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Buckinghamshire, England",
+      "year": 1862,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Thought to come from Buckinghamshire; first noted in 1862, it reached the trade around 1875 and gained an RHS First Class Certificate in 1883. It became the main early-season commercial cooking apple in Britain and still holds an RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Big, ribbed, broadly conical apple with smooth, rather greasy pale green skin, occasionally with a faint brownish tinge."
+    },
+    "taste": {
+      "summary": "Firm, fine white flesh, juicy and sharply acid, though fully ripe fruit is almost sweet enough to eat raw. In the pan it collapses quickly into a pale, creamy, tart purée with a fine, heady apple scent, ideal for sauce and early-season pies; it keeps only a week or so.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, straight from the tree; does not keep"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "compact",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous and fairly compact; crops young, heavily and regularly. Partly tip-bearing, so leave some one-year tips when pruning. The fruit bruises easily."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Mid-season blossom and a good pollinator for other group 2-4 diploids; partly self-fertile."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Throughout Britain, including the cooler, wetter north and west and higher ground; a dependable choice for maritime temperate climates.",
+      "poor_climates": "Very hot summers would ripen it even earlier and shorten its already brief season; little record outside temperate Europe."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy and tolerant of poor growing conditions; fruit bruises and does not store."
+    },
+    "grow_notes": "One of the easiest cookers for beginners and for cold or exposed gardens. Pick from mid-August as soon as fruit is large enough and use within a couple of weeks.",
+    "conf": "high"
+  },
+  {
+    "id": "hambledon-deux-ans",
+    "name": "Hambledon Deux Ans",
+    "aka": [
+      "Deux Ans",
+      "Green Blenheim",
+      "Stone's Blenheim",
+      "Pudding Apple",
+      "Yorkshire Queen"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Hambledon, Hampshire, England",
+      "year": 1750,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An eighteenth-century Hampshire apple from the village of Hambledon, dating to around 1750. The French-style name boasts of its keeping power ('two years'), and it travelled widely under a long list of local names, several of which wrongly link it to Blenheim Orange.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, flattish-conical apple, greenish-yellow with a dull red flush broken into stripes."
+    },
+    "taste": {
+      "summary": "Very firm, coarse and rather dry greenish flesh with a little sweetness, gentle acidity and a faint aroma. Used for cooking through the winter, it mellows enough by spring to be eaten raw.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Jan-Apr for cooking; raw from about Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Few modern growing records; old accounts describe a hardy tree. Treat as a standard spur-bearer until it shows otherwise."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from National Fruit Collection flowering dates, which are close to Bramley's Seedling; plant near a mid-season diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Jan-Apr",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern English conditions with a long autumn so the fruit can mature fully before picking in October.",
+      "poor_climates": "No documented use in hot climates; short northern seasons may not ripen it well enough to store."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Prone to bitter pit in store; other disease behaviour poorly recorded."
+    },
+    "grow_notes": "Worth growing purely as a very long keeper to fill the late-winter and spring gap. Feed and water evenly and consider calcium sprays to limit bitter pit; pick in early October and store cool.",
+    "conf": "medium"
+  },
+  {
+    "id": "howgate-wonder",
+    "name": "Howgate Wonder",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Howgate Lane, Bembridge, Isle of Wight, England",
+      "year": 1915,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Blenheim Orange x Newton Wonder",
+      "raised_by": "G. Wratton (also spelled Wratten)"
+    },
+    "history": "Raised on the Isle of Wight in 1915-16 by crossing Blenheim Orange with Newton Wonder, it won an RHS Award of Merit in 1929 and was introduced by Stuart Low & Co. in 1932. Famous for the sheer size of its fruit and holds a current RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Very large, broad, flat-sided apple, yellow with streaks and a flush of orange-red."
+    },
+    "taste": {
+      "summary": "Firm, fine, juicy cream flesh, only moderately sharp and quite sweet once ripe, with a faint aroma. Cooks to a light-flavoured puree that keeps some texture; by midwinter it is pleasant raw, though plainer than a true dessert apple.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "mild",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; sweeter for eating raw after Christmas"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "A vigorous, spreading tree that crops heavily; thin fruitlets to get the largest apples and support heavy-laden branches."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Flowers fairly late (group 4 in most lists, 3 in some); partly self-fertile like its parent Newton Wonder but crops better with a partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist temperate climates across Britain, including the north and west; rated hardy to about -20 C.",
+      "poor_climates": "Hot, dry summers are likely to reduce size and colour; not known from warm-climate orchards."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 1,
+      "other": "Generally healthy and well suited to organic growing; resists bitter pit in store."
+    },
+    "grow_notes": "Give it room or a dwarfing rootstock, as it is vigorous. A reliable, heavy-cropping alternative to Bramley that also yields fruit you can eat raw late in the winter.",
+    "conf": "high"
+  },
+  {
+    "id": "jumbo",
+    "name": "Jumbo",
+    "aka": [],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Sold in Britain as a cooking apple, but no record under this name was found in the National Fruit Collection database or other pomological sources consulted (the NFC only holds an unrelated Japanese 'Jumbo Ohrin'). Origin and identity are unconfirmed.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not recorded."
+    },
+    "taste": {
+      "summary": "No reliable tasting description found; listed only as a cooking apple.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not recorded; plant with a partner of known mid-season group to be safe."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": null,
+      "poor_climates": null
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Too little is documented to give specific advice; grow as a typical British cooking apple.",
+    "conf": "low"
+  },
+  {
+    "id": "keswick-codlin",
+    "name": "Keswick Codlin",
+    "aka": [
+      "Keswick Codling",
+      "Everbearing",
+      "Pinder's Apple"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Gleaston Castle, near Ulverston, Lancashire (now Cumbria), England",
+      "year": 1793,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Chance seedling found on a rubbish heap",
+      "raised_by": "Introduced by John Sander, nurseryman of Keswick"
+    },
+    "history": "Discovered as a seedling growing on a rubbish tip at Gleaston Castle near Ulverston and recorded in 1793. A Keswick nurseryman, John Sander, distributed it, and it became a standard early codlin across northern Britain; it is a parent of Emneth Early.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 0,
+      "description": "Ribbed, conical, pale greenish-yellow codlin, sometimes with a slight pinkish-orange cheek."
+    },
+    "taste": {
+      "summary": "A sharp, acidic early codlin. The National Fruit Collection describes the flesh as soft, coarse and fairly dry, but growers eating it fresh off the tree report a crisp, eye-watering snap and plenty of juice. It collapses to a pale puree when cooked, makes good jelly, and keeps only about a week.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep; use promptly"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Crops young and heavily but can slip into alternate bearing; thin heavy sets. Very pretty blossom."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early flowering; partly self-fertile, but a group 1-3 partner gives better crops."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, wet, northern and upland Britain, where it has a long record of reliable cropping; also grown historically in northern and eastern Europe.",
+      "poor_climates": "Hot summers would push its already early, soft fruit to drop and go mealy quickly."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good general disease resistance and tolerance of wet sites; skin can carry superficial fungal spotting."
+    },
+    "grow_notes": "One of the best early cookers for the north and for exposed or damp gardens. Begin picking thinnings for cooking in late July and use the main crop through August.",
+    "conf": "high"
+  }
+]

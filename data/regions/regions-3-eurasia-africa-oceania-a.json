@@ -1,0 +1,101 @@
+[
+  {
+    "id": "moscow",
+    "summary": "Long, hard continental winters with reliable deep chilling and usually a protective snow cover, followed by a short but warm summer. The real dangers are test winters with sudden thaws and deep cold snaps that injure bark and buds, and late spring frosts that catch early bloom.",
+    "apple_culture": "Apples are the backbone of the Moscow dacha garden: almost every allotment around the city has a few old trees, and autumn markets overflow with homegrown fruit. The old Kolomenskoye estate orchard keeps a living memory of pre-revolutionary Russian varieties, and most local favourites are hardy Russian classics rather than Western supermarket types.",
+    "local_varieties": ["Antonovka", "Grushovka Moskovskaya", "Papirovka (Belyi Naliv)", "Korobovka", "Anis", "Medunitsa", "Melba"],
+    "pests_diseases": "Scab is the main disease in cool, wet summers, with codling moth and brown fruit rot close behind. Winter sunscald and frost cracks on trunks, plus hares and voles gnawing bark under the snow, kill more young trees than insects do.",
+    "tips": "Choose proven Russian hardy varieties on vigorous or hardy rootstocks rather than dwarfing M.9, which is often too tender here. Whitewash trunks in autumn and guard them with mesh against rodents, and do not plant in frost-pocket hollows where late frosts settle.",
+    "confidence": "high"
+  },
+  {
+    "id": "michurinsk",
+    "summary": "Black-earth steppe country in central Russia: cold, often harsh winters, warm and fairly dry summers, and fertile chernozem soils. Winter hardiness is the limiting factor, while dry spells in summer and late spring frosts can cost crops in some years.",
+    "apple_culture": "This is where Ivan Michurin spent his life breeding fruit for Russian winters, crossing tender Western apples with hardy Chinese and Siberian crabs; the town was renamed in his honour and is now an official science city built around fruit research. His descendants in the local breeding institute still release apples for central Russia, and the surrounding Tambov chernozem belt has become a centre of large new intensive orchards.",
+    "local_varieties": ["Bellefleur-Kitaika", "Pepin Shafranny", "Bessemyanka Michurinskaya", "Slavyanka", "Antonovka"],
+    "pests_diseases": "Scab and codling moth are the routine problems, with powdery mildew on susceptible types. Winter injury after cold snaps without snow, and occasional drought stress on the open steppe, are the climate-driven risks.",
+    "tips": "Use regionally bred, scab-tolerant winter-hardy varieties rather than imported Western cultivars, and give the trees shelter from steppe winds. Mulch and water young trees through dry summers so they ripen their wood before winter.",
+    "confidence": "high"
+  },
+  {
+    "id": "st-petersburg",
+    "summary": "Cool, cloudy Baltic climate: winters are long but less brutal than inland Russia, with frequent thaws, while summers are short, mild and often wet. Apples struggle more for warmth and sunshine to ripen wood and fruit than for chilling.",
+    "apple_culture": "Apples are grown mainly in dacha gardens in the Leningrad oblast, where hardy summer and autumn types do best; late-keeping winter apples often fail to ripen well. The city is home to the Vavilov Institute, one of the world's great plant gene banks, which holds collections of fruit gathered from across the former Soviet Union.",
+    "local_varieties": ["Antonovka", "Papirovka (Belyi Naliv)", "Grushovka Moskovskaya", "Borovinka", "Suislepa (Suislepper)", "Korichnoe Polosatoe"],
+    "pests_diseases": "Scab and fruit rots thrive in the damp summers, and waterlogged, heavy soils cause root and collar problems. Winter damage tends to come from repeated freeze-thaw cycles rather than steady deep cold.",
+    "tips": "Plant on a raised mound or well-drained slope in the sunniest, most sheltered spot, and stick to early and mid-season hardy varieties that ripen in a short summer. Prune for an open canopy so leaves and fruit dry quickly after rain.",
+    "confidence": "medium"
+  },
+  {
+    "id": "novosibirsk",
+    "summary": "Severe Siberian continental climate: winters are long and bitterly cold, summers short and surprisingly hot, and the swing between seasons is abrupt. Ordinary European apples rarely survive; tree survival through winter is the whole game.",
+    "apple_culture": "Siberian gardeners rely on ranetki and semi-cultivated apples (polukulturki), hybrids of the native Siberian crab with European apples, bred for this climate by stations such as the Lisavenko institute in Barnaul and Ural breeders. A distinctive local trick is the stlanets, a tree trained flat along the ground so the snow blankets and protects it through winter.",
+    "local_varieties": ["Gornoaltaiskoe", "Altaiskoe Bagryanoe", "Serebryanoe Kopytse", "Uralskoe Nalivnoe"],
+    "pests_diseases": "Winter injury, sunscald and frost cracking on trunks are the main killers, along with rodents feeding under deep snow. Scab is generally less of a problem than in western Russia because summers are drier.",
+    "tips": "Grow Siberian-bred ranetki and semi-cultivated varieties, ideally on Siberian crab rootstock, or train standard varieties as a low stlanets that snow can cover. Avoid late-summer feeding and watering so wood hardens off before the first freezes.",
+    "confidence": "medium"
+  },
+  {
+    "id": "kyiv",
+    "summary": "Forest-steppe continental climate with cold winters, warm summers and a good balance of rain, which suits apples well. Late spring frosts and occasional very cold winters are the main hazards, and recent summers have brought more heat and drought.",
+    "apple_culture": "Ukraine is one of Europe's large apple producers and Kyiv sits in the heart of its forest-steppe fruit zone, with the national horticulture institute on the city's edge. Home orchards around village houses are traditional, and the country's best-known native apple, Renet Symyrenka, comes from the Symyrenko family nursery at Mliiv in nearby Cherkasy region.",
+    "local_varieties": ["Renet Symyrenka", "Antonivka", "Bilyi Naliv (Papirovka)", "Pepinka Lytovska", "Idared", "Golden Delicious"],
+    "pests_diseases": "Scab and powdery mildew are the dominant diseases, and codling moth is the main insect pest. Fire blight appears in some warm springs, and late frosts during bloom can wipe out a crop.",
+    "tips": "Scab-resistant varieties save a lot of spraying in a home garden. Plant on gentle slopes rather than in hollows to reduce frost damage at bloom, and mulch and water through dry summer spells.",
+    "confidence": "medium"
+  },
+  {
+    "id": "almaty",
+    "summary": "Foothill climate below the Tian Shan: cold continental winters, hot dry summers, and a strong altitude gradient up the mountain slopes. Irrigation water from mountain streams makes apples possible, and the cooler mid-slope band gives the best fruit.",
+    "apple_culture": "The wild forests of Malus sieversii on these slopes are recognised as the main ancestor of the domestic apple, and the city's old name, Alma-Ata, is linked in local tradition to apples. The huge red Aport, brought by Russian settlers in the 1800s, became a Soviet-era symbol of the city but declined as orchards gave way to housing; there is now a programme to revive it.",
+    "local_varieties": ["Aport (Almaty Aport)", "Kandil Sinap", "Golden Delicious", "Idared", "Fuji"],
+    "pests_diseases": "Codling moth is the main fruit pest, and ermine moths can strip wild and cultivated trees. Fire blight has spread in the region in recent years, threatening both orchards and the wild apple forests.",
+    "tips": "Water deeply through the dry summer and pick a site at middle altitude in the foothills if you can, where nights are cooler. Watch closely for fire blight in spring and cut out infected shoots well below the visible damage.",
+    "confidence": "medium"
+  },
+  {
+    "id": "tbilisi",
+    "summary": "Continental Caucasus climate: hot, fairly dry summers in the lowlands around Tbilisi and in Kakheti, cold but not extreme winters, and cooler, wetter conditions as you climb into the hills. Hailstorms in summer are a well-known hazard for eastern Georgian orchards.",
+    "apple_culture": "Georgia's forests hold wild Caucasian crab apples and the country has a deep stock of folk varieties, many now rare. Commercial apple growing is centred mainly in Shida Kartli around Gori rather than in wine-focused Kakheti, and a small craft cider scene has grown up recently.",
+    "local_varieties": ["Kekhura", "Kartuli Sinapi", "Champagne Reinette", "Golden Delicious"],
+    "pests_diseases": "Scab and powdery mildew are the usual diseases, and codling moth is the main fruit pest. The invasive brown marmorated stink bug arrived in Georgia in the mid-2010s and also damages fruit.",
+    "tips": "In the hot lowlands, plan on irrigation and choose disease-tolerant varieties; old Georgian varieties are worth seeking out from local collections. Consider hail netting or at least a sheltered site if you are in Kakheti or Shida Kartli.",
+    "confidence": "medium"
+  },
+  {
+    "id": "amasya",
+    "summary": "A narrow river valley on the Yesilirmak, inland from the Black Sea coast: cold enough in winter for good chilling, hot in summer, with the valley walls giving some shelter. Late spring frosts are the main climatic risk in exposed sites.",
+    "apple_culture": "Amasya gives its name to one of Turkey's most famous native apples, the small, fragrant, half-red Amasya misket apple, which now has protected geographical indication status. Turkey is one of the world's biggest apple producers, though most volume today comes from Isparta and other provinces planting Delicious and Golden types.",
+    "local_varieties": ["Amasya Misket", "Starking Delicious", "Starkrimson", "Golden Delicious"],
+    "pests_diseases": "Scab in wet springs, powdery mildew and codling moth are the routine problems. Fire blight is present in Turkey and can be serious in warm, humid bloom periods.",
+    "tips": "The local Amasya apple is a good choice for its aroma and keeping quality, but it is a vigorous traditional tree and needs room. Irrigate through the hot summer and keep pruning open to reduce scab and mildew.",
+    "confidence": "medium"
+  },
+  {
+    "id": "urmia",
+    "summary": "High plateau climate west of Lake Urmia: cold winters with reliable chilling, hot dry summers and a large day-night temperature swing that helps fruit colour. Water is the limiting factor; orchards depend on irrigation from rivers and wells, and the shrinking lake has made drought and salinity a growing concern.",
+    "apple_culture": "West Azerbaijan province around Urmia is Iran's leading apple region, and Iran is one of the world's top apple producers. Orchards are dominated by Red and Golden Delicious, though the country also has prized aromatic native apples such as the Golab group.",
+    "local_varieties": ["Red Delicious", "Golden Delicious", "Golab", "Shafi Abadi", "Fuji"],
+    "pests_diseases": "Codling moth is the key insect pest, and powdery mildew is common in the dry heat. Fire blight is established in Iran and can flare in warm springs.",
+    "tips": "Drip irrigation and mulch are essential, and avoid salty well water where you can. Try one of the early native Golab-type apples alongside the standard Delicious types for flavour.",
+    "confidence": "medium"
+  },
+  {
+    "id": "golan",
+    "summary": "Highland Mediterranean climate on a basalt plateau: winters are cool and wet with occasional snow at the northern end near Mount Hermon, summers long, hot and dry. Chilling is only just enough for standard apples, and mild winters can leave bloom ragged.",
+    "apple_culture": "The northern Golan and nearby Upper Galilee are Israel's main apple areas, with large cooperative orchards and cold stores; the Druze villages near Mount Hermon are also known for apples. Israel bred the low-chill apples Anna and Ein Shemer, though in the high Golan growers mostly plant standard varieties such as Pink Lady, Gala and the Delicious types.",
+    "local_varieties": ["Pink Lady (Cripps Pink)", "Gala", "Golden Delicious", "Starking Delicious", "Anna", "Ein Shemer"],
+    "pests_diseases": "Mediterranean fruit fly can attack ripening apples, especially late varieties, and codling moth is the main orchard pest. Sunburn on fruit in the summer heat and powdery mildew are also common.",
+    "tips": "At lower, warmer sites choose low-chill varieties such as Anna or Ein Shemer; on the high plateau standard varieties work but need reliable irrigation. Shade netting or careful canopy management helps prevent sunburn, and fruit-fly traps are worth setting in late summer.",
+    "confidence": "medium"
+  },
+  {
+    "id": "zahle",
+    "summary": "Apples grow in Lebanon's mountains and the high Bekaa valley, where altitude brings real winter chill and snow, warm sunny summers and cool nights. The Bekaa side is drier and more continental; the western slopes of Mount Lebanon are wetter.",
+    "apple_culture": "Mountain villages such as Akoura, Mnaytreh and Qartaba have long been known for their apples, and apples are a major crop in the Lebanese highlands. The industry has suffered repeated crises from low prices and lost export routes through Syria, and most orchards are planted with Delicious and Golden types.",
+    "local_varieties": ["Red Delicious", "Golden Delicious", "Gala", "Granny Smith", "Scarlet Spur"],
+    "pests_diseases": "Codling moth, scab in wet mountain springs and powdery mildew are the main problems. Mediterranean fruit fly can affect fruit at lower, warmer altitudes.",
+    "tips": "Higher sites give better colour and keeping quality, but watch for spring frost and hail. In the drier Bekaa, irrigate and mulch; on the wetter mountain slopes, keep trees open-pruned to reduce scab.",
+    "confidence": "medium"
+  }
+]

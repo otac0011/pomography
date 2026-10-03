@@ -1,0 +1,582 @@
+[
+  {
+    "id": "otava",
+    "name": "Otava",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CZ",
+      "place": "Institute of Experimental Botany, Strizovice, Czech Republic",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Reported as Sampion x Jolana (not independently verified)",
+      "raised_by": "Institute of Experimental Botany, Czech Academy of Sciences"
+    },
+    "history": "One of the scab-resistant dessert apples from the Czech breeding programme that also produced Topaz and Rajka, aimed at low-spray and organic growing. Detailed release information is not readily available in English-language sources.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": null,
+      "description": "Yellow apple with a light orange cheek; detailed descriptions are scarce."
+    },
+    "taste": {
+      "summary": "Usually described as a sweet, juicy yellow apple with mild acidity, keeping well into late winter. Independent tasting notes are limited.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growth data not well documented in English sources."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not published; assume a mid-season partner is needed."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Central European and British temperate climates, especially damp areas where its scab resistance pays off.",
+      "poor_climates": "Untested in hot or low-chill regions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Bred for scab resistance (Vf gene); other disease behaviour not well documented. Vf resistance has been overcome by new scab races in some regions."
+    },
+    "grow_notes": "A good candidate for low-spray gardens in wetter areas thanks to its scab resistance. Plant with a mid-season partner and store the fruit cool for winter eating.",
+    "conf": "low"
+  },
+  {
+    "id": "oxford-conquest",
+    "name": "Oxford Conquest",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Eynsham, Oxfordshire, England",
+      "year": 1927,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Blenheim Orange x Court Pendu Plat",
+      "raised_by": "F.W. Wastie"
+    },
+    "history": "Raised in 1927 at Eynsham near Oxford by the amateur breeder F.W. Wastie, who also raised several other Oxfordshire apples. It crosses two classic late apples, Blenheim Orange and Court Pendu Plat, and survives mainly in collections.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": null,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium-large, broadly conical fruit, green-yellow with a dull brownish flush and almost no russet."
+    },
+    "taste": {
+      "summary": "The National Fruit Collection describes rather tough flesh with an acid flavour; little else is recorded, so it is best seen as a sharp, firm late apple.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data. Note that Blenheim Orange, one parent, is triploid, so the ploidy of this seedling cannot be assumed."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not published; it flowers early-to-mid season at Brogdale."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Southern English conditions like its Oxfordshire home.",
+      "poor_climates": "No record of performance outside England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A local-history apple for Oxfordshire collections. Grow it as a typical English late dessert apple in a sunny, sheltered spot, and plant other varieties nearby until its pollination needs are known.",
+    "conf": "low"
+  },
+  {
+    "id": "pecks-pleasant",
+    "name": "Peck's Pleasant",
+    "aka": [
+      "Peck",
+      "Waltz Apple"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Rhode Island (some sources say Connecticut)",
+      "year": 1832,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A New England heirloom thought to come from Rhode Island and recorded by 1832. Nineteenth-century American pomologists rated it highly as a winter dessert apple, but it was never widely planted commercially.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, flattish fruit, green ripening to clear bright yellow with an orange-red to pinkish blush on the sunny side."
+    },
+    "taste": {
+      "summary": "Tender, crisp yellowish flesh with a sweet, mildly acidic and highly aromatic flavour; nineteenth-century American writers rated it very good to best for winter eating. Modern opinion is more mixed, with at least one grower finding only a green, grassy taste.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing data."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not published; it flowers in the middle of the season at Brogdale."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "New England and similar humid temperate climates with warm summers and long autumns.",
+      "poor_climates": "Short, cool seasons may not ripen it fully; hot, low-chill climates are unsuitable."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "Pick late and store cool, and it will keep its aroma into early spring. Plant with a mid-season partner in a warm, sunny spot.",
+    "conf": "low"
+  },
+  {
+    "id": "pigs-nose-pippin",
+    "name": "Pig's Nose Pippin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Herefordshire, England (thought)",
+      "year": 1884,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Thought to come from Herefordshire and first described in 1884. It is preserved in the National Fruit Collection and by Marcher Apple Network collections; it is not the same as the separate variety 'Pig's Snout'.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Smallish, conical fruit, yellow with orange stripes and a little russet."
+    },
+    "taste": {
+      "summary": "Fine-grained, crisp cream flesh with a sweet flavour. Few other tasting details are recorded.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not published; it flowers mid-season at Brogdale."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The Welsh Marches and other mild, moist western British counties where it originated.",
+      "poor_climates": "No record outside Britain."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A local heritage apple for Herefordshire and Marches orchards. Plant with mid-season partners and treat it as a typical spur-bearing dessert apple.",
+    "conf": "low"
+  },
+  {
+    "id": "pitmaston-pine-apple",
+    "name": "Pitmaston Pine Apple",
+    "aka": [
+      "Pitmaston Pineapple",
+      "Pineapple Pippin",
+      "Pitmaston Pine"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Witley, Worcestershire, England",
+      "year": 1785,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling, thought to be of Golden Pippin",
+      "raised_by": "Mr White, steward to Lord Foley; introduced by John Williams of Pitmaston, Worcester"
+    },
+    "history": "Raised around 1785 by Mr White, steward to Lord Foley at Witley in Worcestershire, probably from a Golden Pippin pip. The Worcester nurseryman John Williams of Pitmaston later introduced it, and it is still sought after for its unusual flavour.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 2,
+      "description": "Small, neat, narrowly conical fruit, golden yellow with a fine coat of light russet."
+    },
+    "taste": {
+      "summary": "A small yellow apple whose firm, juicy, never-mealy flesh is sweet but lively, with a prominent musky, pineapple-like flavour that tasters also call sherbet-like; honeyed and nutty notes add richness. Best eaten within two or three weeks of picking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "pineapple",
+        "musky",
+        "honey",
+        "nutty",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Prone to biennial bearing, with heavy crops in the 'on' year; thinning helps both regularity and fruit size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Usually placed in flowering group 3; pair with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Sheltered, sunny sites in southern and western England, where its small fruit sweetens fully.",
+      "poor_climates": "Cold, exposed sites give small, sharp fruit; not documented in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded; the main problem is biennial bearing and small fruit."
+    },
+    "grow_notes": "Thin heavy crops early to keep the tree cropping every year and the fruit a usable size. Give it a warm spot and a group 3 partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "pixie",
+    "name": "Pixie",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "National Fruit Trials, RHS Garden Wisley, Surrey, England",
+      "year": 1947,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Cox's Orange Pippin or Sunset x unknown",
+      "raised_by": "National Fruit Trials, Wisley"
+    },
+    "history": "Raised in 1947 at the National Fruit Trials at Wisley, probably from a seedling of Cox or Sunset. It received an RHS First Class Certificate in 1972 and holds the Award of Garden Merit as a reliable, healthy garden apple.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, flattish, Cox-like apple, yellow with an orange-red flush and streaks and a little russet."
+    },
+    "taste": {
+      "summary": "Crisp, juicy cream flesh with an intense, Cox-style aromatic flavour, sharper and more refreshing than Cox when first picked and mellowing in store.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Easy, regular cropper that tends to set too many fruits, which then stay small; thin after flowering. Does well on dwarfing rootstocks such as M27 and M9."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4; any group 3-5 diploid will pollinate it."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate gardens across Britain and north-west Europe; more forgiving of damp than Cox because of its disease resistance.",
+      "poor_climates": "Hot summers are likely to soften the fruit and reduce its sharp-aromatic balance."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good resistance to scab and mildew. Main fault is overcropping, giving small fruit."
+    },
+    "grow_notes": "One of the best Cox-style apples for small gardens: healthy, compact on dwarfing stocks and reliable. Thin fruitlets hard and store the crop in a cool place for eating after Christmas.",
+    "conf": "high"
+  },
+  {
+    "id": "polly-prosser",
+    "name": "Polly Prosser",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Maidstone, Kent, England",
+      "year": 1946,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Duke of Devonshire",
+      "raised_by": "J.H. Cooper"
+    },
+    "history": "Raised in Maidstone, Kent, in 1946 by J.H. Cooper from Cox crossed with the late-keeping Duke of Devonshire. It is held in the National Fruit Collection but is little known outside heritage collections.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium-large, flattish, slightly ribbed fruit, green-yellow with orange streaks."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse yellowish-white flesh with a sweet, mildly acidic and rich flavour. Few further tasting notes are published.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not published; it flowers mid-season at Brogdale."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "South-east England, where it was raised.",
+      "poor_climates": "No record of performance elsewhere."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded; its Cox parent often passes on canker and mildew susceptibility."
+    },
+    "grow_notes": "A Kentish heritage apple for collectors. Grow it like Cox, in a sheltered sunny site with good drainage, and plant a mid-season pollinator nearby.",
+    "conf": "low"
+  }
+]

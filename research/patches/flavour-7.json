@@ -1,0 +1,111 @@
+{
+  "_note": "flavour verification batch 7",
+  "reinette-clochard": { "taste": {
+    "tags": ["sweet", "sharp"],
+    "acid": 3,
+    "summary": "Firm, juicy cream flesh with a sweet-sharp balance that leans to the sweet side; it also holds its shape in cooking and gives a sweetish juice. A very long keeper that lasts into March, though it shrivels and softens toward the end of storage."
+  } },
+  "reinette-grise-du-canada": { "taste": {
+    "tags": ["sweet", "sharp", "spice", "perfumed"],
+    "summary": "Fine, dense, lightly crisp flesh, juicy and sweet in the russet manner, with a pleasant sharpness and a distinctly spicy perfume. A mainstay of French cookery: it bakes whole without collapsing, stews to a textured puree that needs little sugar, and keeps a month or two."
+  } },
+  "reverend-w-wilks": { "taste": {
+    "tags": ["sharp", "mild", "perfumed"],
+    "summary": "Crisp, fine-grained, juicy white flesh with a delicate sweet-sharp flavour and a pleasing scent; most tasters find it fine raw, though one found it too bitter to eat uncooked. Cooks quickly to a pale, smooth puree needing little sugar, browns very fast once cut, and keeps only a few weeks unless stored cool and airy."
+  } },
+  "rhode-island-greening": { "taste": {
+    "tags": ["sharp", "lemon", "grape"],
+    "juicy": 3,
+    "summary": "Large, hard, firm flesh, less juicy than many, with a clean, strong tartness softened by a little sweetness; tasters pick out cider, grape and lemonade-like citrus hints. Best mellowed in store before eating raw, and at its finest cooked, holding its shape in pies and making excellent sauce."
+  } },
+  "ribston-pippin": { "taste": {
+    "tags": ["perfumed", "pear", "sharp", "lemon"],
+    "summary": "Firm, fine-grained flesh with a strong, aromatic flavour that is more robust, if less refined, than its offspring Cox; sources note a pear-like taste and one grower a pronounced lemon tang. At its best about a month after picking, but it does not stay crisp for long and browns quickly when cut."
+  } },
+  "rome-beauty": { "taste": {
+    "tags": ["mild", "sweet", "rose"],
+    "aroma": 3,
+    "juicy": 2,
+    "summary": "Firm, solid, rather dry flesh with a mild sweetness and a little tartness; unremarkable raw, though one taster found a rose-like note. It shines in the oven, holding its shape when baked whole, and turns dry and mealy if kept long without cold storage."
+  } },
+  "roxbury-russet": { "taste": {
+    "tags": ["sweet", "spice", "honey"],
+    "sweet": 4,
+    "acid": 3,
+    "summary": "Dense, firm yellowish flesh, crunchy but not hard, with a sugary, cider-like sweetness, some tartness and a gentle spiciness milder than Golden Russet's; one taster notes a honeyed aftertaste. Improves after a few weeks in store but can shrivel, and the thick, rough skin is slightly bitter. Makes a sweet juice and cider."
+  } },
+  "royal-gala": { "taste": {
+    "tags": ["sweet", "mild", "floral"],
+    "aroma": 3,
+    "summary": "Sweet and gentle with little acidity and a light, pleasant aroma; crisp rather than hard, with fine-grained cream flesh. Best in season, as long-stored fruit tastes less sweet and can turn soft; tasters are split between a reliable treat and a dull supermarket staple."
+  } },
+  "rubens": { "taste": {
+    "summary": "Crisp and juicy with a good blend of sweetness and lively acidity that many describe as almost fizzy; more aromatic than Gala, with some of Elstar's character. Keeps three months or more and is slow to brown when cut. Packaging sometimes promises a banana note, but tasters have not reported finding it."
+  } },
+  "rubinette": { "taste": {
+    "tags": ["honey", "pear-drop", "perfumed", "sweet", "sharp"],
+    "summary": "Intense, honeyed, Cox-like flavour with hints of pear-drop and an unusually fine balance of sweet and sharp; crisp, juicy flesh under a thin skin. Often rated above Cox and more consistent from year to year; keeps a month or two."
+  } },
+  "rubinola": { "taste": {
+    "tags": ["sweet", "perfumed", "honey", "elderflower"],
+    "summary": "Sweet with balancing acidity and an aromatic, rather complex flavour; one taster picks out elderflower and apple-blossom honey. Cream flesh is crisp but light and juicy, does not brown when cut, and keeps a month or two."
+  } },
+  "sansa": { "taste": {
+    "acid": 3,
+    "summary": "Essentially an early Gala: sweet, juicy and crisp, but with more acidity from Akane to keep it lively. Eat within a week or so of picking; late fruit can turn grainy."
+  } },
+  "santana": { "taste": {
+    "summary": "A delicately perfumed, vinous apple with a sweet-sharp balance, compared with Spartan; some tasters find hints of rose, lychee or sweet grape. The creamy-yellow flesh is usually called firm rather than crunchy, though one grower found it crunchy and tangier than Cox. Keeps a month or two."
+  } },
+  "saturn": { "taste": {
+    "tags": ["sweet", "sharp", "perfumed"],
+    "summary": "Firm flesh that snaps cleanly and is very juicy; sweet but balanced by a good dose of acidity, so it tastes properly of apple, with faint perfumed hints. Likened to a supercharged Gala; keeps two to three weeks."
+  } },
+  "schoner-aus-nordhausen": { "taste": {
+    "tags": ["sharp", "perfumed"],
+    "summary": "A tart, finely aromatic late apple, picked in October and keeping in a cool cellar from November to April; it mellows enough in store to eat fresh and is also used in the kitchen."
+  } },
+  "sheepnose": { "taste": {
+    "tags": ["sweet", "nutty", "perfumed", "mild"],
+    "summary": "Greenish-white, firm flesh that is sweet and mild, with a distinctive perfume and a dry, nutty character. Opinion is split: some find it crisp and fragrant, others dry and cardboard-like with little juice. It hangs late on the tree but turns dry and fibrous if over-ripe or stored, so use it fairly soon; traditionally baked or dried."
+  } },
+  "shenandoah": { "taste": {
+    "summary": "Sweet, lightly perfumed yellowish flesh; versatile in the kitchen, where slices hold their shape, but not outstanding raw. Sources differ on texture, some calling it crisp and juicy and Orange Pippin slightly dry. Compared with Kidd's Orange Red but without its richness; keeps three months or more."
+  } },
+  "siberian-crab": { "taste": {
+    "tags": ["sharp", "astringent", "bitter", "rose"]
+  } },
+  "sir-prize": { "taste": {
+    "tags": ["sweet", "perfumed"],
+    "sweet": 5,
+    "summary": "Tender, very juicy cream flesh with a very sweet, scented, Golden Delicious-type flavour. Good fresh and excellent for baking, but the very thin skin bruises badly in handling."
+  } },
+  "smokehouse": { "taste": {
+    "tags": ["honey", "sweet", "sharp", "spice"],
+    "sweet": 4,
+    "summary": "Crisp, moderately fine-grained yellowish flesh with a sweet, honeyed, fresh-cider flavour balanced by some sharpness; some tasters find it almost candy-sweet, and individual fruit can be soft or dry. Keeps well through March and is very good for pies, crisps and drying."
+  } },
+  "spartan": { "taste": {
+    "tags": ["wine", "sweet", "strawberry", "melon", "caramel"],
+    "summary": "Snow-white, crisp, juicy flesh with a sweet, vinous McIntosh character and a light perfume; tasters variously note hints of melon and strawberry or a burnt-caramel, toffee-apple tone. Best straight off the tree: it softens within a week or so, browns quickly when cut, and long-stored fruit can taste fermented."
+  } },
+  "summer-rambo": { "taste": {
+    "tags": ["honey", "sweet", "sharp", "perfumed"],
+    "summary": "Coarse, breaking, exceptionally juicy flesh with a subacid, aromatic, slightly honeyed flavour and a noticeable touch of tannin. Good eaten off the tree but soon turns soft, keeping only about a week; prized above all for sauce, and also good for pies and drying."
+  } },
+  "sunrise": { "taste": {
+    "tags": ["sweet", "sharp", "pear"],
+    "summary": "Remarkably crisp for an August apple, with fairly juicy white flesh and a sweet-sharp flavour that stays fairly acidic; one taster notes a slight pear flavour. Best chilled and eaten within a week of picking, as it browns fast and can turn mealy."
+  } },
+  "sunset": { "taste": {
+    "summary": "Crisp cream flesh with a sweet, aromatic Cox-like flavour and gentle acidity. Flavour is very variable: excellent in good years (reportedly better on M9 than MM106 rootstock) but disappointing in poor ones. Does not keep well, softening after a few weeks, though it lasts about a month in a fridge."
+  } },
+  "suntan": { "taste": {
+    "tags": ["sharp", "sweet", "perfumed"],
+    "sweet": 4,
+    "summary": "Firm, rather coarse, fairly juicy cream flesh with an intense, aromatic Cox-type flavour that is both very sweet and distinctly sharp. Keeps well for a month or two and mellows in store; yellower fruit is said to taste better than red-flushed."
+  } },
+  "swaar": { "taste": {
+    "tags": ["nutty", "sweet", "perfumed"]
+  } }
+}

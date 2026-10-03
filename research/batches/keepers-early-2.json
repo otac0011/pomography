@@ -1,0 +1,143 @@
+{
+ "batch": "keepers-early-2",
+ "theme": "keepers-early",
+ "count": 17,
+ "varieties": [
+  {
+   "id": "mollies-delicious",
+   "name": "Mollie's Delicious",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "mollies-delicious",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "monidel",
+   "name": "Monidel",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "monidel",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "nuvar-golden-hills",
+   "name": "Nuvar Golden Hills",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "nuvar-golden-hills",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "palmers-rosey",
+   "name": "Palmer's Rosey",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "palmers-rosey",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "polly",
+   "name": "Polly",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "polly",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "red-james-grieve",
+   "name": "Red James Grieve",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "red-james-grieve",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "scrumptious",
+   "name": "Scrumptious",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "scrumptious",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "st-helens",
+   "name": "St Helens",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "st-helens",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "statefair",
+   "name": "Statefair",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "statefair",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "sunrise",
+   "name": "Sunrise",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "sunrise",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "tydemans-early-worcester",
+   "name": "Tydeman's Early Worcester",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "tydemans-early-worcester",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "vista-bella",
+   "name": "Vista Bella",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "vista-bella",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "white-transparent",
+   "name": "White Transparent",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "white-transparent",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "williams-pride",
+   "name": "Williams' Pride",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "williams'-pride",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "worcester-pearmain",
+   "name": "Worcester Pearmain",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "worcester-pearmain",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "yellow-ingestrie",
+   "name": "Yellow Ingestrie",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "yellow-ingestrie",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "young-america",
+   "name": "Young America",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "young-america",
+   "keepers_cat": "early-season-eating-apple"
+  }
+ ]
+}

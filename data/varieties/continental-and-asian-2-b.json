@@ -1,0 +1,687 @@
+[
+  {
+    "id": "pepin-shafranny",
+    "name": "Pepin Shafranny",
+    "aka": [
+      "Pepin Shafrannyi",
+      "Pepin Shafrannyy"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": "Kozlov (now Michurinsk), Tambov region, Russia",
+      "year": 1907,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Orleans Reinette x (Pepinka Litovskaya x Kitaika, Malus prunifolia)",
+      "raised_by": "I. V. Michurin"
+    },
+    "history": "One of Ivan Michurin's best-known apples, raised in 1907 by crossing Orleans Reinette with his own hybrid of the Lithuanian Pepinka and the Chinese crab Kitaika. It entered the Soviet state register in 1947 and was zoned across much of Russia, including western and eastern Siberia; it is a parent of later Russian varieties such as Krasnyi Shtandart.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium, neat and symmetrical round-conical apple, greenish-yellow under a diffuse dark red blush with darker stripes and many small white dots."
+    },
+    "taste": {
+      "summary": "Dense, juicy cream flesh with a winey sweetness and a delicate spicy fragrance. Keeps its quality well into late winter and is highly regarded in Russia for jam.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "spice",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 3,
+      "ploidy": null,
+      "notes": "Medium-sized tree whose crown becomes broad and very dense, with drooping branches; much of the crop is borne on young shoots and short spurs. Needs regular thinning-out pruning, or the fruit stays small and tends to drop. Trees damaged in hard winters regenerate well."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Brogdale records it flowering early, alongside White Transparent. Russian sources rate it highly self-fertile, though a partner improves set."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central Russian climates with cold winters and warm summers; it has been grown as far east as Siberia.",
+      "poor_climates": "The harshest northern winters, where it is only moderately hardy by Russian standards; little information from mild or hot climates."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Russian trials rate fruit and leaves moderately susceptible to scab (Brogdale describes it as scab-resistant); moderately susceptible to codling moth."
+    },
+    "grow_notes": "A heavy-cropping winter apple for cold gardens. Prune every year to open the crown and keep fruit size up. Brogdale lists a much earlier picking time (late August) than Russian sources, so judge ripeness by taste and seed colour.",
+    "conf": "medium"
+  },
+  {
+    "id": "kronprinz-rudolf",
+    "name": "Kronprinz Rudolf",
+    "aka": [
+      "Kronprinz",
+      "Kronprinzer",
+      "Kronprinz Rudolf von Österreich",
+      "Prince Rodolphe"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AT",
+      "place": "Styria (Steiermark), Austria",
+      "year": 1863,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Chance seedling",
+      "raised_by": "Johann Klöckner (some accounts credit Franz Pfann)"
+    },
+    "history": "A Styrian apple from seed sown in 1863, named after Crown Prince Rudolf of Austria and exhibited at the Vienna World's Fair of 1873. Two accounts compete over who raised it, naming either Johann Klöckner or Franz Pfann.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium, roundish to slightly flattened, smooth apple, greenish-yellow to greenish-white with a bright red washed cheek on the sunny side and a little russet in the stalk cavity."
+    },
+    "taste": {
+      "summary": "Very juicy, fine and fairly soft white-to-cream flesh; sweet with a light, refreshing tartness and a delicate spicy perfume.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "perfumed",
+        "spice",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Fertile and regarded in Austria as suitable for rough, exposed sites. Reports on vigour conflict (strong in Austrian sources, weak in others). Sensitive to copper sprays."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Listed as group B (2) and self-sterile; Brogdale records early flowering."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool Alpine-foothill climates such as Styria, including harsher upland sites.",
+      "poor_climates": "Little information from hot or mild-winter regions."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Moderately susceptible to scab; leaves are damaged by copper fungicides."
+    },
+    "grow_notes": "A traditional Austrian dessert apple for cool, exposed gardens. Avoid copper-based sprays and plant an early-flowering (group 1-3) partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "zuccalmaglios-renette",
+    "name": "Zuccalmaglio's Renette",
+    "aka": [
+      "Von Zuccalmaglios Renette",
+      "Zuccalmaglios Reinette",
+      "Reinette de Zuccalmaglio",
+      "Zuccalmaglio"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Grevenbroich, Rhineland, Germany",
+      "year": 1878,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Ananas Reinette x Purpurroter Agatapfel",
+      "raised_by": "Diedrich Uhlhorn junior"
+    },
+    "history": "Raised in 1878 at Grevenbroich on the Lower Rhine by the breeder Diedrich Uhlhorn the younger, from Ananas Reinette crossed with Purpurroter Agatapfel. It is valued in Germany as a winter dessert apple on a small, weak-growing tree.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 20,
+      "stripes": null,
+      "russet": 0,
+      "description": "Small to medium, rounded to egg-shaped and somewhat ribbed apple, greenish-yellow ripening to lemon-yellow, with a faint orange-red wash on the sunny side."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained yellowish flesh with a well-balanced sweet-tart flavour and plenty of aroma; some tasters find it on the dry side.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Weak-growing, compact tree suited to small gardens, but it needs good, moist, fertile soil plus regular pruning and fruit thinning to keep fruit size up."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Brogdale records mid-season flowering (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild central European lowlands such as the Lower Rhine, on rich, moisture-retentive soils.",
+      "poor_climates": "Dry or poor soils, where the weak tree struggles and fruit stays small."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "German sources describe it as little troubled by pests and diseases."
+    },
+    "grow_notes": "A good candidate for a small garden tree, provided the soil is rich and kept moist. Thin fruitlets after the June drop, pick in mid October and store for winter eating; plant a group 2-4 partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "malus-sieversii",
+    "name": "Malus sieversii",
+    "aka": [
+      "Sievers' apple",
+      "Asian wild apple"
+    ],
+    "uses": [
+      "crab"
+    ],
+    "origin": {
+      "country": "KZ",
+      "place": "Tian Shan and Dzungarian Alatau mountains of Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan and Xinjiang, China)",
+      "year": null,
+      "year_note": "",
+      "kind": "ancient",
+      "parentage": "Wild species; the principal ancestor of the cultivated apple (Malus domestica)",
+      "raised_by": null
+    },
+    "history": "The wild apple of the Central Asian mountains, named after the botanist Johann Sievers and first described by Ledebour (as Pyrus sieversii) in 1833. Genome sequencing in 2010 confirmed it as the main wild ancestor of the domestic apple, which spread west along the Silk Road. Its fruit forests near Almaty are a conservation priority and the species is classed as vulnerable.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Very variable from tree to tree: small to medium fruit up to about 7 cm across, in shades from green and yellow to red."
+    },
+    "taste": {
+      "summary": "Seedlings vary enormously, from small, sour or astringent crabs to sweet fruit as good as many cultivated apples; there is no single flavour for the species.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Wild trees reach 5-12 m, sucker from the roots and take 6-8 years from seed to first fruit. Many trees colour red in autumn, unlike most domestic apples."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Self-incompatible like the domestic apple; any compatible apple or crab flowering at the same time can pollinate it."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Continental mountain foothills with cold winters and warm summers, like its native Tian Shan.",
+      "poor_climates": "Hot, humid lowlands and mild-winter regions far from its mountain habitat."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Wild populations are an important source of disease-resistance and stress-tolerance genes for breeders, but individual trees vary widely."
+    },
+    "grow_notes": "Grown mainly by collectors and breeders, usually from seed, so every tree is different. Treat it as a large crab or wildlife tree with plenty of space, and graft from a known good selection if you want edible fruit.",
+    "conf": "low"
+  },
+  {
+    "id": "aport",
+    "name": "Aport",
+    "aka": [
+      "Almaty Aport",
+      "Aport Alexander",
+      "Alma-Ata Aport"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "UA",
+      "place": "Probably Ukraine or southern Russia; the celebrated strain was established at Verny (Almaty), Kazakhstan, from 1865",
+      "year": 1800,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old eastern European apple group that western collections such as Brogdale file under Emperor Alexander. Its fame comes from Kazakhstan: a settler from Voronezh province is said to have brought trees to Verny (now Almaty) in 1865, and in the Trans-Ili Alatau foothills the fruit grew huge and richly scented, winning prizes in Paris in 1900 and becoming the symbol of Almaty. Plantings collapsed after the 1990s and are now the target of state revival programmes.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broadly round to slightly heart-shaped apple with thick, waxy skin, yellow to greenish-yellow under bright red stripes and blush; single fruits can top 500 g."
+    },
+    "taste": {
+      "summary": "Grown in the Almaty foothills, the fine-grained flesh is crisp and sweet-tart at harvest with a strong honeyed scent, turning softer and crumbly in store. In Britain the same apple (as Emperor Alexander) is coarser, drier and much less flavoured, so climate makes a big difference.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "honey",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Slow to come into bearing (often 7-10 years in Kazakhstan) and strongly biennial; Kazakh growers use drip irrigation to keep soil moisture steady. The heavy fruit bruises easily and can be blown down."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Emperor Alexander (group 3); plant a mid-season diploid partner."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Irrigated continental mountain foothills around 900-1,200 m, as near Almaty: hot days, cool nights and cold but fairly short winters.",
+      "poor_climates": "Low, hot plains (Kazakh specialists report poor fruit below about 850 m) and cool maritime climates, where the fruit is big but bland."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented; the main problems are late bearing, alternate cropping and bruising of the very large fruit."
+    },
+    "grow_notes": "Only worth growing for flavour where summers are hot and nights cool; elsewhere expect a large, mild cooking apple. Be patient for the first crops, thin to limit biennial bearing, and keep the soil evenly moist.",
+    "conf": "medium"
+  },
+  {
+    "id": "ralls-janet",
+    "name": "Ralls Janet",
+    "aka": [
+      "Rawls Janet",
+      "Ralls Genet",
+      "Neverfail",
+      "Jefferson Pippin",
+      "Kokko"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Amherst County, Virginia, USA",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Caleb Ralls (introducer)"
+    },
+    "history": "A Virginia apple associated with Caleb Ralls's orchard in Amherst County around 1800; one story has Thomas Jefferson passing on scions he received from the French envoy Edmond-Charles Genet. Introduced to Japan around 1870 and renamed Kokko in 1900, it was the backbone of Aomori's apple industry for decades and is the mother of Fuji.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, roundish to blunt-conical apple, greenish-yellow mottled and streaked with pink to dark red, often with a heavy bloom and a little russet near the stalk."
+    },
+    "taste": {
+      "summary": "Dense, crisp, yellowish flesh with a lively sweet-tart balance and a pleasant scent when cut. A long keeper, though it turns mealy by late spring unless cold-stored; also used for pies, apple butter and blending into cider.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, wide-spreading tree whose growth slows once in full bearing. Colours poorly and needs a long season to ripen."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "One of the latest apples to blossom (at Brogdale about a week after Golden Delicious; in Japan about five days after Fuji), which lets it escape spring frosts - hence the name Neverfail. Pair with another late-flowering diploid."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Long, warm seasons such as Virginia and the American mid-South, and northern Japan, where it was long the main commercial apple.",
+      "poor_climates": "Short-season or very cold areas (considered unsuitable for Hokkaido); poorly drained, acid soils encourage bark disease."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to blossom fire blight and somewhat to scab and bitter rot, but highly resistant to collar rot. Prone to rough-bark disease on wet, acid soils in Japan."
+    },
+    "grow_notes": "A useful apple for frost pockets because it blooms so late, provided the summer is long enough to ripen it. Pick in late October and store cold; avoid it where fire blight is common.",
+    "conf": "high"
+  },
+  {
+    "id": "tsugaru",
+    "name": "Tsugaru",
+    "aka": [
+      "Aori 2"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Aomori Apple Experiment Station, Aomori, Japan",
+      "year": 1930,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Jonathan (pollen parent identified by DNA in 1990)",
+      "raised_by": "Aomori Apple Experiment Station"
+    },
+    "history": "From a 1930 cross at the Aomori Apple Experiment Station, selected from seedlings raised in the 1940s, provisionally named Aori 2 in 1970 and registered as Tsugaru in 1975. Its unknown pollen parent was shown by DNA work to be Jonathan. It is Japan's leading early apple and second only to Fuji in production.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium-large round apple, pale yellow almost covered with red and darker red stripes."
+    },
+    "taste": {
+      "summary": "Sweet and very juicy with low acidity and a mild, gentle flavour; the dense, fine flesh softens fairly quickly. Some tasters find it bland.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Productive but notorious for dropping fruit before harvest; Japanese growers use stop-drop sprays. Colour is poor in hot weather, so better-colouring sports are widely planted."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Self-incompatible (S3S7). Brogdale records flowering in early May, around group 2-3."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Northern Japan (Aomori, Nagano, Hokkaido) and similar climates with cool late-summer nights.",
+      "poor_climates": "Hot late summers spoil the colour and speed softening; a poor keeper anywhere."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main faults are heavy pre-harvest drop, short storage life and poor colour in warm weather."
+    },
+    "grow_notes": "Pick promptly as the fruit loses its green tinge, because it drops readily, and eat within a few weeks. Brogdale records a much later picking time (late October) than Japanese sources, so test ripeness by taste.",
+    "conf": "medium"
+  },
+  {
+    "id": "shinano-sweet",
+    "name": "Shinano Sweet",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Nagano Prefectural Fruit Tree Experiment Station, Nagano, Japan",
+      "year": 1978,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Fuji x Tsugaru",
+      "raised_by": "Nagano Prefectural Fruit Tree Experiment Station"
+    },
+    "history": "Bred in Nagano from a 1978 cross of Fuji with Tsugaru and released in 1996; the name joins the old province name Shinano with 'sweet'. With Shinano Gold and Akibae it is one of the Nagano 'apple brothers'.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Large round apple of about 300-400 g, coloured red to deep red in stripes."
+    },
+    "taste": {
+      "summary": "Very sweet and juicy with little acidity and a pleasant scent; crisp at first but softer-fleshed than Fuji.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little published growing data from outside Japan."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Diploid and self-sterile; UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central Japanese uplands like Nagano, with warm days and cool autumn nights.",
+      "poor_climates": "Not documented outside Japan."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not well documented outside Japan."
+    },
+    "grow_notes": "An experimental choice for UK gardens: give it full sun and a mid-season diploid partner, pick in mid October and expect about two months' keeping in a fridge.",
+    "conf": "medium"
+  }
+]

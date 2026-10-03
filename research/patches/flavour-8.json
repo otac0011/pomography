@@ -1,0 +1,95 @@
+{
+ "_note": "flavour verification batch 8",
+ "sweetango": { "taste": {
+  "tags": ["sweet", "spice", "floral", "citrus", "cinnamon"],
+  "summary": "Explosively crunchy and juicy in the Honeycrisp mould but with a livelier sweet-tart balance; tasters describe floral, lightly spicy notes (one found a trace of cinnamon) and citrus hints have also been reported. Best eaten soon after harvest: fruit left at room temperature turns mealy and bland within a week or two, and it does not bake well."
+ } },
+ "tompkins-king": { "taste": {
+  "tags": ["floral", "sweet", "mild"],
+  "summary": "Coarse-grained but crisp, juicy yellowish flesh with a delicate, mild and faintly floral flavour; growers find it very sweet with only a light tartness, although one listing classes it on the sharper side. Good raw, cooked (it needs little added sugar) and pressed for fresh juice; at its best in autumn and early winter, though well-stored fruit can last longer."
+ } },
+ "topaz": { "taste": {
+  "tags": ["sharp", "sweet", "spice", "berry"],
+  "summary": "Crisp, juicy cream flesh with a bold, tangy sweet-sharp balance, likened to Lord Lambourne or James Grieve but much crunchier; tasters also note spicy complexity, and one picked out something close to blackcurrant. A favourite with lovers of sharper apples, it keeps a month or two and mellows slightly in store."
+ } },
+ "transparente-de-croncels": { "taste": {
+  "tags": ["mild", "perfumed"],
+  "aroma": 3,
+  "crisp": 2,
+  "summary": "Juicy, coarse-grained white-yellow flesh that is only slightly crisp, with a gently acid flavour and a fairly delicate aroma. Excellent cooked; for eating raw it must be taken straight from the tree, because fruit picked too ripe turns floury, and it bruises easily."
+ } },
+ "twenty-ounce": { "taste": {
+  "tags": ["sharp", "sweet", "honey"],
+  "crisp": 3,
+  "summary": "Large, juicy apple tart enough that most growers prefer it baked or in sauce, though fully ripe fruit is listed as sweet-sharp with a honeyed character. Older accounts call the flesh coarse and fairly tender, whereas modern growers find it firm and crisp enough to hold its shape in the oven."
+ } },
+ "warners-king": { "taste": {
+  "crisp": 2
+ } },
+ "wealthy": { "taste": {
+  "tags": ["wine", "sweet", "sharp", "strawberry"],
+  "summary": "Crisp at first, with tender, very juicy white flesh and a lively, vinous sweet-tart flavour; it is tart unless fully ripe, when growers find it remarkably sweet, and one taster caught a lingering hint of strawberry or banana. It softens and loses its zest within two or three weeks, but makes a pink-tinged sauce and rich apple butter."
+ } },
+ "westfield-seek-no-further": { "taste": {
+  "tags": ["honey", "nutty", "perfumed", "sweet"],
+  "summary": "Firm, crisp yet tender, juicy flesh with a rich, distinctive flavour that is aromatic, honeyed and dryly nutty, mostly sweet but finishing with a little tartness. A high-quality dessert and drying apple, not recommended for cooking."
+ } },
+ "white-transparent": { "taste": {
+  "tags": ["sharp", "sweet"],
+  "summary": "Brisk and acidic with a little sweetness and coarse, very juicy white flesh; usually picked while still greenish, since once it yellows it turns soft and mealy within days. Opinions on raw fruit range from bland to delightful at its brief peak, but it cooks quickly to a smooth, pale sauce that needs little or no sugar."
+ } },
+ "wickson-crab": { "taste": {
+  "tags": ["sweet", "sharp", "astringent"],
+  "summary": "Startlingly intense for a tiny fruit: very high sugar matched by high acid gives a clean, concentrated sweet-tart flavour, with a slight tannic grip to some palates. Excellent fresh and prized in cider blends; it needs plenty of summer heat to reach top quality and keeps only two or three weeks."
+ } },
+ "william-crump": { "taste": {
+  "tags": ["sweet", "perfumed"]
+ } },
+ "williams-pride": { "taste": {
+  "tags": ["spice", "sharp", "sweet", "perfumed", "butterscotch"],
+  "summary": "Crisp, juicy cream-white flesh with a rich, aromatic, spicy sweet-tart flavour that is unusually full for a midsummer apple; one taster noted butterscotch hints among the fruit flavours, though another found it bland. Ripens unevenly and keeps only a few days, so pick fully ripe fruit and eat it fresh."
+ } },
+ "winston": { "taste": {
+  "tags": ["sweet", "perfumed", "sharp"]
+ } },
+ "winter-banana": { "taste": {
+  "tags": ["banana", "perfumed", "sweet", "pineapple"],
+  "crisp": 3,
+  "summary": "Sweet, low-acid fruit with an unusual perfume; the banana note it is named for is subtle, obvious to some tasters and absent for others, and one grower found light pineapple tones. Texture reports differ: older descriptions call the flesh fairly tender and coarse, while growers describe it as dense and crisp, never mealy. The aroma builds as it mellows in store."
+ } },
+ "wolf-river": { "taste": {
+  "tags": ["mild", "sweet"],
+  "summary": "Soft, often dry greenish-white flesh with a fairly sweet, mildly tart flavour; many find it bland or spongy raw, though fruit left until after a frost can be juicier and better. It shines in pies and baking, holding its shape and gaining flavour with little added sugar, and stores for three months or more."
+ } },
+ "worcester-pearmain": { "taste": {
+  "summary": "Firm, crisp white flesh that is sweet rather than sharp, with the well-known strawberry-like, slightly perfumed flavour, though its intensity varies. Traditional advice is to let it ripen fully on the tree because early-picked fruit is dull, yet some growers prefer it just short of full ripeness since ripe fruit softens fast; either way it keeps only about a week."
+ } },
+ "wyken-pippin": { "taste": {
+  "acid": 3
+ } },
+ "yates": { "taste": {
+  "tags": ["sweet", "citrus"],
+  "juicy": 3,
+  "summary": "Pleasant, sweetish yellowish-white flesh, usually described as tender, juicy and aromatic, though one modern grower found it crisp and fairly dry with a tangy flavour suggesting blood orange. Holds its quality through the winter and is well regarded for cider as well as fresh eating."
+ } },
+ "yellow-bellflower": { "taste": {
+  "tags": ["sharp", "perfumed", "sweet", "honey", "citrus"],
+  "summary": "Tender, juicy, fine-grained flesh that is tart and aromatic when picked, mellowing in store into a rich, honeyed, highly flavoured apple; one taster likened it to key lime pie. Used for pies early in the season and for eating later."
+ } },
+ "yellow-ingestrie": { "taste": {
+  "tags": ["sweet", "perfumed", "sharp", "pineapple"],
+  "summary": "Fine-textured, tender flesh with an intense, rich sweet-sharp and pleasantly aromatic flavour; one taster found a hint of pineapple. Only moderately juicy, and best eaten within two or three weeks of its early-September picking."
+ } },
+ "york-imperial": { "taste": {
+  "tags": ["sweet", "sharp", "pear", "honey"],
+  "aroma": 3,
+  "summary": "Firm, crisp, moderately juicy flesh that is tart-sweet at picking and needs a month or more in store to develop, becoming sweeter, mellower and honeyed, with a pear-like note some tasters pick up; it keeps until spring under refrigeration. Holds together well in cooking and gives a good sauce."
+ } },
+ "zabergau-reinette": { "taste": {
+  "tags": ["nutty", "sharp", "sweet", "spice"],
+  "summary": "Firm, dense and fairly juicy yellowish flesh with a rich, nutty flavour that one grower likened to a tart, spicy russet. Sharp and hard straight from the tree, it becomes noticeably sweeter after a month or so in cool storage and then has a few weeks at its best."
+ } },
+ "zestar": { "taste": {
+  "summary": "Very crisp, light and juicy, far crunchier than most early apples, with a lively sweet-tart balance; the advertised hint of brown sugar is something some tasters find and others cannot detect. Keeps its texture much longer than typical summer apples if stored cool, though warm-stored fruit can go mealy."
+ } }
+}

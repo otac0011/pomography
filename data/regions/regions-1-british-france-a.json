@@ -1,0 +1,83 @@
+[
+  {
+    "id": "kent",
+    "summary": "One of the driest and sunniest corners of the British Isles, with mild winters that still give apples plenty of chilling and a long, dependable ripening season. The weak point is spring frost: cold air pools in the Weald's valley bottoms and along the Medway, so blossom on low ground is caught in years when trees on the slopes escape.",
+    "apple_culture": "The 'Garden of England' has been the country's main dessert-apple county for centuries, and East Malling, a few miles from East Farleigh, is where the Malling rootstocks such as M9, M26 and MM106 now used worldwide were classified and bred. The National Fruit Collection at Brogdale near Faversham holds more than two thousand apple varieties, and windbreak-lined commercial orchards of Cox, Gala and Bramley still cover much of mid Kent.",
+    "local_varieties": ["Cox's Orange Pippin", "Bramley's Seedling", "Gascoyne's Scarlet", "Kentish Fillbasket", "Mabbott's Pearmain", "Kent", "Fiesta", "Falstaff"],
+    "pests_diseases": "Apple scab and powdery mildew are the routine diseases, with codling moth, apple sawfly and rosy apple aphid the main insect pests. European canker is a real problem on the heavy, wet Weald clays, and Cox is especially prone to it.",
+    "tips": "Plant on a slope or above the valley floor so frost drains away from the blossom, and avoid hollows near streams. A hedge or windbreak shelters pollinating insects in this open county, and on heavy Weald clay improve drainage or pick a canker-tolerant variety rather than Cox.",
+    "confidence": "high"
+  },
+  {
+    "id": "norfolk",
+    "summary": "Drier than almost anywhere else in Britain, with sunny summers and colder, windier winters than the south and west because the county faces the North Sea. Late spring frosts and drying easterly winds are the main hazards, and many soils, especially towards Breckland, are light sands that dry out fast.",
+    "apple_culture": "Norfolk has a long tradition of estate and cottage orchards and its own apples, from the dark-red Norfolk Beefing, once slow-baked in bread ovens into flattened 'biffins' sold in Norwich, to later finds such as Golden Noble at Stow Bardolph and Norfolk Royal. Community orchards and county orchard groups are actively replanting these heritage varieties.",
+    "local_varieties": ["Norfolk Beefing", "Golden Noble", "Hubbard's Pearmain", "Norfolk Royal", "Norfolk Beauty", "Dr Harvey"],
+    "pests_diseases": "The dry climate keeps apple scab lighter than in the west, but powdery mildew thrives in dry springs and summers. Codling moth and apple sawfly are the main fruit pests, and drought stress on sandy soils brings small fruit and bitter pit.",
+    "tips": "Mulch heavily and water young trees through dry spells, and on thin sand use a more vigorous rootstock such as MM106 rather than a very dwarfing one. Give shelter from the east and north-east and favour mildew-resistant varieties.",
+    "confidence": "high"
+  },
+  {
+    "id": "herefordshire",
+    "summary": "A mild, fairly moist county sheltered by the Welsh hills, with deep, fertile red soils that grow vigorous trees. Chilling is never a problem; the main weather risks are spring frosts in the river valleys and damp autumns that encourage disease.",
+    "apple_culture": "England's leading cider county: Bulmers in Hereford and Westons at Much Marcle built the modern industry here, and large areas are planted with bush orchards of bittersweet cider apples. Old standard orchards grazed by sheep, tall perry pear trees and mistletoe-hung boughs are part of the landscape, and the county's Redstreak cider was famous in Stuart England.",
+    "local_varieties": ["Herefordshire Redstreak", "Foxwhelp", "Brown Snout", "Ten Commandments", "King's Acre Pippin", "Bulmer's Norman", "Michelin", "Dabinett"],
+    "pests_diseases": "Apple scab and European canker are the main diseases in this damp climate, and mistletoe spreads quickly through old standard trees if left alone. Codling moth, woolly aphid and rosy apple aphid are the usual insect pests.",
+    "tips": "For a traditional orchard use vigorous rootstocks (MM111 or seedling) and guard young trunks against grazing stock. Cut out mistletoe every winter before it smothers a branch, and choose scab-tolerant cider and dessert varieties rather than relying on sprays.",
+    "confidence": "high"
+  },
+  {
+    "id": "somerset",
+    "summary": "Mild, humid and green, with low-lying moors and levels that waterlog in winter and gentle hillsides that drain better and escape the worst frosts. Winters are reliably cool enough for apples, summers are rarely hot, and autumns are long and damp.",
+    "apple_culture": "The heart of West Country farmhouse cider: Taunton Deane and the country around the Levels are full of old standard orchards and working cider farms, and the Long Ashton Research Station near Bristol sorted English cider apples into sweets, sharps, bittersweets and bittersharps. January wassails, when the orchard trees are toasted with cider, are still held in many villages.",
+    "local_varieties": ["Kingston Black", "Dabinett", "Yarlington Mill", "Harry Masters Jersey", "Somerset Redstreak", "Stoke Red", "Chisel Jersey", "Morgan Sweet"],
+    "pests_diseases": "European canker and apple scab are persistent in the mild, wet air, especially on poorly drained ground. Mistletoe colonises old orchards, and codling moth, rosy apple aphid and woolly aphid are common.",
+    "tips": "Plant on the best-drained ground you have, never in a wet hollow on the levels, and keep the canopy open so leaves dry quickly after rain. Many cider varieties crop heavily one year and lightly the next, so plant several; Kingston Black in particular is temperamental and best mixed with steadier croppers such as Dabinett.",
+    "confidence": "high"
+  },
+  {
+    "id": "devon",
+    "summary": "Very mild and damp, with soft winters, frequent rain off the Atlantic and a long but seldom hot growing season. The Dart valley around Totnes is sheltered, but the humid air keeps leaves and bark wet for long periods, so fungal disease matters far more than frost or cold.",
+    "apple_culture": "Devon was one of England's great cider counties, with an orchard on almost every farm, and the South Hams around Totnes still has many old orchards, community orchards and small cideries. The county has a large stock of its own varieties, some among the oldest recorded in England, kept in circulation by specialist West Country nurseries and orchard groups.",
+    "local_varieties": ["Devonshire Quarrenden", "Tom Putt", "Sweet Coppin", "Tremlett's Bitter", "Slack-ma-Girdle", "Fair Maid of Devon", "Ellis Bitter"],
+    "pests_diseases": "European canker is the biggest problem, severe on Cox and other varieties bred for the drier east, with apple scab close behind. Woolly aphid and brown rot are common, while powdery mildew is milder than in eastern counties.",
+    "tips": "Choose West Country varieties that have proved themselves in wet conditions rather than Cox or Gala, and avoid heavy, waterlogged ground. Prune in dry weather, cut canker out promptly, and expect more trouble from disease than from frost.",
+    "confidence": "high"
+  },
+  {
+    "id": "cornwall",
+    "summary": "The mildest part of mainland Britain, with gentle winters, cool summers and frequent wind and rain off the Atlantic. Frost is rarely the problem; salt-laden gales, wind scorch on exposed ground and humidity that favours canker and scab are.",
+    "apple_culture": "Cornwall kept small orchards on many farms and in sheltered valleys such as the Tamar and the creeks around Truro, and a distinctive set of local varieties survived in them. Cornwall Council and local enthusiasts have collected and replanted Cornish apples, and the county has a small but lively craft cider scene.",
+    "local_varieties": ["Cornish Gilliflower", "Cornish Aromatic", "Ben's Red", "Hocking's Green", "Tregonna King", "Colloggett Pippin", "Manaccan Primrose"],
+    "pests_diseases": "European canker and apple scab are the main diseases in the damp, mild climate, and woolly aphid is common. On exposed sites, wind damage, salt burn on leaves and windblown fruit matter as much as any pest.",
+    "tips": "Shelter comes first: plant behind a Cornish hedge, a belt of tough shrubs or in a sheltered valley, and stake firmly. Local Cornish varieties are generally more forgiving of canker and scab than supermarket types, and a semi-vigorous rootstock anchors better in the wind.",
+    "confidence": "high"
+  },
+  {
+    "id": "evesham",
+    "summary": "A sheltered, low-lying vale along the River Avon in the rain shadow of the Welsh hills, so it is warmer, drier and earlier in spring than much of western England. Its weak point is spring frost on the valley floor, while slopes such as the flanks of Bredon Hill usually escape.",
+    "apple_culture": "The Vale of Evesham is one of England's historic fruit and market-garden districts, best known for its plums, with apples and pears too and a blossom trail through the villages each spring. Worcestershire raised a notable set of apples, most famously Worcester Pearmain, and Pershore has a long horticultural-college tradition.",
+    "local_varieties": ["Worcester Pearmain", "Pitmaston Pine Apple", "Edward VII", "William Crump", "Madresfield Court", "May Queen", "Lord Hindlip"],
+    "pests_diseases": "Scab and powdery mildew are the regular diseases, with codling moth, apple sawfly and aphids the usual insect pests, and mistletoe is common in old Worcestershire orchards. Blossom frost on the vale floor loses more crops than any pest.",
+    "tips": "Plant on rising ground rather than down by the river if you can, and choose later-flowering varieties for low sites. The fertile soils grow vigorous trees, so a dwarfing or semi-dwarfing rootstock keeps garden trees manageable.",
+    "confidence": "high"
+  },
+  {
+    "id": "fens",
+    "summary": "Flat, open and exposed, with drying winds across the fields and some of the lowest rainfall in Britain. Because the land is so level, cold air has nowhere to drain on still spring nights, so frost at blossom time is a regular risk, and there is little natural shelter.",
+    "apple_culture": "Wisbech and the silt fens around it were a major fruit district, sending cooking apples, plums and soft fruit to jam factories and London markets, though many orchards have since been grubbed out for arable crops. Cambridgeshire raised its own apples, from the Wisbech-area cooker Emneth Early to the Histon varieties of the Chivers jam family.",
+    "local_varieties": ["Emneth Early", "Bramley's Seedling", "Chivers Delight", "Histon Favourite", "Cottenham Seedling", "Lord Peckover"],
+    "pests_diseases": "Low rainfall keeps apple scab moderate, but powdery mildew, codling moth and aphids are common. Frost at blossom and wind damage to young trees and fruit are the bigger threats.",
+    "tips": "Windbreaks are essential on the open fen: plant a hedge or shelterbelt first and stake young trees well. Favour late-flowering varieties and keep fleece handy for cold nights at blossom; the deep silt soils are fertile and moisture-retentive, so dwarfing rootstocks do well here.",
+    "confidence": "medium"
+  },
+  {
+    "id": "york",
+    "summary": "Cooler, with a shorter season than southern England, but fairly dry because the Vale lies in the rain shadow of the Pennines. The flat vale floor collects cold air, so late spring frosts recur, and very late-ripening varieties may not mature in a cool autumn.",
+    "apple_culture": "Yorkshire has a strong heritage of its own apples, led by Ribston Pippin from near Knaresborough, the probable parent of Cox, and York's famous Backhouse nursery introduced several local varieties. The Northern Fruit Group, which meets at RHS Harlow Carr near Harrogate, and community orchards around York grow and trial varieties for northern gardens.",
+    "local_varieties": ["Ribston Pippin", "Yorkshire Greening", "Acklam Russet", "Flower of the Town", "Sharleston Pippin"],
+    "pests_diseases": "Apple scab and European canker are the main diseases, canker especially on heavy, wet clay. Codling moth and aphids are present but usually less damaging than in the warmer south.",
+    "tips": "Choose early and mid-season varieties or proven northern ones rather than late southern keepers, and avoid frost hollows on the vale floor. A warm south-facing wall is worth using for fans or espaliers of choicer varieties.",
+    "confidence": "high"
+  }
+]

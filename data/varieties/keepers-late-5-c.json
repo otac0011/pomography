@@ -1,0 +1,505 @@
+[
+  {
+    "id": "tydemans-late-orange",
+    "name": "Tydeman's Late Orange",
+    "aka": [
+      "Tydeman's Late Cox"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1930,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Laxton's Superb x Cox's Orange Pippin",
+      "raised_by": "H. M. Tydeman, East Malling Research Station"
+    },
+    "history": "Raised at East Malling by H. M. Tydeman in 1930 and introduced in 1949. It was intended as a long-keeping apple with Cox-type flavour, to follow on after Cox in store.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 1,
+      "description": "Conical, Cox-like fruit, greenish-yellow with a brownish orange-red flush and a little russet."
+    },
+    "taste": {
+      "summary": "Very firm, crisp and fairly juicy cream flesh with a rich, aromatic flavour in the Cox style. Quite sharp early in the season, it becomes sweeter and more rounded by midwinter.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; improves in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A spur-bearing tree; thinning the fruitlets helps keep the apples a good size."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowers slightly after Cox, in the same window as Laxton's Superb; partners from groups 3-5 work."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and eastern England and similar temperate climates with a long autumn to finish the fruit before mid-October picking.",
+      "poor_climates": "Short, cool seasons may not ripen it fully; hot climates are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded; with Cox as a parent, watch for scab and canker."
+    },
+    "grow_notes": "A good choice for anyone who loves Cox and wants fruit into spring. Grow in a sunny, sheltered spot on well-drained soil with a group 3-5 pollinator, pick in mid-October and keep the fruit cool until after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "wheelers-russet",
+    "name": "Wheeler's Russet",
+    "aka": [
+      "Reinette Grise de Wheeler"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England (grown at Brompton Park Nursery, London, by 1717)",
+      "year": 1717,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English russet long credited to James Wheeler, founder of a Gloucester nursery. Robert Hogg doubted this because he found it listed in a Brompton Park Nursery day-book of 1717, when Wheeler would have been a small child, so its true origin is unknown.",
+    "look": {
+      "size": "medium",
+      "shape": "irregular",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 3,
+      "description": "Somewhat irregular, rounded fruit almost entirely coated in pale greyish-yellow russet, with a reddish-brown tinge on the sunny side."
+    },
+    "taste": {
+      "summary": "Greenish-white flesh with a gentle balance of sugar and acid and a light aroma; Victorian writers found it rich and wine-like, especially once the fruit began to shrivel in store. Modern assessments describe it as somewhat soft and only mildly aromatic.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Nineteenth-century accounts describe a healthy, hardy, medium-sized tree that crops well on most soils except wet ones."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering in National Fruit Collection records; plant with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate English conditions, particularly the West Country and Gloucestershire where it has long been grown.",
+      "poor_climates": "Waterlogged soils and very short seasons; no documented performance in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Historically described as healthy; modern disease data are lacking."
+    },
+    "grow_notes": "A long-keeping heritage russet for a well-drained site; it dislikes heavy, wet ground. Pick late and keep in a cool, humid store, since the flavour is best when the skin is just starting to wrinkle.",
+    "conf": "medium"
+  },
+  {
+    "id": "william-crump",
+    "name": "William Crump",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Rowe's Nurseries, Worcester, England",
+      "year": 1908,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Worcester Pearmain",
+      "raised_by": "Mr Carless, foreman at Rowe's Nurseries"
+    },
+    "history": "Raised by Carless, a foreman at Rowe's Nurseries in Worcester, and introduced by the firm. It received an RHS Award of Merit in 1908 and a First Class Certificate in 1910, and it is named after William Crump, a noted head gardener at Madresfield Court.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Conical, fairly large dessert apple almost covered with a bright red flush and darker stripes over a pale yellow ground."
+    },
+    "taste": {
+      "summary": "Firm, fine-textured and juicy, with plenty of sweetness and an intense, rich aromatic flavour drawn from its Cox parent.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with a spreading, flat-topped habit; a regular-bearing spur type."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season blossom; pair with another group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate climates like the English Midlands and south, where both parents do well.",
+      "poor_climates": "Hot summers are likely to reduce its colour and aroma; untested in warm regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Considered of average disease resistance; no single major weakness is widely reported."
+    },
+    "grow_notes": "A rewarding late dessert apple for a sunny garden in southern or central England. Give it a mid-season pollinator, pick in mid-October and let the fruit mature in store until December.",
+    "conf": "high"
+  },
+  {
+    "id": "winter-pearmain",
+    "name": "Winter Pearmain",
+    "aka": [
+      "Sussex Duck's Bill",
+      "Winter Quoining",
+      "English Winter Pearmain",
+      "Sussex Scarlet Pearmain"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Sussex, England (Weald)",
+      "year": null,
+      "year_note": "",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old English apple, long grown in the Sussex Weald as Duck's Bill and sold on the London markets as Winter Pearmain or Winter Quoining. Its date of origin is unknown, and the name has often been mixed up with the medieval Pearmain. It is unrelated to the American 'White Winter Pearmain'.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Tall, conical, noticeably ribbed fruit, greenish ripening to deep yellow, flushed and streaked with red to crimson and freckled with russet dots."
+    },
+    "taste": {
+      "summary": "Firm, crisp, juicy yellowish flesh, sweet with a brisk, pleasant acidity. Usable for both dessert and the kitchen through the winter.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "A hardy, medium-sized tree that crops regularly. Reported as triploid, so it is no use as a pollinator."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (National Fruit Collection records it with Egremont Russet). As a reported triploid it needs two diploid partners in groups 1-3."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild south-east England, especially the Weald of Sussex and Kent where it was a traditional orchard apple.",
+      "poor_climates": "Frost-prone sites threaten its early blossom; no evidence of use in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Shows some susceptibility to powdery mildew and fire blight; otherwise not well recorded."
+    },
+    "grow_notes": "A good traditional orchard tree for south-east England. Avoid frost pockets because it flowers early, and provide two early-flowering diploid pollinators since it is a triploid.",
+    "conf": "medium"
+  },
+  {
+    "id": "xanthous",
+    "name": "Xanthous",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Keepers Nursery lists this name among its late-season dessert apples, but no independent record of an apple called Xanthous could be found in the UK National Fruit Collection, Orange Pippin or other pomological sources. The name is an English word meaning yellow, but origin and characteristics are unverified.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": null
+    },
+    "taste": {
+      "summary": "Not recorded in any independent source available to us.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Unknown."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": null,
+      "poor_climates": null
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Unknown."
+    },
+    "grow_notes": "No independent growing advice available; ask the supplying nursery for its experience with the tree.",
+    "conf": "low"
+  },
+  {
+    "id": "zabergau-reinette",
+    "name": "Zabergau Reinette",
+    "aka": [
+      "Zabergau Renette",
+      "Graue Renette von Zabergau",
+      "Hausener Graue Renette"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Hausen an der Zaber, Wurttemberg, Germany",
+      "year": 1885,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A German russet reinette grown from seed sown in 1885 at Hausen on the river Zaber in Wurttemberg. It is triploid, which helps explain why its fruit is much larger than most russets.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 3,
+      "description": "Big, broad, rounded-conical apple largely covered in grey-brown russet over a greenish-yellow skin, sometimes with a streaky orange flush."
+    },
+    "taste": {
+      "summary": "Firm, dense and fairly juicy yellowish flesh with a rich, nutty flavour that one grower likened to a tart, spicy russet. Sharp and hard straight from the tree, it becomes noticeably sweeter after a month or so in cool storage and then has a few weeks at its best.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "nutty",
+        "sharp",
+        "sweet",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "A strong-growing triploid; reported as a regular, heavy cropper. Attractive blossom."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering. Triploid and a poor pollen donor, so plant two compatible diploids from groups 2-4 nearby."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Central European climates with cold winters and warm summers, like its native Wurttemberg; also does well in southern England.",
+      "poor_climates": "Very short, cool seasons may leave it too sharp; hot, dry climates are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded in English-language sources; the cut flesh browns quickly."
+    },
+    "grow_notes": "Give this vigorous triploid space or a dwarfing rootstock, and plant two diploid pollinators nearby. Pick in mid-October and store cool for several weeks before eating, so that the sharpness has time to mellow.",
+    "conf": "high"
+  }
+]

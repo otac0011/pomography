@@ -1,0 +1,103 @@
+{
+ "batch": "north-american-heritage-2",
+ "theme": "north-american-heritage",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "golden-russet",
+   "name": "Golden Russet",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "hubbardston-nonesuch",
+   "name": "Hubbardston Nonesuch",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "tompkins-king",
+   "name": "Tompkins King",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "summer-rambo",
+   "name": "Summer Rambo",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "westfield-seek-no-further",
+   "name": "Westfield Seek-No-Further",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "virginia-beauty",
+   "name": "Virginia Beauty",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "hewes-crab",
+   "name": "Hewes Crab",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "smokehouse",
+   "name": "Smokehouse",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "sheepnose",
+   "name": "Sheepnose",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "magnum-bonum",
+   "name": "Magnum Bonum",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "yates",
+   "name": "Yates",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "limbertwig",
+   "name": "Limbertwig",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "fall-pippin",
+   "name": "Fall Pippin",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "early-harvest",
+   "name": "Early Harvest",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "american-mother",
+   "name": "American Mother",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "pink-pearl",
+   "name": "Pink Pearl",
+   "theme": "north-american-heritage",
+   "keepers": false
+  }
+ ]
+}

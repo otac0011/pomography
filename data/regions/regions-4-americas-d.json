@@ -1,0 +1,101 @@
+[
+  {
+    "id": "okanagan",
+    "summary": "Semi-arid interior valley of long, deep lakes: cold winters with ample chilling but occasional damaging arctic outbreaks, and hot, dry, sunny summers. The lakes moderate the benches along their shores, irrigation is essential, and fungal disease pressure is low compared with the coast.",
+    "apple_culture": "The Okanagan is British Columbia's fruit bowl, and the federal research station at Summerland bred Spartan and many other apples; Ambrosia was discovered as a chance seedling in the neighbouring Similkameen. The valley is also known for its area-wide sterile insect programme against codling moth and for the non-browning Arctic apples developed in Summerland.",
+    "local_varieties": ["McIntosh", "Spartan", "Ambrosia", "Gala", "Honeycrisp", "Salish", "Nicola", "Aurora Golden Gala"],
+    "pests_diseases": "Codling moth is the key pest, kept low by releases of sterile moths; property owners with host trees are legally responsible for controlling it. Powdery mildew and fire blight are the main diseases, and sunburn and bitter pit affect fruit in the hot summers.",
+    "tips": "Irrigate regularly and keep up codling moth control (banding, bagging, picking up drops), since the regional programme expects it of backyard growers. Choose mildew-resistant varieties, avoid frost-prone low ground, and protect trunks from winter sunscald.",
+    "confidence": "high"
+  },
+  {
+    "id": "georgian-bay",
+    "summary": "Southern Georgian Bay, where the Niagara Escarpment meets the bay: the water delays spring bloom and lengthens autumn on the slopes, while heavy lake-effect snow insulates the ground in winter. Summers are warm and humid; further south, Lake Ontario similarly moderates the Niagara Peninsula.",
+    "apple_culture": "The Blue Mountains and Meaford shore form Ontario's largest apple-growing area, with orchards dating to the 1840s, an Apple Pie Trail, and a revived cider industry. Niagara is better known for tender fruit and wine, but grows apples too and hosts the Vineland research centre.",
+    "local_varieties": ["Northern Spy", "McIntosh", "Empire", "Honeycrisp", "Ambrosia", "Gala", "Red Prince", "Spartan"],
+    "pests_diseases": "Apple scab is the main disease in the cool, wet springs, with fire blight in warm bloom periods. Codling moth, apple maggot and plum curculio are the key insects.",
+    "tips": "Plant on slopes with a view of the water for frost protection and good air drainage. Northern Spy is slow to come into bearing, so put it on a dwarfing rootstock, and consider scab-resistant varieties for low-spray growing.",
+    "confidence": "medium"
+  },
+  {
+    "id": "annapolis",
+    "summary": "Sheltered valley between the North and South Mountains near the Bay of Fundy: cold winters tempered by the sea, cool springs, and mild, often humid summers with fog off the bay. It is cooler and damper than inland apple regions, so scab pressure is high and very late varieties can struggle.",
+    "apple_culture": "The Annapolis Valley has grown apples since Acadian and Planter times and once exported huge quantities to Britain. The Apple Blossom Festival has run since the 1930s, the federal Kentville research centre is here, and Honeycrisp plantings and craft cider have revived the industry.",
+    "local_varieties": ["Gravenstein", "McIntosh", "Cortland", "Northern Spy", "Honeycrisp", "Ambrosia", "Idared"],
+    "pests_diseases": "Apple scab is the dominant disease in the cool, moist climate, and fire blight occurs in warm springs. Apple maggot is a key insect, and invasive winter moth caterpillars defoliate fruit and shade trees in spring.",
+    "tips": "Choose scab-resistant varieties or plan a fungicide programme, and prune for airflow. Early- to mid-season varieties ripen most reliably, and sticky bands help against winter moth.",
+    "confidence": "high"
+  },
+  {
+    "id": "rougemont",
+    "summary": "Monteregie plain around Mont Rougemont, south-east of Montreal: cold, snowy winters with occasional deep cold, and warm, humid summers. Orchards climb the hill's slopes, where cold air drains away, and the snow cover protects roots.",
+    "apple_culture": "Rougemont is one of the centres of Quebec's apple country, with u-pick orchards, family cideries and the head office of the Lassonde juice company. Quebec invented ice cider (cidre de glace) and has a long McIntosh tradition alongside the heritage Fameuse.",
+    "local_varieties": ["McIntosh", "Cortland", "Spartan", "Empire", "Lobo", "Paula Red", "Honeycrisp", "Fameuse"],
+    "pests_diseases": "Apple scab is the main disease (McIntosh is very susceptible), with fire blight in some years. Apple maggot, plum curculio and tarnished plant bug are the main insects.",
+    "tips": "Use cold-hardy rootstocks and varieties, and plant on a slope rather than flat low ground. Grow scab-resistant varieties or follow a scab programme, and protect trunks from voles and rabbits over winter.",
+    "confidence": "high"
+  },
+  {
+    "id": "edmonton",
+    "summary": "Northern prairie parkland: long, very cold winters with swings between thaws and deep cold, then short but sunny summers with long days. Survival through winter and ripening before autumn frost limit apples far more than chilling.",
+    "apple_culture": "Edmonton has an active hardy-fruit community and many backyard trees, mostly of prairie-bred apples and crab hybrids from the Morden, Saskatchewan and Alberta programmes. Volunteer groups harvest surplus backyard fruit across the city.",
+    "local_varieties": ["Norkent", "Prairie Sun", "Heyer 12", "September Ruby", "Battleford", "Parkland", "Norland", "Goodland"],
+    "pests_diseases": "Fire blight is the most serious disease in warm, wet summers, and scab appears in damp years. Winter dieback, sunscald, and damage from rabbits, voles and deer are frequent.",
+    "tips": "Grow only prairie-hardy varieties on very hardy rootstocks such as Malus baccata or Ranetka types, and plant in a sheltered spot. Paint or wrap trunks against sunscald and guard them against rodents.",
+    "confidence": "medium"
+  },
+  {
+    "id": "winnipeg",
+    "summary": "Deep continental prairie: among the coldest winters of any large city, hot summers, and a short frost-free season. Winter hardiness and early ripening decide everything, and the heavy clay soils can be slow to drain in spring.",
+    "apple_culture": "Manitoba's Morden research station, south of Winnipeg, has bred hardy apples since the early twentieth century, including Goodland, Norland, Parkland and Westland. Winnipeg gardens are full of these prairie apples and crab hybrids rather than standard supermarket varieties.",
+    "local_varieties": ["Goodland", "Norland", "Parkland", "Westland", "Prairie Sun", "Dolgo", "Rescue"],
+    "pests_diseases": "Fire blight is a major disease, and scab occurs in wet years. Spring and fall cankerworms defoliate trees in some years, and rabbits and voles girdle trunks in winter.",
+    "tips": "Choose Morden and Saskatchewan releases on hardy rootstock, and paint or wrap trunks against sunscald. Fit rodent guards before snow and prune out fire blight promptly in dry weather.",
+    "confidence": "medium"
+  },
+  {
+    "id": "reykjavik",
+    "summary": "Cool, windy subpolar oceanic climate: mild winters for the latitude but cool, short summers with little warmth to grow and ripen fruit. Wind and lack of summer heat, not winter cold, are what make apples so difficult.",
+    "apple_culture": "Apples have never been a traditional crop in Iceland, though a small number of enthusiasts and a horticultural trial in Reykjavik are testing very hardy, early varieties. Most Icelandic fruit growing is under glass, using geothermal heat.",
+    "local_varieties": [],
+    "pests_diseases": "Classic apple pests are largely absent; the problems are wind damage, wood that fails to ripen before winter, and fruit that never matures.",
+    "tips": "Realistic only as an experiment: choose the earliest, hardiest varieties from Scandinavian or Canadian programmes, plant against a sheltered, sunny wall, and use windbreaks. A greenhouse or polytunnel is the most reliable way to get fruit.",
+    "confidence": "low"
+  },
+  {
+    "id": "tromso",
+    "summary": "Arctic coastal climate warmed by the North Atlantic: winters are long and dark but not extremely cold, and summers are cool with continuous daylight but little heat. The growing season is far too cool and short for apples to ripen reliably.",
+    "apple_culture": "Apples are not grown commercially this far north; Norway's fruit districts lie far to the south along the western fjords. A few gardeners keep very hardy trees in sheltered spots as a curiosity, and Tromso's Arctic-Alpine Botanic Garden showcases what survives this far north.",
+    "local_varieties": [],
+    "pests_diseases": "Pests and diseases are minor compared with the climate; failure to ripen wood and fruit, winter dieback and snow breakage are the real problems.",
+    "tips": "Not realistic for a crop. If you want to try, choose the earliest, hardiest summer varieties or crab apples, plant against a south-facing wall, and consider an unheated greenhouse; berries such as currants are far more rewarding here.",
+    "confidence": "low"
+  },
+  {
+    "id": "singapore",
+    "summary": "Equatorial lowland climate: hot and humid every day of the year, with heavy rain and no winter at all. Apple trees get no cold signal for dormancy, and the constant heat and humidity favour disease.",
+    "apple_culture": "Apples are not grown in Singapore. In the wider region, apples are produced only in cooler highlands such as Batu in East Java, where growers strip the leaves by hand to force flowering and can harvest twice a year.",
+    "local_varieties": [],
+    "pests_diseases": "If tried, trees suffer from fungal leaf diseases, fruit flies and general heat stress, and rarely flower properly.",
+    "tips": "Not realistic. A potted low-chill variety such as Anna, defoliated by hand, may produce a few fruit as a novelty, but local tropical fruits are a far better use of space.",
+    "confidence": "high"
+  },
+  {
+    "id": "dubai",
+    "summary": "Hot desert coast: extremely hot, humid summers, very mild winters with essentially no chilling, and sandy, often saline soils. The combination of heat, no winter rest and salt makes apples one of the worst-suited fruit trees here.",
+    "apple_culture": "Apples are imported, not grown; the region's traditional tree crop is the date palm, with citrus, mango and other heat-loving fruit in gardens. Even the low-chill apples bred for Israel's hot regions struggle in coastal Gulf conditions.",
+    "local_varieties": [],
+    "pests_diseases": "Heat stress, sunburn, salt injury and iron deficiency in alkaline sand are the main problems rather than insects or fungal disease.",
+    "tips": "Not realistic outdoors. If you must try, choose a low-chill variety such as Anna or Ein Shemer, give heavy shade, plenty of desalinated water and good organic soil, and expect little fruit; dates, figs and pomegranates are better choices.",
+    "confidence": "medium"
+  },
+  {
+    "id": "mexico-city",
+    "summary": "High-altitude basin within the tropics: mild, dry winters with some frosty nights but limited chilling, and a warm, rainy summer season. Apples leaf out and flower unevenly after weak winters, and the dry spring means trees need watering just when they flower.",
+    "apple_culture": "Apples are a garden tree rather than a crop in the city, but the surrounding highlands of Puebla, Tlaxcala and the State of Mexico have small traditional orchards of criollo apples, and Puebla towns such as Huejotzingo and Zacatlan are known for cider. Criollo apples are sold in markets in late summer.",
+    "local_varieties": ["Anna", "Rayada", "Panochera"],
+    "pests_diseases": "Scab and powdery mildew build up in the summer rains, and codling moth is present. Uneven bloom after warm winters reduces crops.",
+    "tips": "Choose low-chill varieties or local criollo types, and consider stripping leaves in early winter to synchronise bloom. Water through the dry season, and prune for an open canopy to help leaves dry during the rains.",
+    "confidence": "medium"
+  }
+]

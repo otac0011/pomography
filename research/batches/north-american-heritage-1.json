@@ -1,0 +1,103 @@
+{
+ "batch": "north-american-heritage-1",
+ "theme": "north-american-heritage",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "rome-beauty",
+   "name": "Rome Beauty",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "stayman-winesap",
+   "name": "Stayman Winesap",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "winesap",
+   "name": "Winesap",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "york-imperial",
+   "name": "York Imperial",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "arkansas-black",
+   "name": "Arkansas Black",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "ben-davis",
+   "name": "Ben Davis",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "baldwin",
+   "name": "Baldwin",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "roxbury-russet",
+   "name": "Roxbury Russet",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "newtown-pippin",
+   "name": "Newtown Pippin",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "yellow-bellflower",
+   "name": "Yellow Bellflower",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "tolman-sweet",
+   "name": "Tolman Sweet",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "grimes-golden",
+   "name": "Grimes Golden",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "black-twig",
+   "name": "Black Twig",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "gravenstein",
+   "name": "Gravenstein",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "red-astrachan",
+   "name": "Red Astrachan",
+   "theme": "north-american-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lodi",
+   "name": "Lodi",
+   "theme": "north-american-heritage",
+   "keepers": false
+  }
+ ]
+}

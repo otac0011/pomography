@@ -1,0 +1,123 @@
+{
+ "batch": "crab-apples-and-pollinators-1",
+ "theme": "crab-apples-and-pollinators",
+ "count": 19,
+ "varieties": [
+  {
+   "id": "dolgo",
+   "name": "Dolgo",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": true,
+   "keepers_slug": "dolgo",
+   "keepers_cat": "crab-apple"
+  },
+  {
+   "id": "golden-hornet",
+   "name": "Golden Hornet",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "john-downie",
+   "name": "John Downie",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "evereste",
+   "name": "Evereste",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "red-sentinel",
+   "name": "Red Sentinel",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "butterball",
+   "name": "Butterball",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "jelly-king",
+   "name": "Jelly King",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "transcendent",
+   "name": "Transcendent",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "siberian-crab",
+   "name": "Siberian Crab",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "profusion",
+   "name": "Profusion",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "red-jade",
+   "name": "Red Jade",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "harry-baker",
+   "name": "Harry Baker",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "lady-northcliffe",
+   "name": "Lady Northcliffe",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "rescue",
+   "name": "Rescue",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "hyslop",
+   "name": "Hyslop",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "chestnut-crab",
+   "name": "Chestnut Crab",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "centennial",
+   "name": "Centennial",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "parkland",
+   "name": "Parkland",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  },
+  {
+   "id": "sweet-sixteen",
+   "name": "Sweet Sixteen",
+   "theme": "crab-apples-and-pollinators",
+   "keepers": false
+  }
+ ]
+}

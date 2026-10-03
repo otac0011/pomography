@@ -1,0 +1,504 @@
+[
+  {
+    "id": "shenandoah",
+    "name": "Shenandoah",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Virginia Polytechnic Institute, Blacksburg, Virginia",
+      "year": 1942,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Winesap x Opalescent",
+      "raised_by": "R. C. Moore, Virginia Polytechnic Institute"
+    },
+    "history": "Bred in 1942 by R. C. Moore at Virginia Polytechnic Institute from Winesap and Opalescent, and released in 1967. Named for Virginia's apple-growing Shenandoah Valley.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, rounded-conical apple with a mottled and striped orange-red flush over yellow."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, yellowish flesh with a sweet, lightly perfumed flavour; pleasant raw but at its most useful in the kitchen, where slices hold their shape.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "A fairly vigorous, vase-shaped spur-bearer that starts cropping young and crops heavily."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred for the warm-summer, cold-winter conditions of Virginia and the mid-Atlantic uplands; also fruits in the UK national collection.",
+      "poor_climates": "Very cold northern winters are probably beyond it; untested in subtropical regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "General disease resistance reported as good, with some fire blight tolerance."
+    },
+    "grow_notes": "A useful dual-purpose apple where summers are warm. Plant in full sun with a mid-season pollinator and allow room for a fairly vigorous tree.",
+    "conf": "medium"
+  },
+  {
+    "id": "st-edmunds-pippin",
+    "name": "St Edmund's Pippin",
+    "aka": [
+      "St Edmund's Russet",
+      "Early Golden Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bury St Edmunds, Suffolk, England",
+      "year": 1875,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "R. Harvey"
+    },
+    "history": "Raised by Mr R. Harvey at Bury St Edmunds in Suffolk and first recorded in 1875, the same year it received an RHS First Class Certificate. One of the earliest russets to ripen and a parent of Benenden Early.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 3,
+      "description": "Rounded fruit almost wholly covered in smooth golden-brown russet over a greenish-yellow skin."
+    },
+    "taste": {
+      "summary": "Juicy, fine-textured cream flesh, firm when picked, with a sweet, rich flavour often likened to pear and a touch of acidity. It is at its best within a few weeks and turns soft and dull if kept.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "pear",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Sep-Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous and reliable; prune as a spur-bearer."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; pair with another group 1-3 diploid."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, fairly dry East Anglian and southern English conditions.",
+      "poor_climates": "Undocumented in hot or continental climates; early blossom is exposed in frost pockets."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No major weaknesses widely reported, but specific disease ratings are not recorded."
+    },
+    "grow_notes": "A good early russet for eastern and southern England. Avoid frost hollows because it blooms early, pick when the russet turns golden, and eat within a month.",
+    "conf": "medium"
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Ightham, Kent, England",
+      "year": 1918,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Cox's Orange Pippin, pollen parent unknown",
+      "raised_by": "G. C. Addy"
+    },
+    "history": "Raised around 1918 by G. C. Addy at Ightham in Kent, almost certainly from a Cox pip, and named in 1933. It received an RHS Award of Merit in 1960 and an Award of Garden Merit, and is the standard 'easy Cox' for gardens.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Cox-like fruit: golden-yellow with an orange-red flush and stripes and light russet patches."
+    },
+    "taste": {
+      "summary": "Crisp, fine, cream flesh with a sweet, aromatic Cox-like flavour and gentle acidity. In good summers it rivals Cox; in dull years it is still sweet and crisp but less complex.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "A compact, moderate grower that crops heavily and regularly; fruit stays small unless thinned."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile, with frost-resistant blossom; crops better with a group 2-4 partner and is a good pollinator itself."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Throughout Britain, including cooler, wetter and more northerly gardens where Cox fails.",
+      "poor_climates": "Hot-summer regions are untested and likely to soften the fruit and dull its colour."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Far healthier than Cox, with fair canker resistance, though scab can still appear; small fruit if not thinned."
+    },
+    "grow_notes": "The best choice for a Cox-style apple in a small or northern garden. Thin to one or two fruits per cluster in June and store in a cool place or fridge.",
+    "conf": "high"
+  },
+  {
+    "id": "telstar",
+    "name": "Telstar",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "Greytown, Wairarapa, New Zealand",
+      "year": 1934,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Kidd's Orange Red (per UK National Fruit Collection; another source gives Kidd's Orange Red x Cox)",
+      "raised_by": "J. H. Kidd"
+    },
+    "history": "Raised in 1934 by J. H. Kidd at Greytown in New Zealand's Wairarapa, the breeder also responsible for Kidd's Orange Red and Gala, but not named until 1965. If the national collection's parentage is right it shares both parents with Gala; it is little grown and survives mainly in collections.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": 1,
+      "description": "Truncated-conical, somewhat ribbed fruit, greenish-yellow streaked with orange."
+    },
+    "taste": {
+      "summary": "Firm, coarse cream flesh with a sweet, rich flavour and only mild acidity; described as strongly flavoured and sweeter than Cox.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "No reliable growing data recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from Brogdale flowering dates (borderline 3/4)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised in the temperate Wairarapa of New Zealand and grown in the UK national collection in Kent; little else recorded.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A rarity for collectors of Kidd's New Zealand apples. Treat as a standard mid-season diploid: sunny site, pollinator in group 2-4, spur pruning.",
+    "conf": "low"
+  },
+  {
+    "id": "wickson-crab",
+    "name": "Wickson Crab",
+    "aka": [
+      "Wickson"
+    ],
+    "uses": [
+      "crab",
+      "cider",
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ettersburg, Humboldt County, California",
+      "year": 1944,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Two of Etter's own crab seedlings, recorded by him as 'Spitzenburg crab' x 'Newtown crab'",
+      "raised_by": "Albert Etter"
+    },
+    "history": "Bred by the Californian plant breeder Albert Etter at Ettersburg and introduced by the California Nursery Company in 1944, with a plant patent following in 1947. Named after his friend, the pomologist Edward J. Wickson; it has become a prized single-variety cider apple in North America.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": null,
+      "russet": 0,
+      "description": "Golf-ball-sized yellow crab apple with a red to orange-red cheek."
+    },
+    "taste": {
+      "summary": "Startlingly intense for a tiny fruit: very high sugar matched by high acid gives a clean, concentrated sweet-tart flavour, with a slight tannic grip to some palates. Excellent fresh and prized in cider blends; it needs plenty of summer heat to reach top quality and keeps only two or three weeks.",
+      "sweet": 5,
+      "acid": 5,
+      "aroma": 4,
+      "tannin": 1,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp",
+        "astringent"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Sep-Nov, fresh from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, hardy and productive, cropping annually; fruit hangs well."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; a good pollinator for other early and mid-season apples."
+    },
+    "season": {
+      "harvest": "late Sep-mid Oct",
+      "eating": "Sep-Nov",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer climates such as northern California and the Pacific Northwest, where heat builds its exceptional sugar levels.",
+      "poor_climates": "In cool, dull summers it reaches less sugar and flavour; otherwise widely adaptable and cold-hardy."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Some susceptibility to scab and cedar-apple rust; generally regarded as a trouble-free tree."
+    },
+    "grow_notes": "Give it the sunniest, warmest spot you have to get full sugar. Useful as a cider blending apple and as a pollinator; harvest by taste in UK conditions since timing is not well documented here.",
+    "conf": "medium"
+  },
+  {
+    "id": "wolf-river",
+    "name": "Wolf River",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Near the Wolf River, Fremont, Wisconsin",
+      "year": 1875,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Seedling of Alexander, pollen parent unknown",
+      "raised_by": "W. A. Springer"
+    },
+    "history": "Found by W. A. Springer near the Wolf River at Fremont, Wisconsin, and recorded in 1875; believed to be a seedling of the Russian apple Alexander. Famous for huge fruit and great cold-hardiness, it became a farmstead cooking apple across the northern United States.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broad, flattish apple heavily striped and flushed red over pale yellow."
+    },
+    "taste": {
+      "summary": "Soft, often dry greenish-white flesh with a fairly sweet, mildly tart flavour; many find it bland or spongy raw, though fruit left until after a frost can be juicier and better. It shines in pies and baking, holding its shape and gaining flavour with little added sugar, and stores for three months or more.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "mild",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec, mainly for cooking and drying"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Vigorous, wide-spreading and slow to start bearing; branches may need support under the weight of its huge fruit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold continental regions such as Wisconsin, Minnesota and the Canadian prairies, where few large apples survive the winter.",
+      "poor_climates": "Hot, long summers are not its natural range; in mild maritime climates it grows well but its main advantage, hardiness, is wasted."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": 3,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Very scab-resistant and generally healthy; some fire blight susceptibility reported."
+    },
+    "grow_notes": "An ideal cooking apple for cold, exposed northern gardens. Use a semi-vigorous rootstock, be patient for first crops, and thin to get the giant fruit it is known for.",
+    "conf": "high"
+  }
+]

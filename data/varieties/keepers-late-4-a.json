@@ -1,0 +1,604 @@
+[
+  {
+    "id": "merton-russet",
+    "name": "Merton Russet",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "John Innes Horticultural Institution, Merton, Surrey (now south London), England",
+      "year": 1921,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Sturmer Pippin x Cox's Orange Pippin",
+      "raised_by": "M.B. Crane, John Innes Horticultural Institution"
+    },
+    "history": "A deliberate cross made in 1921 by M.B. Crane at the John Innes institute in Merton, combining the long-keeping Sturmer Pippin with Cox. It was named in 1943 and is kept in the National Fruit Collection, but it never became a commercial apple.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 2,
+      "description": "Medium, truncated-conical fruit with a yellow ground largely overlaid by russet, showing some red flush through it."
+    },
+    "taste": {
+      "summary": "Small golden russet from a Sturmer Pippin x Cox cross, with very crisp, juicy, deep-yellow flesh and a complex sweet, spicy flavour. A late apple that holds its quality into the winter.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb, after some weeks in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little published growing data. Both parents are diploid spur-bearers, so treat it as a normal spur-pruned diploid until it shows otherwise."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 2 and flowers early at Brogdale; pair with an early-to-mid flowering diploid (groups 1-3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate lowland Britain and similar maritime climates with long, mild autumns to finish a mid-October apple.",
+      "poor_climates": "Untested in hot or very cold climates; very short seasons may not ripen it, and hot summers are likely to blunt its acidity."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded. Its Cox parent passes on canker and mildew susceptibility to many offspring, so watch for both."
+    },
+    "grow_notes": "A collector's russet for a sunny, sheltered garden in southern Britain. Plant with an early-flowering partner, pick in mid October and store cool to eat after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "nonpareil",
+    "name": "Nonpareil",
+    "aka": [
+      "Old Nonpareil",
+      "English Nonpareil",
+      "Reinette Nonpareille"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": null,
+      "year": 1550,
+      "year_note": "c.",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old russet apple, generally believed to be French, that reached England around the mid-16th century. It was one of the most esteemed dessert apples of the 17th to 19th centuries and gave its name to a whole group of 'Nonpareil' russets.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 2,
+      "description": "Small to medium, flattish fruit, greenish yellow under a heavy coat of russet dots and patches, sometimes with a faint brownish-red flush."
+    },
+    "taste": {
+      "summary": "One of the small group of pear-drop apples: a strong pear-drop flavour with lively, wine-like acidity and an aftertaste some growers liken to honey and pear. Growers disagree on texture, some finding the flesh soft and sponge-like with modest juice, others surprisingly juicy. Best kept until mid-winter, when it sweetens.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "pear-drop",
+        "wine",
+        "honey",
+        "pear",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous spur-bearer; little modern detail on habit or regularity."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not reliably published; at Brogdale it flowers in the early-to-mid part of the season, so a group 2-3 partner is a safe choice."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sheltered sites in southern England and northern France, where it has a long autumn to build sugar before picking.",
+      "poor_climates": "Cold, wet northern sites where a late apple may not ripen; very hot summers are likely to cost it the sharpness that defines it."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded in modern trials."
+    },
+    "grow_notes": "Give it the warmest wall or sheltered sunny spot available, as old growers did. Pick in mid October and store cool; the flavour is not at its best until mid-winter.",
+    "conf": "medium"
+  },
+  {
+    "id": "norfolk-beefing",
+    "name": "Norfolk Beefing",
+    "aka": [
+      "Norfolk Biffin",
+      "Catshead Beaufin",
+      "Reeds Baker",
+      "Taliesin",
+      "Winter Coleman"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Norfolk, England",
+      "year": 1698,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Norfolk apple: estate records from 1698 mention it being sent to London for Robert Walpole, though the National Fruit Collection's first formal record is 1807. It was famous for 'biffins', whole apples slowly baked and pressed flat, which Norwich bakers sold and Dickens mentions in A Christmas Carol.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, flattish and somewhat ribbed, green-yellow under an extensive dull crimson to maroon flush and streaks, darkening in store."
+    },
+    "taste": {
+      "summary": "Very firm, coarse, juicy flesh that is strongly acidic at picking. It sweetens slowly in store and by late winter or spring can be eaten fresh; baked or dried it becomes dense, rich and sweet.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Cook from Jan; raw by Mar-Jun once mellowed"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous and a heavy, regular cropper; thin fruitlets in heavy years. Sources disagree on ploidy (one lists it as triploid, another as diploid), so do not rely on it as a pollinator."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not reliably published; it flowers mid-season at Brogdale. Ploidy is disputed, so plant two other mid-season diploids nearby to be safe."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Jan-Jun",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, relatively dry East Anglian conditions and similar cool temperate lowlands with a long autumn.",
+      "poor_climates": "Hot-summer regions are likely to give poorer colour and keeping; very short seasons may not mature a mid-October apple."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have some resistance to scab and mildew; other diseases not well recorded."
+    },
+    "grow_notes": "A robust heritage cooker for East Anglia and similar climates; give it room as it grows strongly. Pick in mid October, store cool and use it through to early summer.",
+    "conf": "medium"
+  },
+  {
+    "id": "northern-spy",
+    "name": "Northern Spy",
+    "aka": [
+      "Spy"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "East Bloomfield, near Rochester, New York",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; seedling from seed brought from Salisbury, Connecticut",
+      "raised_by": "Chapin family orchard (Heman / Oliver Chapin)"
+    },
+    "history": "Grew in the Chapin family's seedling orchard at East Bloomfield, New York, around 1800 and was introduced about 1840. It became a classic northern US pie and storage apple, and its resistance to woolly aphid led East Malling and John Innes to use it as a parent of the MM rootstock series.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, roundish-conical fruit with thin skin, green-yellow under pinkish-red flush and stripes."
+    },
+    "taste": {
+      "summary": "Crisp, very juicy, fine-grained flesh with a brisk, roughly even sweet-tart balance and a rich aroma; one grower picks out vanilla notes. It keeps three months or more and holds its shape and tang when baked, which is why it is a classic North American pie apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "sweet",
+        "perfumed",
+        "vanilla"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; improves after a month in store"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "upright",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Very vigorous and notoriously slow to come into bearing on strong roots (sometimes 8-10 years); use a dwarfing rootstock. Tends to fall into alternate-year cropping, so thin in heavy years."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Late flowering (group 5), which helps it miss spring frosts; needs a late-flowering diploid partner."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter continental climates such as upstate New York, Michigan and Ontario, where it is winter-hardy and colours well in cool autumns.",
+      "poor_climates": "Hot, humid or low-chill regions where fire blight is severe and colour is poor; in cool British summers the very late fruit may struggle to ripen fully."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": 3,
+      "bitter_pit": 4,
+      "other": "Very susceptible to fire blight and prone to bitter pit; thin skin bruises easily. Resistant to woolly aphid."
+    },
+    "grow_notes": "Graft onto a dwarfing rootstock to bring it into bearing sooner, and plant with another late-flowering variety. Best where winters are cold and autumns long; thin heavy crops to limit biennial bearing.",
+    "conf": "high"
+  },
+  {
+    "id": "nuvar-cheerfull-gold",
+    "name": "Nuvar Cheerfull Gold",
+    "aka": [
+      "Cheerfull Gold",
+      "NC1"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Golden Delicious",
+      "raised_by": "Nuvar"
+    },
+    "history": "A modern English dessert apple released by the developer Nuvar, tested under the code NC1, from a conventional Cox x Golden Delicious cross. One database gives a 1979 date, which may refer to the original cross rather than its release; it was marketed as a Cox-style apple with better storage.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Appearance not well documented; one database records the fruit colour as red despite the name."
+    },
+    "taste": {
+      "summary": "A balanced sweet-sharp apple with a pleasant tang. It lacks the layered aromatics of Cox but has crisper flesh, closer to Golden Delicious, and keeps well.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb; stores for three months or more"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Reported as fairly vigorous, precocious and heavy cropping, and a tip-bearer, so prune lightly and avoid shortening every shoot."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4; pair with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate south-east England, where it was developed; its Golden Delicious side suggests it tolerates warmer summers better than Cox.",
+      "poor_climates": "Untested in very cold or hot climates; fruit is reported to hang on the tree into winter, which needs a frost-free autumn."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease resistance described only as average; no detailed data."
+    },
+    "grow_notes": "A late keeper for gardens in southern Britain. As a tip-bearer it suits a free-standing bush or half-standard better than tightly pruned cordons; pair with a group 4 partner.",
+    "conf": "low"
+  },
+  {
+    "id": "orin",
+    "name": "Orin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Fukushima Prefecture, Japan",
+      "year": 1952,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Indo",
+      "raised_by": "Otsuki, an apple grower in Fukushima Prefecture"
+    },
+    "history": "Raised by a grower named Otsuki in Fukushima Prefecture from Golden Delicious and the Japanese apple Indo, the same parents as Mutsu. The seedling dates from the 1940s (the National Fruit Collection says before 1942) and it was named around 1952; it remains a popular yellow apple in Japan.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, greenish-yellow fruit with conspicuous pale lenticel dots and at most a faint orange cheek."
+    },
+    "taste": {
+      "summary": "Very sweet and honeyed with almost no acidity, aromatic and juicy; some tasters also find tropical-fruit overtones. The flesh is firm with a soft, Honeycrisp-like crunch. Admirers love its fragrance; those who like a sharp apple may find it flat.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "honey",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Average vigour; one source describes it as a tip-bearer. Ploidy is disputed: the National Fruit Collection lists it as triploid, while Japanese growers commonly use it as a pollinizer, which implies diploid."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "UK flowering group not published (it flowered early in the Brogdale records). Ploidy uncertain, so plant two compatible diploids nearby."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid temperate climates with warm summers and long autumns, like its native Tohoku region of Japan.",
+      "poor_climates": "Cool, short-season areas, including much of Britain, where a late-October apple may not ripen or sweeten fully."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour outside Japan not well recorded."
+    },
+    "grow_notes": "Needs a warm, sheltered, sunny spot in Britain to ripen its very late fruit. Leave it on the tree as long as autumn weather allows, then store cool.",
+    "conf": "medium"
+  },
+  {
+    "id": "orleans-reinette",
+    "name": "Orleans Reinette",
+    "aka": [
+      "Reinette d'Orleans",
+      "Winter Ribston"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": null,
+      "year": 1776,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Thought to be French and first described in 1776. It won RHS Awards of Merit in 1914 (as 'Winter Ribston') and 1921, and English connoisseurs such as Edward Bunyard ranked it among the finest winter dessert apples.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium, flattish fruit, golden yellow with a warm orange-red flush on the sunny side and a light netting of russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-textured flesh that is not especially juicy but carries a rich, sweet, nutty and aromatic flavour with balancing acidity, close to Blenheim Orange and often compared with Ashmead's Kernel. One taster found a mango-like note after a week or so in store. Valued for flavour rather than crunch; it keeps its shape when cooked.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "nutty",
+        "sweet",
+        "mango"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Moderately vigorous spur-bearer with some tendency to alternate cropping. Usually listed as triploid, so it is a poor pollen donor."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4. As a triploid it needs two other diploid pollinators in groups 3-5 and will not pollinate them in return."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sunny sites in southern England and continental Europe; it is widely grown in France and Germany.",
+      "poor_climates": "Cold, wet sites where scab is severe and late fruit ripens poorly."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported as susceptible to scab; triploid."
+    },
+    "grow_notes": "Plant in a warm, sunny position for the best flavour, with two diploid partners because it is triploid. Pick in mid October and eat through mid-winter.",
+    "conf": "medium"
+  }
+]

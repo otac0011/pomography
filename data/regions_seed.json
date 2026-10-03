@@ -1,0 +1,1217 @@
+[
+ {
+  "id": "kent",
+  "name": "Kent (East Farleigh and the Weald)",
+  "country": "GB",
+  "lat": 51.25,
+  "lon": 0.47,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "norfolk",
+  "name": "Norfolk (Norwich)",
+  "country": "GB",
+  "lat": 52.63,
+  "lon": 1.3,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "herefordshire",
+  "name": "Herefordshire",
+  "country": "GB",
+  "lat": 52.06,
+  "lon": -2.72,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "somerset",
+  "name": "Somerset (Taunton and the cider country)",
+  "country": "GB",
+  "lat": 51.02,
+  "lon": -3.1,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "devon",
+  "name": "Devon (Totnes)",
+  "country": "GB",
+  "lat": 50.43,
+  "lon": -3.69,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "cornwall",
+  "name": "Cornwall (Truro)",
+  "country": "GB",
+  "lat": 50.26,
+  "lon": -5.05,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "evesham",
+  "name": "Vale of Evesham (Worcestershire)",
+  "country": "GB",
+  "lat": 52.09,
+  "lon": -1.95,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "fens",
+  "name": "Cambridgeshire Fens (Wisbech)",
+  "country": "GB",
+  "lat": 52.67,
+  "lon": 0.16,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "york",
+  "name": "York (Vale of York)",
+  "country": "GB",
+  "lat": 53.96,
+  "lon": -1.08,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "northumberland",
+  "name": "Northumberland (Alnwick)",
+  "country": "GB",
+  "lat": 55.41,
+  "lon": -1.71,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "lothians",
+  "name": "East Lothian and Edinburgh",
+  "country": "GB",
+  "lat": 55.95,
+  "lon": -3.19,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "carse-of-gowrie",
+  "name": "Carse of Gowrie (Perthshire)",
+  "country": "GB",
+  "lat": 56.45,
+  "lon": -3.15,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "highlands",
+  "name": "Scottish Highlands (Inverness)",
+  "country": "GB",
+  "lat": 57.48,
+  "lon": -4.22,
+  "group": "British Isles",
+  "kind": "marginal"
+ },
+ {
+  "id": "south-wales",
+  "name": "South Wales (Usk Valley)",
+  "country": "GB",
+  "lat": 51.7,
+  "lon": -2.9,
+  "group": "British Isles",
+  "kind": "garden"
+ },
+ {
+  "id": "armagh",
+  "name": "County Armagh (Northern Ireland)",
+  "country": "GB",
+  "lat": 54.35,
+  "lon": -6.65,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "tipperary",
+  "name": "Tipperary and Cork (Ireland)",
+  "country": "IE",
+  "lat": 52.35,
+  "lon": -7.7,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "jersey",
+  "name": "Jersey (Channel Islands)",
+  "country": "GB",
+  "lat": 49.19,
+  "lon": -2.11,
+  "group": "British Isles",
+  "kind": "heritage"
+ },
+ {
+  "id": "shetland",
+  "name": "Shetland (Lerwick)",
+  "country": "GB",
+  "lat": 60.15,
+  "lon": -1.15,
+  "group": "British Isles",
+  "kind": "extreme"
+ },
+ {
+  "id": "paris",
+  "name": "Paris (Ile-de-France)",
+  "country": "FR",
+  "lat": 48.86,
+  "lon": 2.35,
+  "group": "France",
+  "kind": "garden"
+ },
+ {
+  "id": "pays-dauge",
+  "name": "Pays d'Auge (Normandy)",
+  "country": "FR",
+  "lat": 49.1,
+  "lon": 0.1,
+  "group": "France",
+  "kind": "heritage"
+ },
+ {
+  "id": "rennes",
+  "name": "Rennes (Brittany)",
+  "country": "FR",
+  "lat": 48.11,
+  "lon": -1.68,
+  "group": "France",
+  "kind": "heritage"
+ },
+ {
+  "id": "angers",
+  "name": "Angers (Loire Valley)",
+  "country": "FR",
+  "lat": 47.47,
+  "lon": -0.55,
+  "group": "France",
+  "kind": "commercial"
+ },
+ {
+  "id": "limousin",
+  "name": "Limousin (Limoges)",
+  "country": "FR",
+  "lat": 45.83,
+  "lon": 1.26,
+  "group": "France",
+  "kind": "commercial"
+ },
+ {
+  "id": "savoie",
+  "name": "Savoie (Chambery)",
+  "country": "FR",
+  "lat": 45.57,
+  "lon": 5.92,
+  "group": "France",
+  "kind": "garden"
+ },
+ {
+  "id": "avignon",
+  "name": "Provence (Avignon)",
+  "country": "FR",
+  "lat": 43.95,
+  "lon": 4.81,
+  "group": "France",
+  "kind": "commercial"
+ },
+ {
+  "id": "toulouse",
+  "name": "Toulouse (Southwest France)",
+  "country": "FR",
+  "lat": 43.6,
+  "lon": 1.44,
+  "group": "France",
+  "kind": "garden"
+ },
+ {
+  "id": "alsace",
+  "name": "Alsace (Strasbourg)",
+  "country": "FR",
+  "lat": 48.58,
+  "lon": 7.75,
+  "group": "France",
+  "kind": "garden"
+ },
+ {
+  "id": "altes-land",
+  "name": "Altes Land (Hamburg)",
+  "country": "DE",
+  "lat": 53.52,
+  "lon": 9.7,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "bodensee",
+  "name": "Lake Constance (Bodensee)",
+  "country": "DE",
+  "lat": 47.65,
+  "lon": 9.4,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "hesse",
+  "name": "Hesse (Frankfurt, Apfelwein country)",
+  "country": "DE",
+  "lat": 50.11,
+  "lon": 8.68,
+  "group": "Northern & Central Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "munich",
+  "name": "Bavaria (Munich)",
+  "country": "DE",
+  "lat": 48.14,
+  "lon": 11.58,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "betuwe",
+  "name": "Betuwe (Netherlands)",
+  "country": "NL",
+  "lat": 51.95,
+  "lon": 5.6,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "haspengouw",
+  "name": "Haspengouw (Belgium)",
+  "country": "BE",
+  "lat": 50.82,
+  "lon": 5.19,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "copenhagen",
+  "name": "Copenhagen (Denmark)",
+  "country": "DK",
+  "lat": 55.68,
+  "lon": 12.57,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "kivik",
+  "name": "Kivik and Scania (Sweden)",
+  "country": "SE",
+  "lat": 55.68,
+  "lon": 14.23,
+  "group": "Northern & Central Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "stockholm",
+  "name": "Stockholm (Sweden)",
+  "country": "SE",
+  "lat": 59.33,
+  "lon": 18.07,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "hardanger",
+  "name": "Hardanger (Norway)",
+  "country": "NO",
+  "lat": 60.4,
+  "lon": 6.6,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "helsinki",
+  "name": "Helsinki (Finland)",
+  "country": "FI",
+  "lat": 60.17,
+  "lon": 24.94,
+  "group": "Northern & Central Europe",
+  "kind": "marginal"
+ },
+ {
+  "id": "tartu",
+  "name": "Tartu (Estonia)",
+  "country": "EE",
+  "lat": 58.38,
+  "lon": 26.72,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "grojec",
+  "name": "Grojec (Poland)",
+  "country": "PL",
+  "lat": 51.87,
+  "lon": 20.87,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "prague",
+  "name": "Bohemia (Prague)",
+  "country": "CZ",
+  "lat": 50.08,
+  "lon": 14.43,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "graz",
+  "name": "Styria (Graz, Austria)",
+  "country": "AT",
+  "lat": 47.07,
+  "lon": 15.44,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "thurgau",
+  "name": "Thurgau (Switzerland)",
+  "country": "CH",
+  "lat": 47.55,
+  "lon": 9.0,
+  "group": "Northern & Central Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "szabolcs",
+  "name": "Szabolcs (Hungary)",
+  "country": "HU",
+  "lat": 47.95,
+  "lon": 21.72,
+  "group": "Northern & Central Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "cluj",
+  "name": "Transylvania (Cluj, Romania)",
+  "country": "RO",
+  "lat": 46.77,
+  "lon": 23.59,
+  "group": "Northern & Central Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "vojvodina",
+  "name": "Vojvodina (Serbia)",
+  "country": "RS",
+  "lat": 45.26,
+  "lon": 19.84,
+  "group": "Northern & Central Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "south-tyrol",
+  "name": "South Tyrol (Bolzano, Italy)",
+  "country": "IT",
+  "lat": 46.5,
+  "lon": 11.35,
+  "group": "Southern Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "saluzzo",
+  "name": "Piedmont (Saluzzo, Italy)",
+  "country": "IT",
+  "lat": 44.64,
+  "lon": 7.49,
+  "group": "Southern Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "bologna",
+  "name": "Emilia-Romagna (Bologna)",
+  "country": "IT",
+  "lat": 44.49,
+  "lon": 11.34,
+  "group": "Southern Europe",
+  "kind": "garden"
+ },
+ {
+  "id": "etna",
+  "name": "Mount Etna (Sicily)",
+  "country": "IT",
+  "lat": 37.75,
+  "lon": 15.0,
+  "group": "Southern Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "asturias",
+  "name": "Asturias (Spain, cider country)",
+  "country": "ES",
+  "lat": 43.36,
+  "lon": -5.85,
+  "group": "Southern Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "lleida",
+  "name": "Lleida (Catalonia)",
+  "country": "ES",
+  "lat": 41.62,
+  "lon": 0.62,
+  "group": "Southern Europe",
+  "kind": "commercial"
+ },
+ {
+  "id": "alcobaca",
+  "name": "Alcobaca (Portugal)",
+  "country": "PT",
+  "lat": 39.55,
+  "lon": -8.98,
+  "group": "Southern Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "pelion",
+  "name": "Pelion (Greece)",
+  "country": "GR",
+  "lat": 39.43,
+  "lon": 23.1,
+  "group": "Southern Europe",
+  "kind": "heritage"
+ },
+ {
+  "id": "moscow",
+  "name": "Moscow (Russia)",
+  "country": "RU",
+  "lat": 55.76,
+  "lon": 37.62,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "garden"
+ },
+ {
+  "id": "michurinsk",
+  "name": "Michurinsk (Tambov, Russia)",
+  "country": "RU",
+  "lat": 52.9,
+  "lon": 40.49,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "heritage"
+ },
+ {
+  "id": "st-petersburg",
+  "name": "St Petersburg (Russia)",
+  "country": "RU",
+  "lat": 59.93,
+  "lon": 30.34,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "marginal"
+ },
+ {
+  "id": "novosibirsk",
+  "name": "Novosibirsk (Siberia)",
+  "country": "RU",
+  "lat": 55.03,
+  "lon": 82.92,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "marginal"
+ },
+ {
+  "id": "kyiv",
+  "name": "Kyiv (Ukraine)",
+  "country": "UA",
+  "lat": 50.45,
+  "lon": 30.52,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "garden"
+ },
+ {
+  "id": "almaty",
+  "name": "Almaty (Kazakhstan, home of the wild apple)",
+  "country": "KZ",
+  "lat": 43.24,
+  "lon": 76.89,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "heritage"
+ },
+ {
+  "id": "tbilisi",
+  "name": "Georgia (Tbilisi and Kakheti)",
+  "country": "GE",
+  "lat": 41.72,
+  "lon": 44.79,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "heritage"
+ },
+ {
+  "id": "amasya",
+  "name": "Amasya (Turkey)",
+  "country": "TR",
+  "lat": 40.65,
+  "lon": 35.83,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "commercial"
+ },
+ {
+  "id": "urmia",
+  "name": "Urmia (Iran)",
+  "country": "IR",
+  "lat": 37.55,
+  "lon": 45.07,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "commercial"
+ },
+ {
+  "id": "golan",
+  "name": "Golan Heights (Israel)",
+  "country": "IL",
+  "lat": 32.99,
+  "lon": 35.69,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "commercial"
+ },
+ {
+  "id": "zahle",
+  "name": "Mount Lebanon and the Bekaa",
+  "country": "LB",
+  "lat": 33.85,
+  "lon": 35.9,
+  "group": "Russia, Caucasus & Middle East",
+  "kind": "heritage"
+ },
+ {
+  "id": "srinagar",
+  "name": "Kashmir (Srinagar)",
+  "country": "IN",
+  "lat": 34.08,
+  "lon": 74.8,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "shimla",
+  "name": "Himachal Pradesh (Shimla)",
+  "country": "IN",
+  "lat": 31.1,
+  "lon": 77.17,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "quetta",
+  "name": "Quetta (Pakistan)",
+  "country": "PK",
+  "lat": 30.18,
+  "lon": 66.99,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "yantai",
+  "name": "Shandong (Yantai, China)",
+  "country": "CN",
+  "lat": 37.46,
+  "lon": 121.45,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "luochuan",
+  "name": "Luochuan (Shaanxi, China)",
+  "country": "CN",
+  "lat": 35.76,
+  "lon": 109.43,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "aksu",
+  "name": "Aksu (Xinjiang, China)",
+  "country": "CN",
+  "lat": 41.17,
+  "lon": 80.26,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "aomori",
+  "name": "Aomori (Japan)",
+  "country": "JP",
+  "lat": 40.82,
+  "lon": 140.74,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "nagano",
+  "name": "Nagano (Japan)",
+  "country": "JP",
+  "lat": 36.65,
+  "lon": 138.18,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "daegu",
+  "name": "Daegu (South Korea)",
+  "country": "KR",
+  "lat": 35.87,
+  "lon": 128.6,
+  "group": "Asia",
+  "kind": "commercial"
+ },
+ {
+  "id": "elgin",
+  "name": "Elgin (Western Cape, South Africa)",
+  "country": "ZA",
+  "lat": -34.15,
+  "lon": 19.0,
+  "group": "Africa",
+  "kind": "commercial"
+ },
+ {
+  "id": "ceres",
+  "name": "Ceres (Western Cape, South Africa)",
+  "country": "ZA",
+  "lat": -33.37,
+  "lon": 19.31,
+  "group": "Africa",
+  "kind": "commercial"
+ },
+ {
+  "id": "ifrane",
+  "name": "Ifrane (Middle Atlas, Morocco)",
+  "country": "MA",
+  "lat": 33.53,
+  "lon": -5.11,
+  "group": "Africa",
+  "kind": "marginal"
+ },
+ {
+  "id": "nairobi",
+  "name": "Nairobi highlands (Kenya)",
+  "country": "KE",
+  "lat": -1.29,
+  "lon": 36.82,
+  "group": "Africa",
+  "kind": "marginal"
+ },
+ {
+  "id": "cape-town",
+  "name": "Cape Town (coastal)",
+  "country": "ZA",
+  "lat": -33.92,
+  "lon": 18.42,
+  "group": "Africa",
+  "kind": "marginal"
+ },
+ {
+  "id": "hawkes-bay",
+  "name": "Hawke's Bay (New Zealand)",
+  "country": "NZ",
+  "lat": -39.49,
+  "lon": 176.92,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "nelson",
+  "name": "Nelson (New Zealand)",
+  "country": "NZ",
+  "lat": -41.27,
+  "lon": 173.28,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "central-otago",
+  "name": "Central Otago (New Zealand)",
+  "country": "NZ",
+  "lat": -45.03,
+  "lon": 169.19,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "auckland",
+  "name": "Auckland (New Zealand)",
+  "country": "NZ",
+  "lat": -36.85,
+  "lon": 174.76,
+  "group": "Australia & New Zealand",
+  "kind": "marginal"
+ },
+ {
+  "id": "huon",
+  "name": "Huon Valley (Tasmania)",
+  "country": "AU",
+  "lat": -43.0,
+  "lon": 147.05,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "goulburn",
+  "name": "Goulburn Valley (Victoria)",
+  "country": "AU",
+  "lat": -36.38,
+  "lon": 145.4,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "batlow",
+  "name": "Batlow (New South Wales)",
+  "country": "AU",
+  "lat": -35.52,
+  "lon": 148.15,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "orange-nsw",
+  "name": "Orange (New South Wales)",
+  "country": "AU",
+  "lat": -33.28,
+  "lon": 149.1,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "manjimup",
+  "name": "Manjimup (Western Australia)",
+  "country": "AU",
+  "lat": -34.24,
+  "lon": 116.15,
+  "group": "Australia & New Zealand",
+  "kind": "commercial"
+ },
+ {
+  "id": "granite-belt",
+  "name": "Granite Belt (Queensland)",
+  "country": "AU",
+  "lat": -28.66,
+  "lon": 151.94,
+  "group": "Australia & New Zealand",
+  "kind": "marginal"
+ },
+ {
+  "id": "perth",
+  "name": "Perth (Western Australia)",
+  "country": "AU",
+  "lat": -31.95,
+  "lon": 115.86,
+  "group": "Australia & New Zealand",
+  "kind": "marginal"
+ },
+ {
+  "id": "sydney",
+  "name": "Sydney (New South Wales)",
+  "country": "AU",
+  "lat": -33.87,
+  "lon": 151.21,
+  "group": "Australia & New Zealand",
+  "kind": "marginal"
+ },
+ {
+  "id": "maule",
+  "name": "Maule Valley (Chile)",
+  "country": "CL",
+  "lat": -35.43,
+  "lon": -71.66,
+  "group": "Latin America",
+  "kind": "commercial"
+ },
+ {
+  "id": "puerto-montt",
+  "name": "Los Lagos (Puerto Montt, Chile)",
+  "country": "CL",
+  "lat": -41.47,
+  "lon": -72.94,
+  "group": "Latin America",
+  "kind": "heritage"
+ },
+ {
+  "id": "rio-negro",
+  "name": "Alto Valle del Rio Negro (Argentina)",
+  "country": "AR",
+  "lat": -39.03,
+  "lon": -67.58,
+  "group": "Latin America",
+  "kind": "commercial"
+ },
+ {
+  "id": "mendoza",
+  "name": "Mendoza (Argentina)",
+  "country": "AR",
+  "lat": -32.89,
+  "lon": -68.84,
+  "group": "Latin America",
+  "kind": "commercial"
+ },
+ {
+  "id": "sao-joaquim",
+  "name": "Sao Joaquim (Brazil)",
+  "country": "BR",
+  "lat": -28.29,
+  "lon": -49.93,
+  "group": "Latin America",
+  "kind": "commercial"
+ },
+ {
+  "id": "chihuahua",
+  "name": "Cuauhtemoc (Chihuahua, Mexico)",
+  "country": "MX",
+  "lat": 28.41,
+  "lon": -106.87,
+  "group": "Latin America",
+  "kind": "commercial"
+ },
+ {
+  "id": "zacatlan",
+  "name": "Zacatlan (Puebla, Mexico)",
+  "country": "MX",
+  "lat": 19.93,
+  "lon": -97.96,
+  "group": "Latin America",
+  "kind": "heritage"
+ },
+ {
+  "id": "bogota",
+  "name": "Bogota highlands (Colombia)",
+  "country": "CO",
+  "lat": 4.71,
+  "lon": -74.07,
+  "group": "Latin America",
+  "kind": "extreme"
+ },
+ {
+  "id": "wenatchee",
+  "name": "Wenatchee (Washington)",
+  "country": "US",
+  "lat": 47.42,
+  "lon": -120.31,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "hood-river",
+  "name": "Hood River (Oregon)",
+  "country": "US",
+  "lat": 45.71,
+  "lon": -121.52,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "puget-sound",
+  "name": "Puget Sound (Seattle)",
+  "country": "US",
+  "lat": 47.61,
+  "lon": -122.33,
+  "group": "United States",
+  "kind": "garden"
+ },
+ {
+  "id": "sebastopol",
+  "name": "Sebastopol (Sonoma, California)",
+  "country": "US",
+  "lat": 38.4,
+  "lon": -122.82,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
+  "id": "watsonville",
+  "name": "Pajaro Valley (Watsonville, California)",
+  "country": "US",
+  "lat": 36.91,
+  "lon": -121.76,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "los-angeles",
+  "name": "Los Angeles basin (California)",
+  "country": "US",
+  "lat": 34.05,
+  "lon": -118.24,
+  "group": "United States",
+  "kind": "marginal"
+ },
+ {
+  "id": "south-michigan",
+  "name": "Southern Michigan (Berrien and Van Buren)",
+  "country": "US",
+  "lat": 42.2,
+  "lon": -86.17,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "traverse-city",
+  "name": "Traverse City (northern Michigan)",
+  "country": "US",
+  "lat": 44.76,
+  "lon": -85.62,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "hudson-valley",
+  "name": "Hudson Valley (New York)",
+  "country": "US",
+  "lat": 41.95,
+  "lon": -73.95,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "finger-lakes",
+  "name": "Finger Lakes (New York)",
+  "country": "US",
+  "lat": 42.87,
+  "lon": -76.98,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "champlain",
+  "name": "Champlain Valley (Vermont)",
+  "country": "US",
+  "lat": 43.9,
+  "lon": -73.3,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
+  "id": "pioneer-valley",
+  "name": "Pioneer Valley (Massachusetts)",
+  "country": "US",
+  "lat": 42.35,
+  "lon": -72.6,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
+  "id": "maine",
+  "name": "Central Maine",
+  "country": "US",
+  "lat": 44.2,
+  "lon": -70.0,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
+  "id": "adams-county",
+  "name": "Adams County (Pennsylvania)",
+  "country": "US",
+  "lat": 39.9,
+  "lon": -77.3,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "shenandoah",
+  "name": "Shenandoah Valley (Winchester, Virginia)",
+  "country": "US",
+  "lat": 39.18,
+  "lon": -78.16,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "henderson-county",
+  "name": "Henderson County (North Carolina)",
+  "country": "US",
+  "lat": 35.3,
+  "lon": -82.5,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "ellijay",
+  "name": "Ellijay (Georgia)",
+  "country": "US",
+  "lat": 34.7,
+  "lon": -84.5,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
+  "id": "wooster",
+  "name": "Wooster (Ohio)",
+  "country": "US",
+  "lat": 40.8,
+  "lon": -81.94,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "bayfield",
+  "name": "Bayfield (Wisconsin)",
+  "country": "US",
+  "lat": 46.81,
+  "lon": -90.82,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "minneapolis",
+  "name": "Twin Cities (Minnesota)",
+  "country": "US",
+  "lat": 44.98,
+  "lon": -93.27,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "paonia",
+  "name": "Paonia (Colorado)",
+  "country": "US",
+  "lat": 38.87,
+  "lon": -107.59,
+  "group": "United States",
+  "kind": "commercial"
+ },
+ {
+  "id": "hill-country",
+  "name": "Texas Hill Country (Medina)",
+  "country": "US",
+  "lat": 29.8,
+  "lon": -99.24,
+  "group": "United States",
+  "kind": "marginal"
+ },
+ {
+  "id": "gainesville",
+  "name": "Gainesville (Florida)",
+  "country": "US",
+  "lat": 29.65,
+  "lon": -82.32,
+  "group": "United States",
+  "kind": "extreme"
+ },
+ {
+  "id": "phoenix",
+  "name": "Phoenix (Arizona)",
+  "country": "US",
+  "lat": 33.45,
+  "lon": -112.07,
+  "group": "United States",
+  "kind": "extreme"
+ },
+ {
+  "id": "anchorage",
+  "name": "Anchorage (Alaska)",
+  "country": "US",
+  "lat": 61.22,
+  "lon": -149.9,
+  "group": "United States",
+  "kind": "marginal"
+ },
+ {
+  "id": "okanagan",
+  "name": "Okanagan Valley (British Columbia)",
+  "country": "CA",
+  "lat": 49.9,
+  "lon": -119.4,
+  "group": "Canada",
+  "kind": "commercial"
+ },
+ {
+  "id": "georgian-bay",
+  "name": "Georgian Bay and Niagara (Ontario)",
+  "country": "CA",
+  "lat": 44.45,
+  "lon": -80.5,
+  "group": "Canada",
+  "kind": "commercial"
+ },
+ {
+  "id": "annapolis",
+  "name": "Annapolis Valley (Nova Scotia)",
+  "country": "CA",
+  "lat": 45.1,
+  "lon": -64.8,
+  "group": "Canada",
+  "kind": "commercial"
+ },
+ {
+  "id": "rougemont",
+  "name": "Rougemont (Quebec)",
+  "country": "CA",
+  "lat": 45.43,
+  "lon": -73.05,
+  "group": "Canada",
+  "kind": "commercial"
+ },
+ {
+  "id": "edmonton",
+  "name": "Edmonton (Alberta)",
+  "country": "CA",
+  "lat": 53.55,
+  "lon": -113.49,
+  "group": "Canada",
+  "kind": "marginal"
+ },
+ {
+  "id": "winnipeg",
+  "name": "Winnipeg (Manitoba)",
+  "country": "CA",
+  "lat": 49.9,
+  "lon": -97.14,
+  "group": "Canada",
+  "kind": "marginal"
+ },
+ {
+  "id": "reykjavik",
+  "name": "Reykjavik (Iceland)",
+  "country": "IS",
+  "lat": 64.15,
+  "lon": -21.94,
+  "group": "Edge cases",
+  "kind": "extreme"
+ },
+ {
+  "id": "tromso",
+  "name": "Tromso (Arctic Norway)",
+  "country": "NO",
+  "lat": 69.65,
+  "lon": 18.96,
+  "group": "Edge cases",
+  "kind": "extreme"
+ },
+ {
+  "id": "singapore",
+  "name": "Singapore (equatorial lowlands)",
+  "country": "SG",
+  "lat": 1.35,
+  "lon": 103.82,
+  "group": "Edge cases",
+  "kind": "extreme"
+ },
+ {
+  "id": "dubai",
+  "name": "Dubai (Arabian desert coast)",
+  "country": "AE",
+  "lat": 25.2,
+  "lon": 55.27,
+  "group": "Edge cases",
+  "kind": "extreme"
+ },
+ {
+  "id": "mexico-city",
+  "name": "Mexico City (tropical highlands)",
+  "country": "MX",
+  "lat": 19.43,
+  "lon": -99.13,
+  "group": "Edge cases",
+  "kind": "marginal"
+ }
+]

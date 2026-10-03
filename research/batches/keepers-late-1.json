@@ -1,0 +1,167 @@
+{
+ "batch": "keepers-late-1",
+ "theme": "keepers-late",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "adams-pearmain",
+   "name": "Adams Pearmain",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "adams-pearmain",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "ananas-reinette",
+   "name": "Ananas Reinette",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "ananas-reinette",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "api",
+   "name": "Api",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "api",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "aromatic-russet",
+   "name": "Aromatic Russet",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "aromatic-russet",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "autumn-glow",
+   "name": "Autumn Glow",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "autumn-glow",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "barnack-orange",
+   "name": "Barnack Orange",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "barnack-orange",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "beauty-of-hants",
+   "name": "Beauty of Hants",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "beauty-of-hants",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "bellefleur-krasnyi",
+   "name": "Bellefleur Krasnyi",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "bellefleur-krasnyi",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "blenheim-orange",
+   "name": "Blenheim Orange",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "blenheim-orange",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "blue-pearmain",
+   "name": "Blue Pearmain",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "blue-pearmain",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "braddick-nonpareil",
+   "name": "Braddick Nonpareil",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "braddick-nonpareil",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "braeburn",
+   "name": "Braeburn",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "braeburn",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "braintree-seedling",
+   "name": "Braintree Seedling",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "braintree-seedling",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "brenchley-pippin",
+   "name": "Brenchley Pippin",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "brenchley-pippin",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "calville-blanc-dhiver",
+   "name": "Calville Blanc d'Hiver",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "calville-blanc-dhiver",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "caroline",
+   "name": "Caroline",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "caroline",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "chivers-delight",
+   "name": "Chivers Delight",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "chivers-delight",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "christmas-pearmain",
+   "name": "Christmas Pearmain",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "christmas-pearmain",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "claygate-pearmain",
+   "name": "Claygate Pearmain",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "claygate-pearmain",
+   "keepers_cat": "late-season-eating-apple"
+  },
+  {
+   "id": "colonel-vaughan",
+   "name": "Colonel Vaughan",
+   "theme": "keepers-late",
+   "keepers": true,
+   "keepers_slug": "colonel-vaughan",
+   "keepers_cat": "late-season-eating-apple"
+  }
+ ]
+}

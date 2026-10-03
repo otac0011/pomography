@@ -1,0 +1,310 @@
+[
+  {
+    "id": "chivers-delight",
+    "name": "Chivers Delight",
+    "aka": ["Chivers' Delight"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Histon, Cambridgeshire, England",
+      "year": 1920,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": "Unknown; sometimes suggested to be a Cox's Orange Pippin seedling",
+      "raised_by": "Stephen Chivers (Chivers & Sons / John Chivers Farms), Histon"
+    },
+    "history": "Raised at Histon near Cambridge by the Chivers jam-making family, usually credited to Stephen Chivers in the 1920s (the National Fruit Collection gives 1936 for its introduction). Popular in the first half of the 20th century, it later faded from commerce but remains a garden favourite in East Anglia.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium to large, slightly conical fruit, dull green ripening yellowish, with a streaky golden-orange to brownish flush."
+    },
+    "taste": {
+      "summary": "Crisp, juicy yellowish flesh with a sweet but well-balanced, lightly aromatic flavour; keeps its quality well into winter.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A moderately vigorous, regular-cropping spur-bearer. Its main weakness is canker, so avoid wet, heavy soils and prune out infected wood promptly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Sources place it in group 3 or 4 (it flowers about the same time as Cox at Brogdale); any group 3-4 diploid will pollinate it."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "The relatively dry, sunny lowlands of eastern England and similar cool temperate regions.",
+      "poor_climates": "Wet, mild western sites encourage canker; hot summers likely reduce quality."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rather susceptible to apple canker; good scab resistance reported."
+    },
+    "grow_notes": "A reliable late keeper for eastern England. Plant on well-drained soil in full sun, keep an eye out for canker, and store the fruit cool for eating from November.",
+    "conf": "medium"
+  },
+  {
+    "id": "christmas-pearmain",
+    "name": "Christmas Pearmain",
+    "aka": ["Bunyard's Christmas Pearmain"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "England (introduced by G. Bunyard & Co., Maidstone, Kent)",
+      "year": 1893,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Mr Manser"
+    },
+    "history": "Raised by a Mr Manser and first recorded in 1893, then introduced by the Maidstone nursery G. Bunyard & Co. A late-Victorian garden apple valued for keeping to Christmas, as the name suggests.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Neat, slightly tall pearmain-shaped fruit, golden yellow with a brownish-red flush and darker stripes, lightly dotted with russet."
+    },
+    "taste": {
+      "summary": "Firm, fine, crisp and fairly juicy yellow flesh; basically sweet, with enough sharpness and aromatic richness to keep it interesting.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A compact, easy-going garden tree that crops well with few problems. Usually described as a partial tip-bearer, so leave some shoot tips when pruning."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early-flowering (group 2) and reported to be partly self-fertile; crops better with a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate gardens in southern and central England.",
+      "poor_climates": "Early blossom is at risk in frost pockets; hot summers likely give softer, duller fruit."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Regarded as an easy, relatively trouble-free garden variety; specific disease ratings not recorded."
+    },
+    "grow_notes": "A good choice for a small garden on a dwarfing rootstock. Avoid frost pockets because of its early blossom, and plant an early-flowering partner for heavier crops.",
+    "conf": "medium"
+  },
+  {
+    "id": "claygate-pearmain",
+    "name": "Claygate Pearmain",
+    "aka": ["Ribston Pearmain", "Mason's Ribston Pearmain"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Claygate, Surrey, England",
+      "year": 1821,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": null,
+      "raised_by": "John Braddick (discoverer)"
+    },
+    "history": "Found growing near Claygate in Surrey by John Braddick, who showed it to the Horticultural Society in 1821. It became a much-admired Victorian dessert apple, likened in flavour to Ribston Pippin, and later received an RHS Award of Merit (1901) and First Class Certificate (1921).",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 2,
+      "description": "Broadly conical fruit, green-yellow with a dull orange-red streaky flush and a substantial net and patches of russet; turns yellower in store."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse but juicy cream flesh with a rich, aromatic, nutty flavour balanced between sweetness and acidity, in the style of Ribston Pippin.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["nutty"],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Average vigour and a regular cropper. Orange Pippin lists it as triploid; that was not independently confirmed, but treat it as a poor pollinator to be safe."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4. If triploid, as reported, it needs two diploid partners and will not pollinate them in return."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist lowland England and similar temperate climates.",
+      "poor_climates": "Not documented; hot summers likely reduce flavour and keeping."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have good general disease resistance, particularly to scab."
+    },
+    "grow_notes": "A connoisseur's winter apple for southern English gardens. Plant two diploid pollinators flowering in groups 3-5, and pick late for eating after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "colonel-vaughan",
+    "name": "Colonel Vaughan",
+    "aka": ["Kentish Pippin", "Red Kentish Pippin", "Colonel Vaughan's", "Vaughan's Pippin"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": 1670,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Kentish apple known since the later 1600s, recorded under the name Kentish Pippin; the National Fruit Collection treats Colonel Vaughan and Kentish Pippin as the same variety.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 1,
+      "description": "Slightly tall, conical fruit with a pale yellow ground largely covered by red flush and stripes, dotted with pale russet."
+    },
+    "taste": {
+      "summary": "Firm white flesh, sometimes stained with red, with a sweet to mildly acidic flavour.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Group estimated from Brogdale flowering dates, which are close to Cox's; plant with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Kentish origin: mild, moist south-east England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A piece of Kent's orchard history. Grow it like other late English dessert apples: sunny site, decent loam and a mid-season pollinator nearby.",
+    "conf": "low"
+  }
+]

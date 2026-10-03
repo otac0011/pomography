@@ -1,0 +1,525 @@
+[
+  {
+    "id": "annurca",
+    "name": "Annurca",
+    "aka": [
+      "Anurka",
+      "Mela Annurca",
+      "Melannurca Campana"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IT",
+      "place": "Campania, southern Italy (traditionally the Pozzuoli / Phlegraean Fields area; now mainly the Caserta-Benevento border)",
+      "year": 1845,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Campania's emblematic apple. Local tradition links it with apples mentioned by Pliny, painted at Herculaneum and described around Pozzuoli in the 16th century, while the modern name turns up in Neapolitan farming literature from the 1840s onwards. It now carries EU protected status as PGI 'Melannurca Campana' and is listed on Slow Food's Ark of Taste.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small-to-medium, broad conical apple on a very short stalk; picked greenish-yellow with only a little striped colour, it turns a rich red after being sunned on straw beds."
+    },
+    "taste": {
+      "summary": "Firm, very crunchy white flesh with a lively balance of sugar and acidity and a pleasant fragrance. The traditional post-harvest sunning deepens the colour and rounds off the sharpness, and the fruit stays crisp for months in store.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar, after the fruit has been reddened"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "The short stalk lets fruit fall before it is fully ripe, so in Campania it is picked unripe (from mid-September there) and finished on the ground in the sun. Two selected clones exist, the standard form and 'Rossa del Sud'. Little growing data from outside Italy."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Brogdale records it flowering late, about with Golden Delicious (roughly group 4). Self-fertility not documented in English sources; assume it needs a partner."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 7,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm Mediterranean valleys and hills of Campania, where long sunny autumns allow the picked fruit to redden outdoors.",
+      "poor_climates": "Cool, short-season climates: at Brogdale it is not ready until late October and colours little on the tree. Performance in hard-winter regions is untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to pre-harvest drop because of its short stalk. Disease susceptibility is not well documented outside Italy."
+    },
+    "grow_notes": "A curiosity for a warm, sunny garden. It flowers late, so pair it with a group 3-5 diploid; pick before the fruit starts dropping and, to copy the Campanian method, spread the apples in full sun for a couple of weeks, turning them now and then until they redden.",
+    "conf": "medium"
+  },
+  {
+    "id": "rosa-mantovana",
+    "name": "Rosa Mantovana",
+    "aka": [
+      "Kalterer Böhmer",
+      "Rosa del Caldaro",
+      "Mantuaner",
+      "Apfel aus Mantua",
+      "Pomme de Mantoue"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IT",
+      "place": "Probably the Kaltern (Caldaro) district, South Tyrol, Italy",
+      "year": 1889,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old winter dessert apple of the Adige valley, known in German as Kalterer Böhmer and in Italian as Rosa del Caldaro or Rosa Mantovana. German sources equate the names, but the National Fruit Collection marks Rosa Mantovana as a doubtful synonym, so the identity is not fully settled. In 1929 it supplied over a quarter of South Tyrol's apple deliveries, before newer varieties pushed it out after the 1950s.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Flattened, somewhat lopsided and ribbed apple, pale greenish-yellow ripening to a waxy yellow, with a bright, unstriped red to carmine flush on the sunny side."
+    },
+    "taste": {
+      "summary": "Fine, rather soft white flesh that is sweet with gentle acidity and a delicate, slightly perfumed and mildly winey flavour. Pleasant rather than juicy.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "sweet",
+        "perfumed",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Recorded as upright-growing; little modern information on vigour or cropping."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Recorded as early flowering in the National Apple Register and at Brogdale (as Rosa del Caldaro)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Sunny Alpine valleys such as the Adige around Bolzano and Kaltern, with warm days and cool autumn nights.",
+      "poor_climates": "Not documented outside its home region."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A heritage choice for collectors of Alpine and Italian apples. It flowers early, so pair it with a group 1-3 partner, and keep the fruit cool until midwinter.",
+    "conf": "low"
+  },
+  {
+    "id": "berner-rosen",
+    "name": "Berner Rosen",
+    "aka": [
+      "Berner Rosenapfel",
+      "Rose de Berne",
+      "Neuer Berner Rosenapfel"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "CH",
+      "place": "Oppligen, canton Bern, Switzerland",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling; German sources name Roter Winterkalvill x Sauergrauech as its parents",
+      "raised_by": "Found on the Baumann property; propagated by nurseryman Daepp of Oppligen"
+    },
+    "history": "A Swiss seedling spotted around 1870 at Oppligen near Bern and spread by the local nurseryman Daepp, with first fruit recorded in 1888. It became a staple table and juice apple in Switzerland and travelled widely in central and eastern Europe, as its many Czech, Polish and Russian synonyms show.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, roundish to slightly tall and irregularly ribbed apple, almost entirely washed dark red with faint stripes, a lilac-blue bloom and conspicuous pale dots."
+    },
+    "taste": {
+      "summary": "Very juicy, fine greenish-white flesh, sometimes tinged pink, with a sweet, low-acid, winey flavour that German pomologists compare to raspberry. Cut flesh browns quickly.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "berry",
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Grows strongly when young, then slows once cropping starts; forms a tall, high-arched and rather sparsely branched crown. Crops early, regularly and well."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Orange Pippin lists group 3; Brogdale records mid-season flowering. Diploid and a reasonable pollinator."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist upland sites like the Swiss Mittelland and pre-Alps; fruit from higher orchards keeps longest.",
+      "poor_climates": "Hot, dry lowlands, and very wet sites where scab and mildew run riot."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and powdery mildew; some susceptibility to fire blight."
+    },
+    "grow_notes": "Best on moist, fertile soil in a cool, airy position, where its scab and mildew weaknesses are less of a problem. Pair with a group 2-4 pollinator and eat or juice the crop by midwinter.",
+    "conf": "medium"
+  },
+  {
+    "id": "maigold",
+    "name": "Maigold",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CH",
+      "place": "Swiss Federal Agricultural Research Station, Wädenswil, Switzerland",
+      "year": 1944,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Fraurotacher (Franc Roseau) x Golden Delicious",
+      "raised_by": "F. Kobel, Swiss Federal Agricultural Research Station, Wädenswil"
+    },
+    "history": "Selected from a cross made in 1944 at the Swiss federal fruit research station in Wädenswil and released for propagation in 1964. A late-keeping Swiss dessert apple of the post-war decades, it is a parent of Mairac.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium to large, tall conical and often lopsided fruit, green ripening to gold with a bright orange-red flush on the sunny side; skin turns waxy when ripe."
+    },
+    "taste": {
+      "summary": "Crunchy, firm, fine-grained and juicy, with a sweet but balanced flavour and honeyed, pear-like notes; tasters report a citrus edge appearing as it keeps. Bruises less readily than most.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "honey",
+        "pear",
+        "sweet",
+        "citrus"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little published growing data in English."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Brogdale records it flowering with Golden Delicious (about group 4). Diploid and self-sterile."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central European climates such as the Swiss lowlands, with autumns warm enough to ripen a mid-October apple.",
+      "poor_climates": "Short, cool seasons where a mid-October apple may not sweeten fully; no data from hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well documented."
+    },
+    "grow_notes": "Treat as a late dessert apple for a warm, sheltered spot. Pick in mid October, store cool, and plant with a group 3-5 diploid pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "antonovka",
+    "name": "Antonovka",
+    "aka": [
+      "Antonovka Obyknovennaya",
+      "Common Antonovka",
+      "Antonówka",
+      "Antonowka"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": "Kursk region, Russia",
+      "year": 1826,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": "Unknown folk selection; possibly carries wild Malus sylvestris in its ancestry",
+      "raised_by": null
+    },
+    "history": "Russia's 'people's apple': a folk variety that spread out of Kursk province in the 1800s and became the mainstay of orchards across central Russia, Belarus and Poland. It is really a family of closely related clones, and its uniform, very hardy seedlings are widely used as rootstocks.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium to large, variable and often strongly ribbed apple, green-yellow ripening to straw yellow in store, usually without any colour, with russet in the stalk cavity and large pale dots."
+    },
+    "taste": {
+      "summary": "Juicy, slightly coarse flesh with a brisk, acid-led taste and an exceptionally strong, sweet perfume when ripe. Sharp off the tree, it softens and mellows in store; famous for pies, purée and traditional Russian soaked (fermented) apples.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Large, vigorous, long-lived tree whose high, rounded crown spreads with age. Slow to start (often six years or more on seedling stock) but productive thereafter, though crops can be irregular."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Orange Pippin lists group 3 and treats it as needing a partner; Russian sources call it partly self-fertile. Plant a pollinator for reliable crops."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold continental climates of central Russia, Belarus, Poland and the Baltic, and the northern prairies; the trees survive around -40 C.",
+      "poor_climates": "Warm southern regions, where it ripens early and loses its keeping quality; Russian pomologists noted it turns from a winter into a short-lived autumn apple as you go south."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab reports range from fairly resistant to susceptible; some resistance to fire blight and collar rot is reported. Codling moth is a pest in Russia."
+    },
+    "grow_notes": "An excellent choice for very cold gardens or for a classic cooking and fermenting apple. Give it room, be patient for the first crops, and plant a group 2-4 partner nearby.",
+    "conf": "high"
+  },
+  {
+    "id": "anis",
+    "name": "Anis",
+    "aka": [
+      "Anis Polosatyi",
+      "Anis Seryi",
+      "Anisovka"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": "Middle and lower Volga region, Russia",
+      "year": null,
+      "year_note": "",
+      "kind": "ancient",
+      "parentage": "Folk selection; a family of related clones (Anis Polosatyi, Anis Alyi, Anis Rozovo-polosatyi and others)",
+      "raised_by": null
+    },
+    "history": "'Anis' is a group of old Volga folk varieties that held the same place in the orchards of Saratov, Samara and neighbouring provinces that Antonovka held further west; surveyors have counted dozens of local forms. This record follows the main striped form, Anis Polosatyi (Anis Seryi). Do not confuse it with the French Fenouillet Gris, which is also sold as 'Anis' and is the apple the National Fruit Collection files under that name.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small to medium, distinctly flattened apple, light green with a mottled and striped pinkish-red blush over half or more of the skin, dulled by a heavy bluish bloom."
+    },
+    "taste": {
+      "summary": "Fine-grained, juicy white flesh with a sweet-sour balance and a distinctive anise-like fragrance that gives the group its name; ripe fruit is strongly scented.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "aniseed",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": null,
+      "notes": "Tall, strong tree with a dense crown and tough branches that can carry very large crops. As trees age, fruit size falls and alternate bearing creeps in, so thin and prune to keep it renewing."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time under UK conditions not recorded."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Hard continental climates of the Volga basin, with very cold winters and hot, dry summers.",
+      "poor_climates": "Little information from mild maritime or humid climates."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Described as scab-resistant to moderately resistant. Small fruit is its main commercial drawback."
+    },
+    "grow_notes": "A very hardy heirloom for severe climates. Thin heavy crops to keep fruit size up and limit alternate bearing; several distinct Anis clones circulate under the name, so check which one you are buying.",
+    "conf": "low"
+  }
+]

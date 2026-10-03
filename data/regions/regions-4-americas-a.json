@@ -1,0 +1,101 @@
+[
+  {
+    "id": "maule",
+    "summary": "Mediterranean central-Chile valley: wet, mild winters that still give most mainstream varieties enough chilling, then a long, dry, cloudless summer with strong sun. Orchards depend on irrigation from Andean rivers, and the main climate risks are radiation frost in low spots at bloom and sunburned fruit in midsummer.",
+    "apple_culture": "Maule is the heart of Chile's export apple industry, with large modern orchards shipping counter-season fruit to Europe, Asia and North America. Planting follows the global market closely, so bicolour and red strains of the big club and commodity varieties dominate rather than local types.",
+    "local_varieties": ["Royal Gala", "Fuji", "Cripps Pink", "Granny Smith", "Red Delicious", "Braeburn"],
+    "pests_diseases": "Codling moth, woolly apple aphid, San Jose scale and mealybugs are the key insects, and export rules make them worth controlling. Sunburn is the most visible fruit defect; fire blight is absent from Chile, and scab is a problem only in rainy springs.",
+    "tips": "Water deeply and regularly through the dry summer and keep a full leaf canopy over the fruit; shade netting or kaolin clay sprays help against sunburn. Avoid frost-pocket hollows, and band trunks with corrugated cardboard to trap codling moth larvae.",
+    "confidence": "high"
+  },
+  {
+    "id": "puerto-montt",
+    "summary": "Cool, very wet temperate-oceanic climate on the Reloncavi Sound: plenty of winter chilling, mild winters, few hard frosts, and short, cool summers with rain in every month. Lack of summer heat and constant leaf wetness, not cold, are what limit apples here.",
+    "apple_culture": "Apples arrived with Spanish colonists and later German settlers around Lake Llanquihue, and old farmhouse orchards are part of the landscape. Southern Chile, especially neighbouring Chiloe, keeps a living tradition of chicha de manzana (rustic cider) made from dozens of old Spanish-derived and seedling varieties.",
+    "local_varieties": ["Limona", "Camuesa", "Reineta", "Cabeza de guagua"],
+    "pests_diseases": "Apple scab is severe in the near-constant damp, and European canker (Neonectria ditissima) is one of the main diseases of southern Chilean orchards. Woolly apple aphid is common on older trees.",
+    "tips": "Choose scab-resistant or old local cider and cooking types rather than dessert apples that need summer heat, and prune for an open, airy crown that dries quickly. Cut out canker lesions in dry weather and avoid pruning wounds during long wet spells.",
+    "confidence": "medium"
+  },
+  {
+    "id": "rio-negro",
+    "summary": "Irrigated desert valley in northern Patagonia: dry, sunny and windy, with cold winters that satisfy chilling easily and hot summer days with cool nights that colour fruit well. Spring frost is the defining hazard, along with occasional hail and the strong westerly winds.",
+    "apple_culture": "The Alto Valle of the Negro and Neuquen rivers is Argentina's main pome-fruit region, created by early twentieth-century irrigation canals and lined with tall poplar windbreaks. Pears are at least as important as apples, and much of the fruit is packed for export or turned into juice concentrate.",
+    "local_varieties": ["Red Delicious", "Granny Smith", "Royal Gala", "Cripps Pink", "Fuji"],
+    "pests_diseases": "Codling moth (carpocapsa) is the main pest and the focus of a long-running area-wide control programme; oriental fruit moth, woolly aphid and San Jose scale also need watching. Low humidity keeps fungal diseases relatively light.",
+    "tips": "Plant behind a windbreak and away from low ground where frost pools, and favour later-flowering varieties. Irrigation is essential, and codling moth must be controlled every year: band trunks, thin fruit, and pick up fallen apples.",
+    "confidence": "high"
+  },
+  {
+    "id": "mendoza",
+    "summary": "Arid irrigated oases at the foot of the Andes: cold, dry winters with good chilling, intensely sunny summers, and very little rain. Spring frost and summer hail are the two weather events that wipe out fruit crops here, and high orchards in the Uco Valley see the biggest swings.",
+    "apple_culture": "Mendoza is wine country first; its apples are concentrated in the Uco Valley (Tunuyan, Tupungato, San Carlos), and the planted area has shrunk sharply as growers switched to vineyards and other crops. Most remaining apples go to the domestic market and processing.",
+    "local_varieties": ["Red Delicious", "Granny Smith", "Royal Gala"],
+    "pests_diseases": "Codling moth is the chief insect pest, and the province runs area-wide programmes against it and against Mediterranean fruit fly, so fruit movement can be restricted. Hail damage and sunburn spoil more fruit than disease does in this dry air.",
+    "tips": "Plan on full irrigation and, if you can, hail netting, which also cuts sunburn. Site trees on slopes rather than valley floors to dodge frost, and pick late-flowering varieties.",
+    "confidence": "medium"
+  },
+  {
+    "id": "sao-joaquim",
+    "summary": "One of Brazil's coldest highland towns, on the Santa Catarina plateau, with frosty and occasionally snowy winters, but chilling is still marginal for classic varieties and winters vary a lot. Summers are mild, humid and rainy, and hailstorms are frequent.",
+    "apple_culture": "Brazil built its apple industry from the 1970s with government programmes, and Sao Joaquim, with Fraiburgo and Vacaria, became one of its centres, helped by Japanese-Brazilian growers. Gala and Fuji dominate, and the state research agency Epagri breeds varieties adapted to mild winters and local diseases.",
+    "local_varieties": ["Gala", "Fuji", "Fuji Suprema", "Monalisa", "Daiane", "Joaquina"],
+    "pests_diseases": "Glomerella leaf spot (very damaging on Gala), apple scab and bitter rot thrive in the warm, wet summers; South American fruit fly and oriental fruit moth are the main insects. Brazil officially eradicated codling moth in 2014, so fruit movement rules matter.",
+    "tips": "Prefer varieties bred for mild winters and resistant to scab and Glomerella, such as the Epagri releases, rather than relying on Gala. Commercial growers use dormancy-breaking sprays to even out bloom after weak winters; at home, expect patchy flowering after warm winters and protect fruit from hail where you can.",
+    "confidence": "medium"
+  },
+  {
+    "id": "chihuahua",
+    "summary": "High, semi-arid plateau in northern Mexico: cold, dry winters give reliable chilling, and summers are warm with a monsoon rainy season. Late spring frost and violent summer hailstorms are the main threats, and groundwater for irrigation is under heavy pressure.",
+    "apple_culture": "The Cuauhtemoc and Guerrero district is Mexico's largest apple region, built up through the twentieth century, with Mennonite farmers who settled there in the 1920s playing a big part. Golden and Red Delicious have long dominated, and hail netting now covers many orchards.",
+    "local_varieties": ["Golden Delicious", "Red Delicious", "Gala", "Rome Beauty"],
+    "pests_diseases": "Codling moth is the main insect pest, and leafrollers have also appeared; fire blight can flare in warm, stormy springs and powdery mildew is common. Hail is the most destructive single risk to the crop.",
+    "tips": "Irrigate efficiently (drip), use hail netting if possible, and avoid frost-prone low ground. Choose later-flowering varieties and plant a compatible pollinizer, since many of the region's mainstays are not self-fertile.",
+    "confidence": "medium"
+  },
+  {
+    "id": "zacatlan",
+    "summary": "Misty highland town in the Sierra Norte of Puebla, cool all year, with dense fog and a long summer rainy season. Chilling is modest and winters are mild, so traditional varieties adapted to these conditions outperform imported temperate ones.",
+    "apple_culture": "Known as Zacatlan de las Manzanas, the town has held an apple fair every summer for decades and is famous for artisanal sidra (sweet sparkling cider) and fruit wines. Orchards are small family plots, overwhelmingly of the local striped apple 'Rayada' plus a range of other criollo varieties.",
+    "local_varieties": ["Rayada", "Panochera", "Golden Delicious", "Red Delicious"],
+    "pests_diseases": "The persistent fog and summer rain favour scab and other fungal leaf and fruit diseases, and codling moth is present. Old seedling-based trees are often vigorous but carry plenty of disease.",
+    "tips": "Grow the local criollo types or other low- to moderate-chill varieties rather than northern classics, and prune hard for airflow so leaves dry between fog banks. Clean up fallen leaves and fruit to reduce scab carry-over.",
+    "confidence": "medium"
+  },
+  {
+    "id": "bogota",
+    "summary": "High Andean savanna almost on the equator: cool and spring-like all year, with no true winter, frequent cloud, and two rainy seasons. Apple trees never get the seasonal cold signal to go dormant, so without intervention they grow and bloom erratically.",
+    "apple_culture": "Colombia does grow apples, mainly in nearby Boyaca, where low-chill varieties are forced into a cropping cycle by stripping the leaves after harvest and applying bud-break treatments, sometimes giving two crops a year. 'Anna' is the dominant variety; around Bogota itself, apples are a curiosity in gardens.",
+    "local_varieties": ["Anna"],
+    "pests_diseases": "Constant mild, humid conditions favour powdery mildew and scab, and fruit flies attack fruit. Uneven, out-of-season flowering also makes pest control harder because some trees are always at a vulnerable stage.",
+    "tips": "Only very low-chill varieties are worth trying, and you will need to defoliate the tree by hand after harvest to trigger a new flush and bloom. Treat it as an experiment; local deciduous fruits such as plums and pears grown the same way, or highland fruits like tree tomato, are easier.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wenatchee",
+    "summary": "Semi-arid rain-shadow valley on the east side of the Cascades: cold winters with ample chilling, hot, dry, very sunny summers, and almost no summer rain. Irrigation is essential, disease pressure is low, and the main weather risks are spring frost, sunburn, and occasional severe winter freezes.",
+    "apple_culture": "Wenatchee calls itself the Apple Capital of the World and sits in the middle of Washington's industry, which grows most of the fresh apples sold in the United States. Washington State University runs a tree-fruit research centre here, and its breeding programme produced 'Cosmic Crisp'.",
+    "local_varieties": ["Red Delicious", "Golden Delicious", "Gala", "Fuji", "Granny Smith", "Honeycrisp", "Cosmic Crisp"],
+    "pests_diseases": "Codling moth is the key pest, and fire blight can strike in warm springs; powdery mildew is common on susceptible varieties. Sunburn and bitter pit are major fruit disorders, while scab is rare in the dry air. Apple maggot is kept out of the commercial districts by quarantine.",
+    "tips": "Water deeply and regularly, keep foliage over the fruit, and consider kaolin sprays or shade cloth against sunburn. Control codling moth every year, because neglected backyard trees threaten commercial neighbours, and do not bring home-grown fruit in from western Washington.",
+    "confidence": "high"
+  },
+  {
+    "id": "hood-river",
+    "summary": "Valley in the Columbia River Gorge on the transition from wet west-side to dry east-side climate: snowy winters, warm dry summers, and a steep gradient from the lower to the upper valley. Strong Gorge winds, spring frost and occasional damaging winter freezes are the main hazards.",
+    "apple_culture": "Hood River first won fame for Yellow Newtown and Spitzenburg apples, but a severe 1919 freeze killed many trees and growers replanted largely with pears. Today it is a leading winter-pear district with apples as a secondary crop, and the 'Fruit Loop' farm-stand route draws visitors at harvest.",
+    "local_varieties": ["Newtown Pippin", "Esopus Spitzenburg", "Gala", "Honeycrisp", "Golden Delicious", "Fuji"],
+    "pests_diseases": "Codling moth is the main insect pest and fire blight is a constant concern in this pear-heavy valley. Powdery mildew is common, and scab appears in wet springs, especially in the upper valley.",
+    "tips": "Give trees shelter from the Gorge wind and avoid frost-prone low spots. Choose varieties suited to your elevation, since upper-valley sites are cooler and later, and remove fire blight strikes promptly because pears nearby carry it.",
+    "confidence": "high"
+  },
+  {
+    "id": "puget-sound",
+    "summary": "Mild maritime climate: wet, cool winters with adequate chilling, long, damp springs, and dry but cool summers. Summer heat is limited, so late-ripening varieties often fail to mature, while the wet season drives disease.",
+    "apple_culture": "Western Washington is backyard and community-orchard country rather than a commercial belt, with active fruit societies, urban food forests and cider makers. Washington State University's Mount Vernon station trials cider and dessert varieties suited to the cool, wet west side.",
+    "local_varieties": ["Akane", "Liberty", "Chehalis", "Gravenstein", "Jonagold", "Spartan"],
+    "pests_diseases": "Apple scab and anthracnose canker are the signature diseases of the wet west side; powdery mildew and bull's-eye rot also occur. Apple maggot and codling moth are well established in backyard trees.",
+    "tips": "Plant scab-resistant, early- to mid-season varieties and give them the sunniest, best-drained spot you have. Bag young fruit (nylon footies are a local favourite) to stop apple maggot and codling moth, and cut out anthracnose cankers in dry weather.",
+    "confidence": "high"
+  }
+]

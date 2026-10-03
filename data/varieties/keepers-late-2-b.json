@@ -1,0 +1,541 @@
+[
+  {
+    "id": "easter-orange",
+    "name": "Easter Orange",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Winchester, Hampshire, England (introduced by Hillier & Sons)",
+      "year": 1897,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Introduced by Hillier & Sons, nurserymen"
+    },
+    "history": "Put on the market by the Winchester nursery firm Hillier & Sons and first recorded in 1897, the same year it gained an RHS Award of Merit. As the name suggests, it was offered as a late-keeping dessert apple for the spring months.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Truncated-conical, moderately ribbed fruit, yellow almost hidden under a streaky red flush."
+    },
+    "taste": {
+      "summary": "Crisp, firm cream flesh with a sweet, aromatic flavour that develops in store; a late keeper for winter and early spring eating.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; reputedly keeps towards Easter, hence the name"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing data."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not reliably recorded; plant with another mid-season flowering diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern England and similar mild maritime climates with a reasonably long autumn.",
+      "poor_climates": "No records from hot or continental climates; very short seasons may not ripen it properly."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not recorded."
+    },
+    "grow_notes": "A Victorian keeping apple for a sunny, sheltered site in southern Britain. Pick in early October and store cool and slightly humid so the fruit lasts into late winter.",
+    "conf": "low"
+  },
+  {
+    "id": "elstar",
+    "name": "Elstar",
+    "aka": [],
+    "uses": ["dessert", "culinary", "juice"],
+    "origin": {
+      "country": "NL",
+      "place": "Wageningen, Netherlands",
+      "year": 1955,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Ingrid Marie",
+      "raised_by": "Institute for Horticultural Plant Breeding (IVT), Wageningen"
+    },
+    "history": "Bred at the Dutch plant-breeding institute in Wageningen from a 1955 cross and released in 1972. It became one of the leading commercial apples of the Netherlands, Belgium and Germany, with many redder sports such as Elshof and Red Elstar.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Golden-yellow apple marbled and streaked bright orange-red, with a slightly matt finish and a few russet dots."
+    },
+    "taste": {
+      "summary": "Crisp, juicy cream flesh with an intense, lively sweet-sharp balance and honeyed, aromatic notes. Best quite soon after picking; keeps its sharpness well for cooking.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["honey", "sharp", "sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous and quick to crop but strongly inclined to alternate bearing unless thinned early; regular fruit thinning is essential."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; partner with another group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool maritime north-west Europe (Netherlands, Belgium, northern Germany, southern England) with mild summers and cool autumn nights.",
+      "poor_climates": "Hot summers give soft fruit, poor colour and sunburn; it has never succeeded commercially in warm regions."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "Susceptible to powdery mildew and some scab; biennial bearing is the main cultural problem."
+    },
+    "grow_notes": "Grows well in most of southern Britain. Thin hard in good blossom years to keep cropping regular, and keep an eye on mildew in spring.",
+    "conf": "high"
+  },
+  {
+    "id": "empire",
+    "name": "Empire",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "US",
+      "place": "Geneva, New York",
+      "year": 1945,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Red Delicious",
+      "raised_by": "R.D. Way, New York State Agricultural Experiment Station (Cornell)"
+    },
+    "history": "Raised at the Geneva, New York experiment station from a 1945 cross and released in 1966 by Roger Way. It became a major apple of New York and the north-east, prized as a bruise-resistant, deep red lunchbox apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, rounded apple almost fully covered in dark maroon-red with a light bloom over a pale green ground."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, very white flesh with a sweet flavour and a gentle vinous tang from McIntosh, but less acidity. Best fresh from the tree; resists bruising.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet", "wine"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous spur-bearer with dense growth; open the centre so the fruit colours. Thin to keep fruit size and annual cropping."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3, partly self-fertile; crops better with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter continental climates with sunny autumns and cool nights, such as New York, Ontario and Michigan.",
+      "poor_climates": "Warm summers and autumns reduce colour and firmness; mild cloudy regions give smaller, duller fruit."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": 2,
+      "other": "Susceptible to scab; reasonably tolerant of fire blight, cedar-apple rust and mildew."
+    },
+    "grow_notes": "A hardy, reliable choice for cold areas. Control scab in wet springs, thin after fruit set, and summer-prune to let light in for colour.",
+    "conf": "high"
+  },
+  {
+    "id": "esopus-spitzenburg",
+    "name": "Esopus Spitzenburg",
+    "aka": ["Spitzenburg", "Esopus Spitzenberg", "Spitzenberg"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "US",
+      "place": "Esopus, Ulster County, New York",
+      "year": 1790,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A chance seedling from the old Dutch settlement of Esopus in the Hudson Valley, known before 1790. It was grown at Monticello by Thomas Jefferson and was one of the most esteemed American dessert apples of the 19th century; it is a parent of Jonathan.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 1,
+      "description": "Tall, slightly tapering fruit, deep yellow almost covered by bright orange-red to red with obscure streaks and conspicuous pale russet dots."
+    },
+    "taste": {
+      "summary": "Crisp, firm yellow flesh, not especially juicy, with a rich, sweet-sharp, spicy and aromatic flavour that deepens after a few weeks in store. Also excellent for pies.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": ["spice", "perfumed", "sharp", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb; improves after a month in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Rather slow to bear, with thin, spreading branches and short spurs; crops are often irregular and it needs good soil and care to perform."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4; plant with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer, cold-winter continental climates such as the Hudson Valley and similar parts of the eastern and western USA, on fertile, well-drained soil.",
+      "poor_climates": "Humid, warm areas with high fire blight and scab pressure, and cool, cloudy maritime summers where the flavour does not fully develop."
+    },
+    "health": {
+      "scab": 5,
+      "canker": 5,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Very susceptible to scab, canker and fire blight; a demanding tree for organic growers."
+    },
+    "grow_notes": "Worth growing for flavour if you can give it good soil, full sun and a disease-control routine. Thin to even out cropping and prune to keep the canopy open and airy.",
+    "conf": "high"
+  },
+  {
+    "id": "falstaff",
+    "name": "Falstaff",
+    "aka": [],
+    "uses": ["dessert", "juice"],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling, Kent, England",
+      "year": 1965,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "James Grieve x Golden Delicious",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "Raised at East Malling Research Station in Kent in the mid-1960s and released to growers in the 1980s. It became a popular garden apple for its reliable crops and frost-tolerant blossom, and has a redder sport, Red Falstaff.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Neat golden-yellow apple with a bright red flush and stripes over about half the surface."
+    },
+    "taste": {
+      "summary": "Crisp, juicy flesh with a fresh sweet-sharp flavour that owes more to James Grieve than to Golden Delicious. Makes good juice.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": ["sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Compact-ish, regular-cropping spur-bearer; suits cordons and small trees. Thin heavy crops to keep fruit size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Self-fertile, group 3, and a good pollinator for other mid-season varieties; blossom is notably frost tolerant."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool maritime climates like the UK, including frost-prone gardens thanks to its hardy blossom.",
+      "poor_climates": "Hot summers likely to soften the fruit and reduce colour; little evidence of use in warm regions."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy in UK gardens with only moderate scab and mildew."
+    },
+    "grow_notes": "One of the easiest apples for a small UK garden, especially where only one tree fits. Plant in full sun, thin fruitlets in heavy years and prune as a normal spur-bearer.",
+    "conf": "high"
+  },
+  {
+    "id": "fiesta",
+    "name": "Fiesta",
+    "aka": ["Red Pippin"],
+    "uses": ["dessert", "juice"],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling, Kent, England",
+      "year": 1972,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Idared",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "Raised at East Malling Research Station in 1972 to combine Cox flavour with the easy growing and long storage of Idared. Released in the 1980s, it gained an RHS Award of Merit in 1987 and has been sold in supermarkets as Red Pippin.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 55,
+      "stripes": true,
+      "russet": 1,
+      "description": "Yellow apple flecked and streaked with orange and red, Cox-like but brighter and more evenly coloured."
+    },
+    "taste": {
+      "summary": "Crisp, very juicy cream flesh with a sweet, aromatic Cox-like flavour, easier and crunchier than its parent. Stays firm for months in store, though the aroma and sweetness gradually fade.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": ["perfumed", "sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; best in the first two months"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Easy, productive spur-bearer, though trees can grow lopsided; thin to avoid small fruit and alternate-year crops."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3 and partly self-fertile; crops best with another group 2-4 diploid. Blossom has good frost resistance."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "UK and similar cool maritime climates, where it is a much easier substitute for Cox.",
+      "poor_climates": "Hot dry summers are likely to give soft, poorly coloured fruit; untested in warm regions."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Some canker reported in wet soils; bitter pit can show on young, vigorous trees carrying light crops."
+    },
+    "grow_notes": "A good Cox alternative for gardeners who struggle with Cox. Plant on well-drained soil, keep crops even by thinning, and store the fruit cool for winter use.",
+    "conf": "high"
+  },
+  {
+    "id": "flanders-cox",
+    "name": "Flanders Cox",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "No record of this name was found in the UK National Fruit Collection, Orange Pippin or other pomological sources checked. The name suggests a Cox-type apple linked to Flanders, but neither its origin nor its relationship to Cox's Orange Pippin could be confirmed.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not recorded."
+    },
+    "taste": {
+      "summary": "No reliable tasting notes found for this name.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Not recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": null,
+      "poor_climates": null
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Insufficient information to give variety-specific advice; ask the supplying nursery for its origin and pollination group.",
+    "conf": "low"
+  }
+]

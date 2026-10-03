@@ -1,0 +1,430 @@
+[
+  {
+    "id": "reverend-w-wilks",
+    "name": "Reverend W. Wilks",
+    "aka": [
+      "Rev. W. Wilks",
+      "Reverend Wilks"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Langley, near Slough, England (Veitch nursery)",
+      "year": 1904,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Peasgood's Nonsuch x Ribston Pippin",
+      "raised_by": "James Veitch & Sons"
+    },
+    "history": "Raised by the Veitch nursery firm, at its Langley grounds, from Peasgood's Nonsuch crossed with Ribston Pippin. It was named after the Rev. William Wilks, then secretary of the RHS and the raiser of the Shirley poppy. It received an RHS Award of Merit in 1904 and a First Class Certificate in 1910, and is still a common garden cooker.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 15,
+      "stripes": true,
+      "russet": 0,
+      "description": "Very large, broad, slightly conical fruit; smooth pale creamy or milky green-white skin with a light flush and a few soft red stripes."
+    },
+    "taste": {
+      "summary": "Crisp, fine-grained, juicy white flesh with a mild sweet-sharp balance. It cooks quickly to a pale yellow froth or smooth purée that needs little sugar. The flesh browns very fast once cut.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov, for cooking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "A stout, dwarfish spur-bearer that crops young and very heavily, but tends to alternate heavy and light years. Thinning in heavy years helps even this out. Well suited to small gardens and trained forms."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early-flowering (group 2). Orange Pippin lists it as self-fertile, but it sets better with a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, damp temperate climates throughout the UK, including cooler northern gardens, since it ripens early.",
+      "poor_climates": "Hot summers are untested. As an early cooker its main risk is short storage rather than a failure to ripen."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good general disease resistance (some resistance to scab, canker and mildew). The main faults are biennial bearing, short keeping and fast-browning flesh."
+    },
+    "grow_notes": "One of the best early cookers for a small garden or a cordon. Thin heavily in 'on' years to limit biennial cropping, and use or freeze the fruit within a few weeks of picking.",
+    "conf": "high"
+  },
+  {
+    "id": "royal-jubilee",
+    "name": "Royal Jubilee",
+    "aka": [
+      "Graham's Royal Jubilee",
+      "Graham's Jubilee"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Hounslow, Middlesex, England",
+      "year": 1888,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "John Graham of Hounslow"
+    },
+    "history": "Raised by John Graham of Hounslow and first recorded in 1888; the name presumably marks Queen Victoria's Golden Jubilee of 1887. George Bunyard & Co. of Maidstone introduced it in 1893. It was valued for flowering very late and cropping regularly, and was later grown in Germany and Russia under translated names.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, tall, narrow-conical fruit, slightly ribbed at the eye; clear pale lemon-yellow, sometimes with the faintest orange flush."
+    },
+    "taste": {
+      "summary": "Firm, yellow, medium-coarse flesh with a moderate sub-acid taste. A sound cooker of no special aroma.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec, for cooking"
+    },
+    "tree": {
+      "vigor": 1,
+      "habit": "compact",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Bunyard describes a very dwarf tree that is extremely fertile and crops regularly, so it suits small gardens. Its late blossom usually escapes spring frosts."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Very late-flowering. The National Fruit Collection records full bloom about the same time as Edward VII, so group 6 is estimated. Pair it with another late variety such as Edward VII or Court Pendu Plat."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Frost-prone temperate sites, such as valley bottoms and cold gardens, where its very late blossom avoids spring frosts.",
+      "poor_climates": "No record from hot or low-chill regions. Late flowering also makes it hard to pair with common early and mid-season varieties."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour is not well recorded."
+    },
+    "grow_notes": "Choose it for a frost pocket where earlier-flowering apples lose their blossom, but plant a late-flowering partner. Its small size suits bush or cordon growing.",
+    "conf": "medium"
+  },
+  {
+    "id": "winston",
+    "name": "Winston",
+    "aka": [
+      "Winter King",
+      "Wintercheer",
+      "Cox d'Hiver"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Welford Park, Berkshire, England",
+      "year": 1920,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Worcester Pearmain",
+      "raised_by": "William Pope"
+    },
+    "history": "Raised in 1920 by William Pope at Welford Park, Berkshire, from Cox's Orange Pippin crossed with Worcester Pearmain. It was introduced as Winter King in 1935 and renamed Winston in 1944 in honour of Winston Churchill. It gained the RHS Award of Garden Merit in 1993.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small-to-medium, conical fruit with a tough skin; greenish-yellow almost covered by an orange-red flush with darker red streaks and grey russet dots."
+    },
+    "taste": {
+      "summary": "Firm, fine-textured, crisp and juicy cream flesh. It is noticeably sharp at picking and mellows in store to a sweet, aromatic, Cox-like flavour. It keeps its crispness well into spring.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; improves after several weeks in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Its growing habits follow Worcester rather than Cox: easy, fairly trouble-free and reliably productive. Fruit tends to run small, so thin the crop."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Flowering group 4. Some sources call it self-fertile, but it crops more reliably with a group 3-5 partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and central England and similar mild temperate climates with a long autumn, where it ripens fully by mid-October.",
+      "poor_climates": "Short-season northern sites may not ripen this late apple. Hot regions are untested."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab and fairly resistant to canker, so it is well suited to low-spray growing. Its main fault is small fruit when overcropped."
+    },
+    "grow_notes": "An easy late keeper for an organic garden. Thin the fruitlets for size, pick in mid-October and store cool to eat through late winter and spring.",
+    "conf": "high"
+  },
+  {
+    "id": "wyken-pippin",
+    "name": "Wyken Pippin",
+    "aka": [
+      "Warwickshire Pippin",
+      "Arley",
+      "Girkin Pippin",
+      "German Nonpareil"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Wyken, near Coventry, Warwickshire, England",
+      "year": 1720,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of an unidentified Continental apple",
+      "raised_by": "Lord Craven (attributed)"
+    },
+    "history": "According to tradition, Lord Craven saved pips from an apple he ate while travelling between France and Holland and planted them at Wyken near Coventry in the early 1700s. Lindley reported the very old original tree still alive in 1827. Some accounts, and Orange Pippin, treat it as a Dutch import, but Bunyard noted that no Continental variety matches it. It is the seed parent of Laxton's Superb.",
+    "look": {
+      "size": "small",
+      "shape": "flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small to medium, neat, flattened fruit; pale greenish-yellow with a dull orange-brown cheek and scattered russet dots and patches, especially round the stalk."
+    },
+    "taste": {
+      "summary": "Tender to moderately firm, fine-grained, very juicy flesh with a sweet, rich, aromatic flavour and a brisk edge. A highly rated old winter dessert apple.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A healthy, moderately vigorous tree that is very upright when young and an excellent bearer, according to Hogg and Bunyard."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 3 from National Fruit Collection flowering dates (full bloom about the same time as Bramley). Plant a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "The English Midlands and other temperate regions with a long enough autumn for a mid-October apple.",
+      "poor_climates": "Little recorded. Very short seasons may not ripen it, and hot-summer performance is unknown."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Old writers call it healthy, but there are no modern disease ratings."
+    },
+    "grow_notes": "A heritage winter dessert apple for a sunny, sheltered garden. Leave it on the tree until mid-October and store it to eat after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "arbroath-pippin",
+    "name": "Arbroath Pippin",
+    "aka": [
+      "Oslin",
+      "Arbroath Oslin",
+      "Original Pippin",
+      "Burr Knot",
+      "Mother Apple",
+      "Summer Oslin",
+      "Orgeline"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Arbroath, Angus, Scotland",
+      "year": 1815,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old Scottish dessert apple, catalogued by the National Fruit Collection under the name Oslin. It was on record by 1815 and is probably much older. Tradition credits the monks of Arbroath Abbey with bringing it from France, an idea Hogg favoured. Its branches form burr knots that root when planted, so it was easily propagated from cuttings; this explains names such as Burr Knot and Original Pippin.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium, regular, flattened-round fruit with thick pale-yellow skin densely freckled with brown dots; the skin often cracks."
+    },
+    "taste": {
+      "summary": "Firm, crisp, juicy yellowish flesh, sweet and rich, with a strong aromatic flavour Hogg considered unique to this apple. It is short-lived, so eat it within a few weeks of ripening.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Aug-Sep; does not keep"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A free-growing, upright tree and a good bearer. The branches carry burr knots, which allow propagation from hardwood cuttings on its own roots. Old trees are prone to canker."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 2 from National Fruit Collection records, which show it among the earliest to bloom. Plant a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, short-summer climates such as eastern Scotland. An old writer noted it ripens in poorer climates and aspects than the finest dessert apples.",
+      "poor_climates": "Early flowering exposes the blossom to late frosts. Hot climates are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to canker as the tree ages, and the fruit skin often cracks. Other diseases are not recorded."
+    },
+    "grow_notes": "A historic choice for Scottish and northern gardens. It can be grown on its own roots from burr-knot cuttings; avoid frost pockets because of its early blossom, and eat the fruit fresh in late summer.",
+    "conf": "medium"
+  }
+]

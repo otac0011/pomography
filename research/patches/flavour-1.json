@@ -1,0 +1,153 @@
+{
+  "_note": "flavour verification batch 1",
+  "adams-pearmain": {
+    "taste": {
+      "tags": ["nutty", "sweet", "wine"],
+      "juicy": 3,
+      "summary": "Firm, fine-grained cream flesh that seems dry at first bite yet holds a fair amount of juice, with a rich, nutty, aromatic flavour in the Egremont Russet mould. Sweet overall, though some tasters find a tart, wine-like acidity (one compared it to a Mosel); it improves in store and is richest in midwinter."
+    }
+  },
+  "akane": {
+    "taste": {
+      "tags": ["sharp", "sweet", "perfumed"],
+      "aroma": 4,
+      "crisp": 3,
+      "summary": "Firm rather than crunchy, with plenty of juice and an unusually well-judged sweet-sharp balance in the Jonathan style, lifted by a strong apple perfume. Cut flesh is slow to brown, but picked fruit turns grainy within a few days, so eat it promptly; it hangs well on the tree for weeks and cooks to a pinkish sauce."
+    }
+  },
+  "allington-pippin": {
+    "taste": {
+      "tags": ["pineapple", "sharp", "sweet", "perfumed"],
+      "summary": "Crisp and quite sharp at picking, when it doubles as a baking apple that keeps its shape. After a month or two in store it mellows into an intense, aromatic fruit-drop or pineapple flavour with a bittersweet edge while keeping a fresh acidity; it also makes excellent juice."
+    }
+  },
+  "ambrosia": {
+    "taste": {
+      "tags": ["sweet", "mild", "pear", "floral"],
+      "summary": "Very sweet with almost no acidity, giving a pleasant but one-dimensional flavour with a pear-like note and, to some tasters, a light floral scent. Crisp and juicy though not as hard as Braeburn; left at room temperature it softens and turns more pear-like, and the cream flesh is slow to brown."
+    }
+  },
+  "american-mother": {
+    "taste": {
+      "summary": "Tender, juicy, fine-grained yellow flesh, firm rather than crunchy, that is very sweet with little acid and an intense, unusual perfume that many liken to banana. It needs about a month in store to reach its best, and quality swings widely between seasons and sites: outstanding in a good year, mild and ordinary in a cool one."
+    }
+  },
+  "ananas-reinette": {
+    "taste": {
+      "tags": ["pineapple", "sharp", "sweet", "perfumed"],
+      "summary": "A small, crisp, juicy apple whose high-acid tang is balanced by plenty of sugar and a distinctive pineapple-like scent; some tasters find it almost sweet-shop in character. It grows sweeter as the skin deepens to gold but never loses its tang, and it makes a sharp, aromatic juice. The aroma is fullest after a warm summer."
+    }
+  },
+  "anna": {
+    "taste": {
+      "tags": ["sweet", "sharp", "floral", "herbal"],
+      "crisp": 3,
+      "summary": "Light, mildly crisp and juicy, with a moderately fruity sweet-sharp balance and, for some tasters, a fresh, grassy finish. Picked early it is tart; left to ripen it turns more floral and sweet but goes soft. Keeps only about a week at room temperature (a few weeks chilled), and slices hold up well in pies and sauce."
+    }
+  },
+  "annie-elizabeth": {
+    "taste": {
+      "tags": ["sharp", "sweet"],
+      "juicy": 4
+    }
+  },
+  "ariane": {
+    "taste": {
+      "tags": ["pear-drop", "sweet", "sharp", "perfumed"],
+      "juicy": 3,
+      "summary": "Very crisp, dense, firm cream flesh that is moist rather than truly juicy, with a balanced sweet-sharp taste, a hint of pear-drop and a delicate fragrance; best eaten slightly chilled. Orange Pippin advises eating it within about a week rather than keeping it, which sits oddly with its reputation as a late keeper."
+    }
+  },
+  "arkansas-black": {
+    "taste": {
+      "tags": ["wine", "sharp", "spice", "almond", "vanilla", "honey"],
+      "juicy": 3,
+      "summary": "Very hard and tart at picking, it mellows enormously after one to two months in store into a firm, crisp apple with a dark, wine-like richness. Tasters pick out a hint of vanilla near the skin, almond towards the core and a spicy, honeyed sweetness over the remaining tartness; the waxy skin turns greasy in store."
+    }
+  },
+  "aromatic-russet": {
+    "taste": {
+      "tags": ["sharp", "lemon"],
+      "summary": "Firm, greenish-white flesh with a rich, high-quality russet flavour that is noticeably sharper than Egremont Russet and sometimes carries a hint of lemon."
+    }
+  },
+  "ashmeads-kernel": {
+    "taste": {
+      "tags": ["pear-drop", "nutty", "sharp", "sweet", "earthy"],
+      "summary": "Dense, firm, crisp and fairly juicy flesh with an intense balance of strong sugar and strong acid, a nutty depth and an earthy undertone; the note tasters most often name is pear-drop, though few agree exactly. Tart if picked early, it grows sweeter and more aromatic over several weeks in store."
+    }
+  },
+  "baldwin": {
+    "taste": {
+      "tags": ["sweet", "sharp"],
+      "acid": 3,
+      "summary": "Very hard, crisp, juicy flesh with a straightforward sweet flavour backed by a mild tartness; growers prize its firm texture more than any complexity. It holds its shape in pies, keeps three months or more and was long the classic New England cider apple."
+    }
+  },
+  "bardsey": {
+    "taste": {
+      "tags": ["lemon", "sweet", "sharp"],
+      "summary": "Sweet and juicy with a light lemon scent and a fair amount of acidity. Best eaten within a few days of picking in late September and October; it keeps only two to three weeks and cooks to a puree."
+    }
+  },
+  "barnack-beauty": {
+    "taste": {
+      "tags": ["sharp", "sweet"],
+      "sweet": 2,
+      "acid": 4,
+      "summary": "Firm, very crisp, juicy creamy-white flesh with a sharp, tangy flavour tempered by some sweetness; not a sweet apple, and as useful for cooking as for eating. A sound late keeper rather than a perfumed one."
+    }
+  },
+  "beverly-hills": {
+    "taste": {
+      "tags": ["sharp", "sweet"]
+    }
+  },
+  "belle-de-boskoop": {
+    "taste": {
+      "tags": ["sharp", "honey", "perfumed"],
+      "juicy": 4,
+      "summary": "Very sharp from the tree, with dense, very firm greenish-white flesh and plenty of juice; after some weeks in store the sugar shows through and tasters find a complex flavour with mellow honey undertones that varies with season and site. Unlike Bramley it keeps its shape when cooked, making it a fine pie apple."
+    }
+  },
+  "belle-de-pontoise": {
+    "taste": {
+      "tags": ["sweet", "sharp"],
+      "acid": 3,
+      "summary": "Whitish, juicy flesh that is sweet with a clear tang; a late dessert apple that ripens in store around January and keeps for about five months."
+    }
+  },
+  "bismarck": {
+    "taste": {
+      "summary": "Firm, fine-textured, juicy white flesh with a clean, sharp acidity and a faint perfume. Accounts of cooking disagree: Orange Pippin says it cooks to a golden puree, while growers report a white froth. The last fruit picked, mellowed in store, makes good eating for those who like a tart apple."
+    }
+  },
+  "blue-pearmain": {
+    "taste": {
+      "tags": ["sweet", "pear", "sharp"],
+      "acid": 3,
+      "crisp": 3,
+      "juicy": 3,
+      "summary": "Dense, very fine-grained flesh with a little crunch but no snap, moist rather than juicy. Sweet with a pear-like flavour and enough acid to leave a lingering tart finish; aromatic and substantial rather than refreshing. Keeps well in cold storage, though very old fruit turns rubbery."
+    }
+  },
+  "bloody-ploughman": {
+    "taste": {
+      "tags": ["sweet", "mild", "berry"],
+      "summary": "Crisp, rather dry flesh streaked pink near the skin, with a mild but sweet flavour some compare to Red Delicious; one grower notices a raspberry hint in sun-ripened fruit, though Orange Pippin classes its style as sharper. The skin is tough, and it makes a striking dark pink sauce or juice."
+    }
+  },
+  "bohnapfel": {
+    "taste": {
+      "tags": ["sharp", "mild"],
+      "summary": "Hard, coarse and distinctly sour at picking. By February in store it turns juicy, mild and lightly sweet-sharp, and it keeps until June; it is valued mainly for juice and distilling rather than for eating fresh."
+    }
+  },
+  "bountiful": {
+    "taste": {
+      "tags": ["sweet", "sharp", "mild"],
+      "crisp": 4,
+      "summary": "Fairly sweet for a cooker but a little too acid to be an ideal eater, with very firm flesh and not much distinct character raw, though sweet enough to eat when picked ripe in September. Slices hold their shape when cooked and it bakes well whole; it keeps only about a week."
+    }
+  }
+}

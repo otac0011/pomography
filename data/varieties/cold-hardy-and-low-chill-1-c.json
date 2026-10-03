@@ -1,0 +1,409 @@
+[
+  {
+    "id": "gordon",
+    "name": "Gordon",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Whittier, California",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A southern California apple from Whittier, in the Los Angeles basin, grown in home orchards for its low chill need and its long, drawn-out flowering and ripening. Its parentage and date are not well recorded.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": null,
+      "description": "Reported as green to yellow-green with red stripes and flush; fuller details not verified."
+    },
+    "taste": {
+      "summary": "Described by Californian growers as crisp and juicy with a sweet-tart flavour, good both fresh and cooked; detailed tasting data are scarce.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Through its long picking season (Aug-Oct in California)"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous, upright tree with an unusually long bloom period, so it overlaps with many other varieties; fruit ripens over several weeks, which suits home growers."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "No UK flowering group recorded. Its long bloom makes it a useful partner for other low-chill apples."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 400,
+      "hardiness_zone": 7,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild-winter, warm-summer regions such as coastal and inland southern California, where it ripens from August into October with about 400 chill hours.",
+      "poor_climates": "Cold-winter regions where early blossom is frosted, and cool short summers that cannot ripen its long-season crop."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A good backyard apple for mild-winter gardens, where its long bloom and staggered ripening spread the harvest. Give it room or prune hard, as it grows vigorously.",
+    "conf": "low"
+  },
+  {
+    "id": "lady-williams",
+    "name": "Lady Williams",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Donnybrook, Western Australia",
+      "year": 1935,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, probably of Granny Smith; the pollen parent is thought to be Jonathan or Rokewood.",
+      "raised_by": "Found on the orchard of Arthur and Maud Williams"
+    },
+    "history": "Came up as a chance seedling around 1935 on the Williams family orchard at Donnybrook in Western Australia and was named after Maud Williams, who recognised its promise. Its fame rests on its offspring: crossed with Golden Delicious it gave Cripps Pink (Pink Lady) and Cripps Red.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 0,
+      "description": "Green apple turning yellowish-green, with a red to pinkish-red flush over part of the skin."
+    },
+    "taste": {
+      "summary": "Very firm, crisp, dense flesh with a sharp, Granny Smith-like edge that rounds into a balanced sweet-sharp flavour after some months in store. A late, long-keeping apple rather than one to eat off the tree.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Jan-May, after storage"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Needs a very long, warm growing season; in cool climates the fruit may not ripen before winter."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Flowering group 2 (Orange Pippin); pair with another early-flowering diploid."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Jan-May",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 500,
+      "hardiness_zone": 7,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, warm, sunny seasons with mild winters: south-west Western Australia, Mediterranean-type climates and the warmer apple districts of California and South Africa.",
+      "poor_climates": "Short or cool seasons: in places like the UK it ripens so late (November) that fruit is often under-ripe and exposed to frost."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented outside Australia."
+    },
+    "grow_notes": "Only worth planting where the season is long and warm enough to finish a very late apple. Pick as late as safely possible and store cold; flavour develops over the winter.",
+    "conf": "medium"
+  },
+  {
+    "id": "democrat",
+    "name": "Democrat",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Tasmania",
+      "year": 1900,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Tasmanian apple first recorded around 1900 and formerly grown in Australian orchards as a late-keeping dessert apple. Not to be confused with an older, unrelated American apple of the same name (also called Varick).",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": "deep-red",
+      "blush_cover": null,
+      "stripes": false,
+      "russet": null,
+      "description": "Dark red flushed apple; fuller details not verified."
+    },
+    "taste": {
+      "summary": "Collection descriptions call the flesh crisp, sweet and juicy; detailed tasting notes are scarce.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not documented in sources available here."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering time not recorded; assume a compatible pollinator is needed."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": null,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised in Tasmania's cool-temperate maritime climate; likely to suit similar mild, moist apple regions. Chill figure is inferred from its origin.",
+      "poor_climates": "Not documented; very hot or very cold climates are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A heritage curiosity mainly found in Australian collections. Treat it as a typical late-season dessert apple and give it a long season to ripen.",
+    "conf": "low"
+  },
+  {
+    "id": "dunns-favourite",
+    "name": "Dunn's Favourite",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "No reliable record of an apple under this exact name was found. It may be a variant name for the Australian Dunn's Seedling, but that could not be confirmed, so this record is a placeholder.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not recorded."
+    },
+    "taste": {
+      "summary": "No verified tasting notes are available for this name.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Not recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Not recorded.",
+      "poor_climates": "Not recorded."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Identity unconfirmed; check the source of any tree sold under this name before planting.",
+    "conf": "low"
+  },
+  {
+    "id": "winter-banana",
+    "name": "Winter Banana",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Cass County, Indiana",
+      "year": 1876,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "David Flory (found on his farm)"
+    },
+    "history": "Found in 1876 on David Flory's farm in Cass County, Indiana, and introduced to the trade in 1890. Grown for its distinctive aroma and as a free-flowering pollinator, it is also unusually tolerant of mild winters for an old American apple.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, waxy pale-yellow apple with a soft pink to red blush on the sunny side; the skin marks and bruises easily."
+    },
+    "taste": {
+      "summary": "Sweet, low-acid fruit with an unusual perfume; the banana note it is named for is subtle, obvious to some tasters and absent for others, and one grower found light pineapple tones. Texture reports differ: older descriptions call the flesh fairly tender and coarse, while growers describe it as dense and crisp, never mealy. The aroma builds as it mellows in store.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "banana",
+        "perfumed",
+        "sweet",
+        "pineapple"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous, early-bearing spur type with tidy growth that needs little pruning. Its abundant blossom makes it a widely used pollinator."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4 (Orange Pippin). A generous pollen donor for other mid-to-late flowering apples."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 400,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Unusually adaptable: grown in temperate regions down to about zone 5 and in mild-winter areas such as coastal California, where most older apples get too little chill (it needs about 300-400 hours).",
+      "poor_climates": "Humid regions with heavy cedar-apple rust pressure, since it is very susceptible; very cold zones below about zone 5."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Very susceptible to cedar-apple rust; average resistance otherwise. The pale fruit bruises easily, so handle and store carefully."
+    },
+    "grow_notes": "A good pollinator and aromatic keeper for gardens from cool-temperate to mild-winter climates. Handle the fruit gently and keep it away from junipers where cedar-apple rust occurs.",
+    "conf": "medium"
+  }
+]

@@ -1,0 +1,606 @@
+{
+ "batch": "flavour-1",
+ "count": 45,
+ "varieties": [
+  {
+   "id": "adams-pearmain",
+   "name": "Adams Pearmain",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Firm, fine-grained cream flesh that is on the dry side rather than juicy, with a sweet, nutty and gently aromatic flavour. Improves after a spell in store and is at its richest in midwinter.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "akane",
+   "name": "Akane",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Crisp, juicy white flesh with a lively, well-balanced sweet-sharp flavour in the Jonathan style. The flesh is slow to brown, but the fruit softens fast and is best eaten within a week or two of picking; it also makes a good sauce.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "allington-pippin",
+   "name": "Allington Pippin",
+   "tags": [
+    "pineapple",
+    "sharp"
+   ],
+   "summary": "Crisp, yellowish flesh that is quite sharp at picking; after some weeks in store it develops a strong, aromatic, almost pineapple-like flavour with a bittersweet edge. Holds its shape when cooked.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "ambassy",
+   "name": "Ambassy",
+   "tags": [
+    "sweet",
+    "strawberry",
+    "pear"
+   ],
+   "summary": "Sweet, crisp and juicy, with enough acidity to taste fresher than its Golden Delicious parent. Tasters of the Delcorf family pick out light strawberry and pear hints; the cream flesh bruises easily but stays crisp for a couple of weeks.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "ambrosia",
+   "name": "Ambrosia",
+   "tags": [
+    "sweet",
+    "honey",
+    "pear",
+    "mild"
+   ],
+   "summary": "Honey-sweet with very little acid and a gentle pear-like perfume; crisp and juicy but finer-textured than hard modern apples. The cream flesh is slow to brown, and it eats best chilled.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "american-mother",
+   "name": "American Mother",
+   "tags": [
+    "banana",
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Tender, juicy, fine-grained yellow flesh that is sweet with little acidity and an unusual, strongly perfumed aroma that many describe as banana-like. Improves after about a month in store.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 5,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "ananas-reinette",
+   "name": "Ananas Reinette",
+   "tags": [
+    "pineapple",
+    "sharp",
+    "perfumed"
+   ],
+   "summary": "Crisp and juicy with a lively, high-acid bite balanced by sugar, and a distinctive scented note that tasters liken to pineapple. In warm seasons the aroma is strongest; after a dry summer fruits stay small and less perfumed.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "anna",
+   "name": "Anna",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, sweet and fairly juicy with a moderate tang. Picked a little early it is tart; fully ripe it turns sweeter and faintly floral. Good fresh or cooked, but softens within a couple of weeks.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "annie-elizabeth",
+   "name": "Annie Elizabeth",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "White, firm yet tender flesh with a brisk, lively acidity that softens over the winter into a pleasant sweet-sharp balance. Slices keep their shape when cooked, which makes it a good baking and tart apple, and by late winter it is mild enough to eat raw.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "api",
+   "name": "Api",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Crisp, juicy white flesh with a sweet, gently aromatic flavour; much of the scent sits in the skin. Small enough to eat in a few bites, and some tasters notice an almond-like note after storage.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "arbroath-pippin",
+   "name": "Arbroath Pippin",
+   "tags": [
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Firm, crisp, juicy yellowish flesh, sweet and rich, with a strong aromatic flavour Hogg considered unique to this apple. It is short-lived, so eat it within a few weeks of ripening.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "ariane",
+   "name": "Ariane",
+   "tags": [
+    "pear-drop",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp, juicy and dense cream flesh with a balanced sweet-sharp taste and a light pear-drop note; neither too sweet nor too sharp, and good after months in store.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "arkansas-black",
+   "name": "Arkansas Black",
+   "tags": [
+    "sharp",
+    "spice"
+   ],
+   "summary": "Very hard, dense and sharp straight from the tree. After one to two months in store it becomes sweeter and aromatic, with a crisp, rather dry yellow flesh and a lingering spicy note.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 5,
+   "juicy": 2
+  },
+  {
+   "id": "aromatic-russet",
+   "name": "Aromatic Russet",
+   "tags": [
+    "lemon"
+   ],
+   "summary": "Firm, greenish-white flesh with a sweet, aromatic russet flavour; reported to be sharper and richer than Egremont Russet, sometimes with a lemony edge.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "arthur-turner",
+   "name": "Arthur Turner",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "A medium-sharp cooker with a touch of sweetness, so it needs little sugar. The white flesh cooks to a pale, creamy purée and is a classic for baking whole; cut flesh browns quickly.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "ashmeads-kernel",
+   "name": "Ashmead's Kernel",
+   "tags": [
+    "pear-drop",
+    "nutty",
+    "sharp"
+   ],
+   "summary": "Dense, firm, fairly juicy yellowish flesh with a striking balance of strong sugar and strong acid, a nutty depth and an acid-drop / pear-drop sharpness. Hard and sharp at picking, it mellows and becomes richer after a few weeks in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "autumn-glow",
+   "name": "Autumn Glow",
+   "tags": [],
+   "summary": "Flavour and texture are not documented in the sources checked.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "autumn-pearmain",
+   "name": "Autumn Pearmain",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Firm, fine-grained cream flesh that is only moderately juicy, with a gentle sweetness and a quietly aromatic, nutty character typical of the old pearmains. A connoisseur's apple rather than a crunchy, juicy one.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "bakers-delicious",
+   "name": "Bakers Delicious",
+   "tags": [
+    "perfumed"
+   ],
+   "summary": "Firm, fine-grained cream flesh that is crisp and juicy, with a pleasantly aromatic flavour that has more depth than many early apples. Best eaten soon after picking as it does not keep long.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "baldwin",
+   "name": "Baldwin",
+   "tags": [
+    "sharp",
+    "spice",
+    "sweet"
+   ],
+   "summary": "Crisp, juicy, coarse-grained flesh with a brisk sweet-tart balance and a light spiciness. Good fresh, holds its shape in pies and was long used for New England cider.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "bardsey",
+   "name": "Bardsey",
+   "tags": [
+    "lemon",
+    "sweet"
+   ],
+   "summary": "Sweet and juicy with a distinctive lemony scent when cut, balanced by a fair amount of acidity. Best eaten fresh from the tree in late September and October.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": null,
+   "juicy": 4
+  },
+  {
+   "id": "barnack-beauty",
+   "name": "Barnack Beauty",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, crisp, juicy creamy-white flesh with a sweet but tangy balance; a solid, refreshing late keeper rather than a highly perfumed one.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "barnack-orange",
+   "name": "Barnack Orange",
+   "tags": [],
+   "summary": "Firm, rather coarse flesh with only a little juice, carrying a good aromatic flavour that shows its Cox parentage.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "battleford",
+   "name": "Battleford",
+   "tags": [],
+   "summary": "Grown on the prairies as an all-purpose apple for cooking and fresh eating; reliable tasting notes were not found.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "beauty-of-bath",
+   "name": "Beauty of Bath",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Soft, very juicy flesh with a sharp, refreshing bite that turns sweeter if eaten the moment it ripens. It has a distinctive early-summer tang but goes mealy within a day or two of picking.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "beauty-of-hants",
+   "name": "Beauty of Hants",
+   "tags": [],
+   "summary": "Soft, juicy, yellowish flesh with a pleasant flavour that recalls Blenheim Orange, though juicier and less dry.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "beauty-of-kent",
+   "name": "Beauty of Kent",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Tender, rather coarse-grained flesh that is very juicy, with a gentle sub-acid flavour that is pleasant but not strong. Cooks readily into a soft, juicy fill.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "belle-de-boskoop",
+   "name": "Belle de Boskoop",
+   "tags": [
+    "sharp",
+    "perfumed"
+   ],
+   "summary": "Very sharp straight from the tree, with plenty of sugar hidden behind the acid; after a few weeks in store it becomes a rich, bracing, fragrant eating apple. Flesh is firm and fairly coarse, and it cooks to a tangy, well-flavoured purée that keeps some shape.",
+   "sweet": 3,
+   "acid": 5,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "belle-de-pontoise",
+   "name": "Belle de Pontoise",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "White, juicy flesh that is sweet with a light acidity; a late-keeping dessert apple at its best in mid-winter.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": null,
+   "juicy": 4
+  },
+  {
+   "id": "bellefleur-krasnyi",
+   "name": "Bellefleur Krasnyi",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Sweet, crisp and firm but rather dry, with pinkish flesh.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "ben-davis",
+   "name": "Ben Davis",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Firm, coarse, rather dry white flesh with a mild, plain sweet-sharp flavour; often described as cottony. It softens and loses what little flavour it has late in storage.",
+   "sweet": 2,
+   "acid": 2,
+   "aroma": 1,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "benenden-early",
+   "name": "Benenden Early",
+   "tags": [],
+   "summary": "Soft, rather coarse yellowish flesh with a mild, gently acidic flavour. An early apple to eat straight from the tree rather than store.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 2,
+   "juicy": null
+  },
+  {
+   "id": "bens-red",
+   "name": "Ben's Red",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Sweet and pleasant, with firm, crisp, rather dry flesh that can be slightly coarse. An early eating apple best enjoyed fresh from the tree.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "bess-pool",
+   "name": "Bess Pool",
+   "tags": [
+    "sweet",
+    "wine"
+   ],
+   "summary": "Sweet, gently wine-like flesh, sometimes tinged red under the skin. Old accounts call it tender and juicy, while the National Fruit Collection finds it rather dry and slightly coarse. It stays firm in store until spring.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "bethan",
+   "name": "Bethan",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "A small, crisp, juicy and sweet early apple with more richness than most September fruit; the RHS fruit specialist Joan Morgan called it pretty and moreish.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "beverly-hills",
+   "name": "Beverly Hills",
+   "tags": [],
+   "summary": "A McIntosh-style summer apple: tender, juicy white flesh with a slightly tart, refreshing flavour that sweetens if left to ripen fully on the tree. Useful for cooking as well as fresh, but it does not keep.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "bismarck",
+   "name": "Bismarck",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Firm, fine-textured, juicy white flesh with a clean, fairly sharp acidity and a faint perfume. It cooks to a soft, pale puree, and once mellowed in store it can be eaten raw by those who like a tart apple.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "black-twig",
+   "name": "Black Twig",
+   "tags": [
+    "sharp",
+    "spice",
+    "wine"
+   ],
+   "summary": "Very firm, crisp flesh that is tart and spicy at harvest, rather like a sharper Winesap; it mellows and becomes richer after a couple of months in store. Valued for cider and cooking as well as winter eating.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 5,
+   "juicy": 3
+  },
+  {
+   "id": "blenheim-orange",
+   "name": "Blenheim Orange",
+   "tags": [
+    "nutty",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Creamy, crumbly and rather dry flesh with a distinctive nutty, sweet-sharp flavour, traditionally enjoyed with cheese. Sharper early in the season and good for cooking then; it cooks to a stiff purée ideal for apple charlotte.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 2,
+   "juicy": 2
+  },
+  {
+   "id": "bloody-ploughman",
+   "name": "Bloody Ploughman",
+   "tags": [],
+   "summary": "Crisp, rather dry flesh that is greenish-white stained pink near the skin. Only lightly sweet with a moderate acidity; more striking to look at than to eat, and good cooked or juiced, where the red pigment colours the result.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "blue-pearmain",
+   "name": "Blue Pearmain",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Yellowish, rather soft and coarse flesh that is somewhat dry, with a sweet, pleasantly aromatic flavour. A mellow winter apple rather than a crisp, juicy one.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 2
+  },
+  {
+   "id": "bohnapfel",
+   "name": "Bohnapfel",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Hard, coarse and distinctly sour at picking. After months in store it turns juicy and mildly sweet-sharp with only faint spice; fully ripened fruit gives juice and cider with good acidity and aroma.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 3
+  },
+  {
+   "id": "bountiful",
+   "name": "Bountiful",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Fairly sweet for a cooker with moderate sharpness, so it needs little added sugar; slices hold their shape when cooked. Raw it is pleasant but plain, gaining some sweetness if left on the tree into October.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 1,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "bow-hill-pippin",
+   "name": "Bow Hill Pippin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, rather coarse but juicy yellowish flesh with a sweet, aromatic flavour. Little detailed modern tasting information is available.",
+   "sweet": 3,
+   "acid": null,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "braddick-nonpareil",
+   "name": "Braddick Nonpareil",
+   "tags": [],
+   "summary": "Firm yellowish flesh with a sweet, aromatic flavour in the nonpareil style.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": null
+  }
+ ]
+}

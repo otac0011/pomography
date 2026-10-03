@@ -1,0 +1,508 @@
+[
+  {
+    "id": "coxs-orange-pippin",
+    "name": "Cox's Orange Pippin",
+    "aka": [
+      "Cox's Orange",
+      "Cox"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Colnbrook, Buckinghamshire, England",
+      "year": 1825,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, possibly of Ribston Pippin",
+      "raised_by": "Richard Cox"
+    },
+    "history": "Raised around 1825 by Richard Cox, a retired brewer, in his garden at Colnbrook near Slough, and put on sale by the nurseryman Charles Turner around 1850. It became the benchmark English dessert apple and a parent of a long list of later varieties, from Kidd's Orange Red to Ellison's Orange.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, slightly conical apple, greenish-yellow to gold with an orange-red to brownish flush and fine red streaks, often with russet around the stalk."
+    },
+    "taste": {
+      "summary": "Rich and complex: honeyed sweetness balanced by lively acidity, with a floral, almost rose-water perfume, pear-drop esters and a nutty background. Flesh is fine, cream-coloured and juicy; flavour deepens for a few weeks after picking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "floral",
+        "pear-drop",
+        "honey",
+        "rose",
+        "nutty"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; flavour peaks 2-6 weeks after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "A demanding tree: dislikes cold, wet or heavy soils, and blossom and fruit set suffer in cold springs. Prune as a spur-bearer and thin for size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3. The RHS lists it as incompatible with Kidd's Orange Red (and its sports) and Holstein; Cox sports cannot pollinate Cox."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm, sunny but temperate summers with dry autumns, such as south-east England, the Netherlands, Belgium, Denmark and the cooler fruit districts of New Zealand.",
+      "poor_climates": "Cold, wet western and upland sites where scab and canker run riot, and hot continental summers where the fruit loses flavour, colour and keeping quality."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 5,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Very prone to canker, plus scab and mildew; fruit can crack and suffer bitter pit. Generally needs a good spray or hygiene programme."
+    },
+    "grow_notes": "Plant in the warmest, best-drained spot available, ideally in the south and east of Britain. Keep the soil fertile but not waterlogged, cut out canker promptly and pick a group 2-4 pollinator that is not a Cox sport or Kidd's Orange Red.",
+    "conf": "high"
+  },
+  {
+    "id": "crimson-peasgood",
+    "name": "Crimson Peasgood",
+    "aka": [
+      "Crimson Peasgood's Nonsuch"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": null,
+      "year": 1931,
+      "year_note": "first recorded",
+      "kind": "sport",
+      "parentage": "Sport of Peasgood's Nonsuch",
+      "raised_by": null
+    },
+    "history": "A more highly coloured bud sport of the Lincolnshire apple Peasgood's Nonsuch, which Mrs Peasgood raised from seed around 1858. The sport was planted in the National Fruit Trials in 1931; where and by whom it was found is not recorded in the sources checked.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, flattish, even fruit like Peasgood's Nonsuch but with a much stronger crimson flush and stripes."
+    },
+    "taste": {
+      "summary": "As Peasgood's Nonsuch: soft, juicy and moderately sweet with gentle acidity and some aroma. It cooks well, breaking down easily, and is also eaten fresh.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A bud sport, so tree habit should match Peasgood's Nonsuch; not separately documented."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Peasgood's Nonsuch is in group 3 and the sport flowers at the same time at Brogdale."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate English conditions, as for its parent.",
+      "poor_climates": "Hot summers are likely to soften the very large fruit; inferred from the parent rather than documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Expected to match Peasgood's Nonsuch; not separately recorded."
+    },
+    "grow_notes": "Treat it like Peasgood's Nonsuch: a fertile, sheltered site and a group 2-4 pollinator. Grown mainly for its showy colour and large cooking fruit.",
+    "conf": "low"
+  },
+  {
+    "id": "egremont-russet",
+    "name": "Egremont Russet",
+    "aka": [
+      "Egremont"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1872,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "First recorded in 1872; it is often linked to the Earl of Egremont's estate at Petworth in Sussex, though its real origin is unknown. It is now the main commercial russet apple in Britain.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 3,
+      "description": "Flattish-round apple almost completely covered in golden-brown russet, sometimes with a faint orange-bronze cheek."
+    },
+    "taste": {
+      "summary": "Dense, firm, fairly dry cream flesh with a sweet, distinctly nutty flavour and modest acidity. Crisp at picking, it mellows and becomes richer in store but shrivels if kept too long.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "nutty",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Fairly compact, upright tree that bears young and regularly; one of the easier russets to grow."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Group 2; often described as partly self-fertile but crops better with a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist British and northern European conditions; tolerates colder and wetter sites than Cox.",
+      "poor_climates": "Hot, dry summers make the dry flesh drier and the fruit smaller; flavour is best in mild climates."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy with good scab resistance; russeted skin loses moisture, so store in a cool, humid place."
+    },
+    "grow_notes": "Very reliable in British gardens, including heavier soils and cooler regions. Plant with an early-to-mid flowering partner and pick before the fruit turns too yellow to keep.",
+    "conf": "high"
+  },
+  {
+    "id": "ellisons-orange",
+    "name": "Ellison's Orange",
+    "aka": [
+      "Ellison"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bracebridge and Hartsholme Hall, Lincoln, Lincolnshire, England",
+      "year": 1904,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Calville Blanc",
+      "raised_by": "Rev. C.C. Ellison and Mr Wipf"
+    },
+    "history": "Raised near Lincoln by the Reverend C.C. Ellison of Bracebridge with Mr Wipf, gardener at Hartsholme Hall, and first recorded in 1904. Pennells of Lincoln introduced it in 1911 and it won RHS awards in 1911 and 1917.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": null,
+      "description": "Golden-yellow conical apple striped and lightly flushed crimson."
+    },
+    "taste": {
+      "summary": "Soft, very juicy yellow flesh, sweet and perfumed, with an unmistakable aniseed note that strengthens a few days after picking. Low in acid; it does not stay at its best for long.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "aniseed",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; best within a couple of weeks of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Easy and productive; can slip into alternate cropping if overloaded, so thin heavy crops."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Group 4; partly self-fertile and a useful pollinator for mid-late flowering varieties. Blossom tolerates frost well."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate regions, including eastern and northern England and frost-prone sites, thanks to its hardy blossom.",
+      "poor_climates": "Warm summers make the already soft flesh mealy quickly."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 4,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good scab and mildew resistance, but prone to canker and attractive to codling moth."
+    },
+    "grow_notes": "A good choice for colder or frostier British gardens. Thin the fruit to avoid biennial bearing, watch for canker, and eat the crop promptly.",
+    "conf": "high"
+  },
+  {
+    "id": "elton-beauty",
+    "name": "Elton Beauty",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Ince Orchards, near Chester, Cheshire, England",
+      "year": 1952,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "James Grieve x Worcester Pearmain",
+      "raised_by": "N.W. Barritt, Ince Orchards"
+    },
+    "history": "Raised at Ince Orchards near Chester (Elton is the neighbouring village) and introduced by 1952. It shares its parentage with Lord Lambourne and the Swedish Katy.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 1,
+      "description": "James Grieve-shaped fruit coloured almost all over in bright red flush and streaks, with a little russet around the stalk."
+    },
+    "taste": {
+      "summary": "Soft, fine and very juicy flesh with a lively, fairly sharp and aromatic flavour; best eaten fresh as it does not keep.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, straight from the tree"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A rather weak tree that crops heavily; use a vigorous rootstock and thin the fruit."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (group 2); pollinate with a group 1-3 variety."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist north-western England and similar maritime climates.",
+      "poor_climates": "Not documented outside Britain; soft early fruit is likely to suffer in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "Grow on a stronger rootstock than usual because the tree is weak, and keep crops thinned so it does not exhaust itself. Needs an early-flowering partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "emperor-alexander",
+    "name": "Emperor Alexander",
+    "aka": [
+      "Alexander",
+      "Kaiser Alexander",
+      "Empereur Alexandre"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "UA",
+      "place": null,
+      "year": 1800,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old eastern European apple, thought to be Ukrainian and known during the 1700s; it reached Britain in the early 1800s. It spread widely under many names, including Aport, and is the mother of the hardy American variety Wolf River.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": null,
+      "description": "Very large, broad conical apple, greenish-yellow with orange-red streaks and flush; a showpiece fruit."
+    },
+    "taste": {
+      "summary": "Coarse, rather dry and fairly acid flesh with little aroma; more impressive for size than flavour when raw, but useful for cooking.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A strong, spreading tree from a cold-winter region; the heavy fruit bruises easily and may drop in wind."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Listed by the RHS in group 3 under the name Alexander."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold continental climates with hard winters, such as Ukraine, Russia, Scandinavia and the northern prairies, as well as cool maritime Britain.",
+      "poor_climates": "Mild-winter or hot-summer regions, where chilling may be inadequate and the large fruit goes soft and mealy."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not well recorded; the big fruit bruises easily."
+    },
+    "grow_notes": "A historic and very winter-hardy variety for cold gardens or for anyone wanting giant show apples. Give it room to spread and a sheltered spot so the heavy fruit is not blown down.",
+    "conf": "medium"
+  }
+]

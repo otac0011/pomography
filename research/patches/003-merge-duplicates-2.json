@@ -1,0 +1,7 @@
+{
+  "_note": "Second duplicate merge (found by the last variety batch), 2026-10-03: Borovinka = Duchess of Oldenburg; Papirovka = White Transparent (aliases already present on the survivors).",
+  "borovinka": null,
+  "papirovka": null,
+  "duchess-of-oldenburg": {"aka": ["Oldenburg", "Duchess", "Borovinka", "Charlamowsky", "Borowitsky"]},
+  "white-transparent": {"aka": ["Yellow Transparent", "Transparente Blanche", "Klarapfel", "Papirovka", "Belyi Naliv", "Skorospelka", "Alebastrovoe"]}
+}

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "gascoynes-scarlet",
+    "name": "Gascoyne's Scarlet",
+    "aka": ["Gascoyne's Scarlet Seedling", "Gascoigne's Scarlet"],
+    "uses": ["dessert", "culinary", "juice"],
+    "origin": {
+      "country": "GB",
+      "place": "Bapchild Court, Sittingbourne, Kent, England",
+      "year": 1871,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mr Gascoyne"
+    },
+    "history": "Raised by a Mr Gascoyne at Bapchild Court near Sittingbourne and introduced in 1871 by G. Bunyard & Co. of Maidstone; it won an RHS First Class Certificate in 1887. Prized as a showy exhibition and dual-purpose apple, and its pink-tinged flesh gives a rosy juice.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, broad, slightly ribbed apple with a pale cream skin largely covered in pink to bright scarlet with a waxy bloom; flesh often pink just under the skin."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained, rather dry white flesh, sweet with only a light, faintly perfumed flavour; sharper at picking and mellower after storage. Grown more for looks, cooking and coloured juice than for depth of flavour.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": ["sweet", "mild"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growers report tip-bearing, which complicates spur pruning. Ploidy is reported inconsistently (some UK lists treat it as triploid, others as an ordinary pollinator)."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4, needs a partner; until its ploidy is confirmed, do not rely on it as the only pollinator for another tree."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate south-east England; traditionally recommended for chalky soils like those of north Kent.",
+      "poor_climates": "Warm summers would likely spoil the scarlet colour; no record of success in hot regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A decorative heritage apple for Kentish-style chalk or loam soils. Prune as a tip-bearer and pick in late September for storing through to the new year.",
+    "conf": "low"
+  },
+  {
+    "id": "george-cave",
+    "name": "George Cave",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Dovercourt, Essex, England",
+      "year": 1923,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "George Cave"
+    },
+    "history": "Raised in 1923 by George Cave at Dovercourt, near Harwich. The Essex nursery Seabrook & Sons took it up and named it after him in 1945; it remains one of the most reliable very early English eaters.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, slightly ribbed apple, greenish-yellow with a bright red flush and stripes on the sunny side."
+    },
+    "taste": {
+      "summary": "Fine-textured, juicy white flesh with a pleasant, lightly acid and gently aromatic flavour, brisker than most other August apples. Softens and goes mealy within days, so eat it straight from the tree.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Aug, on the day of picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Partly tip-bearing and a regular cropper; fruit drops quickly once ripe, so pick over several days."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early flowering (usually listed group 2, sometimes 3); partly self-fertile, with frost-tolerant blossom."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate Britain, including colder and more northerly gardens, since it ripens early and its blossom tolerates frost.",
+      "poor_climates": "Hot summers would make the quick-softening fruit go mealy even sooner."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No major weaknesses recorded and considered suitable for organic growing; main drawback is very short keeping and pre-harvest drop."
+    },
+    "grow_notes": "A good first apple of the season for a garden. Plant with another early-flowering variety and check the tree daily in August, as ripe fruit falls readily.",
+    "conf": "medium"
+  },
+  {
+    "id": "george-neal",
+    "name": "George Neal",
+    "aka": [],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Otford, Kent, England",
+      "year": 1904,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mrs Reeves"
+    },
+    "history": "Raised in 1904 by Mrs Reeves at Otford in Kent and introduced in 1923 by R. Neal & Sons of Wandsworth, London, receiving an RHS Award of Merit the same year.",
+    "look": {
+      "size": "large",
+      "shape": "flat",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 25,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, flat, ribbed apple, pale green-yellow with a light pinkish flush and stripes."
+    },
+    "taste": {
+      "summary": "Rather soft, coarse, juicy greenish flesh with a clean acidity; cooks quickly, collapsing almost completely into a smooth purée.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Cook from Aug to Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little modern growing data recorded."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Among the earliest to flower in the National Fruit Collection records, consistent with group 2; pair with another early bloomer."
+    },
+    "season": {
+      "harvest": "early Aug-late Aug",
+      "eating": "Aug-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate south-east England, where it was raised.",
+      "poor_climates": "Early flowering makes it vulnerable in frost pockets; untested in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "An early-season cooker for southern gardens. Avoid frost pockets because it blooms early, and use the fruit from August onwards for purées and sauces.",
+    "conf": "low"
+  },
+  {
+    "id": "golden-noble",
+    "name": "Golden Noble",
+    "aka": [],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Stow Bardolph (Stow Hall), near Downham Market, Norfolk, England",
+      "year": 1803,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": null,
+      "raised_by": "Patrick Flanagan (finder)"
+    },
+    "history": "Found by Patrick Flanagan, head gardener to Sir Thomas Hare at Stow Hall in Norfolk, in an old orchard there. William Forsyth mentioned it in 1803 and Flanagan presented it to the Horticultural Society of London in 1820; it is a parent of Edward VII.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, clear golden-yellow apple without a flush, sometimes with scattered russet dots."
+    },
+    "taste": {
+      "summary": "Juicy, fairly fine cream flesh with a bright acidity that has enough sweetness to need little sugar; cooks into a smooth, golden, well-flavoured purée.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Cook from Oct to Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Neat, tidy growth that suits a garden; comes into bearing early and crops regularly."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Usually listed in group 4 (one database says 5); blossom is somewhat frost-sensitive."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate lowland England, especially drier eastern counties like its native Norfolk.",
+      "poor_climates": "Frost-prone sites can damage its blossom; hot, humid areas would add mildew and fire blight pressure."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Fair resistance to scab and canker, but quite prone to powdery mildew and fire blight."
+    },
+    "grow_notes": "One of the finest cookers for a small garden thanks to its neat habit. Avoid the lowest frost pockets, keep mildew in check by pruning out infected shoots, and pick from late September.",
+    "conf": "high"
+  },
+  {
+    "id": "gladstone",
+    "name": "Gladstone",
+    "aka": ["Mr Gladstone", "Jackson's Seedling"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Worcestershire, England (rediscovered at Blakedown Nursery, Kidderminster)",
+      "year": 1780,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Thought to date from around 1780; it was rediscovered by Mr Jackson of Blakedown Nursery near Kidderminster and sold from 1868 as 'Jackson's Seedling'. After an RHS First Class Certificate in 1883 it was renamed in honour of the Prime Minister W. E. Gladstone.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Conical, somewhat ribbed apple, mostly covered with a dark red flush and stripes over greenish yellow."
+    },
+    "taste": {
+      "summary": "Crisp and juicy when just picked, with a sweet, pleasantly aromatic flavour, but it turns soft and slightly floury within a few days.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "late Jul-Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Fairly vigorous, partly tip-bearing tree that starts cropping young and bears heavily and regularly."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Listed in group 4 and partly self-fertile; blossom has some frost resistance."
+    },
+    "season": {
+      "harvest": "late Jul-early Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, mild, damp temperate climates such as the English Midlands and west.",
+      "poor_climates": "Hot summers would make the very early, quick-softening fruit mealy almost at once."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 1,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to be very resistant to scab and canker; its weakness is that the fruit keeps only a few days."
+    },
+    "grow_notes": "One of the earliest English eating apples, best for gardeners who will eat it straight off the tree. Pick little and often as the fruit colours, as it does not keep.",
+    "conf": "medium"
+  }
+]

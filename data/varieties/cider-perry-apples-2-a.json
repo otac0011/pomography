@@ -1,0 +1,618 @@
+[
+  {
+    "id": "court-royal",
+    "name": "Court Royal",
+    "aka": ["Sweet Blenheim"],
+    "uses": ["cider", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "West Country, England (grown in Somerset, East Devon and Herefordshire); exact origin unknown",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old West Country apple whose birthplace is not recorded; it was once planted across Somerset, East Devon and Herefordshire. In the early twentieth century it was also used as an eating apple, but its lasting role has been as a 'sweet' cider fruit that gives sugar to blends.",
+    "look": {
+      "size": "medium",
+      "shape": "flat",
+      "ground": "green",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 1,
+      "description": "Flattish, pale whitish-green apple with a modest orange flush broken into stripes and mottles; a little russet; cream flesh."
+    },
+    "taste": {
+      "summary": "A true sweet cider apple: little acid and little tannin, so the juice is soft, sugary and plain, and it ferments quickly. The fruit is lightly crisp and sweet enough to eat fresh, which is why it once doubled as a dessert apple.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": 3,
+      "juicy": null,
+      "tags": ["sweet", "mild"],
+      "cider_class": "sweet",
+      "best_eaten": "Oct-Nov; mill soon after picking, it does not need long sweating"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Vigorous triploid that makes a large tree, so it suits standard orchard planting rather than small gardens. Cropping regularity is not well recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group is approximate (mid-season in NFC records). As a triploid it gives poor pollen, so plant two other compatible diploids nearby."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist maritime regions like the English West Country and Welsh borders, with long gentle autumns.",
+      "poor_climates": "Untested in hot summer climates; very cold continental winters and short seasons are not where it was selected."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease record not documented. Triploid, so useless as a pollinator; its size needs space."
+    },
+    "grow_notes": "Give it room: on vigorous stocks it becomes a big orchard tree. Pair with two diploid cider varieties that flower mid-season. Useful to add sugar to sharp or bitter blends.",
+    "conf": "low"
+  },
+  {
+    "id": "royal-wilding",
+    "name": "Royal Wilding",
+    "aka": ["Cadbury"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Herefordshire, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Herefordshire cider apple with no recorded origin; Victorian pomologists noted many large old trees, so it clearly predates the 1800s, and in Somerset it went by the name 'Cadbury'. It is not the same as the 'Devonshire Royal Wilding', an eighteenth-century wilding found near Exeter. Material survives in the Tidnor Wood cider-apple collection.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small, ribbed, conical fruit, greenish yellow with a brownish-red cheek and fine speckling; very short stalk."
+    },
+    "taste": {
+      "summary": "A bittersweet with woolly, tough, not very juicy flesh. The juice is sweet but rather flat and dark, with little acid and moderate tannin; on its own it lacks flavour but it adds body and strength to blends.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 3,
+      "crisp": 1,
+      "juicy": 2,
+      "tags": ["bitter", "astringent", "sweet"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; a late fruit for milling in Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "light",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Described as hardy, leafy and forming a broad, handsome head, but generally a shy bearer that crops well only in favourable seasons."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering time not recorded; plant with other cider varieties."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "The cool, moist Herefordshire and West Country orchard climate, where sunny autumns lift its sugar.",
+      "poor_climates": "Dull, cool summers give thin juice and light crops; performance in hot or very cold climates is unknown."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease record not documented. Main weakness is shy, season-dependent cropping."
+    },
+    "grow_notes": "Best treated as a blending bittersweet in a mixed orchard rather than a main cropper. A warm, sheltered site improves both crop and sugar.",
+    "conf": "low"
+  },
+  {
+    "id": "frequin-rouge",
+    "name": "Frequin Rouge",
+    "aka": ["Fréquin Rouge"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "North-western France (old cider variety of Normandy and Brittany)",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A long-established member of the French 'Fréquin' family of cider apples, widely planted in Normandy and Brittany for cider and Calvados. It has also been trialled in North American cider programmes.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Smallish cider apple with an orange-red to red flush, as the name suggests."
+    },
+    "taste": {
+      "summary": "A strongly tannic French 'amère' (bitter) apple: very high tannin, low-to-moderate acid and plenty of sugar. Used for weight, colour and grip in cider and Calvados blends rather than on its own.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 5,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["bitter", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct-Nov"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Fairly large tree that is slow to start bearing; mature trees crop well but tend to alternate."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Mid-to-late flowering; pair with other French bittersweets."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp Atlantic climates like Normandy, Brittany and south-west England.",
+      "poor_climates": "Humid sites with heavy disease pressure (scab, canker); hot dry summers untested."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and canker; slow to come into bearing."
+    },
+    "grow_notes": "Plant on a reasonably vigorous stock and be patient for the first crops. Thin in heavy years to steady the alternate cropping, and keep canker in check with clean pruning cuts.",
+    "conf": "medium"
+  },
+  {
+    "id": "binet-rouge",
+    "name": "Binet Rouge",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Normandy, France",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A well-known Norman bittersweet, one of a small 'Binet' group (with Binet Blanc and Binet Violet), long used for Normandy cider and Calvados. Despite the shared syllables it is not thought to be related to the English Dabinett.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Small cider apple flushed red."
+    },
+    "taste": {
+      "summary": "A medium bittersweet with a high sugar content, low acid and moderate tannin, giving a rich, soft, slightly bitter juice valued for Calvados and full-bodied cider.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["bitter", "sweet"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; a very late apple for milling Nov-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Weak-growing but starts cropping early; reports on yield differ (heavy in some sources, poorly productive in French ones), and it leans towards alternate bearing."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Needs another cider variety flowering at the same time."
+    },
+    "season": {
+      "harvest": "late Oct-mid Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist Atlantic climates with long autumns that ripen its very late fruit.",
+      "poor_climates": "Warm humid areas with fire blight pressure, and mildew-prone dry sites; short seasons may not ripen it."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 1,
+      "mildew": 5,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to powdery mildew and fire blight, though notably resistant to canker."
+    },
+    "grow_notes": "Use a vigorous rootstock to compensate for its weak growth. Watch for mildew in spring and avoid planting where fire blight is common.",
+    "conf": "medium"
+  },
+  {
+    "id": "muscadet-de-dieppe",
+    "name": "Muscadet de Dieppe",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Normandy, France (named for Dieppe, Seine-Maritime)",
+      "year": 1750,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Normandy cider apple named after the Channel port of Dieppe and recorded from around the mid-eighteenth century. It is one of the earliest French cider apples to ripen and is held in the UK National Fruit Collection.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 35,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, broadly conical fruit, green to yellow with a dark red to orange-red striped and mottled flush; firm cream flesh."
+    },
+    "taste": {
+      "summary": "A mild bittersweet with sweet, aromatic juice: low acid and moderate tannin, softer and more fragrant than the heavy Norman bitters. Useful for early-season cider.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 3,
+      "crisp": 3,
+      "juicy": null,
+      "tags": ["sweet", "bitter"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Sep-Oct within a couple of weeks of picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Ploidy is reported inconsistently (listed as triploid in some cider tables, diploid in others). Crops reasonably."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Very early flowering, among the first cider apples in blossom; partners must also flower early."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Maritime climates with few late spring frosts, such as coastal Normandy and southern England.",
+      "poor_climates": "Frost pockets and continental areas with late spring frosts, which catch its very early blossom."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Early blossom is the main risk (spring frost). Reported to have some resistance to fire blight."
+    },
+    "grow_notes": "Plant on a frost-free slope rather than in a hollow. Because it ripens early, press it separately or with other September apples rather than holding it for the main late harvest.",
+    "conf": "medium"
+  },
+  {
+    "id": "kermerrien",
+    "name": "Kermerrien",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Finistère (Cornouaille), Brittany, France",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A traditional Breton cider apple from Finistère, in use since the nineteenth century around Quimper and Carhaix. It is a staple of the Cornouaille cider orchards.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "orange-red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium-sized cider apple with an orange to orange-red flush."
+    },
+    "taste": {
+      "summary": "French sources and juice analyses class it as a bitter apple: very juicy and strongly scented, with high tannin and little acid. One English-language source calls it an acidic blending apple instead, so its role is reported inconsistently; the analytical data point to bittersweet.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": 4,
+      "tannin": 4,
+      "crisp": null,
+      "juicy": 5,
+      "tags": ["bitter", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct-Nov"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with an upright-spreading habit. Sources disagree on how quickly it comes into bearing."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not reliably recorded; plant with other Breton or Norman cider varieties."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 850,
+      "hardiness_zone": 6,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, wet Atlantic climates like western Brittany and Cornwall.",
+      "poor_climates": "Untested in hard continental winters or hot, dry summers."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to be fairly resistant to scab and mildew; otherwise little documented."
+    },
+    "grow_notes": "Suited to low-input orchards in mild, damp regions. Blend it with sweeter or sharper fruit to balance its strong tannin.",
+    "conf": "low"
+  },
+  {
+    "id": "raxao",
+    "name": "Raxao",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "ES",
+      "place": "Asturias, Spain",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A traditional Asturian cider apple, one of the local varieties approved for the protected 'Sidra de Asturias' designation and characterised by the regional agricultural research service. It is regarded as one of the more valuable varieties for cider making.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": null,
+      "description": "Fairly large, flattened-round fruit, yellow-green with orange-brown and red colouring streaked purple-red; cream flesh."
+    },
+    "taste": {
+      "summary": "Belongs to the acid group of Asturian cider apples: a clearly sharp juice with good sugar and only modest phenolics, giving a slight bitter edge. Valued for freshness and acidity in the typical Asturian blend.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": "sharp",
+      "best_eaten": "Not for eating; mill Nov-Dec"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Very vigorous and slow to come into bearing; productive once established but strongly inclined to alternate cropping."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowers very late by Asturian standards (early-to-mid May there), which helps it escape spring frost; pair with other late-flowering cider apples."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, humid Atlantic climates like the Asturian valleys, with long autumns for its November ripening.",
+      "poor_climates": "Short-season or early-frost regions where its very late fruit cannot ripen; cold-hardiness untested."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 1,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Low susceptibility to brown rot, canker and mildew in Asturian trials; main drawback is strong biennial bearing."
+    },
+    "grow_notes": "Needs space and patience: a big tree that is slow to start. Thin heavily in 'on' years to reduce alternation. Late flowering makes it a good choice for frost-prone valleys.",
+    "conf": "medium"
+  },
+  {
+    "id": "xuanina",
+    "name": "Xuanina",
+    "aka": ["Juanina"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "ES",
+      "place": "Asturias, Spain",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A traditional Asturian cider apple recognised for the 'Sidra de Asturias' protected designation. It is one of the acid-group varieties studied and recommended by Asturian research for new cider orchards.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": null,
+      "description": "Small-to-medium, round to slightly oblong-conical fruit, yellow-green with red and orange-brown colouring and purple-red streaks; cream to greenish flesh."
+    },
+    "taste": {
+      "summary": "An acid-group Asturian apple: brisk, clearly sharp juice with fair sugar and low phenolics, used to give freshness to blends.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": "sharp",
+      "best_eaten": "Not for eating; mill Nov"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Vigorous, comes into bearing early and yields well, with only a low-to-moderate tendency to alternate."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Late flowering (early May in Asturias); pair with other late-blossoming cider varieties."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, humid Atlantic climates such as Asturias and similar maritime regions.",
+      "poor_climates": "Regions with early autumn frosts or short seasons; cold-hardiness untested."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very low susceptibility to scab and brown rot in Asturian trials; moderately prone to powdery mildew."
+    },
+    "grow_notes": "A good low-spray choice for humid areas thanks to its scab resistance. Late flowering helps in frost-prone sites; keep an eye on mildew in dry springs.",
+    "conf": "medium"
+  }
+]

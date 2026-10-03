@@ -1,0 +1,515 @@
+[
+  {
+    "id": "francis",
+    "name": "Francis",
+    "aka": [
+      "Francis (Thorrington)"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Essex, England",
+      "year": 1925,
+      "year_note": "before",
+      "kind": "bred",
+      "parentage": "Seedling of Cox's Orange Pippin; pollen parent unknown",
+      "raised_by": "F.W. Thorrington"
+    },
+    "history": "Raised in Essex by F.W. Thorrington from a Cox's Orange Pippin seedling and sent to the National Fruit Trials in 1925; the National Fruit Collection lists it as Francis (Thorrington). Thorrington also raised the Cox seedling Ruby.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, truncated-conical fruit with a greenish-yellow ground striped and flushed dark red."
+    },
+    "taste": {
+      "summary": "Firm, fine, crisp flesh with a very sweet and aromatic flavour in the Cox tradition.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan (inferred from mid-October picking)"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not recorded; plant with a mid-season diploid partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "The relatively dry, sunny south-east and east of England where it was raised.",
+      "poor_climates": "No records outside England; likely to share Cox's dislike of hot summers and very wet, cold sites."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded; as a Cox seedling it may share some of Cox's disease weaknesses, but this is unconfirmed."
+    },
+    "grow_notes": "A rare Essex Cox seedling for heritage collections. Give it a sunny, well-drained site and a mid-season pollinator, and store the fruit cool after a mid-October picking.",
+    "conf": "low"
+  },
+  {
+    "id": "freyberg",
+    "name": "Freyberg",
+    "aka": [
+      "Freyburg"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "Greytown, Wairarapa, New Zealand",
+      "year": 1934,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Cox's Orange Pippin",
+      "raised_by": "J.H. Kidd"
+    },
+    "history": "Raised in 1934 by the amateur breeder J.H. Kidd at Greytown, who also bred Kidd's Orange Red and Gala. After Kidd's death his seedlings passed to New Zealand's DSIR, which released Freyberg in 1959 and named it after Lord Freyberg, then recently Governor-General.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish, greenish-yellow to yellow apple with at most a faint orange cheek and light russet freckling."
+    },
+    "taste": {
+      "summary": "Fine-textured, juicy, firm cream flesh with a sweet, intense flavour often described as having an aniseed or fennel note on top of a honeyed Golden Delicious base. Sharper and more complex than Golden Delicious, but without the full richness of Cox.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "aniseed",
+        "honey",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Weak-growing spur-bearer that crops heavily and regularly; suits small gardens but avoid very dwarfing stocks on poor soil."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; partner with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate climates with warm, sunny autumns such as New Zealand's North Island and southern England in good years.",
+      "poor_climates": "Short, cool seasons where the mid-October crop does not sweeten fully."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some susceptibility to scab and fire blight; otherwise not well recorded."
+    },
+    "grow_notes": "A good small-garden tree thanks to its modest vigour and reliable crops. Use a moderately vigorous rootstock on lighter soils and pick in mid-October once the ground colour turns yellow.",
+    "conf": "medium"
+  },
+  {
+    "id": "fuji",
+    "name": "Fuji",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "JP",
+      "place": "Tohoku Research Station, Fujisaki, Aomori, Japan",
+      "year": 1939,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Ralls Janet x Red Delicious",
+      "raised_by": "Tohoku Research Station (Japanese Ministry of Agriculture)"
+    },
+    "history": "Bred at a government research station in Fujisaki, Aomori, from a 1939 cross and released in 1962. It went on to become the most widely grown apple in the world, dominating production in China, and many better-coloured sports have been selected.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, rounded apple with a yellow-green ground streaked and mottled pinkish-red; colour varies widely between strains and climates."
+    },
+    "taste": {
+      "summary": "Very dense, crisp and juicy flesh with high sugar and low acidity, giving a sweet, honeyed flavour; well-ripened fruit may show glassy watercore that tastes especially sweet. Keeps its texture for months.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Vigorous and productive but strongly biennial without early fruit thinning; branches spread under heavy crops."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Usually placed in group 4 (some lists give 3); needs a group 3-5 diploid partner."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 500,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Long, warm-to-hot growing seasons with cool autumn nights, such as Washington State, northern China, Japan, Chile and New Zealand; moderate chill needs make it possible in milder-winter areas.",
+      "poor_climates": "Short, cool seasons like much of the UK, where the very late fruit often fails to ripen or sweeten fully; hot nights reduce red colour."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 5,
+      "rust": 4,
+      "bitter_pit": 2,
+      "other": "Very susceptible to fire blight and susceptible to scab; prone to sunburn and watercore in hot climates."
+    },
+    "grow_notes": "In Britain give it the warmest wall or most sheltered sunny spot available, and only expect good fruit in the south after long, warm autumns. Thin early and hard every year to prevent alternate bearing.",
+    "conf": "high"
+  },
+  {
+    "id": "gala",
+    "name": "Gala",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "Greytown, Wairarapa, New Zealand",
+      "year": 1934,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Kidd's Orange Red x Golden Delicious",
+      "raised_by": "J.H. Kidd"
+    },
+    "history": "Raised by J.H. Kidd in Greytown, New Zealand in the 1930s; the seedling was later selected by Donald McKenzie and named Gala in the 1960s. It is now one of the most widely planted apples in the world, mostly as redder sports; Royal Gala is strictly one of those sports, though shops use the two names interchangeably.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 65,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small-to-medium, neatly conical apple; golden-yellow streaked with orange-red in the original, solid red in most modern sports."
+    },
+    "taste": {
+      "summary": "Crisp, fine, juicy cream flesh with a sweet, low-acid flavour and a light pear-like fragrance. Pleasant and easy rather than complex, and loses crispness after a couple of months.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild",
+        "pear"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Precocious and productive spur-bearer; sets heavily and needs thinning to keep fruit size."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Group 4, partly self-fertile; crops much better with a group 3-5 diploid partner."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm, sunny temperate regions such as New Zealand, Washington State, Chile, South Africa and southern Europe, where it sweetens and colours well.",
+      "poor_climates": "Cool, damp maritime areas (much of the UK) give smaller, blander fruit and heavy canker; hot nights reduce red colour."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": 4,
+      "rust": 3,
+      "bitter_pit": 2,
+      "other": "Susceptible to scab and fire blight, and very prone to canker in wet British soils."
+    },
+    "grow_notes": "Better suited to warm, dry gardens than wet western ones. Plant on free-draining soil, thin heavily in early summer, and cut out canker lesions promptly.",
+    "conf": "high"
+  },
+  {
+    "id": "golden-delicious",
+    "name": "Golden Delicious",
+    "aka": [
+      "Yellow Delicious",
+      "Mullins Yellow Seedling"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Anderson Mullins farm, Clay County, West Virginia",
+      "year": 1890,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling; often said to be Grimes Golden x Golden Reinette, but unproven",
+      "raised_by": "Found by Anderson Mullins; introduced by Stark Bros"
+    },
+    "history": "A chance seedling that appeared on the Mullins family farm in West Virginia around the 1890s. Stark Bros Nurseries bought the tree in 1914 and launched it in 1916; it became one of the world's most planted apples and a parent of Gala, Jonagold, Elstar, Mutsu and many others.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "pink",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 1,
+      "description": "Long-stalked, slightly conical apple, green-yellow ripening to clear golden-yellow, sometimes with a faint pink cheek; prone to fine russet netting in damp climates."
+    },
+    "taste": {
+      "summary": "Left to ripen to golden-green on the tree it is crisp, juicy and richly sweet, with a honeyed, pear-drop note and only modest acidity; a few tasters also pick up a faint ginger or cinnamon warmth. Fruit picked green and held in long storage is the bland, soft, crumbly supermarket apple. Holds its shape when cooked.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "honey",
+        "sweet",
+        "pear-drop",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Easy, precocious spur-bearer with wide-angled branches; crops heavily and needs thinning to keep fruit size and annual bearing."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Group 4, partly self-fertile, and an excellent pollen donor for other diploids."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sunny temperate climates with long seasons (Washington, northern Italy, southern France, Chile), where it ripens to a rich golden colour.",
+      "poor_climates": "Cool, damp regions such as much of Britain give greener, blander fruit with skin russet; very humid areas bring heavy scab and rust."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 3,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": 4,
+      "bitter_pit": 2,
+      "other": "Susceptible to scab, powdery mildew and cedar-apple rust; skin bruises and shrivels easily, and damp springs cause russeting."
+    },
+    "grow_notes": "Reliable and productive, but in Britain it needs a warm, sunny site to taste good. Thin crops, pick only when the ground colour turns yellow, and store in plastic bags in a cold place to limit shrivelling.",
+    "conf": "high"
+  },
+  {
+    "id": "golden-knob",
+    "name": "Golden Knob",
+    "aka": [
+      "Golden Nobb",
+      "Kentish Golden Knob",
+      "Old Lady",
+      "Old Maid"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Enmore Castle, Somerset, England",
+      "year": 1790,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English apple that the National Fruit Collection traces to Enmore Castle in Somerset, in cultivation since the late 1700s. The synonym Kentish Golden Knob points to its later popularity in Kent; a different, unrelated 'Golden Knob' from Berkshire is also recorded.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small, flattish, unribbed apple, greenish-yellow with a faint brownish flush and some russet."
+    },
+    "taste": {
+      "summary": "Firm, very fine-textured white flesh with a sweet, nutty flavour; a small late-keeping dessert apple in the russet-like style.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "nutty",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing data."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not recorded; plant with a mid-season diploid partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Southern English lowlands from Somerset to Kent, where it has been grown for over two centuries.",
+      "poor_climates": "No records from hot or very cold climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "A heritage keeper for collectors. Pick in mid-October, store somewhere cool and slightly humid, and pair it with a mid-season flowering diploid.",
+    "conf": "low"
+  }
+]

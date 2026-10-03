@@ -1,0 +1,344 @@
+[
+  {
+    "id": "leathercoat-russet",
+    "name": "Leathercoat Russet",
+    "aka": [
+      "Leathercoat",
+      "Leather Coat",
+      "Old Leathercoat Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1597,
+      "year_note": "before",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English russet known in the 1500s; 'leathercoats' are mentioned by Shakespeare in Henry IV Part 2. The name has long been confused with Royal Russet, which the national apple register lists under Leathercoat Russet as a synonym, so trees sold under this name may not all be the same apple.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 3,
+      "description": "Conical fruit, slightly ribbed at the eye, covered in dark brown russet with occasional patches of yellowish-green showing through."
+    },
+    "taste": {
+      "summary": "Crisp, greenish flesh with a sweet, gently sharp (subacid) flavour. Detailed modern tasting notes are scarce.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not recorded in available sources."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not recorded; not currently held in the National Fruit Collection."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Inferred: mild, moist English lowland climates where it has been grown for centuries.",
+      "poor_climates": "Not recorded; hot dry summers are likely to give small, dry fruit."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A heritage curiosity rather than a well-characterised garden apple. Treat as a typical English russet: a sunny, sheltered site, good drainage and a mid-season pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "lodgemore-nonpareil",
+    "name": "Lodgemore Nonpareil",
+    "aka": [
+      "Clissold's Seedling",
+      "Lodgemore Seedling"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Lodgemore, Stroud, Gloucestershire, England",
+      "year": 1808,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling; parents not recorded",
+      "raised_by": "Mr Cook of Lodgemore; introduced by Clissold"
+    },
+    "history": "Raised around 1808 by a Mr Cook at Lodgemore near Stroud and put into circulation by Clissold, hence its other name. It is one of the Gloucestershire heritage apples conserved by local orchard groups.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 2,
+      "description": "Small, flattish apple, green ripening to golden yellow, with a light orange-red flush and quite a lot of russet dots and patches."
+    },
+    "taste": {
+      "summary": "Firm, crisp and juicy yellowish flesh with a sweet, perfumed, rich flavour typical of the nonpareil type.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Jan-Apr, after a long rest in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not well recorded."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Brogdale records show it flowering about ten days after Cox, close to Edward VII; choose a late-flowering partner (group 5-7)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Jan-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist western England and similar; its very late flowering helps it escape spring frosts.",
+      "poor_climates": "Not recorded outside Britain; hot summers are likely to shorten its keeping life."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "Useful in frosty gardens because it blooms so late, but it needs a late-flowering pollinator. Pick in early October and store cool for eating after Christmas.",
+    "conf": "low"
+  },
+  {
+    "id": "margil",
+    "name": "Margil",
+    "aka": [
+      "Never Fail",
+      "Small Ribston",
+      "Muscat Reinette",
+      "Reinette Musquee"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": "Probably continental Europe (possibly France); grown in England by 1750",
+      "year": 1750,
+      "year_note": "before",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old dessert apple, probably of continental European origin, known in England before 1750 and also widespread in Germany and France under Muscat Reinette names. Recent DNA pedigree work has suggested it may be a parent of Cox's Orange Pippin, which would fit their similar flavour.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 2,
+      "description": "Small, conical and noticeably ribbed, orange-gold with streaks of deep red and patches of russet."
+    },
+    "taste": {
+      "summary": "Small, russet-flushed apple with a strong, clean, intensely aromatic Cox-style flavour that is sweet and well balanced; some tasters find a pineapple note. Older accounts call the flesh firm and rather dry, but modern growers report it crisp, juicy and never woolly. Keeps one to two months.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "pineapple"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour; mainly a spur-bearer with some tip-bearing, so prune lightly. Crops regularly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Cox; pair with any group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild temperate maritime climates; reported to do well in northern districts where Cox struggles.",
+      "poor_climates": "Hot summers likely to make the already dry flesh drier; little record of it in warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some scab resistance reported, with some susceptibility to canker."
+    },
+    "grow_notes": "A connoisseur's apple for anyone who wants Cox-like intensity with fewer problems. Because it partly tip-bears, prune lightly, and grow it in a sunny, sheltered spot.",
+    "conf": "medium"
+  },
+  {
+    "id": "meridian",
+    "name": "Meridian",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Maidstone, Kent, England",
+      "year": 1999,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Falstaff x Cox's Orange Pippin",
+      "raised_by": "Dr Frank Alston, East Malling Research Station"
+    },
+    "history": "Bred at East Malling by Frank Alston from Falstaff and Cox and introduced in 1999 as a Cox-flavoured apple that is easier to grow. It has been sold mainly to gardeners rather than commercial growers.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Clean, smooth apple with a green-yellow ground, flushed and striped orange-red, with little russet."
+    },
+    "taste": {
+      "summary": "Crisp and exceptionally juicy, with a delicate, well-balanced sweet-sharp flavour in the Cox mould but with less depth; tasters pick out hints of lemon and melon. Best within two or three weeks of picking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "lemon",
+        "melon",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov, within a few weeks of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, regular and heavy cropping spur-bearer; thin in heavy years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering diploid."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, temperate English-type climates; bred for gardens in southern Britain.",
+      "poor_climates": "Little grown outside Britain; hot summers are likely to soften fruit and dull colour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good general disease resistance with some resistance to scab and mildew; some susceptibility to woolly aphid."
+    },
+    "grow_notes": "A low-fuss alternative to Cox for gardens in southern and central Britain. Plant with any mid-season pollinator and eat the fruit fairly soon after picking, as it does not keep long.",
+    "conf": "medium"
+  }
+]

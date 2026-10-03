@@ -1,0 +1,505 @@
+[
+  {
+    "id": "herrings-pippin",
+    "name": "Herring's Pippin",
+    "aka": [
+      "Herring's Seedling"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Lincoln, Lincolnshire, England",
+      "year": 1908,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown; a seedling credited to a Mr Herring",
+      "raised_by": "Mr Herring of Lincoln (attributed)"
+    },
+    "history": "Credited to a Mr Herring of Lincoln and on record from 1908, it was put on the market by Pearson's nursery of Nottingham (1917 by the East of England Apples & Orchards Project's account). Edward Bunyard described it in 1920 from fruit Pearson sent him and noted that the nurseryman rated it very highly.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Big, somewhat uneven round-conical fruit, pale greenish-yellow under a heavy scarlet to brownish-red flush with streaks; the skin marks and bruises easily."
+    },
+    "taste": {
+      "summary": "Juicy, moderately firm but rather coarse cream flesh with a pronounced spicy, aromatic character that some tasters liken to aniseed. Tart enough to cook, when it collapses to a smooth purée; the cut flesh browns quickly.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "spice",
+        "aniseed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, straight from the tree; it does not keep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Described as hardy and at home on heavy soils; growers report large, regular crops of big, clean fruit even without spraying. Vigour, habit and bearing type are not well recorded."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4 (group D) by Orange Pippin and the East of England Apples & Orchards Project. Self-fertility is not recorded, so plant a group 3-5 partner."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist parts of Britain, including wet western hillsides and heavy-soiled eastern counties, where it crops reliably with little help.",
+      "poor_climates": "Not tried much in hot regions; early fruit with soft-textured, quickly bruised flesh is unlikely to hold up in hot summers."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good scab resistance reported. Main drawbacks are fruit that bruises easily, browns quickly when cut and will not store."
+    },
+    "grow_notes": "A good choice for a heavy or damp site in a cool region. Plan to use the crop quickly as sauce, juice or for eating fresh, and pair it with a mid-season flowering partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "hawthornden",
+    "name": "Hawthornden",
+    "aka": [
+      "Hawthorndean",
+      "White Hawthornden",
+      "Old Hawthornden",
+      "Lincolnshire Pippin",
+      "Hawley"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Hawthornden, Midlothian, near Edinburgh, Scotland",
+      "year": 1780,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Named after Hawthornden near Edinburgh, home of the 17th-century poet William Drummond. Hogg could not trace when it arose: its earliest listing is in the catalogue of the Edinburgh nurserymen Leslie & Anderson (dated about 1780 by the National Fruit Collection), and it reached London's Brompton Park nursery around 1790. It went on to become one of the most widely planted cookers of 19th-century Britain and spread across Europe, collecting German, Czech, Polish and Russian names. It is a different apple from the later New Hawthornden and Winter Hawthornden.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to fairly large, flattened fruit, often lopsided from one strong rib; smooth pale greenish-yellow skin with a bloom and a faint pinkish-red flush on the sunny side."
+    },
+    "taste": {
+      "summary": "A plain, pleasantly sub-acid kitchen apple. Hogg found the white flesh crisp, tender and very juicy, while the National Fruit Collection notes firm, coarse flesh. It was valued for reliability and early use rather than for strong flavour.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec, for cooking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Victorian writers praised it as a healthy tree that starts cropping young and bears abundantly on almost any soil. Bunyard saw only moderate growth and a low, flat-headed tree, so it suits a small garden."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found. Estimated as group 3 because the National Fruit Collection records it in full bloom the same week as Cox and Bramley. Plant a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, short-summer climates such as Scotland and northern England. Its long history in central and eastern Europe also suggests good winter hardiness.",
+      "poor_climates": "Cold, wet or poorly drained soils, where it is liable to canker. Hot summers are untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Hogg warned that on some soils it cankers and attracts woolly aphid. Other disease responses are not well recorded."
+    },
+    "grow_notes": "An easy, early-bearing cooker for northern or exposed gardens. Give it a well-drained site to keep canker at bay, and check for woolly aphid in spring.",
+    "conf": "medium"
+  },
+  {
+    "id": "lady-henniker",
+    "name": "Lady Henniker",
+    "aka": [
+      "Henniker"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Thornham Hall, near Eye, Suffolk, England",
+      "year": 1845,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; selected from seedlings grown from cider-pomace pips",
+      "raised_by": "John Perkins, gardener to Lord Henniker"
+    },
+    "history": "Between 1840 and 1850 Lord Henniker's estate at Thornham Hall made large amounts of cider. His gardener John Perkins sowed bushels of pips from the pressings and thinned the seedlings over many years until this favourite was left. It was shown in 1873, received an RHS First Class Certificate and became a popular Victorian garden apple.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, angular, often slab-sided fruit with ridges round the eye; golden-yellow with a light red flush broken by crimson streaks on the sunny side."
+    },
+    "taste": {
+      "summary": "Tender yellow flesh with a gentle perfume. Bunyard compared its flavour to Blenheim Orange, but the National Fruit Collection found it coarse, rather dry and fairly acid. Mainly a cooker that breaks down to a pale, well-flavoured purée needing little sugar; some growers also enjoy it raw as a sweet-sharp apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan; cooks to a pale purée"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "A vigorous, upright, long-lived tree that crops heavily and regularly. Being triploid, it makes a large tree, so allow room or choose a dwarfing rootstock."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4 (D). Triploid, so it gives poor pollen: plant two different diploid partners from groups 3-5 that can also pollinate each other."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Lowland eastern and southern England and similar mild, temperate climates, where old trees go on cropping for a century.",
+      "poor_climates": "Hot-summer regions are untested; probably less suited to very short, cold seasons because it is picked fairly late."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy, with some scab resistance. Triploid vigour means big trees, and very old specimens can develop heart rot in the main limbs."
+    },
+    "grow_notes": "Best as a half-standard or standard where it has room. Plant two compatible diploid pollinators nearby, and pick in October for winter cooking.",
+    "conf": "medium"
+  },
+  {
+    "id": "lord-lambourne",
+    "name": "Lord Lambourne",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bedford, England",
+      "year": 1907,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "James Grieve x Worcester Pearmain",
+      "raised_by": "Laxton Brothers"
+    },
+    "history": "Raised by the Laxton Brothers of Bedford in 1907 and released in 1923, after winning the RHS Bunyard Cup in 1921 and an Award of Merit in 1923. It still holds the RHS Award of Garden Merit. A brighter-coloured sport (Lady Lambourne) and a russeted sport (Russet Lambourne) are also known.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Neat, evenly rounded medium fruit; greenish-yellow with an orange-red flush and darker red stripes over about half the skin, sometimes with a little russet."
+    },
+    "taste": {
+      "summary": "Juicy, fairly crisp cream flesh. Sweetness is balanced by a lively James Grieve acidity and a gentle English aromatic flavour. Less complex than the later aromatic apples, but one of the earliest of the type.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov; best within a few weeks of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "compact",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "A neat, easy, beginner-friendly tree that crops early and regularly. Being a partial tip-bearer, prune lightly and leave some unpruned one-year shoots."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early-flowering (group 2) and partly self-fertile, but crops better with a group 1-3 partner. The blossom has some frost tolerance."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool to mild, damp temperate climates such as the UK and Ireland, including the north and Scotland.",
+      "poor_climates": "Hot, dry summers: growers in arid inland areas report split fruit and weak growth."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated very resistant to scab and fairly resistant to canker. Fruit can crack after drought."
+    },
+    "grow_notes": "One of the most reliable early dessert apples for a small garden. Suits most soils in a sunny spot; water in dry spells to prevent fruit splitting, and thin heavy sets on young trees.",
+    "conf": "high"
+  },
+  {
+    "id": "lord-derby",
+    "name": "Lord Derby",
+    "aka": [
+      "London Major",
+      "Derby"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Stockport, Cheshire, England",
+      "year": 1862,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Catshead x unknown (a seedling of Catshead, per the National Fruit Collection)",
+      "raised_by": "Mr Witham, nurseryman of Stockport"
+    },
+    "history": "Raised by a Stockport nurseryman named Witham and first recorded in 1862; the National Fruit Collection gives Catshead as one parent. Its near-certain annual cropping made it a staple market cooker in the late 19th and early 20th centuries, and it is still a common garden alternative to Bramley.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, tall, boldly ribbed fruit with ridges round a crowned eye; smooth, shiny dark grass-green, ripening to greenish-yellow, with a few russet dots and lines."
+    },
+    "taste": {
+      "summary": "A sharp, rather coarse and dry cooker. It is distinctly acidic if picked early and milder once the skin yellows. It bakes well and makes a textured purée; Bunyard noted that the cooked flesh turns a deep golden-red.",
+      "sweet": 1,
+      "acid": 4,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec, for cooking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A sturdy, upright, vigorous spur-bearer that crops heavily almost every year. It tolerates cold, heavy soils and northern gardens."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4, with blossom that resists frost well. Plant a group 3-5 diploid partner."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, wet temperate climates, including northern England, Wales and frost-prone sites, where its hardy blossom and disease resistance pay off.",
+      "poor_climates": "Untested in hot climates. Some growers in the far north of Scotland find the fruit bland there."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab, but brown rot can spoil fruit on the tree and in store. The flesh browns quickly once cut."
+    },
+    "grow_notes": "A tough, dependable cooker for heavy clay, cold or damp gardens where Bramley struggles. Thin the fruit for size, and remove brown-rotted fruit promptly.",
+    "conf": "high"
+  },
+  {
+    "id": "lord-hindlip",
+    "name": "Lord Hindlip",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Worcestershire, England",
+      "year": 1896,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A Worcestershire seedling of unknown parentage, introduced by Watkins of Hereford. It received an RHS Award of Merit in 1896 and a First Class Certificate in 1898. Bunyard saw it as a strong candidate for the late-season market dessert apple growers wanted.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Regular, small-to-medium conical fruit, nearly covered by a dark crimson flush and stripes over greenish-yellow, with patches of fine russet netting."
+    },
+    "taste": {
+      "summary": "Firm, very fine-grained, juicy white flesh with a balanced sweet-sharp taste and a hint of the old Victorian aromatic richness. Eaten in October it can taste muted and watery; the flavour builds in store, peaking after the New Year and lasting into spring. Holds its shape when cooked.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; at its best after a couple of months in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A slender, upright-spreading spur-bearer of average vigour that crops well and regularly; easy for beginners."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; plant any group 2-4 diploid nearby."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Western and southern Britain and other mild, damp temperate areas with an autumn long enough to ripen a mid-October apple.",
+      "poor_climates": "Short-season northern sites may not ripen it fully. Hot summers are untested and probably poor for colour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated as having good general disease resistance, with some resistance to scab."
+    },
+    "grow_notes": "A good late keeper for a sheltered, sunny garden. Leave the fruit on the tree until mid-October and store it cool, then eat from midwinter.",
+    "conf": "medium"
+  }
+]

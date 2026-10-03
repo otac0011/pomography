@@ -1,0 +1,109 @@
+{
+ "batch": "modern-commercial-1",
+ "theme": "modern-commercial",
+ "count": 17,
+ "varieties": [
+  {
+   "id": "royal-gala",
+   "name": "Royal Gala",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "jazz",
+   "name": "Jazz",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "cripps-pink",
+   "name": "Cripps Pink",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "cripps-red",
+   "name": "Cripps Red",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "kanzi",
+   "name": "Kanzi",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "rubens",
+   "name": "Rubens",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "envy",
+   "name": "Envy",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "ambrosia",
+   "name": "Ambrosia",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "cameo",
+   "name": "Cameo",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "pinova",
+   "name": "Pinova",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "sweetango",
+   "name": "SweeTango",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "ariane",
+   "name": "Ariane",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "pilot",
+   "name": "Pilot",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "santana",
+   "name": "Santana",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "delbarestivale",
+   "name": "Delbarestivale",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "opal",
+   "name": "Opal",
+   "theme": "modern-commercial",
+   "keepers": false
+  },
+  {
+   "id": "cosmic-crisp",
+   "name": "Cosmic Crisp",
+   "theme": "modern-commercial",
+   "keepers": false
+  }
+ ]
+}

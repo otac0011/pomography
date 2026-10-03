@@ -1,0 +1,511 @@
+[
+  {
+    "id": "envy",
+    "name": "Envy",
+    "aka": [
+      "Scilate"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "New Zealand",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Braeburn x Royal Gala",
+      "raised_by": "HortResearch (now Plant & Food Research)"
+    },
+    "history": "Raised by New Zealand's HortResearch from the same Braeburn x Royal Gala parentage as Jazz, and patented in 2008-09 as cultivar Scilate. Sold under the Envy trademark, it is grown under licence in New Zealand, Washington State, Chile, Australia and elsewhere.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Almost entirely bright red with yellow freckling showing through; the skin is notably thick and tough."
+    },
+    "taste": {
+      "summary": "Very sweet with low acidity and a faint floral note; crisp, juicy, pale flesh that browns very slowly once cut. Firmness holds well in storage.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "floral"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Licensed club variety; little published growing information outside commercial programmes."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a cross-pollinator; UK flowering group not published."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Long, sunny seasons with cool autumn nights, as in Hawke's Bay, central Washington and central Chile.",
+      "poor_climates": "Short, cool seasons where a late-October apple will not ripen fully; humid areas with high canker pressure."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Susceptible to European canker (Neonectria), sometimes carried without visible symptoms; growers have reported russet, shrivel, bitter pit and internal browning."
+    },
+    "grow_notes": "A late, long-season apple best left to warm, sunny commercial regions. If grown, choose a free-draining site to reduce canker risk and keep calcium levels up to limit bitter pit.",
+    "conf": "medium"
+  },
+  {
+    "id": "ambrosia",
+    "name": "Ambrosia",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Cawston, Similkameen Valley, British Columbia",
+      "year": 1987,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling found among Jonagold trees; parents unknown, probably Golden Delicious with Starking (Red) Delicious or Jonagold",
+      "raised_by": "Wilfrid and Sally Mennell (discoverers)"
+    },
+    "history": "A chance seedling that came up in the Mennell family's orchard at Cawston in British Columbia's Similkameen Valley in the late 1980s, growing in a block of Jonagold. Its looks and sweetness led to commercial propagation in the 1990s, and it is now grown in Canada, Washington, New York, Chile, New Zealand and Europe.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "pink",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, slightly conical fruit with a bright pinkish-red flush over a cream to pale yellow background."
+    },
+    "taste": {
+      "summary": "Honey-sweet with very little acid and a gentle pear-like perfume; crisp and juicy but finer-textured than hard modern apples. The cream flesh is slow to brown, and it eats best chilled.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "honey",
+        "pear",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; keep refrigerated, softens at room temperature"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing young and crops regularly. Fruit ripens unevenly, so commercial orchards usually pick it in two passes."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; needs a compatible diploid pollinator."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Sunny interior valleys with hot days and cold nights, like its home in southern British Columbia, central Washington and Ontario.",
+      "poor_climates": "Areas with heavy cedar-apple rust pressure in eastern North America unless sprayed; irrigation stress in hot dry orchards leads to soft scald and poor keeping."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Very susceptible to cedar-apple rust; some resistance to powdery mildew. Soft scald in store has been linked to water stress in the orchard."
+    },
+    "grow_notes": "Grow in full sun with steady irrigation in dry regions. Where junipers are nearby in North America, plan to control cedar-apple rust. Pick over two passes as fruit colours and ripens.",
+    "conf": "high"
+  },
+  {
+    "id": "cameo",
+    "name": "Cameo",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Dryden, Washington",
+      "year": 1987,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Chance seedling in a Red Delicious orchard; thought to be Red Delicious x Golden Delicious",
+      "raised_by": "Caudle family (discoverers)"
+    },
+    "history": "Found in 1987 as a chance seedling in a Red Delicious block owned by the Caudle family near Dryden, Washington. It was propagated commercially in the 1990s and became one of Washington's more widely grown varieties.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large fruit with bold red stripes and patches over a cream to orange-yellow ground, dotted with pale lenticels."
+    },
+    "taste": {
+      "summary": "Dense, very crisp and juicy, with a balance of sweetness and light tartness and a hint of pear; some find it rather plain when fresh, and it sweetens with a week or two of storage. Keeps its crunch for months refrigerated.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "pear"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Feb; better after 1-2 weeks in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little published garden-growing information."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 3; needs a compatible diploid pollinator."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Dry, sunny irrigated fruit regions with cool autumn nights, like central Washington.",
+      "poor_climates": "Humid eastern North America where cedar-apple rust is rife; cool, short seasons may not ripen it fully."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Highly susceptible to cedar-apple rust; other disease ratings not well documented."
+    },
+    "grow_notes": "Best suited to sunny, dry regions. Control cedar-apple rust where junipers grow nearby, and store the crop for a couple of weeks before eating for best sweetness.",
+    "conf": "medium"
+  },
+  {
+    "id": "pinova",
+    "name": "Pinova",
+    "aka": [
+      "Corail",
+      "Piñata",
+      "Sonata"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Dresden-Pillnitz, Saxony",
+      "year": 1965,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Clivia (Geheimrat Dr. Oldenburg x Cox's Orange Pippin) x Golden Delicious",
+      "raised_by": "Institut für Obstforschung Dresden-Pillnitz"
+    },
+    "history": "Bred at the fruit research institute at Dresden-Pillnitz in what was then East Germany from a 1965 cross, and released in 1986. It is grown across Europe and sold in the USA as Piñata and in France as Corail.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Golden Delicious shape with orange-red stripes and flush over a yellow ground."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and fairly tender, with an intense sweet flavour balanced by enough tartness; several tasters notice a floral scent reminiscent of roses. It shows its Cox ancestry and keeps three months or more without losing quality.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "rose",
+        "floral",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Rather weak-growing spur-bearer that crops heavily and regularly; suits small trees and intensive systems."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4. Sources disagree on its value as a pollen donor (one rates it poor, another good), so add a reliable pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate central and western Europe, including mild damp climates, and sunny fruit regions with warm rather than hot summers; blossom has some frost resistance.",
+      "poor_climates": "Very hot summers are likely to reduce colour and storage quality; short-season northern sites may not ripen it."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally good disease resistance with some resistance to scab and canker; somewhat susceptible to powdery mildew."
+    },
+    "grow_notes": "A reliable, compact garden apple for warmer parts of the UK. Thin heavy crops for size, keep mildew in check in spring, and plant with a group 3-5 pollinator.",
+    "conf": "high"
+  },
+  {
+    "id": "sweetango",
+    "name": "SweeTango",
+    "aka": [
+      "Minneiska"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Minnesota",
+      "year": 1988,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Honeycrisp x Zestar!",
+      "raised_by": "University of Minnesota (David Bedford, James Luby)"
+    },
+    "history": "Bred at the University of Minnesota from a 1988 Honeycrisp x Zestar! cross and patented in 2008 as cultivar Minneiska. It is sold as SweeTango and grown under a managed licence by a growers' cooperative in the northern USA and Canada.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large fruit with a red flush and streaks over yellow-green."
+    },
+    "taste": {
+      "summary": "Explosively crunchy and juicy in the Honeycrisp mould but with a livelier sweet-tart balance; tasters describe floral, lightly spicy notes (one found a trace of cinnamon) and citrus hints have also been reported. Best eaten soon after harvest: fruit left at room temperature turns mealy and bland within a week or two, and it does not bake well.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "spice",
+        "floral",
+        "citrus",
+        "cinnamon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Bears young. A managed variety, so trees are mostly restricted to licensed growers."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a cross-pollinator; UK flowering group not published."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter northern regions with cool summer nights: Minnesota, Michigan, New York, Quebec, Nova Scotia and similar.",
+      "poor_climates": "Hot-summer, mild-winter areas where its Honeycrisp heritage suggests soft, poorly coloured fruit."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease ratings not well published."
+    },
+    "grow_notes": "Bred for cold northern orchards. Pick as soon as ripe and eat within a few weeks, as it does not keep its best texture for long.",
+    "conf": "medium"
+  },
+  {
+    "id": "ariane",
+    "name": "Ariane",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "INRA, Angers",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "(Florina x Prima) x Golden Delicious",
+      "raised_by": "INRA Angers (Yves Lespinasse)"
+    },
+    "history": "A scab-resistant apple from INRA's breeding programme at Angers, built over several generations from lines carrying the Vf resistance gene (originally from Malus floribunda) and selected from a (Florina x Prima) x Golden Delicious cross. It was introduced around 2000, with the first commercial orchards in 2002, and is grown in France for low-spray production.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "crimson",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Smallish fruit with a bright crimson flush over golden-green and a noticeably indented base."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and dense cream flesh with a balanced sweet-sharp taste and a light pear-drop note; neither too sweet nor too sharp, and good after months in store.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "pear-drop",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, spur-bearing tree prone to alternate cropping; needs careful pruning in the first years so light reaches the fruit for colour."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early-to-mid flowering over a long period (listed in group 2). Santana, Gala and GoldRush have been suggested as partners."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate western Europe, especially the Loire and other French fruit regions; useful anywhere scab pressure is high.",
+      "poor_climates": "Shady or dull sites where the crimson colour fails to develop; very hot regions are untested."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Carries Vf (and reportedly Vg) scab resistance, effective against common scab races though Vf-breaking strains exist; reported to cope reasonably with other diseases."
+    },
+    "grow_notes": "A good low-spray choice for wet climates. Thin firmly to curb biennial bearing and keep the canopy open so fruit colours; pair with a group 2-3 diploid.",
+    "conf": "medium"
+  }
+]

@@ -1,0 +1,143 @@
+{
+ "batch": "keepers-early-1",
+ "theme": "keepers-early",
+ "count": 17,
+ "varieties": [
+  {
+   "id": "ambassy",
+   "name": "Ambassy",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "ambassy",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "bakers-delicious",
+   "name": "Bakers Delicious",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "bakers-delicious",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "beauty-of-bath",
+   "name": "Beauty of Bath",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "beauty-of-bath",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "benenden-early",
+   "name": "Benenden Early",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "benenden-early",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "bethan",
+   "name": "Bethan",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "bethan",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "delprim",
+   "name": "Delprim",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "delprim",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "discovery",
+   "name": "Discovery",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "discovery",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "duchess-of-bedford",
+   "name": "Duchess of Bedford",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "duchess-of-bedford",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "duchesss-favourite",
+   "name": "Duchess's Favourite",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "duchesss-favourite",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "irish-peach",
+   "name": "Irish Peach",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "irish-peach",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "james-grieve",
+   "name": "James Grieve",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "james-grieve",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "katy",
+   "name": "Katy",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "katy",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "lady-sudeley",
+   "name": "Lady Sudeley",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "lady-sudeley",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "laxtons-epicure",
+   "name": "Laxton's Epicure",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "laxtons--epicure",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "maidstone-favourite",
+   "name": "Maidstone Favourite",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "maidstone-favourite",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "melba",
+   "name": "Melba",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "melba",
+   "keepers_cat": "early-season-eating-apple"
+  },
+  {
+   "id": "millers-seedling",
+   "name": "Miller's Seedling",
+   "theme": "keepers-early",
+   "keepers": true,
+   "keepers_slug": "millers-seedling",
+   "keepers_cat": "early-season-eating-apple"
+  }
+ ]
+}

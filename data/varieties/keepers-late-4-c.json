@@ -1,0 +1,516 @@
+[
+  {
+    "id": "primrose-pippin",
+    "name": "Primrose Pippin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Keepers Nursery, East Farleigh, Kent",
+      "year": 2022,
+      "year_note": "introduced",
+      "kind": "bred",
+      "parentage": "Seedling from the Keepers Nursery programme (seedling 82); parents not published",
+      "raised_by": "Karim Habibi"
+    },
+    "history": "Karim Habibi's best-regarded seedling so far, named after his eldest child. It was shown to the RHS Fruit Group in 2023 and was released for ordering in May 2025. It is sold under the trademark Primrose Pippin. As yet it has only been grown in Kent.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Yellow skin that develops a red striped flush late in the season; roughly round-oblong with a long thin stalk."
+    },
+    "taste": {
+      "summary": "A modern-style crisp, juicy apple with more sugar (about 18% by refractometer), acidity and fruitiness than most late-season supermarket types. The raiser and the RHS fruit specialist Joan Morgan both describe the balance as excellent.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "From mid-November"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data found."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Self-sterile; group 3 (C in nursery lists)."
+    },
+    "season": {
+      "harvest": "mid Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Only trialled in Kent so far.",
+      "poor_climates": "Not yet known; a mid-November pick needs a long season."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No significant fungal susceptibility seen in Kent trials; not yet tested elsewhere."
+    },
+    "grow_notes": "Plant with another group 2-4 apple. Because it ripens very late, give it the warmest, most sheltered spot you have.",
+    "conf": "low",
+    "tags": [
+      "keepers-bred"
+    ]
+  },
+  {
+    "id": "rajka",
+    "name": "Rajka",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "CZ",
+      "place": "Institute of Experimental Botany, Strizovice, Czech Republic",
+      "year": 1983,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Sampion x a scab-resistant selection (given as Katka in some sources, Jolana x Rubin in others)",
+      "raised_by": "Institute of Experimental Botany, Czech Academy of Sciences"
+    },
+    "history": "Bred at the Czech Institute of Experimental Botany (the programme that also gave Topaz) for resistance to apple scab; the cross dates from the early 1980s and it was released in the 1990s. Through its Sampion parent it descends from Golden Delicious and Lord Lambourne.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 1,
+      "description": "Attractive medium-to-large, roundish-conical fruit almost entirely covered in bright deep red over a yellow ground, with a little russet in the stalk cavity."
+    },
+    "taste": {
+      "summary": "Fairly crisp, open-textured cream-yellow flesh that snaps cleanly, with a sweet flavour and good acidity much like Elstar; after a good summer it can carry a hint of strawberry. Juicy and pleasant rather than complex, and it keeps a few weeks.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "strawberry",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous, spurs freely, comes into bearing early and crops regularly; fruit holds well on the tree. Suited to organic growing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering (group 3) and a good pollinator for other group 2-4 diploids."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Central European and British temperate climates, including damp western areas where its scab resistance is a real advantage; suggested as suitable for cooler regions.",
+      "poor_climates": "Low-chill or very hot regions; warm nights are likely to reduce its strong red colour."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab resistant (Vf) and tolerant of mildew. Birds can damage the fruit. Vf resistance has broken down to new scab races in some regions."
+    },
+    "grow_notes": "An easy, healthy garden apple that needs little spraying, even in wet areas. Plant with a group 2-4 partner, thin if the set is heavy, and pick in early October.",
+    "conf": "medium"
+  },
+  {
+    "id": "red-delicious",
+    "name": "Red Delicious",
+    "aka": [
+      "Delicious",
+      "Hawkeye",
+      "Stark Delicious"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Peru, Madison County, Iowa",
+      "year": 1880,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling of unknown parentage (Yellow Bellflower has been suggested)",
+      "raised_by": "Jesse Hiatt"
+    },
+    "history": "Found around 1880 by Jesse Hiatt on his farm near Peru, Iowa, and first called Hawkeye. Stark Brothers bought it and launched it as Delicious in 1895, and it was renamed Red Delicious after they acquired the unrelated Golden Delicious. Repeated selection of ever-redder sports such as Starking made it the leading US apple for most of the 20th century, at some cost to flavour.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": true,
+      "russet": 0,
+      "description": "Tall, strongly conical fruit with five prominent bumps at the eye, dark crimson-red over most of the skin (striped in the original, solid in modern sports)."
+    },
+    "taste": {
+      "summary": "Sweet, juicy flesh with a light crispness, very little acidity and only a faint aroma, sometimes likened to slightly over-ripe melon, under a thick, tough skin. Freshly picked fruit from a warm climate is refreshing, but stored supermarket fruit is often mealy and bland.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild",
+        "melon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; eat fresh, as texture declines in ordinary store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous; many commercial strains are compact spur types. Precocious and productive."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowering group 4 and a good pollen donor; crab apples and Golden Delicious are common orchard partners."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Sunny continental climates with hot days and cool autumn nights, such as central Washington State, where it colours deeply and develops full sweetness.",
+      "poor_climates": "Cool, cloudy maritime climates such as Britain, where it ripens late, colours poorly and tastes thin; very hot nights also spoil colour."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 1,
+      "bitter_pit": 2,
+      "other": "Fairly resistant to cedar-apple rust; moderately susceptible to scab. Prone to watercore when left late on the tree."
+    },
+    "grow_notes": "Grow it only where summers are warm and sunny; in Britain it is a curiosity rather than a reliable cropper. Plant with a group 4 partner.",
+    "conf": "high"
+  },
+  {
+    "id": "red-falstaff",
+    "name": "Red Falstaff",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": null,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Sport of Falstaff (James Grieve x Golden Delicious)",
+      "raised_by": null
+    },
+    "history": "A redder-skinned colour sport of Falstaff, the James Grieve x Golden Delicious apple raised at East Malling. It shares Falstaff's reliability and holds the RHS Award of Garden Merit; details of exactly where and when the sport was found are not well documented.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, roundish fruit with a bright red to orange-red flush over much of the yellow skin, redder than ordinary Falstaff."
+    },
+    "taste": {
+      "summary": "Crisp and very juicy, with a sweet-sharp balance that combines the zest of James Grieve with Golden Delicious sweetness. Good fresh or pressed for juice.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Regular, heavy cropper that can overcrop and give small fruit, so thin in good years. Blossom is relatively frost-resistant."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Flowering group 3. Described as self-fertile, but crops better with a group 2-4 partner; also a good pollinator for others."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate gardens throughout Britain and northern Europe; frost-tolerant blossom makes it useful in colder spots.",
+      "poor_climates": "Hot-summer regions, where fruit is likely to soften quickly and colour less."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some susceptibility to scab; Falstaff is generally regarded as fairly healthy and mildew-tolerant."
+    },
+    "grow_notes": "A dependable garden apple that suits small trees and cordons on dwarfing stocks. Thin fruitlets to keep size up and regular cropping.",
+    "conf": "medium"
+  },
+  {
+    "id": "rhode-island-greening",
+    "name": "Rhode Island Greening",
+    "aka": [
+      "Greening",
+      "Burlington Greening",
+      "Jersey Greening"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Green's End, near Newport (now Middletown), Rhode Island",
+      "year": 1650,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Attributed to a tavern keeper named Green"
+    },
+    "history": "One of the oldest American apples, said to have come from a seedling grown around 1650 by a tavern keeper named Green near Newport, Rhode Island. It became a leading 19th-century New York apple, is still grown commercially in the north-eastern US for pies and sauce, and is Rhode Island's state fruit.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "orange",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, flattish, often ribbed fruit with greasy grass-green skin turning greenish yellow, occasionally a faint orange cheek, and russet around the stalk."
+    },
+    "taste": {
+      "summary": "Firm, juicy flesh with a strong, clean sharpness; hard and tart fresh off the tree but richer after storage. Cooked, it keeps its shape and develops a full, sweet-tart flavour, making it a classic American pie apple.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Cook Oct-Feb; raw after a few months in store"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "A large, vigorous, spreading tree that is slow to come into bearing and tends to crop biennially. Triploid, so it gives no useful pollen."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; triploid, so plant two different diploid pollinators that flower in groups 2-4."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid continental climates of New England, New York and the Great Lakes, with cold winters and warm summers.",
+      "poor_climates": "Warm, humid regions with heavy fire blight pressure, and low-chill climates."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Very susceptible to fire blight; some susceptibility to cedar-apple rust. Triploid."
+    },
+    "grow_notes": "Needs plenty of room and two diploid pollinators. Expect to wait several years for the first crops; thin heavy crops to reduce alternate bearing.",
+    "conf": "high"
+  },
+  {
+    "id": "ribston-pippin",
+    "name": "Ribston Pippin",
+    "aka": [
+      "Glory of York",
+      "Formosa Pippin",
+      "Travers Pippin"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Ribston Hall, near Knaresborough, Yorkshire, England",
+      "year": 1708,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling from pips brought from Rouen, Normandy",
+      "raised_by": "Goodricke family, Ribston Hall"
+    },
+    "history": "Grew from pips sent from Rouen and planted at Ribston Hall in Yorkshire in the early 1700s. It was a celebrated Victorian dessert apple and is almost certainly a parent of Cox's Orange Pippin. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, irregular roundish-conical fruit, often lopsided, yellow with an orange-red flush and red streaks over a light network of russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained flesh with an intense, rich, aromatic flavour that is sharper and more robust than Cox, with some pear-like notes. Best a few weeks after picking; also good for cooking and juice.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "perfumed",
+        "pear",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; best after a month in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 3,
+      "ploidy": "triploid",
+      "notes": "Moderately vigorous, long-lived spur-bearer. Triploid, so its pollen is of little use to other varieties."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Generally listed in flowering group 2 (some sources give 3). Triploid: plant two diploid pollinators flowering in groups 1-3."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, mild temperate climates across England, from its Yorkshire home to the south, on well-drained soils.",
+      "poor_climates": "Hot summers soften the fruit and dull its flavour; heavy, wet soils encourage canker."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to canker, especially on wet, heavy soils. Triploid."
+    },
+    "grow_notes": "Plant on well-drained soil to limit canker, and provide two early-flowering diploid pollinators. Pick in late September and let the fruit mature in store for its best flavour.",
+    "conf": "high"
+  }
+]

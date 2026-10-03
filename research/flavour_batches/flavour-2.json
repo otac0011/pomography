@@ -1,0 +1,610 @@
+{
+ "batch": "flavour-2",
+ "count": 45,
+ "varieties": [
+  {
+   "id": "braeburn",
+   "name": "Braeburn",
+   "tags": [
+    "sharp",
+    "spice"
+   ],
+   "summary": "Hard, crisp and very juicy, with a bold sweet-tart balance that leans sharp and carries a spicy, aromatic depth. Stores well, though UK-grown fruit often lacks the full sweetness reached in warmer climates.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 5,
+   "juicy": 5
+  },
+  {
+   "id": "braintree-seedling",
+   "name": "Braintree Seedling",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, fine-textured, crisp cream flesh with a sweet, aromatic flavour.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "bramley-20",
+   "name": "Bramley 20",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "As Bramley's Seedling: very sharp, cooking down to a pale golden, fluffy purée with a strong apple tang.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "bramleys-seedling",
+   "name": "Bramley's Seedling",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Very sharp, with high acidity and little sugar. Cooked, it collapses into a pale golden, fluffy purée whose strong, clean apple tang survives sweetening; after a few months in store it mellows enough for some people to eat raw.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "brenchley-pippin",
+   "name": "Brenchley Pippin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Tender cream flesh with a sweet, aromatic flavour.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": null
+  },
+  {
+   "id": "calville-blanc-dhiver",
+   "name": "Calville Blanc d'Hiver",
+   "tags": [
+    "strawberry",
+    "wine",
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Tender, fine-grained, juicy flesh with a rich sweet-sharp, wine-like flavour and a strawberry-like aroma that develops in store. It holds its shape when baked, making it the traditional choice for French apple tarts.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "calville-daout",
+   "name": "Calville d'Août",
+   "tags": [],
+   "summary": "Flavour not documented; listed as suitable for both eating and cooking.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "calville-rouge-dhiver",
+   "name": "Calville Rouge d'Hiver",
+   "tags": [
+    "berry",
+    "sweet"
+   ],
+   "summary": "In a warm, well-chosen site it is sweet with a delicate raspberry-like perfume and soft, tender flesh; grown in cooler or poorer conditions it is rather flat and lacks aroma.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 3
+  },
+  {
+   "id": "cameo",
+   "name": "Cameo",
+   "tags": [
+    "sweet",
+    "pear"
+   ],
+   "summary": "Dense, very crisp and juicy, with a balance of sweetness and light tartness and a hint of pear; some find it rather plain when fresh, and it sweetens with a week or two of storage. Keeps its crunch for months refrigerated.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 4
+  },
+  {
+   "id": "captain-kidd",
+   "name": "Captain Kidd",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Like Kidd's Orange Red: firm, crisp and juicy, with a sweet, rich, Cox-like aroma softened by Delicious-style sweetness. Flavour develops further after a few weeks in store.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "caroline",
+   "name": "Caroline",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, crisp white flesh with a sweet flavour; a long-keeping dessert apple.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "carswells-orange",
+   "name": "Carswell's Orange",
+   "tags": [],
+   "summary": "Juicy, slightly coarse flesh with a pleasant aromatic flavour that shows its Cox parentage.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": null,
+   "juicy": 4
+  },
+  {
+   "id": "catshead",
+   "name": "Catshead",
+   "tags": [],
+   "summary": "Coarse, tender white flesh with moderate acidity and a faint perfume; some tasters find it rather dry. It cooks down to a soft purée and needs little sugar.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 3
+  },
+  {
+   "id": "centennial",
+   "name": "Centennial",
+   "tags": [],
+   "summary": "Crisp, juicy and sweet-sharp, good enough to eat fresh like a small dessert apple, and it cooks to a smooth sauce. It does not keep, so use it within a couple of weeks.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "charles-ross",
+   "name": "Charles Ross",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Juicy, slightly coarse flesh that is fairly sharp when first picked and turns sweeter and milder after a few weeks. Pleasant rather than intensely aromatic; slices hold their shape when cooked.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "cherry-cox",
+   "name": "Cherry Cox",
+   "tags": [
+    "floral",
+    "pear-drop",
+    "honey",
+    "nutty"
+   ],
+   "summary": "The same rich, aromatic Cox flavour and dense flesh, said by some growers to be slightly sweeter and to hold its quality a little longer in store.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "chestnut-crab",
+   "name": "Chestnut Crab",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Sweet, rich and distinctly nutty, with crisp, juicy cream flesh; one of the best crabs for eating out of hand and also good for sauce.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "chivers-delight",
+   "name": "Chivers Delight",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, juicy yellowish flesh with a sweet but well-balanced, lightly aromatic flavour; keeps its quality well into winter.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "christmas-pearmain",
+   "name": "Christmas Pearmain",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, fine, crisp and fairly juicy yellow flesh; basically sweet, with enough sharpness and aromatic richness to keep it interesting.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "claygate-pearmain",
+   "name": "Claygate Pearmain",
+   "tags": [
+    "nutty"
+   ],
+   "summary": "Firm, rather coarse but juicy cream flesh with a rich, aromatic, nutty flavour balanced between sweetness and acidity, in the style of Ribston Pippin.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "cockle-pippin",
+   "name": "Cockle Pippin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, crisp, fine-grained flesh, sweet with a mild sub-acid balance and a pleasant aromatic flavour; it can be on the dry side. Bunyard noted it tastes best after a warm summer, and it keeps well into spring.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "colonel-vaughan",
+   "name": "Colonel Vaughan",
+   "tags": [],
+   "summary": "Firm white flesh, sometimes stained with red, with a sweet to mildly acidic flavour.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "cornish-aromatic",
+   "name": "Cornish Aromatic",
+   "tags": [
+    "spice",
+    "perfumed",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, rather dry cream flesh with a rich, sweet-sharp flavour carrying a distinct spicy, perfumed note. Best after a few weeks in store; in a cool, dull summer it can stay sharp and less aromatic.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "cornish-gilliflower",
+   "name": "Cornish Gilliflower",
+   "tags": [
+    "perfumed",
+    "sweet",
+    "honey"
+   ],
+   "summary": "Firm, yellowish, rather dry flesh with a rich, sweet and highly aromatic flavour that has a perfumed edge. Keeps its quality well into the new year in a cool store.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "cortland",
+   "name": "Cortland",
+   "tags": [
+    "wine",
+    "sweet"
+   ],
+   "summary": "Tender, very white, juicy flesh with a sweet, mildly sharp and slightly vinous McIntosh-style flavour, less tart than McIntosh. Crispness and sweetness fade fairly quickly after harvest. Holds its shape when cooked and stays white in salads.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "cosmic-crisp",
+   "name": "Cosmic Crisp",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Very crisp and juicy, firmer than Honeycrisp, with both sugar and acid high so the flavour is a bright sweet-tart balance. The flesh browns slowly and keeps its texture for months.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 5
+  },
+  {
+   "id": "court-pendu-plat",
+   "name": "Court Pendu Plat",
+   "tags": [
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Very firm, fine-grained flesh that is rather dry rather than juicy, but sweet, rich and perfumed, with a fruity sharpness that becomes more complex in store through midwinter.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "court-royal",
+   "name": "Court Royal",
+   "tags": [
+    "sweet",
+    "mild"
+   ],
+   "summary": "A true sweet cider apple: little acid and little tannin, so the juice is soft, sugary and plain, and it ferments quickly. The fruit is lightly crisp and sweet enough to eat fresh, which is why it once doubled as a dessert apple.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "coxs-orange-pippin",
+   "name": "Cox's Orange Pippin",
+   "tags": [
+    "floral",
+    "pear-drop",
+    "honey",
+    "rose",
+    "nutty"
+   ],
+   "summary": "Rich and complex: honeyed sweetness balanced by lively acidity, with a floral, almost rose-water perfume, pear-drop esters and a nutty background. Flesh is fine, cream-coloured and juicy; flavour deepens for a few weeks after picking.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "coxs-pomona",
+   "name": "Cox's Pomona",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Soft, rather coarse and juicy cream flesh with a sweet, mildly acid flavour; pleasant raw early in its short season and good for cooking.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "crawley-beauty",
+   "name": "Crawley Beauty",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Firm, slightly coarse and rather dry flesh. Cooked, it breaks down to a delicately flavoured puree; after storage it softens into a mild, sub-acid eating apple that most tasters find pleasant rather than memorable.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "crimson-bramley",
+   "name": "Crimson Bramley",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "As Bramley's Seedling: firm, coarse, juicy and strongly acid, cooking to a fluffy, tangy purée.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "crimson-crisp",
+   "name": "Crimson Crisp",
+   "tags": [
+    "sharp",
+    "sweet",
+    "spice"
+   ],
+   "summary": "Very hard, crisp, breaking yellowish flesh, moderately juicy, with a rich sweet-tart flavour and a slight spicy edge. Can taste quite sharp at picking and mellows over a few weeks in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 3
+  },
+  {
+   "id": "crimson-peasgood",
+   "name": "Crimson Peasgood",
+   "tags": [],
+   "summary": "As Peasgood's Nonsuch: soft, juicy and moderately sweet with gentle acidity and some aroma. It cooks well, breaking down easily, and is also eaten fresh.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 3
+  },
+  {
+   "id": "cripps-pink",
+   "name": "Cripps Pink",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Very firm, fine-grained and crunchy with a refreshing, almost effervescent sharpness balanced by good sweetness. The acidity mellows in storage and the apple keeps its bite for months.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 5,
+   "juicy": 4
+  },
+  {
+   "id": "cripps-red",
+   "name": "Cripps Red",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, white-fleshed and sweeter and softer-flavoured than its sister Pink Lady, with a clean finish and moderate acidity. Holds its shape when cooked.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "crispin",
+   "name": "Crispin",
+   "tags": [
+    "honey",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Coarse, very crisp and juicy cream flesh with a sweet, honeyed flavour inherited from Golden Delicious but balanced by more acidity. Equally good raw, juiced or cooked, when slices hold their shape.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "danziger-kantapfel",
+   "name": "Danziger Kantapfel",
+   "tags": [],
+   "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be marbled with red. Pleasant fresh in autumn and useful in the kitchen; not a long keeper.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 3
+  },
+  {
+   "id": "darcy-spice",
+   "name": "D'Arcy Spice",
+   "tags": [
+    "spice",
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Hard and sharp when picked; after a few months in store the firm, fine-textured flesh turns sweeter and develops its famous warm, spicy, nutmeg-like aroma. Best in a warm, dry year.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "decio",
+   "name": "Decio",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Firm, fine, fairly dense flesh with little juice and a gently sweet, mildly acid flavour. Pleasant enough, but plain by modern standards; its appeal is historical.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 1,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "delbarestivale",
+   "name": "Delbarestivale",
+   "tags": [
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Aromatic and sweet with gentle acidity; juicy and fairly crisp for an early apple, and it keeps better than most summer varieties.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "delprim",
+   "name": "Delprim",
+   "tags": [],
+   "summary": "Crisp, juicy flesh with a light, moderately aromatic flavour. Like most very early apples it is for eating within a week or so of picking.",
+   "sweet": null,
+   "acid": null,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "democrat",
+   "name": "Democrat",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Collection descriptions call the flesh crisp, sweet and juicy; detailed tasting notes are scarce.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "devonshire-quarrenden",
+   "name": "Devonshire Quarrenden",
+   "tags": [
+    "strawberry",
+    "wine",
+    "sweet"
+   ],
+   "summary": "Crisp, very juicy white flesh, sometimes stained green or pink under the skin, with a sweet, vinous flavour and a faint strawberry note. Turns soft and melting within days of picking.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "discovery",
+   "name": "Discovery",
+   "tags": [
+    "strawberry",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, crisp, fine-textured and juicy, with a fresh balance of sweetness and acidity. Many tasters pick up a hint of strawberry, though it varies from year to year. It keeps its crunch better than most August apples, especially if chilled.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  }
+ ]
+}

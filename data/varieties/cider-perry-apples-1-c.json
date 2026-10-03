@@ -1,0 +1,387 @@
+[
+  {
+    "id": "somerset-redstreak",
+    "name": "Somerset Redstreak",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown; not the same as the seventeenth-century Herefordshire Redstreak",
+      "raised_by": null
+    },
+    "history": "A Somerset bittersweet of the late nineteenth or early twentieth century, unrelated except in name to the famous old Herefordshire Redstreak. It gained a modern profile through single-variety commercial ciders.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Attractive rounded fruit, bright red stripes over yellow, tough-skinned with a little russet."
+    },
+    "taste": {
+      "summary": "A mild-to-medium bittersweet; the greenish-white flesh is sweet and juicy but rubbery and astringent to bite. Its juice gives a soft, fruity cider.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": ["sweet", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct, within two or three weeks of picking."
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous, fairly upright tree reported to yield very well."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Early-to-mid season flowering."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp South West England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "An early bittersweet, useful for starting the pressing season. Give its vigorous upright growth room on a standard or half-standard.",
+    "conf": "medium"
+  },
+  {
+    "id": "medaille-dor",
+    "name": "Médaille d'Or",
+    "aka": ["Medaille d'Or"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Bois-Guillaume, near Rouen, Normandy, France",
+      "year": 1865,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "M. Godard, nurseryman of Bois-Guillaume"
+    },
+    "history": "First propagated around 1865 by the nurseryman Godard at Bois-Guillaume outside Rouen, it won a gold medal from the Seine-Inférieure horticultural society in 1873, hence the name. It reached England in the 1880s.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 2,
+      "description": "Small golden-yellow apple marbled with fine brown russet, often heavier on the sunny side."
+    },
+    "taste": {
+      "summary": "A full bittersweet with exceptionally high sugar and tannin and little acid; the juice is rich and aromatic but intensely astringent, so it is usually blended.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 4,
+      "tannin": 5,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "bitter", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous, spreading tree; productive but tends to crop in alternate years."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Very late flowering; choose an equally late pollinator."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild Atlantic climates like Normandy and western England, with long autumns.",
+      "poor_climates": "Short-season areas where its very late fruit cannot ripen."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some scab resistance; some fire blight susceptibility; biennial."
+    },
+    "grow_notes": "Use sparingly in blends for sugar and tannin. Plant with other very late bloomers such as Dabinett or Stoke Red. Its late blossom avoids most spring frosts.",
+    "conf": "medium"
+  },
+  {
+    "id": "porters-perfection",
+    "name": "Porter's Perfection",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "East Lambrook, Somerset, England",
+      "year": 1907,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "Charles Porter"
+    },
+    "history": "Associated with Charles Porter of East Lambrook in south Somerset and introduced in the early 1900s. A late bittersharp valued for blending and occasionally for single-variety cider.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "cream",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": null,
+      "description": "Conical fruit with a pale cream ground mostly covered by a dark red flush."
+    },
+    "taste": {
+      "summary": "A bittersharp with high acid and fairly mild tannin; tart if picked early or grown in a cool spot, it needs a few weeks of storage before milling.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp", "astringent"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Not for eating; store about a month, then mill Dec."
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, heavy-cropping tree with some tendency to alternate years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a compatible pollinator."
+    },
+    "season": {
+      "harvest": "mid Nov",
+      "eating": "Dec",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp maritime climates with long autumns.",
+      "poor_climates": "Short-season regions; the very late fruit needs a long autumn."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy, with some resistance to scab and canker."
+    },
+    "grow_notes": "One of the last cider apples to pick; let the fruit mellow in store before pressing. A good source of acid to balance bittersweets.",
+    "conf": "medium"
+  },
+  {
+    "id": "major",
+    "name": "Major",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "South Devon and the Blackdown Hills, Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A long-established bittersweet of nineteenth-century or earlier date, found in old farm orchards across South Devon and on the eastern side of the Blackdown Hills. Rated as of vintage quality.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "pink",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium, typical 'Jersey'-type fruit with a pinkish-red flush."
+    },
+    "taste": {
+      "summary": "A full bittersweet: high tannin, low acid and good sugar, giving a well-structured cider that can stand alone.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 4,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent", "bitter"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill late Sep-Oct."
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Triploid; young trees grow very vigorously, so it is unsuited to the most vigorous rootstocks."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Triploid, so a poor pollen donor; plant with two other compatible varieties."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp South West England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "Use a moderate rootstock to tame its vigour. As an early bittersweet it pairs with early sharps for the first pressings. Remember it needs two pollinators as a triploid.",
+    "conf": "low"
+  },
+  {
+    "id": "sweet-alford",
+    "name": "Sweet Alford",
+    "aka": [],
+    "uses": ["cider", "juice"],
+    "origin": {
+      "country": "GB",
+      "place": "Devon, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A Devon cider apple reputed to date from the eighteenth century, grown as a high-quality sweet. Rated a vintage variety capable of single-variety cider.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small, flattened-conical apple with waxy pale yellow skin, a pink flush and russet around the stalk."
+    },
+    "taste": {
+      "summary": "Sweet, juicy, fairly crisp white flesh with only a faint astringency; the juice is sweet and makes a soft, mild bittersweet-leaning cider that balances sharper fruit.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 2,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet", "mild"],
+      "cider_class": "sweet",
+      "best_eaten": "Not usually eaten; mill Oct-Nov."
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little published information on tree habit."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Reported to blossom in mid spring; group not reliably recorded."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, damp South West England; also grown in North American and New Zealand cider collections.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "Grow it to sweeten and soften blends built on bittersharps. Plant with another mid-season flowering cider variety.",
+    "conf": "low"
+  }
+]

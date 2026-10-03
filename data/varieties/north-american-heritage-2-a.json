@@ -1,0 +1,527 @@
+[
+  {
+    "id": "golden-russet",
+    "name": "Golden Russet",
+    "aka": [
+      "Golden Russet of Western New York"
+    ],
+    "uses": [
+      "dessert",
+      "cider",
+      "juice",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State, USA",
+      "year": 1845,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, thought to come from an English russet (sometimes said to be English Golden Russet); unconfirmed",
+      "raised_by": null
+    },
+    "history": "A New York russet that was in circulation by the first half of the nineteenth century and became a farmhouse favourite for winter storage. It has had a second life with the revival of American craft cider, where its very high sugar content makes it one of the most sought-after cider fruits.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small to medium, slightly squat fruit almost entirely coated in golden-bronze russet, occasionally with a faint coppery-orange cheek."
+    },
+    "taste": {
+      "summary": "Dense, fine-grained, crisp flesh with intense sugar balanced by lively acidity; nutty and rich, with some tasters noting a hint of pear and a spiced, cider-like depth. Sharp early in the season, it sweetens markedly in store but loses crispness after a month or two.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "nutty",
+        "sweet",
+        "pear",
+        "spice"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Nov-Feb; sweeter after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A vigorous tree that one widely used database lists as tip-bearing and a regular, good cropper; avoid heavy spur pruning and renew fruiting wood instead."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Recorded as an early-flowering (group 2) diploid in one database; needs a compatible partner flowering at the same time."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold-winter continental climates such as New York, New England, the Great Lakes and eastern Canada, where a long, sunny autumn concentrates sugar.",
+      "poor_climates": "Cool, sunless summers leave the fruit sharp and undersized; very hot, humid regions favour fire blight and rust."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Fairly scab-tolerant, but susceptible to fire blight and somewhat to cedar-apple rust. Russeted skin shrivels in dry storage, so keep it humid."
+    },
+    "grow_notes": "Plant in full sun on fertile, well-drained soil and give it a few years to settle into cropping. Because it tends to fruit at shoot tips, prune lightly by renewal. Store in a humid cellar or bag to prevent shrivelling.",
+    "conf": "medium"
+  },
+  {
+    "id": "hubbardston-nonesuch",
+    "name": "Hubbardston Nonesuch",
+    "aka": [
+      "Hubbardston's Nonesuch",
+      "Hubbardston Nonsuch",
+      "American Blush",
+      "John May"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Hubbardston, Massachusetts, USA",
+      "year": 1832,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Found in the town of Hubbardston in central Massachusetts in the early 1800s and recorded by the early 1830s. It was a respected New England market and home-orchard apple through the nineteenth century, though it never caught on widely in the South.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, rather lopsided fruit with a yellow base heavily washed and streaked with dull to bright red; colour varies a lot with site."
+    },
+    "taste": {
+      "summary": "Tender to moderately firm, juicy white flesh that is distinctly sweet with only gentle acidity and a full, rounded apple flavour. It keeps its texture well for a month or two and the flavour deepens somewhat in store.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing, reported to come into bearing early and to crop regularly; responds to standard winter spur pruning."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed as a mid-late (group 4) diploid; plant with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool to warm temperate regions with cold winters, such as New England, New York and the upper Midwest.",
+      "poor_climates": "Hot, humid lowlands give poorly coloured, soft fruit; very short seasons may not ripen it fully."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have good scab resistance but some susceptibility to canker."
+    },
+    "grow_notes": "A good choice for a cold-winter garden that wants a sweet, large dessert apple. Give it full sun for the best colour and a pollinator in a similar flowering group.",
+    "conf": "medium"
+  },
+  {
+    "id": "tompkins-king",
+    "name": "Tompkins King",
+    "aka": [
+      "King of Tompkins County",
+      "King",
+      "Tompkins County King"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Warren County, New Jersey, USA (popularised in Tompkins County, New York)",
+      "year": 1804,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Brought around 1804 to Jacksonville in Tompkins County, New York, where Jacob Wycoff grew it and it took the county's name. Liberty Hyde Bailey later found the Tompkins County tree had been grafted, which points to an earlier origin in Warren County, New Jersey. It became a major New York and Pacific Northwest commercial apple in the nineteenth century.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, somewhat irregular fruit, yellow largely covered with orange-red to red flush broken by darker carmine stripes and pale dots."
+    },
+    "taste": {
+      "summary": "Coarse-grained but crisp, juicy yellowish flesh with a delicate, mild and faintly floral flavour; growers find it very sweet with only a light tartness, although one listing classes it on the sharper side. Good raw, cooked (it needs little added sugar) and pressed for fresh juice; at its best in autumn and early winter, though well-stored fruit can last longer.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "floral",
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Vigorous, spur-bearing triploid that makes a large tree. Its own root system is reputedly weak, so it is best on a strong rootstock or top-worked onto a hardy framework."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid, so it is a poor pollen donor: plant two other compatible diploids (group 2-4) to pollinate it and each other."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool-temperate regions with good summers: upstate New York, the Hudson Valley and the Pacific Northwest, where it was grown commercially.",
+      "poor_climates": "Very cold interior winters can injure the tree; hot southern summers give soft fruit with weaker colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Poor own-root growth and somewhat limited winter hardiness are the main grower complaints; keeps less well than the classic New York winter apples."
+    },
+    "grow_notes": "Graft onto a vigorous, well-anchored rootstock and allow plenty of room for a big spreading tree. As a triploid it needs two diploid pollinators nearby. Eat or cook the crop by midwinter.",
+    "conf": "medium"
+  },
+  {
+    "id": "summer-rambo",
+    "name": "Summer Rambo",
+    "aka": [
+      "Rambour d'Ete",
+      "Summer Rambour",
+      "Summer Rambo of Pennsylvania"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Probably near Rambures, Picardy, France (traditional account)",
+      "year": 1817,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old French summer apple, Rambour d'Ete, said to take its name from the village of Rambures in Picardy; some accounts place it as early as the sixteenth century. Carried to North America, it became a popular early-season apple in Pennsylvania, Maryland and Virginia, but its poor keeping kept it out of commercial trade. It is distinct from the autumn-ripening Rambo, and the French name Rambour Franc is applied inconsistently to it and to a different later apple.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, squat, often lopsided or ribbed fruit, greenish-yellow washed and striped with pinkish to carmine red on the sunny side."
+    },
+    "taste": {
+      "summary": "Coarse, tender, breaking flesh that is exceptionally juicy, with a mildly tart, sweet-sharp, slightly honeyed flavour. Good fresh straight off the tree and very good for sauce, pies and frying; it softens quickly.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "triploid",
+      "notes": "Vigorous and productive, bearing partly at shoot tips; tends to alternate heavy and lighter years. Thin heavy crops to keep fruit size and reduce biennialism."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Listed as triploid in one database, so plant two diploid pollinators flowering at about the same time."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer temperate regions such as the Mid-Atlantic states and northern France, where it ripens reliably in late summer.",
+      "poor_climates": "Cool, wet summers give watery fruit and more scab; the soft fruit is unsuited to shipping anywhere."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Average overall disease resistance; some susceptibility to scab, but some resistance to fire blight is reported. Fruit bruises and softens fast."
+    },
+    "grow_notes": "Give it a warm, open site and room to spread. Pick over several passes as the fruit colours, using greener fruit for cooking, and eat or process the crop within a week or two.",
+    "conf": "medium"
+  },
+  {
+    "id": "westfield-seek-no-further",
+    "name": "Westfield Seek-No-Further",
+    "aka": [
+      "Seek",
+      "New England Seek-No-Further",
+      "Red Winter Pearmain",
+      "Seek-No-Further (American)"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Westfield, Massachusetts, USA",
+      "year": 1796,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Originated near Westfield in western Massachusetts in the late eighteenth century and became a standard New England and New York winter dessert apple, regularly sold in New York markets. Several unrelated apples share the 'Seek-No-Further' name, so the Westfield prefix matters.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, roundish-conical fruit, dull greenish-yellow splashed with orange-red and carmine stripes, with russet dots and sometimes a thin bluish bloom."
+    },
+    "taste": {
+      "summary": "Firm, crisp yet tender, juicy flesh with a rich, distinctive flavour that is aromatic, honeyed and dryly nutty, mostly sweet but finishing with a little tartness. A high-quality dessert and drying apple, not recommended for cooking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "honey",
+        "nutty",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Bears on spurs and partly at the tips; little documented on vigour or habit."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering group not reliably recorded; assume a mid-season pollinator is needed."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter New England-type climates with warm, sunny autumns.",
+      "poor_climates": "Hot southern lowlands, where late apples of this type tend to drop early and colour poorly."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease profile poorly documented."
+    },
+    "grow_notes": "Suited to a sunny garden in a cold-winter area; pick in early autumn and store for winter eating. Prune lightly as some fruit is carried at shoot tips.",
+    "conf": "medium"
+  },
+  {
+    "id": "virginia-beauty",
+    "name": "Virginia Beauty",
+    "aka": [
+      "Zach",
+      "Zach Red"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Piper's Gap, Carroll County, Virginia, USA",
+      "year": 1810,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Zach Safewright"
+    },
+    "history": "Grew from a seed planted around 1810 on the Safewright farm at Piper's Gap in the Blue Ridge of south-west Virginia; the original tree lived until about 1914. It was once a well-known southern winter apple that competed with Red Delicious in local markets, but is now rare.",
+    "look": {
+      "size": "medium",
+      "shape": "irregular",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium to large, often lopsided fruit with smooth skin almost covered in dark red to purplish red."
+    },
+    "taste": {
+      "summary": "Fine-grained, tender, juicy greenish-yellow flesh with a sweet, mild flavour; prized as a late dessert apple that holds well into winter.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics are not well documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded; plant with another apple of similar season."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Upland South and Mid-Atlantic regions with long, warm growing seasons and cold winters, like its Blue Ridge home.",
+      "poor_climates": "Short, cool seasons (including much of Britain) may not ripen this late apple fully; estimates here are inferred from its origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not documented."
+    },
+    "grow_notes": "A late, long-keeping southern apple: give it the warmest site you have and a long season. Store the fruit cool for winter use.",
+    "conf": "low"
+  }
+]

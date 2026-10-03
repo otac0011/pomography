@@ -1,0 +1,682 @@
+[
+  {
+    "id": "jonathan",
+    "name": "Jonathan",
+    "aka": [
+      "Philip Rick",
+      "King Philip",
+      "Ulster Seedling"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Farm of Philip Rick, Woodstock, Ulster County, New York",
+      "year": 1826,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Chance seedling, probably of Esopus Spitzenburg",
+      "raised_by": "Found on Philip Rick's farm; named by Judge Jesse Buel after Jonathan Hasbrouck"
+    },
+    "history": "Found on a farm at Woodstock in the Hudson Valley and described in 1826 by Judge Buel, who named it after Jonathan Hasbrouck, the man who brought it to his notice. It became one of the great American apples of the 19th and 20th centuries and a parent of Jonagold, Idared and many others.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 1,
+      "description": "Smallish, bright glossy red apple over a yellow ground, with tough waxy skin and a little fine russet."
+    },
+    "taste": {
+      "summary": "Crisp, fine white flesh, juicy and tender, with a lively sweet-sharp balance and the spicy, slightly wine-like tang Jonathan is known for. Mellows and softens over a couple of months in store; also cooks well.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "spice",
+        "wine",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderate, twiggy, spreading tree that can droop with crops. Bears on spurs and some tips. Thin to maintain fruit size."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile but crops better with another mid-season diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Continental climates with warm, sunny summers and dry autumns: the US Midwest and intermountain West, Hungary and central Europe, inland Australia.",
+      "poor_climates": "Humid regions with fire blight, mildew and cedar-apple rust pressure; very cool maritime summers give small, sharp fruit."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 5,
+      "fire_blight": 5,
+      "rust": 5,
+      "bitter_pit": 2,
+      "other": "Very susceptible to powdery mildew, fire blight and cedar-apple rust; fruit prone to 'Jonathan spot' skin lesions in store."
+    },
+    "grow_notes": "Best on a sunny, airy site where mildew pressure is low; prune out mildewed tips in spring. Avoid planting near junipers in North America because of rust.",
+    "conf": "high"
+  },
+  {
+    "id": "kent",
+    "name": "Kent",
+    "aka": [
+      "Malling Kent"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Maidstone, Kent, England",
+      "year": 1949,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Jonathan",
+      "raised_by": "H.M. Tydeman, East Malling Research Station"
+    },
+    "history": "Raised in 1949 by H.M. Tydeman at East Malling as a later-keeping, Cox-flavoured apple, and released as Malling Kent. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large greenish-yellow apple flushed and striped orange-red, with a little russet."
+    },
+    "taste": {
+      "summary": "Juicy, slightly coarse white flesh with a sweet-sharp, aromatic flavour in the Cox mould, sharpened by its Jonathan parent. Keeps its flavour well into the new year.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Tree habits are poorly recorded; treat as an ordinary spur-pruned dessert apple."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Brogdale records show it flowering with Cox; pair with another group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and eastern England and similar cool, temperate climates with a long enough autumn for a mid-October harvest.",
+      "poor_climates": "Short-season northern sites where it may not ripen; hot summers likely to reduce flavour and colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented."
+    },
+    "grow_notes": "A good late-keeping Cox substitute for southern gardens; it needs a warm, sheltered site to finish ripening in mid-October. Store cool to enjoy it through the winter.",
+    "conf": "medium"
+  },
+  {
+    "id": "kentish-quarrenden",
+    "name": "Kentish Quarrenden",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Offered as a late-season eating apple, but no independent pomological description was found: it is not listed, even as a synonym, in the UK National Fruit Collection or National Apple Register data. The name hints at a link with the Quarrenden apples, but the best-known of them, Devonshire Quarrenden, is an August apple, and no connection is documented.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not recorded in available sources."
+    },
+    "taste": {
+      "summary": "No reliable tasting description found in independent sources.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Not recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Presumably south-east England, if it is a Kentish variety; unverified.",
+      "poor_climates": "Not recorded."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Insufficient independent information; treat as a typical English dessert apple and pair with a mid-season pollinator until its flowering time is known.",
+    "conf": "low"
+  },
+  {
+    "id": "kidds-orange-red",
+    "name": "Kidd's Orange Red",
+    "aka": [
+      "Kidd's Orange",
+      "Delco"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "Greytown, Wairarapa, New Zealand",
+      "year": 1924,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Delicious",
+      "raised_by": "James Hutton Kidd"
+    },
+    "history": "Raised in 1924 by amateur breeder J.H. Kidd at Greytown in New Zealand and brought to Britain around 1932. Crossed with Golden Delicious it gave Gala, making it one of the most influential apples of the 20th century.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 1,
+      "description": "Conical, yellow apple largely covered with an orange-red flush and stripes, often with a little russet around the stalk."
+    },
+    "taste": {
+      "summary": "Dense, firm cream flesh that bites cleanly and keeps releasing juice, with a honeyed sweetness richer than Cox and an aromatic depth likened to a sweet dessert wine with a lively finish. Firm and slightly chewy rather than crunchy; best eaten before the New Year.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "honey",
+        "perfumed",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous spur-bearer; generally easier to grow than Cox."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Cox; any group 2-4 diploid will do."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate climates with warm, sunny autumns: New Zealand, southern England and similar, where it ripens and colours fully.",
+      "poor_climates": "Cool, wet, short-season areas where it may not ripen fully; hot climates likely reduce colour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Usually healthier than Cox, with less scab, but can get mildew."
+    },
+    "grow_notes": "A good choice for anyone who loves Cox but struggles with its diseases. Plant in a warm, sunny spot so it ripens fully by mid-October.",
+    "conf": "high"
+  },
+  {
+    "id": "king-david",
+    "name": "King David",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Washington County, Arkansas",
+      "year": 1893,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Chance seedling; thought to be Jonathan x Winesap or Arkansas Black",
+      "raised_by": null
+    },
+    "history": "Found in 1893 growing in a hedgerow in north-west Arkansas and introduced by Stark Bros in 1902. A dark-red southern apple that is enjoying renewed interest among heritage growers for its flavour and fire-blight resistance.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Almost entirely covered in deep, dark red, with a few pale dots; firm, glossy fruit."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse yellowish flesh with an intense sweet-tart, spicy, Winesap-like vinous flavour; individual tasters pick out a heady Muscat-grape finish and even a caramel note. Sweetens somewhat in store and keeps a month or two. Good fresh, cooked or in cider, where it adds a soft astringency.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "spice",
+        "wine",
+        "sharp",
+        "grape"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous, upright and productive; comes into bearing early and crops regularly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer climates such as the US South and Midwest, where it colours deeply and ripens fully.",
+      "poor_climates": "Short-season, cool maritime sites where a mid-October apple may not develop its full sugar."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 1,
+      "rust": 2,
+      "bitter_pit": 3,
+      "other": "Highly resistant to fire blight with some resistance to scab and cedar-apple rust; some bitter pit reported."
+    },
+    "grow_notes": "A useful choice for warm, humid areas where fire blight limits other varieties. Give it a sunny site and space for its upright growth.",
+    "conf": "medium"
+  },
+  {
+    "id": "knobby-russet",
+    "name": "Knobby Russet",
+    "aka": [
+      "Knobbed Russet",
+      "Old Maid's",
+      "Winter Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Midhurst, Sussex, England",
+      "year": 1820,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Brought to notice in 1820 by Haslar Capron of Midhurst in Sussex. It is best known for its grotesque appearance: lumpy, warty fruit almost entirely coated in russet.",
+    "look": {
+      "size": "medium",
+      "shape": "irregular",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 3,
+      "description": "Knobbly, warted and lumpy fruit, nearly covered in rough russet over a golden-orange ground."
+    },
+    "taste": {
+      "summary": "A warty, potato-like russet with a sweet flavour. Descriptions of the flesh disagree: Wikipedia calls it soft and creamy, while other accounts find it firm, rather dry and fairly strongly flavoured, more a curiosity than a juicy dessert apple. In season from October to about March.",
+      "sweet": 3,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Midwinter, after a spell in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not well recorded."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Brogdale records show it flowering about a week before Cox; plant with a group 1-3 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Southern England and similar mild, temperate climates.",
+      "poor_climates": "Not recorded outside Britain; early flowering makes frost pockets risky."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded; early blossom is exposed to spring frost."
+    },
+    "grow_notes": "Grown mainly as a conversation piece and late keeper. Avoid frost pockets because it flowers early, and pick late for winter storage.",
+    "conf": "low"
+  },
+  {
+    "id": "landsberger-reinette",
+    "name": "Landsberger Reinette",
+    "aka": [
+      "Landsberger Renette",
+      "Reinette de Landsberg",
+      "Reneta Landsberska"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "PL",
+      "place": "Landsberg an der Warthe, Brandenburg, then Prussia (now Gorzow Wielkopolski, Poland)",
+      "year": 1840,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling, reportedly of Harberts Reinette",
+      "raised_by": "Councillor (Justizrat) Burchardt"
+    },
+    "history": "Raised around 1840-1850 by Councillor Burchardt at Landsberg on the Warthe, then in Prussian Brandenburg and now Gorzow Wielkopolski in Poland. It received a First Class Certificate from the RHS in 1882 and was widely planted in Germany and eastern Europe.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 1,
+      "description": "Smooth, fine-skinned apple ripening from yellow-green to pale straw-yellow, with fine brown dots and a light orange-red tinge on the sunny side."
+    },
+    "taste": {
+      "summary": "Soft, fine-textured and very juicy white flesh, sweet and refreshing with a gentle, slightly winey tang but little aroma. Bruises easily.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Strong-growing tree that makes a good standard; crops early and abundantly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Brogdale records show it flowering just before Cox; plant with another mid-season variety."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, continental central and northern Europe, where it was raised and is valued for reliable cropping.",
+      "poor_climates": "Warm, dry sites encourage powdery mildew; wet, poor soils encourage canker."
+    },
+    "health": {
+      "scab": null,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Mildew can be a problem in warm, dry places and canker on wet, hungry soils; fruit bruises easily."
+    },
+    "grow_notes": "Prefers a cool site and is not fussy about soil, but avoid waterlogged or very poor ground where canker sets in. Handle the soft fruit gently at picking.",
+    "conf": "medium"
+  },
+  {
+    "id": "laxtons-superb",
+    "name": "Laxton's Superb",
+    "aka": [
+      "Laxton Superb",
+      "Superb"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bedford, England",
+      "year": 1897,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Wyken Pippin x Cox's Orange Pippin",
+      "raised_by": "Laxton Brothers"
+    },
+    "history": "Raised by the Laxton Brothers nursery in Bedford in 1897 and introduced in 1922 after RHS awards in 1919 and 1921. It was widely planted in British orchards and gardens through the mid-20th century as a hardier, later-keeping alternative to Cox.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Greenish-yellow apple flushed dull crimson-purple with darker streaks, and a little russet."
+    },
+    "taste": {
+      "summary": "Dense, sweet, very 'appley' cream flesh with a hint of Cox aroma but less acidity and complexity. Sources disagree on texture: Orange Pippin finds it firm rather than crisp and not very juicy, while growers and older descriptions call it very juicy, so season and ripeness seem to matter. Keeps one to two months.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Vigorous and hardy, but notoriously biennial: thin blossom or fruit hard in 'on' years to keep it cropping annually."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Usually listed in group 4, though at Brogdale it opens about the same time as Cox."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate climates including northern Britain, where it is hardier and more reliable than Cox.",
+      "poor_climates": "Hot summers are likely to give soft, poorly coloured fruit."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main weakness is strong biennial bearing; scab can be troublesome in wet years."
+    },
+    "grow_notes": "A hardy, productive Cox-style keeper for colder gardens. Thin heavily in a big blossom year, and grow on a dwarfing stock to keep its vigour manageable.",
+    "conf": "high"
+  }
+]

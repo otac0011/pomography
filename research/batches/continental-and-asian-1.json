@@ -1,0 +1,115 @@
+{
+ "batch": "continental-and-asian-1",
+ "theme": "continental-and-asian",
+ "count": 18,
+ "varieties": [
+  {
+   "id": "belle-de-boskoop",
+   "name": "Belle de Boskoop",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "goldparmane",
+   "name": "Goldparmäne",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "gravensteiner",
+   "name": "Gravensteiner",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "danziger-kantapfel",
+   "name": "Danziger Kantapfel",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "freiherr-von-berlepsch",
+   "name": "Freiherr von Berlepsch",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "kaiser-wilhelm",
+   "name": "Kaiser Wilhelm",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "schoner-aus-nordhausen",
+   "name": "Schöner aus Nordhausen",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "ingrid-marie",
+   "name": "Ingrid Marie",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "gyllenkroks-astrakan",
+   "name": "Gyllenkroks Astrakan",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "signe-tillisch",
+   "name": "Signe Tillisch",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "filippa",
+   "name": "Filippa",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "calville-rouge-dhiver",
+   "name": "Calville Rouge d'Hiver",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "reinette-grise-du-canada",
+   "name": "Reinette Grise du Canada",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "pomme-gris",
+   "name": "Pomme Gris",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "belle-de-pontoise",
+   "name": "Belle de Pontoise",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "transparente-de-croncels",
+   "name": "Transparente de Croncels",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "calville-daout",
+   "name": "Calville d'Août",
+   "theme": "continental-and-asian",
+   "keepers": false
+  },
+  {
+   "id": "reinette-clochard",
+   "name": "Reinette Clochard",
+   "theme": "continental-and-asian",
+   "keepers": false
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "batch": "regions-2-europe",
+ "count": 27,
+ "regions": [
+  {
+   "id": "altes-land",
+   "name": "Altes Land (Hamburg)",
+   "country": "DE",
+   "lat": 53.52,
+   "lon": 9.7,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "bodensee",
+   "name": "Lake Constance (Bodensee)",
+   "country": "DE",
+   "lat": 47.65,
+   "lon": 9.4,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "hesse",
+   "name": "Hesse (Frankfurt, Apfelwein country)",
+   "country": "DE",
+   "lat": 50.11,
+   "lon": 8.68,
+   "group": "Northern & Central Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "munich",
+   "name": "Bavaria (Munich)",
+   "country": "DE",
+   "lat": 48.14,
+   "lon": 11.58,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "betuwe",
+   "name": "Betuwe (Netherlands)",
+   "country": "NL",
+   "lat": 51.95,
+   "lon": 5.6,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "haspengouw",
+   "name": "Haspengouw (Belgium)",
+   "country": "BE",
+   "lat": 50.82,
+   "lon": 5.19,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "copenhagen",
+   "name": "Copenhagen (Denmark)",
+   "country": "DK",
+   "lat": 55.68,
+   "lon": 12.57,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "kivik",
+   "name": "Kivik and Scania (Sweden)",
+   "country": "SE",
+   "lat": 55.68,
+   "lon": 14.23,
+   "group": "Northern & Central Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "stockholm",
+   "name": "Stockholm (Sweden)",
+   "country": "SE",
+   "lat": 59.33,
+   "lon": 18.07,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "hardanger",
+   "name": "Hardanger (Norway)",
+   "country": "NO",
+   "lat": 60.4,
+   "lon": 6.6,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "helsinki",
+   "name": "Helsinki (Finland)",
+   "country": "FI",
+   "lat": 60.17,
+   "lon": 24.94,
+   "group": "Northern & Central Europe",
+   "kind": "marginal"
+  },
+  {
+   "id": "tartu",
+   "name": "Tartu (Estonia)",
+   "country": "EE",
+   "lat": 58.38,
+   "lon": 26.72,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "grojec",
+   "name": "Grojec (Poland)",
+   "country": "PL",
+   "lat": 51.87,
+   "lon": 20.87,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "prague",
+   "name": "Bohemia (Prague)",
+   "country": "CZ",
+   "lat": 50.08,
+   "lon": 14.43,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "graz",
+   "name": "Styria (Graz, Austria)",
+   "country": "AT",
+   "lat": 47.07,
+   "lon": 15.44,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "thurgau",
+   "name": "Thurgau (Switzerland)",
+   "country": "CH",
+   "lat": 47.55,
+   "lon": 9.0,
+   "group": "Northern & Central Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "szabolcs",
+   "name": "Szabolcs (Hungary)",
+   "country": "HU",
+   "lat": 47.95,
+   "lon": 21.72,
+   "group": "Northern & Central Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "cluj",
+   "name": "Transylvania (Cluj, Romania)",
+   "country": "RO",
+   "lat": 46.77,
+   "lon": 23.59,
+   "group": "Northern & Central Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "vojvodina",
+   "name": "Vojvodina (Serbia)",
+   "country": "RS",
+   "lat": 45.26,
+   "lon": 19.84,
+   "group": "Northern & Central Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "south-tyrol",
+   "name": "South Tyrol (Bolzano, Italy)",
+   "country": "IT",
+   "lat": 46.5,
+   "lon": 11.35,
+   "group": "Southern Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "saluzzo",
+   "name": "Piedmont (Saluzzo, Italy)",
+   "country": "IT",
+   "lat": 44.64,
+   "lon": 7.49,
+   "group": "Southern Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "bologna",
+   "name": "Emilia-Romagna (Bologna)",
+   "country": "IT",
+   "lat": 44.49,
+   "lon": 11.34,
+   "group": "Southern Europe",
+   "kind": "garden"
+  },
+  {
+   "id": "etna",
+   "name": "Mount Etna (Sicily)",
+   "country": "IT",
+   "lat": 37.75,
+   "lon": 15.0,
+   "group": "Southern Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "asturias",
+   "name": "Asturias (Spain, cider country)",
+   "country": "ES",
+   "lat": 43.36,
+   "lon": -5.85,
+   "group": "Southern Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "lleida",
+   "name": "Lleida (Catalonia)",
+   "country": "ES",
+   "lat": 41.62,
+   "lon": 0.62,
+   "group": "Southern Europe",
+   "kind": "commercial"
+  },
+  {
+   "id": "alcobaca",
+   "name": "Alcobaca (Portugal)",
+   "country": "PT",
+   "lat": 39.55,
+   "lon": -8.98,
+   "group": "Southern Europe",
+   "kind": "heritage"
+  },
+  {
+   "id": "pelion",
+   "name": "Pelion (Greece)",
+   "country": "GR",
+   "lat": 39.43,
+   "lon": 23.1,
+   "group": "Southern Europe",
+   "kind": "heritage"
+  }
+ ]
+}

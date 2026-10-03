@@ -1,0 +1,99 @@
+{
+ "_note": "flavour verification batch 4",
+ "golden-delicious": {
+  "taste": {
+   "tags": ["honey", "sweet", "pear-drop", "mild"],
+   "summary": "Left to ripen to golden-green on the tree it is crisp, juicy and richly sweet, with a honeyed, pear-drop note and only modest acidity; a few tasters also pick up a faint ginger or cinnamon warmth. Fruit picked green and held in long storage is the bland, soft, crumbly supermarket apple. Holds its shape when cooked."
+  }
+ },
+ "golden-spire": {
+  "taste": {
+   "sweet": 3,
+   "summary": "Firm, crisp, juicy cream flesh; sharp, with a slightly astringent, distinctly cider-like back-taste, though tasters find enough sweetness to eat it fresh straight from the tree. Cooks down to a well-flavoured purée; it is not a keeper and is best used early."
+  }
+ },
+ "grenadier": {
+  "taste": {
+   "sweet": 2,
+   "aroma": 2,
+   "summary": "Firm, fine white flesh, juicy and sharply acid, though fully ripe fruit is almost sweet enough to eat raw. In the pan it collapses quickly into a pale, creamy, tart purée with a fine, heady apple scent, ideal for sauce and early-season pies; it keeps only a week or so."
+  }
+ },
+ "grimes-golden": {
+  "taste": {
+   "tags": ["spice", "sweet", "pear"],
+   "summary": "Firm, crisp, fine-grained yellow-white flesh with a rich, sweet and noticeably spicy flavour, fuller than its offspring Golden Delicious, with a clean, dry finish; one taster also notes a slight pear flavour. Keeps into February; good fresh and in pies, sauce, apple butter and cider."
+  }
+ },
+ "hidden-rose": {
+  "taste": {
+   "summary": "Very firm, crisp, juicy red flesh with a bright sweet-tart balance and fruity berry and citrus notes; quite sharp if picked early, sweeter after a few weeks, and it can last into February. Flavour depends on site: one grower found it never developed real flavour at a research station."
+  }
+ },
+ "holstein": {
+  "taste": {
+   "tags": ["perfumed", "spice", "pineapple", "sweet"],
+   "crisp": 2,
+   "summary": "Juicy, fairly soft yet dense yellowish flesh, sweet with a richly spiced acidity when fully ripe and an aromatic, Cox-like character; several tasters note a pineapple flavour. Prized for its orange-tinted juice; keeps only a month or two and is best eaten cool."
+  }
+ },
+ "honeycrisp": {
+  "taste": {
+   "tags": ["sweet", "honey", "pear-drop", "mild"],
+   "acid": 2,
+   "summary": "Famous for its texture: large cells that fracture with a light, juicy crunch rather than a hard, dense one. Flavour is mainly sweet with little acidity or depth, sometimes with a faint pear-drop or honeyed note; a well-grown fruit is refreshing, an ordinary one simply sweet. Stays crisp in store until spring, and the flavour can improve for a week or so after leaving cold storage."
+  }
+ },
+ "ingrid-marie": {
+  "taste": {
+   "tags": ["perfumed", "sweet", "sharp"],
+   "aroma": 3,
+   "crisp": 2,
+   "summary": "Tender, juicy, yellowish-white flesh with a fresh sweet-tart balance; Scandinavian sources praise its pleasant aroma and one taster finds a hint of Cox, but Orange Pippin rates the flavour light and rather bland. Best soon after picking, though it can be stored into the new year; a traditional Christmas apple in Scandinavia."
+  }
+ },
+ "irish-peach": {
+  "taste": {
+   "tags": ["peach", "perfumed", "sharp"],
+   "crisp": 2,
+   "summary": "White, very juicy flesh that is soft rather than crisp, with a lively, rather sharp flavour and a distinct peach-like aroma that gives the variety its name. It does not keep: eat within days of picking."
+  }
+ },
+ "james-grieve": {
+  "taste": {
+   "tags": ["sharp", "sweet", "mild"]
+  }
+ },
+ "jazz": {
+  "taste": {
+   "tags": ["pear-drop", "sweet", "sharp", "floral", "banana"],
+   "summary": "A very hard, dense, crunchy apple with juicy butter-yellow flesh and a strong sweet-sharp flavour led by a pronounced pear-drop note; tasters also report floral, honeyed and occasionally banana or clove hints. Well-coloured fruit tastes best - poorly coloured apples are flatter and closer to Braeburn - and the firmness holds for months in store."
+  }
+ },
+ "jonagold": {
+  "taste": {
+   "tags": ["honey", "sweet", "pear-drop"],
+   "summary": "Crisp, juicy, creamy-white flesh with a honeyed sweetness from Golden Delicious, kept lively by plenty of balancing acidity from Jonathan; some tasters note a subtle pear-drop sweetness. Best within a month or two of picking: it softens quickly out of the fridge and turns greasy in long storage, so supermarket fruit is often disappointing."
+  }
+ },
+ "jupiter": {
+  "taste": {
+   "tags": ["perfumed", "sweet", "sharp"],
+   "acid": 4,
+   "summary": "A strong, very fruity Cox-type apple, sweet but noticeably sharper than its parent, with an intense, well-balanced flavour some tasters compare to Topaz. Juicy cream flesh with a green tinge, dense and firm rather than crunchy; it keeps a month or two before softening."
+  }
+ },
+ "kanzi": {
+  "taste": {
+   "tags": ["sharp", "mild", "wine"],
+   "aroma": 2,
+   "summary": "Firm, fairly crisp and very juicy, with a mild, clean flavour that leans sharp rather than sweet and a light, vinous aftertaste. More delicate and less pronounced than its sibling Jazz; some tasters find a nectarine-like fruitiness, others want more sweetness."
+  }
+ },
+ "katy": {
+  "taste": {
+   "crisp": 3,
+   "summary": "Very juicy, pale cream flesh on the softer side of crunchy, with a mild apple flavour, a refreshing touch of acidity and, in a good year, a hint of strawberry inherited from Worcester Pearmain. Pleasant rather than deep; it softens within a week or so (keep it chilled) and gives an attractive pink-orange juice."
+  }
+ }
+}

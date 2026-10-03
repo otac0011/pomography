@@ -1,0 +1,89 @@
+{
+ "_note": "flavour verification batch 6",
+ "newtown-pippin": { "taste": {
+  "tags": ["pineapple", "wine", "sharp", "citrus"],
+  "juicy": 4,
+  "summary": "Hard, tight-grained and rather unappetising straight off the tree; after one to two months in store it turns crisp and juicy with a tart-sweet, wine-like and richly aromatic flavour, famously said to carry a hint of pineapple. The cut flesh browns quickly. A versatile apple for eating, pies, juice and cider."
+ } },
+ "nonpareil": { "taste": {
+  "tags": ["pear-drop", "wine", "honey", "pear", "sharp"],
+  "crisp": 2,
+  "summary": "One of the small group of pear-drop apples: a strong pear-drop flavour with lively, wine-like acidity and an aftertaste some growers liken to honey and pear. Growers disagree on texture, some finding the flesh soft and sponge-like with modest juice, others surprisingly juicy. Best kept until mid-winter, when it sweetens."
+ } },
+ "norfolk-royal-russet": { "taste": {
+  "tags": ["pear", "sweet", "nutty"],
+  "crisp": 2,
+  "juicy": 3,
+  "summary": "A sweet, pear-like russet with the classic English russet richness and enough acidity to stay lively; tasters rank it among the best-flavoured russets. The flesh is soft and slightly chewy, a little dry but less spongy than Egremont Russet, and it is a short keeper of two to three weeks."
+ } },
+ "northern-spy": { "taste": {
+  "tags": ["sharp", "sweet", "perfumed", "vanilla"],
+  "summary": "Crisp, very juicy, fine-grained flesh with a brisk, roughly even sweet-tart balance and a rich aroma; one grower picks out vanilla notes. It keeps three months or more and holds its shape and tang when baked, which is why it is a classic North American pie apple."
+ } },
+ "opalescent": { "taste": {
+  "tags": ["floral", "sweet", "perfumed"],
+  "acid": 3,
+  "aroma": 4,
+  "juicy": 4,
+  "summary": "Thin-skinned, juicy and just crisp enough, with a sweet flavour balanced by a fair tartness. Growers single out a delicate floral character, some likening it to lilac, and compare the overall taste with Mutsu or Crispin. Used for baking as well as eating."
+ } },
+ "orin": { "taste": {
+  "crisp": 4,
+  "summary": "Very sweet and honeyed with almost no acidity, aromatic and juicy; some tasters also find tropical-fruit overtones. The flesh is firm with a soft, Honeycrisp-like crunch. Admirers love its fragrance; those who like a sharp apple may find it flat."
+ } },
+ "orleans-reinette": { "taste": {
+  "tags": ["nutty", "sweet", "mango"],
+  "summary": "Firm, fine-textured flesh that is not especially juicy but carries a rich, sweet, nutty and aromatic flavour with balancing acidity, close to Blenheim Orange and often compared with Ashmead's Kernel. One taster found a mango-like note after a week or so in store. Valued for flavour rather than crunch; it keeps its shape when cooked."
+ } },
+ "pecks-pleasant": { "taste": {
+  "summary": "Tender, crisp yellowish flesh with a sweet, mildly acidic and highly aromatic flavour; nineteenth-century American writers rated it very good to best for winter eating. Modern opinion is more mixed, with at least one grower finding only a green, grassy taste."
+ } },
+ "pink-pearl": { "taste": {
+  "tags": ["sharp", "citrus", "lemon"],
+  "acid": 5,
+  "summary": "Crisp, juicy, bright pink flesh with a very tart flavour lifted by just enough sweetness; tasters compare it to pink grapefruit or sweet lemonade, and one notes a touch of tannin. Almost a cooker in acidity, it makes attractive pink sauce and juice but keeps only two to three weeks."
+ } },
+ "pinova": { "taste": {
+  "tags": ["sweet", "rose", "floral", "sharp"],
+  "aroma": 4,
+  "summary": "Crisp, juicy and fairly tender, with an intense sweet flavour balanced by enough tartness; several tasters notice a floral scent reminiscent of roses. It shows its Cox ancestry and keeps three months or more without losing quality."
+ } },
+ "pitmaston-pine-apple": { "taste": {
+  "tags": ["pineapple", "musky", "honey", "nutty", "sweet"],
+  "summary": "A small yellow apple whose firm, juicy, never-mealy flesh is sweet but lively, with a prominent musky, pineapple-like flavour that tasters also call sherbet-like; honeyed and nutty notes add richness. Best eaten within two or three weeks of picking."
+ } },
+ "prairie-spy": { "taste": {
+  "sweet": 4
+ } },
+ "priscilla": { "taste": {
+  "tags": ["sweet", "sharp"],
+  "summary": "Crisp, fairly juicy flesh with a sweet but noticeably tart flavour that varies from year to year; descriptions range from mild and Delicious-like to pleasantly sharp. Good fresh off the tree, it also holds its shape when baked, makes a pink-tinged sauce and keeps one to two months."
+ } },
+ "pristine": { "taste": {
+  "tags": ["sharp", "sweet", "pear"],
+  "summary": "Crisp, juicy, firm yellow flesh that is Granny Smith-tart if picked a few weeks early, mellowing at full ripeness to a gentle tartness with sweetness beneath; one grower notes a pear-like flavour with a citrus bite. Unusually good for such an early apple but best eaten within a week or two; also good for sauce."
+ } },
+ "rajka": { "taste": {
+  "tags": ["sweet", "strawberry", "sharp"],
+  "summary": "Fairly crisp, open-textured cream-yellow flesh that snaps cleanly, with a sweet flavour and good acidity much like Elstar; after a good summer it can carry a hint of strawberry. Juicy and pleasant rather than complex, and it keeps a few weeks."
+ } },
+ "red-astrachan": { "taste": {
+  "tags": ["sharp", "sweet"],
+  "sweet": 3
+ } },
+ "red-delicious": { "taste": {
+  "tags": ["sweet", "mild", "melon"],
+  "summary": "Sweet, juicy flesh with a light crispness, very little acidity and only a faint aroma, sometimes likened to slightly over-ripe melon, under a thick, tough skin. Freshly picked fruit from a warm climate is refreshing, but stored supermarket fruit is often mealy and bland."
+ } },
+ "red-sauce": { "taste": {
+  "tags": ["mild"]
+ } },
+ "red-windsor": { "taste": {
+  "acid": 4,
+  "summary": "Crisp, very juicy, firm yellowish flesh with an aromatic, Cox-like flavour that is tangier and cleaner-tasting than Cox; most tasters find it refreshingly sharp, and it gains a honeyed sweetness only when fully ripe. A short keeper, best eaten within a week or so of picking."
+ } },
+ "redfree": { "taste": {
+  "tags": ["sweet", "mild"],
+  "summary": "Crisp and juicy straight from the tree, with a fresh, sweet flavour, a little zing and an overall mild character; some tasters detect an unusual note they put down to its crab-apple ancestry. It softens in storage within a few weeks and opinions vary, one grower finding it soft and flavourless. Dries well."
+ } }
+}

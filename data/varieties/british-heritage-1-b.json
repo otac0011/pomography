@@ -1,0 +1,387 @@
+[
+  {
+    "id": "devonshire-quarrenden",
+    "name": "Devonshire Quarrenden",
+    "aka": ["Quarrenden", "Red Quarrenden", "Devon Quarrenden"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Devon, England (possibly brought from France)",
+      "year": 1678,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old West Country summer apple first recorded in 1678; it is usually credited to Devon, though the name may point to an origin near Carentan in Normandy. It is believed to be a parent of Worcester Pearmain.",
+    "look": {
+      "size": "small",
+      "shape": "flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small, squat apple almost entirely covered in a dark crimson-purple flush, with a little green showing through."
+    },
+    "taste": {
+      "summary": "Crisp, very juicy white flesh, sometimes stained green or pink under the skin, with a sweet, vinous flavour and a faint strawberry note. Turns soft and melting within days of picking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["strawberry", "wine", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Aug-early Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fairly small, spreading, flat-topped tree that bears on spurs; crops well but can slip into alternate-year bearing."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early flowering (group 2) and partly self-fertile; blossom is vulnerable to frost, so pair with another early bloomer on a sheltered site."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp south-west England and similar cool maritime climates, where it has been grown for centuries.",
+      "poor_climates": "Frosty sites damage its early blossom; hot summers would make the soft early fruit go mealy even faster."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to resist scab well, suiting wet western areas; early blossom is frost-tender. Fruit keeps only days."
+    },
+    "grow_notes": "A good early apple for wet western gardens. Avoid frost pockets because it blooms early, and pick and eat the fruit as it colours rather than storing it.",
+    "conf": "medium"
+  },
+  {
+    "id": "dumelows-seedling",
+    "name": "Dumelow's Seedling",
+    "aka": ["Wellington", "Dumelow's Crab", "Normanton Wonder"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Shackerstone, Leicestershire, England",
+      "year": 1800,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": "Possibly Northern Greening x unknown",
+      "raised_by": "Richard Dumeller (Dumelow), farmer"
+    },
+    "history": "Raised by a farmer named Dumelow or Dumeller at Shackerstone, Leicestershire; the original tree was growing by 1800. Shown as 'Dumelow's Crab' in 1818 and soon renamed 'Wellington', it was a leading Victorian keeping cooker and is a parent of Newton Wonder and Lane's Prince Albert.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish, smooth, pale yellow apple with a light mottled red flush on the sunny side and a few russet dots."
+    },
+    "taste": {
+      "summary": "Very firm, crisp, juicy white flesh that is intensely acid. Cooks down to a stiff, pale, strongly flavoured purée, ideal for mincemeat and sauces.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Cook from Nov to Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing and a regular, good cropper."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4 (some lists 3); not self-fertile."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate Britain, including the Midlands where it arose; reliably hardy.",
+      "poor_climates": "No record of use in hot climates; very short seasons may not ripen it for long keeping."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded in modern sources."
+    },
+    "grow_notes": "A dependable late cooker for a Midlands or northern garden. Pick in early October and store cool; the fruit keeps its acidity well into spring.",
+    "conf": "medium"
+  },
+  {
+    "id": "early-victoria",
+    "name": "Early Victoria",
+    "aka": ["Emneth Early", "Emneth"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Emneth, near Wisbech, England",
+      "year": 1899,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Lord Grosvenor x Keswick Codlin",
+      "raised_by": "William Lynn"
+    },
+    "history": "Raised by William Lynn at Emneth in the Wisbech fruit district and introduced by Cross of Wisbech; it gained an RHS Award of Merit in 1899. Officially catalogued as Emneth Early, it remains one of the standard early codlin-type cookers.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Tall, ribbed, conical codlin apple in plain pale green ripening to yellow-green."
+    },
+    "taste": {
+      "summary": "Crisp, very acid greenish flesh that softens quickly once ripe; cooks rapidly to a light, frothy, sharp purée.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Cook from late Jul to Aug; thinnings usable from July"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Sets very heavily; thin the fruit hard (use the thinnings for cooking) or it falls into biennial bearing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3; partly self-fertile but sets better with a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "late Jul-mid Aug",
+      "eating": "Jul-Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate Britain, including the north; an early cooker that ripens even in short seasons.",
+      "poor_climates": "Hot summers would make the soft early fruit go mealy quickly; little use where cooking apples are needed late."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main problem is strong biennial bearing if not thinned; disease scores not well recorded."
+    },
+    "grow_notes": "Good early cooker for small gardens. Thin heavily in early summer to keep it cropping every year, and pick over several weeks from late July.",
+    "conf": "medium"
+  },
+  {
+    "id": "edward-vii",
+    "name": "Edward VII",
+    "aka": ["King Edward VII"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Worcester, England",
+      "year": 1902,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Blenheim Orange x Golden Noble",
+      "raised_by": "Rowe of Worcester"
+    },
+    "history": "First recorded in 1902 and introduced by the Rowe nursery of Worcester in 1908; it won an RHS Award of Merit in 1903. Its very late blossom has made it a favourite for frosty sites, and it holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Fairly large, smooth, broad-conical apple, pale green ripening yellow, occasionally with a faint flush."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse, fairly juicy white flesh with a brisk acidity; an excellent late cooker that makes a well-flavoured purée.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Cook from Dec to Apr"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing and a regular cropper; one of the best choices for frost pockets because of its very late flowering."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Very late flowering (group 6); needs another late bloomer such as Court Pendu Plat or a group 5 variety."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, frost-prone temperate areas of Britain and northern Europe, where late blossom escapes spring frosts.",
+      "poor_climates": "Short cold seasons may not ripen it for storage; hot climates unrecorded."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab and generally healthy; suitable for organic growing."
+    },
+    "grow_notes": "The obvious cooker for cold, frosty gardens. Pair it with another late-flowering variety, pick in mid-October and store for use through winter into spring.",
+    "conf": "high"
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "aka": ["Laxton's Fortune"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Bedford, England",
+      "year": 1904,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Wealthy",
+      "raised_by": "Laxton Brothers"
+    },
+    "history": "Bred in 1904 by Laxton Brothers of Bedford and released in 1931 as Laxton's Fortune; it received an RHS First Class Certificate in 1948. Not to be confused with the American 'Fortune' released by Cornell (Geneva) in 1995.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Neat, slightly conical apple, greenish-yellow streaked and flushed with bright red."
+    },
+    "taste": {
+      "summary": "Fairly firm, slightly coarse, juicy cream flesh with a sweet, aromatic flavour that hints at its Cox parent; best eaten fresh in early autumn.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous spur-bearer; tends to crop in alternate years unless thinned in heavy years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; needs a mid-season partner."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate Britain and similar maritime climates.",
+      "poor_climates": "Hot summers likely to soften the fruit and reduce colour; untested in warm regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to canker on heavy, wet soils; biennial cropping is the other main drawback."
+    },
+    "grow_notes": "A good early-autumn eater for well-drained soil. Thin heavy crops to break the biennial habit and keep an eye out for canker.",
+    "conf": "medium"
+  }
+]

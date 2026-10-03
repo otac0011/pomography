@@ -1,0 +1,339 @@
+{
+ "batch": "regions-3-eurasia-africa-oceania",
+ "count": 37,
+ "regions": [
+  {
+   "id": "moscow",
+   "name": "Moscow (Russia)",
+   "country": "RU",
+   "lat": 55.76,
+   "lon": 37.62,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "garden"
+  },
+  {
+   "id": "michurinsk",
+   "name": "Michurinsk (Tambov, Russia)",
+   "country": "RU",
+   "lat": 52.9,
+   "lon": 40.49,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "heritage"
+  },
+  {
+   "id": "st-petersburg",
+   "name": "St Petersburg (Russia)",
+   "country": "RU",
+   "lat": 59.93,
+   "lon": 30.34,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "marginal"
+  },
+  {
+   "id": "novosibirsk",
+   "name": "Novosibirsk (Siberia)",
+   "country": "RU",
+   "lat": 55.03,
+   "lon": 82.92,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "marginal"
+  },
+  {
+   "id": "kyiv",
+   "name": "Kyiv (Ukraine)",
+   "country": "UA",
+   "lat": 50.45,
+   "lon": 30.52,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "garden"
+  },
+  {
+   "id": "almaty",
+   "name": "Almaty (Kazakhstan, home of the wild apple)",
+   "country": "KZ",
+   "lat": 43.24,
+   "lon": 76.89,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "heritage"
+  },
+  {
+   "id": "tbilisi",
+   "name": "Georgia (Tbilisi and Kakheti)",
+   "country": "GE",
+   "lat": 41.72,
+   "lon": 44.79,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "heritage"
+  },
+  {
+   "id": "amasya",
+   "name": "Amasya (Turkey)",
+   "country": "TR",
+   "lat": 40.65,
+   "lon": 35.83,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "commercial"
+  },
+  {
+   "id": "urmia",
+   "name": "Urmia (Iran)",
+   "country": "IR",
+   "lat": 37.55,
+   "lon": 45.07,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "commercial"
+  },
+  {
+   "id": "golan",
+   "name": "Golan Heights (Israel)",
+   "country": "IL",
+   "lat": 32.99,
+   "lon": 35.69,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "commercial"
+  },
+  {
+   "id": "zahle",
+   "name": "Mount Lebanon and the Bekaa",
+   "country": "LB",
+   "lat": 33.85,
+   "lon": 35.9,
+   "group": "Russia, Caucasus & Middle East",
+   "kind": "heritage"
+  },
+  {
+   "id": "srinagar",
+   "name": "Kashmir (Srinagar)",
+   "country": "IN",
+   "lat": 34.08,
+   "lon": 74.8,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "shimla",
+   "name": "Himachal Pradesh (Shimla)",
+   "country": "IN",
+   "lat": 31.1,
+   "lon": 77.17,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "quetta",
+   "name": "Quetta (Pakistan)",
+   "country": "PK",
+   "lat": 30.18,
+   "lon": 66.99,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "yantai",
+   "name": "Shandong (Yantai, China)",
+   "country": "CN",
+   "lat": 37.46,
+   "lon": 121.45,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "luochuan",
+   "name": "Luochuan (Shaanxi, China)",
+   "country": "CN",
+   "lat": 35.76,
+   "lon": 109.43,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "aksu",
+   "name": "Aksu (Xinjiang, China)",
+   "country": "CN",
+   "lat": 41.17,
+   "lon": 80.26,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "aomori",
+   "name": "Aomori (Japan)",
+   "country": "JP",
+   "lat": 40.82,
+   "lon": 140.74,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "nagano",
+   "name": "Nagano (Japan)",
+   "country": "JP",
+   "lat": 36.65,
+   "lon": 138.18,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "daegu",
+   "name": "Daegu (South Korea)",
+   "country": "KR",
+   "lat": 35.87,
+   "lon": 128.6,
+   "group": "Asia",
+   "kind": "commercial"
+  },
+  {
+   "id": "elgin",
+   "name": "Elgin (Western Cape, South Africa)",
+   "country": "ZA",
+   "lat": -34.15,
+   "lon": 19.0,
+   "group": "Africa",
+   "kind": "commercial"
+  },
+  {
+   "id": "ceres",
+   "name": "Ceres (Western Cape, South Africa)",
+   "country": "ZA",
+   "lat": -33.37,
+   "lon": 19.31,
+   "group": "Africa",
+   "kind": "commercial"
+  },
+  {
+   "id": "ifrane",
+   "name": "Ifrane (Middle Atlas, Morocco)",
+   "country": "MA",
+   "lat": 33.53,
+   "lon": -5.11,
+   "group": "Africa",
+   "kind": "marginal"
+  },
+  {
+   "id": "nairobi",
+   "name": "Nairobi highlands (Kenya)",
+   "country": "KE",
+   "lat": -1.29,
+   "lon": 36.82,
+   "group": "Africa",
+   "kind": "marginal"
+  },
+  {
+   "id": "cape-town",
+   "name": "Cape Town (coastal)",
+   "country": "ZA",
+   "lat": -33.92,
+   "lon": 18.42,
+   "group": "Africa",
+   "kind": "marginal"
+  },
+  {
+   "id": "hawkes-bay",
+   "name": "Hawke's Bay (New Zealand)",
+   "country": "NZ",
+   "lat": -39.49,
+   "lon": 176.92,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "nelson",
+   "name": "Nelson (New Zealand)",
+   "country": "NZ",
+   "lat": -41.27,
+   "lon": 173.28,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "central-otago",
+   "name": "Central Otago (New Zealand)",
+   "country": "NZ",
+   "lat": -45.03,
+   "lon": 169.19,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "auckland",
+   "name": "Auckland (New Zealand)",
+   "country": "NZ",
+   "lat": -36.85,
+   "lon": 174.76,
+   "group": "Australia & New Zealand",
+   "kind": "marginal"
+  },
+  {
+   "id": "huon",
+   "name": "Huon Valley (Tasmania)",
+   "country": "AU",
+   "lat": -43.0,
+   "lon": 147.05,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "goulburn",
+   "name": "Goulburn Valley (Victoria)",
+   "country": "AU",
+   "lat": -36.38,
+   "lon": 145.4,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "batlow",
+   "name": "Batlow (New South Wales)",
+   "country": "AU",
+   "lat": -35.52,
+   "lon": 148.15,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "orange-nsw",
+   "name": "Orange (New South Wales)",
+   "country": "AU",
+   "lat": -33.28,
+   "lon": 149.1,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "manjimup",
+   "name": "Manjimup (Western Australia)",
+   "country": "AU",
+   "lat": -34.24,
+   "lon": 116.15,
+   "group": "Australia & New Zealand",
+   "kind": "commercial"
+  },
+  {
+   "id": "granite-belt",
+   "name": "Granite Belt (Queensland)",
+   "country": "AU",
+   "lat": -28.66,
+   "lon": 151.94,
+   "group": "Australia & New Zealand",
+   "kind": "marginal"
+  },
+  {
+   "id": "perth",
+   "name": "Perth (Western Australia)",
+   "country": "AU",
+   "lat": -31.95,
+   "lon": 115.86,
+   "group": "Australia & New Zealand",
+   "kind": "marginal"
+  },
+  {
+   "id": "sydney",
+   "name": "Sydney (New South Wales)",
+   "country": "AU",
+   "lat": -33.87,
+   "lon": 151.21,
+   "group": "Australia & New Zealand",
+   "kind": "marginal"
+  }
+ ]
+}

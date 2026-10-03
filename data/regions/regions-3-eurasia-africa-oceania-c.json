@@ -1,0 +1,83 @@
+[
+  {
+    "id": "elgin",
+    "summary": "A cool, high basin by Western Cape standards, with wet, mild winters and dry summers often softened by cloud and the south-easterly wind. Winters are too mild for full chilling, so trees can leaf out unevenly and growers commonly use rest-breaking sprays.",
+    "apple_culture": "Elgin and the town of Grabouw form one of South Africa's main apple export areas, built up in the early twentieth century by families such as the Moltenos. The sparkling apple juice Appletiser was created on a farm here in the 1960s, and the cool valley is also known for wine.",
+    "local_varieties": ["Golden Delicious", "Granny Smith", "Royal Gala", "Pink Lady (Cripps Pink)", "Fuji", "Braeburn", "Topred"],
+    "pests_diseases": "Codling moth and fruit flies are the main insect pests, and woolly apple aphid and mealybug matter for export fruit. Scab can be an issue in wet springs, and powdery mildew is common.",
+    "tips": "Choose varieties known to cope with mild winters, and expect patchy bloom after warm winters. Shelter from the summer south-easter helps, and fruit-fly traps or bagging protect backyard crops.",
+    "confidence": "medium"
+  },
+  {
+    "id": "ceres",
+    "summary": "A high valley ringed by mountains, colder in winter than the coastal Cape, with frost and snow on the surrounding peaks giving better chilling than Elgin. Summers are hot, dry and very sunny, so irrigation and sunburn control are essential.",
+    "apple_culture": "The Ceres valley and the higher Koue Bokkeveld above it form one of South Africa's largest deciduous fruit areas, with apples, pears and stone fruit packed and processed locally. The town's name is familiar across South Africa from the fruit juice brand that started there.",
+    "local_varieties": ["Golden Delicious", "Granny Smith", "Royal Gala", "Pink Lady (Cripps Pink)", "Fuji", "Topred"],
+    "pests_diseases": "Sunburn on fruit is a major loss in the hot, bright summers, and codling moth and fruit flies are the key insect pests. Hail can damage crops, and powdery mildew is common in dry conditions.",
+    "tips": "Plan for drip irrigation and use shade netting or a fuller canopy to protect fruit from sunburn. The colder winters here allow a wider choice of varieties than coastal Cape gardens.",
+    "confidence": "medium"
+  },
+  {
+    "id": "ifrane",
+    "summary": "High Middle Atlas plateau with cold, often snowy winters that give ample chilling and warm, dry summers. Late spring frosts and summer hailstorms are the main climate risks, and recent years of drought have stressed orchards.",
+    "apple_culture": "The Middle Atlas is Morocco's apple heartland, with orchards around Ifrane, Azrou and especially Midelt, which hosts an apple festival. Morocco is one of Africa's larger apple producers, mostly growing Golden and Delicious-type apples.",
+    "local_varieties": ["Golden Delicious", "Starking Delicious", "Jeromine", "Gala"],
+    "pests_diseases": "Codling moth is the main pest, with scab in wetter springs and powdery mildew in dry spells. Hail and late frost can destroy a crop in one event.",
+    "tips": "Choose later-flowering varieties and avoid frost-prone low ground. Secure reliable irrigation for summer and consider hail netting if the investment is justified.",
+    "confidence": "medium"
+  },
+  {
+    "id": "nairobi",
+    "summary": "Equatorial highlands with mild temperatures all year and two rainy seasons, but no cold winter at all. Apples never get natural chilling here, so trees do not go properly dormant and flowering must be managed by hand.",
+    "apple_culture": "Apple growing in Kenya is small but growing, mainly in higher, cooler counties such as Nyeri, Kiambu and Uasin Gishu. Growers strip leaves and bend branches to force a flush of bloom, which can give more than one crop a year, though results vary and yields are modest.",
+    "local_varieties": ["Anna", "Golden Dorsett", "Winter Banana"],
+    "pests_diseases": "Powdery mildew and woolly aphid are common, and fruit flies attack ripening fruit. Because trees grow almost continuously, pests and diseases build up without a winter break.",
+    "tips": "Use very low-chill varieties such as Anna with a matching pollinator like Golden Dorsett, and time manual defoliation before the rains to trigger bloom. Be wary of exaggerated seedling sales; buy grafted trees from a known nursery.",
+    "confidence": "low"
+  },
+  {
+    "id": "cape-town",
+    "summary": "Mild Mediterranean coast with wet winters, dry, windy summers and very little winter cold. Chilling is too low for standard apples, and the strong summer south-easter batters trees.",
+    "apple_culture": "Commercial apples are grown inland in cooler valleys such as Elgin and Ceres, not in Cape Town itself. In city gardens apples are an occasional backyard tree, usually low-chill types.",
+    "local_varieties": ["Anna", "Dorsett Golden"],
+    "pests_diseases": "Fruit flies and codling moth attack fruit, and woolly aphid and powdery mildew are common. Wind scarring and salt spray near the sea also mark fruit and leaves.",
+    "tips": "Plant low-chill varieties in pairs for pollination, in the most wind-sheltered spot you have. Water through the dry summer and bag or trap against fruit fly.",
+    "confidence": "medium"
+  },
+  {
+    "id": "hawkes-bay",
+    "summary": "Sunny east-coast climate sheltered by the ranges: warm, fairly dry summers, mild winters and free-draining river gravels that make irrigation routine. Spring frost and hail are the usual hazards, and Cyclone Gabrielle in 2023 buried many orchards in silt.",
+    "apple_culture": "Hawke's Bay is New Zealand's largest apple region, centred on the Heretaunga Plains around Hastings. The national apple breeding programme at Havelock North gave the world Jazz, Envy and Pacific Rose, and the export industry is highly modern and intensive.",
+    "local_varieties": ["Royal Gala", "Braeburn", "Jazz", "Envy", "Pacific Rose", "Rockit"],
+    "pests_diseases": "Codling moth, leafrollers and woolly apple aphid are the main pests, and fire blight is present in New Zealand. Black spot (scab) appears in wet springs, and powdery mildew is common in the warm, dry summers.",
+    "tips": "Irrigate on the gravels and mulch to hold moisture. Choose scab-resistant or mildew-tolerant varieties for low-spray gardening, and avoid frost-prone low spots near rivers.",
+    "confidence": "high"
+  },
+  {
+    "id": "nelson",
+    "summary": "Sunny but wetter than Hawke's Bay, with mild winters, warm summers and rain spread through the year. The Waimea plains and the Moutere hills are the main orchard areas, and the humid conditions favour fungal diseases.",
+    "apple_culture": "Nelson is New Zealand's second big apple region with a long export history, and Braeburn was found here as a chance seedling in the Moutere area in the 1950s. Today orchards grow Braeburn alongside Royal Gala and the newer club varieties.",
+    "local_varieties": ["Braeburn", "Royal Gala", "Jazz", "Envy", "Pacific Queen", "Sturmer Pippin"],
+    "pests_diseases": "European canker is a serious problem in the wetter, milder conditions, along with black spot (scab). Codling moth, leafrollers and woolly apple aphid are the main insect pests.",
+    "tips": "Cut out canker promptly and prune in dry weather, sealing larger wounds. Choose scab-resistant varieties for a home garden, and plant on a well-drained site.",
+    "confidence": "medium"
+  },
+  {
+    "id": "central-otago",
+    "summary": "New Zealand's most continental climate: hot, dry summers, cold, frosty winters and a sharp spring frost risk. Low rainfall keeps disease light, but water must come from irrigation and frost protection is essential.",
+    "apple_culture": "Central Otago fruit growing dates back to the gold-rush era, and old wild apple trees still line roadsides and goldfields. Today apples are grown mainly in the Teviot Valley around Roxburgh and Ettrick, alongside the region's better-known cherries and apricots.",
+    "local_varieties": ["Royal Gala", "Jazz", "Fuji", "Pacific Queen", "Red Delicious"],
+    "pests_diseases": "Frost at bloom and hail are the biggest risks, while the dry climate keeps scab and canker low. Codling moth and powdery mildew are the main ongoing problems.",
+    "tips": "Plant on slopes so cold air drains away, and choose later-flowering varieties. Irrigate through summer, and enjoy the low disease pressure, which makes low-spray gardening easier.",
+    "confidence": "medium"
+  },
+  {
+    "id": "auckland",
+    "summary": "Mild, humid, subtropical-leaning maritime climate with little winter cold and frequent rain. Chilling is low for many standard varieties, and the humidity drives heavy disease pressure.",
+    "apple_culture": "Apples are a garden tree here rather than a commercial crop, though orchards once dotted the city fringe at places such as Kumeu. Home growers often look to disease-resistant and heritage varieties suited to warm, wet conditions.",
+    "local_varieties": ["Monty's Surprise", "Initial", "Granny Smith"],
+    "pests_diseases": "Black spot (scab) and powdery mildew are common in the humid conditions, and woolly aphid and codling moth are widespread. Fire blight is present in New Zealand.",
+    "tips": "Choose scab-resistant and lower-chill varieties, plant in full sun with good airflow, and avoid heavy, wet clay soils. Clean up fallen leaves to reduce black spot next season.",
+    "confidence": "low"
+  }
+]

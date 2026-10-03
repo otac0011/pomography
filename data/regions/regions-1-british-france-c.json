@@ -1,0 +1,83 @@
+[
+  {
+    "id": "paris",
+    "summary": "A mild, slightly continental climate with dependable winter chilling, warm summers boosted by the city's heat island and rain spread fairly evenly through the year. Late frosts bite less often in central Paris than in the surrounding countryside, and summer warmth ripens late varieties well.",
+    "apple_culture": "Paris has a rich tradition of trained fruit: the King's Kitchen Garden at Versailles, laid out for Louis XIV, and the fruit orchard of the Luxembourg Garden still grow hundreds of apple and pear varieties as espaliers, cordons and palmettes. Around the city, allotments (jardins familiaux) and the Croqueurs de pommes association keep old French varieties in cultivation.",
+    "local_varieties": ["Calville Blanc d'Hiver", "Reine des Reinettes", "Reinette Grise du Canada", "Api Étoilé", "Court-Pendu Plat", "Belle de Boskoop"],
+    "pests_diseases": "Codling moth (carpocapse) and rosy apple aphid are the main insect pests, and woolly aphid is common on wall-trained trees. Apple scab troubles wet springs, while powdery mildew is frequent in sheltered, warm city gardens.",
+    "tips": "In small gardens follow the Parisian habit of training trees flat as cordons or espaliers on walls and fences, on dwarfing rootstocks. Use pheromone traps or trunk bands against codling moth, and choose scab-resistant varieties if you want to avoid spraying.",
+    "confidence": "high"
+  },
+  {
+    "id": "pays-dauge",
+    "summary": "A green, rolling, mild and humid country near the Channel, with rain through the year, frequent mists and soft winters that still give plenty of chilling. Late frosts can catch early blossom in the valleys, one reason many traditional cider varieties flower late.",
+    "apple_culture": "The home of Calvados Pays d'Auge, Pommeau and AOP Pays d'Auge cider, made from apples grown in traditional high-stem orchards with cows grazing beneath the trees. Hundreds of local cider varieties exist, sorted into sweet, bittersweet, bitter and acidic types and blended for balance, and many farms still distil their own apple brandy.",
+    "local_varieties": ["Bisquet", "Binet Rouge", "Rouge Duret", "Noël des Champs", "Bedan", "Domaines", "Fréquin Rouge", "Michelin"],
+    "pests_diseases": "Apple scab and European canker are the main diseases in the damp climate, and mistletoe is common in old high-stem orchards. Cattle and deer damage young trunks unless they are guarded.",
+    "tips": "Normandy cider varieties on vigorous seedling rootstocks suit a grazed or grassy orchard; protect trunks with sturdy guards. Choose late-flowering varieties to dodge spring frost, and plant a mix of sweet, bittersweet and acidic types if you want to make cider.",
+    "confidence": "high"
+  },
+  {
+    "id": "rennes",
+    "summary": "Mild, oceanic and damp, though Rennes in eastern Brittany is a little drier with warmer summers than the Atlantic coast. Winters are soft but give enough chilling, and humidity rather than cold is the main challenge.",
+    "apple_culture": "Brittany is France's other great cider region, with farm cider traditionally drunk from bowls alongside crêpes and galettes, and a regional cider IGP. Upper Brittany around Rennes also makes 'pommé', a thick, dark preserve of apples cooked in cider, and many local cider varieties survive in farm orchards and conservation collections.",
+    "local_varieties": ["Kermerrien", "Marie Ménard", "Douce Coët Ligné", "Guillevic", "Jeanne Renard", "Fréquin Rouge", "Peau de Chien"],
+    "pests_diseases": "Apple scab and European canker are the main diseases, and powdery mildew affects susceptible varieties. Woolly aphid and rosy apple aphid are the usual insect pests.",
+    "tips": "Breton cider varieties are well adapted to the damp and make a sound base for a home orchard. For eating apples choose scab-resistant varieties and plant where air moves freely so leaves dry quickly.",
+    "confidence": "medium"
+  },
+  {
+    "id": "angers",
+    "summary": "The 'douceur angevine': a mild, sunny stretch of the Loire valley with gentle winters, warm summers and moderate rainfall, well suited to top fruit. Late spring frost is the main climatic risk, especially on low ground near the rivers.",
+    "apple_culture": "Anjou is one of France's leading commercial apple regions, with large orchards of Gala, Golden Delicious and Pink Lady along the Loire. Angers is also a centre of French fruit science: INRA (now INRAE) there bred Chantecler (sold as Belchard) and the scab-resistant Ariane, and keeps national pome-fruit genetic resources.",
+    "local_varieties": ["Patte de Loup", "Reinette Clochard", "Reinette du Mans", "Chantecler (Belchard)", "Ariane", "Gala", "Golden Delicious"],
+    "pests_diseases": "Apple scab in wet springs and powdery mildew are the main diseases, with codling moth and rosy apple aphid the main insect pests. Fire blight can appear when blossom coincides with warm, humid weather.",
+    "tips": "Choose scab-resistant varieties such as Ariane or tough old local ones like Patte de Loup, which hangs on well in wind and keeps into spring. Trap or band for codling moth, and keep trees off frost-prone river flats.",
+    "confidence": "high"
+  },
+  {
+    "id": "limousin",
+    "summary": "Rolling granite plateaux and valleys on the western edge of the Massif Central, wetter than the lowlands around them, with cold winters, warm summer days and markedly cool nights. The cool nights give fruit good colour and acidity, while spring frost and hail are the main weather risks.",
+    "apple_culture": "Most commercial orchards were planted after the Second World War, often on former chestnut ground, and Golden Delicious grown at altitude here gained the AOP 'Pomme du Limousin', the first protected designation of origin for an apple in France. The upland climate gives these Goldens a pink blush and a crisper, sharper taste than lowland fruit; older local varieties survive mainly in farm orchards and amateur collections.",
+    "local_varieties": ["Golden Delicious"],
+    "pests_diseases": "Apple scab is the main disease in the wetter, cooler climate, and codling moth the main insect pest. Hailstorms are a serious risk, which is why many commercial orchards are under hail netting.",
+    "tips": "The acid, granite-derived soils benefit from lime and organic matter before planting. Golden Delicious grows well here but is scab-prone, so a home grower may prefer scab-resistant varieties, sited on slopes away from frost pockets.",
+    "confidence": "medium"
+  },
+  {
+    "id": "savoie",
+    "summary": "A mountain-valley climate with cold winters and ample chilling, warm summers and plenty of rain, changing quickly with altitude and aspect. Late frosts settle on the valley floors around Chambéry and the Combe de Savoie, and summer thunderstorms can bring hail.",
+    "apple_culture": "Apples and pears from the Savoie valleys carry the 'Pommes et Poires de Savoie' IGP, and traditional high-stem orchards on slopes and around villages supply juice, cider and fruit brandy as well as dessert fruit. Old reinettes that store well through the Alpine winter remain popular in home orchards.",
+    "local_varieties": ["Reine des Reinettes", "Reinette Grise du Canada", "Reinette Blanche du Canada", "Belle de Boskoop", "Reinette de Savoie"],
+    "pests_diseases": "Apple scab is the main disease in wet springs, and codling moth the main insect pest in the warmer valleys. Hail can ruin fruit, and frost at blossom is a risk in valley bottoms.",
+    "tips": "Plant on sunny slopes above the valley floor where frost drains away, and choose late-flowering, hardy varieties for higher gardens. Reinettes and Boskoop store well for winter use; at altitude, stick to earlier-ripening sorts.",
+    "confidence": "medium"
+  },
+  {
+    "id": "avignon",
+    "summary": "Hot, dry, sunny summers, mild winters that usually still give enough chilling for mainstream varieties, and the cold, dry mistral sweeping down the Rhone valley. Rain comes mostly in autumn and spring storms, so orchards depend on irrigation, and late frosts can still strike after a warm spell.",
+    "apple_culture": "The Durance and Rhone valleys around Avignon form one of France's major commercial apple areas, with irrigated, intensively managed orchards behind tall cypress and poplar windbreaks. The long, warm season suits late varieties such as Pink Lady and Granny Smith, and Avignon is a centre for organic and low-input orchard research.",
+    "local_varieties": ["Golden Delicious", "Gala", "Granny Smith", "Pink Lady (Cripps Pink)", "Fuji", "Braeburn"],
+    "pests_diseases": "Codling moth is the key pest, with several generations a year, and growers rely heavily on mating disruption. Rosy apple aphid, powdery mildew and fire blight are common, and sunburn marks exposed fruit in summer heat.",
+    "tips": "Irrigation is essential, ideally drip under a mulch, and a windbreak against the mistral makes a big difference. Choose varieties that like heat and a long season, shade fruit from the afternoon sun, and use pheromone traps or bands to follow codling moth.",
+    "confidence": "high"
+  },
+  {
+    "id": "toulouse",
+    "summary": "Hot summers, mild winters and spring weather that swings between warmth and sudden storms, with the dry, gusty Autan wind from the south-east. Hail in late spring and summer and midsummer drought are the main risks; winter chilling is usually adequate.",
+    "apple_culture": "Toulouse sits close to one of France's main apple districts: the Garonne and Tarn valleys of Tarn-et-Garonne, around Moissac and Montauban, hold large irrigated orchards, much of the crop exported. The southwest also has many old local varieties kept by regional fruit conservatories, but most home gardeners plant familiar commercial types.",
+    "local_varieties": ["Gala", "Golden Delicious", "Pink Lady (Cripps Pink)", "Granny Smith", "Chantecler (Belchard)"],
+    "pests_diseases": "Codling moth is the main pest, and fire blight, rosy apple aphid and powdery mildew are frequent in the warm climate. Hail and summer sunburn damage fruit, while scab is serious only in wet springs.",
+    "tips": "Plan for irrigation and mulch through the hot, dry summer, and protect trunks and fruit from sunscald with shade or whitewash. Choose varieties that like heat and a long season, and use pheromone traps and bands to keep codling moth in check.",
+    "confidence": "medium"
+  },
+  {
+    "id": "alsace",
+    "summary": "One of the most continental climates in France: cold winters, hot summers and, on the Rhine plain, some shelter from the Vosges that makes it sunnier and drier than the hills to the west. Spring frosts and summer hailstorms are the main risks.",
+    "apple_culture": "Alsace has a strong tradition of high-stem village orchards (vergers) for fresh fruit, juice and fruit brandies, and many villages have a fruit-growers' society (arboriculteurs) running a demonstration orchard and pruning courses. Apple tarts and strudel-style pastries are everyday fare, and home growers favour robust, long-storing varieties.",
+    "local_varieties": ["Belle de Boskoop", "Reine des Reinettes", "Reinette de Landsberg", "Reinette Grise du Canada"],
+    "pests_diseases": "Apple scab is the main disease, worst in wet springs nearer the Vosges, and codling moth is the main insect pest on the warm Rhine plain. Powdery mildew is common in hot, dry summers, and hail can wreck a crop in minutes.",
+    "tips": "Choose hardy, late-flowering varieties and avoid frost hollows on the plain. Learn from the local arboriculteurs' society, which teaches the Alsatian way of training and pruning high-stem trees, and consider scab-resistant varieties to cut spraying.",
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "altes-land",
+    "summary": "Flat reclaimed Elbe marshland just downstream of Hamburg with a mild, damp North Sea climate: winters are rarely severe, summers are cool rather than hot, and a long slow autumn gives crisp, well-coloured, high-acid fruit. The real hazards are night frosts during blossom on the open marsh and persistently humid air that keeps bark and leaves wet for long spells.",
+    "apple_culture": "One of the largest continuous fruit districts in northern Europe, farmed since the Middle Ages in long narrow strips between drainage ditches behind the Elbe dykes; Jork is home to the regional fruit research and advisory centre (ESTEBURG). Commercial growers protect blossom on frost nights by sprinkling water so the freezing ice holds the flowers at zero, and the district is a mainstay of German Elstar and Jonagold.",
+    "local_varieties": ["Elstar", "Jonagold", "Holsteiner Cox", "Roter Boskoop", "Altländer Pfannkuchenapfel", "Finkenwerder Herbstprinz"],
+    "pests_diseases": "European fruit-tree canker (Neonectria) is the signature problem of the wet marsh, entering through leaf scars and pruning wounds. Apple scab pressure is high in most years, and codling moth and aphids are routine.",
+    "tips": "Choose canker- and scab-tolerant varieties (the tough old local keepers, or modern resistant types such as Topaz) and never plant in waterlogged ground - raise the planting spot if the water table is high. Prune in dry weather so wounds close before the next damp spell, and cut out canker as soon as you see it.",
+    "confidence": "high"
+  },
+  {
+    "id": "bodensee",
+    "summary": "The big lake works as a heat store, softening winter cold and holding back early bud-burst along the shore, so frost risk is lower than in the hinterland. Summers are warm and sunny but punctuated by thunderstorms; rainfall is generous thanks to the nearby Alps, and hail is a recurring threat.",
+    "apple_culture": "The German shore between Lindau, Friedrichshafen and Ravensburg is Germany's second big dessert-apple district, with dense hail-netted orchards and the KOB Bavendorf fruit research centre; the Swiss and Austrian shores continue the same orchard belt. Inland Upper Swabia keeps a strong meadow-orchard (Streuobst) and juice tradition.",
+    "local_varieties": ["Elstar", "Jonagold", "Braeburn", "Gala", "Topaz", "Jakob Fischer", "Schöner aus Boskoop"],
+    "pests_diseases": "Fire blight is a serious concern - the lake region has suffered major outbreaks after warm, stormy blossom periods - and apple scab thrives in the wet weather. Apple proliferation (a phytoplasma spread by psyllids) occurs in southwest German orchards, and a single hailstorm can ruin a crop.",
+    "tips": "If you can, plant within reach of the lake's influence, where late frost is least likely, and choose fire-blight-tolerant, scab-resistant varieties. Cut blighted shoots well below the visible damage as soon as they appear, and consider a small hail net over dwarf trees.",
+    "confidence": "high"
+  },
+  {
+    "id": "hesse",
+    "summary": "The Rhine-Main lowland around Frankfurt is one of Germany's warmest and driest corners, sheltered by the Taunus and Odenwald, with hot summers by German standards and late frosts as the main spring risk. The Wetterau and the surrounding uplands are cooler and wetter, with tall meadow orchards on their slopes.",
+    "apple_culture": "Home of Apfelwein (Ebbelwoi or Äppler), the tart still cider served from grey stoneware Bembel jugs in Frankfurt taverns and traditionally pressed from high-acid fruit of the region's meadow orchards. The Streuobstwiesen of the Main-Taunus and Wetterau are both protected landscape and a piece of Hessian identity, with an annual Hessian 'orchard variety of the year'.",
+    "local_varieties": ["Kloppenheimer Streifling", "Rheinischer Bohnapfel", "Schöner aus Boskoop", "Trierer Weinapfel", "Kaiser Wilhelm", "Rheinischer Winterrambur"],
+    "pests_diseases": "In old standard trees, mistletoe is a spreading problem that weakens crowns if not cut out, along with dead wood and canker from neglect. Scab and codling moth are routine, and summer drought increasingly stresses trees on lighter soils.",
+    "tips": "For a cider garden, plant vigorous high-acid varieties as standard trees on seedling rootstock, and include a pollinator because many old cider apples are triploid. Prune meadow trees every few years, cut mistletoe out of branches, and water young trees through dry summers.",
+    "confidence": "high"
+  },
+  {
+    "id": "munich",
+    "summary": "Upper Bavaria is cooler and more continental than western Germany: cold, snowy winters, a late spring with real late-frost risk, and summer thunderstorms with hail along the alpine fringe. Munich sits on a gravel plain with thin, fast-draining soils that dry out in summer, and föhn winds can bring sudden warm spells that push buds early.",
+    "apple_culture": "Around Munich apples are a garden, allotment and village-meadow crop rather than a commercial one; Bavaria's commercial orchards are mainly in the Lindau corner of Lake Constance. Home growers lean on robust, frost-hardy old varieties and on the newer scab-resistant German breeds, and community juice pressings are common in autumn.",
+    "local_varieties": ["Danziger Kantapfel", "Schöner aus Herrnhut", "Brettacher", "Kaiser Wilhelm", "Topaz", "Rebella"],
+    "pests_diseases": "Late frost and hail cost more crops than disease, but apple scab is common in wet summers, and voles (Wühlmäuse) gnawing the roots of young trees are a notorious garden pest. Fire blight turns up sporadically.",
+    "tips": "Pick late-flowering, frost-hardy and scab-resistant varieties, and plant young trees inside wire vole baskets. On the gravel plain, dig in organic matter, mulch and water in dry spells, and avoid hollows where cold air pools.",
+    "confidence": "medium"
+  },
+  {
+    "id": "betuwe",
+    "summary": "A flat, low river-clay landscape between the Nederrijn/Lek and the Waal with a mild, wet maritime climate: soft winters, moderate summers and high humidity much of the year. Radiation frosts settle on the open polders in spring, and the heavy basin clay can stay waterlogged.",
+    "apple_culture": "The Betuwe has been the Dutch fruit garden for centuries, with orchards on the slightly higher, lighter river-levee soils; Tiel is home to the Flipje jam mascot and an annual fruit parade, and the spring blossom route draws crowds. Pears (above all Conference) have overtaken apples in recent decades, but Dutch-bred Elstar remains a staple and old standard-tree (hoogstam) orchards survive as heritage landscape.",
+    "local_varieties": ["Elstar", "Jonagold", "Santana", "Wellant", "Schone van Boskoop", "Notarisappel", "Lombarts Calville"],
+    "pests_diseases": "European fruit-tree canker is the classic problem on wet Dutch clay, together with heavy apple scab pressure. Woolly aphid and storage rots are also common.",
+    "tips": "Plant on the highest, best-drained spot and avoid wet corners where canker thrives; Santana and Topaz are reliable scab-resistant choices for these conditions. Prune in dry weather and remove cankered wood promptly.",
+    "confidence": "high"
+  },
+  {
+    "id": "haspengouw",
+    "summary": "A rolling loess plateau across Belgian Limburg and Liège with deep, fertile soils and a temperate climate between maritime and continental: mild winters, moderate summers and rain spread through the year. Frost during blossom is the main weather risk, and damp springs drive fungal disease.",
+    "apple_culture": "Belgium's main pome-fruit region, centred on Sint-Truiden and famous for its spring blossom season. Commercial growers have shifted heavily toward Conference pear, but apples such as Jonagold, its Belgian red sport Jonagored and the Belgian-bred Kanzi remain important; old standard-tree orchards grazed by cattle are protected heritage, and apple-and-pear syrup is a regional speciality.",
+    "local_varieties": ["Jonagold", "Jonagored", "Kanzi", "Keuleman", "Reinette de Waleffe", "Belle de Boskoop"],
+    "pests_diseases": "Apple scab and European canker are the chronic fungal problems in the humid springs, woolly aphid is common, and fire blight is closely watched in this pome-fruit district.",
+    "tips": "Old regional varieties such as Keuleman and Reinette de Waleffe are tough, late-keeping choices for standard trees; for small gardens choose scab-resistant modern types. Keep trees out of frost-prone valley bottoms and give them good airflow.",
+    "confidence": "medium"
+  },
+  {
+    "id": "copenhagen",
+    "summary": "A cool maritime climate wrapped in the Øresund and Baltic: winters are milder than the latitude suggests, summers are cool and breezy, and autumns are long and gentle. The sea keeps blossom frost risk moderate, but late-ripening varieties may not finish, and wind exposure is a constant factor.",
+    "apple_culture": "Denmark has a strong garden-apple culture and a rich stock of national varieties; the University of Copenhagen's Pometet at Taastrup keeps a large gene bank of Danish and Nordic apples. Commercial orchards are mostly on Funen and the southern islands rather than around the capital, while Copenhagen gardens and allotments are full of classic Danish sorts.",
+    "local_varieties": ["Gråsten", "Ingrid Marie", "Filippa", "Signe Tillisch", "Bodil Neergaard", "Discovery", "Belle de Boskoop"],
+    "pests_diseases": "Apple scab is the main disease in damp summers, and European canker attacks susceptible Cox-type varieties on wet sites. Codling moth and winter moth caterpillars are regular garden pests.",
+    "tips": "Favour early and mid-season varieties that ripen reliably in cool summers, and shelter trees from salt-laden wind - a sunny wall or protected corner makes a real difference. Scab-tolerant sorts such as Discovery cut down on spraying.",
+    "confidence": "high"
+  },
+  {
+    "id": "kivik",
+    "summary": "Österlen in southeast Scania is Sweden's mildest, sunniest apple country: the Baltic moderates winter, sea air reduces blossom frost on the coastal slopes, and long light summer days give well-coloured, aromatic fruit. Summers are cool by continental standards, so very late varieties are a gamble.",
+    "apple_culture": "Kivik is the symbolic heart of Swedish apples - home of the Kiviks Musteri cider and juice house (founded in the late 1800s) and the autumn apple market, famous for its giant apple mosaic. Most Swedish commercial apples are grown in Scania and packed through Kivik, and the nearby Balsgård breeding station gave Sweden Aroma and Katja.",
+    "local_varieties": ["Aroma", "Ingrid Marie", "Katja", "Gravensteiner", "Discovery"],
+    "pests_diseases": "Apple scab is the dominant disease and European canker is common on susceptible varieties in wet years. Codling moth is present in southern Sweden and is the main fruit pest.",
+    "tips": "The Swedish-bred Aroma and Katja are hard to beat here for flavour and reliability; add a scab-resistant variety if you do not want to spray. Plant on a gentle slope rather than in a dip, shelter from strong sea wind, and thin heavy crops to avoid biennial bearing.",
+    "confidence": "high"
+  },
+  {
+    "id": "stockholm",
+    "summary": "Colder and more continental than southern Sweden: reliable snow and hard frost in winter, a late but rapid spring, and a short, bright summer with very long days. Late flowering usually keeps blossom out of frost, but the season is too short for late-ripening apples, and occasional test winters kill tender varieties.",
+    "apple_culture": "Apples are a beloved garden tree in the Mälaren valley - old villa gardens and allotments are full of them - but commercial orchards are rare this far north. Traditional Swedish cultivars from the Mälaren and Södermanland area, plus hardy Russian and Baltic types, form the backbone, and autumn apple days and community pressings are popular.",
+    "local_varieties": ["Åkerö", "Sävstaholm", "Transparente Blanche", "Aroma", "Lobo"],
+    "pests_diseases": "Winter injury, late-winter sunscald on trunks, and bark gnawed by hares and voles under the snow are the big threats. In years when rowan berries fail, the rowan moth switches to apples and tunnels the fruit.",
+    "tips": "Choose varieties rated for your Swedish hardiness zone on a hardy rootstock, and favour early and mid-season apples that ripen in the short summer. Guard trunks with mesh against hares and voles, shade or whitewash them against late-winter sun, and avoid frost hollows.",
+    "confidence": "medium"
+  }
+]

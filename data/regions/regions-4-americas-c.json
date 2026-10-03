@@ -1,0 +1,101 @@
+[
+  {
+    "id": "shenandoah",
+    "summary": "Northern Shenandoah Valley between the Blue Ridge and Alleghenies: cold enough in winter for full chilling, but with hot, humid summers and frequent thunderstorms. Erratic spring warm-ups followed by frost are a recurring risk, and the long humid summer favours fruit rots.",
+    "apple_culture": "Winchester has held the Shenandoah Apple Blossom Festival since the 1920s and was long one of the great apple towns of the East, with processing plants making sauce and juice. Virginia Tech runs a fruit research centre here, and the state's cider revival draws on Virginia apple traditions.",
+    "local_varieties": ["York Imperial", "Stayman", "Rome Beauty", "Winesap", "Golden Delicious", "Red Delicious"],
+    "pests_diseases": "Summer rots (bitter rot and white rot), fire blight, cedar-apple rust and sooty blotch/flyspeck are the main diseases. Codling moth, oriental fruit moth and brown marmorated stink bug are the key insects.",
+    "tips": "Remove mummified fruit and dead wood every winter to reduce summer rots, and choose varieties with good disease resistance. Plant on slopes for frost drainage, and favour late-blooming types.",
+    "confidence": "high"
+  },
+  {
+    "id": "henderson-county",
+    "summary": "Plateau of the southern Blue Ridge at moderate elevation: mild for the latitude but with enough winter chill, warm, humid summers and frequent rain. Hillside 'thermal belts' stay noticeably warmer on frosty spring nights than the valley bottoms, which is why orchards climb the slopes.",
+    "apple_culture": "Henderson County grows most of North Carolina's apples, and Hendersonville hosts the NC Apple Festival every Labor Day weekend. The wider southern Appalachians are rich in old 'mountain apples', many rescued by heirloom collectors.",
+    "local_varieties": ["Gala", "Honeycrisp", "Rome Beauty", "Golden Delicious", "Red Delicious", "Granny Smith", "Fuji", "Limbertwig"],
+    "pests_diseases": "Bitter rot and Glomerella leaf spot are serious in the warm, wet summers, alongside fire blight, scab and cedar-apple rust. Codling moth, brown marmorated stink bug and Japanese beetles are the main insects.",
+    "tips": "Plant on a mid-slope thermal belt, not in a frost hollow. Choose varieties that tolerate southern summers and resist rots, and keep a strict winter clean-up of mummies and cankered wood.",
+    "confidence": "high"
+  },
+  {
+    "id": "ellijay",
+    "summary": "Low mountains of north Georgia: winters give moderate chilling but swing between warm spells and cold snaps, so early bloom followed by frost is common. Summers are long, hot and humid, making disease the main limit on fruit quality.",
+    "apple_culture": "Ellijay calls itself Georgia's Apple Capital, with roadside stands and u-pick orchards lining the mountain highways and a big apple festival each October. Southern heritage apples such as Yates, which originated in Georgia, sit alongside commercial varieties.",
+    "local_varieties": ["Rome Beauty", "Red Delicious", "Golden Delicious", "Gala", "Fuji", "Arkansas Black", "Mutsu", "Yates"],
+    "pests_diseases": "Bitter rot, Glomerella leaf spot, fire blight and cedar-apple rust are the main diseases in the humid heat. Plum curculio, codling moth and brown marmorated stink bug need managing.",
+    "tips": "Choose disease-resistant or southern-adapted varieties (GoldRush, Enterprise or heirlooms like Yates and Arkansas Black) and fire-blight-tolerant rootstocks. Site trees on slopes, and clean up fallen and mummified fruit to reduce rots.",
+    "confidence": "high"
+  },
+  {
+    "id": "wooster",
+    "summary": "Humid continental northeast-central Ohio: cold winters with reliable chilling, warm, humid summers and regular rainfall throughout the season. Late frosts after early warm spells and steady disease pressure are the main challenges.",
+    "apple_culture": "Wooster is home to Ohio State's agricultural research campus (formerly the Ohio Agricultural Experiment Station), where 'Melrose', Ohio's official state apple, was bred. The area is in the heart of Johnny Appleseed country and nearby Amish communities keep up small orchards and cider pressing.",
+    "local_varieties": ["Melrose", "Rome Beauty", "Jonathan", "Northern Spy", "Grimes Golden", "Golden Delicious", "Honeycrisp"],
+    "pests_diseases": "Apple scab, fire blight, cedar-apple rust and sooty blotch/flyspeck are the main diseases. Codling moth, plum curculio and apple maggot are the key insects.",
+    "tips": "Choose scab-resistant varieties or be ready to spray in wet springs, and use fire-blight-tolerant rootstocks. Rake and remove leaves in autumn and plant away from red cedars.",
+    "confidence": "high"
+  },
+  {
+    "id": "bayfield",
+    "summary": "Bayfield Peninsula on Lake Superior, one of the most northerly commercial fruit areas in the US: long, cold, snowy winters, cool lake-chilled springs that hold back bloom, and short, mild summers. Orchards sit on the hills above the lake, where cold air drains away.",
+    "apple_culture": "Bayfield's orchards date to the late 1800s, when fruit shipped by boat, and its Apple Festival each autumn is a regional event. Hardy varieties like Wealthy and McIntosh were the historic staples, now joined by Minnesota-bred apples.",
+    "local_varieties": ["McIntosh", "Wealthy", "Cortland", "Haralson", "Honeycrisp", "Zestar!", "Connell Red"],
+    "pests_diseases": "Apple scab is the main disease in the cool, damp springs. Apple maggot and plum curculio are the main insects, and winter injury, voles and deer cause much of the damage.",
+    "tips": "Grow very hardy varieties, especially Minnesota and Wisconsin releases, on hardy rootstocks. Plant on a slope facing the lake, and protect trunks from voles and sunscald.",
+    "confidence": "high"
+  },
+  {
+    "id": "minneapolis",
+    "summary": "Severe continental climate: very cold winters with occasional deep freezes, short springs, and hot, humid summers. Winter hardiness of both variety and rootstock decides what survives, and late frost and sunscald on trunks are common problems.",
+    "apple_culture": "The University of Minnesota's breeding programme near the Twin Cities is one of the most influential in the world, producing Haralson, Honeycrisp, Zestar!, SweeTango and many more; Wealthy was raised nearby in the 1860s. Small orchards ring the metro, and Minnesota-bred apples are a point of local pride.",
+    "local_varieties": ["Honeycrisp", "Haralson", "Wealthy", "Zestar!", "SweeTango", "Keepsake", "Frostbite", "First Kiss"],
+    "pests_diseases": "Apple scab, fire blight and cedar-apple rust are the main diseases; apple maggot and plum curculio are the key insects. Rabbits, voles and deer cause serious winter damage.",
+    "tips": "Grow Minnesota-bred or similarly hardy varieties on hardy rootstocks, and wrap or paint trunks to prevent southwest winter injury. Fit rabbit and vole guards before snow, and avoid late varieties that cannot ripen before hard frost.",
+    "confidence": "high"
+  },
+  {
+    "id": "paonia",
+    "summary": "High-elevation western Colorado valley: cold winters with ample chilling, dry air, strong sun, and warm days with cool nights in summer. Irrigation water comes from mountain snowmelt, and spring frost is the defining risk, with some years losing the whole crop.",
+    "apple_culture": "Fruit has been grown in the North Fork Valley since the town was founded in the 1880s, and Paonia fruit won prizes at the 1893 Chicago World's Fair. Today it is a hub of small organic farms, u-pick orchards and cideries reviving Colorado's once-large apple trade.",
+    "local_varieties": ["Rome Beauty", "Jonathan", "Red Delicious", "Golden Delicious", "Gala", "Honeycrisp"],
+    "pests_diseases": "Codling moth is the main insect pest, and fire blight and powdery mildew are the significant diseases. Iron chlorosis on alkaline soils and frost damage are common, while scab is rare in the dry air.",
+    "tips": "Plant on mesas or benches above the valley floor where cold air drains away, and choose late-blooming varieties. Use drip irrigation, watch for yellowing leaves on alkaline soils, and keep codling moth in check every year.",
+    "confidence": "medium"
+  },
+  {
+    "id": "hill-country",
+    "summary": "Hot, subtropical-edge climate on the Edwards Plateau: chilling is limited and varies greatly between winters, and warm spells in late winter can trigger early bloom that is then frosted. Summers are long, hot and often dry, with alkaline, rocky soils.",
+    "apple_culture": "Medina styles itself the Apple Capital of Texas, thanks largely to Love Creek Orchards, which showed from the 1980s that dwarf apple trees could crop here, and an apple festival each summer. Apples remain a niche, high-effort crop in Texas compared with peaches.",
+    "local_varieties": ["Gala", "Fuji", "Mollie's Delicious", "Granny Smith", "Red Delicious", "Anna"],
+    "pests_diseases": "Cotton root rot, a soil fungus common in alkaline Texas soils, can kill apple trees suddenly in summer. Fire blight, codling moth, heat stress and drought are the other major problems, and deer browse young trees.",
+    "tips": "Check whether cotton root rot is known on your land before planting, and choose low- to moderate-chill varieties suited to central Texas. Irrigate reliably, mulch, and fence out deer.",
+    "confidence": "medium"
+  },
+  {
+    "id": "gainesville",
+    "summary": "Humid subtropical north-central Florida: very little winter chilling, frequent winter warm spells, then long, hot, wet summers. Standard apple varieties never get the cold they need, so they leaf out poorly and do not fruit.",
+    "apple_culture": "Apples are a hobbyist's challenge here, possible only with low-chill varieties; the University of Florida has trialled them and released 'TropicSweet' for this kind of climate. Fruit ripens in early summer, ahead of the worst heat.",
+    "local_varieties": ["Anna", "Dorsett Golden", "TropicSweet"],
+    "pests_diseases": "Fire blight, bitter rot and other summer fruit rots are serious in the heat and humidity. Early bloom is often hit by late frosts, and trees tend to be short-lived.",
+    "tips": "Grow only true low-chill varieties and plant two that bloom together (Anna with Dorsett Golden). Give full sun and good drainage, pick fruit as soon as it is ripe, and treat apples as a bonus rather than a staple.",
+    "confidence": "high"
+  },
+  {
+    "id": "phoenix",
+    "summary": "Low Sonoran Desert: very mild winters with little chilling, and extremely hot, dry summers. Heat, sunburn and alkaline soil are bigger obstacles than cold, and only a few low-chill apples fruit at all.",
+    "apple_culture": "Apples are a backyard novelty in the Valley, grown by enthusiasts with low-chill varieties that ripen in early summer; commercial apple growing in Arizona happens at higher elevations, not in Phoenix. Citrus and dates are the region's tree crops.",
+    "local_varieties": ["Anna", "Dorsett Golden", "Ein Shemer"],
+    "pests_diseases": "Sunburn of fruit, bark and leaves is the main damage, along with heat stress. Iron chlorosis is common in alkaline soil, and cotton (Texas) root rot can kill trees. Codling moth is still present on backyard trees.",
+    "tips": "Plant low-chill varieties in winter, give afternoon shade or shade cloth in summer, and paint trunks white. Water deeply and regularly, mulch heavily, and harvest in late spring to early summer before the peak heat.",
+    "confidence": "medium"
+  },
+  {
+    "id": "anchorage",
+    "summary": "Subarctic coastal climate: long, cold, snowy winters, late springs, and short, cool summers with very long days. Heat to ripen fruit, not winter chill, is the limiting factor, and hardiness matters as much as earliness.",
+    "apple_culture": "A dedicated community of growers, led by the Alaska Pioneer Fruit Growers Association, has trialled a long list of varieties and holds annual apple tastings. Very hardy Canadian prairie apples and crab hybrids are the backbone of Anchorage orchards.",
+    "local_varieties": ["Norland", "Parkland", "Yellow Transparent", "Carroll", "Prairie Magic", "Rescue"],
+    "pests_diseases": "There is little of the classic apple pest list here; the main damage comes from moose browsing, voles under the snow, and winter dieback. Spider mites and aphids are occasional problems.",
+    "tips": "Choose early, prairie-hardy varieties or apple-crab hybrids on hardy rootstock, and plant against a warm, south-facing wall or slope. Fence against moose and guard trunks against voles; a greenhouse or high tunnel widens the range of what ripens.",
+    "confidence": "medium"
+  }
+]

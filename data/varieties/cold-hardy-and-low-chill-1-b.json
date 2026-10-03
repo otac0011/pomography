@@ -1,0 +1,660 @@
+[
+  {
+    "id": "snowsweet",
+    "name": "Snowsweet",
+    "aka": [
+      "SnowSweet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Excelsior, Minnesota",
+      "year": 2006,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Sharon x Connell Red",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "Released by the University of Minnesota in 2006 from a cross of Sharon and Connell Red. The name refers to its very white flesh, which stays unbrowned for a long time after cutting.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large apple with a bronzed red flush over a greenish ground; the flesh inside is strikingly white."
+    },
+    "taste": {
+      "summary": "Sweet, with just enough tartness for balance and a rich, rounded, almost savoury depth. Flesh is crisp-tender and juicy, and slices stay white long after cutting.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "savoury"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Hardy tree bred for northern gardens; growth habit is not distinctive in the sources available."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "No UK flowering group recorded; plant another hardy diploid or crab nearby."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold Upper Midwest and similar continental climates with cool autumns.",
+      "poor_climates": "Hot-summer regions where colour and texture suffer, and mild-winter areas lacking chill."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "The breeders report good scab resistance and moderate fire blight resistance; other diseases are not well documented."
+    },
+    "grow_notes": "A good modern dessert apple for cold gardens and for salads or cheese boards where slow browning matters. Plant in full sun with a hardy pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "frostbite",
+    "name": "Frostbite",
+    "aka": [
+      "MN 447"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Excelsior, Minnesota",
+      "year": 2008,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Reported as a seedling of Malinda",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "One of the University of Minnesota's oldest selections, kept for decades as MN 447 for breeding before release under the Frostbite name in 2008. It is a parent of Keepsake, which in turn is a parent of Honeycrisp.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small to medium apple striped and flushed maroon-red over golden yellow."
+    },
+    "taste": {
+      "summary": "Intensely sweet and dense, with hard, crunchy, juicy flesh and a deep flavour often likened to molasses or cane sugar. Acidity is low, but the taste is anything but plain; it also makes a rich sweet cider.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Very hardy; grown mainly for its unusual flavour and for juice. Growth details are not well recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "No UK flowering group recorded; needs a compatible pollinator."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold northern climates such as Minnesota, Wisconsin and southern Canada, where it ripens in cool early autumn.",
+      "poor_climates": "Hot-summer and mild-winter regions, where it would lack chill and colour poorly."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well documented."
+    },
+    "grow_notes": "A curiosity worth growing in cold gardens for its flavour and for blending into sweet juice. Give it full sun and a hardy pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "zestar",
+    "name": "Zestar",
+    "aka": [
+      "Zestar!",
+      "Minnewashta",
+      "MN 1824"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Excelsior, Minnesota",
+      "year": 1999,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "State Fair x MN 1691",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "Released by the University of Minnesota in 1999 (trade name Zestar!, cultivar name Minnewashta) to give cold-climate growers a high-quality early apple. It ripens in late summer, weeks ahead of Honeycrisp.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Round apple, about three-quarters covered in red flush and streaks over yellow-green."
+    },
+    "taste": {
+      "summary": "Very crisp, light and juicy, far crunchier than most early apples, with a lively sweet-tart balance; the advertised hint of brown sugar is something some tasters find and others cannot detect. Keeps its texture much longer than typical summer apples if stored cool, though warm-stored fruit can go mealy.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Aug-Oct"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Hardy, moderately vigorous tree bred for cold-climate orchards."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "No UK flowering group recorded; needs a compatible pollinator."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Oct",
+      "storage_weeks": 7
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold northern regions with short summers, where an early apple of good quality is otherwise hard to find.",
+      "poor_climates": "Hot summers ripen it in the heat, which spoils colour and storage; mild-winter areas lack chill."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated susceptible to apple scab by the University of Minnesota; plan a spray or sanitation routine in wet districts."
+    },
+    "grow_notes": "Plant where an early, crunchy apple is wanted in a cold climate. Rake up and remove fallen leaves in autumn to cut scab carry-over.",
+    "conf": "medium"
+  },
+  {
+    "id": "anna",
+    "name": "Anna",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "IL",
+      "place": "Kibbutz Ein Shemer, Israel",
+      "year": 1959,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Red Hadassiya x Golden Delicious",
+      "raised_by": "Abba Stein"
+    },
+    "history": "Bred by Abba Stein at Kibbutz Ein Shemer on Israel's coastal plain by crossing the local low-chill apple Red Hadassiya with Golden Delicious; selected in 1959 and released in the early 1960s. It became the standard apple for subtropical gardens in Florida, the Gulf states, southern California and beyond.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 0,
+      "description": "Golden Delicious-shaped fruit, greenish-yellow with a red flush over about half the skin."
+    },
+    "taste": {
+      "summary": "Crisp, sweet and fairly juicy with a moderate tang. Picked a little early it is tart; fully ripe it turns sweeter and faintly floral. Good fresh or cooked, but softens within a couple of weeks.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Within two weeks of picking (Jun-Jul in subtropical climates)"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Vigorous and very precocious. In warm climates it often produces a second, smaller late bloom and crop."
+    },
+    "pollination": {
+      "flower_group": 1,
+      "self_fertile": "partial",
+      "notes": "Flowers very early (group 1). Partly self-fertile but sets much better with Dorsett Golden or Ein Shemer, which bloom at the same time; standard apples flower too late to help."
+    },
+    "season": {
+      "harvest": "early Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 250,
+      "hardiness_zone": 7,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild-winter subtropical and warm-temperate places with about 150-350 chill hours: Florida, the Gulf Coast, southern California, Israel, coastal Australia and tropical highlands.",
+      "poor_climates": "Cold-winter regions: its small chill need is met by midwinter, so it blooms at the first warm spell and loses its flowers to frost. In the UK it would flower very early and crop erratically; the SE England harvest date is extrapolated."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Average disease resistance; in the humid subtropics watch for fire blight and summer fruit rots. Fruit bruises easily and keeps only briefly."
+    },
+    "grow_notes": "Plant with Dorsett Golden or Ein Shemer for a reliable set. In hot climates thin fruit early, summer-prune to keep the tree manageable, and water regularly through dry spells.",
+    "conf": "high"
+  },
+  {
+    "id": "dorsett-golden",
+    "name": "Dorsett Golden",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "BS",
+      "place": "Nassau, New Providence, Bahamas",
+      "year": 1950,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling of Golden Delicious",
+      "raised_by": "Mrs Dorsett"
+    },
+    "history": "Found around 1950 in the Nassau garden of Mrs Dorsett on New Providence, Bahamas: a Golden Delicious seedling that could flower and fruit with almost no winter cold. Taken up by growers in Florida, it is now the usual pollination partner for Anna.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "pink",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": null,
+      "description": "Golden Delicious-like yellow apple, sometimes with a soft pink-red cheek."
+    },
+    "taste": {
+      "summary": "Sweet and fairly mild with a Golden Delicious character; lightly crisp and juicy. Flavour is said to be best on fruit ripened in light shade, and it softens quickly after picking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Immediately after picking (Jun-Jul in subtropical climates)"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing and extremely precocious, often fruiting in its second year. In Florida it goes briefly dormant around December, which is the time to prune."
+    },
+    "pollination": {
+      "flower_group": 1,
+      "self_fertile": "no",
+      "notes": "Self-incompatible. Blooms in mid to late winter in warm climates, together with Anna and Ein Shemer, its usual partners."
+    },
+    "season": {
+      "harvest": "early Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 150,
+      "hardiness_zone": 8,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Very mild winters with roughly 100-300 chill hours: central and southern Florida, the Gulf coast, coastal southern California and similar subtropical places.",
+      "poor_climates": "Anywhere with a real winter: it blooms at the first mild spell and loses its flowers to frost. The SE England harvest date is extrapolated; it is not a variety for the UK."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented; very short shelf life is the main drawback."
+    },
+    "grow_notes": "Plant with Anna for cross-pollination in frost-free or nearly frost-free gardens. Thin fruit early, keep the tree watered in dry spells, and eat the crop promptly.",
+    "conf": "medium"
+  },
+  {
+    "id": "ein-shemer",
+    "name": "Ein Shemer",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IL",
+      "place": "Kibbutz Ein Shemer, Israel",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": null,
+      "raised_by": "Abba Stein (attributed)"
+    },
+    "history": "A low-chill apple from the same Israeli breeding work at Kibbutz Ein Shemer that produced Anna, and named after the kibbutz. Its parentage and release date are not firmly recorded; it is grown mainly as a pollinator and early companion for Anna in warm climates.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": null,
+      "description": "Medium yellow-green to pale yellow apple, occasionally with a faint blush."
+    },
+    "taste": {
+      "summary": "Crisp and juicy, on the sharp side with only moderate sweetness; a pleasant early apple rather than a rich one, and it keeps for only a short time.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Straight from the tree (early summer in warm climates)"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Precocious, regular and heavy cropping; blossoms very early, ahead of standard apples."
+    },
+    "pollination": {
+      "flower_group": 1,
+      "self_fertile": "partial",
+      "notes": "Group 1 (Orange Pippin) and at least partly self-fertile; the classic pollinator for Anna."
+    },
+    "season": {
+      "harvest": "early Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 350,
+      "hardiness_zone": 7,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-temperate and subtropical climates with mild winters, such as Israel, Florida, the Gulf states and southern California; it sets fruit with very little chilling.",
+      "poor_climates": "Cold-winter regions, where its early blossom is frosted. The SE England harvest date is extrapolated from its very early season."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented; fruit keeps only about a week."
+    },
+    "grow_notes": "Plant it mainly as a pollinator for Anna in mild-winter gardens, enjoying its early sharp fruit as a bonus. Thin heavy crops to keep fruit size up.",
+    "conf": "medium"
+  },
+  {
+    "id": "tropical-beauty",
+    "name": "Tropical Beauty",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A low-chill apple sold by US nurseries for subtropical gardens. Nursery descriptions commonly give South Africa as its origin, but this and its breeding history could not be verified for this record.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Usually described as red-blushed; fuller details not verified."
+    },
+    "taste": {
+      "summary": "Sold as a sweet-tart eating apple for warm climates; reliable independent tasting notes were not found.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not documented in sources available here."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Low-chill apples flower very early in the season; pair it with another low-chill variety such as Anna, Dorsett Golden or Ein Shemer."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 300,
+      "hardiness_zone": 8,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Marketed for mild-winter subtropical gardens (roughly 250-350 chill hours) such as Florida, the Gulf coast and southern California.",
+      "poor_climates": "Cold-winter regions, where a low-chill apple blooms too early and is frosted."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "Only for mild-winter gardens. Plant alongside another low-chill apple for pollination and treat it like Anna for thinning and watering.",
+    "conf": "low"
+  },
+  {
+    "id": "beverly-hills",
+    "name": "Beverly Hills",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of California, Los Angeles, California",
+      "year": 1945,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Melba x Early McIntosh",
+      "raised_by": "University of California"
+    },
+    "history": "Bred at the University of California in Los Angeles from Melba x Early McIntosh, selected in 1939 and introduced in 1945 for the mild coastal climate of southern California. A sample is held in the UK National Fruit Collection.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Pale greenish-yellow apple with an orange-red flush, darker red streaks and russet dots."
+    },
+    "taste": {
+      "summary": "A McIntosh-style summer apple: tender, juicy white flesh with a slightly tart, refreshing flavour that sweetens if left to ripen fully on the tree. Useful for cooking as well as fresh, but it does not keep.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Tree characteristics are not well documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "No UK flowering group recorded. As a low-chill apple it flowers early; pair with another low-chill variety."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 300,
+      "hardiness_zone": 8,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild-winter, Mediterranean-type coastal climates such as southern California, where it fruits with about 300 chill hours.",
+      "poor_climates": "Cold-winter areas, where it flowers early and risks frost; in hot humid summers the soft McIntosh-type flesh goes mealy fast."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented."
+    },
+    "grow_notes": "A home-garden apple for mild coastal climates. Let fruit hang until fully coloured for best sweetness, and use it quickly.",
+    "conf": "low"
+  }
+]

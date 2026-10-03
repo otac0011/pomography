@@ -1,0 +1,20 @@
+{
+ "_note": "Small corrections, 2026-10-03: Aport is kept as its own record (the Almaty strain); Primrose Pippin is single-source and new, so confidence is low.",
+ "emperor-alexander": {
+  "aka": [
+   "Alexander",
+   "Kaiser Alexander",
+   "Empereur Alexandre"
+  ]
+ },
+ "primrose-pippin": {
+  "conf": "low"
+ },
+ "aport": {
+  "aka": [
+   "Almaty Aport",
+   "Aport Alexander",
+   "Alma-Ata Aport"
+  ]
+ }
+}

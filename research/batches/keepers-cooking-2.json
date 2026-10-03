@@ -1,0 +1,135 @@
+{
+ "batch": "keepers-cooking-2",
+ "theme": "keepers-cooking",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "golden-spire",
+   "name": "Golden Spire",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "golden-spire",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "grenadier",
+   "name": "Grenadier",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "grenadier",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "hambledon-deux-ans",
+   "name": "Hambledon Deux Ans",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "hambledon-deux-ans",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "howgate-wonder",
+   "name": "Howgate Wonder",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "howgate-wonder",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "jumbo",
+   "name": "Jumbo",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "jumbo",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "keswick-codlin",
+   "name": "Keswick Codlin",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "keswick-codlin",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "lady-of-wemyss",
+   "name": "Lady of Wemyss",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "lady-of-wemyss",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "lanes-prince-albert",
+   "name": "Lane's Prince Albert",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "lanes-prince-albert",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "lemon-pippin",
+   "name": "Lemon Pippin",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "lemon-pippin",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "london-pippin",
+   "name": "London Pippin",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "london-pippin",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "newton-wonder",
+   "name": "Newton Wonder",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "newton-wonder",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "pancake-apple",
+   "name": "Pancake Apple",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "pancake-apple",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "scotch-bridget",
+   "name": "Scotch Bridget",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "scotch-bridget",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "stirling-castle",
+   "name": "Stirling Castle",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "stirling-castle",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "tower-of-glamis",
+   "name": "Tower of Glamis",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "tower-of-glamis",
+   "keepers_cat": "cooking"
+  },
+  {
+   "id": "warners-king",
+   "name": "Warner's King",
+   "theme": "keepers-cooking",
+   "keepers": true,
+   "keepers_slug": "warners-king",
+   "keepers_cat": "cooking"
+  }
+ ]
+}

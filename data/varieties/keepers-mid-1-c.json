@@ -1,0 +1,499 @@
+[
+  {
+    "id": "gavin",
+    "name": "Gavin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "John Innes Institute, Bayfordbury, Hertfordshire, England",
+      "year": 1956,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Derived from Merton Worcester crossed with scab-resistant crab-apple breeding lines; exact parentage not given in the sources checked",
+      "raised_by": "A.G. Brown, John Innes Institute"
+    },
+    "history": "Raised in 1956 by A.G. Brown at the John Innes Institute, Bayfordbury, as one of the first British attempts to breed scab resistance from crab apples into a dessert apple. In looks and taste it resembles its Merton Worcester ancestry (Cox x Worcester Pearmain).",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": null,
+      "description": "Small, light yellow apple with a strong red flush."
+    },
+    "taste": {
+      "summary": "Crisp, fairly juicy flesh with a delicate, mildly aromatic balance of sweetness and acidity. Pleasant fresh but goes past its best within a few weeks.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Tends to make tall, thin, brittle branches that can snap under a crop; prune to build a sturdier framework. Attractive blossom."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Listed by the RHS in group 3."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Wet, scab-prone British and north-west European gardens where its resistance pays off.",
+      "poor_climates": "Not documented in hot climates; small fruit and English parentage suggest it prefers cool summers."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab; brittle wood is its main practical weakness."
+    },
+    "grow_notes": "A good low-spray apple for damp areas. Shorten and support long whippy branches so they do not break, and plant with a group 2-4 pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "golden-bounty",
+    "name": "Golden Bounty",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Scutes Farm, Hastings, Sussex, England",
+      "year": 1940,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Emneth Early (Early Victoria)",
+      "raised_by": "A.C. Nash"
+    },
+    "history": "Raised around 1940 by A.C. Nash at Scutes Farm, Hastings, from Cox crossed with the early cooker Emneth Early. A Sussex local variety now kept in the National Fruit Collection and the Brighton Permaculture Trust's Sussex collection at Stanmer Park.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 1,
+      "description": "Yellow apple marked with fine, broken orange and red stripes and a little russet."
+    },
+    "taste": {
+      "summary": "Firm, fine, crisp flesh with a rich, brisk, sharply aromatic flavour that recalls an early-season Cox with extra acidity.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous and heavy-cropping; other habits not recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from Brogdale flowering records, which match Cox."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "South-east England and similar mild temperate climates.",
+      "poor_climates": "Not documented beyond southern England; estimates are inferred from its parents."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "A Sussex heritage apple for a sunny southern garden. Pick in mid-September, eat within a few weeks, and pair with a group 2-4 pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "golden-delicious-russet",
+    "name": "Golden Delicious Russet",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Presumed russeted sport or selection of Golden Delicious (not verified)",
+      "raised_by": null
+    },
+    "history": "No independent pomological record of this name was found. The name points to a russet-skinned form of Golden Delicious; several russeted sports of Golden Delicious are known (for example Razor Russet from Kentucky), but which one is sold under this name could not be confirmed. Values below assume it behaves like Golden Delicious.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 2,
+      "description": "Golden Delicious-shaped yellow apple with extensive brownish russet over the skin (extent unverified)."
+    },
+    "taste": {
+      "summary": "Expected to taste like Golden Delicious: sweet, honeyed and low in acid, with the slightly richer, drier mouthfeel that russeted skin often brings. Not independently described.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [
+        "sweet",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Assumed to grow like Golden Delicious: precocious, heavy-cropping spur-bearer."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Golden Delicious is group 4 and partly self-fertile; assumed the same."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "If it is a Golden Delicious sport, warm temperate regions with long sunny autumns suit it best.",
+      "poor_climates": "Cool, short British seasons can leave late Golden Delicious types under-ripe and bland."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded for this name; Golden Delicious itself is prone to scab, mildew and cedar-apple rust."
+    },
+    "grow_notes": "Treat as Golden Delicious: a warm, sunny site and a long season help, and it is a useful group 4 pollinator. Check the supplier's description of origin before relying on these assumed traits.",
+    "conf": "low"
+  },
+  {
+    "id": "greensleeves",
+    "name": "Greensleeves",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1966,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "James Grieve x Golden Delicious",
+      "raised_by": "Dr F.H. Alston, East Malling Research Station"
+    },
+    "history": "Bred in 1966 by Dr Alston at East Malling from James Grieve and Golden Delicious and released in the 1970s as a reliable, compact garden apple. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Smooth, round, pale green apple ripening to yellow-green, with no blush."
+    },
+    "taste": {
+      "summary": "Crisp and juicy with a clean, refreshing tang when picked early; it mellows to a milder, sweeter apple in store.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "Compact, very precocious and prolific; thin hard to keep fruit size and avoid alternate cropping. Well suited to small gardens and trained forms."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Group 3 and partly self-fertile; a good pollinator for other mid-season apples."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Throughout Britain and north-west Europe, including cooler and more northerly gardens.",
+      "poor_climates": "Hot summers soften the fruit and flatten its fresh acidity."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reasonably healthy for a garden apple; heavy crops need thinning."
+    },
+    "grow_notes": "An easy first apple tree for a small garden, cordon or patio pot. Thin fruitlets in June and pick some early for a sharper taste.",
+    "conf": "high"
+  },
+  {
+    "id": "hamids-red-pippin",
+    "name": "Hamid's Red Pippin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Keepers Nursery, East Farleigh, Kent, England",
+      "year": 2021,
+      "year_note": "introduced",
+      "kind": "bred",
+      "parentage": "Open-pollinated seedling of Rajka; the raiser thinks Discovery was the pollen parent",
+      "raised_by": "Karim Habibi (Keepers Nursery Seedling 73)"
+    },
+    "history": "Raised by Karim Habibi at Keepers Nursery from a pip of the Czech variety Rajka and named for his father Hamid, who ran the nursery from 1993 until 2019. It was one of the first varieties from the nursery's seedling programme, which began with 150 seeds sown in 2014-15.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium, round and almost completely red, with a little russet round the stalk."
+    },
+    "taste": {
+      "summary": "A sweet, fruity apple with a light pear-drop note and a crisp, light texture. Tasters compare it with Discovery, but later in the season and stronger in flavour.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "pear-drop"
+      ],
+      "cider_class": null,
+      "best_eaten": "October; keeps a few weeks"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Healthy, average-vigour spur-bearer; still a young variety with limited growing history."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 (C in nursery lists) on two sources."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Raised and tested in Kent; expected to suit temperate British conditions.",
+      "poor_climates": "Untested outside south-east England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Healthy in trials so far; ratings not yet published."
+    },
+    "grow_notes": "Plant in a sunny spot on well-drained soil with a group 2-4 pollinator. As a new variety, expect limited long-term information on vigour and disease.",
+    "conf": "medium",
+    "tags": [
+      "keepers-bred"
+    ]
+  },
+  {
+    "id": "hidden-rose",
+    "name": "Hidden Rose",
+    "aka": [
+      "Airlie Red Flesh",
+      "Newell-Kimzey"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "near Airlie, Oregon, USA",
+      "year": 1960,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A chance seedling found in the 1960s on land belonging to Lucky and Audrey Newell near Airlie in Oregon's Willamette Valley. Louis Kimzey rediscovered the tree in the 1980s and it was commercialised under the trademark Hidden Rose, with Newell-Kimzey as the cultivar name.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": null,
+      "description": "Small, egg-shaped, plain yellow-green apple with prominent lenticels and at most a faint blush, hiding vivid pink-red flesh."
+    },
+    "taste": {
+      "summary": "Very firm, crisp, juicy red flesh with a bright sweet-tart balance and fruity berry and citrus notes; quite sharp if picked early, sweeter after a few weeks, and it can last into February. Flavour depends on site: one grower found it never developed real flavour at a research station.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "berry",
+        "citrus"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fairly small tree with light, sometimes alternate crops; thin in spring to steady production."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Reported as group 2; needs an early-flowering partner."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov-Jan",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, damp maritime climates with long autumns, like western Oregon and southern England.",
+      "poor_climates": "Short-season northern sites may not ripen such a late apple; flesh colour may be weaker in hot climates."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated poor for general disease resistance, with some scab susceptibility."
+    },
+    "grow_notes": "Needs a long season and a warm, sheltered spot to ripen in Britain. Thin crops to avoid biennial bearing and plan for scab control in wet areas.",
+    "conf": "medium"
+  }
+]

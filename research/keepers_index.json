@@ -1,0 +1,1298 @@
+{
+"ambassy": {
+"name": "Ambassy",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"bakers-delicious": {
+"name": "Bakers Delicious",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"beauty-of-bath": {
+"name": "Beauty of Bath",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"benenden-early": {
+"name": "Benenden Early",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"bethan": {
+"name": "Bethan®",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"delprim": {
+"name": "Delprim",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"discovery": {
+"name": "Discovery",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"duchess-of-bedford": {
+"name": "Duchess of Bedford",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"duchesss-favourite": {
+"name": "Duchess's Favourite",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"irish-peach": {
+"name": "Irish Peach",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"james-grieve": {
+"name": "James Grieve",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"katy": {
+"name": "Katy",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"lady-sudeley": {
+"name": "Lady Sudeley",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"laxtons--epicure": {
+"name": "Laxton's  Epicure",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"maidstone-favourite": {
+"name": "Maidstone Favourite",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"melba": {
+"name": "Melba",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"millers-seedling": {
+"name": "Miller's Seedling",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"mollies-delicious": {
+"name": "Mollie's Delicious",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"monidel": {
+"name": "Monidel",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"nuvar-golden-hills": {
+"name": "Nuvar® Golden Hills",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"palmers-rosey": {
+"name": "Palmer's Rosey",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"polly": {
+"name": "Polly",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"red-james-grieve": {
+"name": "Red James Grieve",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"scrumptious": {
+"name": "Scrumptious®",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"st-helens": {
+"name": "St Helens",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"statefair": {
+"name": "Statefair",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"sunrise": {
+"name": "Sunrise",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"tydemans-early-worcester": {
+"name": "Tydeman's Early Worcester",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"vista-bella": {
+"name": "Vista Bella",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"white-transparent": {
+"name": "White Transparent",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"williams'-pride": {
+"name": "Williams' Pride",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"worcester-pearmain": {
+"name": "Worcester Pearmain",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"yellow-ingestrie": {
+"name": "Yellow Ingestrie",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"young-america": {
+"name": "Young America",
+"cats": [
+"early-season-eating-apple"
+]
+},
+"autumn-pearmain": {
+"name": "Autumn Pearmain",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"bardsey": {
+"name": "Bardsey",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"bloody-ploughman": {
+"name": "Bloody Ploughman",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"captain-kidd": {
+"name": "Captain Kidd",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"carswells-orange": {
+"name": "Carswell's Orange",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"charles-ross": {
+"name": "Charles Ross",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"cherry-cox": {
+"name": "Cherry Cox",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"coxs-orange-pippin": {
+"name": "Cox's Orange Pippin",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"crimson-peasgood": {
+"name": "Crimson Peasgood",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"egremont-russet": {
+"name": "Egremont Russet",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"ellisons-orange": {
+"name": "Ellison's Orange",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"elton-beauty": {
+"name": "Elton Beauty",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"emperor-alexander": {
+"name": "Emperor Alexander",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"gavin": {
+"name": "Gavin",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"golden-bounty": {
+"name": "Golden Bounty",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"golden-delicious-russet": {
+"name": "Golden Delicious Russet",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"greensleeves": {
+"name": "Greensleeves",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"hamid's-red-pippin": {
+"name": "Hamid's Red Pippin®",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"hidden-rose": {
+"name": "Hidden Rose",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"jupiter": {
+"name": "Jupiter",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"king-of-the-pippins": {
+"name": "King of the Pippins",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"limelight": {
+"name": "Limelight",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"macoun": {
+"name": "Macoun",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"mcintosh-red": {
+"name": "McIntosh Red",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"opalescent": {
+"name": "Opalescent",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"patte-de-loup": {
+"name": "Patte de Loup",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"peasgoods-nonsuch": {
+"name": "Peasgood's Nonsuch",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"polka-apple": {
+"name": "Polka",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"red-sauce": {
+"name": "Red Sauce",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"red-windsor": {
+"name": "Red Windsor®",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"rubinette": {
+"name": "Rubinette",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"rubinola": {
+"name": "Rubinola",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"shenandoah": {
+"name": "Shenandoah",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"st-edmunds-pippin": {
+"name": "St Edmund's Pippin",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"sunset": {
+"name": "Sunset",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"telstar": {
+"name": "Telstar",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"wickson-crab": {
+"name": "Wickson Crab",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"wolf-river": {
+"name": "Wolf River",
+"cats": [
+"mid-season-eating-apple"
+]
+},
+"adams-pearmain": {
+"name": "Adams Pearmain",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"ananas-reinette": {
+"name": "Ananas Reinette",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"api": {
+"name": "Api",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"aromatic-russet": {
+"name": "Aromatic Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"autumn-glow": {
+"name": "Autumn Glow",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"barnack-orange": {
+"name": "Barnack Orange",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"beauty-of-hants": {
+"name": "Beauty of Hants",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"bellefleur-krasnyi": {
+"name": "Bellefleur Krasnyi",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"blenheim-orange": {
+"name": "Blenheim Orange",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"blue-pearmain": {
+"name": "Blue Pearmain",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"braddick-nonpareil": {
+"name": "Braddick Nonpareil",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"braeburn": {
+"name": "Braeburn",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"braintree-seedling": {
+"name": "Braintree Seedling",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"brenchley-pippin": {
+"name": "Brenchley Pippin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"calville-blanc-dhiver": {
+"name": "Calville Blanc d'Hiver",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"caroline": {
+"name": "Caroline",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"chivers-delight": {
+"name": "Chivers Delight",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"christmas-pearmain": {
+"name": "Christmas Pearmain",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"claygate-pearmain": {
+"name": "Claygate Pearmain",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"colonel-vaughan": {
+"name": "Colonel Vaughan",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"cornish-aromatic": {
+"name": "Cornish Aromatic",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"cornish-gilliflower": {
+"name": "Cornish Gilliflower",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"cortland": {
+"name": "Cortland",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"crimson-crisp": {
+"name": "Crimson Crisp",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"crispin": {
+"name": "Crispin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"decio": {
+"name": "Decio",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"ducks-bill": {
+"name": "Duck's Bill",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"easter-orange": {
+"name": "Easter Orange",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"elstar": {
+"name": "Elstar",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"empire": {
+"name": "Empire",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"esopus-spitzenburg": {
+"name": "Esopus Spitzenburg",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"falstaff": {
+"name": "Falstaff",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"fiesta": {
+"name": "Fiesta",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"flanders-cox": {
+"name": "Flanders Cox",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"francis-apple": {
+"name": "Francis",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"freyberg": {
+"name": "Freyberg",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"fuji": {
+"name": "Fuji",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"gala": {
+"name": "Gala",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"golden-delicious": {
+"name": "Golden Delicious",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"golden-knob": {
+"name": "Golden Knob",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"goldrush": {
+"name": "Goldrush",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"granny-smith": {
+"name": "Granny Smith",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"holstein": {
+"name": "Holstein",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"honeycrisp": {
+"name": "Honeycrisp",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"idared": {
+"name": "Idared",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"jester": {
+"name": "Jester",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"jonagold": {
+"name": "Jonagold",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"jonagored": {
+"name": "Jonagored",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"jonathan": {
+"name": "Jonathan",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"kent": {
+"name": "Kent",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"kentish-quarrenden": {
+"name": "Kentish Quarrenden",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"kidds-orange-red": {
+"name": "Kidd's Orange Red",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"king-david": {
+"name": "King David",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"knobby-russet": {
+"name": "Knobby Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"landsberger-reinette": {
+"name": "Landsberger Reinette",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"laxtons-superb": {
+"name": "Laxton's Superb",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"leathercoat-russet": {
+"name": "Leathercoat Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"lodgemore-nonpareil": {
+"name": "Lodgemore Nonpareil",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"margil": {
+"name": "Margil",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"meridian": {
+"name": "Meridian",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"merton-russet": {
+"name": "Merton Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"nonpareil": {
+"name": "Nonpareil",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"norfolk-beefing": {
+"name": "Norfolk Beefing",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"northern-spy": {
+"name": "Northern Spy",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"nuvar-cheerfull-gold": {
+"name": "Nuvar™ Cheerfull Gold™",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"orin": {
+"name": "Orin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"orleans-reinette": {
+"name": "Orleans Reinette",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"otava": {
+"name": "Otava",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"oxford-conquest": {
+"name": "Oxford Conquest",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"pecks-pleasant": {
+"name": "Peck's Pleasant",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"pigs-nose-pippin": {
+"name": "Pig's Nose Pippin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"pitmaston-pine-apple": {
+"name": "Pitmaston Pine Apple",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"pixie": {
+"name": "Pixie",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"polly-prosser": {
+"name": "Polly Prosser",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"primrose-pippin": {
+"name": "Primrose Pippin®",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"rajka": {
+"name": "Rajka",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"red-delicious": {
+"name": "Red Delicious",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"red-falstaff": {
+"name": "Red Falstaff",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"rhode-island-greening": {
+"name": "Rhode Island Greening",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"ribston-pippin": {
+"name": "Ribston Pippin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"rosemary-russet": {
+"name": "Rosemary Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"ross-nonpareil": {
+"name": "Ross Nonpareil",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"saltcote-pippin": {
+"name": "Saltcote Pippin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"sam-young": {
+"name": "Sam Young",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"saturn-apple": {
+"name": "Saturn",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"self-fertile-cox": {
+"name": "Self-Fertile Cox",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"sima-joon": {
+"name": "Sima Joon®",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"sturmer-pippin": {
+"name": "Sturmer Pippin",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"suntan": {
+"name": "Suntan",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"swaar": {
+"name": "Swaar",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"sweet-society": {
+"name": "Sweet Society",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"topaz": {
+"name": "Topaz",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"twenty-ounce": {
+"name": "Twenty Ounce",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"tydemans-late-orange": {
+"name": "Tydeman's Late Orange",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"wheelers-russet": {
+"name": "Wheeler's Russet",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"william-crump": {
+"name": "William Crump",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"winter-pearmain": {
+"name": "Winter Pearmain",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"xanthous": {
+"name": "Xanthous",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"zabergau-reinette": {
+"name": "Zabergau Reinette",
+"cats": [
+"late-season-eating-apple"
+]
+},
+"annie-elizabeth": {
+"name": "Annie Elizabeth",
+"cats": [
+"cooking"
+]
+},
+"arthur-turner": {
+"name": "Arthur Turner",
+"cats": [
+"cooking"
+]
+},
+"beauty-of-kent": {
+"name": "Beauty of Kent",
+"cats": [
+"cooking"
+]
+},
+"bountiful-apple": {
+"name": "Bountiful",
+"cats": [
+"cooking"
+]
+},
+"bow-hill-pippin": {
+"name": "Bow Hill Pippin",
+"cats": [
+"cooking"
+]
+},
+"bramley-20": {
+"name": "Bramley 20",
+"cats": [
+"cooking"
+]
+},
+"bramleys-seedling": {
+"name": "Bramley's Seedling",
+"cats": [
+"cooking"
+]
+},
+"catshead": {
+"name": "Catshead",
+"cats": [
+"cooking"
+]
+},
+"chelmsford-wonder": {
+"name": "Chelmsford Wonder",
+"cats": [
+"cooking"
+]
+},
+"coeur-de-boeuf": {
+"name": "Coeur de Boeuf",
+"cats": [
+"cooking"
+]
+},
+"costard": {
+"name": "Costard",
+"cats": [
+"cooking"
+]
+},
+"crimson-bramley": {
+"name": "Crimson Bramley",
+"cats": [
+"cooking"
+]
+},
+"domino": {
+"name": "Domino",
+"cats": [
+"cooking"
+]
+},
+"ecklinville": {
+"name": "Ecklinville",
+"cats": [
+"cooking"
+]
+},
+"flower-of-kent": {
+"name": "Flower of Kent",
+"cats": [
+"cooking"
+]
+},
+"glockenapfel": {
+"name": "Glockenapfel",
+"cats": [
+"cooking"
+]
+},
+"golden-spire": {
+"name": "Golden Spire",
+"cats": [
+"cooking"
+]
+},
+"grenadier": {
+"name": "Grenadier",
+"cats": [
+"cooking"
+]
+},
+"hambledon-deux-ans": {
+"name": "Hambledon Deux Ans",
+"cats": [
+"cooking"
+]
+},
+"howgate-wonder": {
+"name": "Howgate Wonder",
+"cats": [
+"cooking"
+]
+},
+"jumbo": {
+"name": "Jumbo",
+"cats": [
+"cooking"
+]
+},
+"keswick-codlin": {
+"name": "Keswick Codlin",
+"cats": [
+"cooking"
+]
+},
+"lady-of-wemyss": {
+"name": "Lady of Wemyss",
+"cats": [
+"cooking"
+]
+},
+"lanes-prince-albert": {
+"name": "Lane's Prince Albert",
+"cats": [
+"cooking"
+]
+},
+"lemon-pippin": {
+"name": "Lemon Pippin",
+"cats": [
+"cooking"
+]
+},
+"london-pippin": {
+"name": "London Pippin",
+"cats": [
+"cooking"
+]
+},
+"newton-wonder": {
+"name": "Newton Wonder",
+"cats": [
+"cooking"
+]
+},
+"pancake-apple": {
+"name": "Pancake Apple",
+"cats": [
+"cooking"
+]
+},
+"scotch-bridget": {
+"name": "Scotch Bridget",
+"cats": [
+"cooking"
+]
+},
+"stirling-castle": {
+"name": "Stirling Castle",
+"cats": [
+"cooking"
+]
+},
+"tower-of-glamis": {
+"name": "Tower of Glamis",
+"cats": [
+"cooking"
+]
+},
+"warners-king": {
+"name": "Warner's King",
+"cats": [
+"cooking"
+]
+},
+"chisel-jersey": {
+"name": "Chisel Jersey",
+"cats": [
+"cider"
+]
+},
+"cider-ladys-finger": {
+"name": "Cider Lady's Finger",
+"cats": [
+"cider"
+]
+},
+"dabinett": {
+"name": "Dabinett",
+"cats": [
+"cider"
+]
+},
+"ellis-bitter": {
+"name": "Ellis Bitter",
+"cats": [
+"cider"
+]
+},
+"foxwhelp-(broxwood)": {
+"name": "Foxwhelp (Broxwood)",
+"cats": [
+"cider"
+]
+},
+"harry-masters-jersey": {
+"name": "Harry Masters Jersey",
+"cats": [
+"cider"
+]
+},
+"kingston-black": {
+"name": "Kingston Black",
+"cats": [
+"cider"
+]
+},
+"slack-ma-girdle": {
+"name": "Slack Ma Girdle",
+"cats": [
+"cider"
+]
+},
+"stoke-red": {
+"name": "Stoke Red",
+"cats": [
+"cider"
+]
+},
+"ten-commandments": {
+"name": "Ten Commandments",
+"cats": [
+"cider"
+]
+},
+"tremletts-bitter": {
+"name": "Tremlett's Bitter",
+"cats": [
+"cider"
+]
+},
+"yarlington-mill": {
+"name": "Yarlington Mill",
+"cats": [
+"cider"
+]
+},
+"dolgo": {
+"name": "Dolgo",
+"cats": [
+"crab-apple"
+]
+}
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "belle-de-boskoop",
+    "name": "Belle de Boskoop",
+    "aka": [
+      "Schöner aus Boskoop",
+      "Boskoop",
+      "Schone van Boskoop",
+      "Goudreinette"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "NL",
+      "place": "Boskoop, South Holland, Netherlands",
+      "year": 1856,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Chance seedling of unknown parentage",
+      "raised_by": "K.J.W. Ottolander (nursery, Boskoop)"
+    },
+    "history": "Found in 1856 at the Ottolander nursery in the Dutch nursery town of Boskoop and put on the market in the 1860s. It became one of the standard winter apples of the Netherlands, Germany, Belgium and northern France, and red-skinned sports such as Rote Boskoop are now widely planted.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 2,
+      "description": "Big, broad, somewhat lopsided fruit with a rough greenish to golden skin, heavily netted with russet and washed with a dull brownish-red cheek."
+    },
+    "taste": {
+      "summary": "Very sharp straight from the tree, with plenty of sugar hidden behind the acid; after a few weeks in store it becomes a rich, bracing, fragrant eating apple. Flesh is firm and fairly coarse, and it cooks to a tangy, well-flavoured purée that keeps some shape.",
+      "sweet": 3,
+      "acid": 5,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar after storage; for cooking from picking"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Makes a large, wide-spreading, long-lived tree; best on a dwarfing or semi-dwarfing stock in gardens. Prefers heavy, moist, lime-rich soil."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Triploid with poor pollen: plant two different early-flowering diploids (e.g. Discovery, James Grieve) so the partners can also pollinate each other. Early blossom is exposed to spring frost."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool to mild temperate lowlands of north-west Europe (Netherlands, Germany, Normandy, Belgium) with reliable rainfall and deep moist soils.",
+      "poor_climates": "Frost hollows and late-frost areas, because it flowers early; dry, light soils give small fruit and more storage disorders."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Prone to bitter pit and to flesh/core browning in store; early blossom vulnerable to frost. Generally robust against fire blight and only lightly troubled by scab."
+    },
+    "grow_notes": "Give it room or a restricting rootstock, and a site away from frost pockets. Feed and water to keep cropping even, which also reduces bitter pit, and provide two diploid pollinators because it cannot return the favour.",
+    "conf": "high"
+  },
+  {
+    "id": "danziger-kantapfel",
+    "name": "Danziger Kantapfel",
+    "aka": [
+      "Calville de Danzig",
+      "Roter Kardinal",
+      "Erdbeerapfel",
+      "Himbeerapfel",
+      "Nikolausapfel"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": null,
+      "place": "Northern Germany or the Low Countries; named after Danzig (now Gdańsk)",
+      "year": 1703,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Calville-type apple of the Baltic and North Sea coasts, reported from the island of Rügen in 1703 and more widely described from the mid-18th century. It remains a favourite of German meadow orchards and was named orchard variety of the year in Baden-Württemberg (2006) and northern Germany (2020). DNA work suggests it may be a parent of Freiherr von Berlepsch.",
+    "look": {
+      "size": "medium",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": null,
+      "russet": 0,
+      "description": "Angular, ribbed fruit with a shiny, waxy, silky skin flushed glossy red over most of the surface; flesh sometimes veined with red."
+    },
+    "taste": {
+      "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be marbled with red. Pleasant fresh in autumn and useful in the kitchen; not a long keeper.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "mid Oct-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous with near-horizontal branches forming a broad crown. Valued as an undemanding, productive tree for standard orchards."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Large pink blossom; flowering time and pollen quality not well recorded."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool temperate and fairly continental climates of northern and central Europe; tolerant of a wide range of sites.",
+      "poor_climates": "Not documented in hot or low-chill regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Regarded as hardy and undemanding; specific disease ratings not recorded."
+    },
+    "grow_notes": "A good choice for a large standard or half-standard tree in a cold or exposed garden. Plant with another diploid apple and give the spreading crown room.",
+    "conf": "medium"
+  },
+  {
+    "id": "freiherr-von-berlepsch",
+    "name": "Freiherr von Berlepsch",
+    "aka": [
+      "Berlepsch",
+      "Goldrenette Freiherr von Berlepsch"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Grevenbroich, Lower Rhine (district of Düsseldorf), Germany",
+      "year": 1880,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Recorded as Ananas Reinette x Ribston Pippin; DNA evidence points to Danziger Kantapfel rather than Ribston as the second parent",
+      "raised_by": "Diedrich Uhlhorn jr."
+    },
+    "history": "Raised around 1880 by the nurseryman Diedrich Uhlhorn the younger and named after Hans Hermann Freiherr von Berlepsch, then head of the Düsseldorf administrative district. It is notable for its high vitamin C content and has been used as a parent in modern breeding.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, roundish golden-yellow apple marbled and flushed with brownish red, dotted with fine brown lenticels; a redder sport exists."
+    },
+    "taste": {
+      "summary": "Intensely flavoured: very juicy, firm, pale-yellow flesh with lively acidity balanced by plenty of sugar and a rich, aromatic finish. Keeps its quality for months in store.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar after storage"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Grows strongly when young and needs regular annual pruning to stay productive and open."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowers late (late April to mid May in Germany). Ploidy not confirmed; plant with a late-flowering diploid partner."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, warm temperate sites such as wine-growing districts of western and southern Germany, with warm, well-drained soil.",
+      "poor_climates": "Cold, wet, heavy soils and harsh sites, where canker, fruit rot and collar rot set in."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "On unsuitable sites it suffers from canker, Monilia fruit rot and collar rot (Phytophthora)."
+    },
+    "grow_notes": "Needs a warm, sheltered position on good soil; avoid cold heavy clay. Prune every year and pick late so the flavour can develop in store.",
+    "conf": "medium"
+  },
+  {
+    "id": "kaiser-wilhelm",
+    "name": "Kaiser Wilhelm",
+    "aka": [
+      "Peter Broich"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Rhineland near Cologne, Germany",
+      "year": 1830,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Possibly a seedling of Harberts Reinette (unconfirmed)",
+      "raised_by": "Possibly Pastor Johann Wilhelm Schumacher, Ramrath"
+    },
+    "history": "Grown in the Rhineland from about the 1830s under the name Peter Broich, perhaps raised in a pastor's nursery at Ramrath. In 1875 the teacher Carl Hesselmann of Witzhelden obtained permission from Emperor Wilhelm I to rename it after him, and it became a classic tree of German meadow orchards.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 60,
+      "stripes": null,
+      "russet": null,
+      "description": "Large, solid fruit, yellow-green to yellow, with dark red covering from a third to almost all of the skin."
+    },
+    "taste": {
+      "summary": "Sweet-sharp with a distinctive raspberry-like aroma; firm and juicy when first picked but becoming drier and somewhat mealy as it stores.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "berry",
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Very vigorous and long-lived; its size and alternating crops make it unsuited to commercial orchards but well suited to large standard trees."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid, a poor pollen donor; needs two diploid partners. Described as mid-season flowering (UK group assigned approximately)."
+    },
+    "season": {
+      "harvest": "late Sep-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate central European lowlands and hills with moderate rainfall and well-drained soil.",
+      "poor_climates": "Heavy, wet soils, which encourage canker."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Fairly resistant to scab and mildew but notably prone to bitter pit; canker on wet, heavy ground."
+    },
+    "grow_notes": "Best as a large standard or half-standard on a well-drained site, with two diploid pollinators nearby. Avoid waterlogged clay.",
+    "conf": "medium"
+  }
+]

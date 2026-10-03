@@ -1,0 +1,618 @@
+[
+  {
+    "id": "dolgo",
+    "name": "Dolgo",
+    "aka": ["Dolgo Crab", "Malus 'Dolgo'"],
+    "uses": ["crab", "culinary", "juice", "ornamental"],
+    "origin": {
+      "country": "US",
+      "place": "Brookings, South Dakota, USA (from seed collected in Russia)",
+      "year": 1917,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Seedling of the Siberian crab (Malus baccata) raised from Russian seed; pollen parent unknown",
+      "raised_by": "Niels E. Hansen, South Dakota Agricultural Experiment Station"
+    },
+    "history": "The plant explorer Niels Hansen gathered Siberian crab seed in Russia in 1897 and selected Dolgo from the seedlings he grew in South Dakota, releasing it in 1917. The name means 'long' in Russian, after the elongated fruit. It became the standard jelly crab of the northern US and Canada and a favourite orchard pollinator.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "crimson",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 0,
+      "description": "Little elongated, egg-shaped fruits around 3 cm long, glossy bright crimson almost all over, hanging in clusters on slender stalks."
+    },
+    "taste": {
+      "summary": "Very tart and juicy with a clean, bright fruitiness; just about pleasant raw when fully ripe but really a kitchen crab. It gives a clear, deep ruby jelly that sets well and a vividly coloured juice.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 3,
+      "tannin": 1,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, for jelly and juice soon after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Makes a large, open, long-lived tree if not restricted, so choose a dwarfing stock for small gardens. Big, fragrant white blossom makes it worth growing as an ornamental too; pick before the ripe fruit drops."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Flowers early, heavily and for a long time with plenty of pollen, so it is widely planted as a pollinator for early and mid-season apples. Early blossom can be caught by spring frost in low-lying sites."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 3,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold continental climates such as the northern US plains, the Canadian prairies and Scandinavia, where its hardiness and clean foliage stand out; also reliable in the mild, damp UK.",
+      "poor_climates": "Frost pockets, because it flowers early; very hot, humid lowlands with short winters suit it less well."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "One of the healthiest crabs: resistant to scab and cedar-apple rust and fairly tolerant of fire blight. Ripe fruit falls readily and draws wasps if left on the tree."
+    },
+    "grow_notes": "Plant in full sun on any reasonable, well-drained soil; it shrugs off cold winters. Keep it on a restricting rootstock or prune to an open framework, and use it as a pollinator alongside early-flowering dessert apples.",
+    "conf": "medium"
+  },
+  {
+    "id": "golden-hornet",
+    "name": "Golden Hornet",
+    "aka": ["Malus x zumi 'Golden Hornet'", "Malus 'Golden Hornet'"],
+    "uses": ["crab", "ornamental", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1948,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; usually grouped under Malus x zumi",
+      "raised_by": "John Waterer, Sons & Crisp (nursery)"
+    },
+    "history": "Introduced around the late 1940s by the Waterer nursery firm in southern England. It became one of Britain's most widely planted ornamental crabs and orchard pollinators; it held the RHS Award of Garden Merit until 2013.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small egg- to cone-shaped fruits about 2-2.5 cm, ripening clear golden-yellow and packed thickly along the branches, where they hang on into early winter."
+    },
+    "taste": {
+      "summary": "Sharp and somewhat astringent raw with little flavour of its own. Used mainly as a pectin-rich base for jelly, which comes out golden rather than red.",
+      "sweet": 1,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 2,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": ["sharp", "astringent"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov, for jelly"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Upright when young, opening out and getting a little straggly with age; about 3-5 m after ten years on a semi-vigorous stock. Heavy crops can weigh branches down."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "yes",
+      "notes": "White blossom from pink-tinged buds. Nursery sources place it anywhere in groups 3-5, so it overlaps most mid- and late-flowering apples and is a standard pollinator in British orchards."
+    },
+    "season": {
+      "harvest": "early Oct-late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild temperate maritime climates such as the UK and north-west Europe, where the yellow fruit display lasts well into winter.",
+      "poor_climates": "Wet, humid districts encourage scab; warm, humid summers raise the risk of fire blight."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some scab in wet seasons and some susceptibility to fire blight where that disease occurs. Lost its RHS Award of Garden Merit in 2013."
+    },
+    "grow_notes": "Give it a sunny, open spot so the foliage dries quickly and scab stays down. Pick fruit for jelly before it starts to fall, and plant it near mid- or late-flowering apples to earn its keep as a pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "john-downie",
+    "name": "John Downie",
+    "aka": ["Malus 'John Downie'"],
+    "uses": ["crab", "culinary", "ornamental"],
+    "origin": {
+      "country": "GB",
+      "place": "Lichfield, Staffordshire, England",
+      "year": 1875,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Edward Holmes, nurseryman of Lichfield"
+    },
+    "history": "Raised in the 1870s by the Lichfield nurseryman Edward Holmes and named after his fellow nurseryman John Downie. It has long been considered the finest British crab for jelly and is one of the few crabs worth eating raw.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "A comparatively large crab, roughly 3 cm, shaped like an upturned pear; yellow to orange with a bright scarlet flush on the sunny side and a glossy finish."
+    },
+    "taste": {
+      "summary": "Sharp, tangy and juicy with more real apple flavour than most crabs, so acid-lovers can eat it straight from the tree. Its fame rests on jelly, which is richly flavoured and a pretty amber-pink to orange-red.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 3,
+      "tannin": 1,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, for jelly; raw once fully coloured"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Narrow and upright when young, broadening later, so it fits smaller gardens than most crabs (3-5 m after ten years on a semi-vigorous stock). Fruit does not hang as long as the persistent ornamental crabs."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "yes",
+      "notes": "Generous white blossom from pink buds; a popular pollinator for mid-season apples. UK sources list it in group 3 or 4."
+    },
+    "season": {
+      "harvest": "late Sep-mid Oct",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate gardens in Britain and northern Europe on fertile, well-drained soil with good air movement.",
+      "poor_climates": "Wet, humid areas where scab can disfigure and partly defoliate it; humid summer heat brings fire blight risk."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rather prone to apple scab, which can mark the fruit and drop leaves early in wet years, though the crop is still fine for jelly. Formerly held the RHS Award of Garden Merit."
+    },
+    "grow_notes": "Site it in sun with free air circulation and clear fallen leaves in autumn to reduce scab. Pick for jelly as soon as the fruit colours, before it drops, and use it as a pollinator for mid-season dessert apples.",
+    "conf": "medium"
+  },
+  {
+    "id": "evereste",
+    "name": "Evereste",
+    "aka": ["Malus 'Evereste'", "Perpetu"],
+    "uses": ["ornamental", "crab", "culinary"],
+    "origin": {
+      "country": "FR",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A French ornamental crab of the later twentieth century that has become one of the most popular garden crabs and pollinators in Britain. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small rounded fruits about 2.5 cm, yellow heavily flushed orange-red, borne in large numbers and hanging on the tree into December."
+    },
+    "taste": {
+      "summary": "Grown above all for show; the fruit is sharp and not an eating apple, but it is used alone or with other fruit to make crab apple jelly, where its pectin helps the set.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec, for jelly"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Forms a neat, broadly conical small tree, roughly 2.5-3.5 m after ten years, ideal for small gardens. Needs little pruning beyond removing crossing shoots."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Red buds open to masses of slightly scented white blossom that shed pollen over a long period, making it one of the most popular pollinators for small orchards of mid-season apples."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate western Europe including the UK; tolerant of most garden soils.",
+      "poor_climates": "Not well documented outside temperate Europe; rated hardy to about -20 C, so very severe continental winters may damage it."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy; nursery sources rate its disease resistance as average to good with no single notorious weakness."
+    },
+    "grow_notes": "A good choice where only one small crab can be planted: it flowers with most group 2-4 apples and stays compact. Plant in sun on any well-drained soil.",
+    "conf": "medium"
+  },
+  {
+    "id": "red-sentinel",
+    "name": "Red Sentinel",
+    "aka": ["Malus x robusta 'Red Sentinel'"],
+    "uses": ["ornamental", "crab", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "A selection within Malus x robusta (hybrids of Malus baccata and Malus prunifolia)",
+      "raised_by": null
+    },
+    "history": "A British selection of the hybrid crab group Malus x robusta, valued for clusters of glossy dark red fruit that cling to the branches through winter. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": null,
+      "blush": "deep-red",
+      "blush_cover": 100,
+      "stripes": false,
+      "russet": 0,
+      "description": "Tiny, glossy, cherry-like fruits about 2 cm, scarlet deepening to dark red, in dense clusters that often last until late winter."
+    },
+    "taste": {
+      "summary": "Sharp and not for eating raw; it can be used for jelly, but it is grown mainly for its long winter fruit display and as food for birds.",
+      "sweet": 1,
+      "acid": 4,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov, for jelly"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vase-shaped to rounded tree reaching about 3-5 m after ten years. Fruit commonly persists into the new year, giving late-winter colour and bird food."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "yes",
+      "notes": "Plain white blossom early in the season; a good pollinator for early- and mid-flowering apples."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate maritime climates like the UK, where the fruit can hang on the tree all winter.",
+      "poor_climates": "Little information outside the UK; early flowering may be frosted in cold hollows."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated as having good overall disease resistance; foliage and fruit usually stay clean in Britain."
+    },
+    "grow_notes": "Plant in full sun on any well-drained soil; it needs only light pruning. Useful as a pollinator for early-flowering apples while adding winter interest.",
+    "conf": "medium"
+  },
+  {
+    "id": "butterball",
+    "name": "Butterball",
+    "aka": ["Malus 'Butterball'"],
+    "uses": ["ornamental", "crab", "culinary"],
+    "origin": {
+      "country": "US",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An American ornamental crab of the second half of the twentieth century, named for its abundant butter-yellow fruit. It holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "gold",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 0,
+      "description": "Small rounded fruits about 2.5 cm, bright golden-yellow, some catching a faint orange flush in the sun, crowded along the branches."
+    },
+    "taste": {
+      "summary": "Mainly ornamental; the fruit is tart and is used for crab apple jelly rather than eaten.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov, for jelly"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with regular, heavy fruiting; the fruit ripens over a period and attracts birds. Light pruning only."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "White single blossom in mid season; a good pollinator for group 2-4 apples."
+    },
+    "season": {
+      "harvest": "early Oct-late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate climates in Britain and northern Europe; tolerates heavier clay soils.",
+      "poor_climates": "Not well documented; hot, humid regions are likely to increase leaf disease."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Nursery sources rate its disease resistance as average; no specific weakness well documented."
+    },
+    "grow_notes": "Easy for beginners: plant in sun on any reasonable soil, including clay, and prune lightly. Pairs well with mid-season dessert apples as a pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "jelly-king",
+    "name": "Jelly King",
+    "aka": ["Mattfru", "Malus 'Mattfru'"],
+    "uses": ["crab", "culinary", "ornamental"],
+    "origin": {
+      "country": "NZ",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A New Zealand crab of the late twentieth century, registered as 'Mattfru' and sold as Jelly King. As the name says, it was selected for jelly-making, with unusually large fruit for a crab, and it holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large for a crab apple; yellow flushed orange-pink to red, and the fruit persists on the tree after ripening."
+    },
+    "taste": {
+      "summary": "Sharp and juicy, rated very good for the kitchen; it makes a well-coloured, well-set jelly and the large fruit is quicker to prepare than tiny crabs.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Late Sep-Nov, for jelly"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, upright tree that crops heavily; suitable for organic growing and beginners."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Pale pink buds opening to white blossom; a good pollinator for mid-season apples."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool to warm temperate climates such as the UK and New Zealand.",
+      "poor_climates": "Not well documented; rated hardy to about -20 C, so very severe winters may be a limit."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated good overall disease resistance by nursery sources."
+    },
+    "grow_notes": "Plant in sun on any well-drained soil and give it room, as it is more vigorous than most garden crabs. Pick in late September for jelly; a useful mid-season pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "transcendent",
+    "name": "Transcendent",
+    "aka": ["Transcendent Crab"],
+    "uses": ["crab", "culinary", "juice"],
+    "origin": {
+      "country": "US",
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old American crab of uncertain origin, already grown in the first half of the nineteenth century and long planted across the northern states for preserves and cider. Its extreme susceptibility to fire blight later limited its use.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "crimson",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large for a crab (around 4-5 cm), somewhat ribbed, golden-yellow with a crimson cheek."
+    },
+    "taste": {
+      "summary": "Cream-yellow, juicy flesh with a mildly acid but noticeably astringent flavour; it softens quickly. Used for jelly, pickling, sauce and as a tannic addition to cider blends.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 2,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": ["astringent"],
+      "cider_class": null,
+      "best_eaten": "Sep, straight after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Large, spreading, very hardy tree that crops heavily. Prune out any fire blight strikes promptly, well below the visible damage."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Pale pink blossom in mid season. Needs another apple or crab nearby and is described by one source as a poor pollen donor."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold northern climates with dry summers, where its hardiness is an asset and fire blight pressure is low.",
+      "poor_climates": "Warm, humid regions, where fire blight can kill limbs or whole trees."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Extremely susceptible to fire blight, its major weakness. Fruit keeps only about a week."
+    },
+    "grow_notes": "Best in cold, dry-summer areas away from pear and other fire blight hosts. Use the fruit within days of picking for jelly or juice.",
+    "conf": "medium"
+  }
+]

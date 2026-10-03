@@ -1,0 +1,15 @@
+# Batch rs-1: Malling and Malling-Merton rootstocks (id | name)
+m27 | M.27
+m9 | M.9 (with clones T337, Pajam 2, Nic29, EMLA 9)
+pajam-1 | Pajam 1 (Lancep)
+m8 | M.8
+m26 | M.26
+m7 | M.7
+mm106 | MM.106
+mm111 | MM.111
+mm104 | MM.104
+mm109 | MM.109
+m25 | M.25
+m2 | M.2
+m4 | M.4
+m1 | M.1

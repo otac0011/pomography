@@ -1,0 +1,89 @@
+{
+  "_note": "Hand corrections, 2026-10-03. Facts (parentage, years, picking time, flowering group, size, colour) for the seedlings raised by Karim Habibi at Keepers Nursery and for Sweet Society, which no independent source documents online; wording is ours. Source of the facts: the nursery's own catalogue pages (https://www.keepers-nursery.co.uk/fruit-trees/apple), plus Orange Pippin for Hamid's Red Pippin. See docs/decisions/0003.",
+  "hamids-red-pippin": {
+    "tags": ["keepers-bred"],
+    "origin": {"year": 2021, "year_note": "introduced", "kind": "bred",
+      "parentage": "Open-pollinated seedling of Rajka; the raiser thinks Discovery was the pollen parent",
+      "raised_by": "Karim Habibi (Keepers Nursery Seedling 73)"},
+    "history": "Raised by Karim Habibi at Keepers Nursery from a pip of the Czech variety Rajka and named for his father Hamid, who ran the nursery from 1993 until 2019. It was one of the first varieties from the nursery's seedling programme, which began with 150 seeds sown in 2014-15.",
+    "taste": {"summary": "A sweet, fruity apple with a light pear-drop note and a crisp, light texture. Tasters compare it with Discovery, but later in the season and stronger in flavour.",
+      "sweet": 4, "acid": 3, "aroma": 3, "crisp": 3, "juicy": 3, "tags": ["sweet", "pear-drop"], "best_eaten": "October; keeps a few weeks"},
+    "look": {"size": "medium", "shape": "round", "ground": "yellow", "blush": "deep-red", "blush_cover": 95, "stripes": false, "russet": 1,
+      "description": "Medium, round and almost completely red, with a little russet round the stalk."},
+    "tree": {"vigor": 3, "bearing": "spur", "cropping": "moderate", "biennial": null, "ploidy": "diploid"},
+    "pollination": {"flower_group": 3, "self_fertile": "no", "notes": "Group 3 (C in nursery lists) on two sources."},
+    "season": {"harvest": "late Sep", "eating": "Oct", "storage_weeks": 3},
+    "health": {"other": "Healthy in trials so far; ratings not yet published."},
+    "conf": "medium"
+  },
+  "sima-joon": {
+    "tags": ["keepers-bred"],
+    "origin": {"country": "GB", "place": "Keepers Nursery, East Farleigh, Kent", "year": 2023, "year_note": "introduced", "kind": "bred",
+      "parentage": "Open-pollinated seedling of Rajka", "raised_by": "Karim Habibi (Keepers Nursery Seedling 79)"},
+    "history": "A late red apple from Karim Habibi's seedling programme at Keepers Nursery, named after his mother Sima and introduced in 2023. The raiser ranks it just behind Primrose Pippin among his selections, and notes it is the better looking of the two.",
+    "taste": {"summary": "A crisp late apple whose flavour is described as an even balance of sweetness and acidity. Early reports only; it has had very little independent tasting.",
+      "sweet": 3, "acid": 3, "crisp": 4, "tags": ["sweet", "sharp"], "best_eaten": "November"},
+    "look": {"size": "large", "ground": "yellow", "blush": "red", "blush_cover": 85, "description": "Large red-skinned apple."},
+    "tree": {"vigor": 3},
+    "season": {"harvest": "early Nov-mid Nov", "eating": "Nov"},
+    "climate": {"best_climates": "Only trialled in Kent so far.", "poor_climates": "Not yet known."},
+    "conf": "low"
+  },
+  "primrose-pippin": {
+    "tags": ["keepers-bred"],
+    "origin": {"country": "GB", "place": "Keepers Nursery, East Farleigh, Kent", "year": 2022, "year_note": "introduced", "kind": "bred",
+      "parentage": "Seedling from the Keepers Nursery programme (seedling 82); parents not published", "raised_by": "Karim Habibi"},
+    "history": "Karim Habibi's best-regarded seedling so far, named after his eldest child. It was shown to the RHS Fruit Group in 2023 and was released for ordering in May 2025. It is sold under the trademark Primrose Pippin. As yet it has only been grown in Kent.",
+    "taste": {"summary": "A modern-style crisp, juicy apple with more sugar (about 18% by refractometer), acidity and fruitiness than most late-season supermarket types. The raiser and the RHS fruit specialist Joan Morgan both describe the balance as excellent.",
+      "sweet": 4, "acid": 3, "aroma": 3, "tannin": 0, "crisp": 5, "juicy": 4, "tags": ["sweet", "sharp"], "best_eaten": "From mid-November"},
+    "look": {"size": "medium", "shape": "oblong", "ground": "yellow", "blush": "red", "blush_cover": 40, "stripes": true, "russet": 0,
+      "description": "Yellow skin that develops a red striped flush late in the season; roughly round-oblong with a long thin stalk."},
+    "tree": {"vigor": 3, "habit": "upright-spreading", "bearing": "spur", "cropping": "moderate", "ploidy": null},
+    "pollination": {"flower_group": 3, "self_fertile": "no", "notes": "Self-sterile; group 3 (C in nursery lists)."},
+    "season": {"harvest": "mid Nov", "eating": "Nov-Dec", "storage_weeks": null},
+    "climate": {"best_climates": "Only trialled in Kent so far.", "poor_climates": "Not yet known; a mid-November pick needs a long season."},
+    "health": {"other": "No significant fungal susceptibility seen in Kent trials; not yet tested elsewhere."},
+    "grow_notes": "Plant with another group 2-4 apple. Because it ripens very late, give it the warmest, most sheltered spot you have.",
+    "conf": "medium"
+  },
+  "bethan": {
+    "tags": ["keepers-bred"],
+    "origin": {"country": "GB", "place": "Keepers Nursery, East Farleigh, Kent", "year": 2022, "year_note": "introduced", "kind": "bred",
+      "parentage": "Thought to be Rajka x Sunrise (raised from seed in 2015)", "raised_by": "Karim Habibi (Keepers Nursery Seedling 77)"},
+    "history": "A small early dessert apple from Karim Habibi's seedling programme, named after his wife Bethan and introduced in 2022.",
+    "taste": {"summary": "A small, crisp, juicy and sweet early apple with more richness than most September fruit; the RHS fruit specialist Joan Morgan called it pretty and moreish.",
+      "sweet": 4, "acid": 2, "aroma": 3, "crisp": 4, "juicy": 4, "tags": ["sweet"], "best_eaten": "September, soon after picking"},
+    "look": {"size": "small", "ground": "yellow", "blush": "red", "blush_cover": 50, "description": "Small yellow apple with a red flush and pale cream flesh."},
+    "tree": {"vigor": 3, "cropping": "moderate"},
+    "pollination": {"flower_group": 3, "self_fertile": "no", "notes": "Self-sterile; group 3 (C in nursery lists)."},
+    "season": {"harvest": "mid Sep", "eating": "Sep"},
+    "conf": "low"
+  },
+  "st-helens": {
+    "tags": ["keepers-bred"],
+    "origin": {"year": 2015, "year_note": "seed sown", "kind": "bred", "parentage": "Thought to be Rajka x Sunrise",
+      "raised_by": "Karim Habibi, from seeds germinated by pupils of St Helen's Montessori school"},
+    "taste": {"summary": "A dark red early dessert apple with a crisp, light texture. A taster found it floral and sugary, a lighter style than the nursery's other early seedling.",
+      "sweet": 4, "crisp": 3, "tags": ["floral", "sweet"]},
+    "look": {"size": "medium", "ground": "yellow", "blush": "deep-red", "blush_cover": 85, "description": "Medium dark red apple with pale cream flesh."},
+    "tree": {"vigor": 3, "habit": "upright-spreading", "bearing": "spur", "cropping": "moderate"},
+    "season": {"harvest": "late Aug", "eating": "Aug-Sep"},
+    "conf": "low"
+  },
+  "sweet-society": {
+    "origin": {"country": "GB", "year": 2004, "year_note": "introduced", "kind": "bred", "raised_by": "Hugh Ermen",
+      "parentage": "A Cox-type cross by the amateur breeder Hugh Ermen"},
+    "history": "A Cox-type dessert apple bred by Hugh Ermen and introduced in 2004 among the varieties the RHS chose to mark its bicentenary.",
+    "taste": {"summary": "A Cox-like apple, sweet, rich and aromatic. The fruit are small, so crops need thinning.",
+      "sweet": 4, "acid": 2, "aroma": 4, "tags": ["sweet"], "best_eaten": "October to January"},
+    "look": {"size": "small", "ground": "yellow-green", "blush": "red", "blush_cover": 60, "russet": 1, "description": "Small, yellow-green with a good red flush and russet streaks, like a well-coloured Cox."},
+    "tree": {"vigor": 3, "habit": "upright-spreading", "bearing": "spur", "cropping": "heavy", "notes": "Compact, bushy and free-spurring."},
+    "pollination": {"flower_group": 4, "self_fertile": "no"},
+    "season": {"harvest": "late Sep", "eating": "Oct-Jan"},
+    "conf": "low"
+  },
+  "monidel": {
+    "origin": {"year": 1990, "year_note": "", "country": "FR"},
+    "history": "A redder-skinned bud sport of Delbarestivale (Delcorf), the early French dessert apple raised at the Delbard nurseries. It is treated as the same apple as its parent apart from the stronger red colour."
+  }
+}

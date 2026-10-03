@@ -1,0 +1,423 @@
+[
+  {
+    "id": "gloster",
+    "name": "Gloster",
+    "aka": [
+      "Gloster 69"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Obstbauversuchsanstalt Jork, Altes Land, near Hamburg, Germany",
+      "year": 1951,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Glockenapfel (Weisser Winterglockenapfel) x Richared Delicious",
+      "raised_by": "Obstbauversuchsanstalt Jork"
+    },
+    "history": "Crossed in 1951 at the fruit research station at Jork in the Altes Land fruit region near Hamburg and released in 1969, hence the alternative name Gloster 69. It was planted commercially in northern Germany and the Low Countries as a long-keeping red apple.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Tall, bell-shaped fruit with Delicious-like bumps at the eye, almost wholly covered in dark purplish red with prominent lenticels."
+    },
+    "taste": {
+      "summary": "Firm, crisp and juicy greenish-cream flesh with a fairly sharp, plain flavour and modest aroma; tarter than the Delicious side of its parentage. Keeps its crunch for months and mellows slightly in store.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Undemanding but needs deep soil for good yields. Fruit hangs firmly and resists wind; wood and blossom show little frost damage."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "German sources give early-to-mid May flowering; no UK flowering group found. Plant with a mid-season partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool northern European lowlands such as the Altes Land and the Low Countries, where it colours well and stores into spring.",
+      "poor_climates": "Areas with fire blight or cedar-apple rust pressure (much of the eastern US) need regular control; probably less well coloured in warm-night climates."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Susceptible to fire blight and cedar-apple rust; moderately to highly scab-prone; long-stored fruit can develop core rot."
+    },
+    "grow_notes": "Best on deep, moisture-retentive soil in an open site. Pick at full colour in October and store cool; watch for scab in wet springs.",
+    "conf": "medium"
+  },
+  {
+    "id": "pristine",
+    "name": "Pristine",
+    "aka": [
+      "Co-op 32"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, West Lafayette, Indiana (PRI co-operative programme)",
+      "year": 1994,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Camuzat x Co-op 10; scab resistance (Vf) traces back to Malus floribunda 821",
+      "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+    },
+    "history": "Released in 1994 by the joint Purdue-Rutgers-Illinois (PRI) disease-resistance breeding programme after testing as Co-op 32. It was aimed at providing a scab-immune early yellow apple to replace older summer varieties.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 0,
+      "description": "Clear, glossy lemon-yellow apple, sometimes with a faint warm blush on the sunny side."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, firm yellow flesh that is Granny Smith-tart if picked a few weeks early, mellowing at full ripeness to a gentle tartness with sweetness beneath; one grower notes a pear-like flavour with a citrus bite. Unusually good for such an early apple but best eaten within a week or two; also good for sauce.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet",
+        "pear"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug, within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fruit ripens over an extended period, so pick in several passes. Thin to discourage alternate bearing."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; needs a partner."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid continental climates of the US Midwest and East, where an early scab-immune apple is valuable.",
+      "poor_climates": "Its short shelf life limits it everywhere; little evidence of performance in hot, low-chill regions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 3,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Scab-immune (Vf); some resistance to mildew but only moderate tolerance of fire blight and cedar-apple rust."
+    },
+    "grow_notes": "A good low-spray summer apple: plant in sun with a mid-to-late flowering partner and harvest in stages. Eat or process quickly as it does not keep.",
+    "conf": "medium"
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "aka": [
+      "Co-op 30"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, West Lafayette, Indiana (PRI co-operative programme)",
+      "year": 1994,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Complex PRI hybrid involving McIntosh, Golden Delicious, Starking Delicious, Rome Beauty and Malus floribunda 821 (source of Vf scab resistance)",
+      "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+    },
+    "history": "Released in 1994 by the PRI disease-resistance programme (tested as Co-op 30); the name contains the letters P-R-I. It later became famous as a parent of Washington State University's Cosmic Crisp (Enterprise x Honeycrisp).",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, slightly elongated and often lopsided fruit with a glossy red flush over yellow-green; thick, tough skin."
+    },
+    "taste": {
+      "summary": "Firm, crisp cream flesh, moderately juicy, with a sharp, slightly spicy flavour at picking that mellows and improves after a month or two in store. Holds up well in cooking.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after a month or more in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous and regular-bearing. Very late to ripen, so needs a long, warm autumn."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 4; average pollinator."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long-season continental and humid eastern US climates, including warmer southern apple districts, where its disease resistance and keeping quality shine.",
+      "poor_climates": "Short-season or cool northern sites where the very late crop may not ripen fully; marginal in northern Britain."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 1,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Scab-immune (Vf) and highly resistant to fire blight, with some resistance to cedar-apple rust and mildew. Thick skin resists insect and storage damage."
+    },
+    "grow_notes": "Ideal for organic or low-spray orchards in places with a long autumn. Give it a warm, sunny position, leave the fruit to hang until late October and store before eating.",
+    "conf": "medium"
+  },
+  {
+    "id": "freedom",
+    "name": "Freedom",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1958,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Macoun x Antonovka-derived selection (given simply as Macoun x Antonovka in some sources)",
+      "raised_by": "New York State Agricultural Experiment Station"
+    },
+    "history": "Bred at Geneva, New York from a 1958 cross and released in 1983 as a scab-resistant, hardy apple for home and low-spray growers. Its scab resistance is attributed to the Russian Antonovka side of its pedigree.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium-large to large fruit, striped and flushed red so the yellow ground barely shows."
+    },
+    "taste": {
+      "summary": "Crisp, very juicy cream flesh with a mild, sweet-sharp flavour; pleasant rather than intense. Good for sauce, juice and cider blends as well as eating.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Large, spreading, productive tree that bears early and regularly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; average pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, humid regions such as New England, New York and the upper Midwest, where its hardiness and scab resistance count.",
+      "poor_climates": "Hot summers give soft, poorly coloured fruit; not suited to low-chill climates."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Very resistant to scab; some resistance to mildew, fire blight and cedar-apple rust. A short keeper."
+    },
+    "grow_notes": "A robust, hardy choice for an unsprayed orchard; give it room or a moderately dwarfing rootstock. Use the fruit within a couple of months.",
+    "conf": "medium"
+  },
+  {
+    "id": "redfree",
+    "name": "Redfree",
+    "aka": [
+      "Co-op 13"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Purdue University, West Lafayette, Indiana (PRI co-operative programme)",
+      "year": 1981,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Raritan x PRI 1018-101 (Vf scab resistance from Malus floribunda)",
+      "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+    },
+    "history": "Released in 1981 by the PRI disease-resistance programme, tested as Co-op 13. It was meant as a scab-immune early red apple for home and low-spray growers.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Glossy, bright red over most of the skin with a yellow-green ground beneath."
+    },
+    "taste": {
+      "summary": "Crisp and juicy straight from the tree, with a fresh, sweet flavour, a little zing and an overall mild character; some tasters detect an unusual note they put down to its crab-apple ancestry. It softens in storage within a few weeks and opinions vary, one grower finding it soft and flavourless. Dries well.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "late Aug-Sep"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour and regular bearing. Fruit ripens over several weeks, so plan more than one picking."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3; a good pollinator for others."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid continental climates of the US Midwest and East where scab and rust are common.",
+      "poor_climates": "No clear record of performance in very hot or low-chill climates; a short keeper anywhere."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Scab-immune (Vf) and very resistant to cedar-apple rust; some resistance to mildew and fire blight."
+    },
+    "grow_notes": "Easy, low-maintenance early apple for a sunny garden. Pair with a group 2-4 partner and harvest over several weeks.",
+    "conf": "medium"
+  }
+]

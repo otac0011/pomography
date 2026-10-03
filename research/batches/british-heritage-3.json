@@ -1,0 +1,91 @@
+{
+ "batch": "british-heritage-3",
+ "theme": "british-heritage",
+ "count": 14,
+ "varieties": [
+  {
+   "id": "seek-no-further",
+   "name": "Seek-No-Further",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "kerry-pippin",
+   "name": "Kerry Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "ballyfatten",
+   "name": "Ballyfatten",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "duke-of-devonshire",
+   "name": "Duke of Devonshire",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "sops-in-wine",
+   "name": "Sops in Wine",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "bess-pool",
+   "name": "Bess Pool",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "cockle-pippin",
+   "name": "Cockle Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "queen-cox",
+   "name": "Queen Cox",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lord-suffield",
+   "name": "Lord Suffield",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "bismarck",
+   "name": "Bismarck",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "crawley-beauty",
+   "name": "Crawley Beauty",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "norfolk-beauty",
+   "name": "Norfolk Beauty",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "manks-codlin",
+   "name": "Mank's Codlin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "kentish-fillbasket",
+   "name": "Kentish Fillbasket",
+   "theme": "british-heritage",
+   "keepers": false
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "batch": "regions-4-americas",
+ "count": 44,
+ "regions": [
+  {
+   "id": "maule",
+   "name": "Maule Valley (Chile)",
+   "country": "CL",
+   "lat": -35.43,
+   "lon": -71.66,
+   "group": "Latin America",
+   "kind": "commercial"
+  },
+  {
+   "id": "puerto-montt",
+   "name": "Los Lagos (Puerto Montt, Chile)",
+   "country": "CL",
+   "lat": -41.47,
+   "lon": -72.94,
+   "group": "Latin America",
+   "kind": "heritage"
+  },
+  {
+   "id": "rio-negro",
+   "name": "Alto Valle del Rio Negro (Argentina)",
+   "country": "AR",
+   "lat": -39.03,
+   "lon": -67.58,
+   "group": "Latin America",
+   "kind": "commercial"
+  },
+  {
+   "id": "mendoza",
+   "name": "Mendoza (Argentina)",
+   "country": "AR",
+   "lat": -32.89,
+   "lon": -68.84,
+   "group": "Latin America",
+   "kind": "commercial"
+  },
+  {
+   "id": "sao-joaquim",
+   "name": "Sao Joaquim (Brazil)",
+   "country": "BR",
+   "lat": -28.29,
+   "lon": -49.93,
+   "group": "Latin America",
+   "kind": "commercial"
+  },
+  {
+   "id": "chihuahua",
+   "name": "Cuauhtemoc (Chihuahua, Mexico)",
+   "country": "MX",
+   "lat": 28.41,
+   "lon": -106.87,
+   "group": "Latin America",
+   "kind": "commercial"
+  },
+  {
+   "id": "zacatlan",
+   "name": "Zacatlan (Puebla, Mexico)",
+   "country": "MX",
+   "lat": 19.93,
+   "lon": -97.96,
+   "group": "Latin America",
+   "kind": "heritage"
+  },
+  {
+   "id": "bogota",
+   "name": "Bogota highlands (Colombia)",
+   "country": "CO",
+   "lat": 4.71,
+   "lon": -74.07,
+   "group": "Latin America",
+   "kind": "extreme"
+  },
+  {
+   "id": "wenatchee",
+   "name": "Wenatchee (Washington)",
+   "country": "US",
+   "lat": 47.42,
+   "lon": -120.31,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "hood-river",
+   "name": "Hood River (Oregon)",
+   "country": "US",
+   "lat": 45.71,
+   "lon": -121.52,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "puget-sound",
+   "name": "Puget Sound (Seattle)",
+   "country": "US",
+   "lat": 47.61,
+   "lon": -122.33,
+   "group": "United States",
+   "kind": "garden"
+  },
+  {
+   "id": "sebastopol",
+   "name": "Sebastopol (Sonoma, California)",
+   "country": "US",
+   "lat": 38.4,
+   "lon": -122.82,
+   "group": "United States",
+   "kind": "heritage"
+  },
+  {
+   "id": "watsonville",
+   "name": "Pajaro Valley (Watsonville, California)",
+   "country": "US",
+   "lat": 36.91,
+   "lon": -121.76,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "los-angeles",
+   "name": "Los Angeles basin (California)",
+   "country": "US",
+   "lat": 34.05,
+   "lon": -118.24,
+   "group": "United States",
+   "kind": "marginal"
+  },
+  {
+   "id": "south-michigan",
+   "name": "Southern Michigan (Berrien and Van Buren)",
+   "country": "US",
+   "lat": 42.2,
+   "lon": -86.17,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "traverse-city",
+   "name": "Traverse City (northern Michigan)",
+   "country": "US",
+   "lat": 44.76,
+   "lon": -85.62,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "hudson-valley",
+   "name": "Hudson Valley (New York)",
+   "country": "US",
+   "lat": 41.95,
+   "lon": -73.95,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "finger-lakes",
+   "name": "Finger Lakes (New York)",
+   "country": "US",
+   "lat": 42.87,
+   "lon": -76.98,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "champlain",
+   "name": "Champlain Valley (Vermont)",
+   "country": "US",
+   "lat": 43.9,
+   "lon": -73.3,
+   "group": "United States",
+   "kind": "heritage"
+  },
+  {
+   "id": "pioneer-valley",
+   "name": "Pioneer Valley (Massachusetts)",
+   "country": "US",
+   "lat": 42.35,
+   "lon": -72.6,
+   "group": "United States",
+   "kind": "heritage"
+  },
+  {
+   "id": "maine",
+   "name": "Central Maine",
+   "country": "US",
+   "lat": 44.2,
+   "lon": -70.0,
+   "group": "United States",
+   "kind": "heritage"
+  },
+  {
+   "id": "adams-county",
+   "name": "Adams County (Pennsylvania)",
+   "country": "US",
+   "lat": 39.9,
+   "lon": -77.3,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "shenandoah",
+   "name": "Shenandoah Valley (Winchester, Virginia)",
+   "country": "US",
+   "lat": 39.18,
+   "lon": -78.16,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "henderson-county",
+   "name": "Henderson County (North Carolina)",
+   "country": "US",
+   "lat": 35.3,
+   "lon": -82.5,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "ellijay",
+   "name": "Ellijay (Georgia)",
+   "country": "US",
+   "lat": 34.7,
+   "lon": -84.5,
+   "group": "United States",
+   "kind": "heritage"
+  },
+  {
+   "id": "wooster",
+   "name": "Wooster (Ohio)",
+   "country": "US",
+   "lat": 40.8,
+   "lon": -81.94,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "bayfield",
+   "name": "Bayfield (Wisconsin)",
+   "country": "US",
+   "lat": 46.81,
+   "lon": -90.82,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "minneapolis",
+   "name": "Twin Cities (Minnesota)",
+   "country": "US",
+   "lat": 44.98,
+   "lon": -93.27,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "paonia",
+   "name": "Paonia (Colorado)",
+   "country": "US",
+   "lat": 38.87,
+   "lon": -107.59,
+   "group": "United States",
+   "kind": "commercial"
+  },
+  {
+   "id": "hill-country",
+   "name": "Texas Hill Country (Medina)",
+   "country": "US",
+   "lat": 29.8,
+   "lon": -99.24,
+   "group": "United States",
+   "kind": "marginal"
+  },
+  {
+   "id": "gainesville",
+   "name": "Gainesville (Florida)",
+   "country": "US",
+   "lat": 29.65,
+   "lon": -82.32,
+   "group": "United States",
+   "kind": "extreme"
+  },
+  {
+   "id": "phoenix",
+   "name": "Phoenix (Arizona)",
+   "country": "US",
+   "lat": 33.45,
+   "lon": -112.07,
+   "group": "United States",
+   "kind": "extreme"
+  },
+  {
+   "id": "anchorage",
+   "name": "Anchorage (Alaska)",
+   "country": "US",
+   "lat": 61.22,
+   "lon": -149.9,
+   "group": "United States",
+   "kind": "marginal"
+  },
+  {
+   "id": "okanagan",
+   "name": "Okanagan Valley (British Columbia)",
+   "country": "CA",
+   "lat": 49.9,
+   "lon": -119.4,
+   "group": "Canada",
+   "kind": "commercial"
+  },
+  {
+   "id": "georgian-bay",
+   "name": "Georgian Bay and Niagara (Ontario)",
+   "country": "CA",
+   "lat": 44.45,
+   "lon": -80.5,
+   "group": "Canada",
+   "kind": "commercial"
+  },
+  {
+   "id": "annapolis",
+   "name": "Annapolis Valley (Nova Scotia)",
+   "country": "CA",
+   "lat": 45.1,
+   "lon": -64.8,
+   "group": "Canada",
+   "kind": "commercial"
+  },
+  {
+   "id": "rougemont",
+   "name": "Rougemont (Quebec)",
+   "country": "CA",
+   "lat": 45.43,
+   "lon": -73.05,
+   "group": "Canada",
+   "kind": "commercial"
+  },
+  {
+   "id": "edmonton",
+   "name": "Edmonton (Alberta)",
+   "country": "CA",
+   "lat": 53.55,
+   "lon": -113.49,
+   "group": "Canada",
+   "kind": "marginal"
+  },
+  {
+   "id": "winnipeg",
+   "name": "Winnipeg (Manitoba)",
+   "country": "CA",
+   "lat": 49.9,
+   "lon": -97.14,
+   "group": "Canada",
+   "kind": "marginal"
+  },
+  {
+   "id": "reykjavik",
+   "name": "Reykjavik (Iceland)",
+   "country": "IS",
+   "lat": 64.15,
+   "lon": -21.94,
+   "group": "Edge cases",
+   "kind": "extreme"
+  },
+  {
+   "id": "tromso",
+   "name": "Tromso (Arctic Norway)",
+   "country": "NO",
+   "lat": 69.65,
+   "lon": 18.96,
+   "group": "Edge cases",
+   "kind": "extreme"
+  },
+  {
+   "id": "singapore",
+   "name": "Singapore (equatorial lowlands)",
+   "country": "SG",
+   "lat": 1.35,
+   "lon": 103.82,
+   "group": "Edge cases",
+   "kind": "extreme"
+  },
+  {
+   "id": "dubai",
+   "name": "Dubai (Arabian desert coast)",
+   "country": "AE",
+   "lat": 25.2,
+   "lon": 55.27,
+   "group": "Edge cases",
+   "kind": "extreme"
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City (tropical highlands)",
+   "country": "MX",
+   "lat": 19.43,
+   "lon": -99.13,
+   "group": "Edge cases",
+   "kind": "marginal"
+  }
+ ]
+}

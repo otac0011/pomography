@@ -1,0 +1,157 @@
+{
+ "batch": "cider-perry-apples-1",
+ "theme": "cider-perry-apples",
+ "count": 21,
+ "varieties": [
+  {
+   "id": "chisel-jersey",
+   "name": "Chisel Jersey",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "chisel-jersey",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "cider-ladys-finger",
+   "name": "Cider Lady's Finger",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "cider-ladys-finger",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "dabinett",
+   "name": "Dabinett",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "dabinett",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "ellis-bitter",
+   "name": "Ellis Bitter",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "ellis-bitter",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "foxwhelp-broxwood",
+   "name": "Foxwhelp (Broxwood)",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "foxwhelp-(broxwood)",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "harry-masters-jersey",
+   "name": "Harry Masters Jersey",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "harry-masters-jersey",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "kingston-black",
+   "name": "Kingston Black",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "kingston-black",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "slack-ma-girdle",
+   "name": "Slack Ma Girdle",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "slack-ma-girdle",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "stoke-red",
+   "name": "Stoke Red",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "stoke-red",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "ten-commandments",
+   "name": "Ten Commandments",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "ten-commandments",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "tremletts-bitter",
+   "name": "Tremlett's Bitter",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "tremletts-bitter",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "yarlington-mill",
+   "name": "Yarlington Mill",
+   "theme": "cider-perry-apples",
+   "keepers": true,
+   "keepers_slug": "yarlington-mill",
+   "keepers_cat": "cider"
+  },
+  {
+   "id": "brown-snout",
+   "name": "Brown Snout",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "michelin",
+   "name": "Michelin",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "bulmers-norman",
+   "name": "Bulmer's Norman",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "sweet-coppin",
+   "name": "Sweet Coppin",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "somerset-redstreak",
+   "name": "Somerset Redstreak",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "medaille-dor",
+   "name": "Médaille d'Or",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "porters-perfection",
+   "name": "Porter's Perfection",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "major",
+   "name": "Major",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  },
+  {
+   "id": "sweet-alford",
+   "name": "Sweet Alford",
+   "theme": "cider-perry-apples",
+   "keepers": false
+  }
+ ]
+}

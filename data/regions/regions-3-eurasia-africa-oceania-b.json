@@ -1,0 +1,83 @@
+[
+  {
+    "id": "srinagar",
+    "summary": "A high, enclosed Himalayan valley with cold, snowy winters that give ample chilling, a wet spring and warm but not scorching summers. Spring rain during bloom and leaf-out drives disease, while hail and early snow are the weather shocks growers fear most.",
+    "apple_culture": "Kashmir is India's largest apple-growing region and apples are central to the rural economy, with fruit markets such as Sopore among the biggest in Asia. Delicious-type apples dominate, but the valley also has its own traditional apples, above all the crisp, aromatic Ambri, and new high-density plantings on dwarfing rootstocks are spreading.",
+    "local_varieties": ["Ambri", "Maharaji", "Hazratbali", "American Trel", "Red Delicious", "Golden Delicious"],
+    "pests_diseases": "Apple scab has caused severe epidemics in wet springs, and premature leaf fall from Marssonina blotch and Alternaria leaf blotch has become a major problem. San Jose scale and woolly aphid are long-standing insect pests.",
+    "tips": "A careful scab programme starting at bud break, plus raking or shredding fallen leaves, matters more here than almost anything else. Keep the canopy open, and if you plant an old Kashmiri variety like Ambri, accept that it needs extra disease care.",
+    "confidence": "high"
+  },
+  {
+    "id": "shimla",
+    "summary": "Steep mid-Himalayan slopes where altitude replaces latitude: cool winters with snow higher up, a monsoon summer, and conditions that change sharply from one ridge to the next. Warming winters have reduced chilling at lower elevations and pushed good apple growing higher up the hills.",
+    "apple_culture": "Apples arrived on a commercial scale when the American Samuel Stokes planted Delicious trees near Kotgarh in the early twentieth century, and today Himachal is India's second big apple state with mostly small family orchards. Royal Delicious became the signature apple, though newer spur types and Gala are now being planted.",
+    "local_varieties": ["Royal Delicious", "Red Delicious", "Rich-a-Red", "Golden Delicious", "Tydeman's Early Worcester", "Gala"],
+    "pests_diseases": "Marssonina premature leaf fall and scab are the most damaging diseases, especially in wet monsoon years. San Jose scale, woolly aphid and root rots are persistent, and hail can ruin a crop in minutes.",
+    "tips": "At lower elevations choose lower-chill varieties or accept patchy crops; higher up, standard Delicious types still do well. Plant a pollinator variety and encourage bees, as poor fruit set from weak pollination is a common local complaint.",
+    "confidence": "high"
+  },
+  {
+    "id": "quetta",
+    "summary": "A dry highland basin with cold winters that give good chilling and hot, very dry summers. There is little rain, so orchards depend entirely on groundwater from wells and traditional karez channels, and long droughts are the overriding threat.",
+    "apple_culture": "Balochistan is one of Pakistan's two main apple regions, with orchards around Quetta, Pishin, Kalat, Ziarat and Killa Saifullah. Local types such as Kala Kulu and Tor Kulu are well known in Pakistani markets, but falling water tables and severe droughts have killed or abandoned many orchards.",
+    "local_varieties": ["Kala Kulu", "Tor Kulu", "Shin Kulu", "Amri", "Mashhadi", "Golden Delicious"],
+    "pests_diseases": "Codling moth and powdery mildew are the main pest and disease problems in the dry climate. Water stress and sunburn are as damaging as any insect.",
+    "tips": "Use drip irrigation and heavy mulch to stretch scarce water, and favour well-adapted local varieties. Protect young trunks and fruit from intense summer sun with whitewash and a canopy that is not over-thinned.",
+    "confidence": "low"
+  },
+  {
+    "id": "yantai",
+    "summary": "Coastal peninsula climate where the sea moderates both seasons: cold, dry winters with good chilling and a warm, humid monsoon summer. Most rain falls in summer, so disease pressure is high during fruit growth, and autumn is usually dry and sunny for ripening.",
+    "apple_culture": "Yantai is one of the oldest modern apple centres in China, where Western apple varieties were introduced in the late nineteenth century, and Yantai apples are a nationally famous brand. Red Fuji and its many local sports dominate, and almost every fruit is grown inside a paper bag for a flawless skin.",
+    "local_varieties": ["Red Fuji", "Red General (Beni Shogun)", "Gala", "Guoguang (Ralls Janet)", "Golden Delicious"],
+    "pests_diseases": "Valsa canker is the most destructive trunk disease, and ring rot and Marssonina blotch flourish in the wet summer. The peach fruit moth and other borers are why fruit bagging became standard practice.",
+    "tips": "Prune and sanitise carefully to keep Valsa canker out of large wounds, and protect cuts. Bagging fruit in early summer is worth copying on a small scale if moths and summer rots are a problem.",
+    "confidence": "high"
+  },
+  {
+    "id": "luochuan",
+    "summary": "High loess tableland on the Loess Plateau: deep, well-drained soils, cold dry winters, plenty of sunshine and big day-night temperature swings that build sugar and colour. Rainfall is modest and mostly in summer, and late spring frost and hail are the main weather risks.",
+    "apple_culture": "Shaanxi is China's largest apple province and Luochuan is its flagship county, with a protected regional brand and apples as the main income of local farms. Fuji dominates, and Northwest A&F University in Shaanxi bred Qinguan and the newer Ruiyang and Ruixue.",
+    "local_varieties": ["Fuji", "Qinguan", "Ruiyang", "Ruixue", "Gala"],
+    "pests_diseases": "Valsa canker is the biggest disease threat, along with Marssonina blotch in wet summers. Spring frost at bloom and summer hail regularly cost crops, so netting is increasingly used.",
+    "tips": "Deep loess suits apples well, but keep moisture in with mulch or cover crops since much of the area is rain-fed. Avoid valley bottoms for frost, and keep pruning wounds clean to limit canker.",
+    "confidence": "medium"
+  },
+  {
+    "id": "aksu",
+    "summary": "A desert oasis on the edge of the Taklamakan: very dry, sunny, with hot summer days, cold nights and cold winters. Everything depends on irrigation from mountain meltwater, and the huge day-night swing produces very sweet fruit.",
+    "apple_culture": "Aksu is known across China for its 'ice-sugar heart' Fuji apples, whose sweet watercore is prized rather than seen as a defect. Orchards are irrigated oasis plantings, many established on reclaimed desert land.",
+    "local_varieties": ["Fuji (ice-sugar heart)"],
+    "pests_diseases": "Codling moth is established in Xinjiang and is a key pest. The low humidity keeps fungal disease light, but sunburn, saline soils, dust and winter freeze injury are real problems.",
+    "tips": "Irrigate regularly but do not waterlog, and watch for salt build-up in the soil. Protect trunks from winter sunscald and freeze injury, and leave enough leaf cover to shade fruit from the summer sun.",
+    "confidence": "medium"
+  },
+  {
+    "id": "aomori",
+    "summary": "Northern Honshu climate with long, very snowy winters, a cool spring and mild summers that rarely get too hot. Heavy snow can break branches, and late-summer typhoons are the main threat to a hanging crop.",
+    "apple_culture": "Aomori produces roughly half of Japan's apples, centred on the Tsugaru plain around Hirosaki below Mount Iwaki. Fuji, Mutsu and Sekai Ichi were all bred in the prefecture, and growers are famous for meticulous hand-thinning, fruit bagging and leaf-picking to colour every apple evenly.",
+    "local_varieties": ["Fuji", "Mutsu", "Sekai Ichi", "Toki", "Ourin", "Jonagold", "Kogyoku"],
+    "pests_diseases": "Scab, Alternaria blotch and Valsa canker are long-standing diseases, and Monilinia blossom blight has been a local problem. Typhoon winds and snow-load breakage are major physical risks.",
+    "tips": "Train trees with strong, wide-angled branches and prop them before heavy snow, and remove snow from young trees. Choose disease-tolerant varieties for a low-spray home garden, as the humid summer favours fungal problems.",
+    "confidence": "high"
+  },
+  {
+    "id": "nagano",
+    "summary": "An inland, high-elevation basin climate, unusually sunny and dry for Japan, with cold winters, warm summer days and cool nights that help colour and sweetness. Typhoon rain and river flooding are occasional threats, as are hailstorms.",
+    "apple_culture": "Nagano is Japan's second apple prefecture and promoted compact, closely spaced orchards on dwarfing rootstocks early. Its own breeding produced the 'three apple brothers' Shinano Sweet, Shinano Gold and Akibae, and Fuji and Tsugaru are also widely grown.",
+    "local_varieties": ["Shinano Sweet", "Shinano Gold", "Akibae", "Fuji", "Tsugaru"],
+    "pests_diseases": "Scab, Alternaria blotch and Marssonina blotch are the main leaf and fruit diseases, and Valsa canker affects older wood. Typhoons and hail cause sudden losses, and 2019's Typhoon Hagibis flooded many riverside orchards.",
+    "tips": "Dwarfing rootstocks and a compact tree suit small gardens here and make spraying and netting easier. Try the Nagano-bred varieties, which are chosen for local conditions and ripen across the autumn.",
+    "confidence": "high"
+  },
+  {
+    "id": "daegu",
+    "summary": "A hot inland basin in south-east Korea: cold, dry winters with adequate chilling, but long, humid and increasingly hot summers that make it hard for red apples to colour. Warming has made the city itself marginal, and good apple growing has moved to cooler uplands to the north.",
+    "apple_culture": "Daegu was once synonymous with Korean apples, but production has shifted north to upland Gyeongbuk counties such as Cheongsong, Yeongju and Andong and even into Gangwon. Fuji is the main variety, alongside Korean-bred apples such as Hongro, grown for the Chuseok holiday market.",
+    "local_varieties": ["Fuji", "Hongro", "Gamhong", "Arisoo", "Tsugaru"],
+    "pests_diseases": "Bitter rot (anthracnose) and Marssonina blotch flourish in the hot, wet summers, and sunburn is common. Fire blight arrived in Korea in 2015 and is a strictly controlled quarantine disease.",
+    "tips": "In the hot lowlands, choose early or mid-season varieties that ripen before peak heat or yellow and bicolour apples that do not need cold nights to colour. Provide afternoon shade or netting against sunburn, and keep the canopy airy to limit summer rots.",
+    "confidence": "medium"
+  }
+]

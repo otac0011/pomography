@@ -1,0 +1,618 @@
+[
+  {
+    "id": "blenheim-orange",
+    "name": "Blenheim Orange",
+    "aka": ["Blenheim Pippin", "Blenheim Orange Pippin", "Woodstock Pippin", "Blenheim"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Woodstock, Oxfordshire, England",
+      "year": 1740,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling; parents unknown",
+      "raised_by": "George Kempster (finder)"
+    },
+    "history": "Found around 1740 by George Kempster at Woodstock, beside the Blenheim estate, and widely distributed from about 1818; it won the Banksian Medal from the Horticultural Society in 1822. It became one of England's best-loved dual-purpose apples and is a parent of Newton Wonder, Howgate Wonder and Annie Elizabeth among others.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Big, broad, somewhat flattened apple of golden yellow, flushed and streaked orange-red, with some russet around the stalk."
+    },
+    "taste": {
+      "summary": "Creamy, crumbly and rather dry flesh with a distinctive nutty, sweet-sharp flavour, traditionally enjoyed with cheese. Sharper early in the season and good for cooking then; it cooks to a stiff purée ideal for apple charlotte.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": ["nutty", "sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan for eating; usable for cooking from picking"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 1,
+      "ploidy": "triploid",
+      "notes": "A very large, long-lived tree, similar in size to Bramley, and slow to begin cropping. Partial tip-bearer, so renewal-prune rather than spur-prune hard; best on a dwarfing or semi-dwarfing rootstock in gardens."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid: a poor pollen donor that needs two compatible diploid partners in group 2-4 to pollinate it and each other. Blossom is somewhat frost-susceptible."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist temperate regions such as southern and central England, where old standard trees still crop heavily.",
+      "poor_climates": "Hot summers give soft, poorly flavoured fruit; late frosts can damage the blossom in exposed or low-lying sites."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "Generally robust, with good resistance to canker and fair resistance to scab and mildew. Main drawbacks are its size, slow start and frost-tender blossom."
+    },
+    "grow_notes": "Needs space: on vigorous rootstocks it makes a huge tree, so use M26 or MM106 in gardens. Plant two diploid pollinators nearby and be prepared to wait several years for the first good crop.",
+    "conf": "high"
+  },
+  {
+    "id": "blue-pearmain",
+    "name": "Blue Pearmain",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "US",
+      "place": "Probably New England, USA",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old American apple of unknown origin, probably from New England, known by the early 1800s and named for the bluish bloom over its dark red skin. Henry David Thoreau wrote admiringly of a Blue Pearmain tree, and in Britain it received an RHS Award of Merit in 1893 and a First Class Certificate in 1896.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "Truncated-conical fruit heavily striped and flushed dark purplish-red, overlaid with a powdery blue-grey bloom."
+    },
+    "taste": {
+      "summary": "Yellowish, rather soft and coarse flesh that is somewhat dry, with a sweet, pleasantly aromatic flavour. A mellow winter apple rather than a crisp, juicy one.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour; other growth details are not well recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season diploid; any group 2-4 diploid will serve."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold-winter, warm-summer north-eastern North America (New England, New York), where it has been grown since the early 19th century; also crops in southern England.",
+      "poor_climates": "Mild-winter, low-chill regions; hot nights reduce the deep colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have generally good disease resistance; specific ratings not recorded."
+    },
+    "grow_notes": "A hardy heirloom suitable for colder gardens. Grow it in full sun with a mid-season pollinator, and store the fruit for a few weeks before eating.",
+    "conf": "medium"
+  },
+  {
+    "id": "braddick-nonpareil",
+    "name": "Braddick Nonpareil",
+    "aka": ["Braddick's Nonpareil", "Ditton Nonpareil", "Ditton Pippin"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Thames Ditton, Surrey, England",
+      "year": 1818,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "John Braddick"
+    },
+    "history": "Raised by the Surrey fruit enthusiast John Braddick at Thames Ditton and first exhibited in 1818. Braddick also brought Claygate Pearmain to notice.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 40,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish, rounded fruit, green to greenish-yellow with a brownish orange-red flush and patches of russet."
+    },
+    "taste": {
+      "summary": "Firm yellowish flesh with a sweet, aromatic flavour in the nonpareil style.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Listed as triploid and a regular cropper by Orange Pippin; not independently confirmed. Other growth details not recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from Brogdale flowering dates (similar to Cox). If triploid, it needs two diploid pollinators and is a poor pollen donor."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Surrey origin: mild, moist lowland England.",
+      "poor_climates": "Not documented; hot summers likely reduce quality."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have some resistance to scab, canker and mildew."
+    },
+    "grow_notes": "A rare Surrey heritage apple. Give it a sunny site and, given the reported triploidy, two diploid pollinators flowering in groups 2-4.",
+    "conf": "low"
+  },
+  {
+    "id": "braeburn",
+    "name": "Braeburn",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "NZ",
+      "place": "Waiwhero, Upper Moutere, Nelson, New Zealand",
+      "year": 1952,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, probably of Lady Hamilton; pollen parent unknown (Granny Smith is often suggested but unproven)",
+      "raised_by": "Found on O. Moran's property; developed by Williams Bros"
+    },
+    "history": "Discovered as a chance seedling on O. Moran's land in the Upper Moutere district of New Zealand and first grown commercially by the Williams brothers at their Braeburn orchard around 1952. It became one of the world's major commercial apples and is a parent of Jazz.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Smooth, firm fruit with a greenish-yellow ground covered in orange-red to red stripes and flush."
+    },
+    "taste": {
+      "summary": "Hard, crisp and very juicy, with a bold sweet-tart balance that leans sharp and carries a spicy, aromatic depth. Stores well, though UK-grown fruit often lacks the full sweetness reached in warmer climates.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 5,
+      "tags": ["sharp", "spice"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Precocious and productive; thin the fruitlets to keep size and reduce alternate cropping. Maidens often have useful feathers. Needs a long, warm season to ripen properly."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile, but crops better with a group 3-5 partner."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-temperate regions with a long growing season: New Zealand, Chile, southern France, Washington State.",
+      "poor_climates": "Short, cool seasons such as northern Britain, where fruit fails to mature; very cold winters damage the tree."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": 4,
+      "rust": 5,
+      "bitter_pit": 4,
+      "other": "Prone to bitter pit and storage browning disorders, canker in damp climates and fire blight; very susceptible to cedar apple rust in North America."
+    },
+    "grow_notes": "In the UK, plant only in the warmest southern gardens against a sunny wall or in a sheltered, south-facing spot. Feed calcium where bitter pit is a problem and thin crops for regular bearing.",
+    "conf": "high"
+  },
+  {
+    "id": "braintree-seedling",
+    "name": "Braintree Seedling",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Braintree, Essex, England",
+      "year": 1930,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Recorded by the National Fruit Collection as a seedling of Gladstone (pollen parent unknown); other sources say parentage unknown",
+      "raised_by": "Mrs Humphreys"
+    },
+    "history": "Raised in 1930 by Mrs Humphreys of Braintree in Essex. It remains a local East Anglian variety, conserved in the National Fruit Collection and by the East of England Apples and Orchards Project.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Broadly conical yellow fruit with a bright orange flush broken by scarlet streaks, and a fair amount of russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-textured, crisp cream flesh with a sweet, aromatic flavour.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering; plant with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Essex origin: the relatively dry, sunny lowlands of eastern England and similar temperate climates.",
+      "poor_climates": "Not documented; hot summers likely reduce colour and keeping."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A good local choice for East Anglian gardens. Grow on MM106 or similar in a sunny spot with a mid-season pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "brenchley-pippin",
+    "name": "Brenchley Pippin",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Brenchley, Kent, England",
+      "year": 1884,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Kentish apple raised in the Weald village of Brenchley and first recorded in 1884. Little more is documented about its origin.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium, rather tall fruit with a greenish-yellow ground and a dull brownish flush."
+    },
+    "taste": {
+      "summary": "Tender cream flesh with a sweet, aromatic flavour.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Group estimated from Brogdale flowering dates, which are a little later than Cox's; plant with a group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Inferred from its Kentish origin: mild, moist south-east England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A local Kent heritage variety. Treat as a typical late English dessert apple: sunny site, reasonable soil and a later-flowering pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "calville-blanc-dhiver",
+    "name": "Calville Blanc d'Hiver",
+    "aka": ["White Winter Calville", "Calville Blanc", "Weisser Winterkalvill"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "FR",
+      "place": "France (exact place unknown)",
+      "year": 1598,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An ancient European apple, most likely French, described in 1598 by the botanist Johann Bauhin in south-west Germany. It became the classic apple of French pâtisserie and was grown by Thomas Jefferson at Monticello.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, flattened apple with bold ribs running from stalk to eye; pale green ripening to waxy yellow, sometimes with a faint pinkish blush and russet dots."
+    },
+    "taste": {
+      "summary": "Tender, fine-grained, juicy flesh with a rich sweet-sharp, wine-like flavour and a strawberry-like aroma that develops in store. It holds its shape when baked, making it the traditional choice for French apple tarts.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": ["strawberry", "wine", "sharp", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; needs several weeks in store after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Demanding: it does best trained against a warm, south-facing wall where the fruit is sheltered from rain. Thin-skinned fruit bruises easily, so handle it gently."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Mid-late flowering diploid with a short blossom period; pair with a group 3-5 partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer temperate climates with a long autumn: central and southern France, warm parts of Germany, Virginia and similar.",
+      "poor_climates": "Cool, damp maritime climates such as most of the UK, where fruit often fails to ripen fully and the tree suffers from disease."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Regarded as demanding and prone to a range of diseases and pests in less than ideal sites; some susceptibility to cedar apple rust in North America."
+    },
+    "grow_notes": "In Britain, grow it as an espalier or fan on a dwarfing rootstock against a sunny wall in the south. Pick late, store cool and wait until midwinter for the full flavour.",
+    "conf": "high"
+  },
+  {
+    "id": "caroline",
+    "name": "Caroline",
+    "aka": ["Caroline Lady Suffield"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Blickling Hall, near Aylsham, Norfolk, England",
+      "year": 1822,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Arose in Lord Suffield's gardens at Blickling Hall in Norfolk, where it was already fruiting by 1822, and was named after Lord Suffield's wife. It is conserved in the National Fruit Collection and by the East of England Apples and Orchards Project.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": null,
+      "description": "Broadly conical fruit, green ripening to yellow, marked with red stripes."
+    },
+    "taste": {
+      "summary": "Firm, crisp white flesh with a sweet flavour; a long-keeping dessert apple.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Listed in flowering period D (group 4) by the East of England Apples and Orchards Project; plant with a group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Norfolk origin: the cool, fairly dry lowlands of eastern England.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A Norfolk heritage apple that suits East Anglian gardens. Grow on a semi-vigorous rootstock with a later-flowering pollinator; it can be trained as an espalier or cordon.",
+    "conf": "low"
+  }
+]

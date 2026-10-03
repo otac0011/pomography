@@ -1,0 +1,21 @@
+# Batch rs-3: Geneva (Cornell-USDA) series, Vineland, Antonovka and seedling rootstocks (id | name)
+g11 | G.11 (Geneva 11)
+g16 | G.16 (Geneva 16)
+g30 | G.30 (Geneva 30)
+g41 | G.41 (Geneva 41)
+g202 | G.202 (Geneva 202)
+g210 | G.210 (Geneva 210)
+g214 | G.214 (Geneva 214)
+g222 | G.222 (Geneva 222)
+g257 | G.257 (Geneva 257)
+g935 | G.935 (Geneva 935)
+g969 | G.969 (Geneva 969)
+g4013 | G.4013 (Geneva 4013)
+g4814 | G.4814 (Geneva 4814)
+g5087 | G.5087 (Geneva 5087) - drop if you cannot verify it exists
+v1 | V.1 (Vineland 1) - drop if you cannot verify
+antonovka-313 | Antonovka 313
+antonovka-seedling | Antonovka seedling (free-standing)
+robusta-5 | Robusta 5
+apple-seedling | Open-pollinated apple seedling (standard / 'MM seedling')
+crab-c | Crab C / Malus baccata seedling stocks (hardy)

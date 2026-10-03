@@ -1,0 +1,496 @@
+[
+  {
+    "id": "mollies-delicious",
+    "name": "Mollie's Delicious",
+    "aka": [
+      "Mollies Delicious"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New Jersey Agricultural Experiment Station, New Brunswick, New Jersey",
+      "year": 1948,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "(Golden Delicious x Edgewood) x (Red Gravenstein x Close); not a sport of Red Delicious despite the name",
+      "raised_by": "G.W. Schneider, New Jersey Agricultural Experiment Station (Rutgers)"
+    },
+    "history": "Crossed in 1948 in the Rutgers apple programme in New Jersey and released in 1966. Despite its name it has no connection with Red Delicious; Golden Delicious and Gravenstein sit in its pedigree, and it was later used as a parent in the PRI scab-resistance programme that produced Williams' Pride.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Big, tall, strongly ribbed fruit with a yellow skin washed and mottled with pinkish to bright red."
+    },
+    "taste": {
+      "summary": "Sweet and mild, reminiscent of a fresher, slightly sharper Golden Delicious, with cream flesh that is juicy and fairly crisp when picked at the right moment but can turn soft and starchy if picked early or left too long. Noted for a pleasant lingering aftertaste.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, fresh from the tree; keeps better than most earlies in a fridge"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little UK growing data. In the southern USA it has a reputation as one of the few good apples that fruits reliably in mild-winter areas."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Sources differ: Brogdale records it flowering a few days after Cox, while Orange Pippin lists group 5. Plant with a group 3-5 diploid partner."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Oct",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm-temperate areas with hot summers and fairly mild winters, such as the US mid-Atlantic and upper South, where it ripens well ahead of the worst heat.",
+      "poor_climates": "Colour is slow to develop where nights stay warm, so fruit may stay mostly green in the Deep South; in cool, dull summers the fruit may lack sweetness. Chill figure is an estimate from its reported success in mild-winter regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Rated very resistant to cedar-apple rust by the University of Arkansas. Other disease behaviour poorly recorded."
+    },
+    "grow_notes": "A good early apple for warmer gardens where Cox-types struggle. Give it full sun to help the blush develop and a mid-to-late flowering partner; pick when the ground colour turns from green to yellow.",
+    "conf": "medium"
+  },
+  {
+    "id": "monidel",
+    "name": "Monidel",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Delbard nurseries, France",
+      "year": 1990,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Red-coloured bud sport of Delbarestivale (Delcorf)",
+      "raised_by": "Delbard (Georges Delbard nurseries)"
+    },
+    "history": "A redder-skinned bud sport of Delbarestivale (Delcorf), the early French dessert apple raised at the Delbard nurseries. It is treated as the same apple as its parent apart from the stronger red colour.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Yellow apple heavily striped and flushed red, redder overall than ordinary Delbarestivale."
+    },
+    "taste": {
+      "summary": "As Delbarestivale: sweet, juicy and fairly crisp, with a gentle aromatic quality and low sharpness. Best eaten soon after picking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growth should match Delbarestivale; no independent data found for the sport itself."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a pollinator. Group inferred from Brogdale flowering records for the parent Delcorf, which blooms with James Grieve."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Western European climates from southern England to France, where the parent variety is grown commercially for the early market.",
+      "poor_climates": "Untested in very cold or very hot regions; values are inferred from the parent variety and French origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease data found for the sport; expect it to behave like Delbarestivale."
+    },
+    "grow_notes": "Grow as you would Delbarestivale in a sunny, sheltered spot. The extra red colour is the reason to choose it; provide a group 2-4 partner.",
+    "conf": "low"
+  },
+  {
+    "id": "nuvar-golden-hills",
+    "name": "Nuvar Golden Hills",
+    "aka": [
+      "Golden Hills"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": 1985,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Recorded as Greensleeves x Greensleeves (a Greensleeves seedling)",
+      "raised_by": "John Breach and Hugh Ermen"
+    },
+    "history": "One of the 'Nuvar' series of garden apples raised in Kent in the 1980s by John Breach and Hugh Ermen, the breeder also behind Scrumptious and Herefordshire Russet. It is derived from Greensleeves and was selected as a sweeter, more golden version of that apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "gold",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 0,
+      "description": "Clear golden-yellow apple, more yellow than Greensleeves, occasionally with a faint pink cheek."
+    },
+    "taste": {
+      "summary": "Crisp and juicy with a sweet, fairly rich flavour; a little sweeter than its Greensleeves parent.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little published growing data. Its Greensleeves parent is compact, very precocious and heavy cropping, which may carry through, but this is unconfirmed."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a pollinator. Flowering group not recorded; Greensleeves itself is usually listed in group 3."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Southern England and similar cool, moist temperate climates where it was raised.",
+      "poor_climates": "No records outside the UK; climate values are inferred from English breeding and its parent."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A garden variety for a sunny spot in southern Britain; pick when the skin turns from green-yellow to full gold. Plant near another mid-season flowering apple.",
+    "conf": "low"
+  },
+  {
+    "id": "palmers-rosey",
+    "name": "Palmer's Rosey",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Garden of H.T. Palmer, Whyteleafe, Surrey, England",
+      "year": 1965,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "H.T. Palmer"
+    },
+    "history": "A Surrey garden apple that arose with H.T. Palmer at Whyteleafe and was sent to the National Fruit Trials in 1965. It survives mainly through the National Fruit Collection at Brogdale.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Flattish-round apple with a pale whitish-yellow skin, about half covered in striped and mottled orange-red to bright red."
+    },
+    "taste": {
+      "summary": "Crisp, fairly tender flesh with a noticeably aromatic flavour for an August apple.",
+      "sweet": null,
+      "acid": null,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Brogdale records it in full flower at much the same time as Cox, so group 3 is a reasonable working assumption."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "South-east England and comparable cool maritime climates.",
+      "poor_climates": "Not grown outside England; climate values are inferred from its origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A rare local variety for collectors of early English apples. Treat it as a typical spur-bearing dessert apple and plant with a group 2-4 partner.",
+    "conf": "low"
+  },
+  {
+    "id": "polly",
+    "name": "Polly",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Cornwall, England",
+      "year": 1954,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Cornish apple sent to the National Fruit Trials in 1954; nothing more is known of its origin. Not to be confused with Polly Prosser (a Cox seedling) or the Somerset apple Polly Whitehair.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": 0,
+      "description": "Broad, rounded-conical apple with a greenish-yellow skin and little or no russet."
+    },
+    "taste": {
+      "summary": "Soft white flesh with a sweet, gently acidic flavour; usable both raw and in the kitchen.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No published growing data."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Brogdale flowering dates are close to Cox, so group 3 is assumed."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, wet south-west England, where it originated; likely suited to other mild maritime areas.",
+      "poor_climates": "No records outside the UK; climate values are inferred from origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded, though Cornish local varieties are often chosen for tolerance of damp conditions."
+    },
+    "grow_notes": "A good choice for a heritage collection in the south-west. Use the fruit promptly as the flesh softens quickly; plant with a group 2-4 partner.",
+    "conf": "low"
+  },
+  {
+    "id": "red-james-grieve",
+    "name": "Red James Grieve",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Seabrook's orchards, Boreham, near Chelmsford, Essex, England",
+      "year": 1922,
+      "year_note": "c.",
+      "kind": "sport",
+      "parentage": "Sport of James Grieve",
+      "raised_by": "Found in the orchards of W.P. Seabrook"
+    },
+    "history": "A redder bud sport of the Scottish apple James Grieve, found around 1922 in W.P. Seabrook's orchards at Boreham in Essex. A separate German red sport (Erich Neumann's Roter James Grieve, 1953) is sometimes also sold as Red James Grieve.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "James Grieve shape and size, but with a much heavier flush and stripes of red over pale yellow."
+    },
+    "taste": {
+      "summary": "As James Grieve: very juicy, soft-textured flesh with a lively, refreshing acidity when first picked that mellows to a sweeter balance after a week or two.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; sharp at picking, softer and sweeter a little later"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Tree identical to James Grieve: moderate vigour, reliable heavy crops. Fruit bruises very easily, so handle and store gently."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "As James Grieve: group 3, partly self-fertile and a good pollinator for other mid-season apples."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool northern climates: Scotland, northern England and northern Europe, where the parent is valued as a reliable early cropper.",
+      "poor_climates": "In hot summers the soft fruit drops and deteriorates fast; canker is a problem on wet, heavy soils."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": 2,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Canker-prone like James Grieve, particularly on wet ground; fairly resistant to mildew. Fruit bruises easily."
+    },
+    "grow_notes": "Suits colder and northern gardens where Cox fails. Avoid waterlogged soils because of canker, and pick over several passes as fruit ripens unevenly.",
+    "conf": "medium"
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "adams-pearmain",
+    "name": "Adams Pearmain",
+    "aka": ["Adams's Pearmain", "Adam's Pearmain", "Norfolk Pippin", "Hanging Pearmain"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Norfolk or Herefordshire, England (disputed)",
+      "year": 1826,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Brought to the attention of the Horticultural Society in London in 1826 by Robert Adams, who sent it in under the name Norfolk Pippin; its birthplace is argued between Norfolk and Herefordshire, where it was grown as Hanging Pearmain. Marketed as Adams's Pearmain, it became a fixture of Victorian and Edwardian gardens and dessert tables.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Classic tapering pearmain shape; greenish-yellow skin turning golden, with a streaky orange-red flush on the sunny side and patches of russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained cream flesh that is on the dry side rather than juicy, with a sweet, nutty and gently aromatic flavour. Improves after a spell in store and is at its richest in midwinter.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": ["nutty", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; flavour builds after several weeks in store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A rather weak-growing partial tip-bearer, so prune lightly and avoid cutting away all the shoot tips. Inclined to crop more heavily in alternate years. There are reports that it may be partly triploid, which would fit its reputation as a poor pollen donor."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Usually listed in group 3 (some older lists say 2; it flowers a little ahead of Cox at Brogdale). Reported to be a poor pollinator of other varieties. Blossom has a reputation for frost tolerance."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist lowland Britain and comparable mild maritime regions, where it has been grown for two centuries.",
+      "poor_climates": "Hot summers are likely to leave the fruit dull and soft; no record of it doing well in warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally regarded as a healthy variety with good scab resistance; other disease ratings not well recorded."
+    },
+    "grow_notes": "A good keeper for a garden orchard in southern or eastern England. Choose a reasonably vigorous rootstock to compensate for its modest growth, prune with tip-bearing in mind, and plant a group 2-4 diploid nearby for pollination.",
+    "conf": "high"
+  },
+  {
+    "id": "ananas-reinette",
+    "name": "Ananas Reinette",
+    "aka": ["Reinette Ananas", "Ananas Renette", "Ananasrenette"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "NL",
+      "place": "Probably the Netherlands (Low Countries)",
+      "year": 1821,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Believed to have arisen in the Netherlands and recorded in 1821, after which it spread through the Rhineland and much of northern Europe. It has been a useful breeding parent: Freiherr von Berlepsch and Zuccalmaglios Renette both descend from it.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small, slightly barrel-shaped apple of clear golden yellow, freckled with conspicuous russet dots."
+    },
+    "taste": {
+      "summary": "Crisp and juicy with a lively, high-acid bite balanced by sugar, and a distinctive scented note that tasters liken to pineapple. In warm seasons the aroma is strongest; after a dry summer fruits stay small and less perfumed.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["pineapple", "sharp", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan; keeps into February in a good store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and demanding about soil: it needs a fertile, moisture-retentive site, and on poor or droughty ground the tree and fruit both stay small. Spur-bearing and fairly regular."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering diploid; plant with another group 2-4 variety."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sheltered sites in temperate north-west and central Europe (Netherlands, Rhineland, southern England) with fertile soil and steady summer moisture.",
+      "poor_climates": "Dry or hot summers give small, less aromatic fruit; cold wet sites aggravate canker and mildew."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": 4,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Known to be susceptible to powdery mildew and to fruit-tree canker, especially on heavy or wet soils."
+    },
+    "grow_notes": "Give it the best soil you have and a sunny, sheltered spot; a semi-vigorous rootstock helps offset its weak growth. Watch for mildew in spring and cut out canker promptly.",
+    "conf": "high"
+  },
+  {
+    "id": "api",
+    "name": "Api",
+    "aka": ["Lady Apple", "Pomme d'Api", "Petit Api Rouge", "Api Rose"],
+    "uses": ["dessert", "ornamental"],
+    "origin": {
+      "country": "FR",
+      "place": "Brittany, France (traditionally the Forest of Api)",
+      "year": 1628,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old French apple, on record since 1628 and traditionally said to have been found in the Forest of Api in Brittany; the claim that it is the 'Appian' apple of Roman writers is unproven. Long prized as a decorative fruit for Christmas displays, it is still sold in North America as Lady Apple.",
+    "look": {
+      "size": "small",
+      "shape": "flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 0,
+      "description": "Tiny, flattened, slightly ribbed fruit with glossy skin: pale yellow with a bright, clean red cheek."
+    },
+    "taste": {
+      "summary": "Crisp, juicy white flesh with a sweet, gently aromatic flavour; much of the scent sits in the skin. Small enough to eat in a few bites, and some tasters notice an almond-like note after storage.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "A small, upright, spur-bearing tree that is slow to come into bearing and may alternate heavy and light years. The persistent fruit hangs well on the branch."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Generally listed in group 3, though it was among the earlier varieties to flower at Brogdale; pair with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate Europe and the cooler fruit regions of North America (New England, New York, the Pacific Northwest), where it has long been grown for the holiday trade.",
+      "poor_climates": "No specific record of failure, but as an old northern French variety it is unlikely to suit low-chill or very hot climates."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some susceptibility to scab reported; other disease behaviour not well recorded."
+    },
+    "grow_notes": "Worth growing as much for its jewel-like fruit as for eating. Be patient while the tree establishes, thin heavy crops to help it bear every year, and plant a mid-season pollinator nearby.",
+    "conf": "medium"
+  },
+  {
+    "id": "aromatic-russet",
+    "name": "Aromatic Russet",
+    "aka": ["Rook's Nest", "Spice Apple"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1850,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An English russet thought to date from around 1850. The National Apple Register records it with the synonyms Rook's Nest and Spice Apple; the National Fruit Collection holds an accession received from Scott's nursery under the name Aromatic Russet (Scott). Little else of its history is documented.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": null,
+      "blush": "red",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small, somewhat irregular conical fruit almost entirely covered in brown russet, with at most a faint red flush."
+    },
+    "taste": {
+      "summary": "Firm, greenish-white flesh with a sweet, aromatic russet flavour; reported to be sharper and richer than Egremont Russet, sometimes with a lemony edge.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": ["lemon"],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "No reliable growing data found; treat as a typical English russet and prune as a spur-bearer until it shows otherwise."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Listed as a group 3 diploid; any mid-season diploid will pollinate it."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Inferred from its English origin: cool, moist maritime climates like southern and central England.",
+      "poor_climates": "Not documented; hot, dry summers are generally unkind to English russets."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A curiosity for russet enthusiasts. Grow it like Egremont Russet: open sunny site, reasonable loam, and a group 2-4 diploid partner nearby.",
+    "conf": "low"
+  },
+  {
+    "id": "autumn-glow",
+    "name": "Autumn Glow",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "No published record of an apple called Autumn Glow was found in the UK National Fruit Collection database, Orange Pippin or other pomological sources consulted; it is offered by Keepers Nursery as a late-season dessert apple. It should not be confused with Autumn Glory, a name used both for an old Norfolk exhibition apple and for a modern American variety.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Appearance not documented in the sources checked."
+    },
+    "taste": {
+      "summary": "Flavour and texture are not documented in the sources checked.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing information found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": null,
+      "poor_climates": null
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "No independent growing advice available; follow the supplying nursery's guidance on pollination partners and rootstock.",
+    "conf": "low"
+  },
+  {
+    "id": "barnack-orange",
+    "name": "Barnack Orange",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Belvoir Castle, Leicestershire, England",
+      "year": 1904,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Barnack Beauty x Cox's Orange Pippin",
+      "raised_by": "W. H. Divers"
+    },
+    "history": "Raised in 1904 by W. H. Divers at Belvoir Castle by crossing the long-keeping Barnack Beauty with Cox's Orange Pippin. It never became widely grown but is kept in the National Fruit Collection.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": null,
+      "description": "Flattish, somewhat ribbed fruit with a yellow ground striped and flushed red; skin slightly greasy."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse flesh with only a little juice, carrying a good aromatic flavour that shows its Cox parentage.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found. Its parent Barnack Beauty is a tip-bearer, so check the fruiting habit before pruning hard."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Group estimated from Brogdale flowering dates (a few days ahead of Cox); plant with a group 2-4 diploid."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its English origin and Cox parentage: cool, moist temperate climates such as lowland England.",
+      "poor_climates": "Not documented; hot summers would likely spoil colour and texture as with other English late dessert apples."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A collector's variety for English gardens. Grow on a semi-vigorous rootstock in a sunny spot with a mid-season pollinator, and observe how it fruits before settling on a pruning regime.",
+    "conf": "low"
+  },
+  {
+    "id": "beauty-of-hants",
+    "name": "Beauty of Hants",
+    "aka": ["Ofine Seedling"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Bassett, Southampton, Hampshire, England",
+      "year": 1850,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": "Said to be an open-pollinated seedling of Blenheim Orange",
+      "raised_by": "Mrs Eyre Crabbe (in whose garden it arose)"
+    },
+    "history": "Arose before 1850 in the garden of Mrs Eyre Crabbe at Bassett near Southampton. It is reputed to be a seedling of Blenheim Orange and resembles that variety in flavour.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": null,
+      "russet": null,
+      "description": "Large, roundish fruit with a greenish-yellow ground and a dull brownish-red flush."
+    },
+    "taste": {
+      "summary": "Soft, juicy, yellowish flesh with a pleasant flavour that recalls Blenheim Orange, though juicier and less dry.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found. Ploidy is unknown; its supposed parent Blenheim Orange is triploid."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Group estimated from Brogdale flowering dates, which are close to Cox's. Until its ploidy is known, plant two diploid pollinators to be safe."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Hampshire origin: mild, moist southern English conditions.",
+      "poor_climates": "Not documented; likely to give soft, poorly coloured fruit in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A regional heritage apple for southern England. Allow room in case it inherits Blenheim's vigour, and provide mid-season pollinators.",
+    "conf": "low"
+  },
+  {
+    "id": "bellefleur-krasnyi",
+    "name": "Bellefleur Krasnyi",
+    "aka": ["Bellefleur Krasny"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "RU",
+      "place": "Russia",
+      "year": 1914,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Russian variety dated to 1914 in the National Fruit Collection records; the name means 'red Bellefleur'. Its raiser and parentage were not found in the sources checked. It is distinct from the German Roter Bellefleur.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Rounded, medium-to-large fruit almost covered by a mottled red flush over pale cream-yellow; the flesh is tinged pink."
+    },
+    "taste": {
+      "summary": "Sweet, crisp and firm but rather dry, with pinkish flesh.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable growing data found."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Group estimated from Brogdale records, where it flowers early (about a week ahead of Cox); pair with a group 1-3 diploid."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Inferred from its Russian origin: cool continental climates with cold winters and moderate summers.",
+      "poor_climates": "Not documented; mild, low-chill or hot-summer regions are unlikely to suit it."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A rarity from the Russian apple tradition. Its early blossom calls for an early-flowering partner and a site that is not a frost pocket.",
+    "conf": "low"
+  }
+]

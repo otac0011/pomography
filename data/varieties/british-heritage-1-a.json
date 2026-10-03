@@ -1,0 +1,464 @@
+[
+  {
+    "id": "ashmeads-kernel",
+    "name": "Ashmead's Kernel",
+    "aka": ["Ashmead's Seedling", "Dr Ashmead's Kernel"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Gloucester, England",
+      "year": 1700,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Dr Ashmead"
+    },
+    "history": "Grown from seed around 1700 by a Dr Ashmead in Gloucester and long treasured in the Gloucestershire orchards. It earned an RHS First Class Certificate as late as 1981 and is now one of the most widely planted English heritage russets, including in North America.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 3,
+      "description": "Broad, slightly lopsided fruit, greenish-gold under a heavy coat of fawn russet, sometimes with a dull bronze cheek."
+    },
+    "taste": {
+      "summary": "Dense, firm, fairly juicy yellowish flesh with a striking balance of strong sugar and strong acid, a nutty depth and an acid-drop / pear-drop sharpness. Hard and sharp at picking, it mellows and becomes richer after a few weeks in store.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": ["pear-drop", "nutty", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb, after at least a month in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Fairly upright, average vigour; a spur-bearer that is often a shy and slightly erratic cropper, so it rewards a sunny, sheltered spot and a reliable pollinator. One online database lists it as triploid but most UK sources treat it as diploid."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4 and self-sterile; fruit set can be patchy, so plant a dependable group 3-5 diploid partner close by."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool to warm temperate regions with enough summer sun to build sugar; does well in southern England and in many parts of North America, from New England to the Pacific Northwest and Virginia.",
+      "poor_climates": "Cold, wet, sunless sites give light crops of very sharp fruit; very hot, humid lowlands are less suitable."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": 2,
+      "bitter_pit": 3,
+      "other": "Generally a fairly healthy tree; main drawback is light, irregular cropping. Some susceptibility to bitter pit reported."
+    },
+    "grow_notes": "Give it the warmest, sunniest position available and good soil so the fruit sweetens properly. Expect a few years before decent crops; plant with a reliable mid-season pollinator and store the fruit before eating.",
+    "conf": "high"
+  },
+  {
+    "id": "allington-pippin",
+    "name": "Allington Pippin",
+    "aka": ["South Lincoln Beauty", "Brown's South Lincoln Beauty"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Lincolnshire, England",
+      "year": 1884,
+      "year_note": "before",
+      "kind": "bred",
+      "parentage": "King of the Pippins x Cox's Orange Pippin",
+      "raised_by": "Thomas Laxton"
+    },
+    "history": "Raised by Thomas Laxton in Lincolnshire and first shown as 'Brown's South Lincoln Beauty', winning an RHS First Class Certificate in 1894. The Maidstone nursery Bunyard renamed it after the village of Allington in Kent and introduced it in 1896; it was once grown commercially as a dessert apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 1,
+      "description": "Neat, flat-ended conical apple, yellow with a modest red flush broken into stripes and a little russet."
+    },
+    "taste": {
+      "summary": "Crisp, yellowish flesh that is quite sharp at picking; after some weeks in store it develops a strong, aromatic, almost pineapple-like flavour with a bittersweet edge. Holds its shape when cooked.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": ["pineapple", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Dec, once mellowed in store; usable for cooking from picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing and generally a good cropper, though crops can swing from year to year; thin heavy sets."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Flowers in group 3 (some lists say 4); partly self-fertile but crops better with a mid-season partner."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, temperate maritime climates such as lowland England, including the cooler east and north.",
+      "poor_climates": "Hot summers would likely soften the fruit and dull the flush; no record of success in warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Average overall disease resistance with some tolerance of scab; fruit reported to be prone to brown rot."
+    },
+    "grow_notes": "A dual-purpose garden apple that copes with ordinary English conditions. Thin in heavy years to even out cropping, and store the fruit a few weeks before eating fresh to let the flavour develop.",
+    "conf": "medium"
+  },
+  {
+    "id": "barnack-beauty",
+    "name": "Barnack Beauty",
+    "aka": ["Barnack"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Barnack, near Stamford, Northamptonshire (now Cambridgeshire), England",
+      "year": 1840,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Arose in the village of Barnack, near Stamford, around 1840 and was put on the market about 1870 by Brown's nursery of Stamford. It won an RHS Award of Merit in 1899 and a First Class Certificate in 1909, and is a parent of Barnack Orange.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Handsome golden-yellow apple, about half covered in an orange-red flush with darker stripes."
+    },
+    "taste": {
+      "summary": "Firm, crisp, juicy creamy-white flesh with a sweet but tangy balance; a solid, refreshing late keeper rather than a highly perfumed one.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after storage"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Upright tree of average vigour that crops well and regularly; largely tip-bearing, so prune lightly and renew rather than spur back hard."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4, needs a partner flowering in groups 3-5."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate lowland Britain; notably tolerant of thin chalky and limestone soils.",
+      "poor_climates": "Untested in hot or continental climates; short, cool seasons may not ripen this late apple fully."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to be very resistant to scab with some mildew resistance."
+    },
+    "grow_notes": "A good choice for alkaline, chalky ground where many apples struggle. Prune as a tip-bearer and pick in October for winter eating.",
+    "conf": "medium"
+  },
+  {
+    "id": "court-pendu-plat",
+    "name": "Court Pendu Plat",
+    "aka": ["Wise Apple", "Court Pendu", "Garnon's Apple", "Wollaton Pippin", "Court-Pendu Plat"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "FR",
+      "place": "continental Europe, probably France",
+      "year": 1613,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A very old European apple first described around 1613 and thought to be considerably older; it spread across Europe under dozens of names. In England it was nicknamed the 'Wise Apple' because it blossoms so late that it usually escapes spring frosts.",
+    "look": {
+      "size": "medium",
+      "shape": "flat",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Distinctly squat, flat apple with a very short stalk, greenish-yellow with a dull orange-red flush and some russet."
+    },
+    "taste": {
+      "summary": "Very firm, fine-grained flesh that is rather dry rather than juicy, but sweet, rich and perfumed, with a fruity sharpness that becomes more complex in store through midwinter.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": ["perfumed", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderate vigour, partly tip-bearing and a regular cropper; prune lightly. Its value is very late blossom on frost-prone sites."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "One of the latest-flowering apples (group 6, some tables say 7); needs another late bloomer such as Edward VII or Crawley Beauty."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate climates with late spring frosts, from Britain across central Europe; its late bloom suits frost pockets.",
+      "poor_climates": "Very short-season areas may not ripen this mid-October apple; no strong record from hot, humid regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy, with good resistance to scab and mildew on the fruit; little else recorded."
+    },
+    "grow_notes": "Ideal for cold, frosty gardens where early blossom is often lost. Plant with another late-flowering variety and store the fruit until Christmas for the best flavour.",
+    "conf": "high"
+  },
+  {
+    "id": "coxs-pomona",
+    "name": "Cox's Pomona",
+    "aka": ["Pomona"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Colnbrook Lawn, near Slough, Buckinghamshire, England",
+      "year": 1825,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Ribston Pippin (pollen parent unknown); thought to be a sister of Cox's Orange Pippin",
+      "raised_by": "Richard Cox"
+    },
+    "history": "Raised around 1825 by Richard Cox at Colnbrook Lawn from the same batch of Ribston Pippin seed that is believed to have given Cox's Orange Pippin. It was introduced by Smale's Colnbrook nursery and used as a large dual-purpose apple.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Big, broad, ribbed fruit with a greasy pale green-yellow skin streaked and mottled with red."
+    },
+    "taste": {
+      "summary": "Soft, rather coarse and juicy cream flesh with a sweet, mildly acid flavour; pleasant raw early in its short season and good for cooking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little modern growing information; treat as an average old English apple."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group inferred from Brogdale flowering records, which show it blooming alongside Cox's Orange Pippin; use a mid-season partner."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist southern England, where it originated.",
+      "poor_climates": "No evidence from warm or harsh continental climates; soft-fleshed early-autumn fruit is likely to suffer in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "Mainly a collector's and heritage-orchard variety today. Plant in a sunny spot with a group 3 partner and use the fruit within a couple of months of picking.",
+    "conf": "low"
+  },
+  {
+    "id": "darcy-spice",
+    "name": "D'Arcy Spice",
+    "aka": ["Baddow Pippin", "Essex Spice", "Spring Ribston"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "The Hall, Tolleshunt D'Arcy, Essex, England",
+      "year": 1785,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Found growing in the garden of The Hall at Tolleshunt D'Arcy, Essex, around 1785, and possibly older. The Broomfield nurseryman John Harris put it on sale in 1848 as 'Baddow Pippin'; it remains a symbol of Essex apple growing.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 2,
+      "description": "Uneven, often ribbed fruit, green ripening to gold with a dull orange-red cheek and patches of brownish russet."
+    },
+    "taste": {
+      "summary": "Hard and sharp when picked; after a few months in store the firm, fine-textured flesh turns sweeter and develops its famous warm, spicy, nutmeg-like aroma. Best in a warm, dry year.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": ["spice", "sharp", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Jan-Apr, after long storage"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Weak-growing and slow to come into bearing; crops are often light and vary from year to year. Bears on spurs and tips, so prune lightly."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4; plant with a group 3-5 diploid. Blossom has good frost tolerance."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Jan-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Dry, sunny lowlands such as East Anglia and south-east England; tolerates light, sandy and even salt-touched coastal soils.",
+      "poor_climates": "Wet, dull western and northern areas, where the very late fruit stays sharp and lacks spice and the leaves scab."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": 1,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to mildew; fruit fairly scab-resistant but leaves scab in wet seasons. Main weaknesses are slow, light cropping."
+    },
+    "grow_notes": "Needs a warm, sheltered, sunny site and a long season to ripen its very late fruit. Leave on the tree as long as possible, then store until after Christmas before eating.",
+    "conf": "high"
+  }
+]

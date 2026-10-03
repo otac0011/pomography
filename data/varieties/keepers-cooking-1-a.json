@@ -1,0 +1,464 @@
+[
+  {
+    "id": "annie-elizabeth",
+    "name": "Annie Elizabeth",
+    "aka": ["Annie Elisabeth"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Knighton, Leicester, England",
+      "year": 1857,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Believed to be a seedling of Blenheim Orange; pollen parent unknown",
+      "raised_by": "Samuel Greatorex"
+    },
+    "history": "Grown from seed by Samuel Greatorex at Knighton on the edge of Leicester around 1857 and named in memory of his infant daughter. The Leicester nursery Harrison & Sons distributed it, and the RHS awarded it a First Class Certificate in 1868; it has remained a favourite late cooker in the Midlands and the north.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Big, broad-based fruit with noticeable ribs, pale yellow on the shaded side and splashed and streaked bright crimson where the sun reaches it."
+    },
+    "taste": {
+      "summary": "White, firm yet tender flesh with a brisk, lively acidity that softens over the winter into a pleasant sweet-sharp balance. Slices keep their shape when cooked, which makes it a good baking and tart apple, and by late winter it is mild enough to eat raw.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; cooks well from picking, better raw after Christmas"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Strong, upright grower that can take a few years to settle into cropping, after which it bears regularly. Blossom is fairly tolerant of late frost, which helps in colder districts."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowers mid-late (group 4; at Brogdale a few days after Cox). Pair with a diploid in groups 3-5."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist temperate areas; long valued in the English Midlands and northern Britain for its hardiness, late frost-resistant blossom and long keeping.",
+      "poor_climates": "Hot-summer regions are untested and likely to give soft fruit that keeps poorly and loses its acidity."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally reported as a healthy tree with some resistance to scab, canker and mildew; few specific weaknesses recorded."
+    },
+    "grow_notes": "A good choice for a colder or wetter garden where a late-keeping cooker is wanted. Give it room or a semi-dwarfing stock since it grows tall, be patient for the first crops, and store the fruit somewhere cool and frost-free.",
+    "conf": "medium"
+  },
+  {
+    "id": "arthur-turner",
+    "name": "Arthur Turner",
+    "aka": ["Turner's Prolific"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Slough, Buckinghamshire, England",
+      "year": 1912,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Charles Turner's nursery, Slough"
+    },
+    "history": "Raised at the Charles Turner nursery in Slough (the firm that introduced Cox's Orange Pippin) and shown to the RHS in 1912 as 'Turner's Prolific', winning an Award of Merit. Renamed the following year and released in 1915, it later received an RHS Award of Garden Merit in 1945 for its unusually showy blossom.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, broad, slightly ribbed fruit, greenish-yellow with a soft orange-brown flush on the sunny side and a rather tough skin."
+    },
+    "taste": {
+      "summary": "A medium-sharp cooker with a touch of sweetness, so it needs little sugar. The white flesh cooks to a pale, creamy purée and is a classic for baking whole; cut flesh browns quickly.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Aug-Oct; can be picked for cooking from August before full size"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, upright tree that crops regularly and well. The large deep-pink blossom is ornamental in its own right."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers early in group 3 (several days before Cox at Brogdale). Needs a diploid partner in groups 2-4."
+    },
+    "season": {
+      "harvest": "late Aug-late Sep",
+      "eating": "Aug-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate gardens, including northern England and Scotland, where it is a dependable early cooker.",
+      "poor_climates": "Hot, dry summers are likely to shorten its already brief keeping life and soften the fruit; little evidence from warm regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Usually described as disease-resistant, notably to scab; no major weakness widely reported."
+    },
+    "grow_notes": "One of the easier cookers for a beginner or a colder site. Thin heavy crops for bigger fruit, use the apples within a few weeks of picking, and plant where the spring blossom can be enjoyed.",
+    "conf": "high"
+  },
+  {
+    "id": "beauty-of-kent",
+    "name": "Beauty of Kent",
+    "aka": ["Kent Beauty", "Kentish Beauty", "Beauté de Kent"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England, probably Kent",
+      "year": 1820,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An English cooker thought to have arisen in Kent and in circulation by about 1820. Victorian pomologist Robert Hogg rated it among the most magnificent apples of its day for its size and colour, and it received an RHS Award of Merit in 1901.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broad-based, strongly ribbed fruit, deep yellow heavily washed and streaked red on the sunny side, with russet lining the stalk cavity."
+    },
+    "taste": {
+      "summary": "Tender, rather coarse-grained flesh that is very juicy, with a gentle sub-acid flavour that is pleasant but not strong. Cooks readily into a soft, juicy fill.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Oct-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Strong grower that makes a large tree and bears well. Historically noted as prone to canker on dwarfing stocks and on damp, heavy soils."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Bramley and slightly ahead of Cox at Brogdale; treat as group 3."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern English conditions on free-draining soil, where its size and colour develop fully.",
+      "poor_climates": "Wet, heavy ground encourages canker; hot climates are untested and likely to give soft fruit."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Canker is the recorded weakness, worst on dwarfing rootstocks and wet, heavy soils."
+    },
+    "grow_notes": "Plant on a vigorous rootstock in well-drained ground rather than a dwarfing stock on clay. Allow space for a large tree and cut out cankered wood promptly.",
+    "conf": "medium"
+  },
+  {
+    "id": "bountiful",
+    "name": "Bountiful",
+    "aka": [],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1964,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Reported as a Cox's Orange Pippin seedling, possibly crossed with Lane's Prince Albert; not firmly documented",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "Raised at East Malling Research Station in Kent in 1964 and released later as a compact, mildew-resistant cooking apple for gardens. It is one of the few British cookers bred in the second half of the 20th century.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "green",
+      "blush": "orange-red",
+      "blush_cover": 15,
+      "stripes": null,
+      "russet": 0,
+      "description": "Large, smooth, evenly shaped green apple, sometimes with a light reddish flush where exposed to the sun."
+    },
+    "taste": {
+      "summary": "Fairly sweet for a cooker with moderate sharpness, so it needs little added sugar; slices hold their shape when cooked. Raw it is pleasant but plain, gaining some sweetness if left on the tree into October.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Compact, modest tree that crops heavily and regularly; well suited to small gardens and trained forms. Thin the fruitlets in heavy years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers early (about a week before Cox at Brogdale); usually listed in group 3, sometimes group 2."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool temperate gardens such as lowland Britain, where its mildew resistance is a real advantage.",
+      "poor_climates": "No record from hot climates; expect soft fruit and short keeping in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Bred for resistance to powdery mildew. Capsid bug can cause cosmetic marks on the fruit."
+    },
+    "grow_notes": "A low-maintenance cooker for a small plot; on a dwarfing stock it suits cordons or a patio-sized tree. Needs a group 2-4 pollinator nearby.",
+    "conf": "medium"
+  },
+  {
+    "id": "bow-hill-pippin",
+    "name": "Bow Hill Pippin",
+    "aka": ["Bowhill Pippin", "Bow Hill"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Bow Hill, near Maidstone, Kent, England",
+      "year": 1893,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "A. S. White"
+    },
+    "history": "Raised by A. S. White at Bow Hill near Maidstone and introduced around 1893 by George Bunyard's Maidstone nursery, receiving an RHS Award of Merit the same year. The National Apple Register classes it as a dessert apple, although some nurseries now offer it among cookers.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium-sized, somewhat flattened yellow apple lightly streaked with orange."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse but juicy yellowish flesh with a sweet, aromatic flavour. Little detailed modern tasting information is available.",
+      "sweet": 3,
+      "acid": null,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growing habit not recorded in sources checked."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers just ahead of Cox at Brogdale, so group 3; self-fertility unrecorded, so plant with a pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "South-east England, where it was raised; presumably similar cool maritime climates.",
+      "poor_climates": "No performance records outside southern England; hot summers untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A Kentish heritage variety for collectors. Grow as a typical English apple on reasonable, well-drained soil with a group 2-4 partner nearby.",
+    "conf": "low"
+  },
+  {
+    "id": "bramley-20",
+    "name": "Bramley 20",
+    "aka": ["Bramley Clone 20"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": null,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Selected less-vigorous clone of Bramley's Seedling",
+      "raised_by": null
+    },
+    "history": "A clone of Bramley's Seedling selected in the second half of the 20th century because it grows less strongly than the standard tree, making a Bramley more manageable in gardens. Fruit and cooking quality match ordinary Bramley; where and by whom it was selected is poorly documented.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 1,
+      "description": "Identical to Bramley's Seedling: large, flattish, green ripening greenish-yellow with broad red-brown stripes on the sunny side."
+    },
+    "taste": {
+      "summary": "As Bramley's Seedling: very sharp, cooking down to a pale golden, fluffy purée with a strong apple tang.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "triploid",
+      "notes": "Noticeably less vigorous than standard Bramley and reported to start cropping sooner, but still a sizeable triploid tree. Prune as for Bramley, leaving some tip-bearing shoots."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid like all Bramleys: its pollen is poor, so it needs a diploid partner in groups 2-4, ideally with a third variety to pollinate that partner."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist maritime climates like England and Northern Ireland, as for Bramley's Seedling.",
+      "poor_climates": "Hot climates where the fruit softens, loses acidity and suffers bitter pit; spring frost can damage blossom."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Assumed to share Bramley's susceptibilities, chiefly bitter pit in store and frost-tender blossom."
+    },
+    "grow_notes": "Choose this clone where a full Bramley would be too big. Plant two compatible diploid pollinators nearby, feed calcium-deficient soils to limit bitter pit, and avoid frost pockets.",
+    "conf": "medium"
+  }
+]

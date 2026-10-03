@@ -1,0 +1,435 @@
+[
+  {
+    "id": "grimes-golden",
+    "name": "Grimes Golden",
+    "aka": [
+      "Grimes Golden Pippin",
+      "Grimes"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Brooke County, West Virginia (then Virginia)",
+      "year": 1804,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Found on the farm of Thomas Grimes"
+    },
+    "history": "A chance seedling on Thomas Grimes's farm in the northern panhandle of West Virginia, propagated from the early 1800s. It is widely accepted as a parent of Golden Delicious and remains a respected dessert and cider apple in the Appalachian region.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Clear golden-yellow apple with conspicuous pale lenticels and light russet flecks, on a long stalk."
+    },
+    "taste": {
+      "summary": "Firm, crisp, fine-grained yellow-white flesh with a rich, sweet and noticeably spicy flavour, fuller than its offspring Golden Delicious, with a clean, dry finish; one taster also notes a slight pear flavour. Keeps into February; good fresh and in pies, sauce, apple butter and cider.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "spice",
+        "sweet",
+        "pear"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing fairly young. Prone to collar rot, so avoid wet, heavy soils and plant the graft union well above ground."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Reported as partly self-fertile, but crops better with a partner in groups 2-4; a good pollen donor."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer Appalachian and mid-Atlantic districts with long autumns.",
+      "poor_climates": "Wet, heavy soils (collar rot) and short, cool seasons that do not develop its full sweetness."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Collar rot (Phytophthora) is the main weakness; otherwise moderately disease-resistant."
+    },
+    "grow_notes": "Choose a well-drained site and avoid waterlogged ground because of collar rot. Pick when the skin turns from green to gold; it shrivels if left too long in a dry store.",
+    "conf": "medium"
+  },
+  {
+    "id": "black-twig",
+    "name": "Black Twig",
+    "aka": [
+      "Paragon"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Near Fayetteville, Lincoln County, Tennessee",
+      "year": 1830,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Often said to be a Winesap seedling; unconfirmed",
+      "raised_by": null
+    },
+    "history": "A southern keeping apple from middle Tennessee, known by the early-to-mid 19th century and widely grown in Virginia and the upper South. Many authorities treat Black Twig and Paragon as the same apple; it is distinct from 'Mammoth Black Twig' (the Arkansas variety), with which it is often confused. The name refers to its dark young shoots.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, roundish fruit, greenish-yellow largely covered with a dull red flush."
+    },
+    "taste": {
+      "summary": "Very firm, crisp flesh that is tart and spicy at harvest, rather like a sharper Winesap; it mellows and becomes richer after a couple of months in store. Valued for cider and cooking as well as winter eating.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "spice",
+        "wine"
+      ],
+      "cider_class": "sharp",
+      "best_eaten": "Jan-Mar, after storage"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous and reputedly drought-tolerant. Like Winesap it is regarded as a poor pollen producer."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Poor pollen; plant at least one good pollinating variety nearby. UK flowering group not recorded."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Jan-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Hot, long-season upper South: Tennessee, Virginia and the Carolinas.",
+      "poor_climates": "Cool, short seasons are unlikely to ripen this very late apple."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well documented."
+    },
+    "grow_notes": "A late, long-keeping apple for warm regions. Provide a reliable pollinator and leave the fruit to hang late, then store it until mid-winter for the best flavour.",
+    "conf": "low"
+  },
+  {
+    "id": "gravenstein",
+    "name": "Gravenstein",
+    "aka": [
+      "Gravensteiner",
+      "Grafensteiner",
+      "Gråsten",
+      "Gravensten"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "DK",
+      "place": "Gråsten (Gravenstein), South Jutland; possibly brought there from Italy or Germany",
+      "year": 1669,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Grown at Gråsten castle in Schleswig by the late 1600s, though it may have come from Italy or Germany; Denmark named it its national apple in 2005. Russian settlers took it to Fort Ross in California in the early 1800s and it later became the signature apple of Sonoma County and of Nova Scotia's Annapolis Valley.",
+    "look": {
+      "size": "large",
+      "shape": "irregular",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, lumpy, somewhat flattened fruit, yellow-green streaked and splashed with orange-red; a fully red sport also exists."
+    },
+    "taste": {
+      "summary": "Juicy, crisp and highly aromatic when fresh, with a lively sweet-sharp balance; one of the most perfumed early apples. It softens within days of picking and makes outstanding sauce, pies and juice.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "perfumed",
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Makes a very large tree with thick dark leaves; slow to start bearing and inclined to biennial cropping. Fruit ripens unevenly and drops, so several pickings are needed."
+    },
+    "pollination": {
+      "flower_group": 1,
+      "self_fertile": "no",
+      "notes": "Triploid and a poor pollen donor; very early flowering (group 1, some lists group 2), so it needs two early-flowering diploid partners and is at risk from spring frost."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist maritime or coastal climates: Denmark and northern Germany, coastal Sonoma County, Nova Scotia, the Pacific Northwest.",
+      "poor_climates": "Hot, dry interior summers and very harsh continental winters; early bloom suffers in frost-prone sites."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 5,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Very susceptible to fire blight; early blossom is frost-prone, and fruit keeps only a week or two."
+    },
+    "grow_notes": "Give it plenty of room, deep moist loam and a frost-free site, and plant two early-flowering pollinators. Pick over several passes and use the fruit quickly.",
+    "conf": "high"
+  },
+  {
+    "id": "red-astrachan",
+    "name": "Red Astrachan",
+    "aka": [
+      "Red Astrakhan",
+      "Astrachan Rouge"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": "Russia (name refers to Astrakhan); reached Sweden from Russia",
+      "year": 1780,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Russian summer apple that was brought to Sweden around 1780, introduced to England in 1816 and to the United States in 1835. Its hardiness and early ripening made it one of the most widely planted summer apples across North America in the 19th century, from New England to the South.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, flattish fruit washed and streaked deep crimson over pale green-yellow, with a bluish waxy bloom."
+    },
+    "taste": {
+      "summary": "Juicy, crisp white flesh, often tinged red, with a brisk tart flavour and some aroma. Good eaten straight from the tree but goes mealy within days; best known as a sauce and pie apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug, within a few days of picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Hardy, vigorous and productive. Fruit ripens unevenly over a few weeks and falls readily, so pick in several rounds."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Early flowering; plant with another early-to-mid season diploid. UK flowering group not confirmed."
+    },
+    "season": {
+      "harvest": "late Jul-early Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 3,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold-winter continental climates (Russia, Scandinavia, northern US) and, as an early apple, widely across the eastern US including the South.",
+      "poor_climates": "Mild, very wet climates encourage scab; low-chill subtropical areas are unsuitable."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and fire blight, and to summer fruit rots; blossom can be frosted."
+    },
+    "grow_notes": "A tough, hardy tree for cold sites. Pick over several passes as the fruit colours and use it at once for sauce or pies.",
+    "conf": "medium"
+  },
+  {
+    "id": "lodi",
+    "name": "Lodi",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1924,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Montgomery x Yellow Transparent",
+      "raised_by": "New York State Agricultural Experiment Station"
+    },
+    "history": "Bred at the Geneva station in New York and released in 1924 as an improved Yellow Transparent: larger, firmer and keeping a little longer. It is still grown as an early sauce and pie apple, especially in the northern US.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, smooth, pale green to greenish-yellow apple with no blush."
+    },
+    "taste": {
+      "summary": "Juicy, crisp-tender white flesh with a sharp, tangy flavour. Turns soft quickly but cooks down to an excellent smooth sauce.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug, within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Bears young and heavily but tends to alternate; thin hard in heavy years. Ploidy unconfirmed (one source lists it as triploid)."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; reported as a poor pollinator, so pair it with another early-flowering variety."
+    },
+    "season": {
+      "harvest": "late Jul-early Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold northern climates (northern US, Canada, upper Midwest) where an early, hardy cooking apple is wanted.",
+      "poor_climates": "Hot summers make the fruit soften and drop even faster; low-chill regions unsuitable."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Highly susceptible to cedar-apple rust; overall disease resistance reported as poor."
+    },
+    "grow_notes": "A hardy early cooker for cold gardens. Thin fruit to reduce biennial bearing, keep it away from junipers in North America, and use the crop promptly.",
+    "conf": "medium"
+  }
+]

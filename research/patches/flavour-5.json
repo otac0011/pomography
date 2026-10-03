@@ -1,0 +1,59 @@
+{
+ "_note": "flavour verification batch 5",
+ "keswick-codlin": { "taste": {
+   "summary": "A sharp, acidic early codlin. The National Fruit Collection describes the flesh as soft, coarse and fairly dry, but growers eating it fresh off the tree report a crisp, eye-watering snap and plenty of juice. It collapses to a pale puree when cooked, makes good jelly, and keeps only about a week." } },
+ "kidds-orange-red": { "taste": {
+   "tags": ["sweet", "honey", "perfumed", "wine"],
+   "crisp": 3,
+   "summary": "Dense, firm cream flesh that bites cleanly and keeps releasing juice, with a honeyed sweetness richer than Cox and an aromatic depth likened to a sweet dessert wine with a lively finish. Firm and slightly chewy rather than crunchy; best eaten before the New Year." } },
+ "king-david": { "taste": {
+   "tags": ["spice", "wine", "sharp", "grape"],
+   "summary": "Firm, rather coarse yellowish flesh with an intense sweet-tart, spicy, Winesap-like vinous flavour; individual tasters pick out a heady Muscat-grape finish and even a caramel note. Sweetens somewhat in store and keeps a month or two. Good fresh, cooked or in cider, where it adds a soft astringency." } },
+ "knobby-russet": { "taste": {
+   "tags": ["sweet"],
+   "sweet": 3,
+   "summary": "A warty, potato-like russet with a sweet flavour. Descriptions of the flesh disagree: Wikipedia calls it soft and creamy, while other accounts find it firm, rather dry and fairly strongly flavoured, more a curiosity than a juicy dessert apple. In season from October to about March." } },
+ "lady-henniker": { "taste": {
+   "tags": ["sharp", "sweet", "perfumed"],
+   "acid": 4 } },
+ "lady-williams": { "taste": {
+   "tags": ["sharp", "sweet"] } },
+ "laxtons-superb": { "taste": {
+   "summary": "Dense, sweet, very 'appley' cream flesh with a hint of Cox aroma but less acidity and complexity. Sources disagree on texture: Orange Pippin finds it firm rather than crisp and not very juicy, while growers and older descriptions call it very juicy, so season and ripeness seem to matter. Keeps one to two months." } },
+ "limbertwig": { "taste": {
+   "tags": ["perfumed"] } },
+ "lobo": { "taste": {
+   "summary": "White, juicy McIntosh-type flesh, sweeter and less acid than McIntosh, with a gently vinous character; some tasters find strawberry and caramel hints. Accounts of texture differ: some growers praise its satisfying crunch and say it keeps late, while others find it softens and turns mealy within a few weeks. Cooks well in pies and sauce." } },
+ "lord-hindlip": { "taste": {
+   "summary": "Firm, very fine-grained, juicy white flesh with a balanced sweet-sharp taste and a hint of the old Victorian aromatic richness. Eaten in October it can taste muted and watery; the flavour builds in store, peaking after the New Year and lasting into spring. Holds its shape when cooked." } },
+ "magnum-bonum": { "taste": {
+   "tags": ["perfumed", "sweet", "sharp"] } },
+ "margil": { "taste": {
+   "crisp": 4,
+   "juicy": 3,
+   "summary": "Small, russet-flushed apple with a strong, clean, intensely aromatic Cox-style flavour that is sweet and well balanced; some tasters find a pineapple note. Older accounts call the flesh firm and rather dry, but modern growers report it crisp, juicy and never woolly. Keeps one to two months." } },
+ "mcintosh-red": { "taste": {
+   "tags": ["wine", "perfumed", "grape", "sweet", "sharp"],
+   "summary": "Bright white, very juicy flesh that is crunchy when fresh but soon softens, with a simple sweet flavour, refreshing acidity and the vinous, perfumed note likened to wild grapes that defines the McIntosh family. The vinous character fades within a few weeks of storage and the flesh can go mealy; it collapses to a smooth sauce when cooked." } },
+ "melrose": { "taste": {
+   "tags": ["sweet", "sharp", "pineapple"],
+   "summary": "Firm, rather coarse but juicy cream flesh with a Jonathan-like sweet-sharp balance, milder than Jonathan; some tasters notice pineapple. Plain when first picked and then best in pies, it develops a fuller, fruity aroma after two or three months in store, from around Christmas." } },
+ "meridian": { "taste": {
+   "tags": ["lemon", "melon", "sweet", "sharp"],
+   "summary": "Crisp and exceptionally juicy, with a delicate, well-balanced sweet-sharp flavour in the Cox mould but with less depth; tasters pick out hints of lemon and melon. Best within two or three weeks of picking." } },
+ "merton-russet": { "taste": {
+   "tags": ["sweet", "spice"],
+   "aroma": 4,
+   "crisp": 5,
+   "juicy": 4,
+   "summary": "Small golden russet from a Sturmer Pippin x Cox cross, with very crisp, juicy, deep-yellow flesh and a complex sweet, spicy flavour. A late apple that holds its quality into the winter." } },
+ "millers-seedling": { "taste": {
+   "tags": ["sweet", "sharp", "perfumed"],
+   "aroma": 3,
+   "summary": "White, very juicy flesh, crisp but light when first picked and soon softening, with a sweet, refreshingly tart and fragrant flavour. It bruises at the slightest knock and goes waxy within about a week, so eat it straight from the tree." } },
+ "newton-wonder": { "taste": {
+   "tags": ["sharp", "sweet"],
+   "acid": 4,
+   "juicy": 4,
+   "summary": "A large cooker with sharp, acidic flesh that is crisp and very juicy at picking, though a little sweeter than Bramley; it cooks to a puree needing little sugar. After a few months in store, by about Christmas, it softens and mellows into a pleasant sweet-sharp eating apple." } }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "huon",
+    "summary": "Cool, maritime climate in southern Tasmania with reliable rainfall, mild summers and frosty but not severe winters. Long, gentle autumns suit slow ripening and good flavour, while wet springs bring disease.",
+    "apple_culture": "The Huon Valley is the historic heart of Tasmania's 'Apple Isle', where orchards planted from the 1850s grew into a huge export trade to Britain. Many old varieties survive here, a cider revival centred on Willie Smith's at Grove has taken off, and the valley holds a mid-winter wassail festival.",
+    "local_varieties": ["Geeveston Fanny", "Democrat", "Sturmer Pippin", "Crofton", "Cox's Orange Pippin", "Pink Lady (Cripps Pink)"],
+    "pests_diseases": "Black spot (scab) is the main disease in wet springs, and codling moth, light brown apple moth and woolly aphid are the usual pests. Australia is free of fire blight, and Tasmania's strict quarantine keeps fruit flies out.",
+    "tips": "Plant scab-resistant varieties or be ready for a spring spray programme in wet years. Heritage Tasmanian and English varieties do well here, and the cool climate suits cider apples too.",
+    "confidence": "high"
+  },
+  {
+    "id": "goulburn",
+    "summary": "Hot, dry inland plain on the Goulburn River: summers are long and harsh, winters mild with only moderate chilling. Irrigation from the Murray-Goulburn system makes fruit growing possible, and heat and sunburn are constant concerns.",
+    "apple_culture": "The Goulburn Valley around Shepparton is the 'Fruit Bowl of Australia', best known for pears and canning fruit but also a big apple producer. Orchards are increasingly netted against hail, birds and sun.",
+    "local_varieties": ["Pink Lady (Cripps Pink)", "Granny Smith", "Royal Gala", "Fuji", "Red Delicious"],
+    "pests_diseases": "Queensland fruit fly is established and requires active management, while codling moth and light brown apple moth are long-standing pests. Sunburn on exposed fruit is a major source of loss.",
+    "tips": "Net trees against fruit fly, birds and sunburn, and water deeply and regularly. Varieties that tolerate heat and mild winters, such as Pink Lady and Granny Smith, do best.",
+    "confidence": "medium"
+  },
+  {
+    "id": "batlow",
+    "summary": "Upland foothill country near the Snowy Mountains with cold, frosty winters that give good chilling, and warm sunny summers with cool nights that colour fruit well. Spring frost and hail are the main risks, and bushfire is a real threat in dry years.",
+    "apple_culture": "Batlow is one of Australia's best-known apple towns, with a long-standing growers' cooperative brand and a local cider maker. The 2019-20 Black Summer bushfires came right to the edge of town and damaged orchards and packing sheds.",
+    "local_varieties": ["Granny Smith", "Red Delicious", "Pink Lady (Cripps Pink)", "Royal Gala", "Fuji"],
+    "pests_diseases": "Black spot (scab) in wet springs, codling moth and light brown apple moth are the main problems. Hail and late frost cause sudden crop losses.",
+    "tips": "Plant on slopes for cold air drainage, and keep a scab spray plan for wet springs. Keep the area around trees clear for fire safety and mulch to hold moisture through dry summers.",
+    "confidence": "medium"
+  },
+  {
+    "id": "orange-nsw",
+    "summary": "Central Tablelands climate on the slopes of Mount Canobolas, with cold, frosty winters, warm summers and fertile volcanic soils. Elevation gives good chilling and colour, but hailstorms and late frosts are frequent.",
+    "apple_culture": "Orange is a major New South Wales apple and cherry district with many family orchards. Much of the industry has been reshaped by hail netting and newer high-density plantings.",
+    "local_varieties": ["Pink Lady (Cripps Pink)", "Royal Gala", "Granny Smith", "Fuji", "Red Delicious"],
+    "pests_diseases": "Hail is the biggest risk to the crop, and black spot (scab) appears in wet springs. Codling moth and light brown apple moth are the main insect pests.",
+    "tips": "Netting is worthwhile to protect against hail and birds. Choose later-flowering varieties and avoid frost-prone low spots.",
+    "confidence": "medium"
+  },
+  {
+    "id": "manjimup",
+    "summary": "Cool, Mediterranean-type climate in Western Australia's south-west, with wet winters, mild summers and good soils in former karri forest country. Winters are mild, so chilling is moderate, but the region is the coolest major orchard area in the west.",
+    "apple_culture": "The Manjimup and Donnybrook area is Western Australia's main apple region, and the state has a remarkable breeding record: Pink Lady and Sundowner were bred in WA, and their parent Lady Williams came from a Donnybrook orchard. The newer apple sold as Bravo is another product of the state's breeding programme.",
+    "local_varieties": ["Pink Lady (Cripps Pink)", "Sundowner (Cripps Red)", "Lady Williams", "Bravo (ANABP 01)", "Granny Smith", "Royal Gala"],
+    "pests_diseases": "Western Australia is free of codling moth thanks to strict quarantine, which makes life easier for growers. Mediterranean fruit fly, light brown apple moth and woolly aphid are the main pests, and powdery mildew is common.",
+    "tips": "Respect WA's quarantine rules on bringing fruit and plants in from other states. Late varieties like Pink Lady suit the long, mild autumns here, but protect them from fruit fly.",
+    "confidence": "high"
+  },
+  {
+    "id": "granite-belt",
+    "summary": "A high granite plateau near Stanthorpe that is cold enough in winter for apples despite being in Queensland, with summer rain and storms. Frost is common, and summer hail is the biggest crop risk.",
+    "apple_culture": "The Granite Belt is Queensland's only real apple district, and the Stanthorpe area is known for apples, stone fruit and wine. Netting against hail has become common in local orchards.",
+    "local_varieties": ["Granny Smith", "Red Delicious", "Pink Lady (Cripps Pink)", "Royal Gala", "Fuji"],
+    "pests_diseases": "Queensland fruit fly is a serious problem, and hail and summer storms damage fruit. Codling moth and black spot (scab) in humid spells are also common.",
+    "tips": "Net trees against hail and fruit fly, and choose late-flowering varieties to dodge spring frost. Good air movement helps reduce disease in the humid summers.",
+    "confidence": "medium"
+  },
+  {
+    "id": "perth",
+    "summary": "Hot, dry Mediterranean summers and mild, wet winters with little chilling on the coastal plain. Sandy soils hold little water or nutrient, so watering and feeding make or break backyard apples.",
+    "apple_culture": "Apples are a backyard tree in Perth itself, but the cooler Perth Hills have long had orchards, and Pink Lady was bred at Stoneville in the hills. Western Australia's quarantine keeps out codling moth, a big advantage for home growers.",
+    "local_varieties": ["Pink Lady (Cripps Pink)", "Sundowner (Cripps Red)", "Anna", "Dorsett Golden"],
+    "pests_diseases": "Mediterranean fruit fly is the main pest of backyard fruit, and sunburn and heat stress are common. Codling moth is absent from Western Australia.",
+    "tips": "Use low-chill varieties on the coastal plain and keep standard varieties for the Hills. Improve sandy soil with compost and mulch, use drip irrigation, and bag fruit or use traps against Medfly.",
+    "confidence": "medium"
+  },
+  {
+    "id": "sydney",
+    "summary": "Humid subtropical coast with mild winters, hot humid summers and rain in every season. Chilling is low, so only low-chill varieties crop reliably.",
+    "apple_culture": "Sydney is the birthplace of the Granny Smith, which arose as a chance seedling in Maria Ann Smith's orchard at Eastwood in the 1860s and is still celebrated by a local festival. Today apples are backyard trees, with low-chill types the usual choice.",
+    "local_varieties": ["Granny Smith", "Anna", "Dorsett Golden", "Tropic Sweet"],
+    "pests_diseases": "Queensland fruit fly is the main pest, and humid summers favour black spot (scab) and bitter rot. Codling moth and woolly aphid are also common.",
+    "tips": "Plant low-chill varieties in pairs for cross-pollination, and net or bag fruit against fruit fly. Keep the canopy open and remove fallen leaves to reduce disease.",
+    "confidence": "medium"
+  }
+]

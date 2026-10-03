@@ -1,0 +1,103 @@
+{
+ "batch": "british-heritage-2",
+ "theme": "british-heritage",
+ "count": 16,
+ "varieties": [
+  {
+   "id": "herrings-pippin",
+   "name": "Herring's Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "hawthornden",
+   "name": "Hawthornden",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lady-henniker",
+   "name": "Lady Henniker",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lord-lambourne",
+   "name": "Lord Lambourne",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lord-derby",
+   "name": "Lord Derby",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lord-hindlip",
+   "name": "Lord Hindlip",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "lord-grosvenor",
+   "name": "Lord Grosvenor",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "mere-de-menage",
+   "name": "Mère de Ménage",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "michaelmas-red",
+   "name": "Michaelmas Red",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "norfolk-royal-russet",
+   "name": "Norfolk Royal Russet",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "norfolk-biffin",
+   "name": "Norfolk Biffin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "reverend-w-wilks",
+   "name": "Reverend W. Wilks",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "royal-jubilee",
+   "name": "Royal Jubilee",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "winston",
+   "name": "Winston",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "wyken-pippin",
+   "name": "Wyken Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  },
+  {
+   "id": "arbroath-pippin",
+   "name": "Arbroath Pippin",
+   "theme": "british-heritage",
+   "keepers": false
+  }
+ ]
+}

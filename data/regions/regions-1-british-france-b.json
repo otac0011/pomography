@@ -1,0 +1,83 @@
+[
+  {
+    "id": "northumberland",
+    "summary": "A cool, breezy coastal county with a short growing season, cold winds off the North Sea and sea fog (haar) that can sit on the coast in spring and early summer. Chilling is never short, but late frosts, poor weather for pollinators and limited summer warmth make ripening the real challenge.",
+    "apple_culture": "Apples here are a garden and walled-garden crop rather than a commercial one; country houses grew choicer fruit against warm walls, and many community orchards have been planted across the county in recent decades. Few varieties were raised locally, so growers rely on proven northern, early-ripening and cooking varieties.",
+    "local_varieties": ["James Grieve", "Grenadier", "Early Victoria", "Lord Derby", "Golden Noble", "Lane's Prince Albert", "Keswick Codlin"],
+    "pests_diseases": "European canker and apple scab are the main diseases in the cool damp, and brown rot follows wind or bird damage to fruit. Wind is often a bigger problem than any insect.",
+    "tips": "Plant in the most sheltered, sunny spot available, ideally against a south- or west-facing wall, and pick varieties that ripen by early autumn. Cookers and early dessert apples are far more reliable here than late keepers such as Cox.",
+    "confidence": "medium"
+  },
+  {
+    "id": "lothians",
+    "summary": "Drier and sunnier than western Scotland because East Lothian lies in the lee of the hills, with fertile coastal soils and a cool, fairly short summer. Sea breezes and cold easterly spells in spring are the main limits, while the Firth of Forth takes the edge off winter cold near the coast.",
+    "apple_culture": "Edinburgh gave the world James Grieve, raised in a city nursery in the 1890s, and the great estates and walled kitchen gardens of the Lothians grew a wide range of fruit. Scottish heritage varieties are now being replanted in community and heritage orchards, for example at East Linton.",
+    "local_varieties": ["James Grieve", "Cutler Grieve", "Hawthornden", "East Lothian Pippin", "White Melrose", "Stirling Castle"],
+    "pests_diseases": "Scab and canker are the main diseases, though usually less severe in this drier east than on the west coast. Wind damage, poor fruit set after cold springs and birds are frequent problems.",
+    "tips": "Use walls and hedges for shelter and choose early to mid-season varieties, especially Scottish-raised ones that suit short summers. Avoid exposed coastal sites without windbreaks, and check that pollination partners flower together in a cool spring.",
+    "confidence": "high"
+  },
+  {
+    "id": "carse-of-gowrie",
+    "summary": "A fertile strip of flat land along the north shore of the Firth of Tay, backed by the Sidlaw Hills that shield it from the north. It is one of the sunniest and most productive corners of Scotland for fruit, though the lowest ground near the river can hold frost.",
+    "apple_culture": "The Carse was historically one of Scotland's main orchard districts, with estate and farm orchards along the Tay sending fruit to Dundee and Perth, and it remains a centre of Scottish soft-fruit growing. Megginch Castle has revived a large orchard of Scottish apples and pears, and the Bloody Ploughman legend comes from that estate.",
+    "local_varieties": ["Bloody Ploughman", "Lass o' Gowrie", "Tower of Glamis", "Scotch Dumpling", "Oslin", "Lady of the Wemyss"],
+    "pests_diseases": "European canker and apple scab are the main diseases, and late frosts on the carse floor can take the blossom. Insect pests are generally lighter than in southern England.",
+    "tips": "Plant on the gentle south-facing slopes where cold air drains away rather than on the lowest ground. Scottish varieties such as Bloody Ploughman and Lass o' Gowrie suit this climate, and early to mid-season apples ripen more reliably than late southern keepers.",
+    "confidence": "medium"
+  },
+  {
+    "id": "highlands",
+    "summary": "A northern, marginal climate with short, cool summers, though the Moray Firth coast around Inverness is drier and sunnier than the west Highlands. Long summer days help, but late frosts, gales and too little warmth to ripen late fruit set the limits.",
+    "apple_culture": "Apples are a garden and walled-garden crop here; Inverness once had commercial orchards and market gardens and many estates kept fruit, but most disappeared after the mid twentieth century. Highland Council's apple-mapping work and Inverness apple days have turned up dozens of surviving varieties, including Coul Blush, raised at Contin in 1827 and often called the most northerly British apple.",
+    "local_varieties": ["Coul Blush", "Beauty of Moray", "James Grieve", "Stirling Castle", "Hawthornden"],
+    "pests_diseases": "European canker and scab are the main diseases in wetter spots, and deer and rabbits can destroy young trees. Wind, frost and failure to ripen are bigger problems than insects.",
+    "tips": "Choose a sheltered, sunny site, ideally a wall or walled garden, and protect trunks from rabbits and deer. Stick to hardy, early-ripening varieties and accept that late keepers rarely ripen; a polytunnel helps on the most exposed ground.",
+    "confidence": "medium"
+  },
+  {
+    "id": "south-wales",
+    "summary": "The Usk valley in Monmouthshire is mild, green and fairly wet, with fertile valley soils and a long, gentle growing season. Winters give plenty of chilling; the damp climate and frost on the valley floor are the things to watch.",
+    "apple_culture": "Monmouthshire shares the cider and perry tradition of neighbouring Herefordshire and Gloucestershire, and farm orchards along the Usk and Wye once made cider for farm workers. Welsh heritage varieties have been surveyed and rescued in recent decades, and small craft cider and perry makers have revived the tradition.",
+    "local_varieties": ["Breakwell's Seedling", "Perthyre", "Frederick"],
+    "pests_diseases": "European canker and apple scab thrive in the mild damp, and mistletoe is common in old orchards in the border valleys. Woolly aphid and codling moth are the usual insect pests.",
+    "tips": "Plant on well-drained slopes above the valley floor and favour scab-resistant or locally proven varieties over Cox. Standard trees on vigorous rootstocks suit grazed orchards; in gardens a semi-vigorous rootstock copes well with the fertile soil.",
+    "confidence": "medium"
+  },
+  {
+    "id": "armagh",
+    "summary": "A mild, damp, oceanic climate with cool summers, frequent rain and few hard frosts, on rolling drumlin country whose hillsides drain well. The moist air means fungal disease, not cold, is the main limit.",
+    "apple_culture": "Known as the 'Orchard County', Armagh is dominated by the Bramley cooking apple, brought to the Loughgall area in the 1880s, and 'Armagh Bramley' apples now carry protected geographical status. Before the Bramley the county grew a long list of older Irish varieties; a heritage orchard at Loughgall preserves native Irish apples, and blossom festivals and local cider makers celebrate the crop.",
+    "local_varieties": ["Bramley's Seedling", "Irish Peach", "Bloody Butcher"],
+    "pests_diseases": "Apple scab is the key disease in the wet climate and the focus of commercial spraying, with European canker also common. Bramley is prone to bitter pit, so calcium nutrition matters.",
+    "tips": "Bramley is a triploid: it needs pollen from other varieties but cannot pollinate them, so plant two other compatible varieties alongside it so all three crop. Use free-draining hillsides with good air movement, and add scab-resistant dessert apples to go with the cooker.",
+    "confidence": "high"
+  },
+  {
+    "id": "tipperary",
+    "summary": "Mild, moist and oceanic, with soft winters, cool cloudy summers and rain spread through the year; the Golden Vale and the river valleys of Tipperary and Cork have deep, fertile soils. Frost is seldom severe, but long damp spells favour disease and can make ripening and storage tricky.",
+    "apple_culture": "This is the centre of Irish cider: Bulmers (sold as Magners outside Ireland) is made at Clonmel in Co. Tipperary from large orchards of bittersweet apples in the surrounding counties. Irish heritage dessert apples, several first found in Cork and Kerry gardens, are kept in the national collection of Irish Seed Savers and revived by small cideries and growers.",
+    "local_varieties": ["Ard Cairn Russet", "Kerry Pippin", "Irish Peach", "Ross Nonpareil", "Dabinett", "Michelin"],
+    "pests_diseases": "Apple scab and European canker are the main problems in the wet climate, and powdery mildew is common on susceptible varieties. Insect pests generally do less damage than disease.",
+    "tips": "Choose scab-resistant or proven Irish heritage varieties, which usually cope with the damp better than imported commercial types. Give trees an open, airy site, prune for a light canopy and avoid poorly drained ground.",
+    "confidence": "medium"
+  },
+  {
+    "id": "jersey",
+    "summary": "Among the mildest and sunniest places in the British Isles, sitting in the Gulf of St Malo with early springs, gentle winters and long autumns. Sea wind and salt are the main stresses; hard spring frost is rare, and winters still give enough chilling for most apples.",
+    "apple_culture": "In the seventeenth and eighteenth centuries much of Jersey's farmland was under cider orchards and cider was exported, before potatoes and dairying took over. The island's own varieties, recorded as the 'pommage', are conserved by the Jersey Cider Orchard Trust and at Hamptonne, and black butter (nier beurre), a dark spiced preserve of apples cooked down in cider, is still made at autumn gatherings.",
+    "local_varieties": ["Gros Romeril", "Petit Romeril", "Côtard", "Nièr Binet", "Douces Dames", "Belles Filles"],
+    "pests_diseases": "Scab and canker occur but are less severe than in western Britain thanks to the sunnier weather; codling moth and aphids are the routine pests. Salt-laden wind can scorch leaves and strip fruit on exposed sites.",
+    "tips": "Use the island's traditional shelter of banks and hedges and plant on the lee side of the land. The long, mild season ripens late varieties that struggle on the mainland, and the local cider varieties make a good small orchard.",
+    "confidence": "medium"
+  },
+  {
+    "id": "shetland",
+    "summary": "Cool, short summers, near-constant wind and salt spray, and acidic soils that are either thin and stony or deep and wet. Winters are not especially cold, but there is too little summer warmth and shelter for apples to set and ripen reliably in the open.",
+    "apple_culture": "There is no apple-growing tradition; the islands are largely treeless because of the wind. A few keen gardeners grow apple trees in sheltered gardens or polytunnels, where they can fruit, but trees outdoors often flower without setting a crop.",
+    "local_varieties": [],
+    "pests_diseases": "Pests and diseases matter little compared with wind, salt and lack of warmth, though canker can attack trees that are stressed and constantly damp.",
+    "tips": "Realistically, grow apples only under cover: a well-anchored polytunnel or greenhouse with a compact tree on a dwarfing rootstock, hand-pollinated if needed. Outdoors only the most sheltered spots behind walls or dense shelterbelts give any chance, and only hardy, early-ripening varieties are worth trying.",
+    "confidence": "medium"
+  }
+]

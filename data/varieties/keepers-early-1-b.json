@@ -1,0 +1,516 @@
+[
+  {
+    "id": "discovery",
+    "name": "Discovery",
+    "aka": [
+      "Thurston August"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Langham, Essex, England",
+      "year": 1949,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Worcester Pearmain; Beauty of Bath is the probable pollen parent",
+      "raised_by": "Mr Dummer, a fruit-farm worker (spelled Drummer in some records)"
+    },
+    "history": "Grown from a Worcester Pearmain pip by a farm worker in Langham, Essex, around 1949. It was first called Thurston August, then renamed Discovery and launched in 1962 by the Suffolk nurseryman Jack Matthews of Thurston. It became the standard British supermarket early apple and holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 1,
+      "description": "Pale greenish-yellow apple with a glossy bright red flush on the sunny side; the flesh is often tinged pink beneath the skin."
+    },
+    "taste": {
+      "summary": "Firm, crisp, fine-textured and juicy, with a fresh balance of sweetness and acidity. Many tasters pick up a hint of strawberry, though it varies from year to year. It keeps its crunch better than most August apples, especially if chilled.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "strawberry",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Mid Aug-early Sep; holds a week or two, longer in the fridge"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "An easy, moderately vigorous garden tree. It carries some fruit at shoot tips, so avoid shortening every shoot when pruning; fruit can stay small on old or overcropped trees."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering (group 3) with frost-tolerant blossom. Needs a diploid partner; some nurseries describe it as partly self-fertile."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool to mild temperate climates such as lowland Britain and northern Europe; its frost-tolerant blossom suits colder gardens.",
+      "poor_climates": "Copes with warm summers better than most English earlies, but in hot regions the fruit ripens in peak heat and softens quickly; very cold continental winters are a risk."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "A healthy variety with good scab resistance. Main issues are a short picking window, small fruit if not thinned, and bird and wasp damage on ripe fruit."
+    },
+    "grow_notes": "One of the most reliable early apples for gardens and suitable for organic growing. Plant in sun, thin heavy crops, and pick when the background colour turns from green to yellow; pair with a group 2-4 diploid.",
+    "conf": "high"
+  },
+  {
+    "id": "duchess-of-bedford",
+    "name": "Duchess of Bedford",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bedford, Bedfordshire, England",
+      "year": 1918,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Cellini x Beauty of Bath",
+      "raised_by": "Laxton Bros. Ltd"
+    },
+    "history": "One of the many apples raised by the Laxton Brothers nursery in Bedford, first exhibited in 1918. It combines the Victorian early apple Beauty of Bath with Cellini, and survives mainly in the National Fruit Collection and East of England collections.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, truncated-conical fruit, green-yellow with orange-red streaks and a noticeably greasy skin."
+    },
+    "taste": {
+      "summary": "Soft, fine-textured pale flesh with a mild, gently acidic flavour; one reference notes an aniseed note, a trait associated with its Cellini parent. Eat it fresh, as it softens quickly.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": [
+        "aniseed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Mid Aug-early Sep, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little growing data recorded. Prune as a standard spur-bearing dessert apple."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not published; National Fruit Collection blossom dates are mid-season, similar to James Grieve, so a group 3 diploid partner should overlap."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Lowland English conditions like the Bedfordshire and Kent sites where it is conserved.",
+      "poor_climates": "No records from hot or severe-winter regions; soft early fruit like this generally does poorly in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A rare Laxton heritage apple for collectors. Grow in full sun on well-drained loam and pick in mid August for eating straight away.",
+    "conf": "low"
+  },
+  {
+    "id": "duchesss-favourite",
+    "name": "Duchess's Favourite",
+    "aka": [
+      "Duchess Favourite",
+      "Duchess of York's Favourite",
+      "Duchess of Gloucester",
+      "Scarlet Incomparable",
+      "Town Apple",
+      "Fordham Wonder"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Addlestone, Surrey, England",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Mr Cree, nurseryman of Addlestone"
+    },
+    "history": "Raised about 1800 by the Addlestone nurseryman Mr Cree; the old synonym Duchess of York's Favourite suggests it was named for a duchess of the period, though the exact dedication is not certain. It carries a long list of old synonyms and is a parent of the variety Jennifer.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, rounded apple, green-yellow with a bright red flush; the flesh may show pink staining."
+    },
+    "taste": {
+      "summary": "Crisp to tender, juicy flesh with a brisk, fairly sharp but not harsh flavour; pleasant straight from the tree though less rich than later apples.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, fresh from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Old accounts describe it as slow to start bearing but a heavy cropper once established."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not published; National Fruit Collection blossom dates are mid-season, close to James Grieve."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild south-east England, where it has been grown for over two centuries.",
+      "poor_climates": "No records from hot or severe-winter regions; red colour and texture of early apples suffer in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A Surrey heritage apple for traditional orchards and collectors. Be patient for the first crops, give it a sunny well-drained site, and plant a mid-season diploid pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "irish-peach",
+    "name": "Irish Peach",
+    "aka": [
+      "Irish Peach Apple",
+      "Early Crofton",
+      "Peach Apple"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IE",
+      "place": "Ireland, possibly County Sligo",
+      "year": 1820,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Irish apple, probably from County Sligo, that reached English nurseries around 1820. Victorian gardeners rated it one of the best-flavoured very early apples, and it has been widely grown across Europe under many translated names.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Smallish to medium, slightly ribbed round-conical apple, green-yellow with a dull orange-red flush and streaks on the sunny side."
+    },
+    "taste": {
+      "summary": "White, very juicy flesh that is soft rather than crisp, with a lively, rather sharp flavour and a distinct peach-like aroma that gives the variety its name. It does not keep: eat within days of picking.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "peach",
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Early-mid Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A tip-bearer with a spreading, flat-topped habit; unsuitable for cordons or espaliers. Prune lightly, renewing old wood rather than shortening every shoot. Fruit drops when ripe."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early-flowering (group 2); needs another early or early-mid season diploid."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist maritime climates such as Ireland, western Britain and Scandinavia, where it ripens slowly enough to keep its flavour.",
+      "poor_climates": "Hot summers make the fruit ripen and soften almost overnight; early blossom is vulnerable in frost pockets."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": 2,
+      "bitter_pit": 2,
+      "other": "Generally healthy. Weaknesses are practical: tip-bearing habit, fruit drop and virtually no keeping life."
+    },
+    "grow_notes": "A good choice for wetter western and northern gardens. Grow as a bush or half-standard rather than a trained form, and visit the tree daily in August as the fruit ripens.",
+    "conf": "high"
+  },
+  {
+    "id": "james-grieve",
+    "name": "James Grieve",
+    "aka": [
+      "Grieve"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Edinburgh, Scotland",
+      "year": 1893,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Seedling of Pott's Seedling or Cox's Orange Pippin; pollen parent unknown",
+      "raised_by": "James Grieve, for Dicksons nursery"
+    },
+    "history": "Raised in Edinburgh by James Grieve and introduced by his employers, the Dicksons nursery, being first recorded in 1893; it won an RHS Award of Merit in 1897 and a First Class Certificate in 1906. It became a favourite in northern Europe and is a parent of Katy, Lord Lambourne, Greensleeves and Elton Beauty.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Pale yellow apple flushed and broken-striped with red, with a faint satiny sheen."
+    },
+    "taste": {
+      "summary": "Exceptionally juicy, soft, open-textured flesh with a bright, tangy acidity when first picked, good for cooking as well as eating. After a week or two it mellows to a sweeter, gentler apple.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; sharp and good for cooking when first picked, sweeter after a couple of weeks"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Compact-to-moderate spur-bearer that crops early and regularly; adapts well to trained forms. The fruit bruises at a touch and may drop when ripe, so pick carefully over several passes."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile and an excellent pollinator for other group 2-4 diploids."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, short-summer climates: Scotland, northern England, Germany and Scandinavia, where it crops reliably and keeps its zesty acidity.",
+      "poor_climates": "Warm wet lowlands encourage canker, and hot summers give soft, quickly-mealy fruit with poor colour."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to canker on wet, heavy or poorly drained soils; some scab in damp seasons. The fruit bruises very easily."
+    },
+    "grow_notes": "A dependable choice for colder and northern gardens and a useful pollinator. Plant on free-draining soil to limit canker, cut out cankered wood promptly, and pick early for cooking or later for dessert.",
+    "conf": "high"
+  },
+  {
+    "id": "katy",
+    "name": "Katy",
+    "aka": [
+      "Katja"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "SE",
+      "place": "Balsgard, Skane, Sweden",
+      "year": 1947,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "James Grieve x Worcester Pearmain",
+      "raised_by": "Balsgard Fruit Breeding Institute"
+    },
+    "history": "Bred at the Balsgard fruit-breeding station in southern Sweden in 1947 and released in 1966 as Katja; it is sold as Katy in Britain. It combines the juiciness of James Grieve with the bright colour of Worcester Pearmain and became a popular garden and juicing apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": false,
+      "russet": 1,
+      "description": "Bright scarlet flush over most of a pale yellow-green skin; a glossy, eye-catching apple."
+    },
+    "taste": {
+      "summary": "Very juicy, pale cream flesh on the softer side of crunchy, with a mild apple flavour, a refreshing touch of acidity and, in a good year, a hint of strawberry inherited from Worcester Pearmain. Pleasant rather than deep; it softens within a week or so (keep it chilled) and gives an attractive pink-orange juice.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "strawberry",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A vigorous, regular and heavy-cropping spur-bearer; thin fruitlets to maintain size. Ripe fruit tends to drop."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season (group 3) and a good pollinator for others; some nurseries call it partly self-fertile, but a partner improves crops."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate and northern climates such as Scandinavia, Scotland and northern England, and mild damp areas generally; blossom is frost tolerant.",
+      "poor_climates": "Hot summers soften the fruit and reduce colour; it is not suited to low-chill regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good general disease resistance. Fruit drops when ripe and keeps only briefly."
+    },
+    "grow_notes": "An easy, productive tree for colder or wetter gardens and a good juicing apple. Thin heavy crops, pick as soon as the fruit colours fully, and pair with any group 2-4 diploid.",
+    "conf": "high"
+  }
+]

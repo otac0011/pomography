@@ -1,0 +1,511 @@
+[
+  {
+    "id": "reinette-grise-du-canada",
+    "name": "Reinette Grise du Canada",
+    "aka": [
+      "Canada Gris",
+      "Grise du Canada",
+      "Monstrueuse du Canada",
+      "Gros Fenouillet Gris",
+      "Reinette du Canada Grise"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "France; some authors argue for the St Lawrence valley, Quebec",
+      "year": 1805,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": "Unknown; the russeted form of Reinette du Canada",
+      "raised_by": null
+    },
+    "history": "The grey, russeted form of the Reinette du Canada, a large old reinette that French lists date to the early 1800s. Despite the name its Canadian origin is unproven and it has been grown mainly in France, Switzerland and northern Italy, where the Reinette du Canada is still a commercial cooking and eating apple.",
+    "look": {
+      "size": "large",
+      "shape": "irregular",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 3,
+      "description": "Large, irregular, flattened-round to slightly conical fruit almost wholly covered in cinnamon-brown russet over a greenish-yellow ground."
+    },
+    "taste": {
+      "summary": "Fine, dense, lightly crisp flesh that is juicy, sweet and pleasantly sharp, with a good perfume. Excellent for purées and baking, where it breaks down into a tangy fluff; keeps rather less well than the smooth-skinned form.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Very vigorous with a drooping habit and strong wood; cropping can be irregular. Undemanding of fertiliser."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Triploid, a poor pollinator; French nurseries put it in flowering group D (mid-late) and suggest Idared, James Grieve or McIntosh as partners."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate France, Switzerland and the Alpine valleys of northern Italy, with warm summers and well-drained soil.",
+      "poor_climates": "Wet sites with heavy soils; triploid vigour makes it unsuitable for very small gardens."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Resistant to scab but prone to bacterial canker; the Reinette du Canada group is notorious for bitter pit in storage."
+    },
+    "grow_notes": "Give it plenty of room or a dwarfing stock, plus two diploid pollinators. Keep calcium and water supply even to limit bitter pit.",
+    "conf": "medium"
+  },
+  {
+    "id": "pomme-gris",
+    "name": "Pomme Gris",
+    "aka": [
+      "Pomme Grise"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "St Lawrence valley, Quebec (French Canada); possibly derived from a French grey reinette",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old russet apple of French Canada, long grown around Montreal and the St Lawrence and thought by some to descend from a French grey reinette. It was among the apples planted by Thomas Jefferson at Monticello and remains a heritage favourite in north-eastern North America.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small, flattish apple covered in grey-brown to golden russet."
+    },
+    "taste": {
+      "summary": "A rich, sweet, nutty russet with firm, fine flesh and a sprightly finish; improves for a few weeks after picking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "nutty",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not well recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Pollination details not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold-winter north-eastern North America (Quebec, New England, New York); also grown historically in Virginia.",
+      "poor_climates": "No reliable reports; very warm, low-chill regions are unlikely to suit it."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "A hardy heritage russet for cold gardens. Plant with another diploid that flowers at a similar time and store the fruit cool to bring out its flavour.",
+    "conf": "low"
+  },
+  {
+    "id": "belle-de-pontoise",
+    "name": "Belle de Pontoise",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Pontoise, Val-d'Oise, France",
+      "year": 1869,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Seedling of Emperor Alexander (Grand Alexandre)",
+      "raised_by": "M. Rémy (senior)"
+    },
+    "history": "Raised in 1869 at Pontoise, north-west of Paris, by the elder M. Rémy from a seed of the Russian-origin Emperor Alexander. It was valued in the late 19th century as a very large, productive winter apple for both gardens and market orchards.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, rounded to slightly conical and often angular fruit; whitish-yellow skin washed and speckled with carmine and striped cherry-red, with grey dots."
+    },
+    "taste": {
+      "summary": "White, juicy flesh that is sweet with a light acidity; a late-keeping dessert apple at its best in mid-winter.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous and hardy, with long, strong, slightly arching branches; very fertile."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering (French group C). S-alleles S4S43."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate northern France and similar climates.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease resistance not recorded. Harvest date inferred from its winter eating season."
+    },
+    "grow_notes": "A vigorous, heavy-cropping tree for a large garden or orchard; support heavy crops of big fruit. Plant with a mid-season diploid pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "transparente-de-croncels",
+    "name": "Transparente de Croncels",
+    "aka": [
+      "Pomme de Croncels",
+      "Croncels",
+      "Glasapfel"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Croncels, a suburb of Troyes, Aube, France",
+      "year": 1869,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Reported as a seedling of Antonovka",
+      "raised_by": "Baltet Frères nursery (Charles and Ernest Baltet)"
+    },
+    "history": "Raised in 1869 by the well-known Baltet nursery at Troyes, in its Croncels district, reportedly from a seed of the Russian Antonovka. Its pale, almost translucent skin gave it its name, and its hardiness made it a popular early autumn cooker in eastern France and central Europe.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "cream",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium to large, pale matt yellow fruit fading to near white, peppered with light grey dots, giving a translucent look."
+    },
+    "taste": {
+      "summary": "Juicy, coarse-grained white-yellow flesh that is only slightly crisp, with a gently acid flavour and a fairly delicate aroma. Excellent cooked; for eating raw it must be taken straight from the tree, because fruit picked too ripe turns floury, and it bruises easily.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "mild",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Very vigorous and productive; fruit drops readily, so it is usually grown as a standard in a sheltered spot. Fruit bruises easily and travels badly."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "A good pollinator, flowering a few days before Golden Delicious; compatible with James Grieve, Lord Lambourne, Grenadier and Cox's Orange Pippin."
+    },
+    "season": {
+      "harvest": "late Aug-mid Sep",
+      "eating": "Aug-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool and continental climates of eastern France and central Europe; very resistant to winter cold.",
+      "poor_climates": "Hot summers are likely to hasten mealiness in an already short-lived fruit; windy sites cause drop."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Robust against most diseases and pests apart from codling moth; main drawbacks are fruit drop, bruising and short storage."
+    },
+    "grow_notes": "A tough, cold-hardy tree for any soil. Site it out of the wind, pick before full ripeness and use the fruit quickly, mostly for cooking.",
+    "conf": "medium"
+  },
+  {
+    "id": "calville-daout",
+    "name": "Calville d'Août",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": null,
+      "year": 1925,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A little-known French summer Calville. It appears in German and French variety lists, and one French list dates it to about 1925 and describes it as a late-summer apple for eating and cooking; little else is documented.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not documented in the sources consulted."
+    },
+    "taste": {
+      "summary": "Flavour not documented; listed as suitable for both eating and cooking.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No tree data found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "mid Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Not documented.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Insufficient information for specific advice; treat as an early-season apple that should be eaten soon after picking.",
+    "conf": "low"
+  },
+  {
+    "id": "reinette-clochard",
+    "name": "Reinette Clochard",
+    "aka": [
+      "Clochard",
+      "Pomme Clochard",
+      "Clocharde",
+      "Rochelle",
+      "Reinette de Parthenay"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Secondigny, Deux-Sèvres (Poitou), France",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A traditional apple of Gâtine in Poitou, originating at Secondigny and widely grown in Deux-Sèvres, Vendée and Charente. INRA Bordeaux crossed it with Golden Delicious in 1958, producing the commercial varieties Chantecler (Belchard) and Charden.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "gold",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium, somewhat flattened apple with a rough skin, deep yellow when ripe and freckled with small brown russet spots."
+    },
+    "taste": {
+      "summary": "Firm, juicy, sweet flesh; a very long-keeping winter apple that stays good into March, though it shrivels and softens toward the end of storage.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Upright spur-type tree with short internodes and moderate vigour; crops heavily almost every year, unlike many old varieties."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Described as late-flowering and so escaping spring frosts, though one French catalogue lists it in early group B. Suggested partners include Reine des Reinettes, Reinette de Caux, Grand'Mère and Chailleux."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 22
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, sunny Atlantic west of France (Poitou, Vendée, Charente) with warm summers and mild winters.",
+      "poor_climates": "Not documented in cold continental or very low-chill climates."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Fairly little troubled by scab; other disease behaviour not recorded. Harvest date for SE England inferred from its late season."
+    },
+    "grow_notes": "A regular-cropping keeper suited to a warm, sunny site. Its compact spur habit makes it easy to manage; store fruit cool and humid to delay shrivelling.",
+    "conf": "medium"
+  }
+]

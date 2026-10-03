@@ -1,0 +1,19 @@
+{
+  "_note": "Duplicate cards for one apple merged (null deletes a record); wrong or cross-claimed aliases removed. 2026-10-03.",
+  "goldparmane": null,
+  "mutsu": null,
+  "norfolk-biffin": null,
+  "gravensteiner": null,
+  "seek-no-further": null,
+  "king-of-the-pippins": {"aka": ["Reine des Reinettes", "Golden Winter Pearmain", "Goldparmäne", "Hampshire Yellow", "Prince's Pippin", "Winter Goldparmane"]},
+  "gravenstein": {"aka": ["Gravensteiner", "Grafensteiner", "Gråsten", "Gravensten"]},
+  "cornish-aromatic": {"aka": ["Siberian Russet"]},
+  "bess-pool": {"aka": ["Bess Poole", "Stadway Pippin", "Walsgrove Blenheim"]},
+  "hambledon-deux-ans": {"aka": ["Deux Ans", "Green Blenheim", "Stone's Blenheim", "Pudding Apple", "Yorkshire Queen"]},
+  "gala": {"aka": []},
+  "cornish-gilliflower": {"aka": ["Cornish Gillyflower", "Cornish July Flower", "Calville d'Angleterre"]},
+  "sheepnose": {"aka": ["Black Gilliflower", "Gilliflower", "Black Spitzenburg", "Crow's Egg"]},
+  "northern-spy": {"aka": ["Spy"]},
+  "winter-pearmain": {"aka": ["Sussex Duck's Bill", "Winter Quoining", "English Winter Pearmain", "Sussex Scarlet Pearmain"]},
+  "westfield-seek-no-further": {"aka": ["Seek", "New England Seek-No-Further", "Red Winter Pearmain", "Seek-No-Further (American)"]}
+}

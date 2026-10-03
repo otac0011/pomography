@@ -1,0 +1,541 @@
+[
+  {
+    "id": "autumn-pearmain",
+    "name": "Autumn Pearmain",
+    "aka": ["Summer Pearmain", "English Summer Pearmain", "Pearmain d'Automne"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1629,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the oldest English apples still in collections: the National Fruit Collection dates it to at least the late 1500s, and it appears in early 17th-century English fruit lists. The trees held at Brogdale cannot be told apart from Herefordshire Pearmain, so the two names may cover the same apple.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Truncated-conical, slightly ribbed fruit, dull green ripening to yellow, streaked and flushed red with a fine net of russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained cream flesh that is only moderately juicy, with a gentle sweetness and a quietly aromatic, nutty character typical of the old pearmains. A connoisseur's apple rather than a crunchy, juicy one.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": ["nutty", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Little modern growing data; treat as a typical old English dessert apple and prune as a spur-bearer until it shows otherwise."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Listed by the RHS in flowering group 4; plant with another group 3-5 diploid."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, moist lowland England and similar cool maritime climates where it has been grown for centuries.",
+      "poor_climates": "Hot continental summers are likely to give soft, poorly coloured fruit; no evidence of use in warm regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded for this variety."
+    },
+    "grow_notes": "A heritage choice for a mixed orchard in southern Britain. Give it a sunny, sheltered spot on reasonable loam and pair it with a mid-to-late flowering partner such as Ellison's Orange or Golden Delicious.",
+    "conf": "medium"
+  },
+  {
+    "id": "bardsey",
+    "name": "Bardsey",
+    "aka": ["Bardsey Island Apple", "Afal Enlli"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Bardsey Island (Ynys Enlli), Gwynedd, Wales",
+      "year": 1998,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": null,
+      "raised_by": "Found by Ian Sturrock"
+    },
+    "history": "A single old tree was found in 1998 growing in a sheltered recess against the wall of Plas Bach, a house built in the 1870s on Bardsey Island off the Llyn peninsula. Ian Sturrock had the fruit checked at Brogdale, where it matched no known variety, and he then propagated it; salt winds had trained the mother tree flat against the wall.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "pink",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium-sized apple with a pink to orange-red flush over a pale skin."
+    },
+    "taste": {
+      "summary": "Sweet and juicy with a distinctive lemony scent when cut, balanced by a fair amount of acidity. Best eaten fresh from the tree in late September and October.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": 4,
+      "tags": ["lemon", "sweet"],
+      "cider_class": null,
+      "best_eaten": "late Sep-Nov, fresh off the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Tough, healthy tree that crops early and regularly; it is a partial tip-bearer, so avoid shortening every shoot when pruning."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early-flowering (group 2); needs a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Wet, windy maritime sites in western Britain and Ireland; it survived for decades in salt-laden Atlantic gales without spraying.",
+      "poor_climates": "Untested in hot or very dry summers; likely to lose colour and keeping quality there."
+    },
+    "health": {
+      "scab": 1,
+      "canker": 1,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported as very resistant to scab and canker, and grown without sprays."
+    },
+    "grow_notes": "A good organic or low-input apple for exposed, wet western gardens where many varieties canker. Prune lightly because of its partial tip-bearing habit, and pair with an early-flowering partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "bloody-ploughman",
+    "name": "Bloody Ploughman",
+    "aka": [],
+    "uses": ["dessert", "culinary", "juice"],
+    "origin": {
+      "country": "GB",
+      "place": "Carse of Gowrie, Perthshire, Scotland",
+      "year": 1883,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Scottish apple recorded in 1883 from the Carse of Gowrie between Perth and Dundee. Local legend says a ploughman shot for stealing apples from the Megginch estate was sent home with fruit in his pockets, which his wife threw onto a rubbish heap where this seedling sprang up.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, strongly ribbed conical fruit almost entirely covered in bright to purplish blood-red, with darker streaks."
+    },
+    "taste": {
+      "summary": "Crisp, rather dry flesh that is greenish-white stained pink near the skin. Only lightly sweet with a moderate acidity; more striking to look at than to eat, and good cooked or juiced, where the red pigment colours the result.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; does not keep long"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fairly vigorous, regular-cropping spur-bearer bred for the Scottish climate."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Most sources place it in group 4 (D); some list group 3, and at Brogdale it flowers at about the same time as Cox."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist northern climates such as eastern Scotland and northern England, where its deep colour develops well.",
+      "poor_climates": "Hot summers (regularly above about 24 C) are outside its comfort zone and are likely to dull colour and soften fruit."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated about average for disease; no major specific weakness recorded."
+    },
+    "grow_notes": "One of the better choices for northern and Scottish gardens. Grow it for its colour, cooking and juice; it needs a pollination partner in group 3-5.",
+    "conf": "medium"
+  },
+  {
+    "id": "captain-kidd",
+    "name": "Captain Kidd",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "NZ",
+      "place": "Twyford, Hawke's Bay, New Zealand",
+      "year": 1962,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Sport of Kidd's Orange Red (Cox's Orange Pippin x Delicious)",
+      "raised_by": "Found in the orchard of Robin Osborne"
+    },
+    "history": "A more deeply coloured bud sport of Kidd's Orange Red, found in 1962 in Robin Osborne's orchard at Twyford in Hawke's Bay and released in 1969. Apart from its redder skin it behaves like its parent, itself a 1924 cross raised by J.H. Kidd at Greytown in New Zealand.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, conical apple heavily streaked and flushed bright red over yellow, redder than Kidd's Orange Red."
+    },
+    "taste": {
+      "summary": "Like Kidd's Orange Red: firm, crisp and juicy, with a sweet, rich, Cox-like aroma softened by Delicious-style sweetness. Flavour develops further after a few weeks in store.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Grows and crops like Kidd's Orange Red; little independent data on the sport itself."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowering group 3, as for Kidd's Orange Red. The RHS lists Kidd's Orange Red and Cox as cross-incompatible, so do not rely on Cox to pollinate it."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Sunny temperate climates with cool autumn nights, such as the fruit regions of New Zealand and southern England.",
+      "poor_climates": "Very short or cool seasons may not ripen a mid-October apple; very warm nights reduce the red colour that is the point of this sport."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Expected to share the disease profile of Kidd's Orange Red; not separately recorded."
+    },
+    "grow_notes": "Needs a warm, sunny position to ripen and colour well in Britain. Choose a group 2-4 pollinator other than Cox or its sports.",
+    "conf": "medium"
+  },
+  {
+    "id": "carswells-orange",
+    "name": "Carswell's Orange",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Ashtead, Surrey, England",
+      "year": 1938,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Seedling of Cox's Orange Pippin; pollen parent unknown",
+      "raised_by": "J.W. Carswell"
+    },
+    "history": "Raised in 1938 by J.W. Carswell at Ashtead in Surrey from a Cox's Orange Pippin seed; he also raised Carswell's Honeydew. It is held in the National Fruit Collection but is rarely grown.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large conical fruit, yellow with a red flush and scarlet stripes and almost no russet."
+    },
+    "taste": {
+      "summary": "Juicy, slightly coarse flesh with a pleasant aromatic flavour that shows its Cox parentage.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics are not recorded in the sources checked."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from Brogdale flowering records, which put it alongside Cox; assume it needs a partner."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern English conditions like those it was raised in.",
+      "poor_climates": "Not documented outside Britain; estimates are inferred from its Cox parentage."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "A collector's Cox seedling for southern Britain. Grow in a sunny, sheltered spot on well-drained soil with a group 2-4 pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "charles-ross",
+    "name": "Charles Ross",
+    "aka": ["Thomas Andrew Knight"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Welford Park, Newbury, Berkshire, England",
+      "year": 1890,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Peasgood's Nonsuch x Cox's Orange Pippin",
+      "raised_by": "Charles Ross, head gardener at Welford Park"
+    },
+    "history": "Raised by the gardener Charles Ross at Welford Park near Newbury and first shown in 1890 as Thomas Andrew Knight. His employer asked for it to be renamed after him in 1899, the same year it won RHS awards; it holds the RHS Award of Garden Merit.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, handsome conical apple, pale yellow-green flushed and streaked orange-red; individual fruit can be very big."
+    },
+    "taste": {
+      "summary": "Juicy, slightly coarse flesh that is fairly sharp when first picked and turns sweeter and milder after a few weeks. Pleasant rather than intensely aromatic; slices hold their shape when cooked.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; cook early in the season, eat fresh later"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Easy, regular-cropping spur-bearer suited to beginners; thin to keep fruit size manageable."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; pollinated by most mid-season diploids."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Throughout Britain, including cooler northern gardens and thin chalky or limy soils where many apples sulk.",
+      "poor_climates": "Hot summer climates will soften the large fruit and reduce colour."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally healthy; good scab resistance. Fruit softens fairly quickly once out of cold storage."
+    },
+    "grow_notes": "One of the most forgiving dual-purpose apples for British gardens, coping well with chalk and colder sites. Plant with a group 2-4 partner and thin heavy sets.",
+    "conf": "high"
+  },
+  {
+    "id": "cherry-cox",
+    "name": "Cherry Cox",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "DK",
+      "place": "Kjer's orchard, Linved, Hjallese (near Odense), Denmark",
+      "year": 1942,
+      "year_note": "c.",
+      "kind": "sport",
+      "parentage": "Sport of Cox's Orange Pippin",
+      "raised_by": "Found by Mr Roed"
+    },
+    "history": "A darker red bud sport of Cox's Orange Pippin found by Mr Roed in a Danish orchard at Hjallese on Funen around 1942. High Weald Nurseries of Crowborough brought it to England in 1951. Apart from colour it is essentially Cox.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Cox-shaped fruit with much more colour: dark cherry-red stripes and solid red patches over a greenish-yellow ground."
+    },
+    "taste": {
+      "summary": "The same rich, aromatic Cox flavour and dense flesh, said by some growers to be slightly sweeter and to hold its quality a little longer in store.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["floral", "pear-drop", "honey", "nutty"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Rather weak-growing; give it a fertile soil and a stronger rootstock than you would for most varieties."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3. Being genetically Cox, it cannot pollinate Cox or other Cox sports."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "As for Cox: warm, sunny but temperate maritime summers such as southern England and Denmark.",
+      "poor_climates": "Wet, cold western sites (disease) and hot continental summers (poor flavour and colour)."
+    },
+    "health": {
+      "scab": 5,
+      "canker": 5,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Shares Cox's weaknesses: very prone to scab and canker on heavy or wet soils."
+    },
+    "grow_notes": "Grow it where Cox thrives: a warm, sheltered, well-drained site, with spraying or good hygiene against scab. Choose a group 2-4 pollinator that is not a Cox sport.",
+    "conf": "medium"
+  }
+]

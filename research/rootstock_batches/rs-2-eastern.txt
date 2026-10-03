@@ -1,0 +1,17 @@
+# Batch rs-2: Budagovsky (Russia), Polish, Swedish, Canadian, other Eastern/Northern rootstocks (id | name)
+b9 | B.9 (Budagovsky 9)
+b10 | B.10 (Budagovsky 10)
+b118 | B.118 (Budagovsky 118)
+b490 | B.490 (Budagovsky 490)
+b491 | B.491 (Budagovsky 491)
+b62-396 | B.62-396
+b64-194 | B.64-194
+p1 | P.1 (Polish 1)
+p2 | P.2 (Polish 2)
+p14 | P.14 (Polish 14)
+p16 | P.16 (Polish 16)
+p22 | P.22 (Polish 22)
+supporter-4 | Supporter 4
+alnarp-2 | Alnarp 2 (A2)
+ottawa-3 | Ottawa 3 (O.3)
+mark | Mark (MAC 9)

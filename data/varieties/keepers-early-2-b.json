@@ -1,0 +1,509 @@
+[
+  {
+    "id": "scrumptious",
+    "name": "Scrumptious",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": 1980,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Starkspur Golden Delicious x Discovery",
+      "raised_by": "Hugh Ermen"
+    },
+    "history": "Raised in the 1980s by Hugh Ermen, a Kent fruit breeder who aimed to give gardeners an early apple with more flavour and better disease resistance than the old earlies. It gained the RHS Award of Garden Merit in 2010, shortly after Ermen's death, and is now one of the most widely planted garden apples in Britain.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": false,
+      "russet": 0,
+      "description": "Bright, glossy apple largely flushed cherry-red over pale green-yellow; colour varies with sun and can look stripy on shaded fruit."
+    },
+    "taste": {
+      "summary": "Sweet but well balanced by a fresh acidity, with the strawberry hint of its Discovery and Worcester ancestry and sometimes a faint aniseed note. Thin skin and white flesh that snaps cleanly at first but goes soft and floury if left on the tree too long.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "strawberry",
+        "sweet",
+        "aniseed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "weeping",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Branches tend to bend down under a full crop, so thin fruit and support young limbs. Partial tip-bearer: avoid cutting back every shoot tip. Blossom has good frost resistance."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Self-fertile, so it will crop alone, though a group 2-4 neighbour improves set."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and central England and similar cool maritime gardens; bred specifically for UK home growers.",
+      "poor_climates": "Growers in damp western Cornwall and Scotland report disappointing flavour and some canker; untested in hot-summer regions."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Bred for disease resistance and generally rated highly resistant to scab, though leaf scab occurs in wet years. Some susceptibility to canker and bitter pit; early fruit attracts wasps and codling moth."
+    },
+    "grow_notes": "An easy self-fertile apple for small gardens and trained forms. Pick slightly early rather than late to keep the crisp texture, and thin heavy crops to protect the branches.",
+    "conf": "high"
+  },
+  {
+    "id": "st-helens",
+    "name": "St Helens",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": 2015,
+      "year_note": "seed sown",
+      "kind": "bred",
+      "parentage": "Thought to be Rajka x Sunrise",
+      "raised_by": "Karim Habibi, from seeds germinated by pupils of St Helen's Montessori school"
+    },
+    "history": "A very new seedling: in 2015 children at St Helen's Montessori school germinated pips collected at Keepers Nursery in Kent, and this dark red early apple was the one selected and named after the school. Its recorded parents are the Czech scab-resistant Rajka and the Canadian early apple Sunrise.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium dark red apple with pale cream flesh."
+    },
+    "taste": {
+      "summary": "A dark red early dessert apple with a crisp, light texture. A taster found it floral and sugary, a lighter style than the nursery's other early seedling.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "floral",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late summer, soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Too new for any published growing record."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded; plant with another apple to be safe."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Raised and so far grown only in south-east England.",
+      "poor_climates": "Untested elsewhere; climate values are inferred from its Kent origin and temperate parents."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not yet recorded. Rajka carries scab resistance, but whether this seedling inherited it is unknown."
+    },
+    "grow_notes": "A novelty for gardeners who like new local apples. Grow it in a sunny spot alongside an early-to-mid flowering partner until more is known about its fertility.",
+    "conf": "low",
+    "tags": [
+      "keepers-bred"
+    ]
+  },
+  {
+    "id": "statefair",
+    "name": "Statefair",
+    "aka": [
+      "State Fair"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota Horticultural Research Center, Excelsior, Minnesota",
+      "year": 1949,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Mantet x Oriole",
+      "raised_by": "W.H. Alderman, University of Minnesota"
+    },
+    "history": "Crossed in 1949 by W.H. Alderman in the University of Minnesota programme and released in the late 1970s as a very winter-hardy early apple for the northern Midwest. It is a parent of Zestar!.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small-to-medium round-conical apple brightly striped and mottled orange-red to red over pale yellow."
+    },
+    "taste": {
+      "summary": "Juicy and crisp with a firmer bite than most summer apples, and a tart-sweet, mildly aromatic flavour that leans to the sharp side.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep; keeps a few weeks, which is good for a summer apple"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Prone to biennial bearing; thin heavy crops early to keep it regular. Fire blight can damage trees in warm, humid springs."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Brogdale records flowering just before Cox (group 3); Orange Pippin lists group 4. Needs a pollinator."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold continental climates with short summers, such as Minnesota, Wisconsin and the Canadian prairies' milder edges; trees have survived about -40 C.",
+      "poor_climates": "Mild or hot-summer regions: fire blight pressure is higher and an early summer apple from Minnesota offers little advantage there."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Main weakness is fire blight; also a tendency to bear biennially."
+    },
+    "grow_notes": "Best for cold northern gardens where most early apples are not hardy. Prune out fire blight strikes promptly and thin fruit in heavy years.",
+    "conf": "medium"
+  },
+  {
+    "id": "sunrise",
+    "name": "Sunrise",
+    "aka": [
+      "Sunrise (Canada)"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Agriculture Canada Research Station, Summerland, British Columbia",
+      "year": 1991,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Golden Delicious, with an unnamed selection also in the pedigree",
+      "raised_by": "Summerland Research Station (Agriculture and Agri-Food Canada)"
+    },
+    "history": "Released in 1991 by the Summerland research station in British Columbia, the programme that also produced Spartan. The name was earlier used for an unrelated Victorian English apple from Welford Park, Berkshire; the widely sold modern tree is the Canadian one.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Smooth, clean apple with a long stalk; pale green-yellow skin flushed bright pinkish-red on the sunny side."
+    },
+    "taste": {
+      "summary": "Remarkably crisp for an August apple, with juicy white flesh and a balanced sweet-sharp flavour that some tasters liken to strawberry. Best chilled and eaten within a week or so of picking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "strawberry",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep; ripens over several weeks on the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Easy, reliable cropper. Fruit ripens over a long period so it can be picked as needed; training as an espalier helps colour."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (group 2); needs a pollinator that flowers early, and is exposed to spring frost."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Sunny, dry continental-temperate valleys like the Okanagan, and southern England, where it gives one of the better early crops.",
+      "poor_climates": "Wet climates encourage scab; very hot nights limit the McIntosh-type red colour, and early flowering risks frost in late-spring areas."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Somewhat susceptible to scab; shows some mildew resistance."
+    },
+    "grow_notes": "A good beginner's early apple. Plant with another early-flowering variety, give it sun for colour, and pick over several weeks from late August.",
+    "conf": "medium"
+  },
+  {
+    "id": "tydemans-early-worcester",
+    "name": "Tydeman's Early Worcester",
+    "aka": [
+      "Tydeman's Early",
+      "Early Worcester",
+      "Tydeman's Red"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1929,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Worcester Pearmain",
+      "raised_by": "H.M. Tydeman, East Malling Research Station"
+    },
+    "history": "Bred in 1929 by H.M. Tydeman at East Malling and introduced in 1945 as an earlier-ripening alternative to Worcester Pearmain. It is the seed parent of Folkestone.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Bright, almost wholly crimson-red apple with faint streaks over a yellow ground, resembling an early Worcester."
+    },
+    "taste": {
+      "summary": "Crisp, fine white flesh that is very juicy, with a sweet, vinous flavour that shows the McIntosh side of its parentage. Short-lived: it softens within a couple of weeks.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-mid Sep, fresh"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous with long, whippy, sprawling shoots; partial tip-bearer, so prune with renewal methods rather than hard spur pruning."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3; needs a pollinator such as James Grieve or Cox."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Southern and eastern England and other cool temperate areas with reasonably dry summers.",
+      "poor_climates": "Humid climates favour the mildew it inherited from McIntosh; heat softens the fruit quickly."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Prone to powdery mildew; moderate scab. Fruit drops and goes soft if left on the tree."
+    },
+    "grow_notes": "Give it room or a vigour-controlling rootstock because of its sprawling growth. Remove mildewed shoot tips in spring and pick as soon as the fruit colours fully.",
+    "conf": "medium"
+  },
+  {
+    "id": "vista-bella",
+    "name": "Vista Bella",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New Jersey Agricultural Experiment Station, New Brunswick, New Jersey",
+      "year": 1956,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Complex: includes Julyred, Williams Early Red and Starr",
+      "raised_by": "New Jersey Agricultural Experiment Station (Rutgers)"
+    },
+    "history": "Raised in 1956 in the Rutgers programme in New Jersey. Its name ('beautiful view') reflects its unusually good performance in trials in the Guatemalan highlands, and it is still grown on a small commercial scale as one of the earliest apples of summer.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "crimson",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Pale yellow-green skin heavily flushed and striped dark red, turning almost solid crimson in sun when fully ripe."
+    },
+    "taste": {
+      "summary": "Light, juicy, creamy-white flesh with a fruity McIntosh-like flavour that reminds some tasters of slightly under-ripe raspberries. Excellent off the tree but loses crispness and flavour within days.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "berry",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug (from late Jul in warm years), straight from the tree; keep in the fridge"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing early and crops well. Fruit ripens over a short window and must be picked promptly."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (group 2); pair with another early bloomer."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer regions where an apple in midsummer is valued: the US mid-Atlantic, upland subtropics such as highland Guatemala, and southern England.",
+      "poor_climates": "Areas with late spring frosts (early blossom) and wet, canker-prone sites. Chill figure is an estimate based on its success in tropical highlands."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Known to be susceptible to canker; fruit has very short shelf life."
+    },
+    "grow_notes": "Plant on well-drained soil to limit canker and choose an early-flowering partner. Pick the moment fruit colours and use it within a few days.",
+    "conf": "medium"
+  }
+]

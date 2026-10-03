@@ -1,0 +1,591 @@
+[
+  {
+    "id": "rosemary-russet",
+    "name": "Rosemary Russet",
+    "aka": [
+      "Rosemary",
+      "Rosemary Apple",
+      "Benskin's Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1831,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An English russet of unknown parentage, first described in print in 1831 and praised by Robert Hogg later in the century as a dessert apple of the very first rank. It never became as widely planted as Egremont Russet but holds an RHS Award of Garden Merit.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 2,
+      "description": "Tapering, slightly flat-topped fruit, green-yellow with a faint brownish-red cheek and a thin coat of pale brown russet that is heaviest around the eye and the long stalk."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained and juicy, with a lively balance of sugar and acid and a rich, aromatic finish. Sharper than most russets when first picked, it rounds out and sweetens after a few weeks in store.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb, after some weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous with an upright habit; a regular-bearing spur type that suits restricted forms and standard winter spur pruning."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering (National Fruit Collection records it in bloom with Bramley and Cox); any group 2-4 diploid will pollinate it."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool to mild temperate climates such as lowland England, where a long autumn lets it build sugar before picking.",
+      "poor_climates": "Very short, cool seasons may leave it too sharp; in hot humid regions disease pressure and early softening are likely problems."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally considered a healthy garden tree with some resistance to scab and canker; suitable for low-spray growing."
+    },
+    "grow_notes": "A good choice for a garden russet: give it a sunny site on well-drained loam and partner it with a mid-season pollinator such as Cox, Discovery or Sunset. Store picked fruit somewhere cool and slightly humid so the russeted skin does not shrivel too fast.",
+    "conf": "high"
+  },
+  {
+    "id": "ross-nonpareil",
+    "name": "Ross Nonpareil",
+    "aka": [
+      "Nonpareil Ross",
+      "Non-Pareille de Ross"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IE",
+      "place": "County Meath, Ireland",
+      "year": 1802,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An Irish apple recorded in County Meath in 1802. Robertson, a Kilkenny nurseryman, sent it to the Horticultural Society of London and it reached English growers around 1819; Victorian authorities ranked it among the best dessert russets.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 3,
+      "description": "Neat, smallish, evenly rounded fruit almost wholly covered in fine golden-brown russet, with a faint streaky orange-red tint on the sunny side."
+    },
+    "taste": {
+      "summary": "Firm, crisp and on the dry side, with plenty of sugar and a rich, aromatic flavour that old writers likened to the fennel-scented Fenouillet apples, giving it a faint anise note.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "fennel",
+        "aniseed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Nineteenth-century growers found it hardy, free-growing and a reliable cropper on most soils; modern growing data are scarce."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Blossoms early in National Fruit Collection records, about the same time as Ribston Pippin and Egremont Russet; pair with a group 1-3 partner."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist maritime climates like Ireland and western Britain, where it originated and was long grown.",
+      "poor_climates": "Untested in hot or strongly continental climates; an early-flowering tree may also lose blossom to late frosts in exposed sites."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded; older accounts describe a hardy, healthy tree."
+    },
+    "grow_notes": "Plant in a sheltered, sunny spot away from frost pockets because it flowers early. It tolerates a wide range of soils; pick in late September or early October and keep the fruit cool to enjoy through midwinter.",
+    "conf": "medium"
+  },
+  {
+    "id": "saltcote-pippin",
+    "name": "Saltcote Pippin",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Rye, Sussex, England",
+      "year": 1918,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Ribston Pippin or Radford Beauty x unknown (uncertain)",
+      "raised_by": "James Hoad"
+    },
+    "history": "Raised by James Hoad at Rye in East Sussex and first recorded in 1918. It gained a Royal Horticultural Society Award of Merit in 1928; its seed parent is thought to be either Ribston Pippin or Radford Beauty.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": 0,
+      "description": "Broad, rounded-conical yellow fruit streaked and flushed with orange-red and almost free of russet."
+    },
+    "taste": {
+      "summary": "Firm, crisp cream flesh that is only moderately juicy, with a sweet, pleasantly aromatic flavour.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Eating period not well recorded; picked early October"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little published growing information; manage as a typical spur-bearing English dessert apple until it shows otherwise."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "National Fruit Collection flowering dates fall in the mid-season window with Bramley and Cox; assume it needs a partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "South-east England and comparable mild temperate climates where it was raised.",
+      "poor_climates": "No record of performance in hot or very cold regions; values here are inferred from its English origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A Sussex heritage apple for collectors in southern England. Grow on a reasonable, well-drained soil in full sun with a mid-season pollinator such as Cox or Discovery.",
+    "conf": "low"
+  },
+  {
+    "id": "sam-young",
+    "name": "Sam Young",
+    "aka": [
+      "Irish Russet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IE",
+      "place": "Ireland",
+      "year": 1818,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An Irish russet brought to English attention around 1818 by Robertson, the Kilkenny nurseryman who also introduced Ross Nonpareil. Hogg rated it a first-class little dessert apple.",
+    "look": {
+      "size": "small",
+      "shape": "flat",
+      "ground": "yellow",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small, squat apple largely covered in grey-brown russet over a greenish-yellow skin, with a dull brownish-red cheek on the sunny side."
+    },
+    "taste": {
+      "summary": "Firm, rather tough greenish flesh; older descriptions call it sugary and highly flavoured, while modern NFC notes describe a milder, subacid taste.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growing characteristics are not well documented."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Flowers fairly early in National Fruit Collection records, close to Ribston Pippin; a group 2 or 3 partner should overlap."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, damp maritime climates such as Ireland and western Britain.",
+      "poor_climates": "No documented performance in hot or continental climates; estimates here come from its Irish origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not recorded."
+    },
+    "grow_notes": "A curiosity for Irish and British heritage collections. Site it away from frost pockets because it blossoms early, and store the small russeted fruit somewhere cool and humid to limit shrivelling.",
+    "conf": "medium"
+  },
+  {
+    "id": "saturn",
+    "name": "Saturn",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1977,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "PRI 1235-100 (scab-resistant selection) x Starkspur Golden Delicious",
+      "raised_by": "Dr Frank Alston, East Malling Research Station"
+    },
+    "history": "A disease-resistant dessert apple bred at East Malling by Frank Alston, selected in 1977 and released to growers in the late 1990s. The scab resistance comes from a Purdue-Rutgers-Illinois (PRI) selection; claims that it descends from Falstaff and Cox are mistaken.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 65,
+      "stripes": false,
+      "russet": 0,
+      "description": "Smooth, rounded fruit with lime-green to yellow skin mostly covered in a deep red flush."
+    },
+    "taste": {
+      "summary": "Crisp flesh that snaps cleanly and is very juicy. Clearly sweet but balanced by a good measure of acidity, so it tastes properly of apple rather than just sugary.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Average vigour, starts cropping young and bears heavily and regularly; bred with organic and low-spray growing in mind."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Mid-season flowering; reported as partly self-fertile but crops better with a group 2-4 partner nearby."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Damp temperate climates where scab and mildew make conventional varieties hard to grow without spraying, such as western Britain and northern Europe.",
+      "poor_climates": "Hot summers are likely to dull the red colour and soften the fruit; little evidence from warm regions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Carries Vf-type scab resistance and good mildew resistance; other disease responses are not well documented."
+    },
+    "grow_notes": "One of the easier modern apples for an unsprayed garden in a wet climate. Plant in full sun with a mid-season pollinator, thin heavy sets so fruit size holds up, and eat within a couple of months of picking.",
+    "conf": "medium"
+  },
+  {
+    "id": "self-fertile-cox",
+    "name": "Self-Fertile Cox",
+    "aka": [
+      "Cox Self-Fertile",
+      "Cox's Self Fertile"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": null,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Induced self-compatible mutant (clone) of Cox's Orange Pippin",
+      "raised_by": null
+    },
+    "history": "A clone of Cox's Orange Pippin that can set fruit with its own pollen. British researchers created self-compatible Cox mutants by irradiation and published the work in the early 1980s, and self-fertile Cox trees have since become a standard garden-centre offering for gardens with room for only one apple. In every other respect it is Cox, and it shares Cox's flavour and its weaknesses.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Same appearance as Cox: golden-yellow fruit with an orange-red flush and red streaks, with light russet around the stalk."
+    },
+    "taste": {
+      "summary": "Tastes like Cox's Orange Pippin: rich and aromatic with honeyed sweetness, floral and pear-drop notes and balancing acidity. Some growers find heavy self-set crops give smaller fruit with slightly less depth.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "floral",
+        "pear-drop",
+        "honey",
+        "rose"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; flavour peaks a few weeks after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Grows like ordinary Cox, a moderately vigorous spur-bearer. Because it pollinates itself it can set heavily, so thinning fruitlets helps both size and next year's crop."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Sets fruit without a partner, which is the reason it exists; it will also pollinate, and be pollinated by, other group 2-4 diploids."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, fairly dry temperate climates like south-east England, the Low Countries and New Zealand's cooler districts, the conditions where Cox does best.",
+      "poor_climates": "Hot summers give poorly coloured, soft fruit; wet, mild regions bring heavy scab and canker pressure; very cold winters are also a risk."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 5,
+      "mildew": 4,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Has the same weaknesses as Cox: canker on heavy or wet soils, plus scab and mildew; it needs good air movement and attentive care."
+    },
+    "grow_notes": "Meant for small gardens with room for only one tree. Give it a warm, sunny, sheltered spot on well-drained soil (it hates waterlogging), cut out canker promptly and thin the crop in June.",
+    "conf": "medium"
+  },
+  {
+    "id": "sima-joon",
+    "name": "Sima Joon",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Keepers Nursery, East Farleigh, Kent",
+      "year": 2023,
+      "year_note": "introduced",
+      "kind": "bred",
+      "parentage": "Open-pollinated seedling of Rajka",
+      "raised_by": "Karim Habibi (Keepers Nursery Seedling 79)"
+    },
+    "history": "A late red apple from Karim Habibi's seedling programme at Keepers Nursery, named after his mother Sima and introduced in 2023. The raiser ranks it just behind Primrose Pippin among his selections, and notes it is the better looking of the two.",
+    "look": {
+      "size": "large",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": null,
+      "russet": null,
+      "description": "Large red-skinned apple."
+    },
+    "taste": {
+      "summary": "A crisp late apple whose flavour is described as an even balance of sweetness and acidity. Early reports only; it has had very little independent tasting.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": null,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "November"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Unknown."
+    },
+    "season": {
+      "harvest": "early Nov-mid Nov",
+      "eating": "Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Only trialled in Kent so far.",
+      "poor_climates": "Not yet known."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Unknown."
+    },
+    "grow_notes": "No independent growing advice available; ask the supplying nursery for its experience with the tree.",
+    "conf": "low",
+    "tags": [
+      "keepers-bred"
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "pancake-apple",
+    "name": "Pancake Apple",
+    "aka": [],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Offered in Britain as a cooking apple, but no variety of this name (nor a synonym) appears in the National Fruit Collection register or the other pomological sources consulted. Its origin and identity are unconfirmed; it may be a local or trade name for another variety.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Not recorded."
+    },
+    "taste": {
+      "summary": "No reliable tasting description found; listed only as a cooking apple.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No growing data found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not recorded; plant with a partner of known mid-season group to be safe."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": null,
+      "poor_climates": null
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "Too little is documented to give specific advice; grow as a typical British cooking apple.",
+    "conf": "low"
+  },
+  {
+    "id": "scotch-bridget",
+    "name": "Scotch Bridget",
+    "aka": [
+      "White Calville"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Scotland",
+      "year": 1851,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Scottish cooking apple described in 1851. It has long been grown in north-west England as well as Scotland, where its hardiness makes it a dependable garden cooker.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Ribbed, conical apple, greenish-yellow largely covered by an attractive orange-red flush."
+    },
+    "taste": {
+      "summary": "Soft, tender white flesh, juicy with a lively acidity. Cooks well, and after a couple of months in store it mellows enough to be eaten raw in the new year.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; raw from about Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Average vigour, spur-bearing and regular. Ploidy is given as triploid by Orange Pippin but not confirmed elsewhere."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering. If triploid, as listed by Orange Pippin, it is a poor pollen donor and needs two diploid partners."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, wet and exposed northern and western British sites, such as Cumbria and southern Scotland.",
+      "poor_climates": "No documented performance in hot summers; colour and keeping are likely to suffer."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Valued as a tough tree for wet northern sites; specific disease ratings not recorded."
+    },
+    "grow_notes": "A good heritage cooker for gardens in the north and west where softer southern varieties struggle. Provide pollination partners and store the fruit cool to extend its season into January.",
+    "conf": "medium"
+  },
+  {
+    "id": "stirling-castle",
+    "name": "Stirling Castle",
+    "aka": [
+      "Sterling Castle",
+      "King Noble"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Causewayhead, near Stirling, Scotland",
+      "year": 1831,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "John Christie, nurseryman; introduced by Drummond of Stirling"
+    },
+    "history": "Raised by the nurseryman John Christie at Causewayhead near Stirling and introduced by the Drummond nursery of Stirling; it was first recorded in 1831. It spread well beyond Scotland as a hardy early cooker.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, flat, smooth-sided apple, pale green turning yellow, sometimes with a light brownish-orange cheek."
+    },
+    "taste": {
+      "summary": "Very soft, coarse, juicy white flesh with plenty of acidity. Cooks quickly to a sharp, fluffy puree.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; use soon after picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "A smallish, compact tree that crops very young and heavily, which suits small gardens and trained forms. Fruit bruises easily."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early-to-mid flowering (group 2 in Orange Pippin, near group 3 by NFC dates); partly self-fertile."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold and wet northern climates: Scotland, northern England and similar cool regions, where it is noted as cold-hardy.",
+      "poor_climates": "Hot summers would make the already soft fruit go mealy and drop early."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab; some susceptibility to powdery mildew. Soft fruit bruises and keeps only a few weeks."
+    },
+    "grow_notes": "Excellent for small or northern gardens because it stays compact and fruits within a couple of years. Thin heavy crops so the tree is not overloaded, and use the fruit within a few weeks.",
+    "conf": "high"
+  },
+  {
+    "id": "tower-of-glamis",
+    "name": "Tower of Glamis",
+    "aka": [
+      "Carse of Gowrie",
+      "Glamis Castle",
+      "Bridehead Reliance"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Scotland",
+      "year": 1800,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Scottish cooker known before 1800 and once grown commercially in the Carse of Gowrie between Perth and Dundee, hence its synonym Carse of Gowrie. It was also taken up in continental and Russian collections.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow",
+      "blush": "brown",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, conical, strongly ribbed apple with greasy yellow skin, faintly tinged reddish-brown and dotted with russet."
+    },
+    "taste": {
+      "summary": "Crisp, fairly fine, firm greenish-white flesh, juicy with a sharp but distinctly perfumed flavour. Cooks down to a well-flavoured puree.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "A vigorous tree that crops regularly; as a triploid it needs room and a good pollination set-up."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering and triploid, so a poor pollen donor; plant two early-flowering diploids nearby."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool eastern Scotland and northern Britain, as in the Carse of Gowrie orchards; also held in colder continental collections.",
+      "poor_climates": "No record of use in hot climates; early blossom is at risk in frost pockets."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease ratings not well recorded."
+    },
+    "grow_notes": "A hardy, heritage cooker for Scottish and northern orchards. Site it away from frost hollows because it flowers early, and provide two compatible pollinators.",
+    "conf": "medium"
+  },
+  {
+    "id": "warners-king",
+    "name": "Warner's King",
+    "aka": [
+      "King Apple",
+      "D. T. Fish",
+      "Killick's Apple",
+      "Poor Man's Friend",
+      "Weavering"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England",
+      "year": 1780,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Believed to be a Kentish apple, known in the late eighteenth century simply as the King Apple. A Mr Warner sent it to the Rivers nursery, which added his name to distinguish it; it is a parent of Norfolk Beauty and Encore.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 10,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broad, slightly ribbed fruit, pale green ripening yellow, sometimes with faint brownish streaks."
+    },
+    "taste": {
+      "summary": "Juicy, rather soft and coarse greenish flesh with a very sharp acidity. Breaks down quickly into a tart puree when cooked.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "A vigorous, spreading triploid tree; give it room or use a dwarfing rootstock."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (group 2, estimated partly from National Fruit Collection dates); as a triploid it will not pollinate others and needs two early-flowering diploid partners."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist south-eastern and central England, where it was once a popular cooker.",
+      "poor_climates": "No documented use in hot climates; frost pockets can damage its early blossom."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Specific disease ratings not well recorded; triploid, so a poor pollinator."
+    },
+    "grow_notes": "A big, productive cooker for orchards with space. Plant two diploid pollinators that flower early, and pick in late September for use through the autumn.",
+    "conf": "medium"
+  }
+]

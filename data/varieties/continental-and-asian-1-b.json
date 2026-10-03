@@ -1,0 +1,500 @@
+[
+  {
+    "id": "schoner-aus-nordhausen",
+    "name": "Schöner aus Nordhausen",
+    "aka": [
+      "Schöner von Nordhausen",
+      "Nordhausen"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Nordhausen, Thuringia, Germany",
+      "year": 1850,
+      "year_note": "before",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Arose at Nordhausen on the southern edge of the Harz before 1850 and was put on the market in 1882. It is still common in central German gardens and roadside orchards, and in the 20th century was for a while passed off under the name 'Hindenburg' as if it were a new find.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Appearance not reliably documented in the sources consulted."
+    },
+    "taste": {
+      "summary": "A sharp, finely aromatic late keeper, used both for eating once it mellows in store and in the kitchen.",
+      "sweet": null,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Apr from a cool store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Grown as a garden and standard orchard tree; dislikes damp sites. Ploidy inferred from its reputation as a good pollen donor."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Regarded as a good pollinator for other varieties; flowering time not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Apr",
+      "storage_weeks": 22
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The fairly dry, continental climate of central Germany (Thuringia, Saxony-Anhalt), on free-draining ground.",
+      "poor_climates": "Moist, humid sites, where the tree does badly."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease ratings not recorded; its dislike of moist sites suggests fungal problems in wet climates."
+    },
+    "grow_notes": "Plant on a dry, airy site rather than in a damp hollow. A useful pollen partner in a mixed orchard, and its fruit needs a cool cellar to show its keeping quality.",
+    "conf": "low"
+  },
+  {
+    "id": "ingrid-marie",
+    "name": "Ingrid Marie",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DK",
+      "place": "Høed school, Funen (Fyn), Denmark",
+      "year": 1910,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling; a 2011 DNA study gives Cox's Orange Pippin x Cox's Pomona",
+      "raised_by": "Found by schoolteacher Carl Madsen"
+    },
+    "history": "A chance seedling found around 1910 in the grounds of a school on Funen and named after the finder's daughter, who died young. Sold in Denmark from 1936 and Sweden from 1946, it became a mainstay of Scandinavian orchards and a parent of Elstar and the Swedish Aroma.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 75,
+      "stripes": false,
+      "russet": 1,
+      "description": "Round to slightly flattened apple, marbled dark red over most of a yellow-green skin, sprinkled with pale brown lenticels; red often stains the flesh just under the skin."
+    },
+    "taste": {
+      "summary": "Tender, juicy, yellowish-white flesh with a fresh sweet-tart balance; Scandinavian sources praise its pleasant aroma and one taster finds a hint of Cox, but Orange Pippin rates the flavour light and rather bland. Best soon after picking, though it can be stored into the new year; a traditional Christmas apple in Scandinavia.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Grows well in moderately warm, humid climates; avoid poorly drained ground where canker takes hold."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering, assigned to UK group 3 approximately; pollinated by Cox-season diploids."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild maritime Scandinavia (Denmark, southern Sweden) and similar cool, humid climates such as the UK.",
+      "poor_climates": "Cold inland areas beyond southern Swedish zones; hot summers are likely to spoil colour and texture."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Fruit-tree canker is the main weakness, especially on heavy, wet soils."
+    },
+    "grow_notes": "Choose a well-drained site and cut out canker promptly. Pair with another mid-season diploid such as Cox or James Grieve.",
+    "conf": "medium"
+  },
+  {
+    "id": "gyllenkroks-astrakan",
+    "name": "Gyllenkroks Astrakan",
+    "aka": [
+      "Gyllenkroks astrakan"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "SE",
+      "place": "Regnaholm estate, Östergötland, Sweden",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Believed to have arisen in the 18th century on the Regnaholm estate in Östergötland and named after the Gyllenkrok family who owned it. The Alnarp nursery began selling it in 1902, and it is now the provincial apple of Östergötland.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Round, just under medium-sized pale greenish-yellow fruit striped with red."
+    },
+    "taste": {
+      "summary": "Loose-textured, juicy early apple of good flavour, best eaten straight from the tree; like other summer apples it does not keep.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "At picking; keeps only briefly"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Makes a medium-sized, not very vigorous tree that crops early and well. Fruit ripens over a period and should be picked in several rounds when fully ripe."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Pollination details not recorded."
+    },
+    "season": {
+      "harvest": "mid Aug-late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool continental Scandinavia; recommended in Swedish growing zones I-IV.",
+      "poor_climates": "Not documented in warm climates; as a Nordic summer apple it is unlikely to suit hot summers."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Fungal disease occurs but less than in other Astrakan-type apples; generally easy and undemanding. Harvest date for south-east England estimated from the Swedish early-September picking."
+    },
+    "grow_notes": "An easy, early-cropping summer apple for cold gardens. Pick in stages as fruits ripen and eat them promptly.",
+    "conf": "low"
+  },
+  {
+    "id": "signe-tillisch",
+    "name": "Signe Tillisch",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DK",
+      "place": "Bjerre near Horsens, Jutland, Denmark (disputed)",
+      "year": 1866,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Tillisch (per C. Matthiesen); Swedish sources credit Count A. Rantzau of Rosenvold"
+    },
+    "history": "Danish pomologist C. Matthiesen recorded it as an 1866 seedling raised by Tillisch near Horsens and named after his daughter, though a Swedish account credits Count Rantzau at Rosenvold. It was distributed from Matthiesen's nursery at Korsør from 1889 and became popular across Scandinavia; the original tree fell in a 1975 storm.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": 0,
+      "description": "Large, ribbed Calville-type apple with mostly greenish to pale yellow skin."
+    },
+    "taste": {
+      "summary": "Juicy, sweet and only mildly acidic, with the soft, tender texture of the Calville group; best for a few weeks in late autumn.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree habit not well recorded; scab control is the main task."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "S-alleles S8S34; Scandinavian sources list Cortland, Cox's Orange Pippin and Ingrid Marie among suitable partners."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool Scandinavian climates; grown in Swedish zones I-IV and widely in Denmark and Norway.",
+      "poor_climates": "Wet, scab-prone districts; no evidence of performance in hot regions."
+    },
+    "health": {
+      "scab": 5,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to scab; moderately prone to canker and powdery mildew."
+    },
+    "grow_notes": "Plant on an open, breezy site where leaves dry quickly, and clear fallen leaves to cut scab. Needs a compatible pollinator such as Cox or Ingrid Marie.",
+    "conf": "medium"
+  },
+  {
+    "id": "filippa",
+    "name": "Filippa",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "DK",
+      "place": "Hundstrup, south Funen (Fyn), Denmark",
+      "year": 1880,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Filippa Johansen"
+    },
+    "history": "Grown from seed at Hundstrup on south Funen by Filippa Johansen, after whom it is named; dates between 1850 and 1881 are given. It won a first-class certificate from the Royal Danish Horticultural Society in 1888, reached Sweden through the Alnarp nursery in 1893, and is a parent of the Swedish apple Aroma.",
+    "look": {
+      "size": "large",
+      "shape": null,
+      "ground": "yellow-green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium to large fruit ripening to greenish-yellow or whitish-yellow."
+    },
+    "taste": {
+      "summary": "A sweet-sharp Calville-type apple eaten fresh and pressed for juice and cider; the juice is pale and not very sweet, so it is often blended.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Fruit hangs at the ends of long, thin branches and is easily blown off; 30-60% windfalls are common."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Pollination details not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool Scandinavian climates; grown in Swedish zones I-IV.",
+      "poor_climates": "Windy sites, because of heavy fruit drop; warm-climate performance unknown."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good resistance to scab, powdery mildew and canker; main problem is pre-harvest drop."
+    },
+    "grow_notes": "Plant in a sheltered spot to reduce windfalls, and prune lightly since it fruits at the shoot tips. Collect drops promptly for juice.",
+    "conf": "low"
+  },
+  {
+    "id": "calville-rouge-dhiver",
+    "name": "Calville Rouge d'Hiver",
+    "aka": [
+      "Roter Winterkalvill",
+      "Roter Winter-Calvill",
+      "Roter Himbeerapfel",
+      "Wintererdbeerapfel"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "France",
+      "year": 1600,
+      "year_note": "c.",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the old French Calvilles, known since around 1600 and long grown across France and Germany as a showy winter dessert apple. Its uneven performance and dark skin spotting have pushed it out of commerce, and it now survives mainly in old standard orchards and collections.",
+    "look": {
+      "size": "medium",
+      "shape": "ribbed",
+      "ground": null,
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, strongly ribbed, rather tall fruit flushed deep red almost all over; dark spots often appear on the skin."
+    },
+    "taste": {
+      "summary": "In a warm, well-chosen site it is sweet with a delicate raspberry-like perfume and soft, tender flesh; grown in cooler or poorer conditions it is rather flat and lacks aroma.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "berry",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree data not well recorded; quality depends strongly on a warm, favourable site."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering time not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Warm, sheltered sites in France and southern Germany with good soil, where the fruit colours and develops its aroma.",
+      "poor_climates": "Cool, damp or exposed sites, where flavour is poor and scab and canker take hold."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and canker; harmless dark spots on the skin spoil its looks."
+    },
+    "grow_notes": "Only worth growing on a warm wall or sunny, sheltered site with good soil. Keep scab under control and store the fruit cool until mid-winter.",
+    "conf": "medium"
+  }
+]

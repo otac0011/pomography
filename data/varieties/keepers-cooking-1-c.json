@@ -1,0 +1,310 @@
+[
+  {
+    "id": "domino",
+    "name": "Domino",
+    "aka": [],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "English Midlands, probably the Southwell area of Nottinghamshire",
+      "year": 1883,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An early codlin-type cooker first described in 1883, when it was being grown in the orchards around Southwell in Nottinghamshire. Hogg grouped it with Lord Suffield and Golden Spire as quick-bearing, prolific kitchen apples that must be used soon after picking.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 1,
+      "description": "Tall, blunt-conical, strongly ribbed and often lop-sided fruit, plain greenish-yellow with scattered russet dots and no flush."
+    },
+    "taste": {
+      "summary": "Soft, juicy, yellowish-white flesh with a mild acidity; cooks quickly to a soft purée. It goes over within a few weeks of picking.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 1,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep; use straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Recorded as an early-bearing, prolific tree in the codlin tradition; other habit details not recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers early in the season at Brogdale (a few days before Cox); treat as early group 3."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool English Midland conditions, where it was a common early orchard cooker.",
+      "poor_climates": "No records from hot regions; heat would make the soft fruit go over even faster."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "Useful for an early supply of cooking apples in August. Pick little and often and use promptly, as the fruit does not keep.",
+    "conf": "low"
+  },
+  {
+    "id": "ecklinville",
+    "name": "Ecklinville",
+    "aka": ["Ecklinville Seedling", "Ecklinville Pippin"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Ecklinville, near Portaferry, County Down, Northern Ireland",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Logan, a Scottish gardener at Ecklinville"
+    },
+    "history": "Raised around 1800 by a Scottish gardener named Logan on the Ecklinville estate near Portaferry on the Ards peninsula. During the 19th century it became widely planted in Ireland and southern Scotland and was a standard early cooker in British gardens.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, flattened, pale lemon-yellow fruit tinged green, with scattered russet dots and sometimes a slight reddish-brown cheek."
+    },
+    "taste": {
+      "summary": "Fine-grained, tender white flesh with a very sharp, brisk acidity. Cooks quickly to a smooth froth.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Noted since the 19th century as a great bearer; other habit details not well documented."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Bramley at Brogdale (group 3)."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist, mild maritime climates such as Ireland and Scotland, where it was historically widely planted.",
+      "poor_climates": "No evidence from hot climates; expect soft fruit that does not keep."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented."
+    },
+    "grow_notes": "A good early cooker for Irish, Scottish and northern English gardens. Pick from early September and use within a few weeks.",
+    "conf": "medium"
+  },
+  {
+    "id": "flower-of-kent",
+    "name": "Flower of Kent",
+    "aka": [],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England, presumably Kent",
+      "year": 1629,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English kitchen apple listed by John Parkinson in 1629. It is best known as the variety said to have grown at Isaac Newton's birthplace, Woolsthorpe Manor in Lincolnshire, and trees propagated from that line are planted at universities and museums as 'Newton's apple tree'.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 35,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, broad-based fruit with blunt ribs around the eye, green turning yellow, striped crimson on the sunny side and russeted around the stalk."
+    },
+    "taste": {
+      "summary": "Nineteenth-century accounts describe crisp, very juicy flesh with brisk acidity and rate it a first-rate cooker. Modern tasters of the Newton-line trees tend to find it coarse, mealy and unremarkable.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Described historically as one of the strongest-growing apples and better suited to an orchard than a small garden."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowering time not recorded; plant with a mid-season partner."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool lowland England, where it has been grown for centuries; Newton-line trees also grow in New England.",
+      "poor_climates": "Hot summers untested; likely to worsen its tendency to soft, mealy flesh."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded."
+    },
+    "grow_notes": "Grown mainly for its link with Newton rather than for fruit quality. It makes a big tree, so give it space or a semi-dwarfing stock.",
+    "conf": "low"
+  },
+  {
+    "id": "glockenapfel",
+    "name": "Glockenapfel",
+    "aka": ["Weißer Winterglockenapfel", "Schweizer Glockenapfel", "Altländer Glockenapfel", "Pomme Cloche"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "CH",
+      "place": "Uncertain: usually linked to Switzerland, possibly southern Germany or the Altes Land on the lower Elbe",
+      "year": 1850,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A chance seedling that appeared around the middle of the 19th century; Switzerland, southern Germany and the Altes Land fruit district near Hamburg are all suggested as its birthplace. Named for its tall bell shape, it became an important late-keeping apple in Switzerland and northern Germany and is a traditional choice for strudel.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Tall, bell-shaped, ribbed fruit with a smooth greenish-yellow skin, dark dots and sometimes a faint orange-red cheek."
+    },
+    "taste": {
+      "summary": "Dense, firm, almost pure-white flesh with a pronounced, bracing acidity and a fresh aromatic quality that builds after a couple of months in store. Holds its shape in baking; eaten raw it is best in late winter and spring when the sharpness has eased.",
+      "sweet": 2,
+      "acid": 5,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Dec-May"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous when young, settling to moderate growth with a characteristic drooping habit; branches tend to become bare inside, so regular renewal pruning helps. Standard trees tend to alternate, and young wood can be frost-damaged after a heavy crop."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "partial",
+      "notes": "Flowers fairly early (well before Cox at Brogdale). Described in German sources as partly self-fertile and a good pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-May",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist fruit districts of Switzerland, southern and northern Germany with a long growing season and fertile soil.",
+      "poor_climates": "Cold, exposed sites where wood is frost-damaged, and dry or poor soils that reduce fruit quality."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 3,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Low scab susceptibility but occasionally cankers; prone to bare wood and to frost damage in young shoots after heavy crops."
+    },
+    "grow_notes": "Give it a warm, sheltered spot on moist, fertile soil and thin the crop to reduce alternate bearing. Pick in mid October and store cold; it is one of the longest-keeping cooking apples.",
+    "conf": "medium"
+  }
+]

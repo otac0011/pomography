@@ -1,0 +1,133 @@
+{
+ "batch": "cold-hardy-and-low-chill-1",
+ "theme": "cold-hardy-and-low-chill",
+ "count": 21,
+ "varieties": [
+  {
+   "id": "wealthy",
+   "name": "Wealthy",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "duchess-of-oldenburg",
+   "name": "Duchess of Oldenburg",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "haralson",
+   "name": "Haralson",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "honeygold",
+   "name": "Honeygold",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "norland",
+   "name": "Norland",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "battleford",
+   "name": "Battleford",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "goodland",
+   "name": "Goodland",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "prairie-spy",
+   "name": "Prairie Spy",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "snowsweet",
+   "name": "Snowsweet",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "frostbite",
+   "name": "Frostbite",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "zestar",
+   "name": "Zestar",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "anna",
+   "name": "Anna",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "dorsett-golden",
+   "name": "Dorsett Golden",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "ein-shemer",
+   "name": "Ein Shemer",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "tropical-beauty",
+   "name": "Tropical Beauty",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "beverly-hills",
+   "name": "Beverly Hills",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "gordon",
+   "name": "Gordon",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "lady-williams",
+   "name": "Lady Williams",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "democrat",
+   "name": "Democrat",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "dunns-favourite",
+   "name": "Dunn's Favourite",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  },
+  {
+   "id": "winter-banana",
+   "name": "Winter Banana",
+   "theme": "cold-hardy-and-low-chill",
+   "keepers": false
+  }
+ ]
+}

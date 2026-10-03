@@ -1,0 +1,508 @@
+[
+  {
+    "id": "peasgoods-nonsuch",
+    "name": "Peasgood's Nonsuch",
+    "aka": [
+      "Peasgood Nonsuch",
+      "Peasgood's Nonesuch"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Stamford, Lincolnshire, England",
+      "year": 1858,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Catshead, pollen parent unknown",
+      "raised_by": "Mrs Peasgood"
+    },
+    "history": "Raised by Mrs Peasgood of Stamford, Lincolnshire, from a pip sown around 1858. It won a First Class Certificate from the Royal Horticultural Society in 1872 and became a Victorian show-bench favourite for its sheer size; it is a parent of Charles Ross and Rev. W. Wilks.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broad, handsome fruit, greenish-yellow to gold with carmine-orange stripes and flush and a few russet dots."
+    },
+    "taste": {
+      "summary": "Tender, slightly coarse, moderately juicy flesh with a gentle sweet-sharp flavour that is pleasant raw. Its real strength is cooking: it breaks down into a sweet, smooth puree needing little sugar, ideal for baked apples and sauce.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov for cooking; raw from late Sep"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous and spreading; cropping is fair rather than heavy. Thin clusters to one fruit for the largest apples."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, fairly dry eastern and southern England, where its Victorian reputation was made.",
+      "poor_climates": "Wet western districts encourage the scab and canker it is prone to; hot summers are untested."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and canker; avoid wet, poorly drained sites."
+    },
+    "grow_notes": "Plant on well-drained, fertile soil in an open spot with good air flow to keep scab and canker down. Pair with a group 3 partner and thin hard for exhibition-size fruit.",
+    "conf": "high"
+  },
+  {
+    "id": "polka",
+    "name": "Polka",
+    "aka": [
+      "Trajan",
+      "Ballerina Polka"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1976,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Wijcik McIntosh x Golden Delicious",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "One of the 'Ballerina' columnar apples bred at East Malling from the compact Wijcik sport of McIntosh; raised in 1976 and released in 1989. Polka is the trade name, and the national collection records it under the cultivar name Trajan.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium apple with a dark red flush over green."
+    },
+    "taste": {
+      "summary": "Sweet, crisp and juicy with a mild, McIntosh-family character that some compare to Spartan. A pleasant eater rather than a complex one; it does not keep long.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "columnar",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Grows as a narrow single column with short fruiting spurs, needing almost no pruning; ideal for pots and very small spaces."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; pair with another early-to-mid diploid, such as another Ballerina."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate gardens such as the UK and northern Europe, where it was bred and tested.",
+      "poor_climates": "Little evidence from hot-summer regions; McIntosh-type colour and texture usually suffer in heat."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease resistance described as average; specific ratings not recorded."
+    },
+    "grow_notes": "Grow in a large container or a sunny border where space is tight; keep the leader single and simply remove any side shoots that grow long. Feed and water well, as columnar trees in pots dry out quickly.",
+    "conf": "low"
+  },
+  {
+    "id": "red-sauce",
+    "name": "Red Sauce",
+    "aka": [],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1910,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Deacon Jones x Wealthy",
+      "raised_by": "Richard Wellington, NYSAES Geneva"
+    },
+    "history": "Raised in 1910 at the Geneva station in New York State and introduced in 1926. Its distinction is red-stained flesh that colours the juice and gives a pink sauce when cooked.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large conical fruit, largely flushed and striped red over pale green; the flesh is often stained pink to the core."
+    },
+    "taste": {
+      "summary": "Coarse, rather dry flesh with a mild, lightly acid flavour; more interesting for its pink colour than its eating quality. Cooks to a rosy sauce.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, mainly for cooking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "No reliable growing data recorded."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Flowers fairly late at Brogdale; group estimated from collection flowering dates (borderline 3/4)."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Bred for New York's cold-winter, cool-autumn conditions; grows in the UK national collection in Kent.",
+      "poor_climates": "No documented performance in hot or very cold regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A curiosity for cooks who want naturally pink apple sauce. Treat as an ordinary mid-season diploid: sunny site, a pollinator in group 3-5, spur pruning.",
+    "conf": "low"
+  },
+  {
+    "id": "red-windsor",
+    "name": "Red Windsor",
+    "aka": [
+      "Red Alkmene",
+      "Sweet Lilibet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": null,
+      "place": null,
+      "year": null,
+      "year_note": "",
+      "kind": "sport",
+      "parentage": "Red-skinned sport of Alkmene (Early Windsor), itself Geheimrat Dr Oldenburg x Cox's Orange Pippin",
+      "raised_by": null
+    },
+    "history": "A redder-skinned mutation of the German apple Alkmene, which is sold in Britain as Early Windsor. Known first as Red Alkmene, it was renamed Red Windsor in 1998 and has an RHS Award of Garden Merit; it has also been marketed in supermarkets as Sweet Lilibet. Where and by whom the sport was found is not well documented.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium apple largely covered in bright red, with faint Cox-like striping and a little russet showing through."
+    },
+    "taste": {
+      "summary": "Crisp, very juicy, firm yellowish flesh with an aromatic, Cox-like flavour that is tangier and cleaner-tasting than Cox; most tasters find it refreshingly sharp, and it gains a honeyed sweetness only when fully ripe. A short keeper, best eaten within a week or so of picking.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "honey",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, within a few weeks of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Moderate vigour and a reliable, regular cropper; popular for small gardens and containers."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "partial",
+      "notes": "Early flowering and reported to be self-fertile or partly so; crops better with an early partner. Blossom is vulnerable to frost."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, mild British and northern European gardens, including the north and Scotland where it is widely planted.",
+      "poor_climates": "Frost pockets damage its early blossom; hot climates are outside its known range."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good scab resistance inherited from Alkmene; early blossom is frost-tender."
+    },
+    "grow_notes": "An easy, healthy Cox-style apple for beginners. Avoid frost hollows because it blooms early, and pick when the fruit is fully red and parts easily from the spur; eat soon after.",
+    "conf": "medium"
+  },
+  {
+    "id": "rubinette",
+    "name": "Rubinette",
+    "aka": [
+      "Rafzubin"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CH",
+      "place": "Rafz, canton Zurich, Switzerland",
+      "year": 1966,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Delicious x probably Cox's Orange Pippin",
+      "raised_by": "Walter Hauenstein"
+    },
+    "history": "Raised in the 1960s by the Swiss grower Walter Hauenstein at Rafz, north of Zurich, from Golden Delicious most likely crossed with Cox, and released in the early 1980s (Rafzubin is the trademark name). A redder sport, Rubinette Rosso, also exists.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium Golden Delicious-shaped fruit with dull orange-red stripes and flush over yellow-green."
+    },
+    "taste": {
+      "summary": "Rich, intense sweet-sharp flavour with Cox-like aromatics and a juicy, crisp bite; widely rated among the best-flavoured modern apples, and more consistent from year to year than Cox.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "light",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Weak-growing; fruit stays small unless thinned ruthlessly to a single apple per cluster. A semi-vigorous rootstock such as MM106 helps in gardens."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate central and northern Europe; reported to tolerate warmer summers than Cox, so a better Cox-style choice for much of the USA.",
+      "poor_climates": "Wet, humid climates encourage scab; very hot regions untested."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab-prone like Cox, and also troubled by mildew and aphids; benefits from a spray programme."
+    },
+    "grow_notes": "Grow for flavour, not ease. Give it good soil, an open site and a semi-vigorous rootstock, thin hard after June drop, and be ready to manage scab in wet years.",
+    "conf": "high"
+  },
+  {
+    "id": "rubinola",
+    "name": "Rubinola",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "CZ",
+      "place": "Institute of Experimental Botany, Strizovice, Czech Republic",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Prima x Rubin",
+      "raised_by": "Institute of Experimental Botany (Academy of Sciences), Strizovice"
+    },
+    "history": "A late 20th-century Czech variety from the Strizovice breeding programme, combining the scab-resistant Prima with the well-flavoured Czech apple Rubin. It carries the Vf scab-resistance gene.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": null,
+      "description": "Rounded fruit with a yellow-orange ground largely covered in red; the skin can feel slightly greasy."
+    },
+    "taste": {
+      "summary": "Sweet with balancing acidity and a good aroma; the cream flesh is crisp but light and juicy, and slow to brown when cut.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "part-tip",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous when young, calming later, with a pyramidal crown of steep shoots. Partly tip-bearing, so avoid shortening every shoot when pruning."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a diploid partner in group 2-4."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central European conditions; Czech growers report the best flavour at moderate altitudes. Also grown in the UK and Low Countries.",
+      "poor_climates": "No documented performance in hot or subtropical regions."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Vf scab resistance (can be overcome by new scab races); good mildew resistance reported in Czech trials."
+    },
+    "grow_notes": "A good low-spray choice for organic gardens. Use a dwarfing rootstock and spindle or bush form, and prune lightly in summer, leaving some tip-fruiting shoots.",
+    "conf": "medium"
+  }
+]

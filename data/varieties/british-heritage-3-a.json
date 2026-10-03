@@ -1,0 +1,345 @@
+[
+  {
+    "id": "kerry-pippin",
+    "name": "Kerry Pippin",
+    "aka": [
+      "Edmonton's Aromatic Pippin",
+      "Aromatic Pippin",
+      "Red Streak Pippin",
+      "Pepin de Kerry"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IE",
+      "place": "Ireland (presumably County Kerry)",
+      "year": 1802,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An Irish early dessert apple on record since 1802 and known in England by 1819. Hogg credited its wider spread to Robertson, a Kilkenny nurseryman who died in 1839, and ranked it among the finest early dessert apples.",
+    "look": {
+      "size": "small",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 35,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small, neat oval fruit with a glossy pale yellow skin, streaked and flushed bright red on the sunny side, sometimes with a trace of fine russet."
+    },
+    "taste": {
+      "summary": "Hard, very crisp yellowish flesh with a brisk, sugary and aromatic flavour of the sub-acid type. Older writers found it very juicy, while the National Fruit Collection describes it as rather dry. Best eaten soon after picking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 3,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, fresh from the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A hardy, medium-sized tree that 19th-century growers recommended for dwarfing stocks, bush forms and espaliers. Cropping was described as good by Hogg and moderate by Bunyard."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Flowers early: the National Fruit Collection records full bloom in the first week of May, so group 2 is inferred. Assume it needs an early-to-mid flowering partner."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp maritime climates like Ireland and western Britain, where it has long been grown.",
+      "poor_climates": "No record of use in hot regions; an early, small dessert apple like this would likely ripen soft and colour poorly in warm summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded."
+    },
+    "grow_notes": "A good choice for a small garden tree or trained form in Ireland or western Britain. Pick at the end of August and eat within a few weeks, and plant an early-flowering partner nearby.",
+    "conf": "medium"
+  },
+  {
+    "id": "ballyfatten",
+    "name": "Ballyfatten",
+    "aka": [
+      "Bally Fatten"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Northern Ireland",
+      "year": 1802,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A cooking apple from Northern Ireland, first recorded in 1802; it shares its name with a townland in County Tyrone. It is kept in the National Fruit Collection, but little has been written about it.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 1,
+      "description": "Tall, ribbed, conical fruit, pale greenish-yellow, with a mottled pinkish to red-brown flush and a little russet."
+    },
+    "taste": {
+      "summary": "Firm, white, fairly dry flesh with a plainly acid flavour, suited to cooking rather than eating fresh.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Cooking apple; keeping season not recorded"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Recorded as a tip-bearer, so prune lightly and avoid shortening every shoot; better as a standard or bush than a spur-trained form."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records full bloom in mid to late May, later than most varieties, so group 5 is inferred. Pair it with another late-flowering apple."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, wet maritime climates like Ulster where it originated; its late bloom helps it avoid spring frosts.",
+      "poor_climates": "No record of performance in hot or continental climates; values are inferred from its Irish origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A heritage cooker for Irish or northern British gardens, worth planting where late frosts are common. Because it fruits at the shoot tips, prune by renewal rather than hard spur pruning.",
+    "conf": "low"
+  },
+  {
+    "id": "duke-of-devonshire",
+    "name": "Duke of Devonshire",
+    "aka": [
+      "Holker Pippin",
+      "Devonshire Duke"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Holker Hall, Cartmel, Lancashire (now Cumbria), England",
+      "year": 1835,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown; often thought to be related to Ashmead's Kernel because of its similar look and flavour",
+      "raised_by": "Mr Wilson, gardener to the Duke of Devonshire"
+    },
+    "history": "Raised in 1835 by Wilson, gardener on the Duke of Devonshire's Holker Hall estate in north Lancashire, and introduced around 1875. Edward Bunyard considered it essential as a very late dessert apple, and it has stayed a favourite with russet enthusiasts.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "brown",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": 2,
+      "description": "Small to medium, roundish-oval fruit, dull golden-yellow with a faint brownish-red cheek and a heavy net of russet; the stalk is very short and thick."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained and rather dry flesh with a rich, nutty flavour that balances sweetness against a fruity sharpness, in the same style as Ashmead's Kernel rather than the softer Egremont Russet. It needs a long time in store and is at its best in late winter.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "nutty",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Feb-Apr, after several months in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous and a regular cropper that makes a good standard. Young trees can show variegation in leaves, wood and fruit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records mid-season bloom (full flower around 11 May), so group 3 is inferred. Any mid-season diploid will pollinate it."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Feb-Apr",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, wet northern and western Britain, where its good scab resistance pays off; it was raised on the Cumbrian coast.",
+      "poor_climates": "Untested in hot climates; a late russet like this is likely to lose acidity and keeping quality where summers are hot."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported as very resistant to scab and generally healthy, like most russets."
+    },
+    "grow_notes": "One of the best late russets for wet northern gardens. Leave the fruit on the tree into October, store it cool, and plan to eat it from February onwards.",
+    "conf": "medium"
+  },
+  {
+    "id": "sops-in-wine",
+    "name": "Sops in Wine",
+    "aka": [
+      "Sops of Wine",
+      "Sapson",
+      "Sapsovine"
+    ],
+    "uses": [
+      "culinary",
+      "cider"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1832,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old English apple named for its red-stained flesh, which looks as if it had been soaked in wine. Hogg called it very ancient, but the name was used loosely for several red-fleshed apples, so the identity is uncertain; the National Fruit Collection holds accessions that ripen a month apart.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 1,
+      "description": "Roundish, slightly ribbed fruit almost entirely covered in a dark crimson flush, near-black on the sunny side and under a whitish bloom; the flesh is stained red."
+    },
+    "taste": {
+      "summary": "Tender, juicy flesh streaked red, sweet but not especially rich; some writers call it pleasant, others almost flavourless, and Hogg noted a faint cider-like astringency. Valued more for its colour than its taste.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 1,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "A vigorous, spreading, very hardy tree that crops freely and regularly; Hogg noted that it was free of canker."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "National Fruit Collection accessions bloom early (late April to early May), so group 2 is inferred; Orange Pippin lists group 3. Pair it with an early or mid-season partner."
+    },
+    "season": {
+      "harvest": "mid Sep-mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool temperate England, especially the South West, where old red-fleshed apples of this name were grown.",
+      "poor_climates": "No evidence of use in warm regions; heat would be expected to reduce the dark skin colour and staining of the flesh."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Shows some resistance to canker and some susceptibility to scab."
+    },
+    "grow_notes": "A curiosity for a heritage or cider orchard, grown mainly for its red-stained flesh. It needs room to spread and crops readily. Buy from a source that names its accession, because more than one apple goes by this name.",
+    "conf": "low"
+  }
+]

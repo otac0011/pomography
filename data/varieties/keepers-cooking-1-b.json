@@ -1,0 +1,464 @@
+[
+  {
+    "id": "bramleys-seedling",
+    "name": "Bramley's Seedling",
+    "aka": ["Bramley", "Triomphe de Kiel"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Southwell, Nottinghamshire, England",
+      "year": 1809,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling grown from a pip; parents unknown",
+      "raised_by": "Mary Ann Brailsford"
+    },
+    "history": "Grown from a pip by Mary Ann Brailsford in her Southwell garden sometime between 1809 and 1813. The cottage later passed to local butcher Matthew Bramley, who let nurseryman Henry Merryweather propagate the tree on condition that it bore his name; it was on sale by the 1860s, won an RHS First Class Certificate in 1893 and became Britain's standard cooking apple, with Co. Armagh's crop holding protected (PGI) status.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large to very large, flattish and often lop-sided, green ripening to greenish-yellow, with broad red-brown stripes on the side facing the sun."
+    },
+    "taste": {
+      "summary": "Very sharp, with high acidity and little sugar. Cooked, it collapses into a pale golden, fluffy purée whose strong, clean apple tang survives sweetening; after a few months in store it mellows enough for some people to eat raw.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; cooks well straight from the tree"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Makes a very large, broad, long-lived tree; on vigorous stocks it needs a lot of space. Bears partly on shoot tips, so avoid shortening every shoot when pruning."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid with poor pollen: plant a diploid partner in groups 2-4, and ideally a third variety so the partner is also pollinated. The blossom is prone to frost damage."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist maritime climates such as England and Northern Ireland, where it crops heavily, keeps its acidity and stores for months; it does well on heavier soils.",
+      "poor_climates": "Hot or continental summers give softer, less sharp fruit with more bitter pit and sunscald; frosty spring sites damage the early blossom."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Bitter pit in store is the main fruit disorder; blossom is frost-sensitive and cropping can become biennial. Triploid and partly tip-bearing."
+    },
+    "grow_notes": "Choose a semi-dwarfing or dwarfing rootstock unless you want a very large tree, and plant two compatible diploids nearby. Keep the soil well supplied with calcium and pick before heavy frosts to limit bitter pit.",
+    "conf": "high"
+  },
+  {
+    "id": "catshead",
+    "name": "Catshead",
+    "aka": ["Cat's Head", "Cathead"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1700,
+      "year_note": "before",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the oldest English cooking apples, already known in the 17th century and named for its boxy, angular outline. Older writers sometimes merged it with the Costard, though Hogg treated them as different apples. It is a parent of both Lord Derby and Peasgood's Nonsuch.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "green",
+      "blush": "brown",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Very large, squarish, angular fruit with prominent ribs that end in knobs around the eye; pale green with a faint brownish cheek, small russet dots and a greasy skin."
+    },
+    "taste": {
+      "summary": "Coarse, tender white flesh with moderate acidity and a faint perfume; some tasters find it rather dry. It cooks down to a soft purée and needs little sugar.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "A strong grower that eventually makes a very large, flat-topped tree. Slow to crop when young but more productive as it ages. Some sources list it as triploid; this has not been confirmed here."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers alongside Bramley at Brogdale (group 3). If it is triploid as some sources say, it will be a poor pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Traditional English orchards in cool, moist lowland conditions.",
+      "poor_climates": "Hot summers are untested; expect softer fruit and shorter keeping."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to resist scab well; other disease behaviour not well recorded."
+    },
+    "grow_notes": "Best grown as a large orchard tree on a vigorous stock where its slow start does not matter. Give it plenty of space and a group 2-4 diploid partner.",
+    "conf": "medium"
+  },
+  {
+    "id": "chelmsford-wonder",
+    "name": "Chelmsford Wonder",
+    "aka": ["Merveille de Chelmsford"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "near Chelmsford, Essex, England",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Arose near Chelmsford in Essex around 1870 and was put on the market about 1890 by the local nursery Saltmarsh & Son. In 1891 the RHS gave it both an Award of Merit and a First Class Certificate; it is still kept in Essex heritage orchards.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, flattish, yellow-skinned fruit with a soft orange-pink to red flush and streaks."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained and juicy flesh with a moderate, clean acidity. A late-keeping cooker that holds well in store.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree habit not well recorded in sources checked."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers with Bramley at Brogdale, so group 3; plant with a group 2-4 partner."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "East Anglia and similar cool, fairly dry lowland English conditions where it originated.",
+      "poor_climates": "No records from hot regions; heat would likely shorten keeping life."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented."
+    },
+    "grow_notes": "A good local heritage choice for Essex and East Anglian gardens. Pick in early October and store cool for use through the winter.",
+    "conf": "low"
+  },
+  {
+    "id": "coeur-de-boeuf",
+    "name": "Coeur de Boeuf",
+    "aka": ["Pomme de Boeuf", "Ochsenherz"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "FR",
+      "place": "France",
+      "year": null,
+      "year_note": "",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old French apple whose name means 'ox heart', for its size, shape and dark colour. The UK National Fruit Collection records it as French and very old (its register entry dates it to the Middle Ages, which is hard to verify); a local variety of the same name is conserved in the Haut-Languedoc.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "purple",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, broad fruit almost entirely streaked dark purplish-red over a pale ground."
+    },
+    "taste": {
+      "summary": "Soft, greenish flesh that is often veined with pink, sweetish with a mild acidity and some aroma. Used mainly for cooking and baking.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not recorded in sources checked."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers slightly before Cox at Brogdale; treat as group 3."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate France and southern England; grown in British collections without special care.",
+      "poor_climates": "No documented performance in very hot or very cold regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A curiosity for collectors of old French apples, notable for its dark skin and pink-veined flesh. Grow as a standard late-picked apple with a group 2-4 partner.",
+    "conf": "low"
+  },
+  {
+    "id": "costard",
+    "name": "Costard",
+    "aka": ["Coulthard", "Prussian Pippin"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "England",
+      "year": 1292,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the earliest named English apples: costards were bought for Edward I's household in 1292, and street sellers of them were called costardmongers, the origin of 'costermonger'. Grey, green and red costards were described in the 1600s, but by the 19th century the true apple was rare; the National Fruit Collection holds no authenticated tree, so trees sold under the name today may not be the medieval variety.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": null,
+      "description": "Large, tall, conical apple with strong ribs running down the body; dull yellowish green. The name is thought to come from Latin for 'ribbed'."
+    },
+    "taste": {
+      "summary": "Old descriptions give tender, greenish-white flesh with a mild sub-acid flavour, suited to the kitchen. Almost no modern tasting information exists for an authenticated tree.",
+      "sweet": null,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tudor writers describe the Costard as a large tree to be planted on the north side of an orchard so it would not shade others; modern growing data are lacking."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not recorded; plant with another apple to be safe."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Historically grown across lowland England; values here are inferred from its English origin.",
+      "poor_climates": "No performance data; hot climates untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information available."
+    },
+    "grow_notes": "Grow for its history rather than its proven performance, and treat the name with some caution since the authentic medieval variety is thought to be lost. Give it room as a large orchard tree.",
+    "conf": "low"
+  },
+  {
+    "id": "crimson-bramley",
+    "name": "Crimson Bramley",
+    "aka": ["Red Bramley", "Bramley's Seedling Red"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Southwell, Nottinghamshire, England",
+      "year": 1913,
+      "year_note": "first recorded",
+      "kind": "sport",
+      "parentage": "Red-coloured bud sport of Bramley's Seedling",
+      "raised_by": null
+    },
+    "history": "A more highly coloured sport of Bramley's Seedling that appeared in Southwell, Bramley's home town, and was listed in catalogues by 1913. Apart from its redder skin it behaves like ordinary Bramley.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 45,
+      "stripes": true,
+      "russet": 0,
+      "description": "Bramley's large, flattish shape but with much more of the green-yellow skin mottled and striped red."
+    },
+    "taste": {
+      "summary": "As Bramley's Seedling: firm, coarse, juicy and strongly acid, cooking to a fluffy, tangy purée.",
+      "sweet": 1,
+      "acid": 5,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "triploid",
+      "notes": "Grows like Bramley's Seedling: a large, spreading, partly tip-bearing triploid tree."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Flowers at the same time as Bramley. Triploid, so it needs a diploid partner in groups 2-4 and cannot pollinate it in return."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool maritime climates as for Bramley; cool autumn nights bring out its extra colour.",
+      "poor_climates": "Hot climates where Bramley-type fruit softens and pits, and the red colour develops poorly."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 3,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Assumed to share Bramley's weaknesses: bitter pit in store and frost-sensitive blossom."
+    },
+    "grow_notes": "Grow exactly as Bramley, choosing a semi-dwarfing stock for gardens and planting two diploid pollinators nearby. Pick it for its looks if you want a cooker that is attractive on the tree.",
+    "conf": "medium"
+  }
+]

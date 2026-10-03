@@ -1,0 +1,512 @@
+[
+  {
+    "id": "royal-gala",
+    "name": "Royal Gala",
+    "aka": [
+      "Tenroy"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "New Zealand",
+      "year": 1973,
+      "year_note": "c.",
+      "kind": "sport",
+      "parentage": "Colour sport of Gala (Kidd's Orange Red x Golden Delicious)",
+      "raised_by": "H. W. Ten Hove"
+    },
+    "history": "A redder-skinned bud mutation of Gala, the J. H. Kidd seedling from Greytown in the Wairarapa. It was found on a New Zealand orchard by H. W. Ten Hove and patented in the USA by Stark in 1977 under the name Tenroy; it, and later even redder Gala sports, largely replaced the original Gala in commercial orchards. Apart from colour it behaves like Gala.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small-to-medium, neat conical fruit, golden-yellow under heavy bright red streaks and flush; noticeably redder than standard Gala."
+    },
+    "taste": {
+      "summary": "Sweet and gentle with little acidity and a light floral, pear-like scent; crisp rather than hard, with thin skin and juicy cream flesh. Best fresh off the tree - the flavour is pleasant but simple, and after long storage it fades and the texture can turn mealy.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild",
+        "floral",
+        "pear"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov; at its best within a few weeks of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Sets heavy crops of small fruit unless thinned hard; thinning is the main job if you want decent-sized apples. Grows like Gala: moderately vigorous with good branch angles."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering like Gala (group 4); plant with another diploid in groups 3-5. A useful pollinator for many varieties."
+    },
+    "season": {
+      "harvest": "mid Sep-early Oct",
+      "eating": "Sep-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Very adaptable: sunny temperate regions with warm days and cool autumn nights (New Zealand, Washington, Chile, north Italy) give the best colour and crunch; also crops in milder-winter regions such as South Africa and southern Brazil thanks to a moderate chilling need.",
+      "poor_climates": "Cool, dull, wet climates produce small, scabby fruit with weak flavour; in very hot regions the fruit softens quickly and colours less well, and humid heat brings leaf and fruit rots."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": 5,
+      "rust": 3,
+      "bitter_pit": 2,
+      "other": "Very prone to fire blight and to scab; canker can be a problem in wet UK soils. In warm, humid regions Gala types are badly affected by Glomerella leaf spot and bitter rot. Fruit may split at the stalk."
+    },
+    "grow_notes": "Give it full sun and a well-drained, fertile soil, and spray or choose a dry site where scab and canker are common. Thin to one or two fruits per cluster soon after June drop for usable size. Pollinate with any mid-season diploid such as Cox, Discovery or Golden Delicious.",
+    "conf": "high"
+  },
+  {
+    "id": "jazz",
+    "name": "Jazz",
+    "aka": [
+      "Scifresh"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "Havelock North, Hawke's Bay, New Zealand",
+      "year": 1985,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Royal Gala x Braeburn",
+      "raised_by": "HortResearch (now Plant & Food Research), with ENZA"
+    },
+    "history": "Bred in Hawke's Bay by the New Zealand government research institute now called Plant & Food Research, from a 1985 Royal Gala x Braeburn cross, and launched commercially in the early 2000s. Jazz is the trademark; the cultivar name is Scifresh, and it is grown only under licence in both hemispheres, including in Kent.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, slightly conical fruit flushed red to maroon over green-yellow and orange, with fine pale lenticels."
+    },
+    "taste": {
+      "summary": "A very hard, dense, crunchy apple with juicy butter-yellow flesh and a strong sweet-sharp flavour led by a pronounced pear-drop note; tasters also report floral, honeyed and occasionally banana or clove hints. Well-coloured fruit tastes best - poorly coloured apples are flatter and closer to Braeburn - and the firmness holds for months in store.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "pear-drop",
+        "sweet",
+        "sharp",
+        "floral",
+        "banana"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; keeps its crunch well in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": 3,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing. A licensed club variety: trees are generally only available to contracted commercial growers, so garden plantings are rare. Needs good light into the canopy for colour."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Listed in flowering group 3; needs a compatible diploid pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Sunny regions with a long growing season and cool autumn nights, such as Hawke's Bay, Washington, the Western Cape, north Italy and the warmer fruit areas of southern England.",
+      "poor_climates": "Short, cool seasons leave it under-ripe and poorly coloured, which costs it most of its flavour; very hot autumns also limit colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Disease ratings are not well published; both parents (Gala and Braeburn) are prone to European canker and fire blight, and Braeburn to bitter pit, so treat Jazz as at risk of these."
+    },
+    "grow_notes": "Only practical where the season is long enough for a late-October harvest with good colour. Grow in full sun with open pruning so light reaches the fruit, and thin early. Pollinate with a group 2-4 diploid.",
+    "conf": "medium"
+  },
+  {
+    "id": "cripps-pink",
+    "name": "Cripps Pink",
+    "aka": [
+      "Pink Lady"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Stoneville Research Station, Western Australia",
+      "year": 1973,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Lady Williams x Golden Delicious",
+      "raised_by": "John Cripps, Western Australian Department of Agriculture"
+    },
+    "history": "Bred by John Cripps in Western Australia from a 1973 cross aiming to join the long keeping of Lady Williams with Golden Delicious sweetness. Released in the late 1980s, it is sold worldwide under the Pink Lady trademark, with fruit marketed under that name only if it meets strict colour and quality standards.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "pink",
+      "blush_cover": 50,
+      "stripes": false,
+      "russet": 0,
+      "description": "Slightly elongated fruit with a clear pink-to-cerise flush over a green ripening to yellow background; smooth, waxy skin."
+    },
+    "taste": {
+      "summary": "Very firm, fine-grained and crunchy with a refreshing, almost effervescent sharpness balanced by good sweetness. The acidity mellows in storage and the apple keeps its bite for months.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; improves for a month or more after picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous tree that needs careful pruning and crop-load management to colour the fruit. Its very long season (about 200 days from bloom to harvest) is the main limit on where it can be grown."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Flowers early relative to its very late harvest; UK flowering group not confirmed. Needs a compatible diploid flowering at the same time."
+    },
+    "season": {
+      "harvest": "early Nov-mid Nov",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 450,
+      "hardiness_zone": 6,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Long, hot, sunny seasons with a sharp drop to cool nights in autumn: Western Australia, Chile, South Africa, southern France and Spain, California.",
+      "poor_climates": "Cool or short seasons (most of Britain, northern Europe) where it often fails to ripen or colour before frosts; very warm autumns without cool nights leave the skin poorly coloured."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "Susceptible to fire blight; sunburn on exposed fruit in hot climates. Main weakness in the UK is simply the length of season it needs."
+    },
+    "grow_notes": "Only worth trying in Britain on a hot, south-facing wall or in the warmest parts of the south-east, and even then expect patchy ripening. In suitable climates prune to let light into the canopy in autumn so the pink colour develops.",
+    "conf": "high"
+  },
+  {
+    "id": "cripps-red",
+    "name": "Cripps Red",
+    "aka": [
+      "Sundowner",
+      "Joya"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Stoneville Research Station, Western Australia",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Lady Williams x Golden Delicious (same parentage as Cripps Pink)",
+      "raised_by": "John Cripps, Western Australian Department of Agriculture"
+    },
+    "history": "A sister seedling of Cripps Pink from John Cripps's Western Australian breeding work, selected for a redder skin and an even later harvest. It is marketed as Sundowner and in some markets as Joya.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Fairly large fruit with a deep red flush over green-yellow, marked with conspicuous pale lenticels."
+    },
+    "taste": {
+      "summary": "Crisp, white-fleshed and sweeter and softer-flavoured than its sister Pink Lady, with a clean finish and moderate acidity. Holds its shape when cooked.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr after storage"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Average vigour, crops young, with some tendency to alternate bearing; thin heavy crops."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Reported in flowering group 3; needs a compatible diploid pollinator."
+    },
+    "season": {
+      "harvest": "late Oct-mid Nov",
+      "eating": "Dec-Apr",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 450,
+      "hardiness_zone": 6,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Warm, long-season, low-chill fruit regions such as Western Australia and similar Mediterranean climates.",
+      "poor_climates": "Northern Europe and other short-season areas, where it is unlikely to ripen properly before winter."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 4,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some resistance to powdery mildew, but susceptible to scab, fire blight and woolly aphid."
+    },
+    "grow_notes": "A warm-climate apple that needs a long season; in the UK it is a curiosity rather than a practical choice. Thin to avoid biennial cropping and keep woolly aphid under control.",
+    "conf": "medium"
+  },
+  {
+    "id": "kanzi",
+    "name": "Kanzi",
+    "aka": [
+      "Nicoter"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "BE",
+      "place": "Sint-Truiden, Belgium",
+      "year": 1992,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Gala x Braeburn (reportedly the sports Gala Must and Braeburn Hillwell)",
+      "raised_by": "Nicolai nursery with KU Leuven (Better3fruit)"
+    },
+    "history": "Bred in Belgium from a Gala x Braeburn cross made around 1992 at the Nicolai nursery with the University of Leuven, and released about 2002 as cultivar Nicoter. It reached European shops under the Kanzi trademark (Swahili for 'hidden treasure') in 2006 and is a sibling of Jazz in parentage, though a separate seedling.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Gala-like but more conical, with a bright pinkish-red flush and streaks over yellow; smooth skin."
+    },
+    "taste": {
+      "summary": "Firm, fairly crisp and very juicy, with a mild, clean flavour that leans sharp rather than sweet and a light, vinous aftertaste. More delicate and less pronounced than its sibling Jazz; some tasters find a nectarine-like fruitiness, others want more sweetness.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "mild",
+        "wine"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Medium-sized tree with regular annual crops; fruit on a tree ripens fairly evenly. A licensed club variety mostly limited to contracted growers."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a cross-pollinator; UK flowering group not published."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate north-west European fruit regions (Belgium, the Netherlands, Germany, northern Italy) with sunny autumns.",
+      "poor_climates": "Wet, cool sites with heavy scab and canker pressure; hot climates likely reduce colour and acidity."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and not resistant to canker; prone to internal flesh browning if stored badly."
+    },
+    "grow_notes": "Needs a routine scab programme in wet climates and a free-draining soil to limit canker. Ripens around the same time as Golden Delicious, so it suits sunny southern sites in the UK.",
+    "conf": "medium"
+  },
+  {
+    "id": "rubens",
+    "name": "Rubens",
+    "aka": [
+      "Civni"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "IT",
+      "place": "Ferrara, Italy",
+      "year": 1988,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Gala x Elstar",
+      "raised_by": "CIV (Consorzio Italiano Vivaisti)"
+    },
+    "history": "Raised by the Italian nursery consortium CIV near Ferrara from a Gala x Elstar cross of the late 1980s, and released as cultivar Civni under the Rubens trademark. It is grown under licence, mainly in Italy and elsewhere in Europe.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, slightly conical fruit with orange-red streaks and flush over a yellow ground."
+    },
+    "taste": {
+      "summary": "Crisp and juicy with a good blend of sweetness and lively acidity, often described as almost fizzy on the tongue; more aromatic than Gala, showing some of Elstar's character.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, spur-bearing. A licensed club variety, rarely offered to gardeners."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a cross-pollinator; UK flowering group not published."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Temperate to warm fruit regions such as the Po valley and Alpine foothills of northern Italy, and sunny parts of western Europe.",
+      "poor_climates": "Cool, wet regions where its scab-prone parents' weaknesses would show; very hot lowlands give poorer colour."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Described as having average disease resistance; specific ratings not published. Both parents are scab-susceptible."
+    },
+    "grow_notes": "Picks about 10-15 days after Gala, so it fits a late-September slot. Treat like Gala for spraying and thinning, and grow in full sun for colour.",
+    "conf": "medium"
+  }
+]

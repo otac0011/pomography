@@ -1,0 +1,618 @@
+[
+  {
+    "id": "stoke-red",
+    "name": "Stoke Red",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Rodney Stoke, near Wells, Somerset, England",
+      "year": 1920,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "Named after the village of Rodney Stoke below the Mendips, it came to wider notice in the 1920s, though it was almost certainly grown locally well before that. Often bracketed with Kingston Black as a bittersharp good enough for single-variety cider.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": null,
+      "description": "Small, rounded fruit largely covered in bright red."
+    },
+    "taste": {
+      "summary": "A mild-to-medium bittersharp, fresh acidity joined by moderate tannin; makes a lively, fruity cider that is lighter in body than Kingston Black.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp", "astringent"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Slow-growing, medium-sized tree that takes its time to start bearing but then crops well."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Very late flowering, which helps it escape spring frosts; needs a late-blossoming partner such as Dabinett or Chisel Jersey."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Frost-prone valleys in mild maritime regions, where its late blossom is an advantage.",
+      "poor_climates": "Short-season climates where very late fruit fails to ripen."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Notably scab-resistant; some fire blight susceptibility."
+    },
+    "grow_notes": "A good pick for a frost pocket thanks to its late bloom. Allow several years before expecting a crop. Pair with other late flowerers.",
+    "conf": "medium"
+  },
+  {
+    "id": "ten-commandments",
+    "name": "Ten Commandments",
+    "aka": [],
+    "uses": ["cider", "dessert", "culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Herefordshire, England",
+      "year": 1883,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A Herefordshire apple recorded in 1883. The name comes from the ring of ten red dots, the cut vascular strands, that appear around the core when the fruit is sliced across.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium apple, often entirely red, with large pale lenticels; flesh tinged red under the skin and ten red spots around the core."
+    },
+    "taste": {
+      "summary": "Mild and mostly sweet with only gentle tannin; pleasant enough to eat and cook, and in cider it adds a pink tinge. Some tasters note an unusual, almost balsamic flavour.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "mild"],
+      "cider_class": "sweet",
+      "best_eaten": "Sep-Oct; keeps only a few weeks."
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little published information on growth habit."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Reported as early flowering; needs a compatible early-blossoming pollinator."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool, moist western England.",
+      "poor_climates": "Frost-prone sites may catch its early blossom."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease data found."
+    },
+    "grow_notes": "Sources disagree on its cider class (sweet or mild bittersweet); it is best treated as a dual-purpose apple and blended with bittersweets for cider. Avoid frost pockets because it blooms early.",
+    "conf": "low"
+  },
+  {
+    "id": "tremletts-bitter",
+    "name": "Tremlett's Bitter",
+    "aka": ["Tremlett"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Exe Valley, Devon, England",
+      "year": null,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A nineteenth-century bittersweet from the Exe Valley in Devon, named after the Tremlett family. It became one of the standard early bittersweets for commercial cider orchards.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium, firm, conical fruit, yellow with a heavy deep red flush."
+    },
+    "taste": {
+      "summary": "A full bittersweet with a very high tannin load and little acid; the juice is markedly astringent and bitter, so it is normally blended to give body and structure.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 5,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["bitter", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct, keeps up to three weeks."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "slight",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Comes into bearing at three to four years and crops heavily; sources differ on whether it is regular or biennial."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Blossom is reported to tolerate frost fairly well; needs a pollinator."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild, damp South West England and similar maritime areas.",
+      "poor_climates": "Humid regions with heavy scab pressure."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab reports conflict: some growers find it prone, others fairly resistant."
+    },
+    "grow_notes": "A precocious, productive early bittersweet for blending. Use only a modest share in a blend, as its tannin can dominate. Space for good airflow to keep scab down.",
+    "conf": "medium"
+  },
+  {
+    "id": "yarlington-mill",
+    "name": "Yarlington Mill",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Yarlington, near North Cadbury, Somerset, England",
+      "year": 1898,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; a wilding",
+      "raised_by": "Mr Bartlett (finder); propagated by Harry Masters"
+    },
+    "history": "Found about 1898 as a seedling growing out of the wall beside the mill-race at Yarlington in Somerset. Harry Masters took it up and spread it, and it went on to become a mainstay of West Country cider orchards.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": null,
+      "description": "Small to medium, rounded-conical fruit, yellow flushed and streaked with red."
+    },
+    "taste": {
+      "summary": "A medium bittersweet: sweet, soft juice with gentle tannin and low acid, giving a rounded, fruity cider that also works as a single variety.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Slow to begin bearing, then heavy but strongly biennial."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Late-mid flowering; needs a partner in bloom at the same time."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Mild maritime climates; grown successfully in English, Irish and North American cider orchards.",
+      "poor_climates": "Short-season areas where the late crop cannot ripen."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Good canker resistance; some scab and fire blight susceptibility; strong biennial bearing."
+    },
+    "grow_notes": "Thin fruit in heavy years to reduce the biennial swing. Suits standard or half-standard trees in a traditional orchard. Pairs well with Dabinett and Harry Masters Jersey.",
+    "conf": "high"
+  },
+  {
+    "id": "brown-snout",
+    "name": "Brown Snout",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Yarkhill, Herefordshire, England",
+      "year": 1850,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "Mr Dent (on whose farm it was found)"
+    },
+    "history": "Said to have been found on a Mr Dent's farm at Yarkhill in Herefordshire in the mid nineteenth century. Bulmers of Hereford propagated it widely, and it spread through West Midlands orchards and, less often, the West Country.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": 2,
+      "description": "Small green fruit with russet patches and a large brown russet patch around the eye, which gives the name."
+    },
+    "taste": {
+      "summary": "A mild-to-medium bittersweet: low acid with moderate tannin and firm flesh, making a soft, mellow cider.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sweet", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov-Dec."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Medium-sized tree with a stiffly upright habit; moderately biennial."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": null,
+      "notes": "Described as late flowering; group number inferred from that."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool, moist Herefordshire-type climates.",
+      "poor_climates": "Warm regions where fire blight is common."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 5,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to fire blight."
+    },
+    "grow_notes": "Avoid in fire-blight areas. Its upright habit suits close planting. Plant with other late-flowering cider apples.",
+    "conf": "medium"
+  },
+  {
+    "id": "michelin",
+    "name": "Michelin",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Yvetot, Normandy, France",
+      "year": 1872,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "M. Legrand, nurseryman of Yvetot"
+    },
+    "history": "Raised by the Yvetot nurseryman Legrand, it first fruited in 1872 and was named after the cider pomologist Henri Michelin. Herefordshire's Woolhope Club brought it to England in the 1880s, and despite being scarce in France it became one of the most planted English cider apples of the twentieth century.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": null,
+      "description": "Small-to-medium green apple, similar to Brown Snout but without the russet patch at the eye."
+    },
+    "taste": {
+      "summary": "A medium bittersweet with good sugar, low acid and fair tannin; reliable but rather neutral, so it is usually blended rather than used alone.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent", "mild"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Nov."
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Valued for dependable, regular heavy crops without strong biennialism; a long-standing commercial partner for Dabinett."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Partly self-fertile; often used as a pollinator in bush cider orchards."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Nov",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, moist maritime climates; widely grown in English and New World cider orchards.",
+      "poor_climates": "Short-season areas; humid regions with heavy scab pressure."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab reports vary from some resistance to moderate susceptibility."
+    },
+    "grow_notes": "A reliable workhorse cider apple for blending. Grows well in intensive bush orchards. Pick when fruit starts to drop.",
+    "conf": "high"
+  },
+  {
+    "id": "bulmers-norman",
+    "name": "Bulmer's Norman",
+    "aka": ["Norman"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "FR",
+      "place": "Normandy, France (introduced to Hereford, England)",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown; a French cider variety whose original name was lost",
+      "raised_by": "Introduced by H.P. Bulmer, Hereford"
+    },
+    "history": "A Norman cider apple imported by H.P. Bulmer of Hereford in the early twentieth century; its French name was lost, so it took the company's name. Its vigour made it a popular choice for frame-working and for early-season commercial orchards.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow-green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium, greenish-yellow cider apple."
+    },
+    "taste": {
+      "summary": "A bittersweet with sweet, low-acid juice and moderate tannin; useful early in the season to give body to blends.",
+      "sweet": 3,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "astringent"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill Oct."
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Very vigorous, spreading, flat-topped triploid; crops heavily but tends to alternate years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Triploid, so a poor pollen donor; needs two other compatible varieties nearby to pollinate it and each other."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cool-summer maritime climates such as Herefordshire and Normandy.",
+      "poor_climates": "Wet, humid areas where scab is severe."
+    },
+    "health": {
+      "scab": 5,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to scab; triploid; biennial."
+    },
+    "grow_notes": "Needs plenty of room or a dwarfing rootstock because of its vigour. Plan pollination carefully as a triploid. Spray or choose an airy site if scab is common locally.",
+    "conf": "medium"
+  },
+  {
+    "id": "sweet-coppin",
+    "name": "Sweet Coppin",
+    "aka": [],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Devon, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "An old Devon cider apple, probably nineteenth century or earlier, grown to supply sugar to blends. It is held in the National Fruit Collection.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Conical, pale green-yellow fruit."
+    },
+    "taste": {
+      "summary": "A pure sweet: sugary juice with very little acid or tannin, used to soften sharper or more tannic fruit in a blend.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 1,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "mild"],
+      "cider_class": "sweet",
+      "best_eaten": "Not for eating; mill soon after picking in Nov."
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": null,
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Fairly small tree with a biennial tendency; fruit drops when ripe and does not keep."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a mid-season flowering pollinator."
+    },
+    "season": {
+      "harvest": "early Nov",
+      "eating": "Nov",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, damp South West England.",
+      "poor_climates": "Short-season areas where very late fruit will not ripen."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some mildew susceptibility; fruit keeps poorly."
+    },
+    "grow_notes": "Grow as a blending sweet alongside bittersweets and bittersharps. Press quickly after gathering because the fruit does not store.",
+    "conf": "low"
+  }
+]

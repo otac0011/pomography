@@ -1,0 +1,233 @@
+[
+  {
+    "id": "centennial",
+    "name": "Centennial",
+    "aka": ["Centennial Crab"],
+    "uses": ["dessert", "crab", "culinary"],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Minnesota, USA",
+      "year": 1957,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Recorded by Orange Pippin as Dolgo x Chestnut Crab; not confirmed from a second source",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "Released by the University of Minnesota in 1957, around the time of the state's centennial, as a large, good-eating crab for very cold gardens. It is grown as much for fresh eating and sauce as for preserves.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": null,
+      "russet": 0,
+      "description": "A large crab of roughly 4-5 cm, bright red over an orange-yellow ground."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and sweet-sharp, good enough to eat fresh like a small dessert apple, and it cooks to a smooth sauce. It does not keep, so use it within a couple of weeks.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Aug-early Sep, fresh from the tree"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A naturally small, weak-growing tree that crops heavily, so it suits small gardens without a very dwarfing stock."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Pale pink blossom; needs a partner but is itself a good pollinator for other hardy apples."
+    },
+    "season": {
+      "harvest": "mid Aug-late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Cold continental climates such as Minnesota and the Canadian prairies, where it is fully hardy.",
+      "poor_climates": "Low-chill, hot regions; early ripening in summer heat shortens its already short keeping life (inferred)."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very resistant to scab with some fire blight resistance; main drawback is very poor storage."
+    },
+    "grow_notes": "Plant with another hardy apple or crab for pollination. Pick in late August and eat or make sauce quickly, as the fruit does not store.",
+    "conf": "medium"
+  },
+  {
+    "id": "parkland",
+    "name": "Parkland",
+    "aka": [],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "CA",
+      "place": "Morden Research Station, Manitoba, Canada",
+      "year": 1979,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": null,
+      "raised_by": "Agriculture Canada, Morden Research Station"
+    },
+    "history": "A very hardy Canadian prairie apple released by the federal research station at Morden, Manitoba, around 1979. It is grown where only the toughest apples and applecrabs survive, including sheltered sites in the far north.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small to medium, green ripening to yellow with red stripes and flush."
+    },
+    "taste": {
+      "summary": "Soft, sweet and juicy when ripe but rather tart and plain in flavour; best eaten straight off the tree or turned into sauce, since it keeps poorly.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Growers report trees of around 6 m on vigorous roots and generous crops, but tree traits are not formally documented in the sources consulted."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Plant with another hardy apple or crab for pollination; flowering group not recorded."
+    },
+    "season": {
+      "harvest": "early Aug-mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 2,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Severe prairie and northern climates with short summers (Manitoba, Saskatchewan, Alberta, the Yukon in sheltered spots).",
+      "poor_climates": "Warm or hot regions, where an August apple bred for the prairies softens and goes over quickly (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease ratings not documented in the sources consulted; very poor keeping quality is its main limitation."
+    },
+    "grow_notes": "A survival apple for very cold gardens. Give it a warm, sheltered spot in the far north, plant a hardy pollinator nearby, and freeze surplus fruit as sauce since it will not store.",
+    "conf": "low"
+  },
+  {
+    "id": "sweet-sixteen",
+    "name": "Sweet Sixteen",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota, Minnesota, USA",
+      "year": 1977,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "MN 447 (later released as Frostbite, a Malinda seedling) x Northern Spy",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "Released by the University of Minnesota in 1977 from a cross of the old breeding selection MN 447 (later named Frostbite) with Northern Spy. Its unusual candy-like sweetness gave it a cult following among northern home growers.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, roundish-conical apple with bright red stripes and flush over a yellow ground."
+    },
+    "taste": {
+      "summary": "Very sweet, crisp and juicy, with yellow flesh and a striking flavour often likened to cherry candy or sugar cane; anise notes come through after a spell in store. Acidity is low to moderate.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["cherry", "sweet", "aniseed", "spice"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Very vigorous, so a dwarfing or semi-dwarfing stock helps. Fruit tends to drop before harvest; pick promptly once ripe."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs another apple or crab flowering at the same time; fragrant, long-lasting white blossom."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold continental climates of the upper Midwest, New England and southern Canada; reported hardy into zone 3.",
+      "poor_climates": "Low-chill, hot climates where northern-bred apples get too little winter cold."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 2,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Some resistance to scab, fire blight and cedar-apple rust; pre-harvest fruit drop is its main fault."
+    },
+    "grow_notes": "Grow on a restricting rootstock to tame its vigour, in full sun with a pollinator nearby. Pick as soon as the fruit is ripe to beat the drop; flavour develops further over a few weeks in store.",
+    "conf": "high"
+  }
+]

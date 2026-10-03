@@ -1,0 +1,626 @@
+{
+ "batch": "flavour-6",
+ "count": 45,
+ "varieties": [
+  {
+   "id": "newtown-pippin",
+   "name": "Newtown Pippin",
+   "tags": [
+    "pineapple",
+    "sharp",
+    "citrus"
+   ],
+   "summary": "Very firm, crisp flesh that is sharp at picking and needs months in store; it then becomes rich and aromatic with a tangy sweetness and the pineapple-like note it is famous for. Excellent for juice and pies.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 5,
+   "juicy": 3
+  },
+  {
+   "id": "nonpareil",
+   "name": "Nonpareil",
+   "tags": [
+    "wine",
+    "pear-drop",
+    "sharp"
+   ],
+   "summary": "Tender, fine-grained greenish flesh with a lively, wine-like acidity and a rich aromatic depth that softens and sweetens through the winter. Best treated as a mid-winter apple rather than eaten from the tree.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "norfolk-beauty",
+   "name": "Norfolk Beauty",
+   "tags": [
+    "sharp",
+    "lemon"
+   ],
+   "summary": "Rather soft, loose, somewhat dry flesh with a clean acidity. It cooks quickly to a creamy froth that needs little sugar and has a light lemony note.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 2
+  },
+  {
+   "id": "norfolk-beefing",
+   "name": "Norfolk Beefing",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Very firm, coarse, juicy flesh that is strongly acidic at picking. It sweetens slowly in store and by late winter or spring can be eaten fresh; baked or dried it becomes dense, rich and sweet.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "norfolk-royal-russet",
+   "name": "Norfolk Royal Russet",
+   "tags": [
+    "nutty",
+    "pear",
+    "sweet"
+   ],
+   "summary": "Rich, sweet and nutty with a pear-like russet character and enough acidity to stay lively. The flesh is firm and juicy, less dry and spongy than Egremont Russet. Many tasters rank it among the best-flavoured English apples.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "norland",
+   "name": "Norland",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "A sweet, juicy summer apple with a light McIntosh-like flavour from its Melba side. Crisp at first but softens within weeks, and the white flesh browns quickly once cut.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "northern-spy",
+   "name": "Northern Spy",
+   "tags": [
+    "sharp",
+    "perfumed"
+   ],
+   "summary": "Crisp, very juicy, fine-grained flesh with a brisk, aromatic sweet-tart flavour that holds up well in store. It keeps its shape and tang when baked, which is why it is a favourite pie apple in North America.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "crisp": 5,
+   "juicy": 5
+  },
+  {
+   "id": "nuvar-cheerfull-gold",
+   "name": "Nuvar Cheerfull Gold",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "A balanced sweet-sharp apple with a pleasant tang. It lacks the layered aromatics of Cox but has crisper flesh, closer to Golden Delicious, and keeps well.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "nuvar-golden-hills",
+   "name": "Nuvar Golden Hills",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp and juicy with a sweet, fairly rich flavour; a little sweeter than its Greensleeves parent.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "opal",
+   "name": "Opal",
+   "tags": [
+    "quince",
+    "pear",
+    "sweet"
+   ],
+   "summary": "Crisp, juicy and sweet with a tangy edge; the fine cream-yellow flesh has a quince-like fragrance with a hint of pear. It barely browns when cut thanks to low polyphenol oxidase.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "opalescent",
+   "name": "Opalescent",
+   "tags": [
+    "sweet",
+    "floral"
+   ],
+   "summary": "Firm, fairly crisp cream flesh with a sweet, gentle flavour and some balancing acidity; a few growers note delicate floral hints. Used for baking as well as eating.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "orin",
+   "name": "Orin",
+   "tags": [
+    "honey",
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Very sweet, honeyed and juicy, with a distinctive perfume but very little acidity. Admirers love its fragrance; those who like a sharp apple may find it flat.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "orleans-reinette",
+   "name": "Orleans Reinette",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "Firm, fine-textured flesh that is not especially juicy but carries a rich, sweet, nutty flavour with balancing acidity, very like Blenheim Orange. One of the best late apples for flavour rather than crunch.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "otava",
+   "name": "Otava",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Usually described as a sweet, juicy yellow apple with mild acidity, keeping well into late winter. Independent tasting notes are limited.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "crisp": null,
+   "juicy": 4
+  },
+  {
+   "id": "oxford-conquest",
+   "name": "Oxford Conquest",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "The National Fruit Collection describes rather tough flesh with an acid flavour; little else is recorded, so it is best seen as a sharp, firm late apple.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "palmers-rosey",
+   "name": "Palmer's Rosey",
+   "tags": [
+    "perfumed"
+   ],
+   "summary": "Crisp, fairly tender flesh with a noticeably aromatic flavour for an August apple.",
+   "sweet": null,
+   "acid": null,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "parkland",
+   "name": "Parkland",
+   "tags": [
+    "mild"
+   ],
+   "summary": "Soft, sweet and juicy when ripe but rather tart and plain in flavour; best eaten straight off the tree or turned into sauce, since it keeps poorly.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 2,
+   "juicy": 4
+  },
+  {
+   "id": "patte-de-loup",
+   "name": "Patte de Loup",
+   "tags": [
+    "perfumed",
+    "aniseed",
+    "sweet"
+   ],
+   "summary": "Fine, dense, firm flesh, not especially juicy, with a sweet, gently acid and perfumed flavour carrying a faint aniseed note, in the manner of the French fennel-scented russets. Develops in store through winter.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 2
+  },
+  {
+   "id": "peasgoods-nonsuch",
+   "name": "Peasgood's Nonsuch",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Tender, slightly coarse, moderately juicy flesh with a gentle sweet-sharp flavour that is pleasant raw. Its real strength is cooking: it breaks down into a sweet, smooth puree needing little sugar, ideal for baked apples and sauce.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 3
+  },
+  {
+   "id": "pecks-pleasant",
+   "name": "Peck's Pleasant",
+   "tags": [
+    "perfumed",
+    "sweet"
+   ],
+   "summary": "Crisp, tender yellowish flesh with a sweet, mildly acidic and strongly aromatic flavour. Old American writers ranked it 'very good to best' for eating fresh through the winter.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "pigs-nose-pippin",
+   "name": "Pig's Nose Pippin",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Fine-grained, crisp cream flesh with a sweet flavour. Few other tasting details are recorded.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "crisp": 4,
+   "juicy": null
+  },
+  {
+   "id": "pilot",
+   "name": "Pilot",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Firm, juicy flesh with a sweet-sharp, fairly brisk flavour that becomes sweeter and more aromatic after a few months in store. A true winter keeper rather than an apple for picking and eating.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "pink-pearl",
+   "name": "Pink Pearl",
+   "tags": [
+    "citrus",
+    "sharp"
+   ],
+   "summary": "Crisp, juicy, bright pink flesh with a tart-sweet, sharp flavour that many liken to pink grapefruit; close to a cooking apple in acidity. Makes attractive pink sauce and juice.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "pinova",
+   "name": "Pinova",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp and juicy with an intense, well-balanced sweet-sharp flavour that shows its Cox ancestry; neither cloying nor tart, and it keeps its quality in store.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "pitmaston-pine-apple",
+   "name": "Pitmaston Pine Apple",
+   "tags": [
+    "pineapple",
+    "honey",
+    "nutty"
+   ],
+   "summary": "Firm, juicy yellow flesh that is very sweet and rich, with honey and nutty notes and a hint of pineapple balanced by some acidity. A small apple with a remarkably intense flavour.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "pixie",
+   "name": "Pixie",
+   "tags": [
+    "perfumed",
+    "sharp"
+   ],
+   "summary": "Crisp, juicy cream flesh with an intense, Cox-style aromatic flavour, sharper and more refreshing than Cox when first picked and mellowing in store.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 5,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "polka",
+   "name": "Polka",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Sweet, crisp and juicy with a mild, McIntosh-family character that some compare to Spartan. A pleasant eater rather than a complex one; it does not keep long.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "polly",
+   "name": "Polly",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Soft white flesh with a sweet, gently acidic flavour; usable both raw and in the kitchen.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "crisp": 2,
+   "juicy": null
+  },
+  {
+   "id": "polly-prosser",
+   "name": "Polly Prosser",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, rather coarse yellowish-white flesh with a sweet, mildly acidic and rich flavour. Few further tasting notes are published.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": null
+  },
+  {
+   "id": "pomme-gris",
+   "name": "Pomme Gris",
+   "tags": [
+    "nutty",
+    "sweet"
+   ],
+   "summary": "A rich, sweet, nutty russet with firm, fine flesh and a sprightly finish; improves for a few weeks after picking.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 3,
+   "juicy": 3
+  },
+  {
+   "id": "prairie-spy",
+   "name": "Prairie Spy",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Firm, dense, crisp flesh with a rich, well-balanced sweet-tart flavour that improves after some weeks in store. Excellent for baking and pies, and one of the longest keepers among hardy apples.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "primrose-pippin",
+   "name": "Primrose Pippin",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "A modern-style crisp, juicy apple with more sugar (about 18% by refractometer), acidity and fruitiness than most late-season supermarket types. The raiser and the RHS fruit specialist Joan Morgan both describe the balance as excellent.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 5,
+   "juicy": 4
+  },
+  {
+   "id": "priscilla",
+   "name": "Priscilla",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, fairly juicy flesh with a sweet, moderately tart flavour; descriptions vary from mild and Delicious-like to pleasantly sharp. Eats well fresh and also cooks acceptably.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 3
+  },
+  {
+   "id": "pristine",
+   "name": "Pristine",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Crisp, juicy yellowish flesh with a tart-sweet flavour that is unusually good for such an early apple; the sharpness softens as the fruit fully ripens. Also good for sauce.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "queen-cox",
+   "name": "Queen Cox",
+   "tags": [
+    "floral",
+    "pear-drop",
+    "honey",
+    "rose"
+   ],
+   "summary": "Like Cox, with firm, juicy, slightly acid flesh and a rich, aromatic flavour that brings floral, pear-drop and honeyed notes into balance. It improves for a few weeks after picking.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "rajka",
+   "name": "Rajka",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, juicy, cream-yellow flesh with a sweet flavour balanced by fair acidity, often compared with Elstar. Pleasant and aromatic rather than complex; it sweetens further after a few weeks in store.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "rave",
+   "name": "Rave",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "Very crisp, shattering, juice-laden flesh in the Honeycrisp mould, with a brighter tart edge than its parent balanced by good sugar. An eating apple only: the flesh collapses when cooked.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "crisp": 5,
+   "juicy": 5
+  },
+  {
+   "id": "red-astrachan",
+   "name": "Red Astrachan",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Juicy, crisp white flesh, often tinged red, with a brisk tart flavour and some aroma. Good eaten straight from the tree but goes mealy within days; best known as a sauce and pie apple.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "red-delicious",
+   "name": "Red Delicious",
+   "tags": [
+    "sweet",
+    "mild"
+   ],
+   "summary": "Very sweet, juicy flesh with little acidity and only a light aroma, under a thick, tough skin. Freshly picked fruit from a warm climate is pleasant, but stored supermarket fruit is often mealy and bland.",
+   "sweet": 4,
+   "acid": 1,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 4
+  },
+  {
+   "id": "red-falstaff",
+   "name": "Red Falstaff",
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp and very juicy, with a sweet-sharp balance that combines the zest of James Grieve with Golden Delicious sweetness. Good fresh or pressed for juice.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "crisp": 4,
+   "juicy": 5
+  },
+  {
+   "id": "red-james-grieve",
+   "name": "Red James Grieve",
+   "tags": [
+    "sharp",
+    "sweet"
+   ],
+   "summary": "As James Grieve: very juicy, soft-textured flesh with a lively, refreshing acidity when first picked that mellows to a sweeter balance after a week or two.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "crisp": 2,
+   "juicy": 5
+  },
+  {
+   "id": "red-sauce",
+   "name": "Red Sauce",
+   "tags": [],
+   "summary": "Coarse, rather dry flesh with a mild, lightly acid flavour; more interesting for its pink colour than its eating quality. Cooks to a rosy sauce.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 3,
+   "juicy": 2
+  },
+  {
+   "id": "red-sentinel",
+   "name": "Red Sentinel",
+   "tags": [
+    "sharp"
+   ],
+   "summary": "Sharp and not for eating raw; it can be used for jelly, but it is grown mainly for its long winter fruit display and as food for birds.",
+   "sweet": 1,
+   "acid": 4,
+   "aroma": null,
+   "crisp": null,
+   "juicy": null
+  },
+  {
+   "id": "red-windsor",
+   "name": "Red Windsor",
+   "tags": [
+    "perfumed",
+    "honey",
+    "sharp"
+   ],
+   "summary": "Crisp, juicy, yellowish flesh with an aromatic Cox-like flavour that is a touch sharper and fresher than Cox, and a honeyed sweetness when fully ripe. Picked early it is noticeably tart.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "crisp": 4,
+   "juicy": 4
+  },
+  {
+   "id": "redfree",
+   "name": "Redfree",
+   "tags": [
+    "sweet"
+   ],
+   "summary": "Crisp, juicy flesh with a fresh, mildly sweet-sharp balance; some tasters note an unusual character attributed to its crab-apple ancestry. Holds quality for a few weeks in the fridge and dries well.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "crisp": 4,
+   "juicy": 4
+  }
+ ]
+}

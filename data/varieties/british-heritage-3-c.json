@@ -1,0 +1,310 @@
+[
+  {
+    "id": "crawley-beauty",
+    "name": "Crawley Beauty",
+    "aka": ["Ratcliffe Sargeant"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Crawley, Sussex, England",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "discovered",
+      "parentage": "Unknown; the National Fruit Collection notes it appears identical to the French variety Nouvelle France",
+      "raised_by": "Found in a cottage garden; introduced by J. Cheal & Sons, Crawley"
+    },
+    "history": "Found around 1870 in a cottage garden at Crawley, Sussex, and introduced by the local nursery J. Cheal & Sons in 1906. It received an RHS Award of Merit in 1912. It is one of the latest-flowering apples grown in Britain, and the National Fruit Collection thinks it may be the same as the French Nouvelle France.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, flattened-round, clean fruit, pale creamy-yellow with a red-orange flush and broken stripes."
+    },
+    "taste": {
+      "summary": "Firm, slightly coarse and rather dry flesh. Cooked, it breaks down to a delicately flavoured puree; after storage it softens into a mild, sub-acid eating apple that most tasters find pleasant rather than memorable.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb; cook earlier, eat raw after storage"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "A healthy, reliable tree that crops heavily and regularly with little attention. Bunyard called it vigorous, while modern growers find it fairly compact. It tolerates many soil types."
+    },
+    "pollination": {
+      "flower_group": 7,
+      "self_fertile": "partial",
+      "notes": "Among the very latest apples to bloom (National Fruit Collection full flower around 29 May). Its self-fertility is disputed, but lone trees often crop, so it is treated as partially self-fertile. Court Pendu Plat flowers at about the same time."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Frost pockets and cold, late springs in Britain and similar climates, where its very late bloom escapes frost damage.",
+      "poor_climates": "Mild-winter regions that cannot supply enough chill for such a late bloomer; untested in hot summers."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have good general disease resistance and few pest problems, so it rarely needs spraying."
+    },
+    "grow_notes": "An excellent low-maintenance choice for frosty gardens and beginners. Pick in mid October and keep the fruit cool until midwinter.",
+    "conf": "high"
+  },
+  {
+    "id": "norfolk-beauty",
+    "name": "Norfolk Beauty",
+    "aka": [],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Gunton Park, near Norwich, Norfolk, England",
+      "year": 1901,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Warner's King x Waltham Abbey Seedling",
+      "raised_by": "Mr Allan, gardener at Gunton Park"
+    },
+    "history": "Raised by Allan, head gardener at Gunton Park in Norfolk, from a cross of Warner's King with Waltham Abbey Seedling. It was introduced in 1902, the year it received both an Award of Merit and a First Class Certificate from the RHS.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large, flattened-round fruit with pale lemon to whitish-yellow skin, a faint red flush and a little russet around the stalk."
+    },
+    "taste": {
+      "summary": "Rather soft, loose, somewhat dry flesh with a clean acidity. It cooks quickly to a creamy froth that needs little sugar and has a light lemony note.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": ["sharp", "lemon"],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec for cooking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous to fairly large. Bunyard said it crops well only once the tree is established, so expect a slow start."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records full bloom around 8 May, so group 2 is inferred. Needs an early-to-mid season partner."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Eastern England and similar cool, fairly dry lowland climates.",
+      "poor_climates": "No record of performance in hot or very cold climates; values are inferred from its English origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not well recorded."
+    },
+    "grow_notes": "A good autumn cooker for East Anglian gardens, giving large fruit that need little sugar. Give the young tree a few years to establish before expecting full crops.",
+    "conf": "medium"
+  },
+  {
+    "id": "manks-codlin",
+    "name": "Mank's Codlin",
+    "aka": ["Manks Codlin", "Manx Codlin", "Eve Apple", "Irish Codlin", "Irish Pitcher", "Frith Pippin", "Belmont"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "IM",
+      "place": "Ballanard, Isle of Man",
+      "year": 1815,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mr Kewley"
+    },
+    "history": "Raised by Kewley at Ballanard on the Isle of Man, where it first fruited in 1815. It spread under many names, including Eve Apple in Scotland and Irish Codlin. It was long a standard cooking apple in northern England, and later reached the Netherlands and Germany.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium, conical, slightly five-sided codlin, smooth and pale yellow, with an orange-red cheek where it gets sun and often a fleshy swelling beside the stalk."
+    },
+    "taste": {
+      "summary": "Firm, white, juicy flesh with a brisk acidity and a faint perfume. Picked young it is a sharp cooker that softens when cooked, and by autumn it is mellow enough to eat raw.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Aug-Oct"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 5,
+      "ploidy": "diploid",
+      "notes": "A small, compact, very hardy and healthy tree that crops extremely young (nursery trees fruited two years from grafting) and heavily. It suits espaliers and dwarfing stocks."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering (National Fruit Collection full bloom around 5 May), so group 2 is inferred. Plant an early-blooming partner."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug-Oct",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Exposed, cool and wet areas such as the Isle of Man, northern England, Scotland and Ireland; it tolerates shallow soils.",
+      "poor_climates": "Hot summers would hurry this early, soft-keeping fruit; it has no record of use in warm regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Long described as a hardy, healthy tree, but specific disease ratings are not recorded."
+    },
+    "grow_notes": "One of the best old cookers for windy, northern or upland gardens and thin soils, and a good small tree for trained forms. Thin heavy crops so the tree does not exhaust itself.",
+    "conf": "medium"
+  },
+  {
+    "id": "kentish-fillbasket",
+    "name": "Kentish Fillbasket",
+    "aka": ["Kentish Fill-basket", "Lady de Grey's", "Potter's Large"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "Kent, England (presumed)",
+      "year": 1820,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old cooking apple thought to come from Kent and known before 1820. Hogg warned that some earlier writers, including Miller and Forsyth, used the name for a different apple, the Kentish Codlin. By Bunyard's time (1920) it was already rarely grown.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, flattened, irregular and slightly ribbed fruit, yellow-green to pale yellow with a reddish-brown flush broken by deeper red stripes."
+    },
+    "taste": {
+      "summary": "Tender, juicy, greenish-white flesh with a brisk, clean acidity, well suited to cooking. It was rated a first-class kitchen apple for the midwinter months.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan for cooking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A strong, vigorous tree that grows large and crops abundantly, according to 19th-century accounts."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records full bloom around 9 May, so group 3 is inferred (group 2 is possible). Plant a mid-season partner."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": false,
+      "best_climates": "South-east England and similar mild, cool-summer lowland climates.",
+      "poor_climates": "No record of performance outside southern England; values are inferred from its origin."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease susceptibility not recorded."
+    },
+    "grow_notes": "Best suited to a large orchard standard, where its vigour and size are an advantage. Pick in mid October and store for cooking through to the new year.",
+    "conf": "medium"
+  }
+]

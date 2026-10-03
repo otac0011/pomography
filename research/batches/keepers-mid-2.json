@@ -1,0 +1,159 @@
+{
+ "batch": "keepers-mid-2",
+ "theme": "keepers-mid",
+ "count": 19,
+ "varieties": [
+  {
+   "id": "jupiter",
+   "name": "Jupiter",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "jupiter",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "king-of-the-pippins",
+   "name": "King of the Pippins",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "king-of-the-pippins",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "limelight",
+   "name": "Limelight",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "limelight",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "macoun",
+   "name": "Macoun",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "macoun",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "mcintosh-red",
+   "name": "McIntosh Red",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "mcintosh-red",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "opalescent",
+   "name": "Opalescent",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "opalescent",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "patte-de-loup",
+   "name": "Patte de Loup",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "patte-de-loup",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "peasgoods-nonsuch",
+   "name": "Peasgood's Nonsuch",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "peasgoods-nonsuch",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "polka",
+   "name": "Polka",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "polka-apple",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "red-sauce",
+   "name": "Red Sauce",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "red-sauce",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "red-windsor",
+   "name": "Red Windsor",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "red-windsor",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "rubinette",
+   "name": "Rubinette",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "rubinette",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "rubinola",
+   "name": "Rubinola",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "rubinola",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "shenandoah",
+   "name": "Shenandoah",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "shenandoah",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "st-edmunds-pippin",
+   "name": "St Edmund's Pippin",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "st-edmunds-pippin",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "sunset",
+   "name": "Sunset",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "sunset",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "telstar",
+   "name": "Telstar",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "telstar",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "wickson-crab",
+   "name": "Wickson Crab",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "wickson-crab",
+   "keepers_cat": "mid-season-eating-apple"
+  },
+  {
+   "id": "wolf-river",
+   "name": "Wolf River",
+   "theme": "keepers-mid",
+   "keepers": true,
+   "keepers_slug": "wolf-river",
+   "keepers_cat": "mid-season-eating-apple"
+  }
+ ]
+}
