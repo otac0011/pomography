@@ -149,7 +149,7 @@ function fHeat(v, F) {
   else if (ratio <= 1) text = 'About ' + Math.round(F.heat.hot32) + ' days a year reach 32 °C or more, which a heat tolerance of ' + h + '/5 copes with.';
   else if (ratio <= 2) text = 'About ' + Math.round(F.heat.hot32) + ' days a year reach 32 °C or more, more than ' + v.name + ' (heat tolerance ' + h + '/5) likes: expect some sunburn, soft fruit and lost acidity.';
   else text = 'Hot summers (' + Math.round(F.heat.hot32) + ' days a year at 32 °C or more) are well beyond its comfort: sunburn, soft fruit and poor flavour are likely.';
-  return { f, text: text + colourNote };
+  return { f, text: text + colourNote + (est && F.heat.hot32 >= 1 ? ' (Its heat tolerance is not recorded, so an average of 3/5 is assumed.)' : '') };
 }
 
 /**

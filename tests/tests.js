@@ -192,7 +192,7 @@ try {
   const pres = await (await fetch('../assets/climate-presets.json')).json();
   t('presets: Kent exists (reference climate)', () => { if (!pres.kent) throw new Error('missing kent'); });
   t('presets: every baked place has chill, zone, bloom, curve', () => { for (const [k, F] of Object.entries(pres)) { if (F.error) continue; if (!F.noBloom && (!F.bloom || !F.season.gddCurve || F.season.gddCurve.length !== 27)) throw new Error(k); } });
-  const { S } = await import('../js/data.js'); S.data = d; S.presets = pres;
+  const { S } = await import('../js/data.js'); S.data = d; S.presets = pres; S.allPresets = pres;
   const { extrapolate } = await import('../js/climate/extrapolate.js');
   t('extrapolate: between Kent and Paris the blend lies between them and cites both', () => {
     const E = extrapolate(50.0, 1.2, { k: 4 });

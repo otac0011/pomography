@@ -2,7 +2,7 @@
 import { makeContext } from './score/score.js';
 import { regionalFor } from './climate/regional.js';
 
-export const S = { data: null, byId: new Map(), rsById: new Map(), regionById: new Map(), presets: {}, ctx: null, ready: null };
+export const S = { data: null, byId: new Map(), rsById: new Map(), regionById: new Map(), presets: {}, allPresets: {}, ctx: null, ready: null };
 
 const FAV_KEY = 'pomona.favs.v1';
 const listeners = new Set();
@@ -49,8 +49,14 @@ export function load() {
     for (const v of data.varieties) { S.byId.set(v.id, v); v._search = (v.name + ' ' + (v.aka || []).join(' ') + ' ' + (v.origin.place || '')).toLowerCase(); }
     for (const r of data.rootstocks) S.rsById.set(r.id, r);
     for (const r of data.regions) S.regionById.set(r.id, r);
-    S.presets = presets;
-    for (const r of data.regions) if (presets[r.id]) presets[r.id].regional = regionalFor(r.lat, r.lon, r.country);
+    // Places whose humidity was only estimated serve as extrapolation neighbours (S.allPresets); only places with a measured
+    // humidity record count as pre-computed (S.presets): solid dots, instant lookups.
+    S.allPresets = presets; S.presets = {};
+    for (const r of data.regions) {
+      const F = presets[r.id]; if (!F) continue;
+      F.regional = regionalFor(r.lat, r.lon, r.country);
+      if (!(F.humidity && F.humidity.estimated)) S.presets[r.id] = F;
+    }
     S.ctx = presets.kent ? makeContext(presets.kent) : null;
     try { favs = JSON.parse(localStorage.getItem(FAV_KEY) || '[]').filter(id => S.byId.has(id)); } catch (e) { favs = []; }
     return S;
@@ -151,6 +157,16 @@ export function nearestPreset(lat, lon) {
   let best = null;
   for (const r of S.data.regions) {
     if (!S.presets[r.id]) continue;
+    const d = haversine(lat, lon, r.lat, r.lon);
+    if (!best || d < best.d) best = { region: r, d };
+  }
+  return best;
+}
+
+/** Nearest reference place of any kind (baked or not): used for local notes, which exist for all of them. */
+export function nearestRegion(lat, lon) {
+  let best = null;
+  for (const r of S.data.regions) {
     const d = haversine(lat, lon, r.lat, r.lon);
     if (!best || d < best.d) best = { region: r, d };
   }

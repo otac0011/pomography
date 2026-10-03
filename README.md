@@ -9,10 +9,13 @@ Karim Habibi).
   season, use, origin, disease resistance and more.
 * **Rootstocks** - vigour, precocity, anchorage, disease and soil tolerance for ~50 apple rootstocks (M.27 to
   MM.111, Budagovsky, Polish, Geneva...), a comparison table and a "which rootstock for me?" chooser.
-* **World map** - pick favourites, then click any dot or any spot on Earth. Pomona fetches ten years of real
-  weather for that point and scores each favourite for winter chill, winter cold, blossom frost, ripening
-  season, summer heat and disease pressure, with the reasons written out; it also lists the best varieties and
-  rootstocks for the spot and local notes for ~135 reference places.
+* **World map** - pick favourites, then click **any spot on land** (the dots are only pre-computed reference places).
+  Pomona fetches ten years of real weather plus dew point and rain hours for that point and scores each favourite for
+  winter chill, winter cold, blossom frost, ripening season, summer heat, water supply and disease pressure, with the
+  reasons written out. Disease pressure is driven by leaf wetness and humidity (apple scab infection periods, a
+  Maryblyt-style fire blight model, mildew, canker); whether fire blight or cedar-apple rust exists there at all comes
+  from regional lookups. Every number is labelled measured / modelled / regional / assumed / extrapolated, and if the
+  free weather service is busy the panel falls back to values extrapolated from nearby reference places and says so.
 * **Favourites** - side-by-side comparison and a pollination check (flowering groups, triploids).
 
 Live site: https://otac0011.github.io/pomona/ (GitHub Pages from `main`, repo root).
@@ -30,7 +33,8 @@ No Node, no bundler. Leaflet comes from cdnjs; weather from Open-Meteo; place na
 | Path | What |
 |---|---|
 | `index.html`, `css/`, `js/` | the site (ES modules, hash router) |
-| `js/climate/features.js` | pure climate-metric extraction (chill, zone, bloom, frost, season, heat, disease) |
+| `js/climate/features.js` | pure climate-metric extraction (chill, zone, bloom, frost, season, heat, humidity, leaf wetness, disease) |
+| `js/climate/regional.js`, `extrapolate.js`, `fetch.js` | regional presence lookups, extrapolation from neighbours, live Open-Meteo lookup |
 | `js/score/score.js` | variety x place scoring + reasons, rootstock advice |
 | `data/varieties/`, `data/rootstocks/`, `data/regions/` | source data (JSON, one array per file) |
 | `assets/data.json`, `assets/climate-presets.json` | **built**: re-run the tools below after editing data |

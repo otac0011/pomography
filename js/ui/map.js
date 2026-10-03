@@ -5,7 +5,7 @@ import { scoreVariety, rankVarieties, siteProfile, rootstockAdvice, labelOf, pre
 import { climateFor, fallbackFor, reverseGeocode, ClimateError } from '../climate/fetch.js';
 import { MONTH_NAMES } from '../climate/features.js';
 import { regionalFor } from '../climate/regional.js';
-import { haversine, nearestPreset } from '../data.js';
+import { haversine, nearestRegion } from '../data.js';
 
 let map = null, pinLayer = null, selMarker = null, pins = new Map(), token = 0, sel = null, tab = 'apples', offFavs = null, friendly = null;
 const SETS = [
@@ -90,8 +90,9 @@ export function cleanup() {
 function drawPins() {
   pins.clear(); pinLayer.clearLayers();
   for (const r of S.data.regions) {
-    if (!S.presets[r.id]) continue;
-    const m = L.circleMarker([r.lat, r.lon], { radius: 5, weight: 1.5, color: '#fff', fillColor: colour(pinScore(r)), fillOpacity: .9 });
+    const baked = !!S.presets[r.id];
+    const m = L.circleMarker([r.lat, r.lon], baked ? { radius: 5, weight: 1.5, color: '#fff', fillColor: colour(pinScore(r)), fillOpacity: .9 }
+      : { radius: 4, weight: 1.5, color: '#9a9486', fillColor: '#9a9486', fillOpacity: 0, dashArray: '2 2' });
     m.on('click', e => { L.DomEvent.stopPropagation(e); selectRegion(r.id); });
     pinLayer.addLayer(m); pins.set(r.id, m);
   }
@@ -101,6 +102,7 @@ function recolour() {
   const favs = getFavs();
   for (const r of S.data.regions) {
     const m = pins.get(r.id); if (!m) continue;
+    if (!S.presets[r.id]) { m.bindTooltip(`<b>${esc(r.name)}</b><br>Reference place — click for a live analysis`, { direction: 'top', offset: [0, -6] }); continue; }
     const s = pinScore(r);
     m.setStyle({ fillColor: colour(s) });
     m.bindTooltip(`<b>${esc(r.name)}</b><br>${favs.length ? 'Your favourites: ' : 'Apple-friendliness: '}${s ?? '?'}/100`, { direction: 'top', offset: [0, -6] });
@@ -110,7 +112,7 @@ function updateLegend() {
   const d = document.getElementById('legend'); if (!d) return;
   d.innerHTML = `<b>${getFavs().length ? 'Mean score for your favourites' : 'How apple-friendly (broad sample)'}</b><br>` +
     [['#3e8a3a', '70+ good'], ['#9db02e', '55–69 workable'], ['#e0961c', '35–54 marginal'], ['#c0392b', 'under 35']].map(([c, l]) => `<span class="sw" style="background:${c}"></span>${l}`).join('&ensp;') +
-    `<br><span class="muted">Dots are reference places; click anywhere else for live data.</span>`;
+    `<br><span class="muted">Solid dots: pre-computed places. Dashed dots: reference places analysed live when clicked. Click anywhere else too.</span>`;
 }
 
 // ---------------------------------------------------------------- sidebar
@@ -161,6 +163,7 @@ function panelLoading(msg) {
 
 export async function selectRegion(id) {
   const r = S.regionById.get(id); if (!r) return;
+  if (!S.presets[id]) return selectPoint(r.lat, r.lon, r);   // not pre-computed yet: analyse live, but keep the place's notes
   ++token;
   showSel(r.lat, r.lon); setHash(id);
   sel = { lat: r.lat, lon: r.lon, name: r.name, region: r, F: S.presets[id], source: 'preset', country: r.country };
@@ -172,7 +175,7 @@ function withRegional(F, lat, lon, cc) {
   return F.regional && F.regional.country === (cc || F.regional.country) ? F : Object.assign({}, F, { regional: regionalFor(lat, lon, cc) });
 }
 
-export async function selectPoint(lat, lon) {
+export async function selectPoint(lat, lon, place) {
   const my = ++token;
   lon = ((lon + 540) % 360) - 180;
   showSel(lat, lon); setHash('@' + lat.toFixed(3) + ',' + lon.toFixed(3));
@@ -180,7 +183,7 @@ export async function selectPoint(lat, lon) {
   const ac = new AbortController(); const to = setTimeout(() => ac.abort(), 3500);
   const geo = await reverseGeocode(lat, lon, ac.signal); clearTimeout(to);
   if (my !== token) return;
-  if (geo && geo.ocean) {
+  if (geo && geo.ocean && !place) {
     document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><h3 style="margin-top:12px">${esc(geo.water || 'Open water')}</h3><p class="muted">That looks like open water. Apples need land &mdash; click somewhere ashore.</p></div>`;
     wireClose(); return;
   }
@@ -198,10 +201,10 @@ export async function selectPoint(lat, lon) {
   }
   const cc = geo && geo.country;
   const F = res.source === 'preset' ? res.F : withRegional(res.F, lat, lon, cc);
-  const np = nearestPreset(lat, lon);
+  const np = nearestRegion(lat, lon);
   sel = {
-    lat, lon, name: res.region && res.source === 'preset' ? res.region.name : (geo && geo.label) || 'Selected spot',
-    region: res.region || null, F, source: res.source, err, country: cc || (res.region && res.region.country) || F.regional.country,
+    lat, lon, name: place ? place.name : res.region && res.source === 'preset' ? res.region.name : (geo && geo.label) || 'Selected spot',
+    region: place || res.region || null, F, source: res.source, err, country: cc || (place && place.country) || (res.region && res.region.country) || F.regional.country,
     nearest: np && np.d <= 800 ? np : null,
     cellKm: res.source === 'live' || res.source === 'cache' ? Math.round(haversine(lat, lon, F.lat, F.lon)) : null,
   };

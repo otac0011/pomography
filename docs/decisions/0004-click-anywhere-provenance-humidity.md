@@ -65,7 +65,7 @@ nearest. The banner lists the sources and distances and offers a retry; beyond 1
 *Rejected:* a global precomputed grid (about 700 land cells at 5 degrees would take half a day at the free rate limit and
 still miss mountains and coasts; live data is better where it is available).
 
-### 6. UX: dots de-emphasised, click affordance explicit
+### 6. UX: dots de-emphasised, click affordance explicit, unbaked places stay clickable
 Dots are smaller and in a layer the user can switch off; a "Click anywhere" hint sits on the map until the first click; the
 cursor is a crosshair; the Regional tab and the nearest reference place's local notes (labelled with their distance) give
 context for any spot.
@@ -74,6 +74,12 @@ context for any spot.
 The bulk download is paced at ~3,300 units/hour (was 4,500) so a visitor on the same IP keeps ~1,700 units/hour of headroom
 (about 12 live clicks). A live click costs ~110 units (10-year weather + 3-year humidity), so a busy visitor will meet the
 extrapolation fallback; that is the designed behaviour.
+
+## Rate limits, again
+Mid-session the shared allowance ran out ("Hourly API request limit exceeded", HTTP 429) because the bulk download and manual
+live testing came from one IP. The downloader sleeps 15 min on a 429 and resumes; only 70 of 135 places had been pre-computed
+when the work was published, and the other 65 are dashed dots rather than being waited for (about two more hours at a polite
+pace). `python tools/fetch_climate.py` can be run any time to add more; bake with `tools/bake.html?save=1`.
 
 ## Reference points that were wrong
 Etna was on the 3,128 m summit (apples are grown at 700-1,100 m); Hardanger on a 987 m plateau instead of the fjord shore;

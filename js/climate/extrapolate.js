@@ -49,7 +49,7 @@ export function extrapolate(lat, lon, { maxKm = 1500, k = 4 } = {}) {
   const south = lat < 0;
   const cands = [];
   for (const r of S.data.regions) {
-    const F = S.presets[r.id];
+    const F = (S.allPresets && S.allPresets[r.id]) || S.presets[r.id];
     if (!F || F.error || F.noBloom || (r.lat < 0) !== south) continue;
     const d = haversine(lat, lon, r.lat, r.lon);
     if (d <= maxKm) cands.push({ r, F, d });

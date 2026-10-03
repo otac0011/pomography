@@ -10,12 +10,13 @@ import { computeFeatures, compactFeatures } from '../js/climate/features.js';
 const status = document.getElementById('status'), tb = document.getElementById('t');
 const seed = await (await fetch('../data/regions_seed.json')).json();
 const have = await (await fetch('/__climate_list')).json();
-const out = {};
+const out = {}, skipped = [];
 const cols = ['chill', 'zone', 'bloom', 'frost3', 'gend', 'endFreeze', 'hot32', 'springWet', 'canker', 'fireBlight', 'scabEv', 'RHgs', 'aridity', 'pann', 'koppen'];
 tb.innerHTML = '<tr><th>region</th>' + cols.map(c => '<th>' + c + '</th>').join('') + '</tr>';
 let n = 0;
 for (const id of have) {
   const raw = await (await fetch('../cache/climate/' + id + '.json')).json();
+  if (!raw.tmax) { skipped.push(id); continue; }   // places without a humidity record are baked too, flagged humidity.estimated (used only as extrapolation neighbours)
   const F = computeFeatures({ lat: raw.lat, lon: raw.lon, elevation: raw.elevation, start: raw.start, tmax: raw.tmax, tmin: raw.tmin, prcp: raw.prcp, hum: raw.hum });
   const s = seed.find(x => x.id === id);
   F.id = id; F.name = s ? s.name : id;
@@ -26,7 +27,7 @@ for (const id of have) {
 }
 window.__baked = out;
 const body = JSON.stringify(out);
-let msg = n + ' regions computed (' + Math.round(body.length / 1024) + ' KB). ';
+let msg = n + ' regions computed (' + Math.round(body.length / 1024) + ' KB); skipped without weather: ' + skipped.length + '. ';
 if (new URLSearchParams(location.search).has('save')) {
   const r = await fetch('/__save?name=climate-presets', { method: 'POST', body });
   msg += 'Saved: ' + await r.text();
