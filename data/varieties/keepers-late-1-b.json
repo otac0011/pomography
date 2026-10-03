@@ -2,8 +2,16 @@
   {
     "id": "blenheim-orange",
     "name": "Blenheim Orange",
-    "aka": ["Blenheim Pippin", "Blenheim Orange Pippin", "Woodstock Pippin", "Blenheim"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "Blenheim Pippin",
+      "Blenheim Orange Pippin",
+      "Woodstock Pippin",
+      "Blenheim"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Woodstock, Oxfordshire, England",
@@ -32,7 +40,11 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": 2,
-      "tags": ["nutty", "sweet", "sharp"],
+      "tags": [
+        "nutty",
+        "sweet",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Jan for eating; usable for cooking from picking"
     },
@@ -80,7 +92,9 @@
     "id": "blue-pearmain",
     "name": "Blue Pearmain",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "US",
       "place": "Probably New England, USA",
@@ -102,14 +116,18 @@
       "description": "Truncated-conical fruit heavily striped and flushed dark purplish-red, overlaid with a powdery blue-grey bloom."
     },
     "taste": {
-      "summary": "Yellowish, rather soft and coarse flesh that is somewhat dry, with a sweet, pleasantly aromatic flavour. A mellow winter apple rather than a crisp, juicy one.",
+      "summary": "Dense, very fine-grained flesh with a little crunch but no snap, moist rather than juicy. Sweet with a pear-like flavour and enough acid to leave a lingering tart finish; aromatic and substantial rather than refreshing. Keeps well in cold storage, though very old fruit turns rubbery.",
       "sweet": 4,
-      "acid": 2,
+      "acid": 3,
       "aroma": 3,
       "tannin": 0,
-      "crisp": 2,
-      "juicy": 2,
-      "tags": ["sweet"],
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "pear",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Jan"
     },
@@ -156,8 +174,14 @@
   {
     "id": "braddick-nonpareil",
     "name": "Braddick Nonpareil",
-    "aka": ["Braddick's Nonpareil", "Ditton Nonpareil", "Ditton Pippin"],
-    "uses": ["dessert"],
+    "aka": [
+      "Braddick's Nonpareil",
+      "Ditton Nonpareil",
+      "Ditton Pippin"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Thames Ditton, Surrey, England",
@@ -234,7 +258,9 @@
     "id": "braeburn",
     "name": "Braeburn",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "NZ",
       "place": "Waiwhero, Upper Moutere, Nelson, New Zealand",
@@ -256,14 +282,19 @@
       "description": "Smooth, firm fruit with a greenish-yellow ground covered in orange-red to red stripes and flush."
     },
     "taste": {
-      "summary": "Hard, crisp and very juicy, with a bold sweet-tart balance that leans sharp and carries a spicy, aromatic depth. Stores well, though UK-grown fruit often lacks the full sweetness reached in warmer climates.",
+      "summary": "Crisp and very juicy, snapping cleanly without being rock-hard, with a sharp, refreshing edge balanced by real but never sugary sweetness and a rich, spicy depth; new-season fruit can show a faint pear-drop note. Arguably best soon after picking: long-stored fruit stays crisp but may brown at the core, and UK-grown apples often lack the sweetness reached in warmer climates.",
       "sweet": 3,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
-      "crisp": 5,
+      "crisp": 4,
       "juicy": 5,
-      "tags": ["sharp", "spice"],
+      "tags": [
+        "sharp",
+        "sweet",
+        "spice",
+        "pear-drop"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Mar"
     },
@@ -311,7 +342,9 @@
     "id": "braintree-seedling",
     "name": "Braintree Seedling",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Braintree, Essex, England",
@@ -340,7 +373,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": null,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"
     },
@@ -388,7 +423,9 @@
     "id": "brenchley-pippin",
     "name": "Brenchley Pippin",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Brenchley, Kent, England",
@@ -417,7 +454,9 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": null,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": null
     },
@@ -464,8 +503,15 @@
   {
     "id": "calville-blanc-dhiver",
     "name": "Calville Blanc d'Hiver",
-    "aka": ["White Winter Calville", "Calville Blanc", "Weisser Winterkalvill"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "White Winter Calville",
+      "Calville Blanc",
+      "Weisser Winterkalvill"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "FR",
       "place": "France (exact place unknown)",
@@ -487,14 +533,18 @@
       "description": "Large, flattened apple with bold ribs running from stalk to eye; pale green ripening to waxy yellow, sometimes with a faint pinkish blush and russet dots."
     },
     "taste": {
-      "summary": "Tender, fine-grained, juicy flesh with a rich sweet-sharp, wine-like flavour and a strawberry-like aroma that develops in store. It holds its shape when baked, making it the traditional choice for French apple tarts.",
+      "summary": "Juicy, fairly crisp flesh with a distinctly tart flavour, close to Granny Smith in sharpness, balanced by enough sweetness to taste rich; several tasters notice a faint banana note and one finds it slightly grassy. Very high in vitamin C, so cut flesh does not brown. It holds its shape in a tart, or cooks to a rich, sharp puree if cut small, and keeps a month or two.",
       "sweet": 3,
       "acid": 4,
       "aroma": 5,
       "tannin": 0,
-      "crisp": 2,
+      "crisp": 3,
       "juicy": 4,
-      "tags": ["strawberry", "wine", "sharp", "sweet"],
+      "tags": [
+        "sharp",
+        "sweet",
+        "banana"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Mar; needs several weeks in store after picking"
     },
@@ -541,8 +591,12 @@
   {
     "id": "caroline",
     "name": "Caroline",
-    "aka": ["Caroline Lady Suffield"],
-    "uses": ["dessert"],
+    "aka": [
+      "Caroline Lady Suffield"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Blickling Hall, near Aylsham, Norfolk, England",
@@ -571,7 +625,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": null,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"
     },

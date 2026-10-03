@@ -2,8 +2,13 @@
   {
     "id": "bramleys-seedling",
     "name": "Bramley's Seedling",
-    "aka": ["Bramley", "Triomphe de Kiel"],
-    "uses": ["culinary"],
+    "aka": [
+      "Bramley",
+      "Triomphe de Kiel"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Southwell, Nottinghamshire, England",
@@ -32,7 +37,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Mar; cooks well straight from the tree"
     },
@@ -79,8 +86,13 @@
   {
     "id": "catshead",
     "name": "Catshead",
-    "aka": ["Cat's Head", "Cathead"],
-    "uses": ["culinary"],
+    "aka": [
+      "Cat's Head",
+      "Cathead"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -102,14 +114,16 @@
       "description": "Very large, squarish, angular fruit with prominent ribs that end in knobs around the eye; pale green with a faint brownish cheek, small russet dots and a greasy skin."
     },
     "taste": {
-      "summary": "Coarse, tender white flesh with moderate acidity and a faint perfume; some tasters find it rather dry. It cooks down to a soft purée and needs little sugar.",
+      "summary": "A traditional cooker with juicy, coarse white flesh and a fair amount of acidity, so it needs little added sugar; it cooks down to a textured puree. Raw it is plain, with only a faint perfume, and some tasters find it dry. Keeps a month or two.",
       "sweet": 2,
-      "acid": 3,
+      "acid": 4,
       "aroma": 2,
       "tannin": 0,
       "crisp": 2,
       "juicy": 3,
-      "tags": [],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"
     },
@@ -156,8 +170,12 @@
   {
     "id": "chelmsford-wonder",
     "name": "Chelmsford Wonder",
-    "aka": ["Merveille de Chelmsford"],
-    "uses": ["culinary"],
+    "aka": [
+      "Merveille de Chelmsford"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "near Chelmsford, Essex, England",
@@ -233,8 +251,13 @@
   {
     "id": "coeur-de-boeuf",
     "name": "Coeur de Boeuf",
-    "aka": ["Pomme de Boeuf", "Ochsenherz"],
-    "uses": ["culinary"],
+    "aka": [
+      "Pomme de Boeuf",
+      "Ochsenherz"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "FR",
       "place": "France",
@@ -310,8 +333,13 @@
   {
     "id": "costard",
     "name": "Costard",
-    "aka": ["Coulthard", "Prussian Pippin"],
-    "uses": ["culinary"],
+    "aka": [
+      "Coulthard",
+      "Prussian Pippin"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -387,8 +415,13 @@
   {
     "id": "crimson-bramley",
     "name": "Crimson Bramley",
-    "aka": ["Red Bramley", "Bramley's Seedling Red"],
-    "uses": ["culinary"],
+    "aka": [
+      "Red Bramley",
+      "Bramley's Seedling Red"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Southwell, Nottinghamshire, England",
@@ -417,7 +450,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Mar"
     },

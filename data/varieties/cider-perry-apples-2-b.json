@@ -2,8 +2,17 @@
   {
     "id": "bohnapfel",
     "name": "Bohnapfel",
-    "aka": ["Großer Rheinischer Bohnapfel", "Rheinischer Bohnapfel", "Gros Bohn", "Pomme Haricot"],
-    "uses": ["cider", "juice", "culinary"],
+    "aka": [
+      "Großer Rheinischer Bohnapfel",
+      "Rheinischer Bohnapfel",
+      "Gros Bohn",
+      "Pomme Haricot"
+    ],
+    "uses": [
+      "cider",
+      "juice",
+      "culinary"
+    ],
     "origin": {
       "country": "DE",
       "place": "Neuwied basin, Middle Rhine, Germany",
@@ -25,14 +34,17 @@
       "description": "Barrel-shaped fruit, often taller than wide, green ripening yellow-green with brownish-red marbling and short flames; short thick stalk, russet in the stalk cavity."
     },
     "taste": {
-      "summary": "Hard, coarse and distinctly sour at picking. After months in store it turns juicy and mildly sweet-sharp with only faint spice; fully ripened fruit gives juice and cider with good acidity and aroma.",
+      "summary": "Hard, coarse and distinctly sour at picking. By February in store it turns juicy, mild and lightly sweet-sharp, and it keeps until June; it is valued mainly for juice and distilling rather than for eating fresh.",
       "sweet": 2,
       "acid": 4,
       "aroma": 2,
       "tannin": 1,
       "crisp": 5,
       "juicy": 3,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp",
+        "mild"
+      ],
       "cider_class": "sharp",
       "best_eaten": "Press Nov-Dec; for eating or cooking wait until Feb-Jun after long storage"
     },
@@ -80,7 +92,10 @@
     "id": "bortlinger-weinapfel",
     "name": "Börtlinger Weinapfel",
     "aka": [],
-    "uses": ["cider", "juice"],
+    "uses": [
+      "cider",
+      "juice"
+    ],
     "origin": {
       "country": "DE",
       "place": "Börtlingen, Göppingen district, Baden-Württemberg, Germany",
@@ -109,7 +124,9 @@
       "tannin": null,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Press mid Oct to end Nov; also used for sparkling cider and distilling"
     },
@@ -157,7 +174,9 @@
     "id": "ashton-bitter",
     "name": "Ashton Bitter",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Long Ashton Research Station, Bristol, England",
@@ -186,7 +205,10 @@
       "tannin": 3,
       "crisp": 2,
       "juicy": 2,
-      "tags": ["bitter", "astringent"],
+      "tags": [
+        "bitter",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill in Oct"
     },
@@ -233,8 +255,13 @@
   {
     "id": "browns-apple",
     "name": "Browns Apple",
-    "aka": ["Brown's Apple", "Browns"],
-    "uses": ["cider"],
+    "aka": [
+      "Brown's Apple",
+      "Browns"
+    ],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Staverton, near Totnes, Devon, England",
@@ -263,7 +290,9 @@
       "tannin": 1,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": "sharp",
       "best_eaten": "Not for eating; mill late Oct-Nov"
     },
@@ -310,8 +339,14 @@
   {
     "id": "gennet-moyle",
     "name": "Gennet Moyle",
-    "aka": ["Genet Moyle", "Gennet-Moyle"],
-    "uses": ["cider", "culinary"],
+    "aka": [
+      "Genet Moyle",
+      "Gennet-Moyle"
+    ],
+    "uses": [
+      "cider",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Herefordshire and the Welsh Marches, England",
@@ -340,7 +375,9 @@
       "tannin": null,
       "crisp": 2,
       "juicy": 2,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec for baking and drying; mill soon after picking for a light early cider"
     },
@@ -387,8 +424,15 @@
   {
     "id": "hereford-redstreak",
     "name": "Hereford Redstreak",
-    "aka": ["Herefordshire Redstreak", "Redstreak", "Redstrake", "Scudamore's Crab"],
-    "uses": ["cider"],
+    "aka": [
+      "Herefordshire Redstreak",
+      "Redstreak",
+      "Redstrake",
+      "Scudamore's Crab"
+    ],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Herefordshire, England (traditionally Lord Scudamore's Holme Lacy estate)",
@@ -465,7 +509,9 @@
     "id": "white-jersey",
     "name": "White Jersey",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Somerset, England",
@@ -494,7 +540,10 @@
       "tannin": 3,
       "crisp": null,
       "juicy": null,
-      "tags": ["bitter", "astringent"],
+      "tags": [
+        "bitter",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating"
     },
@@ -542,7 +591,9 @@
     "id": "bens-red",
     "name": "Ben's Red",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Trannack, Cornwall, England",
@@ -571,7 +622,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 2,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Oct, soon after picking"
     },

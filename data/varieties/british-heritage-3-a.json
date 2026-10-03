@@ -200,7 +200,7 @@
       "description": "Small to medium, roundish-oval fruit, dull golden-yellow with a faint brownish-red cheek and a heavy net of russet; the stalk is very short and thick."
     },
     "taste": {
-      "summary": "Firm, fine-grained and rather dry flesh with a rich, nutty flavour that balances sweetness against a fruity sharpness, in the same style as Ashmead's Kernel rather than the softer Egremont Russet. It needs a long time in store and is at its best in late winter.",
+      "summary": "Firm, fine-grained, rather dry cream flesh tinged green. The flavour is concentrated and boiled-sweet fruity, with a rich nutty finish. Sweet-sharp in the manner of Ashmead's Kernel rather than the sweeter Egremont Russet; it needs time in store and is best from about December into March.",
       "sweet": 3,
       "acid": 3,
       "aroma": 4,
@@ -209,6 +209,7 @@
       "juicy": 2,
       "tags": [
         "nutty",
+        "pear-drop",
         "sweet",
         "sharp"
       ],

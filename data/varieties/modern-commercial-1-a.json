@@ -29,18 +29,17 @@
       "description": "Small-to-medium, neat conical fruit, golden-yellow under heavy bright red streaks and flush; noticeably redder than standard Gala."
     },
     "taste": {
-      "summary": "Sweet and gentle with little acidity and a light floral, pear-like scent; crisp rather than hard, with thin skin and juicy cream flesh. Best fresh off the tree - the flavour is pleasant but simple, and after long storage it fades and the texture can turn mealy.",
+      "summary": "Sweet and gentle with little acidity and a light, pleasant aroma; crisp rather than hard, with fine-grained cream flesh. Best in season, as long-stored fruit tastes less sweet and can turn soft; tasters are split between a reliable treat and a dull supermarket staple.",
       "sweet": 4,
       "acid": 2,
-      "aroma": 2,
+      "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
       "tags": [
         "sweet",
         "mild",
-        "floral",
-        "pear"
+        "floral"
       ],
       "cider_class": null,
       "best_eaten": "Sep-Nov; at its best within a few weeks of picking"
@@ -287,13 +286,13 @@
       "description": "Fairly large fruit with a deep red flush over green-yellow, marked with conspicuous pale lenticels."
     },
     "taste": {
-      "summary": "Crisp, white-fleshed and sweeter and softer-flavoured than its sister Pink Lady, with a clean finish and moderate acidity. Holds its shape when cooked.",
+      "summary": "Crisp, juicy white flesh, sweeter and less acidic than its sister Pink Lady, with a complex flavour and a clean finish. At its best after a spell in cold storage, and keeps well; holds its shape when cooked.",
       "sweet": 4,
       "acid": 3,
       "aroma": 2,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 3,
+      "juicy": 4,
       "tags": [
         "sweet"
       ],
@@ -455,7 +454,7 @@
       "description": "Medium, slightly conical fruit with orange-red streaks and flush over a yellow ground."
     },
     "taste": {
-      "summary": "Crisp and juicy with a good blend of sweetness and lively acidity, often described as almost fizzy on the tongue; more aromatic than Gala, showing some of Elstar's character.",
+      "summary": "Crisp and juicy with a good blend of sweetness and lively acidity that many describe as almost fizzy; more aromatic than Gala, with some of Elstar's character. Keeps three months or more and is slow to brown when cut. Packaging sometimes promises a banana note, but tasters have not reported finding it.",
       "sweet": 4,
       "acid": 3,
       "aroma": 3,

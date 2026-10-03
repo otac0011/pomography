@@ -34,15 +34,16 @@
       "description": "Big, broad, somewhat lopsided fruit with a rough greenish to golden skin, heavily netted with russet and washed with a dull brownish-red cheek."
     },
     "taste": {
-      "summary": "Very sharp straight from the tree, with plenty of sugar hidden behind the acid; after a few weeks in store it becomes a rich, bracing, fragrant eating apple. Flesh is firm and fairly coarse, and it cooks to a tangy, well-flavoured purée that keeps some shape.",
+      "summary": "Very sharp from the tree, with dense, very firm greenish-white flesh and plenty of juice; after some weeks in store the sugar shows through and tasters find a complex flavour with mellow honey undertones that varies with season and site. Unlike Bramley it keeps its shape when cooked, making it a fine pie apple.",
       "sweet": 3,
       "acid": 5,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 3,
+      "juicy": 4,
       "tags": [
         "sharp",
+        "honey",
         "perfumed"
       ],
       "cider_class": null,
@@ -123,7 +124,7 @@
       "description": "Angular, ribbed fruit with a shiny, waxy, silky skin flushed glossy red over most of the surface; flesh sometimes veined with red."
     },
     "taste": {
-      "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be marbled with red. Pleasant fresh in autumn and useful in the kitchen; not a long keeper.",
+      "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be veined with green and red. Pleasant fresh in autumn and useful in the kitchen; picked at the end of September, it is usable from mid-October until about January.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,

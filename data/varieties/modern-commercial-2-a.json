@@ -117,16 +117,17 @@
       "description": "Glossy, almost entirely cherry-red skin over a yellow-green ground; fruit can be small unless thinned."
     },
     "taste": {
-      "summary": "Crisp, juicy white flesh with a lively, well-balanced sweet-sharp flavour in the Jonathan style. The flesh is slow to brown, but the fruit softens fast and is best eaten within a week or two of picking; it also makes a good sauce.",
+      "summary": "Firm rather than crunchy, with plenty of juice and an unusually well-judged sweet-sharp balance in the Jonathan style, lifted by a strong apple perfume. Cut flesh is slow to brown, but picked fruit turns grainy within a few days, so eat it promptly; it hangs well on the tree for weeks and cooks to a pinkish sauce.",
       "sweet": 3,
       "acid": 4,
-      "aroma": 3,
+      "aroma": 4,
       "tannin": 0,
-      "crisp": 4,
+      "crisp": 3,
       "juicy": 4,
       "tags": [
         "sharp",
-        "sweet"
+        "sweet",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "late Aug-Sep, straight from the tree"
@@ -199,9 +200,9 @@
       "description": "Gala-like: yellow ground largely washed and streaked with bright red."
     },
     "taste": {
-      "summary": "Sweet, juicy and crisp-tender in the Gala style, with a little more acidity from Akane to keep it lively. An early apple to eat soon after picking.",
+      "summary": "Essentially an early Gala: sweet, juicy and crisp, but with more acidity from Akane to keep it lively. Eat within a week or so of picking; late fruit can turn grainy.",
       "sweet": 4,
-      "acid": 2,
+      "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
@@ -364,7 +365,7 @@
       "description": "Almost entirely deep maroon-purple with a waxy bloom that polishes to a shine; strikingly white flesh."
     },
     "taste": {
-      "summary": "Snow-white, crisp and juicy flesh with a sweet, gently vinous McIntosh character and low acidity. Very good fresh from the tree but softens and loses crunch if kept too long or grown too large.",
+      "summary": "Snow-white, crisp, juicy flesh with a sweet, vinous McIntosh character and a light perfume; tasters variously note hints of melon and strawberry or a burnt-caramel, toffee-apple tone. Best straight off the tree: it softens within a week or so, browns quickly when cut, and long-stored fruit can taste fermented.",
       "sweet": 4,
       "acid": 2,
       "aroma": 3,
@@ -373,7 +374,10 @@
       "juicy": 4,
       "tags": [
         "wine",
-        "sweet"
+        "sweet",
+        "strawberry",
+        "melon",
+        "caramel"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"

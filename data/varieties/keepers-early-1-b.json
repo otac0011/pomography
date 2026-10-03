@@ -30,17 +30,17 @@
       "description": "Pale greenish-yellow apple with a glossy bright red flush on the sunny side; the flesh is often tinged pink beneath the skin."
     },
     "taste": {
-      "summary": "Firm, crisp, fine-textured and juicy, with a fresh balance of sweetness and acidity. Many tasters pick up a hint of strawberry, though it varies from year to year. It keeps its crunch better than most August apples, especially if chilled.",
+      "summary": "Crisp, juicy and fine-textured, more acidic than sweet with a fresh, tangy finish but little depth; a hint of strawberry appears in some years. Best eaten straight from the tree: flavour drops off within about a week and the flesh soon turns woolly, though chilling slows this. Many growers rate it more highly than the official tasting note does.",
       "sweet": 3,
-      "acid": 3,
+      "acid": 4,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
       "tags": [
+        "sharp",
         "strawberry",
-        "sweet",
-        "sharp"
+        "sweet"
       ],
       "cider_class": null,
       "best_eaten": "Mid Aug-early Sep; holds a week or two, longer in the fridge"
@@ -113,10 +113,10 @@
       "description": "Medium, truncated-conical fruit, green-yellow with orange-red streaks and a noticeably greasy skin."
     },
     "taste": {
-      "summary": "Soft, fine-textured pale flesh with a mild, gently acidic flavour; one reference notes an aniseed note, a trait associated with its Cellini parent. Eat it fresh, as it softens quickly.",
+      "summary": "Pale, soft, fine-textured flesh with gentle acidity and a pronounced aniseed flavour, which one nursery describes as strong; the trait is usually credited to its Cellini parent. An August apple to eat fresh, as it softens quickly.",
       "sweet": 3,
       "acid": 2,
-      "aroma": 3,
+      "aroma": 4,
       "tannin": 0,
       "crisp": 2,
       "juicy": null,
@@ -201,7 +201,7 @@
       "description": "Medium, rounded apple, green-yellow with a bright red flush; the flesh may show pink staining."
     },
     "taste": {
-      "summary": "Crisp to tender, juicy flesh with a brisk, fairly sharp but not harsh flavour; pleasant straight from the tree though less rich than later apples.",
+      "summary": "Sharp and acidic but fairly mild overall, with flesh often stained pink like Beauty of Bath and Discovery. Pleasant straight from the tree in late summer, though newer apples of the same season outclass it.",
       "sweet": 3,
       "acid": 3,
       "aroma": 2,
@@ -209,7 +209,8 @@
       "crisp": 3,
       "juicy": 3,
       "tags": [
-        "sharp"
+        "sharp",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Late Aug-Sep, fresh from the tree"

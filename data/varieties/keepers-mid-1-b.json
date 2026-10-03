@@ -30,7 +30,7 @@
       "description": "Medium, slightly conical apple, greenish-yellow to gold with an orange-red to brownish flush and fine red streaks, often with russet around the stalk."
     },
     "taste": {
-      "summary": "Rich and complex: honeyed sweetness balanced by lively acidity, with a floral, almost rose-water perfume, pear-drop esters and a nutty background. Flesh is fine, cream-coloured and juicy; flavour deepens for a few weeks after picking.",
+      "summary": "Rich and complex: honeyed sweetness balanced by lively acidity, with a floral, almost rose-water perfume, pear-drop esters and a nutty background; tasters also find pear, melon, orange-juice and mango notes. The cream-yellow flesh is juicy but not especially crisp. Flavour deepens for a few weeks after picking and is best before Christmas; it reaches full character only in cool maritime climates such as England or the Pacific Northwest.",
       "sweet": 4,
       "acid": 3,
       "aroma": 5,
@@ -39,10 +39,11 @@
       "juicy": 4,
       "tags": [
         "floral",
+        "rose",
         "pear-drop",
         "honey",
-        "rose",
-        "nutty"
+        "nutty",
+        "mango"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Jan; flavour peaks 2-6 weeks after picking"
@@ -199,7 +200,7 @@
       "description": "Flattish-round apple almost completely covered in golden-brown russet, sometimes with a faint orange-bronze cheek."
     },
     "taste": {
-      "summary": "Dense, firm, fairly dry cream flesh with a sweet, distinctly nutty flavour and modest acidity. Crisp at picking, it mellows and becomes richer in store but shrivels if kept too long.",
+      "summary": "Dense cream flesh, moist rather than juicy, with a sweet, classically nutty flavour, a little balancing sharpness and a pear-like overtone that some tasters find marked. Crisp at picking, it grows sweeter and nuttier in store but also drier, eventually going woolly or shrivelled; good with cheese and in savoury salads.",
       "sweet": 4,
       "acid": 2,
       "aroma": 3,
@@ -208,7 +209,8 @@
       "juicy": 2,
       "tags": [
         "nutty",
-        "sweet"
+        "sweet",
+        "pear"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
@@ -283,7 +285,7 @@
       "description": "Golden-yellow conical apple striped and lightly flushed crimson."
     },
     "taste": {
-      "summary": "Soft, very juicy yellow flesh, sweet and perfumed, with an unmistakable aniseed note that strengthens a few days after picking. Low in acid; it does not stay at its best for long.",
+      "summary": "Soft, very juicy, almost pear-textured yellow flesh with a rich, Cox-like fruitiness that is neither very sweet nor sharp, plus an orange-like tang. The aniseed or liquorice note is faint straight off the tree and builds over the following days, so eat it early if you dislike it; it loses crispness and flavour quickly.",
       "sweet": 4,
       "acid": 2,
       "aroma": 5,
@@ -293,7 +295,8 @@
       "tags": [
         "aniseed",
         "perfumed",
-        "sweet"
+        "sweet",
+        "citrus"
       ],
       "cider_class": null,
       "best_eaten": "Sep-Oct; best within a couple of weeks of picking"
@@ -368,7 +371,7 @@
     "taste": {
       "summary": "Soft, fine and very juicy flesh with a lively, fairly sharp and aromatic flavour; best eaten fresh as it does not keep.",
       "sweet": 3,
-      "acid": 3,
+      "acid": 4,
       "aroma": 3,
       "tannin": 0,
       "crisp": 2,
@@ -452,15 +455,18 @@
       "description": "Very large, broad conical apple, greenish-yellow with orange-red streaks and flush; a showpiece fruit."
     },
     "taste": {
-      "summary": "Coarse, rather dry and fairly acid flesh with little aroma; more impressive for size than flavour when raw, but useful for cooking.",
-      "sweet": 2,
+      "summary": "Sources disagree: English accounts call the flesh coarse, rather dry and fairly acid with little aroma, better cooked than raw, while descriptions of the Aport grown around Almaty give a crisp, fine-grained, sweet-tart apple with a honeyed scent and hints of hazelnut and anise. Softens and turns crumbly in store.",
+      "sweet": 3,
       "acid": 3,
-      "aroma": 2,
+      "aroma": 3,
       "tannin": 0,
       "crisp": 2,
       "juicy": 2,
       "tags": [
-        "sharp"
+        "sharp",
+        "honey",
+        "nutty",
+        "aniseed"
       ],
       "cider_class": null,
       "best_eaten": "Sep-Nov"

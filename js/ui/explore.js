@@ -93,14 +93,25 @@ function gridHTML() {
     ${list.length > shown ? `<div style="text-align:center;margin-top:18px"><button class="btn" id="more">Show ${Math.min(60, list.length - shown)} more</button></div>` : ''}`;
 }
 
-export function renderExplore(app) {
+export function renderExplore(app, params) {
   const c = S.data.counts;
+  if (params && params.toString()) {
+    F = F0();
+    if (params.get('bred')) F.bred = true;
+    if (params.get('tag')) params.get('tag').split(',').forEach(t => F.tags.add(t));
+    if (params.get('use')) F.uses.add(params.get('use'));
+    if (params.get('q')) F.q = params.get('q');
+    shown = 60;
+  }
   const sample = ['coxs-orange-pippin', 'ashmeads-kernel', 'kingston-black', 'egremont-russet', 'ananas-reinette', 'bramleys-seedling'].map(id => S.byId.get(id)).filter(Boolean);
   app.innerHTML = `
   <section class="hero">
     <div>
       <h1>The heirloom apple atlas</h1>
       <p class="lead">Taste, growing habit and ripening for ${c.varieties} apple varieties — from rose-water Cox to pineapple-scented Ananas Reinette — plus the rootstocks that decide how big and how soon they crop. Then click the world map to see how your favourites would do in Norfolk, Paris or southern Michigan.</p>
+      <p class="small" style="margin:0 0 8px"><b>Browse by taste:</b>
+        ${[['rose', 'Rose-water'], ['floral', 'Floral'], ['pear-drop', 'Pear drop'], ['pineapple', 'Pineapple'], ['vanilla', 'Vanilla'], ['nutty', 'Nutty'], ['aniseed', 'Aniseed'], ['honey', 'Honeyed'], ['strawberry', 'Strawberry']].map(([t, l]) => `<a class="chip" href="#/?tag=${t}">${l}</a>`).join('')}
+        <a class="chip" href="#/?bred=1">Karim's own seedlings</a></p>
       <div class="row"><a class="btn primary" href="#/map">Try the world map</a><a class="btn" href="#/rootstocks">Compare rootstocks</a><a class="btn" href="#/guide">How it works</a></div>
       <div class="stats"><div class="stat"><b>${c.varieties}</b>varieties</div><div class="stat"><b>${c.keepers}</b>in the Keepers range</div><div class="stat"><b>${c.rootstocks}</b>rootstocks</div><div class="stat"><b>${c.regions}</b>reference places</div></div>
     </div>

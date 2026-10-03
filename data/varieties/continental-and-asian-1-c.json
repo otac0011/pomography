@@ -34,7 +34,7 @@
       "description": "Large, irregular, flattened-round to slightly conical fruit almost wholly covered in cinnamon-brown russet over a greenish-yellow ground."
     },
     "taste": {
-      "summary": "Fine, dense, lightly crisp flesh that is juicy, sweet and pleasantly sharp, with a good perfume. Excellent for purées and baking, where it breaks down into a tangy fluff; keeps rather less well than the smooth-skinned form.",
+      "summary": "Fine, dense, lightly crisp flesh, juicy and sweet in the russet manner, with a pleasant sharpness and a distinctly spicy perfume. A mainstay of French cookery: it bakes whole without collapsing, stews to a textured puree that needs little sugar, and keeps a month or two.",
       "sweet": 4,
       "acid": 4,
       "aroma": 4,
@@ -42,8 +42,9 @@
       "crisp": 3,
       "juicy": 4,
       "tags": [
-        "sharp",
         "sweet",
+        "sharp",
+        "spice",
         "perfumed"
       ],
       "cider_class": null,
@@ -201,15 +202,16 @@
       "description": "Very large, rounded to slightly conical and often angular fruit; whitish-yellow skin washed and speckled with carmine and striped cherry-red, with grey dots."
     },
     "taste": {
-      "summary": "White, juicy flesh that is sweet with a light acidity; a late-keeping dessert apple at its best in mid-winter.",
+      "summary": "Whitish, juicy flesh that is sweet with a clear tang; a late dessert apple that ripens in store around January and keeps for about five months.",
       "sweet": 4,
-      "acid": 2,
+      "acid": 3,
       "aroma": null,
       "tannin": 0,
       "crisp": null,
       "juicy": 4,
       "tags": [
-        "sweet"
+        "sweet",
+        "sharp"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Feb"
@@ -455,15 +457,16 @@
       "description": "Medium, somewhat flattened apple with a rough skin, deep yellow when ripe and freckled with small brown russet spots."
     },
     "taste": {
-      "summary": "Firm, juicy, sweet flesh; a very long-keeping winter apple that stays good into March, though it shrivels and softens toward the end of storage.",
+      "summary": "Firm, juicy cream flesh with a sweet-sharp balance that leans to the sweet side; it also holds its shape in cooking and gives a sweetish juice. A very long keeper that lasts into March, though it shrivels and softens toward the end of storage.",
       "sweet": 4,
-      "acid": 2,
+      "acid": 3,
       "aroma": null,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
       "tags": [
-        "sweet"
+        "sweet",
+        "sharp"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Mar"

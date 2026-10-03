@@ -38,7 +38,8 @@
       "juicy": 4,
       "tags": [
         "sweet",
-        "floral"
+        "floral",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Mar"
@@ -111,7 +112,7 @@
       "description": "Large, slightly conical fruit with a bright pinkish-red flush over a cream to pale yellow background."
     },
     "taste": {
-      "summary": "Honey-sweet with very little acid and a gentle pear-like perfume; crisp and juicy but finer-textured than hard modern apples. The cream flesh is slow to brown, and it eats best chilled.",
+      "summary": "Very sweet with almost no acidity, giving a pleasant but one-dimensional flavour with a pear-like note and, to some tasters, a light floral scent. Crisp and juicy though not as hard as Braeburn; left at room temperature it softens and turns more pear-like, and the cream flesh is slow to brown.",
       "sweet": 5,
       "acid": 1,
       "aroma": 3,
@@ -120,9 +121,9 @@
       "juicy": 4,
       "tags": [
         "sweet",
-        "honey",
+        "mild",
         "pear",
-        "mild"
+        "floral"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Jan; keep refrigerated, softens at room temperature"
@@ -195,7 +196,7 @@
       "description": "Large fruit with bold red stripes and patches over a cream to orange-yellow ground, dotted with pale lenticels."
     },
     "taste": {
-      "summary": "Dense, very crisp and juicy, with a balance of sweetness and light tartness and a hint of pear; some find it rather plain when fresh, and it sweetens with a week or two of storage. Keeps its crunch for months refrigerated.",
+      "summary": "Dense, crisp and juicy, balancing sweetness with light tartness and a hint of pear. Orange Pippin's own note calls the flavour fairly bland, but many growers disagree, and individual tasters report strawberry or fresh-pineapple notes. It sweetens over a week or two of storage, browns slowly when cut and keeps its crunch for months in the fridge.",
       "sweet": 4,
       "acid": 3,
       "aroma": 2,
@@ -204,7 +205,8 @@
       "juicy": 4,
       "tags": [
         "sweet",
-        "pear"
+        "pear",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Feb; better after 1-2 weeks in store"
@@ -453,17 +455,18 @@
       "description": "Smallish fruit with a bright crimson flush over golden-green and a noticeably indented base."
     },
     "taste": {
-      "summary": "Crisp, juicy and dense cream flesh with a balanced sweet-sharp taste and a light pear-drop note; neither too sweet nor too sharp, and good after months in store.",
+      "summary": "Very crisp, dense, firm cream flesh that is moist rather than truly juicy, with a balanced sweet-sharp taste, a hint of pear-drop and a delicate fragrance; best eaten slightly chilled. Orange Pippin advises eating it within about a week rather than keeping it, which sits oddly with its reputation as a late keeper.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 4,
+      "juicy": 3,
       "tags": [
         "pear-drop",
         "sweet",
-        "sharp"
+        "sharp",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Feb"

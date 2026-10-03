@@ -31,7 +31,7 @@
       "description": "Appearance not reliably documented in the sources consulted."
     },
     "taste": {
-      "summary": "A sharp, finely aromatic late keeper, used both for eating once it mellows in store and in the kitchen.",
+      "summary": "A tart, finely aromatic late apple, picked in October and keeping in a cool cellar from November to April; it mellows enough in store to eat fresh and is also used in the kitchen.",
       "sweet": null,
       "acid": 4,
       "aroma": 3,
@@ -39,7 +39,8 @@
       "crisp": null,
       "juicy": null,
       "tags": [
-        "sharp"
+        "sharp",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Apr from a cool store"
@@ -443,7 +444,7 @@
       "description": "Medium, strongly ribbed, rather tall fruit flushed deep red almost all over; dark spots often appear on the skin."
     },
     "taste": {
-      "summary": "In a warm, well-chosen site it is sweet with a delicate raspberry-like perfume and soft, tender flesh; grown in cooler or poorer conditions it is rather flat and lacks aroma.",
+      "summary": "Soft white flesh with a mild, pleasant sweet-sharp flavour. In a warm, well-chosen site it gains a delicate raspberry-like perfume; grown in cooler or poorer conditions it is rather flat and lacks aroma. Picked very late, it keeps through the winter.",
       "sweet": 3,
       "acid": 2,
       "aroma": 3,
@@ -452,7 +453,8 @@
       "juicy": 3,
       "tags": [
         "berry",
-        "sweet"
+        "sweet",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Mar"

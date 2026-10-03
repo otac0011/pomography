@@ -31,15 +31,17 @@
       "description": "Big, smooth, glossy apple with a thick skin, mottled and streaked bright red over a greenish-yellow base, dotted with pale lenticels."
     },
     "taste": {
-      "summary": "Firm, slightly coarse and moderately juicy flesh with a mild, gently sweet-tart flavour and little perfume when raw. Its real strength is in the oven: it holds its shape when baked whole and the flavour deepens with cooking.",
+      "summary": "Firm, solid, rather dry flesh with a mild sweetness and a little tartness; unremarkable raw, though one taster found a rose-like note. It shines in the oven, holding its shape when baked whole, and turns dry and mealy if kept long without cold storage.",
       "sweet": 3,
       "acid": 2,
-      "aroma": 2,
+      "aroma": 3,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 3,
+      "juicy": 2,
       "tags": [
-        "mild"
+        "mild",
+        "sweet",
+        "rose"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Mar; mainly for baking"
@@ -380,16 +382,20 @@
       "description": "Glossy, waxy fruit so deep a red-purple on the sunny side that it looks almost black, with small pale lenticels."
     },
     "taste": {
-      "summary": "Very hard, dense and sharp straight from the tree. After one to two months in store it becomes sweeter and aromatic, with a crisp, rather dry yellow flesh and a lingering spicy note.",
+      "summary": "Very hard and tart at picking, it mellows enormously after one to two months in store into a firm, crisp apple with a dark, wine-like richness. Tasters pick out a hint of vanilla near the skin, almond towards the core and a spicy, honeyed sweetness over the remaining tartness; the waxy skin turns greasy in store.",
       "sweet": 3,
       "acid": 4,
       "aroma": 3,
       "tannin": 0,
       "crisp": 5,
-      "juicy": 2,
+      "juicy": 3,
       "tags": [
+        "wine",
         "sharp",
-        "spice"
+        "spice",
+        "almond",
+        "vanilla",
+        "honey"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Mar, after storage"

@@ -2,8 +2,14 @@
   {
     "id": "autumn-pearmain",
     "name": "Autumn Pearmain",
-    "aka": ["Summer Pearmain", "English Summer Pearmain", "Pearmain d'Automne"],
-    "uses": ["dessert"],
+    "aka": [
+      "Summer Pearmain",
+      "English Summer Pearmain",
+      "Pearmain d'Automne"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -32,7 +38,10 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 2,
-      "tags": ["nutty", "sweet"],
+      "tags": [
+        "nutty",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Nov, soon after picking"
     },
@@ -79,8 +88,13 @@
   {
     "id": "bardsey",
     "name": "Bardsey",
-    "aka": ["Bardsey Island Apple", "Afal Enlli"],
-    "uses": ["dessert"],
+    "aka": [
+      "Bardsey Island Apple",
+      "Afal Enlli"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Bardsey Island (Ynys Enlli), Gwynedd, Wales",
@@ -102,14 +116,18 @@
       "description": "Medium-sized apple with a pink to orange-red flush over a pale skin."
     },
     "taste": {
-      "summary": "Sweet and juicy with a distinctive lemony scent when cut, balanced by a fair amount of acidity. Best eaten fresh from the tree in late September and October.",
+      "summary": "Sweet and juicy with a light lemon scent and a fair amount of acidity. Best eaten within a few days of picking in late September and October; it keeps only two to three weeks and cooks to a puree.",
       "sweet": 4,
       "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": null,
       "juicy": 4,
-      "tags": ["lemon", "sweet"],
+      "tags": [
+        "lemon",
+        "sweet",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "late Sep-Nov, fresh off the tree"
     },
@@ -157,7 +175,11 @@
     "id": "bloody-ploughman",
     "name": "Bloody Ploughman",
     "aka": [],
-    "uses": ["dessert", "culinary", "juice"],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
     "origin": {
       "country": "GB",
       "place": "Carse of Gowrie, Perthshire, Scotland",
@@ -179,14 +201,18 @@
       "description": "Large, strongly ribbed conical fruit almost entirely covered in bright to purplish blood-red, with darker streaks."
     },
     "taste": {
-      "summary": "Crisp, rather dry flesh that is greenish-white stained pink near the skin. Only lightly sweet with a moderate acidity; more striking to look at than to eat, and good cooked or juiced, where the red pigment colours the result.",
+      "summary": "Crisp, rather dry flesh streaked pink near the skin, with a mild but sweet flavour some compare to Red Delicious; one grower notices a raspberry hint in sun-ripened fruit, though Orange Pippin classes its style as sharper. The skin is tough, and it makes a striking dark pink sauce or juice.",
       "sweet": 3,
       "acid": 3,
       "aroma": 2,
       "tannin": 0,
       "crisp": 4,
       "juicy": 2,
-      "tags": [],
+      "tags": [
+        "sweet",
+        "mild",
+        "berry"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Oct; does not keep long"
     },
@@ -234,7 +260,9 @@
     "id": "captain-kidd",
     "name": "Captain Kidd",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "NZ",
       "place": "Twyford, Hawke's Bay, New Zealand",
@@ -256,14 +284,19 @@
       "description": "Medium, conical apple heavily streaked and flushed bright red over yellow, redder than Kidd's Orange Red."
     },
     "taste": {
-      "summary": "Like Kidd's Orange Red: firm, crisp and juicy, with a sweet, rich, Cox-like aroma softened by Delicious-style sweetness. Flavour develops further after a few weeks in store.",
-      "sweet": 4,
+      "summary": "Shares the eating quality of Kidd's Orange Red: very sweet and juicy, honeyed and noticeably sweeter than Cox, with a lively kick that tasters liken to a French dessert wine and occasional pear-drop notes. The dense flesh is firm rather than crunchy. Flavour keeps developing for some weeks after picking; best eaten before the new year.",
+      "sweet": 5,
       "acid": 2,
       "aroma": 4,
       "tannin": 0,
-      "crisp": 4,
+      "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet",
+        "honey",
+        "pear-drop",
+        "wine"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Jan, after a few weeks in store"
     },
@@ -311,7 +344,9 @@
     "id": "carswells-orange",
     "name": "Carswell's Orange",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Ashtead, Surrey, England",
@@ -387,8 +422,13 @@
   {
     "id": "charles-ross",
     "name": "Charles Ross",
-    "aka": ["Thomas Andrew Knight"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "Thomas Andrew Knight"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Welford Park, Newbury, Berkshire, England",
@@ -410,14 +450,18 @@
       "description": "Large, handsome conical apple, pale yellow-green flushed and streaked orange-red; individual fruit can be very big."
     },
     "taste": {
-      "summary": "Juicy, slightly coarse flesh that is fairly sharp when first picked and turns sweeter and milder after a few weeks. Pleasant rather than intensely aromatic; slices hold their shape when cooked.",
-      "sweet": 3,
+      "summary": "Crisp and juicy when picked in September, when it is still fairly sharp; over a few weeks it turns very sweet, with some of Cox's aroma and a pear-like quality (one taster finds a marked orange note). It does not keep: by November the flesh goes dry and almost powdery. Cooked slices only partly break down.",
+      "sweet": 4,
       "acid": 3,
-      "aroma": 2,
+      "aroma": 3,
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet",
+        "pear",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec; cook early in the season, eat fresh later"
     },
@@ -465,7 +509,9 @@
     "id": "cherry-cox",
     "name": "Cherry Cox",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "DK",
       "place": "Kjer's orchard, Linved, Hjallese (near Odense), Denmark",
@@ -494,7 +540,12 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["floral", "pear-drop", "honey", "nutty"],
+      "tags": [
+        "floral",
+        "pear-drop",
+        "honey",
+        "nutty"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
     },

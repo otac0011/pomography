@@ -29,7 +29,7 @@
       "description": "Tall, bell-shaped fruit with Delicious-like bumps at the eye, almost wholly covered in dark purplish red with prominent lenticels."
     },
     "taste": {
-      "summary": "Firm, crisp and juicy greenish-cream flesh with a fairly sharp, plain flavour and modest aroma; tarter than the Delicious side of its parentage. Keeps its crunch for months and mellows slightly in store.",
+      "summary": "Firm, crisp and juicy greenish-cream flesh with a fairly sharp flavour, tarter than Delicious, finishing with a hint of honey according to one grower. Hangs well on the tree, keeps its crunch for months and mellows slightly in store.",
       "sweet": 3,
       "acid": 4,
       "aroma": 2,
@@ -37,7 +37,8 @@
       "crisp": 4,
       "juicy": 4,
       "tags": [
-        "sharp"
+        "sharp",
+        "honey"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Feb"
@@ -208,7 +209,8 @@
       "juicy": 3,
       "tags": [
         "sharp",
-        "spice"
+        "spice",
+        "sweet"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Mar, after a month or more in store"
@@ -283,7 +285,7 @@
       "description": "Medium-large to large fruit, striped and flushed red so the yellow ground barely shows."
     },
     "taste": {
-      "summary": "Crisp, very juicy cream flesh with a mild, sweet-sharp flavour; pleasant rather than intense. Good for sauce, juice and cider blends as well as eating.",
+      "summary": "Crisp, very juicy cream flesh with a sweet, sprightly sub-acid flavour that some liken to McIntosh; pleasant rather than intense. It softens and turns mealy soon after picking, so eat it quickly or use it for sauce, drying, juice and cider.",
       "sweet": 3,
       "acid": 3,
       "aroma": 2,
@@ -291,7 +293,8 @@
       "crisp": 4,
       "juicy": 5,
       "tags": [
-        "sweet"
+        "sweet",
+        "sharp"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Nov"

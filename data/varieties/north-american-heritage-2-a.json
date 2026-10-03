@@ -298,7 +298,7 @@
       "description": "Large, squat, often lopsided or ribbed fruit, greenish-yellow washed and striped with pinkish to carmine red on the sunny side."
     },
     "taste": {
-      "summary": "Coarse, tender, breaking flesh that is exceptionally juicy, with a mildly tart, sweet-sharp, slightly honeyed flavour. Good fresh straight off the tree and very good for sauce, pies and frying; it softens quickly.",
+      "summary": "Coarse, breaking, exceptionally juicy flesh with a subacid, aromatic, slightly honeyed flavour and a noticeable touch of tannin. Good eaten off the tree but soon turns soft, keeping only about a week; prized above all for sauce, and also good for pies and drying.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
@@ -306,7 +306,10 @@
       "crisp": 3,
       "juicy": 5,
       "tags": [
-        "honey"
+        "honey",
+        "sweet",
+        "sharp",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Aug-Sep, straight from the tree"

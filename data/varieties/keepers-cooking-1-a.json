@@ -2,8 +2,13 @@
   {
     "id": "annie-elizabeth",
     "name": "Annie Elizabeth",
-    "aka": ["Annie Elisabeth"],
-    "uses": ["culinary", "dessert"],
+    "aka": [
+      "Annie Elisabeth"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Knighton, Leicester, England",
@@ -31,8 +36,11 @@
       "aroma": 2,
       "tannin": 0,
       "crisp": 3,
-      "juicy": 3,
-      "tags": ["sharp"],
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Apr; cooks well from picking, better raw after Christmas"
     },
@@ -79,8 +87,12 @@
   {
     "id": "arthur-turner",
     "name": "Arthur Turner",
-    "aka": ["Turner's Prolific"],
-    "uses": ["culinary"],
+    "aka": [
+      "Turner's Prolific"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Slough, Buckinghamshire, England",
@@ -109,7 +121,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 3,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Aug-Oct; can be picked for cooking from August before full size"
     },
@@ -156,8 +170,14 @@
   {
     "id": "beauty-of-kent",
     "name": "Beauty of Kent",
-    "aka": ["Kent Beauty", "Kentish Beauty", "Beauté de Kent"],
-    "uses": ["culinary"],
+    "aka": [
+      "Kent Beauty",
+      "Kentish Beauty",
+      "Beauté de Kent"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "England, probably Kent",
@@ -186,7 +206,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["mild"],
+      "tags": [
+        "mild"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Feb"
     },
@@ -234,7 +256,10 @@
     "id": "bountiful",
     "name": "Bountiful",
     "aka": [],
-    "uses": ["culinary", "dessert"],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "East Malling Research Station, Kent, England",
@@ -256,14 +281,18 @@
       "description": "Large, smooth, evenly shaped green apple, sometimes with a light reddish flush where exposed to the sun."
     },
     "taste": {
-      "summary": "Fairly sweet for a cooker with moderate sharpness, so it needs little added sugar; slices hold their shape when cooked. Raw it is pleasant but plain, gaining some sweetness if left on the tree into October.",
+      "summary": "Fairly sweet for a cooker but a little too acid to be an ideal eater, with very firm flesh and not much distinct character raw, though sweet enough to eat when picked ripe in September. Slices hold their shape when cooked and it bakes well whole; it keeps only about a week.",
       "sweet": 3,
       "acid": 3,
       "aroma": 1,
       "tannin": 0,
-      "crisp": 3,
+      "crisp": 4,
       "juicy": 3,
-      "tags": ["mild"],
+      "tags": [
+        "sweet",
+        "sharp",
+        "mild"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Dec"
     },
@@ -310,8 +339,14 @@
   {
     "id": "bow-hill-pippin",
     "name": "Bow Hill Pippin",
-    "aka": ["Bowhill Pippin", "Bow Hill"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "Bowhill Pippin",
+      "Bow Hill"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Bow Hill, near Maidstone, Kent, England",
@@ -340,7 +375,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": null
     },
@@ -387,8 +424,12 @@
   {
     "id": "bramley-20",
     "name": "Bramley 20",
-    "aka": ["Bramley Clone 20"],
-    "uses": ["culinary"],
+    "aka": [
+      "Bramley Clone 20"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -417,7 +458,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Mar"
     },

@@ -32,17 +32,16 @@
       "description": "Large, roundish fruit flushed and striped bright red over yellow, with prominent pale russet dots."
     },
     "taste": {
-      "summary": "Crisp, juicy, coarse-grained flesh with a brisk sweet-tart balance and a light spiciness. Good fresh, holds its shape in pies and was long used for New England cider.",
+      "summary": "Very hard, crisp, juicy flesh with a straightforward sweet flavour backed by a mild tartness; growers prize its firm texture more than any complexity. It holds its shape in pies, keeps three months or more and was long the classic New England cider apple.",
       "sweet": 3,
-      "acid": 4,
+      "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
       "tags": [
-        "sharp",
-        "spice",
-        "sweet"
+        "sweet",
+        "sharp"
       ],
       "cider_class": "sharp",
       "best_eaten": "Nov-Mar"
@@ -122,16 +121,17 @@
       "description": "Dull greenish-yellow apple heavily patched and netted with grey-brown russet, sometimes with a faint bronze cheek."
     },
     "taste": {
-      "summary": "Firm, somewhat coarse yellowish flesh, sugary yet tart, with a rich, slightly spicy character that improves after a few weeks in store. Makes a sweet, high-sugar juice and cider.",
-      "sweet": 3,
-      "acid": 4,
+      "summary": "Dense, firm yellowish flesh, crunchy but not hard, with a sugary, cider-like sweetness, some tartness and a gentle spiciness milder than Golden Russet's; one taster notes a honeyed aftertaste. Improves after a few weeks in store but can shrivel, and the thick, rough skin is slightly bitter. Makes a sweet juice and cider.",
+      "sweet": 4,
+      "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 3,
       "juicy": 3,
       "tags": [
         "sweet",
-        "sharp"
+        "spice",
+        "honey"
       ],
       "cider_class": "sharp",
       "best_eaten": "Dec-Mar"

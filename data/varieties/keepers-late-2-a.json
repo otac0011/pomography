@@ -29,16 +29,17 @@
       "description": "Broad, slightly ribbed conical fruit with a golden ground washed and streaked orange-red, often with patches of fine russet."
     },
     "taste": {
-      "summary": "Firm, rather dry cream flesh with a rich, sweet-sharp flavour carrying a distinct spicy, perfumed note. Best after a few weeks in store; in a cool, dull summer it can stay sharp and less aromatic.",
+      "summary": "Firm to very hard, rather dry cream flesh with a rich, sweet-sharp flavour, a spicy, perfumed aroma and a hint of pineapple. Best after a few weeks in store and a good keeper, sometimes lasting into spring; in a cool, dull summer it can stay sharp and less aromatic.",
       "sweet": 3,
       "acid": 3,
       "aroma": 4,
       "tannin": 0,
-      "crisp": 3,
+      "crisp": 4,
       "juicy": 2,
       "tags": [
         "spice",
         "perfumed",
+        "pineapple",
         "sweet",
         "sharp"
       ],
@@ -201,7 +202,7 @@
       "description": "Large, flattish apple with a pale green-yellow ground under a dark red flush and stripes; colours best after cold autumn nights."
     },
     "taste": {
-      "summary": "Tender, very white, juicy flesh with a sweet, mildly sharp and slightly vinous McIntosh-style flavour, less tart than McIntosh. Crispness and sweetness fade fairly quickly after harvest. Holds its shape when cooked and stays white in salads.",
+      "summary": "A McIntosh-type apple with tender, very white, juicy flesh and a sweet, mildly tart flavour, less sharp and more strongly perfumed than McIntosh, with a vinous edge; individual tasters mention blue grape or strawberry. Crispness and sweetness fade quickly after picking and stored fruit turns mealy. Holds its shape in pies and stays white in salads.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
@@ -209,8 +210,9 @@
       "crisp": 2,
       "juicy": 4,
       "tags": [
+        "sweet",
         "wine",
-        "sweet"
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Sep-Nov, best soon after picking"
@@ -374,7 +376,7 @@
       "description": "Big, slightly lopsided, rather tall fruit; green ripening to yellow-green, sometimes with a faint orange cheek and scattered russet dots."
     },
     "taste": {
-      "summary": "Coarse, very crisp and juicy cream flesh with a sweet, honeyed flavour inherited from Golden Delicious but balanced by more acidity. Equally good raw, juiced or cooked, when slices hold their shape.",
+      "summary": "Very crisp, juicy cream flesh made up of tiny juice-filled cells, firm yet light. Sweet and honeyed like Golden Delicious, with more acidity to balance it and a flowery scent. It sweetens further after a week at room temperature; equally good raw, juiced or cooked, when slices hold their shape.",
       "sweet": 4,
       "acid": 3,
       "aroma": 3,
@@ -384,6 +386,7 @@
       "tags": [
         "honey",
         "sweet",
+        "floral",
         "sharp"
       ],
       "cider_class": null,
@@ -461,12 +464,12 @@
       "description": "Small, flattish pale green-yellow apple, sometimes with a light orange-red flush or a few streaks, and russet netting around the stalk and eye."
     },
     "taste": {
-      "summary": "Firm, fine, fairly dense flesh with little juice and a gently sweet, mildly acid flavour. Pleasant enough, but plain by modern standards; its appeal is historical.",
+      "summary": "Fairly soft but dense flesh with little juice and a gently sweet, mildly acid flavour that most modern tasters find lacklustre. Perfectly palatable and keeps into the following year, but its appeal is historical.",
       "sweet": 3,
       "acid": 2,
       "aroma": 1,
       "tannin": 0,
-      "crisp": 3,
+      "crisp": 2,
       "juicy": 2,
       "tags": [
         "mild"
@@ -542,7 +545,7 @@
       "description": "Narrow, tall conical fruit with strong ribs, greenish-yellow with orange stripes over part of the surface."
     },
     "taste": {
-      "summary": "Firm, crisp white flesh that is sweet and rather chewy; no detailed tasting notes have been published.",
+      "summary": "Firm white flesh with a rich, sweet flavour and a rather chewy bite; a dessert apple for November and December. Acidity and aroma are not recorded in the sources checked.",
       "sweet": 4,
       "acid": null,
       "aroma": null,

@@ -3,7 +3,9 @@
     "id": "domino",
     "name": "Domino",
     "aka": [],
-    "uses": ["culinary"],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "English Midlands, probably the Southwell area of Nottinghamshire",
@@ -79,8 +81,13 @@
   {
     "id": "ecklinville",
     "name": "Ecklinville",
-    "aka": ["Ecklinville Seedling", "Ecklinville Pippin"],
-    "uses": ["culinary"],
+    "aka": [
+      "Ecklinville Seedling",
+      "Ecklinville Pippin"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Ecklinville, near Portaferry, County Down, Northern Ireland",
@@ -109,7 +116,9 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Nov"
     },
@@ -157,7 +166,9 @@
     "id": "flower-of-kent",
     "name": "Flower of Kent",
     "aka": [],
-    "uses": ["culinary"],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "England, presumably Kent",
@@ -233,8 +244,16 @@
   {
     "id": "glockenapfel",
     "name": "Glockenapfel",
-    "aka": ["Weißer Winterglockenapfel", "Schweizer Glockenapfel", "Altländer Glockenapfel", "Pomme Cloche"],
-    "uses": ["culinary", "dessert"],
+    "aka": [
+      "Weißer Winterglockenapfel",
+      "Schweizer Glockenapfel",
+      "Altländer Glockenapfel",
+      "Pomme Cloche"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
     "origin": {
       "country": "CH",
       "place": "Uncertain: usually linked to Switzerland, possibly southern Germany or the Altes Land on the lower Elbe",
@@ -256,14 +275,17 @@
       "description": "Tall, bell-shaped, ribbed fruit with a smooth greenish-yellow skin, dark dots and sometimes a faint orange-red cheek."
     },
     "taste": {
-      "summary": "Dense, firm, almost pure-white flesh with a pronounced, bracing acidity and a fresh aromatic quality that builds after a couple of months in store. Holds its shape in baking; eaten raw it is best in late winter and spring when the sharpness has eased.",
+      "summary": "Very firm, pale flesh, not very juicy, with pronounced, slightly harsh acidity and a strong aroma. Picked in October but not ready to eat until about December, and keeps around six months; it barely breaks down when cooked, making it a classic strudel and pie apple. One grower found it mild and only lightly sweet.",
       "sweet": 2,
       "acid": 5,
-      "aroma": 3,
+      "aroma": 4,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 3,
-      "tags": ["sharp"],
+      "juicy": 2,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-May"
     },

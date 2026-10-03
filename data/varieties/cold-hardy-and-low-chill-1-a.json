@@ -119,12 +119,12 @@
       "description": "Flattish, smooth pale yellow apple boldly streaked and splashed with bright red."
     },
     "taste": {
-      "summary": "Juicy, rather coarse white flesh with brisk, sharp acidity and only modest sweetness. At its best as an early cooker, collapsing quickly to a tangy, orange-tinted puree; eaten raw it is refreshing but turns mealy within days.",
+      "summary": "Very tart with little sweetness; the flesh is soft and turns mealy within a day or two of ripening, so it is mainly an early cooker. It cooks down quickly into a well-flavoured sauce with a fine aroma, though some growers find pie slices hold together. Keeps only days at room temperature and a few weeks chilled.",
       "sweet": 2,
-      "acid": 4,
+      "acid": 5,
       "aroma": 2,
       "tannin": 0,
-      "crisp": 3,
+      "crisp": 2,
       "juicy": 4,
       "tags": [
         "sharp"

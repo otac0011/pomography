@@ -371,15 +371,17 @@
       "description": "Large, flattish, often ribbed fruit with greasy grass-green skin turning greenish yellow, occasionally a faint orange cheek, and russet around the stalk."
     },
     "taste": {
-      "summary": "Firm, juicy flesh with a strong, clean sharpness; hard and tart fresh off the tree but richer after storage. Cooked, it keeps its shape and develops a full, sweet-tart flavour, making it a classic American pie apple.",
+      "summary": "Large, hard, firm flesh, less juicy than many, with a clean, strong tartness softened by a little sweetness; tasters pick out cider, grape and lemonade-like citrus hints. Best mellowed in store before eating raw, and at its finest cooked, holding its shape in pies and making excellent sauce.",
       "sweet": 2,
       "acid": 4,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 4,
+      "juicy": 3,
       "tags": [
-        "sharp"
+        "sharp",
+        "lemon",
+        "grape"
       ],
       "cider_class": null,
       "best_eaten": "Cook Oct-Feb; raw after a few months in store"
@@ -458,7 +460,7 @@
       "description": "Medium, irregular roundish-conical fruit, often lopsided, yellow with an orange-red flush and red streaks over a light network of russet."
     },
     "taste": {
-      "summary": "Firm, fine-grained flesh with an intense, rich, aromatic flavour that is sharper and more robust than Cox, with some pear-like notes. Best a few weeks after picking; also good for cooking and juice.",
+      "summary": "Firm, fine-grained flesh with a strong, aromatic flavour that is more robust, if less refined, than its offspring Cox; sources note a pear-like taste and one grower a pronounced lemon tang. At its best about a month after picking, but it does not stay crisp for long and browns quickly when cut.",
       "sweet": 4,
       "acid": 4,
       "aroma": 5,
@@ -468,7 +470,8 @@
       "tags": [
         "perfumed",
         "pear",
-        "sharp"
+        "sharp",
+        "lemon"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Jan; best after a month in store"

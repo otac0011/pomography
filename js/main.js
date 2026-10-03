@@ -44,7 +44,7 @@ async function route() {
   let nav = 'explore', title = 'Pomona — the heirloom apple atlas';
   window.scrollTo(0, 0);
   try {
-    if (!a) renderExplore(app);
+    if (!a) renderExplore(app, params);
     else if (a === 'v') { renderVariety(app, b); nav = 'explore'; const v = S.byId.get(b); if (v) title = v.name + ' — Pomona'; }
     else if (a === 'rootstocks') { renderRootstocks(app); nav = 'rootstocks'; title = 'Rootstocks — Pomona'; }
     else if (a === 'r') { renderRootstock(app, b); nav = 'rootstocks'; const r = S.rsById.get(b); if (r) title = r.name + ' rootstock — Pomona'; }

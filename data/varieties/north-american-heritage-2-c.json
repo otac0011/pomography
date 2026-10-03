@@ -122,7 +122,11 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": 4,
-      "tags": [],
+      "tags": [
+        "sweet",
+        "sharp",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
     },
@@ -290,7 +294,7 @@
       "description": "Medium, slightly tall fruit with thin, smooth golden skin largely covered with red flush and stripes, becoming almost fully red in sun."
     },
     "taste": {
-      "summary": "Tender, juicy, fine-grained yellow flesh that is sweet with little acidity and an unusual, strongly perfumed aroma that many describe as banana-like. Improves after about a month in store.",
+      "summary": "Tender, juicy, fine-grained yellow flesh, firm rather than crunchy, that is very sweet with little acid and an intense, unusual perfume that many liken to banana. It needs about a month in store to reach its best, and quality swings widely between seasons and sites: outstanding in a good year, mild and ordinary in a cool one.",
       "sweet": 4,
       "acid": 2,
       "aroma": 5,

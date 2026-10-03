@@ -2,8 +2,15 @@
   {
     "id": "gascoynes-scarlet",
     "name": "Gascoyne's Scarlet",
-    "aka": ["Gascoyne's Scarlet Seedling", "Gascoigne's Scarlet"],
-    "uses": ["dessert", "culinary", "juice"],
+    "aka": [
+      "Gascoyne's Scarlet Seedling",
+      "Gascoigne's Scarlet"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
     "origin": {
       "country": "GB",
       "place": "Bapchild Court, Sittingbourne, Kent, England",
@@ -32,7 +39,10 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 2,
-      "tags": ["sweet", "mild"],
+      "tags": [
+        "sweet",
+        "mild"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"
     },
@@ -80,7 +90,9 @@
     "id": "george-cave",
     "name": "George Cave",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Dovercourt, Essex, England",
@@ -102,14 +114,16 @@
       "description": "Medium, slightly ribbed apple, greenish-yellow with a bright red flush and stripes on the sunny side."
     },
     "taste": {
-      "summary": "Fine-textured, juicy white flesh with a pleasant, lightly acid and gently aromatic flavour, brisker than most other August apples. Softens and goes mealy within days, so eat it straight from the tree.",
+      "summary": "Juicy, fine-textured white flesh with a sharp but pleasant, zingy flavour, stronger than most early apples though without the aromatic depth of later ones. Crisp only on the day it is picked: it softens within hours and goes dry and mealy within days.",
       "sweet": 3,
-      "acid": 3,
+      "acid": 4,
       "aroma": 2,
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": [],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Aug, on the day of picking"
     },
@@ -157,7 +171,9 @@
     "id": "george-neal",
     "name": "George Neal",
     "aka": [],
-    "uses": ["culinary"],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Otford, Kent, England",
@@ -186,7 +202,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Cook from Aug to Oct"
     },
@@ -234,7 +252,9 @@
     "id": "golden-noble",
     "name": "Golden Noble",
     "aka": [],
-    "uses": ["culinary"],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Stow Bardolph (Stow Hall), near Downham Market, Norfolk, England",
@@ -263,7 +283,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Cook from Oct to Jan"
     },
@@ -310,8 +332,13 @@
   {
     "id": "gladstone",
     "name": "Gladstone",
-    "aka": ["Mr Gladstone", "Jackson's Seedling"],
-    "uses": ["dessert"],
+    "aka": [
+      "Mr Gladstone",
+      "Jackson's Seedling"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Worcestershire, England (rediscovered at Blakedown Nursery, Kidderminster)",
@@ -335,12 +362,16 @@
     "taste": {
       "summary": "Crisp and juicy when just picked, with a sweet, pleasantly aromatic flavour, but it turns soft and slightly floury within a few days.",
       "sweet": 4,
-      "acid": 2,
+      "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet",
+        "perfumed",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "late Jul-Aug, straight from the tree"
     },

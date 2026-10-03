@@ -113,7 +113,7 @@
       "description": "Flattish, greenish-yellow to yellow apple with at most a faint orange cheek and light russet freckling."
     },
     "taste": {
-      "summary": "Fine-textured, juicy, firm cream flesh with a sweet, intense flavour often described as having an aniseed or fennel note on top of a honeyed Golden Delicious base. Sharper and more complex than Golden Delicious, but without the full richness of Cox.",
+      "summary": "Crisp but not hard, juicy pale flesh with a sweet, refreshing Golden Delicious base. Tasters disagree on the top notes: a pear-like note is the standard description, while others report aniseed or liquorice, banana, lemon or a honeyed finish. Leave it on the tree until it colours towards orange and store a few weeks for the fullest flavour; keeps well.",
       "sweet": 4,
       "acid": 3,
       "aroma": 4,
@@ -122,7 +122,9 @@
       "juicy": 4,
       "tags": [
         "aniseed",
+        "pear",
         "honey",
+        "banana",
         "sweet",
         "perfumed"
       ],
@@ -207,7 +209,8 @@
       "juicy": 5,
       "tags": [
         "sweet",
-        "honey"
+        "honey",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Mar"
@@ -281,7 +284,7 @@
       "description": "Small-to-medium, neatly conical apple; golden-yellow streaked with orange-red in the original, solid red in most modern sports."
     },
     "taste": {
-      "summary": "Crisp, fine, juicy cream flesh with a sweet, low-acid flavour and a light pear-like fragrance. Pleasant and easy rather than complex, and loses crispness after a couple of months.",
+      "summary": "Crisp, fine, juicy cream flesh with a sweet, low-acid flavour. Freshly picked home-grown fruit has a surprisingly punchy sweetness with a pear-like note, while supermarket fruit is often bland or soft. Keeps for a few months but gradually loses its crunch.",
       "sweet": 4,
       "acid": 2,
       "aroma": 2,

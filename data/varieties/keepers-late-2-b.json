@@ -3,7 +3,9 @@
     "id": "easter-orange",
     "name": "Easter Orange",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Winchester, Hampshire, England (introduced by Hillier & Sons)",
@@ -25,14 +27,17 @@
       "description": "Truncated-conical, moderately ribbed fruit, yellow almost hidden under a streaky red flush."
     },
     "taste": {
-      "summary": "Crisp, firm cream flesh with a sweet, aromatic flavour that develops in store; a late keeper for winter and early spring eating.",
+      "summary": "Firm, deep cream flesh with a rather chewy texture and an intensely aromatic flavour that develops in store. A good keeper for eating from December into early spring.",
       "sweet": 4,
       "acid": null,
-      "aroma": 3,
+      "aroma": 4,
       "tannin": 0,
-      "crisp": 4,
+      "crisp": 3,
       "juicy": null,
-      "tags": ["sweet", "perfumed"],
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Mar; reputedly keeps towards Easter, hence the name"
     },
@@ -80,7 +85,11 @@
     "id": "elstar",
     "name": "Elstar",
     "aka": [],
-    "uses": ["dessert", "culinary", "juice"],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
     "origin": {
       "country": "NL",
       "place": "Wageningen, Netherlands",
@@ -102,14 +111,19 @@
       "description": "Golden-yellow apple marbled and streaked bright orange-red, with a slightly matt finish and a few russet dots."
     },
     "taste": {
-      "summary": "Crisp, juicy cream flesh with an intense, lively sweet-sharp balance and honeyed, aromatic notes. Best quite soon after picking; keeps its sharpness well for cooking.",
+      "summary": "Crisp but not hard, juicy cream flesh with an intense honeyed sweetness set against lively acidity; tasters also mention a sherbet-like fizz and a pear note at the finish. Stays firm and sweet for a couple of months and keeps its sharpness for cooking. Opinions vary: many rate it highly, a few find it bland.",
       "sweet": 4,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["honey", "sharp", "sweet", "perfumed"],
+      "tags": [
+        "honey",
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
     },
@@ -157,7 +171,9 @@
     "id": "empire",
     "name": "Empire",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "US",
       "place": "Geneva, New York",
@@ -179,14 +195,19 @@
       "description": "Medium, rounded apple almost fully covered in dark maroon-red with a light bloom over a pale green ground."
     },
     "taste": {
-      "summary": "Crisp, juicy, very white flesh with a sweet flavour and a gentle vinous tang from McIntosh, but less acidity. Best fresh from the tree; resists bruising.",
+      "summary": "Crisp, crunchy, bright white flesh, juicy and sweet, with the vinous McIntosh character (likened to melon or elderflower) but less acidity. Best fresh from the tree, though it keeps into winter in a fridge and resists bruising; UK-grown or poorly stored fruit can be watery or mealy.",
       "sweet": 4,
       "acid": 2,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sweet", "wine"],
+      "tags": [
+        "sweet",
+        "wine",
+        "melon",
+        "elderflower"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
     },
@@ -233,8 +254,15 @@
   {
     "id": "esopus-spitzenburg",
     "name": "Esopus Spitzenburg",
-    "aka": ["Spitzenburg", "Esopus Spitzenberg", "Spitzenberg"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "Spitzenburg",
+      "Esopus Spitzenberg",
+      "Spitzenberg"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "US",
       "place": "Esopus, Ulster County, New York",
@@ -256,14 +284,19 @@
       "description": "Tall, slightly tapering fruit, deep yellow almost covered by bright orange-red to red with obscure streaks and conspicuous pale russet dots."
     },
     "taste": {
-      "summary": "Crisp, firm yellow flesh, not especially juicy, with a rich, sweet-sharp, spicy and aromatic flavour that deepens after a few weeks in store. Also excellent for pies.",
+      "summary": "Dense, crisp, buttery yellow flesh, moderately juicy, with a rich, bright sweet-sharp flavour that is spicy and strongly aromatic and improves after some weeks in store. Superb raw and in pies, where slices hold their shape but turn tender.",
       "sweet": 3,
       "acid": 4,
       "aroma": 5,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 2,
-      "tags": ["spice", "perfumed", "sharp", "sweet"],
+      "juicy": 3,
+      "tags": [
+        "spice",
+        "perfumed",
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Feb; improves after a month in store"
     },
@@ -311,7 +344,10 @@
     "id": "falstaff",
     "name": "Falstaff",
     "aka": [],
-    "uses": ["dessert", "juice"],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
     "origin": {
       "country": "GB",
       "place": "East Malling, Kent, England",
@@ -340,7 +376,10 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 5,
-      "tags": ["sweet", "sharp"],
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
     },
@@ -387,8 +426,13 @@
   {
     "id": "fiesta",
     "name": "Fiesta",
-    "aka": ["Red Pippin"],
-    "uses": ["dessert", "juice"],
+    "aka": [
+      "Red Pippin"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
     "origin": {
       "country": "GB",
       "place": "East Malling, Kent, England",
@@ -410,14 +454,19 @@
       "description": "Yellow apple flecked and streaked with orange and red, Cox-like but brighter and more evenly coloured."
     },
     "taste": {
-      "summary": "Crisp, very juicy cream flesh with a sweet, aromatic Cox-like flavour, easier and crunchier than its parent. Stays firm for months in store, though the aroma and sweetness gradually fade.",
+      "summary": "Crisp, very juicy cream flesh with a sweet, Cox-like aromatic flavour backed by good acidity; some tasters pick up strawberry, and long-stored fruit can develop odd aniseed or brandy-like notes. Stays firm for months, though the sweetness fades; the skin is tough and the flesh holds firm when cooked. Good for juice.",
       "sweet": 4,
       "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 5,
-      "tags": ["perfumed", "sweet", "sharp"],
+      "tags": [
+        "sweet",
+        "perfumed",
+        "sharp",
+        "strawberry"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Jan; best in the first two months"
     },
@@ -465,7 +514,9 @@
     "id": "flanders-cox",
     "name": "Flanders Cox",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": null,
       "place": null,

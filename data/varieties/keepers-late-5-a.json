@@ -363,7 +363,7 @@
       "description": "Smooth, rounded fruit with lime-green to yellow skin mostly covered in a deep red flush."
     },
     "taste": {
-      "summary": "Crisp flesh that snaps cleanly and is very juicy. Clearly sweet but balanced by a good measure of acidity, so it tastes properly of apple rather than just sugary.",
+      "summary": "Firm flesh that snaps cleanly and is very juicy; sweet but balanced by a good dose of acidity, so it tastes properly of apple, with faint perfumed hints. Likened to a supercharged Gala; keeps two to three weeks.",
       "sweet": 4,
       "acid": 3,
       "aroma": 3,
@@ -371,7 +371,9 @@
       "crisp": 4,
       "juicy": 5,
       "tags": [
-        "sweet"
+        "sweet",
+        "sharp",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"

@@ -124,16 +124,18 @@
       "description": "Fairly large, flattish fruit, greenish-yellow shaded and striped with red."
     },
     "taste": {
-      "summary": "Firm, crisp, moderately fine-grained yellowish flesh with a pleasant balance of sweetness and acidity, a gently spicy, honeyed note and a fresh-cider character. Good raw and very good for pies and baking.",
-      "sweet": 3,
+      "summary": "Crisp, moderately fine-grained yellowish flesh with a sweet, honeyed, fresh-cider flavour balanced by some sharpness; some tasters find it almost candy-sweet, and individual fruit can be soft or dry. Keeps well through March and is very good for pies, crisps and drying.",
+      "sweet": 4,
       "acid": 3,
       "aroma": 3,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
       "tags": [
-        "spice",
-        "honey"
+        "honey",
+        "sweet",
+        "sharp",
+        "spice"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"
@@ -212,7 +214,7 @@
       "description": "Distinctive tall, tapering, ribbed fruit with dark red skin deepening to almost black-purple, with faint darker stripes."
     },
     "taste": {
-      "summary": "Greenish-white, firm, coarse flesh that is sweet, mild in acid and notably aromatic, with a dry, nutty quality. It turns dry and fibrous if over-ripe or stored long, so it is best used fairly soon; traditionally baked or dried.",
+      "summary": "Greenish-white, firm flesh that is sweet and mild, with a distinctive perfume and a dry, nutty character. Opinion is split: some find it crisp and fragrant, others dry and cardboard-like with little juice. It hangs late on the tree but turns dry and fibrous if over-ripe or stored, so use it fairly soon; traditionally baked or dried.",
       "sweet": 4,
       "acid": 2,
       "aroma": 4,
@@ -221,7 +223,9 @@
       "juicy": 2,
       "tags": [
         "sweet",
-        "nutty"
+        "nutty",
+        "perfumed",
+        "mild"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"

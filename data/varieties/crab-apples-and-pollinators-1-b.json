@@ -2,8 +2,16 @@
   {
     "id": "siberian-crab",
     "name": "Siberian Crab",
-    "aka": ["Malus baccata", "Siberian crab apple", "Manchurian crab apple"],
-    "uses": ["crab", "ornamental", "culinary"],
+    "aka": [
+      "Malus baccata",
+      "Siberian crab apple",
+      "Manchurian crab apple"
+    ],
+    "uses": [
+      "crab",
+      "ornamental",
+      "culinary"
+    ],
     "origin": {
       "country": "RU",
       "place": "Wild across Siberia, Mongolia, northern China and Korea",
@@ -32,7 +40,12 @@
       "tannin": 2,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp", "astringent"],
+      "tags": [
+        "sharp",
+        "astringent",
+        "bitter",
+        "rose"
+      ],
       "cider_class": null,
       "best_eaten": "Aug-Sep, for sauce or jelly"
     },
@@ -79,8 +92,13 @@
   {
     "id": "profusion",
     "name": "Profusion",
-    "aka": ["Malus x moerlandsii 'Profusion'"],
-    "uses": ["ornamental", "crab"],
+    "aka": [
+      "Malus x moerlandsii 'Profusion'"
+    ],
+    "uses": [
+      "ornamental",
+      "crab"
+    ],
     "origin": {
       "country": "NL",
       "place": "Boskoop, Netherlands",
@@ -109,7 +127,9 @@
       "tannin": null,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Not an eating apple; display Sep-Dec"
     },
@@ -156,8 +176,13 @@
   {
     "id": "red-jade",
     "name": "Red Jade",
-    "aka": ["Malus 'Red Jade'"],
-    "uses": ["ornamental", "crab"],
+    "aka": [
+      "Malus 'Red Jade'"
+    ],
+    "uses": [
+      "ornamental",
+      "crab"
+    ],
     "origin": {
       "country": "US",
       "place": "Brooklyn Botanic Garden, New York, USA",
@@ -186,7 +211,9 @@
       "tannin": null,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Not an eating apple; display Sep-Dec"
     },
@@ -233,8 +260,14 @@
   {
     "id": "harry-baker",
     "name": "Harry Baker",
-    "aka": ["Malus 'Harry Baker'"],
-    "uses": ["crab", "culinary", "ornamental"],
+    "aka": [
+      "Malus 'Harry Baker'"
+    ],
+    "uses": [
+      "crab",
+      "culinary",
+      "ornamental"
+    ],
     "origin": {
       "country": "GB",
       "place": null,
@@ -263,7 +296,9 @@
       "tannin": null,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Oct, for jelly"
     },
@@ -311,7 +346,9 @@
     "id": "lady-northcliffe",
     "name": "Lady Northcliffe",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -387,8 +424,15 @@
   {
     "id": "rescue",
     "name": "Rescue",
-    "aka": ["Rescue Crab", "Rescue applecrab"],
-    "uses": ["dessert", "culinary", "crab"],
+    "aka": [
+      "Rescue Crab",
+      "Rescue applecrab"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "crab"
+    ],
     "origin": {
       "country": "CA",
       "place": "Scott Experimental Farm, Saskatchewan, Canada",
@@ -417,7 +461,10 @@
       "tannin": null,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sharp", "sweet"],
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Aug, straight from the tree"
     },
@@ -464,8 +511,13 @@
   {
     "id": "hyslop",
     "name": "Hyslop",
-    "aka": ["Hyslop Crab"],
-    "uses": ["crab", "culinary"],
+    "aka": [
+      "Hyslop Crab"
+    ],
+    "uses": [
+      "crab",
+      "culinary"
+    ],
     "origin": {
       "country": "US",
       "place": null,
@@ -494,7 +546,9 @@
       "tannin": 3,
       "crisp": 3,
       "juicy": 3,
-      "tags": ["astringent"],
+      "tags": [
+        "astringent"
+      ],
       "cider_class": null,
       "best_eaten": "Soon after picking, for jelly or pickling"
     },
@@ -541,8 +595,14 @@
   {
     "id": "chestnut-crab",
     "name": "Chestnut Crab",
-    "aka": ["Chestnut"],
-    "uses": ["dessert", "crab", "culinary"],
+    "aka": [
+      "Chestnut"
+    ],
+    "uses": [
+      "dessert",
+      "crab",
+      "culinary"
+    ],
     "origin": {
       "country": "US",
       "place": "University of Minnesota, Minnesota, USA",
@@ -564,14 +624,18 @@
       "description": "A large crab, about 5 cm, reddish-bronze over yellow and netted with russet."
     },
     "taste": {
-      "summary": "Sweet, rich and distinctly nutty, with crisp, juicy cream flesh; one of the best crabs for eating out of hand and also good for sauce.",
+      "summary": "Crisp, juicy cream flesh, sweet and complex with a distinct nut-like flavour; one grower compares it to a fine white wine. Tasters find little or no tartness, although its juice is classed as on the sharper side. One of the best crabs for eating fresh and good for sauce, but it keeps only two or three weeks.",
       "sweet": 4,
       "acid": 3,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
-      "juicy": 3,
-      "tags": ["nutty", "sweet"],
+      "juicy": 4,
+      "tags": [
+        "nutty",
+        "sweet",
+        "wine"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Oct"
     },

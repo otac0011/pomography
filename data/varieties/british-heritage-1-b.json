@@ -2,8 +2,14 @@
   {
     "id": "devonshire-quarrenden",
     "name": "Devonshire Quarrenden",
-    "aka": ["Quarrenden", "Red Quarrenden", "Devon Quarrenden"],
-    "uses": ["dessert"],
+    "aka": [
+      "Quarrenden",
+      "Red Quarrenden",
+      "Devon Quarrenden"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Devon, England (possibly brought from France)",
@@ -25,14 +31,18 @@
       "description": "Small, squat apple almost entirely covered in a dark crimson-purple flush, with a little green showing through."
     },
     "taste": {
-      "summary": "Crisp, very juicy white flesh, sometimes stained green or pink under the skin, with a sweet, vinous flavour and a faint strawberry note. Turns soft and melting within days of picking.",
+      "summary": "Very juicy white flesh, sometimes stained pink under the skin, melting rather than crisp. The flavour is sweet, delicate and vinous rather than aromatic; a strawberry note shows in some fruit but is elusive and depends on picking at the right moment. Keeps only a few days.",
       "sweet": 3,
       "acid": 3,
-      "aroma": 3,
+      "aroma": 2,
       "tannin": 0,
-      "crisp": 3,
+      "crisp": 2,
       "juicy": 4,
-      "tags": ["strawberry", "wine", "sweet"],
+      "tags": [
+        "wine",
+        "strawberry",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Aug-early Sep, straight from the tree"
     },
@@ -79,8 +89,14 @@
   {
     "id": "dumelows-seedling",
     "name": "Dumelow's Seedling",
-    "aka": ["Wellington", "Dumelow's Crab", "Normanton Wonder"],
-    "uses": ["culinary"],
+    "aka": [
+      "Wellington",
+      "Dumelow's Crab",
+      "Normanton Wonder"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Shackerstone, Leicestershire, England",
@@ -109,7 +125,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Cook from Nov to Mar"
     },
@@ -156,8 +174,13 @@
   {
     "id": "early-victoria",
     "name": "Early Victoria",
-    "aka": ["Emneth Early", "Emneth"],
-    "uses": ["culinary"],
+    "aka": [
+      "Emneth Early",
+      "Emneth"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Emneth, near Wisbech, England",
@@ -179,14 +202,17 @@
       "description": "Tall, ribbed, conical codlin apple in plain pale green ripening to yellow-green."
     },
     "taste": {
-      "summary": "Crisp, very acid greenish flesh that softens quickly once ripe; cooks rapidly to a light, frothy, sharp purée.",
+      "summary": "Very tart greenish flesh that is crisp only straight from the tree and soon softens. Cooks quickly to a light, frothy purée and dries well into rings; left to ripen to pale yellow it becomes a passable eating apple with a faint, sweet floral scent. Does not keep.",
       "sweet": 1,
       "acid": 5,
-      "aroma": 1,
+      "aroma": 2,
       "tannin": 0,
       "crisp": 3,
       "juicy": 3,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp",
+        "floral"
+      ],
       "cider_class": null,
       "best_eaten": "Cook from late Jul to Aug; thinnings usable from July"
     },
@@ -233,8 +259,12 @@
   {
     "id": "edward-vii",
     "name": "Edward VII",
-    "aka": ["King Edward VII"],
-    "uses": ["culinary"],
+    "aka": [
+      "King Edward VII"
+    ],
+    "uses": [
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Worcester, England",
@@ -263,7 +293,9 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 3,
-      "tags": ["sharp"],
+      "tags": [
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Cook from Dec to Apr"
     },
@@ -310,8 +342,12 @@
   {
     "id": "fortune",
     "name": "Fortune",
-    "aka": ["Laxton's Fortune"],
-    "uses": ["dessert"],
+    "aka": [
+      "Laxton's Fortune"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Bedford, England",
@@ -340,7 +376,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Oct"
     },

@@ -114,7 +114,7 @@
       "description": "Small to medium apple striped and flushed maroon-red over golden yellow."
     },
     "taste": {
-      "summary": "Intensely sweet and dense, with hard, crunchy, juicy flesh and a deep flavour often likened to molasses or cane sugar. Acidity is low, but the taste is anything but plain; it also makes a rich sweet cider.",
+      "summary": "Intensely sweet, dense and crunchy, with an unusual flavour tasters struggle to name; comparisons include cane sugar, molasses and caramel apple, with a little tartness behind it. Keeps one to two months and makes a rich, sweet juice or cider.",
       "sweet": 5,
       "acid": 2,
       "aroma": 4,
@@ -122,7 +122,9 @@
       "crisp": 5,
       "juicy": 4,
       "tags": [
-        "sweet"
+        "sweet",
+        "caramel",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Dec"
@@ -283,15 +285,18 @@
       "description": "Golden Delicious-shaped fruit, greenish-yellow with a red flush over about half the skin."
     },
     "taste": {
-      "summary": "Crisp, sweet and fairly juicy with a moderate tang. Picked a little early it is tart; fully ripe it turns sweeter and faintly floral. Good fresh or cooked, but softens within a couple of weeks.",
+      "summary": "Light, mildly crisp and juicy, with a moderately fruity sweet-sharp balance and, for some tasters, a fresh, grassy finish. Picked early it is tart; left to ripen it turns more floral and sweet but goes soft. Keeps only about a week at room temperature (a few weeks chilled), and slices hold up well in pies and sauce.",
       "sweet": 3,
       "acid": 3,
       "aroma": 2,
       "tannin": 0,
-      "crisp": 4,
+      "crisp": 3,
       "juicy": 3,
       "tags": [
-        "sweet"
+        "sweet",
+        "sharp",
+        "floral",
+        "herbal"
       ],
       "cider_class": null,
       "best_eaten": "Within two weeks of picking (Jun-Jul in subtropical climates)"
@@ -613,7 +618,10 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": 4,
-      "tags": [],
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Soon after picking"
     },

@@ -1,0 +1,103 @@
+{
+ "_note": "flavour verification batch 2",
+ "braeburn": { "taste": {
+  "tags": ["sharp", "sweet", "spice", "pear-drop"],
+  "crisp": 4,
+  "summary": "Crisp and very juicy, snapping cleanly without being rock-hard, with a sharp, refreshing edge balanced by real but never sugary sweetness and a rich, spicy depth; new-season fruit can show a faint pear-drop note. Arguably best soon after picking: long-stored fruit stays crisp but may brown at the core, and UK-grown apples often lack the sweetness reached in warmer climates."
+ } },
+ "calville-blanc-dhiver": { "taste": {
+  "tags": ["sharp", "sweet", "banana"],
+  "crisp": 3,
+  "summary": "Juicy, fairly crisp flesh with a distinctly tart flavour, close to Granny Smith in sharpness, balanced by enough sweetness to taste rich; several tasters notice a faint banana note and one finds it slightly grassy. Very high in vitamin C, so cut flesh does not brown. It holds its shape in a tart, or cooks to a rich, sharp puree if cut small, and keeps a month or two."
+ } },
+ "calville-rouge-dhiver": { "taste": {
+  "tags": ["berry", "sweet", "mild"],
+  "summary": "Soft white flesh with a mild, pleasant sweet-sharp flavour. In a warm, well-chosen site it gains a delicate raspberry-like perfume; grown in cooler or poorer conditions it is rather flat and lacks aroma. Picked very late, it keeps through the winter."
+ } },
+ "cameo": { "taste": {
+  "tags": ["sweet", "pear", "mild"],
+  "summary": "Dense, crisp and juicy, balancing sweetness with light tartness and a hint of pear. Orange Pippin's own note calls the flavour fairly bland, but many growers disagree, and individual tasters report strawberry or fresh-pineapple notes. It sweetens over a week or two of storage, browns slowly when cut and keeps its crunch for months in the fridge."
+ } },
+ "captain-kidd": { "taste": {
+  "tags": ["sweet", "honey", "pear-drop", "wine"],
+  "sweet": 5,
+  "crisp": 3,
+  "summary": "Shares the eating quality of Kidd's Orange Red: very sweet and juicy, honeyed and noticeably sweeter than Cox, with a lively kick that tasters liken to a French dessert wine and occasional pear-drop notes. The dense flesh is firm rather than crunchy. Flavour keeps developing for some weeks after picking; best eaten before the new year."
+ } },
+ "catshead": { "taste": {
+  "tags": ["sharp"],
+  "acid": 4,
+  "summary": "A traditional cooker with juicy, coarse white flesh and a fair amount of acidity, so it needs little added sugar; it cooks down to a textured puree. Raw it is plain, with only a faint perfume, and some tasters find it dry. Keeps a month or two."
+ } },
+ "charles-ross": { "taste": {
+  "tags": ["sweet", "pear", "sharp"],
+  "sweet": 4,
+  "aroma": 3,
+  "summary": "Crisp and juicy when picked in September, when it is still fairly sharp; over a few weeks it turns very sweet, with some of Cox's aroma and a pear-like quality (one taster finds a marked orange note). It does not keep: by November the flesh goes dry and almost powdery. Cooked slices only partly break down."
+ } },
+ "chestnut-crab": { "taste": {
+  "tags": ["nutty", "sweet", "wine"],
+  "juicy": 4,
+  "summary": "Crisp, juicy cream flesh, sweet and complex with a distinct nut-like flavour; one grower compares it to a fine white wine. Tasters find little or no tartness, although its juice is classed as on the sharper side. One of the best crabs for eating fresh and good for sauce, but it keeps only two or three weeks."
+ } },
+ "chivers-delight": { "taste": {
+  "juicy": 3,
+  "summary": "Crisp yellowish flesh, moderately juicy, with a sweet but well-balanced, lightly aromatic flavour (one taster notes a cidery aroma). A good keeper, though the flesh turns dry and fluffy late in storage, and the flavour may not develop fully after a cool, dull autumn."
+ } },
+ "claygate-pearmain": { "taste": {
+  "tags": ["nutty", "pineapple", "sweet"],
+  "crisp": 2,
+  "juicy": 4,
+  "summary": "Fairly soft, juicy cream flesh with a rich, aromatic, nutty flavour in the style of Ribston Pippin. Quite tart straight off the tree, it sweetens and deepens after about a month in store, when tasters report tropical, pineapple-like notes. Keeps a month or two."
+ } },
+ "cornish-aromatic": { "taste": {
+  "tags": ["spice", "perfumed", "pineapple", "sweet", "sharp"],
+  "crisp": 4,
+  "summary": "Firm to very hard, rather dry cream flesh with a rich, sweet-sharp flavour, a spicy, perfumed aroma and a hint of pineapple. Best after a few weeks in store and a good keeper, sometimes lasting into spring; in a cool, dull summer it can stay sharp and less aromatic."
+ } },
+ "cortland": { "taste": {
+  "tags": ["sweet", "wine", "perfumed"],
+  "summary": "A McIntosh-type apple with tender, very white, juicy flesh and a sweet, mildly tart flavour, less sharp and more strongly perfumed than McIntosh, with a vinous edge; individual tasters mention blue grape or strawberry. Crispness and sweetness fade quickly after picking and stored fruit turns mealy. Holds its shape in pies and stays white in salads."
+ } },
+ "cosmic-crisp": { "taste": {
+  "summary": "Very crisp, firm and juicy with a bright sweet-tart balance; many tasters find the flavour straightforward rather than complex, something like a milder Honeycrisp. The flesh browns slowly and the crunch lasts for months, but fruit held very long in store can turn bland and lose its tartness."
+ } },
+ "court-pendu-plat": { "taste": {
+  "tags": ["perfumed", "spice", "sweet"],
+  "summary": "Very firm, dense, close-textured flesh that is dry rather than juicy, much like a russet. Strong and fruity when picked, it develops a spiced, aromatic sweetness in store; odd at first bite but moreish, and at its best from midwinter into early spring. Cut flesh browns quickly."
+ } },
+ "coxs-orange-pippin": { "taste": {
+  "tags": ["floral", "rose", "pear-drop", "honey", "nutty", "mango"],
+  "summary": "Rich and complex: honeyed sweetness balanced by lively acidity, with a floral, almost rose-water perfume, pear-drop esters and a nutty background; tasters also find pear, melon, orange-juice and mango notes. The cream-yellow flesh is juicy but not especially crisp. Flavour deepens for a few weeks after picking and is best before Christmas; it reaches full character only in cool maritime climates such as England or the Pacific Northwest."
+ } },
+ "cripps-red": { "taste": {
+  "juicy": 4,
+  "summary": "Crisp, juicy white flesh, sweeter and less acidic than its sister Pink Lady, with a complex flavour and a clean finish. At its best after a spell in cold storage, and keeps well; holds its shape when cooked."
+ } },
+ "crispin": { "taste": {
+  "tags": ["honey", "sweet", "floral", "sharp"],
+  "summary": "Very crisp, juicy cream flesh made up of tiny juice-filled cells, firm yet light. Sweet and honeyed like Golden Delicious, with more acidity to balance it and a flowery scent. It sweetens further after a week at room temperature; equally good raw, juiced or cooked, when slices hold their shape."
+ } },
+ "danziger-kantapfel": { "taste": {
+  "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be veined with green and red. Pleasant fresh in autumn and useful in the kitchen; picked at the end of September, it is usable from mid-October until about January."
+ } },
+ "darcy-spice": { "taste": {
+  "tags": ["spice", "cinnamon", "sharp", "sweet"],
+  "summary": "Hard and sharp when picked. After a few months in store the firm flesh sweetens and develops its warm sweet-spice character, likened to nutmeg or to mince-pie filling with cinnamon and raisins; fruit often keeps until spring, shrivelling a little without losing flavour. Needs a warm, dry year: in cool districts it may not ripen properly and the flavour stays poor."
+ } },
+ "decio": { "taste": {
+  "crisp": 2,
+  "summary": "Fairly soft but dense flesh with little juice and a gently sweet, mildly acid flavour that most modern tasters find lacklustre. Perfectly palatable and keeps into the following year, but its appeal is historical."
+ } },
+ "devonshire-quarrenden": { "taste": {
+  "tags": ["wine", "strawberry", "sweet"],
+  "crisp": 2,
+  "aroma": 2,
+  "summary": "Very juicy white flesh, sometimes stained pink under the skin, melting rather than crisp. The flavour is sweet, delicate and vinous rather than aromatic; a strawberry note shows in some fruit but is elusive and depends on picking at the right moment. Keeps only a few days."
+ } },
+ "discovery": { "taste": {
+  "tags": ["sharp", "strawberry", "sweet"],
+  "acid": 4,
+  "summary": "Crisp, juicy and fine-textured, more acidic than sweet with a fresh, tangy finish but little depth; a hint of strawberry appears in some years. Best eaten straight from the tree: flavour drops off within about a week and the flesh soon turns woolly, though chilling slows this. Many growers rate it more highly than the official tasting note does."
+ } }
+}

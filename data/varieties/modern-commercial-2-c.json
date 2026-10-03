@@ -112,15 +112,16 @@
       "description": "Large greenish-yellow apple in the Golden Delicious style, with a very thin, tender skin that marks at a touch."
     },
     "taste": {
-      "summary": "Tender, very juicy cream flesh with a sweet, lightly scented Golden Delicious-type flavour. Good for eating fresh and for baking, but the fruit bruises badly in handling.",
-      "sweet": 4,
+      "summary": "Tender, very juicy cream flesh with a very sweet, scented, Golden Delicious-type flavour. Good fresh and excellent for baking, but the very thin skin bruises badly in handling.",
+      "sweet": 5,
       "acid": 2,
       "aroma": 3,
       "tannin": 0,
       "crisp": 3,
       "juicy": 5,
       "tags": [
-        "sweet"
+        "sweet",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Autumn, soon after picking (exact timing not recorded for the UK)"

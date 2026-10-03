@@ -1,0 +1,265 @@
+{
+ "_note": "flavour verification batch 3",
+ "duchess-of-bedford": {
+  "taste": {
+   "aroma": 4,
+   "summary": "Pale, soft, fine-textured flesh with gentle acidity and a pronounced aniseed flavour, which one nursery describes as strong; the trait is usually credited to its Cellini parent. An August apple to eat fresh, as it softens quickly."
+  }
+ },
+ "duchess-of-oldenburg": {
+  "taste": {
+   "acid": 5,
+   "crisp": 2,
+   "summary": "Very tart with little sweetness; the flesh is soft and turns mealy within a day or two of ripening, so it is mainly an early cooker. It cooks down quickly into a well-flavoured sauce with a fine aroma, though some growers find pie slices hold together. Keeps only days at room temperature and a few weeks chilled."
+  }
+ },
+ "duchesss-favourite": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "mild"
+   ],
+   "summary": "Sharp and acidic but fairly mild overall, with flesh often stained pink like Beauty of Bath and Discovery. Pleasant straight from the tree in late summer, though newer apples of the same season outclass it."
+  }
+ },
+ "ducks-bill": {
+  "taste": {
+   "summary": "Firm white flesh with a rich, sweet flavour and a rather chewy bite; a dessert apple for November and December. Acidity and aroma are not recorded in the sources checked."
+  }
+ },
+ "duke-of-devonshire": {
+  "taste": {
+   "tags": [
+    "nutty",
+    "pear-drop",
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Firm, fine-grained, rather dry cream flesh tinged green. The flavour is concentrated and boiled-sweet fruity, with a rich nutty finish. Sweet-sharp in the manner of Ashmead's Kernel rather than the sweeter Egremont Russet; it needs time in store and is best from about December into March."
+  }
+ },
+ "early-victoria": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "floral"
+   ],
+   "aroma": 2,
+   "summary": "Very tart greenish flesh that is crisp only straight from the tree and soon softens. Cooks quickly to a light, frothy purée and dries well into rings; left to ripen to pale yellow it becomes a passable eating apple with a faint, sweet floral scent. Does not keep."
+  }
+ },
+ "easter-orange": {
+  "taste": {
+   "tags": [
+    "perfumed",
+    "sweet"
+   ],
+   "aroma": 4,
+   "crisp": 3,
+   "summary": "Firm, deep cream flesh with a rather chewy texture and an intensely aromatic flavour that develops in store. A good keeper for eating from December into early spring."
+  }
+ },
+ "egremont-russet": {
+  "taste": {
+   "tags": [
+    "nutty",
+    "sweet",
+    "pear"
+   ],
+   "summary": "Dense cream flesh, moist rather than juicy, with a sweet, classically nutty flavour, a little balancing sharpness and a pear-like overtone that some tasters find marked. Crisp at picking, it grows sweeter and nuttier in store but also drier, eventually going woolly or shrivelled; good with cheese and in savoury salads."
+  }
+ },
+ "ellisons-orange": {
+  "taste": {
+   "tags": [
+    "aniseed",
+    "perfumed",
+    "sweet",
+    "citrus"
+   ],
+   "summary": "Soft, very juicy, almost pear-textured yellow flesh with a rich, Cox-like fruitiness that is neither very sweet nor sharp, plus an orange-like tang. The aniseed or liquorice note is faint straight off the tree and builds over the following days, so eat it early if you dislike it; it loses crispness and flavour quickly."
+  }
+ },
+ "elstar": {
+  "taste": {
+   "summary": "Crisp but not hard, juicy cream flesh with an intense honeyed sweetness set against lively acidity; tasters also mention a sherbet-like fizz and a pear note at the finish. Stays firm and sweet for a couple of months and keeps its sharpness for cooking. Opinions vary: many rate it highly, a few find it bland."
+  }
+ },
+ "elton-beauty": {
+  "taste": {
+   "acid": 4
+  }
+ },
+ "emperor-alexander": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "honey",
+    "nutty",
+    "aniseed"
+   ],
+   "sweet": 3,
+   "aroma": 3,
+   "summary": "Sources disagree: English accounts call the flesh coarse, rather dry and fairly acid with little aroma, better cooked than raw, while descriptions of the Aport grown around Almaty give a crisp, fine-grained, sweet-tart apple with a honeyed scent and hints of hazelnut and anise. Softens and turns crumbly in store."
+  }
+ },
+ "empire": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "wine",
+    "melon",
+    "elderflower"
+   ],
+   "summary": "Crisp, crunchy, bright white flesh, juicy and sweet, with the vinous McIntosh character (likened to melon or elderflower) but less acidity. Best fresh from the tree, though it keeps into winter in a fridge and resists bruising; UK-grown or poorly stored fruit can be watery or mealy."
+  }
+ },
+ "enterprise": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "spice",
+    "sweet"
+   ]
+  }
+ },
+ "envy": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "floral",
+    "mild"
+   ]
+  }
+ },
+ "esopus-spitzenburg": {
+  "taste": {
+   "juicy": 3,
+   "summary": "Dense, crisp, buttery yellow flesh, moderately juicy, with a rich, bright sweet-sharp flavour that is spicy and strongly aromatic and improves after some weeks in store. Superb raw and in pies, where slices hold their shape but turn tender."
+  }
+ },
+ "fall-pippin": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "sharp",
+    "perfumed"
+   ]
+  }
+ },
+ "fiesta": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "perfumed",
+    "sharp",
+    "strawberry"
+   ],
+   "summary": "Crisp, very juicy cream flesh with a sweet, Cox-like aromatic flavour backed by good acidity; some tasters pick up strawberry, and long-stored fruit can develop odd aniseed or brandy-like notes. Stays firm for months, though the sweetness fades; the skin is tough and the flesh holds firm when cooked. Good for juice."
+  }
+ },
+ "freedom": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "sharp"
+   ],
+   "summary": "Crisp, very juicy cream flesh with a sweet, sprightly sub-acid flavour that some liken to McIntosh; pleasant rather than intense. It softens and turns mealy soon after picking, so eat it quickly or use it for sauce, drying, juice and cider."
+  }
+ },
+ "freyberg": {
+  "taste": {
+   "tags": [
+    "aniseed",
+    "pear",
+    "honey",
+    "banana",
+    "sweet",
+    "perfumed"
+   ],
+   "summary": "Crisp but not hard, juicy pale flesh with a sweet, refreshing Golden Delicious base. Tasters disagree on the top notes: a pear-like note is the standard description, while others report aniseed or liquorice, banana, lemon or a honeyed finish. Leave it on the tree until it colours towards orange and store a few weeks for the fullest flavour; keeps well."
+  }
+ },
+ "frostbite": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "caramel",
+    "perfumed"
+   ],
+   "summary": "Intensely sweet, dense and crunchy, with an unusual flavour tasters struggle to name; comparisons include cane sugar, molasses and caramel apple, with a little tartness behind it. Keeps one to two months and makes a rich, sweet juice or cider."
+  }
+ },
+ "fuji": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "honey",
+    "mild"
+   ]
+  }
+ },
+ "gala": {
+  "taste": {
+   "summary": "Crisp, fine, juicy cream flesh with a sweet, low-acid flavour. Freshly picked home-grown fruit has a surprisingly punchy sweetness with a pear-like note, while supermarket fruit is often bland or soft. Keeps for a few months but gradually loses its crunch."
+  }
+ },
+ "gavin": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "perfumed",
+    "sharp"
+   ],
+   "crisp": 3,
+   "summary": "Firm rather than crunchy flesh with a delicate, aromatic balance of sweet and sharp that leans sweet; more complex than most early-autumn apples. Best within a week or so of picking and past its prime after about a month."
+  }
+ },
+ "george-cave": {
+  "taste": {
+   "tags": [
+    "sharp"
+   ],
+   "acid": 4,
+   "summary": "Juicy, fine-textured white flesh with a sharp but pleasant, zingy flavour, stronger than most early apples though without the aromatic depth of later ones. Crisp only on the day it is picked: it softens within hours and goes dry and mealy within days."
+  }
+ },
+ "gladstone": {
+  "taste": {
+   "tags": [
+    "sweet",
+    "perfumed",
+    "sharp"
+   ],
+   "acid": 3
+  }
+ },
+ "glockenapfel": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "perfumed"
+   ],
+   "aroma": 4,
+   "juicy": 2,
+   "summary": "Very firm, pale flesh, not very juicy, with pronounced, slightly harsh acidity and a strong aroma. Picked in October but not ready to eat until about December, and keeps around six months; it barely breaks down when cooked, making it a classic strudel and pie apple. One grower found it mild and only lightly sweet."
+  }
+ },
+ "gloster": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "honey"
+   ],
+   "summary": "Firm, crisp and juicy greenish-cream flesh with a fairly sharp flavour, tarter than Delicious, finishing with a hint of honey according to one grower. Hangs well on the tree, keeps its crunch for months and mellows slightly in store."
+  }
+ },
+ "golden-bounty": {
+  "taste": {
+   "tags": [
+    "sharp",
+    "perfumed"
+   ]
+  }
+ }
+}

@@ -2,8 +2,15 @@
   {
     "id": "adams-pearmain",
     "name": "Adams Pearmain",
-    "aka": ["Adams's Pearmain", "Adam's Pearmain", "Norfolk Pippin", "Hanging Pearmain"],
-    "uses": ["dessert"],
+    "aka": [
+      "Adams's Pearmain",
+      "Adam's Pearmain",
+      "Norfolk Pippin",
+      "Hanging Pearmain"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Norfolk or Herefordshire, England (disputed)",
@@ -25,14 +32,18 @@
       "description": "Classic tapering pearmain shape; greenish-yellow skin turning golden, with a streaky orange-red flush on the sunny side and patches of russet."
     },
     "taste": {
-      "summary": "Firm, fine-grained cream flesh that is on the dry side rather than juicy, with a sweet, nutty and gently aromatic flavour. Improves after a spell in store and is at its richest in midwinter.",
+      "summary": "Firm, fine-grained cream flesh that seems dry at first bite yet holds a fair amount of juice, with a rich, nutty, aromatic flavour in the Egremont Russet mould. Sweet overall, though some tasters find a tart, wine-like acidity (one compared it to a Mosel); it improves in store and is richest in midwinter.",
       "sweet": 4,
       "acid": 2,
       "aroma": 3,
       "tannin": 0,
       "crisp": 3,
-      "juicy": 2,
-      "tags": ["nutty", "sweet"],
+      "juicy": 3,
+      "tags": [
+        "nutty",
+        "sweet",
+        "wine"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Mar; flavour builds after several weeks in store"
     },
@@ -79,8 +90,14 @@
   {
     "id": "ananas-reinette",
     "name": "Ananas Reinette",
-    "aka": ["Reinette Ananas", "Ananas Renette", "Ananasrenette"],
-    "uses": ["dessert"],
+    "aka": [
+      "Reinette Ananas",
+      "Ananas Renette",
+      "Ananasrenette"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "NL",
       "place": "Probably the Netherlands (Low Countries)",
@@ -102,14 +119,19 @@
       "description": "Small, slightly barrel-shaped apple of clear golden yellow, freckled with conspicuous russet dots."
     },
     "taste": {
-      "summary": "Crisp and juicy with a lively, high-acid bite balanced by sugar, and a distinctive scented note that tasters liken to pineapple. In warm seasons the aroma is strongest; after a dry summer fruits stay small and less perfumed.",
+      "summary": "A small, crisp, juicy apple whose high-acid tang is balanced by plenty of sugar and a distinctive pineapple-like scent; some tasters find it almost sweet-shop in character. It grows sweeter as the skin deepens to gold but never loses its tang, and it makes a sharp, aromatic juice. The aroma is fullest after a warm summer.",
       "sweet": 3,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["pineapple", "sharp", "perfumed"],
+      "tags": [
+        "pineapple",
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Jan; keeps into February in a good store"
     },
@@ -156,8 +178,16 @@
   {
     "id": "api",
     "name": "Api",
-    "aka": ["Lady Apple", "Pomme d'Api", "Petit Api Rouge", "Api Rose"],
-    "uses": ["dessert", "ornamental"],
+    "aka": [
+      "Lady Apple",
+      "Pomme d'Api",
+      "Petit Api Rouge",
+      "Api Rose"
+    ],
+    "uses": [
+      "dessert",
+      "ornamental"
+    ],
     "origin": {
       "country": "FR",
       "place": "Brittany, France (traditionally the Forest of Api)",
@@ -186,7 +216,10 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sweet", "perfumed"],
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Feb"
     },
@@ -233,8 +266,13 @@
   {
     "id": "aromatic-russet",
     "name": "Aromatic Russet",
-    "aka": ["Rook's Nest", "Spice Apple"],
-    "uses": ["dessert"],
+    "aka": [
+      "Rook's Nest",
+      "Spice Apple"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "England",
@@ -256,14 +294,17 @@
       "description": "Small, somewhat irregular conical fruit almost entirely covered in brown russet, with at most a faint red flush."
     },
     "taste": {
-      "summary": "Firm, greenish-white flesh with a sweet, aromatic russet flavour; reported to be sharper and richer than Egremont Russet, sometimes with a lemony edge.",
+      "summary": "Firm, greenish-white flesh with a rich, high-quality russet flavour that is noticeably sharper than Egremont Russet and sometimes carries a hint of lemon.",
       "sweet": 3,
       "acid": 3,
       "aroma": 4,
       "tannin": 0,
       "crisp": 3,
       "juicy": null,
-      "tags": ["lemon"],
+      "tags": [
+        "sharp",
+        "lemon"
+      ],
       "cider_class": null,
       "best_eaten": null
     },
@@ -311,7 +352,9 @@
     "id": "autumn-glow",
     "name": "Autumn Glow",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": null,
       "place": null,
@@ -388,7 +431,9 @@
     "id": "barnack-orange",
     "name": "Barnack Orange",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Belvoir Castle, Leicestershire, England",
@@ -464,8 +509,12 @@
   {
     "id": "beauty-of-hants",
     "name": "Beauty of Hants",
-    "aka": ["Ofine Seedling"],
-    "uses": ["dessert"],
+    "aka": [
+      "Ofine Seedling"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Bassett, Southampton, Hampshire, England",
@@ -541,8 +590,12 @@
   {
     "id": "bellefleur-krasnyi",
     "name": "Bellefleur Krasnyi",
-    "aka": ["Bellefleur Krasny"],
-    "uses": ["dessert"],
+    "aka": [
+      "Bellefleur Krasny"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "RU",
       "place": "Russia",
@@ -571,7 +624,9 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 2,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": null
     },

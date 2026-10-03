@@ -367,7 +367,7 @@
       "description": "Small to medium Golden Delicious-shaped fruit with dull orange-red stripes and flush over yellow-green."
     },
     "taste": {
-      "summary": "Rich, intense sweet-sharp flavour with Cox-like aromatics and a juicy, crisp bite; widely rated among the best-flavoured modern apples, and more consistent from year to year than Cox.",
+      "summary": "Intense, honeyed, Cox-like flavour with hints of pear-drop and an unusually fine balance of sweet and sharp; crisp, juicy flesh under a thin skin. Often rated above Cox and more consistent from year to year; keeps a month or two.",
       "sweet": 4,
       "acid": 4,
       "aroma": 5,
@@ -375,6 +375,8 @@
       "crisp": 4,
       "juicy": 4,
       "tags": [
+        "honey",
+        "pear-drop",
         "perfumed",
         "sweet",
         "sharp"
@@ -451,7 +453,7 @@
       "description": "Rounded fruit with a yellow-orange ground largely covered in red; the skin can feel slightly greasy."
     },
     "taste": {
-      "summary": "Sweet with balancing acidity and a good aroma; the cream flesh is crisp but light and juicy, and slow to brown when cut.",
+      "summary": "Sweet with balancing acidity and an aromatic, rather complex flavour; one taster picks out elderflower and apple-blossom honey. Cream flesh is crisp but light and juicy, does not brown when cut, and keeps a month or two.",
       "sweet": 4,
       "acid": 3,
       "aroma": 4,
@@ -460,7 +462,9 @@
       "juicy": 4,
       "tags": [
         "sweet",
-        "perfumed"
+        "perfumed",
+        "honey",
+        "elderflower"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Jan"

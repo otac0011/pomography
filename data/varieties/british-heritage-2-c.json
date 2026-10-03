@@ -30,14 +30,18 @@
       "description": "Very large, broad, slightly conical fruit; smooth pale creamy or milky green-white skin with a light flush and a few soft red stripes."
     },
     "taste": {
-      "summary": "Crisp, fine-grained, juicy white flesh with a mild sweet-sharp balance. It cooks quickly to a pale yellow froth or smooth purée that needs little sugar. The flesh browns very fast once cut.",
+      "summary": "Crisp, fine-grained, juicy white flesh with a delicate sweet-sharp flavour and a pleasing scent; most tasters find it fine raw, though one found it too bitter to eat uncooked. Cooks quickly to a pale, smooth puree needing little sugar, browns very fast once cut, and keeps only a few weeks unless stored cool and airy.",
       "sweet": 2,
       "acid": 3,
       "aroma": 2,
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": [],
+      "tags": [
+        "sharp",
+        "mild",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Nov, for cooking"
     },

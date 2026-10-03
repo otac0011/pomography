@@ -3,7 +3,9 @@
     "id": "pilot",
     "name": "Pilot",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "DE",
       "place": "Dresden-Pillnitz, Saxony",
@@ -32,7 +34,10 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sharp", "sweet"],
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Jan-May; not ready until after Christmas"
     },
@@ -80,7 +85,9 @@
     "id": "santana",
     "name": "Santana",
     "aka": [],
-    "uses": ["dessert"],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "NL",
       "place": "Wageningen",
@@ -102,14 +109,19 @@
       "description": "Medium to large fruit, green to yellow-green with a strong red flush on the sunny side that ranges from marbled to solid."
     },
     "taste": {
-      "summary": "A delicately perfumed apple with a vinous sweet-sharp balance, compared with Spartan; some tasters find hints of rose, lychee or sweet grape. Creamy-yellow flesh is firm and juicy rather than crunchy, and it does not keep long.",
+      "summary": "A delicately perfumed, vinous apple with a sweet-sharp balance, compared with Spartan; some tasters find hints of rose, lychee or sweet grape. The creamy-yellow flesh is usually called firm rather than crunchy, though one grower found it crunchy and tangier than Cox. Keeps a month or two.",
       "sweet": 3,
       "acid": 3,
       "aroma": 4,
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["perfumed", "wine", "rose", "grape"],
+      "tags": [
+        "perfumed",
+        "wine",
+        "rose",
+        "grape"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Nov"
     },
@@ -156,8 +168,13 @@
   {
     "id": "delbarestivale",
     "name": "Delbarestivale",
-    "aka": ["Delcorf", "Delbard Estivale"],
-    "uses": ["dessert"],
+    "aka": [
+      "Delcorf",
+      "Delbard Estivale"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "FR",
       "place": "Malicorne, Allier",
@@ -186,7 +203,10 @@
       "tannin": 0,
       "crisp": 3,
       "juicy": 4,
-      "tags": ["sweet", "perfumed"],
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Aug-Oct"
     },
@@ -233,8 +253,12 @@
   {
     "id": "opal",
     "name": "Opal",
-    "aka": ["UEB 32642"],
-    "uses": ["dessert"],
+    "aka": [
+      "UEB 32642"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "CZ",
       "place": "Institute of Experimental Botany, Czech Republic",
@@ -263,7 +287,11 @@
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["quince", "pear", "sweet"],
+      "tags": [
+        "quince",
+        "pear",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Oct-Feb; ready about two weeks after picking"
     },
@@ -310,8 +338,12 @@
   {
     "id": "cosmic-crisp",
     "name": "Cosmic Crisp",
-    "aka": ["WA 38"],
-    "uses": ["dessert"],
+    "aka": [
+      "WA 38"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "US",
       "place": "WSU Tree Fruit Research and Extension Center, Wenatchee, Washington",
@@ -333,14 +365,17 @@
       "description": "Large, dark wine-red fruit speckled with pale lenticels - the 'cosmic' starry look that gave it its name."
     },
     "taste": {
-      "summary": "Very crisp and juicy, firmer than Honeycrisp, with both sugar and acid high so the flavour is a bright sweet-tart balance. The flesh browns slowly and keeps its texture for months.",
+      "summary": "Very crisp, firm and juicy with a bright sweet-tart balance; many tasters find the flavour straightforward rather than complex, something like a milder Honeycrisp. The flesh browns slowly and the crunch lasts for months, but fruit held very long in store can turn bland and lose its tartness.",
       "sweet": 4,
       "acid": 4,
       "aroma": 2,
       "tannin": 0,
       "crisp": 5,
       "juicy": 5,
-      "tags": ["sweet", "sharp"],
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Apr"
     },

@@ -283,7 +283,7 @@
       "description": "Smooth, clean apple with a long stalk; pale green-yellow skin flushed bright pinkish-red on the sunny side."
     },
     "taste": {
-      "summary": "Remarkably crisp for an August apple, with juicy white flesh and a balanced sweet-sharp flavour that some tasters liken to strawberry. Best chilled and eaten within a week or so of picking.",
+      "summary": "Remarkably crisp for an August apple, with fairly juicy white flesh and a sweet-sharp flavour that stays fairly acidic; one taster notes a slight pear flavour. Best chilled and eaten within a week of picking, as it browns fast and can turn mealy.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
@@ -291,9 +291,9 @@
       "crisp": 4,
       "juicy": 4,
       "tags": [
-        "strawberry",
         "sweet",
-        "sharp"
+        "sharp",
+        "pear"
       ],
       "cider_class": null,
       "best_eaten": "Late Aug-Sep; ripens over several weeks on the tree"

@@ -2,8 +2,13 @@
   {
     "id": "ashmeads-kernel",
     "name": "Ashmead's Kernel",
-    "aka": ["Ashmead's Seedling", "Dr Ashmead's Kernel"],
-    "uses": ["dessert"],
+    "aka": [
+      "Ashmead's Seedling",
+      "Dr Ashmead's Kernel"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Gloucester, England",
@@ -25,14 +30,20 @@
       "description": "Broad, slightly lopsided fruit, greenish-gold under a heavy coat of fawn russet, sometimes with a dull bronze cheek."
     },
     "taste": {
-      "summary": "Dense, firm, fairly juicy yellowish flesh with a striking balance of strong sugar and strong acid, a nutty depth and an acid-drop / pear-drop sharpness. Hard and sharp at picking, it mellows and becomes richer after a few weeks in store.",
+      "summary": "Dense, firm, crisp and fairly juicy flesh with an intense balance of strong sugar and strong acid, a nutty depth and an earthy undertone; the note tasters most often name is pear-drop, though few agree exactly. Tart if picked early, it grows sweeter and more aromatic over several weeks in store.",
       "sweet": 3,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 3,
-      "tags": ["pear-drop", "nutty", "sharp"],
+      "tags": [
+        "pear-drop",
+        "nutty",
+        "sharp",
+        "sweet",
+        "earthy"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Feb, after at least a month in store"
     },
@@ -79,8 +90,14 @@
   {
     "id": "allington-pippin",
     "name": "Allington Pippin",
-    "aka": ["South Lincoln Beauty", "Brown's South Lincoln Beauty"],
-    "uses": ["dessert", "culinary"],
+    "aka": [
+      "South Lincoln Beauty",
+      "Brown's South Lincoln Beauty"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Lincolnshire, England",
@@ -102,14 +119,19 @@
       "description": "Neat, flat-ended conical apple, yellow with a modest red flush broken into stripes and a little russet."
     },
     "taste": {
-      "summary": "Crisp, yellowish flesh that is quite sharp at picking; after some weeks in store it develops a strong, aromatic, almost pineapple-like flavour with a bittersweet edge. Holds its shape when cooked.",
+      "summary": "Crisp and quite sharp at picking, when it doubles as a baking apple that keeps its shape. After a month or two in store it mellows into an intense, aromatic fruit-drop or pineapple flavour with a bittersweet edge while keeping a fresh acidity; it also makes excellent juice.",
       "sweet": 3,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 3,
-      "tags": ["pineapple", "sharp"],
+      "tags": [
+        "pineapple",
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
       "cider_class": null,
       "best_eaten": "Nov-Dec, once mellowed in store; usable for cooking from picking"
     },
@@ -156,8 +178,12 @@
   {
     "id": "barnack-beauty",
     "name": "Barnack Beauty",
-    "aka": ["Barnack"],
-    "uses": ["dessert"],
+    "aka": [
+      "Barnack"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Barnack, near Stamford, Northamptonshire (now Cambridgeshire), England",
@@ -179,14 +205,17 @@
       "description": "Handsome golden-yellow apple, about half covered in an orange-red flush with darker stripes."
     },
     "taste": {
-      "summary": "Firm, crisp, juicy creamy-white flesh with a sweet but tangy balance; a solid, refreshing late keeper rather than a highly perfumed one.",
-      "sweet": 3,
-      "acid": 3,
+      "summary": "Firm, very crisp, juicy creamy-white flesh with a sharp, tangy flavour tempered by some sweetness; not a sweet apple, and as useful for cooking as for eating. A sound late keeper rather than a perfumed one.",
+      "sweet": 2,
+      "acid": 4,
       "aroma": 2,
       "tannin": 0,
       "crisp": 4,
       "juicy": 4,
-      "tags": ["sweet", "sharp"],
+      "tags": [
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Mar, after storage"
     },
@@ -233,8 +262,16 @@
   {
     "id": "court-pendu-plat",
     "name": "Court Pendu Plat",
-    "aka": ["Wise Apple", "Court Pendu", "Garnon's Apple", "Wollaton Pippin", "Court-Pendu Plat"],
-    "uses": ["dessert"],
+    "aka": [
+      "Wise Apple",
+      "Court Pendu",
+      "Garnon's Apple",
+      "Wollaton Pippin",
+      "Court-Pendu Plat"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "FR",
       "place": "continental Europe, probably France",
@@ -256,14 +293,18 @@
       "description": "Distinctly squat, flat apple with a very short stalk, greenish-yellow with a dull orange-red flush and some russet."
     },
     "taste": {
-      "summary": "Very firm, fine-grained flesh that is rather dry rather than juicy, but sweet, rich and perfumed, with a fruity sharpness that becomes more complex in store through midwinter.",
+      "summary": "Very firm, dense, close-textured flesh that is dry rather than juicy, much like a russet. Strong and fruity when picked, it develops a spiced, aromatic sweetness in store; odd at first bite but moreish, and at its best from midwinter into early spring. Cut flesh browns quickly.",
       "sweet": 4,
       "acid": 3,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 2,
-      "tags": ["perfumed", "sweet"],
+      "tags": [
+        "perfumed",
+        "spice",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Dec-Feb"
     },
@@ -310,8 +351,13 @@
   {
     "id": "coxs-pomona",
     "name": "Cox's Pomona",
-    "aka": ["Pomona"],
-    "uses": ["culinary", "dessert"],
+    "aka": [
+      "Pomona"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "Colnbrook Lawn, near Slough, Buckinghamshire, England",
@@ -340,7 +386,9 @@
       "tannin": 0,
       "crisp": 2,
       "juicy": 4,
-      "tags": ["sweet"],
+      "tags": [
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Sep-Nov"
     },
@@ -387,8 +435,14 @@
   {
     "id": "darcy-spice",
     "name": "D'Arcy Spice",
-    "aka": ["Baddow Pippin", "Essex Spice", "Spring Ribston"],
-    "uses": ["dessert"],
+    "aka": [
+      "Baddow Pippin",
+      "Essex Spice",
+      "Spring Ribston"
+    ],
+    "uses": [
+      "dessert"
+    ],
     "origin": {
       "country": "GB",
       "place": "The Hall, Tolleshunt D'Arcy, Essex, England",
@@ -410,14 +464,19 @@
       "description": "Uneven, often ribbed fruit, green ripening to gold with a dull orange-red cheek and patches of brownish russet."
     },
     "taste": {
-      "summary": "Hard and sharp when picked; after a few months in store the firm, fine-textured flesh turns sweeter and develops its famous warm, spicy, nutmeg-like aroma. Best in a warm, dry year.",
+      "summary": "Hard and sharp when picked. After a few months in store the firm flesh sweetens and develops its warm sweet-spice character, likened to nutmeg or to mince-pie filling with cinnamon and raisins; fruit often keeps until spring, shrivelling a little without losing flavour. Needs a warm, dry year: in cool districts it may not ripen properly and the flavour stays poor.",
       "sweet": 3,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 4,
       "juicy": 3,
-      "tags": ["spice", "sharp", "sweet"],
+      "tags": [
+        "spice",
+        "cinnamon",
+        "sharp",
+        "sweet"
+      ],
       "cider_class": null,
       "best_eaten": "Jan-Apr, after long storage"
     },

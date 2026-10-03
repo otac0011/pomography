@@ -27,15 +27,17 @@
       "description": "Small, light yellow apple with a strong red flush."
     },
     "taste": {
-      "summary": "Crisp, fairly juicy flesh with a delicate, mildly aromatic balance of sweetness and acidity. Pleasant fresh but goes past its best within a few weeks.",
+      "summary": "Firm rather than crunchy flesh with a delicate, aromatic balance of sweet and sharp that leans sweet; more complex than most early-autumn apples. Best within a week or so of picking and past its prime after about a month.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
       "tannin": 0,
-      "crisp": 4,
+      "crisp": 3,
       "juicy": 3,
       "tags": [
-        "sweet"
+        "sweet",
+        "perfumed",
+        "sharp"
       ],
       "cider_class": null,
       "best_eaten": "Oct-Nov"
@@ -116,7 +118,8 @@
       "crisp": 4,
       "juicy": 3,
       "tags": [
-        "sharp"
+        "sharp",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Sep-Oct"

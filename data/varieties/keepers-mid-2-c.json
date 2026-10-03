@@ -28,7 +28,7 @@
       "description": "Large, rounded-conical apple with a mottled and striped orange-red flush over yellow."
     },
     "taste": {
-      "summary": "Crisp, juicy, yellowish flesh with a sweet, lightly perfumed flavour; pleasant raw but at its most useful in the kitchen, where slices hold their shape.",
+      "summary": "Sweet, lightly perfumed yellowish flesh; versatile in the kitchen, where slices hold their shape, but not outstanding raw. Sources differ on texture, some calling it crisp and juicy and Orange Pippin slightly dry. Compared with Kidd's Orange Red but without its richness; keeps three months or more.",
       "sweet": 3,
       "acid": 3,
       "aroma": 3,
@@ -195,7 +195,7 @@
       "description": "Cox-like fruit: golden-yellow with an orange-red flush and stripes and light russet patches."
     },
     "taste": {
-      "summary": "Crisp, fine, cream flesh with a sweet, aromatic Cox-like flavour and gentle acidity. In good summers it rivals Cox; in dull years it is still sweet and crisp but less complex.",
+      "summary": "Crisp cream flesh with a sweet, aromatic Cox-like flavour and gentle acidity. Flavour is very variable: excellent in good years (reportedly better on M9 than MM106 rootstock) but disappointing in poor ones. Does not keep well, softening after a few weeks, though it lasts about a month in a fridge.",
       "sweet": 4,
       "acid": 3,
       "aroma": 4,

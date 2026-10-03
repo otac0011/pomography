@@ -112,15 +112,17 @@
       "description": "Large, slightly flattened gold-yellow apple flushed and striped with orange-red, rather like an oversized Cox."
     },
     "taste": {
-      "summary": "Firm, slightly coarse, moderately juicy cream flesh with an intense, aromatic flavour in the Cox mould but noticeably sharper. It mellows after some weeks in store.",
-      "sweet": 3,
+      "summary": "Firm, rather coarse, fairly juicy cream flesh with an intense, aromatic Cox-type flavour that is both very sweet and distinctly sharp. Keeps well for a month or two and mellows in store; yellower fruit is said to taste better than red-flushed.",
+      "sweet": 4,
       "acid": 4,
       "aroma": 4,
       "tannin": 0,
       "crisp": 3,
       "juicy": 3,
       "tags": [
-        "sharp"
+        "sharp",
+        "sweet",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Nov-Jan, after a few weeks in store"
@@ -205,7 +207,8 @@
       "juicy": 3,
       "tags": [
         "nutty",
-        "sweet"
+        "sweet",
+        "perfumed"
       ],
       "cider_class": null,
       "best_eaten": "Dec-Feb"
