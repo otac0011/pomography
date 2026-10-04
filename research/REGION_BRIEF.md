@@ -29,7 +29,7 @@ Write `data/regions/<batch>-a.json`, `-b.json`, ... **at most 12 regions per fil
 * Do not give climate statistics that the site computes (chill hours, GDD, exact frost counts).
 * Be location-specific, not generic. Two nearby pins (e.g. Kent vs Norfolk) should read differently.
 * Verify with a quick search if you are not sure a variety/pest/tradition is real for that place.
-* Do NOT use shell heredocs to write; use the Write tool. Absolute paths under C:\GIT\pomona.
+* Do NOT use shell heredocs to write; use the Write tool. Absolute paths under C:\GIT\pomography.
 
 Validate:   python tools/validate_regions.py "data/regions/<batch>-*.json" --batch research/region_batches/<batch>.json
 
