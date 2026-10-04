@@ -1,7 +1,7 @@
 // In-browser unit tests: open /tests/ (served by tools/serve.py). All lines must say PASS before committing.
 import { computeFeatures, chillUnitsDay, utahWeight, koppen, usdaZone, viLabel, viToDate, doyToVi, curveAt, offsetFor, ra, et0Hargreaves, buildCycles, compactFeatures, dayHumidity, leafWetHours, millsHours, blightDegreeHours, humidityClimatology } from '../js/climate/features.js';
 import { regionalFor, inPolygon } from '../js/climate/regional.js';
-import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf } from '../js/score/score.js';
+import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf, flavourHere } from '../js/score/score.js';
 
 const out = document.getElementById('out');
 let pass = 0, fail = 0;
@@ -217,6 +217,19 @@ try {
     const dg = d.varieties.find(v => v.id === 'dorsett-golden');
     if (dg && pres.singapore) t('Dorsett Golden (low chill) outscores Cox in a warm-winter place', () => { const warm = pres['los-angeles'] || pres.elgin || pres['hawkes-bay']; if (!warm) return true; const a = scoreVariety(dg, warm, c2).score, b = scoreVariety(cox, warm, c2).score; if (!(a >= b)) throw new Error(`dg ${a} cox ${b}`); });
   }
+  // ---- flavour evidence (decision 0005)
+  const fl = await fetch('../assets/flavour.json').then(r => r.json());
+  t('flavour.json: every detail record belongs to a variety', () => Object.keys(fl.varieties).every(id => d.varieties.some(v => v.id === id)));
+  t('flavour: shown tags carry a support count', () => d.varieties.every(v => (v.taste.tags || []).every(tg => typeof (v.taste.support || {})[tg] === 'number')));
+  t('flavour: a dropped tag is never also shown', () => d.varieties.every(v => !(v.taste.unverified || []).some(tg => v.taste.tags.includes(tg))));
+  t('flavour: added tags have 2+ independent sources', () => Object.entries(fl.varieties).every(([, x]) => (x.added || []).every(tg => (x.support[tg] || []).length >= 2)));
+  t('flavour: book quotes come with a link to the scan', () => Object.values(fl.varieties).every(x => x.books.every(b => /^https:\/\/archive\.org\/details\//.test(b.link))));
+  t('flavour: measured percentiles are 0-100', () => d.varieties.every(v => !v.taste.measured || [v.taste.measured.pct_ssc, v.taste.measured.pct_ta].every(p => p == null || (p >= 0 && p <= 100))));
+  const fakeHot = { heat: { tmaxHot: 33, hot32: 40, fallTmin: 18 } }, fakeCool = { heat: { tmaxHot: 20, hot32: 0, fallTmin: 8 } };
+  const needs = n => ({ name: 'X', taste: { climate_flavour: { needs: n, note: '' } } });
+  t('flavourHere: a cool-climate apple in a hot place gets a warning', () => flavourHere(needs('cool'), fakeHot).tone !== 'good');
+  t('flavourHere: a warm-season apple in a cool place gets a warning', () => flavourHere(needs('warm'), fakeCool).tone === 'warn');
+  t('flavourHere: no climate note -> nothing', () => flavourHere({ name: 'X', taste: {} }, fakeHot) === null);
 } catch (e) { fail++; out.insertAdjacentHTML('beforeend', `<div class="fail">FAIL data load: ${e.message}</div>`); }
 
 document.getElementById('sum').innerHTML = fail ? `<span class="fail">${fail} FAILED</span>, ${pass} passed` : `<span class="pass">ALL ${pass} PASS</span>`;

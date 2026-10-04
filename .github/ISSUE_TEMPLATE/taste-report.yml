@@ -1,0 +1,98 @@
+name: Taste report
+description: Tell us how an apple tasted to you. Reports are summed up on the variety's page once three or more people agree.
+title: "Taste: "
+labels: ["taste-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! One apple per report, please. Everything here is public. The site shows a summary (not your name)
+        once at least three reports exist for a variety. Reports that look like spam are closed with the label `invalid`.
+  - type: input
+    id: variety
+    attributes:
+      label: Variety
+      description: As named on the Pomography page (the link from the variety page fills this in).
+      placeholder: "Cox's Orange Pippin"
+    validations:
+      required: true
+  - type: dropdown
+    id: sweet
+    attributes:
+      label: Sweetness
+      options: ["1 - not sweet", "2 - a little sweet", "3 - medium", "4 - sweet", "5 - very sweet"]
+    validations:
+      required: true
+  - type: dropdown
+    id: acid
+    attributes:
+      label: Sharpness (acidity)
+      options: ["1 - no sharpness, bland", "2 - mild", "3 - balanced", "4 - sharp", "5 - very sharp"]
+    validations:
+      required: true
+  - type: dropdown
+    id: aroma
+    attributes:
+      label: Aroma / complexity
+      options: ["1 - plain", "2 - a little", "3 - moderate", "4 - aromatic", "5 - very perfumed or complex"]
+    validations:
+      required: true
+  - type: dropdown
+    id: crisp
+    attributes:
+      label: Texture
+      options: ["1 - soft or mealy", "2 - tender", "3 - firm", "4 - crisp", "5 - very hard and crisp"]
+  - type: dropdown
+    id: juicy
+    attributes:
+      label: Juiciness
+      options: ["1 - dry", "2 - a little juicy", "3 - juicy", "4 - very juicy", "5 - dripping"]
+  - type: checkboxes
+    id: notes
+    attributes:
+      label: Flavours you noticed (tick any)
+      options:
+        - label: floral
+        - label: rose-water
+        - label: perfumed
+        - label: honey
+        - label: vanilla
+        - label: nutty
+        - label: aniseed
+        - label: spice
+        - label: pear-drop
+        - label: pear
+        - label: pineapple
+        - label: banana
+        - label: strawberry
+        - label: citrus
+        - label: lemon
+        - label: wine
+        - label: melon
+        - label: earthy
+  - type: input
+    id: other_notes
+    attributes:
+      label: Other flavour words
+      placeholder: "e.g. liquorice, cream soda, gooseberry"
+  - type: dropdown
+    id: from
+    attributes:
+      label: Where the apple came from
+      options: ["My own tree", "A friend's or neighbour's tree", "Farm shop or market", "Apple day / tasting event", "Supermarket", "Other"]
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where it was grown (as precise as you like)
+      placeholder: "Kent, UK / near Ann Arbor, Michigan"
+  - type: input
+    id: when
+    attributes:
+      label: When you ate it, and how long after picking
+      placeholder: "late October, about 3 weeks after picking"
+  - type: textarea
+    id: comments
+    attributes:
+      label: Anything else

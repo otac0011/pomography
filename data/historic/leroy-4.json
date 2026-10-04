@@ -1,0 +1,283 @@
+{
+  "_book": "leroy-4",
+  "newtown-pippin": {
+    "line": 2813, "end": 2920, "heading": "NEWTOWN PIPPIN", "match": "exact",
+    "flavour": "Chair : verdâtre, fine et ferme. — Eau : abondante, acidulée, très-sucrée, ayant une saveur parfumée des plus agréables.",
+    "flavour_en": "Flesh greenish, fine and firm. Juice abundant, acidulous, very sugary, with a most pleasant perfumed flavour.",
+    "quality": "Première",
+    "storage": "Maturité. — Janvier-Juin.",
+    "climate": "il mûrit mal chez nos voisins d'outre-Manche, tandis qu'en France il acquiert les mêmes qualités qu'en Amérique.",
+    "tags": ["sharp", "sweet", "perfumed"], "against": [], "sweet": 5, "acid": 3,
+    "note": "Synonyms De New-York, Reinette de New-York. Leroy warns against confusing it with Yellow Newtown Pippin, Rhode Island Greening and Reinette d'Angleterre, all sometimes called Newtown Pippin."
+  },
+  "nonpareil": {
+    "line": 3260, "end": 3389, "heading": "NON-PAREILLE ANCIENNE", "match": "synonym",
+    "flavour": "Chair : blanc jaunâtre, tendre, mi-fine. — Eau : abondante, rarement bien sucrée, acidulée, presque dénuée de parfum, ayant parfois un arrière-goût herbacé.",
+    "flavour_en": "Flesh yellowish white, tender, half-fine. Juice abundant, seldom very sugary, acidulous, almost without perfume, sometimes with a grassy aftertaste.",
+    "quality": "Deuxième",
+    "storage": "la vraie, qui commence seulement à mûrir en décembre et se conserve jusqu'en mars.",
+    "climate": "Le sol de l'Angleterre paraît beaucoup plus favorable à la culture de ce fruit, que celui de la France, puisque la Non-Pareille, dans l'Anjou du moins, se montre rarement de première qualité, tandis que les Anglais lui trouvent une chair aromatique et des plus savoureuses.",
+    "tags": ["sharp", "herbal"], "against": [], "sweet": 2, "acid": 3,
+    "note": "Synonyms Old Nonpareil, English Nonpareil, Original Nonpareil, Reinette Nompareille. Citing Switzer (1724), Leroy argues it is French, taken to England under Elizabeth. In Anjou it is second-rate; the English find it aromatic."
+  },
+  "hubbardston-nonesuch": {
+    "line": 3479, "end": 3550, "heading": "NON-PAREILLE DE HUBBARDSTON", "match": "synonym",
+    "flavour": "Chair : blanchâtre, fine, ferme et croquante. — Eau : suffisante, sucrée, vineuse, douceâtre, faiblement acidulée et parfumée.",
+    "flavour_en": "Flesh whitish, fine, firm and crisp. Juice sufficient, sugary, vinous, sweetish, faintly acidulous and perfumed.",
+    "quality": "Deuxième",
+    "storage": "Maturité. — Novembre-Février.",
+    "climate": "Les Américains sont les obtenteurs de ce très-beau fruit, qui chez eux, d'après leurs pomologues, est de qualité supérieure, avantage dont il ne jouit pas en France, du moins dans ma contrée.",
+    "tags": ["sweet", "wine", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Synonyms Hubbardston Nonsuch, American Nonpareille; imported to France by Alfroy in 1830."
+  },
+  "northern-spy": {
+    "line": 3737, "end": 3805, "heading": "NORTHERN SPY", "match": "exact",
+    "flavour": "Chair : blanchâtre, à grains serrés, tendre et croquante. — Eau : abondante, très-sucrée, acidulé, possédant un parfum particulier des plus délicats.",
+    "flavour_en": "Flesh whitish, close-grained, tender and crisp. Juice abundant, very sugary, acidulous, with a peculiar perfume of the most delicate.",
+    "quality": "Première",
+    "storage": "Maturité. — Janvier-Mai.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 5, "acid": 3,
+    "note": "Origin East Bloomfield, New York, c. 1800, after Hovey (1847)."
+  },
+  "coxs-orange-pippin": {
+    "line": 4739, "end": 4817, "heading": "ORANGE DE COX", "match": "exact",
+    "flavour": "Chair : blanche, tendre, fine ou mi-fine. — Eau : abondante ou suffisante, bien sucrée, légèrement acidulée, possédant un arôme des plus savoureux.",
+    "flavour_en": "Flesh white, tender, fine or half-fine. Juice abundant or sufficient, well sugared, slightly acidulous, with a most savoury aroma.",
+    "quality": "Première",
+    "storage": "Maturité. — Novembre-Février.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Synonyms Cox's Orange Pippin, Reinette Orange de Cox. Raised in 1830 by Mr H. Cox at Colnbrook Lawn from Ribston Pippin seed, from the same sowing as Cox's Pomona."
+  },
+  "patte-de-loup": {
+    "line": 5832, "end": 5912, "heading": "PATTE DE LOUP", "match": "exact",
+    "flavour": "Chair : quelque peu jaunâtre ou verdâtre, fine, compacte, ferme. — Eau : suffisante, sucrée, délicatement acidulée et parfumée.",
+    "flavour_en": "Flesh slightly yellowish or greenish, fine, dense, firm. Juice sufficient, sugary, delicately acidulous and perfumed.",
+    "quality": "Première",
+    "storage": "Maturité. — Janvier-Avril.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Old and common around Beaupréau (Maine-et-Loire). Leroy agrees with Millet (1830) that it has 'quelques rapports avec le Fenouillet gris' (an anise-flavoured russet), but its description names no anise. The Congrès praised 'sa longue conservation'."
+  },
+  "king-of-the-pippins": {
+    "line": 6025, "end": 6149, "heading": "PEARMAIN DORÉE", "match": "synonym",
+    "flavour": "Chair : un peu jaunâtre, fine, compacte, assez tendre. — Eau : abondante, bien sucrée, vineuse, délicieusement acidulée et parfumée.",
+    "flavour_en": "Flesh slightly yellowish, fine, dense, fairly tender. Juice abundant, well sugared, vinous, deliciously acidulous and perfumed.",
+    "quality": "Première",
+    "storage": "Maturité. — Novembre-Février.",
+    "climate": null,
+    "tags": ["sweet", "wine", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Golden Winter Pearmain, King of the Pippins, Hampshire Yellow, Englische Winter Goldparmäne. Leroy holds that Reine des Reinettes (Queen of the Pippins / Kroon Renet, his no. 364, line 10549) is a different apple, wrongly given this name in France; this contradicts our aka."
+  },
+  "autumn-pearmain": {
+    "line": 6159, "end": 6240, "heading": "PEARMAIN D'ÉTÉ", "match": "synonym",
+    "flavour": "Chair : blanc jaunâtre, fine, tendre, peu croquante. — Eau : abondante et bien sucrée, agréablement acidulée, possédant un parfum qui rappelle celui de la rose.",
+    "flavour_en": "Flesh yellowish white, fine, tender, not very crisp. Juice abundant and well sugared, pleasantly acidulous, with a perfume recalling that of the rose.",
+    "quality": "Première",
+    "storage": "Maturité. — Septembre.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed", "rose"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Summer Pearmain, Drue Permein, Pearmain d'Automne (Mayer); 'Autumn Pearmain' points here by cross-reference. Hogg (1859) notes it is often sold as Royal Pearmain. Leroy traces it to Tabernaemontanus (1588) and Gerard (1597)."
+  },
+  "winter-pearmain": {
+    "line": 6247, "end": 6399, "heading": "PEARMAIN D'HIVER", "match": "synonym",
+    "flavour": "Chair : quelque peu jaunâtre, tendre et très-fine. — Eau : abondante, délicatement acidulée et sucrée, ayant un arôme exquis.",
+    "flavour_en": "Flesh slightly yellowish, tender and very fine. Juice abundant, delicately acidulous and sugary, with an exquisite aroma.",
+    "quality": "Première",
+    "storage": "Maturité. — Décembre-Mars.",
+    "climate": null,
+    "tags": ["sharp", "sweet", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "'English Winter Pearmain' points here by cross-reference. Leroy cites a 1211 Rouen document mentioning 'Permaine' and suggests the Normans took it to England. He distinguishes it from the Red Winter Pearmain and from the Hereford (Royal Winter) Pearmain."
+  },
+  "summer-rambo": {
+    "line": 9768, "end": 9890, "heading": "RAMBOUR D'ÉTÉ", "match": "exact",
+    "flavour": "Chair : jaunâtre, demi-fine, assez tendre et quelque peu marcescente. — Eau : abondante, peu sucrée, vineuse, sans parfum, fortement mais agréablement acidulée.",
+    "flavour_en": "Flesh yellowish, half-fine, fairly tender and somewhat inclined to wilt. Juice abundant, little sugared, vinous, without perfume, strongly but pleasantly acidulous.",
+    "quality": "Deuxième pour le couteau, première pour la cuisson.",
+    "storage": "Maturité. — Fin d'août et se prolongeant parfois jusqu'en octobre.",
+    "climate": null,
+    "tags": ["wine", "sharp"], "against": ["sweet", "perfumed"], "sweet": 2, "acid": 4,
+    "note": "Old French 'De Rambure', traced to Ruel (1535); formerly used for sharp cider ('cidres aigrets'). Leroy's account of a little-sugared, unperfumed cooking apple contradicts our sweet and perfumed tags."
+  },
+  "ananas-reinette": {
+    "line": 10806, "end": 10877, "heading": "REINETTE ANANAS", "match": "exact",
+    "flavour": "Chair : blanc jaunâtre, fine, assez tendre. — Eau : suffisante, sucrée, délicieusement acidulée et parfumée.",
+    "flavour_en": "Flesh yellowish white, fine, fairly tender. Juice sufficient, sugary, deliciously acidulous and perfumed.",
+    "quality": "Première",
+    "storage": "Maturité. — Janvier-Mars.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "First described by Diel in 1826; Lucas thought it Dutch. No pineapple note is named; Leroy says only that its quality 'justifie le nom'."
+  },
+  "fall-pippin": {
+    "line": 14230, "end": 14378, "heading": "REINETTE D'ESPAGNE", "match": "synonym",
+    "flavour": "Chair : blanchâtre, assez grosse, tendre, peu compacte. — Eau : abondante, sucrée, acidulée, toujours presque dénuée de parfum.",
+    "flavour_en": "Flesh whitish, rather coarse, tender, loose. Juice abundant, sugary, acidulous, always almost without perfume.",
+    "quality": "Deuxième pour le couteau, première pour les usages culinaires.",
+    "storage": "La longue conservation de cette Reinette, qui parfois déjà mûre en octobre se garde aisément jusqu'au mois de mars",
+    "climate": "sur le sol français n'a très-habituellement droit qu'au second rang; mais dans son pays natal elle acquiert, dit-on, la saveur, le parfum de nos meilleures Reinettes.",
+    "tags": ["sweet", "sharp"], "against": ["perfumed"], "sweet": 4, "acid": 3,
+    "note": "Synonyms include Fall Pippin, Large Fall Pippin, Cobbett's Fall Pippin, White Spanish Reinette, York Pippin. Following Lindley, Leroy unites the American Fall Pippin with Reinette d'Espagne, though Downing (1869) kept them apart. The identity is doubtful."
+  },
+  "reinette-grise-du-canada": {
+    "line": 15535, "end": 15625, "heading": "REINETTE GRISE DU CANADA", "match": "exact",
+    "flavour": "Chair : blanc jaunâtre ou verdâtre, fine, assez compacte et quelque peu croquante. — Eau : abondante, sucrée, délicieusement acidulée et parfumée.",
+    "flavour_en": "Flesh yellowish or greenish white, fine, fairly dense and somewhat crisp. Juice abundant, sugary, deliciously acidulous and perfumed.",
+    "quality": "Première",
+    "storage": "Maturité. — Novembre-Avril.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Monstrueuse du Canada, Canada gris. Origin unknown; it was in the Paris Muséum c. 1801-1805. Leroy says the 'Gros-Fenouillet gris' trees sent to him were this apple, though vol. 3 (line 22736) describes a sweet, acid-free Gros-Fenouillet gris. He says Leather-Coat belongs to Royal Russet."
+  },
+  "landsberger-reinette": {
+    "line": 16228, "end": 16295, "heading": "REINETTE DE LANDSBERG", "match": "exact",
+    "flavour": "Chair : blanche, fine et tendre, quoique compacte. — Eau : abondante, très-sucrée, acidulé, parfumée, des plus savoureuses.",
+    "flavour_en": "Flesh white, fine and tender though dense. Juice abundant, very sugary, acidulous, perfumed, most flavourful.",
+    "quality": "Première",
+    "storage": "Maturité. — Novembre-Mars.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 5, "acid": 3,
+    "note": "Raised about twenty years earlier by Burchardt at Landsberg an der Warthe; the fruit hangs very firmly in storms (Oberdieck)."
+  },
+  "margil": {
+    "line": 16989, "end": 17105, "heading": "REINETTE MUSQUÉE", "match": "synonym",
+    "flavour": "Chair : jaunâtre ou verdâtre, mi-fine, assez ferme, plus ou moins croquante. — Eau : suffisante, dénuée d'acidité, très-sucrée, possédant une saveur anisée-musquée qui n'est pas sans délicatesse.",
+    "flavour_en": "Flesh yellowish or greenish, half-fine, fairly firm, more or less crisp. Juice sufficient, without acidity, very sugary, with an anise-musky flavour not lacking delicacy.",
+    "quality": "Première, pour les amateurs de pommes douces.",
+    "storage": "Maturité. — Novembre-Février.",
+    "climate": null,
+    "tags": ["sweet", "aniseed", "musky"], "against": [], "sweet": 5, "acid": 1,
+    "note": "Synonyms include Margil (Hooker 1813) and Reinette douce musquée. Leroy says it is 'identique avec la pomme Margil, des Anglais' (citing Hogg) and is grown in Normandy as the cider apple 'Muscadet'. This acid-free sweet apple differs from English accounts of Margil, so the identity is uncertain. Not recorded for muscadet-de-dieppe."
+  },
+  "orleans-reinette": {
+    "line": 17400, "end": 17562, "heading": "REINETTE D'ORLÉANS", "match": "exact",
+    "flavour": "Chair : jaunâtre, fine, mi-tendre, légèrement croquante. — Eau : abondante, bien sucrée, délicatement acidulée et possédant une exquise saveur parfumée.",
+    "flavour_en": "Flesh yellowish, fine, half-tender, slightly crisp. Juice abundant, well sugared, delicately acidulous and with an exquisite perfumed flavour.",
+    "quality": "Première",
+    "storage": "Maturité. — Novembre-Février.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Synonyms Reinette triomphante (Diel 1799), Court-Pendu blanc, Court-Pendu de Tournay."
+  },
+  "ribston-pippin": {
+    "line": 19364, "end": 19455, "heading": "RIBSTON PIPPIN", "match": "exact",
+    "flavour": "Chair : jaunâtre, fine, compacte, assez ferme. — Eau : abondante ou suffisante, bien sucrée, acidulée, parfumant agréablement la bouche.",
+    "flavour_en": "Flesh yellowish, fine, dense, fairly firm. Juice abundant or sufficient, well sugared, acidulous, pleasantly perfuming the mouth.",
+    "quality": "Première",
+    "storage": "Maturité. — Décembre-Mars.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Raised at Ribston Hall near Knaresborough from pips collected at Rouen in 1686 or 1688; Glory of York and Formosa Pippin point here by cross-reference."
+  },
+  "hereford-redstreak": {
+    "line": 21368, "end": 21448, "heading": "ROUGE RAYÉE", "match": "synonym",
+    "flavour": "Chair : blanche, nuancée de vert, mi-fine, assez tendre et peu croquante. — Eau : abondante, sucrée, délicieusement parfumée et suffisamment acidulée.",
+    "flavour_en": "Flesh white tinged with green, half-fine, fairly tender and not very crisp. Juice abundant, sugary, deliciously perfumed and sufficiently acidulous.",
+    "quality": "Première",
+    "storage": "Maturité. — Décembre-Avril.",
+    "climate": null,
+    "tags": ["sweet", "perfumed", "sharp"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Red Streak, Scudamore's Crab, Herefordshire Red Streak; raised by Lord Scudamore in early 17th-century Herefordshire (Lindley). Leroy describes only a first-quality dessert fruit and does not mention cider."
+  },
+  "leathercoat-russet": {
+    "line": 21802, "end": 21889, "heading": "ROYAL RUSSET", "match": "synonym",
+    "flavour": "Chair : jaunâtre ou verdâtre, fine, assez tendre. — Eau : suffisante, sucrée, acidulée, peu parfumée.",
+    "flavour_en": "Flesh yellowish or greenish, fine, fairly tender. Juice sufficient, sugary, acidulous, little perfumed.",
+    "quality": "Deuxième comme fruit à couteau, première pour tous les usages culinaires.",
+    "storage": "Maturité. — Novembre-Avril.",
+    "climate": "Excellente chez les Anglais, où elle a pris naissance il y a plusieurs siècles, cette pomme se montre généralement moins bonne dans notre pays.",
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 3,
+    "note": "First synonym Leather Coat (Lawson 1597; Hogg 1859), also Leather Coat Russet. Leroy says it is not the same as Reinette grise du Canada."
+  },
+  "smokehouse": {
+    "line": 23426, "end": 23509, "heading": "SMOKEHOUSE", "match": "exact",
+    "flavour": "Chair : jaunâtre, ferme, fine ou mi-fine. — Eau : suffisante, bien sucrée, quoiqu'aigrelette, ayant une saveur anisée des plus agréables.",
+    "flavour_en": "Flesh yellowish, firm, fine or half-fine. Juice sufficient, well sugared though tart, with a most pleasant aniseed flavour.",
+    "quality": "Première",
+    "storage": "Maturité. — Octobre-Février.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "aniseed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Millcreek Vandevere, Red Vandevere, Vandevere English. From Gibbons' farm near Millcreek, Lancaster County, Pennsylvania (Downing)."
+  },
+  "sturmer-pippin": {
+    "line": 24098, "end": 24163, "heading": "STURMER PIPPIN", "match": "exact",
+    "flavour": "Chair : jaunâtre, fine, compacte, ferme et croquante. — Eau : assez abondante, douce, bien sucrée, possédant une légère et délicieuse saveur fenouillée.",
+    "flavour_en": "Flesh yellowish, fine, dense, firm and crisp. Juice fairly abundant, sweet (low in acid), well sugared, with a light and delicious fennel flavour.",
+    "quality": "Première",
+    "storage": "une délicieuse pomme et d'une tardiveté exceptionnelle, car le 15 juin 1873 j'en avais encore, au fruitier, plusieurs qui eussent pu s'y conserver jusqu'en juillet.",
+    "climate": null,
+    "tags": ["sweet", "fennel"], "against": ["sharp"], "sweet": 4, "acid": 1,
+    "note": "Season February-June. Raised by Dillistone at Sturmer from Ribston Pippin x Nonpareil (Hogg). 'Douce' (sweet, without acidity) contradicts our sharp tag."
+  },
+  "swaar": {
+    "line": 24673, "end": 24738, "heading": "SWAAR", "match": "exact",
+    "flavour": "Chair : blanche, fine, quelque peu marcescente et très-compacte quoiqu'assez tendre. — Eau : abondante, très-sucrée, à peine acidulée, sans parfum bien prononcé.",
+    "flavour_en": "Flesh white, fine, somewhat inclined to wilt and very dense though fairly tender. Juice abundant, very sugary, scarcely acidulous, without well-marked perfume.",
+    "quality": "Deuxième",
+    "storage": "m'a-t-il fallu la manger au début de sa maturité — octobre et novembre — plutôt qu'en décembre et janvier, époque où elle devient à peu près douce et sans aucun parfum.",
+    "climate": "La pomme Swaar est exquise, assure-t-on, aux États-Unis; chez moi je l'ai toujours, depuis une douzaine d'années que je la possède, trouvée de deuxième ordre",
+    "tags": ["sweet"], "against": ["perfumed"], "sweet": 5, "acid": 2,
+    "note": "Synonym Hardwick. Raised by a Dutch settler, in North Jersey (Floy 1823) or near Esopus on the Hudson (Downing 1849). In Anjou it was only second-rate and lost all perfume in store."
+  },
+  "catshead": {
+    "line": 25119, "end": 25191, "heading": "TÊTE DE CHAT", "match": "probable",
+    "flavour": "Chair : verdâtre ou jaunâtre, demi-fine, assez ferme, croquante et quelque peu marcescente. — Eau : suffisante, sucrée, agréablement acidulée et parfumée.",
+    "flavour_en": "Flesh greenish or yellowish, half-fine, fairly firm, crisp and somewhat inclined to wilt. Juice sufficient, sugary, pleasantly acidulous and perfumed.",
+    "quality": "Deuxième pour le couteau, première pour la cuisson.",
+    "storage": "Maturité. — Octobre-Janvier.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Probable: synonyms Round Catshead, Catshead, Catshead Greening. Leroy dates it only to about 1800 and repeats the 1826 Horticultural Society statement that it came from Jersey, whereas our Catshead is a 17th-century English apple."
+  },
+  "tower-of-glamis": {
+    "line": 25262, "end": 25335, "heading": "TOUR DE GLAMMIS", "match": "exact",
+    "flavour": "Chair : blanche, demi-fine, peu compacte et très-tendre. — Eau : abondante, bien sucrée, légèrement acidulée, parfumant agréablement la bouche.",
+    "flavour_en": "Flesh white, half-fine, loose and very tender. Juice abundant, well sugared, slightly acidulous, pleasantly perfuming the mouth.",
+    "quality": "Première, soit pour le couteau, soit pour la cuisine.",
+    "storage": "Maturité. — Octobre-Janvier.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Synonyms Tower of Glammis, Glammis Castle, Carse of Gowrie, Late Carse of Gowrie. Scottish, grown in Clydesdale and the Carse of Gowrie."
+  },
+  "white-transparent": {
+    "line": 25367, "end": 25439, "heading": "TRANSPARENTE JAUNE", "match": "synonym",
+    "flavour": "Chair : blanche, tendre, croquante et plus ou moins transparente. — Eau : abondante ou suffisante, sucrée, délicatement acidulée et parfumée.",
+    "flavour_en": "Flesh white, tender, crisp and more or less transparent. Juice abundant or sufficient, sugary, delicately acidulous and perfumed.",
+    "quality": "Première",
+    "storage": "Maturité. — Depuis la mi-juillet jusqu'au commencement d'août, et même ayant quelquefois une plus longue durée.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Known in the Baltic provinces as Transparente jaune, Transparente blanche and Pomme de Revel. Received from Wagner of Riga in 1852. Identical with Transparente de Saint-Léger; not the English Revelstone Pippin."
+  },
+  "rhode-island-greening": {
+    "line": 25724, "end": 25828, "heading": "VERTE DE RHODE-ISLAND", "match": "synonym",
+    "flavour": "Chair : jaunâtre, fine et ferme, quoique assez tendre. — Eau : abondante, bien sucrée, savoureusement acidulée et possédant un parfum particulier des plus délicats.",
+    "flavour_en": "Flesh yellowish, fine and firm though fairly tender. Juice abundant, well sugared, savourily acidulous and with a peculiar perfume of the most delicate.",
+    "quality": "Première",
+    "storage": "Maturité. — Janvier-Juin.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms Burlington Greening, Jersey Greening, Rhode-Island Greening, Hampshire Greening. Leroy calls it the Americans' favourite apple; imported to France by Alfroy in 1830."
+  },
+  "dumelows-seedling": {
+    "line": 26355, "end": 26486, "heading": "WELLINGTON", "match": "synonym",
+    "flavour": "Chair : blanchâtre, mi-fine, ferme, croquante et quelque peu marcescente. — Eau : suffisante ou abondante, toujours fortement acidulée, plus ou moins sucrée et presque complètement dénuée de parfum.",
+    "flavour_en": "Flesh whitish, half-fine, firm, crisp and somewhat inclined to wilt. Juice sufficient or abundant, always strongly acidulous, more or less sugary and almost entirely without perfume.",
+    "quality": "Deuxième pour le couteau, mais de toute première pour la cuisson.",
+    "storage": "Maturité. — Novembre-Juin.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": 3, "acid": 5,
+    "note": "Synonyms Dumelow's Pippin, Dumelow's Crab, Dumelow's Seedling, Normanton Wonder, Hawthornden d'Hiver. Raised by Mr Dumelow near Ashby-de-la-Zouch. Leroy rates it of 'médiocre qualité', good only for cooking."
+  },
+  "yates": {
+    "line": 26672, "end": 26726, "heading": "YATES", "match": "exact",
+    "flavour": "Chair : légèrement verdâtre, fine, assez ferme. — Eau : suffisante, plus ou moins sucrée, agréablement acidulée, faiblement parfumée.",
+    "flavour_en": "Flesh slightly greenish, fine, fairly firm. Juice sufficient, more or less sugary, pleasantly acidulous, faintly perfumed.",
+    "quality": "Deuxième",
+    "storage": "Maturité. — Février-Mai.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Sent from Georgia in 1868; native of Fayette County, Georgia."
+  }
+}

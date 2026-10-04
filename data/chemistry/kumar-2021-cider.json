@@ -1,0 +1,971 @@
+{
+ "_source": {
+  "key": "kumar-2021-cider",
+  "title": "Classifying Cider Apple Germplasm Using Genetic Markers for Fruit Acidity",
+  "authors": "Kumar SK, Wojtyna N, Dougherty L, Xu K, Peck G",
+  "year": 2021,
+  "url": "https://doi.org/10.21273/JASHS05056-21",
+  "data_url": "https://npgsweb.ars-grin.gov/gringlobal/descriptordetail?id=375603",
+  "licence": "Data as deposited in USDA GRIN-Global (US Government database, public domain); article CC BY-NC-ND 4.0",
+  "where": "USDA Malus collection, Plant Genetic Resources Unit, Geneva, New York, USA",
+  "method": "Juice titratable acidity of 217 cider-relevant accessions sampled from the Geneva collection in 2017 (three 15-fruit subsamples per accession, per the 2018 ASHS conference abstract), reported in g/L and classified against the Long Ashton 0.45 % malic acid threshold, i.e. malic acid basis. Fruit sampled at harvest maturity; storage time not stated in GRIN. One value per accession; no SSC or firmness deposited.",
+  "ta_units": "g/L malic acid"
+ },
+ "records": {
+  "arkansas-black": {
+   "accession": "Arkansas Black",
+   "ssc": null,
+   "ta": 5.8,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589117"
+   ]
+  },
+  "ashmeads-kernel": {
+   "accession": "Ashmead's Kernel",
+   "ssc": null,
+   "ta": 6.7,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589654"
+   ]
+  },
+  "belle-de-pontoise": {
+   "accession": "Bella di Pontoise",
+   "ssc": null,
+   "ta": 5.5,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "probable",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 102537"
+   ]
+  },
+  "ben-davis": {
+   "accession": "Ben Davis",
+   "ssc": null,
+   "ta": 3.64,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588953"
+   ]
+  },
+  "binet-rouge": {
+   "accession": "Binet Rouge",
+   "ssc": null,
+   "ta": 1.54,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 158730"
+   ]
+  },
+  "blue-pearmain": {
+   "accession": "Blue Pearmain",
+   "ssc": null,
+   "ta": 6.26,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590180"
+   ]
+  },
+  "bulmers-norman": {
+   "accession": "Bulmer Norman",
+   "ssc": null,
+   "ta": 1.96,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "probable",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588808"
+   ]
+  },
+  "calville-blanc-dhiver": {
+   "accession": "Calville Blanc",
+   "ssc": null,
+   "ta": 7.39,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589596"
+   ]
+  },
+  "cortland": {
+   "accession": "Cortland",
+   "ssc": null,
+   "ta": 4.1,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588848"
+   ]
+  },
+  "court-pendu-plat": {
+   "accession": "Court Pendu; Court Pendu Plat",
+   "ssc": null,
+   "ta": 7.65,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 2,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 123960",
+    "PI 589601"
+   ],
+   "per_accession": [
+    {
+     "accession": "Court Pendu",
+     "id": "PI 589601",
+     "ssc": null,
+     "ta": 6.42,
+     "firmness": null
+    },
+    {
+     "accession": "Court Pendu Plat",
+     "id": "PI 123960",
+     "ssc": null,
+     "ta": 8.88,
+     "firmness": null
+    }
+   ]
+  },
+  "court-royal": {
+   "accession": "Court Royal",
+   "ssc": null,
+   "ta": 1.43,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589671"
+   ]
+  },
+  "crispin": {
+   "accession": "Mutsu",
+   "ssc": null,
+   "ta": 4.73,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 223602"
+   ]
+  },
+  "dabinett": {
+   "accession": "Dabinett",
+   "ssc": null,
+   "ta": 1.24,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589073"
+   ]
+  },
+  "darcy-spice": {
+   "accession": "D'Arcy Spice",
+   "ssc": null,
+   "ta": 5.85,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590122"
+   ]
+  },
+  "edward-vii": {
+   "accession": "Edward VII",
+   "ssc": null,
+   "ta": 8.36,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 392312"
+   ]
+  },
+  "ellis-bitter": {
+   "accession": "Ellis Bitter",
+   "ssc": null,
+   "ta": 1.4,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589650"
+   ]
+  },
+  "empire": {
+   "accession": "Empire",
+   "ssc": null,
+   "ta": 3.11,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588842"
+   ]
+  },
+  "esopus-spitzenburg": {
+   "accession": "Esopus Spitzenburg",
+   "ssc": null,
+   "ta": 5.33,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588785"
+   ]
+  },
+  "gala": {
+   "accession": "Gala",
+   "ssc": null,
+   "ta": 1.36,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 392303"
+   ]
+  },
+  "glockenapfel": {
+   "accession": "Pomme Cloche",
+   "ssc": null,
+   "ta": 7.89,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 134668"
+   ]
+  },
+  "golden-delicious": {
+   "accession": "Golden Delicious",
+   "ssc": null,
+   "ta": 4.49,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590184"
+   ]
+  },
+  "golden-russet": {
+   "accession": "Golden Russet",
+   "ssc": null,
+   "ta": 4.72,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589892"
+   ]
+  },
+  "grenadier": {
+   "accession": "Grenadier",
+   "ssc": null,
+   "ta": 6.23,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589684"
+   ]
+  },
+  "grimes-golden": {
+   "accession": "Grimes Golden",
+   "ssc": null,
+   "ta": 4.41,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588791"
+   ]
+  },
+  "harry-masters-jersey": {
+   "accession": "Harry Masters Jersey",
+   "ssc": null,
+   "ta": 1.21,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589653"
+   ]
+  },
+  "hereford-redstreak": {
+   "accession": "Redstreak",
+   "ssc": null,
+   "ta": 3.9,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 175543"
+   ]
+  },
+  "herrings-pippin": {
+   "accession": "Herring's Pippin",
+   "ssc": null,
+   "ta": 4.02,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 136001"
+   ]
+  },
+  "hubbardston-nonesuch": {
+   "accession": "Hubbardston Nonsuch",
+   "ssc": null,
+   "ta": 2.66,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589202"
+   ]
+  },
+  "jonathan": {
+   "accession": "Jonathan",
+   "ssc": null,
+   "ta": 6.16,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590185"
+   ]
+  },
+  "king-david": {
+   "accession": "King David",
+   "ssc": null,
+   "ta": 8.71,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589156"
+   ]
+  },
+  "kingston-black": {
+   "accession": "Kingston Black",
+   "ssc": null,
+   "ta": 3.97,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589703"
+   ]
+  },
+  "landsberger-reinette": {
+   "accession": "Landsberger Reinette",
+   "ssc": null,
+   "ta": 5.56,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589565"
+   ]
+  },
+  "liberty": {
+   "accession": "Liberty",
+   "ssc": null,
+   "ta": 5.72,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588943"
+   ]
+  },
+  "macoun": {
+   "accession": "Macoun",
+   "ssc": null,
+   "ta": 3.72,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589895"
+   ]
+  },
+  "major": {
+   "accession": "Major",
+   "ssc": null,
+   "ta": 2.03,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 150649"
+   ]
+  },
+  "margil": {
+   "accession": "Margil",
+   "ssc": null,
+   "ta": 3.46,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 264558"
+   ]
+  },
+  "medaille-dor": {
+   "accession": "Medaille d'Or",
+   "ssc": null,
+   "ta": 2.42,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 594108"
+   ]
+  },
+  "michelin": {
+   "accession": "Michelin",
+   "ssc": null,
+   "ta": 2.05,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589670"
+   ]
+  },
+  "muscadet-de-dieppe": {
+   "accession": "Muscadet de Dieppe",
+   "ssc": null,
+   "ta": 1.95,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589493"
+   ]
+  },
+  "nehou": {
+   "accession": "Nehou",
+   "ssc": null,
+   "ta": 2.21,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 175544"
+   ]
+  },
+  "newtown-pippin": {
+   "accession": "Yellow Newtown",
+   "ssc": null,
+   "ta": 6.4,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588773"
+   ]
+  },
+  "northern-spy": {
+   "accession": "Northern Spy",
+   "ssc": null,
+   "ta": 4.26,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588872"
+   ]
+  },
+  "pomme-gris": {
+   "accession": "Pomme Grise",
+   "ssc": null,
+   "ta": 5.79,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589242"
+   ]
+  },
+  "raxao": {
+   "accession": "Raxao",
+   "ssc": null,
+   "ta": 6.65,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 681640"
+   ]
+  },
+  "reinette-clochard": {
+   "accession": "Reinette Clochard",
+   "ssc": null,
+   "ta": 6.9,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589444"
+   ]
+  },
+  "rhode-island-greening": {
+   "accession": "Rhode Island Greening",
+   "ssc": null,
+   "ta": 5.59,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589520"
+   ]
+  },
+  "ribston-pippin": {
+   "accession": "Ribston",
+   "ssc": null,
+   "ta": 4.86,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "probable",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588840"
+   ]
+  },
+  "ross-nonpareil": {
+   "accession": "Ross Nonpareil",
+   "ssc": null,
+   "ta": 7.58,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590141"
+   ]
+  },
+  "roxbury-russet": {
+   "accession": "Roxbury Russet",
+   "ssc": null,
+   "ta": 6.76,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588971"
+   ]
+  },
+  "royal-gala": {
+   "accession": "Royal Gala",
+   "ssc": null,
+   "ta": 3.24,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 651008"
+   ]
+  },
+  "sheepnose": {
+   "accession": "Crow Egg",
+   "ssc": null,
+   "ta": 2.18,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "probable",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589196"
+   ]
+  },
+  "smokehouse": {
+   "accession": "Smokehouse",
+   "ssc": null,
+   "ta": 4.79,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589903"
+   ]
+  },
+  "stayman-winesap": {
+   "accession": "Stayman",
+   "ssc": null,
+   "ta": 4.28,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588975"
+   ]
+  },
+  "stoke-red": {
+   "accession": "Stoke Red",
+   "ssc": null,
+   "ta": 4.62,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589697"
+   ]
+  },
+  "sturmer-pippin": {
+   "accession": "Sturmer Pippin",
+   "ssc": null,
+   "ta": 8.34,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 307382"
+   ]
+  },
+  "sunset": {
+   "accession": "Sunset",
+   "ssc": null,
+   "ta": 4.82,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589694"
+   ]
+  },
+  "sweet-alford": {
+   "accession": "Sweet Alford",
+   "ssc": null,
+   "ta": 1.41,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589081"
+   ]
+  },
+  "sweet-coppin": {
+   "accession": "Sweet Coppin",
+   "ssc": null,
+   "ta": 1.13,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589688"
+   ]
+  },
+  "tom-putt": {
+   "accession": "Tom Putt",
+   "ssc": null,
+   "ta": 6.37,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 125271"
+   ]
+  },
+  "vista-bella": {
+   "accession": "Vista Bella",
+   "ssc": null,
+   "ta": 8.75,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588819"
+   ]
+  },
+  "white-jersey": {
+   "accession": "White Jersey",
+   "ssc": null,
+   "ta": 2.21,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 175553"
+   ]
+  },
+  "wickson-crab": {
+   "accession": "Wickson",
+   "ssc": null,
+   "ta": 8.69,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613818"
+   ]
+  },
+  "william-crump": {
+   "accession": "William Crump",
+   "ssc": null,
+   "ta": 8.34,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589309"
+   ]
+  },
+  "winesap": {
+   "accession": "Winesap",
+   "ssc": null,
+   "ta": 4.9,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588799"
+   ]
+  },
+  "xuanina": {
+   "accession": "Xuanina",
+   "ssc": null,
+   "ta": 8.71,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 680623"
+   ]
+  },
+  "yellow-bellflower": {
+   "accession": "Yellow Bellflower",
+   "ssc": null,
+   "ta": 6.07,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589195"
+   ]
+  },
+  "zuccalmaglios-renette": {
+   "accession": "Zuccalmaglio",
+   "ssc": null,
+   "ta": 10.89,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589569"
+   ]
+  }
+ }
+}

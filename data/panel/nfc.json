@@ -1,0 +1,4484 @@
+{
+ "_source": {
+  "key": "nfc-ce",
+  "title": "Characterization and Evaluation data from the National Fruit Collection 2025_Apple",
+  "authors": "Ordidge M, Hale P",
+  "year": 2025,
+  "url": "https://doi.org/10.17864/1947.001455",
+  "data_url": "https://researchdata.reading.ac.uk/id/eprint/1455 (NFC_C_E_data_Apple_22_08_25.csv)",
+  "licence": "OGL 3.0",
+  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0 (Crown copyright, Department for Environment, Food & Rural Affairs).",
+  "where": "Brogdale, Faversham, Kent, UK",
+  "method": "Sensory scores recorded by one assessor (P. Hale, Fruit Advisory Services Team) on fruit of one tree per accession, harvested and tasted once at eating maturity (dates given per record), c. 2019-2024, following the ECPGR apple descriptors (Lateur et al. 2022) on 1-9 scales where even numbers are intermediate states. sweet: 1 = extremely low, 3 = low, 5 = intermediate, 7 = high, 9 = extremely high sweetness. acid: 1 = extremely low, 5 = intermediate, 9 = extremely high acidity. balance (acidity/sweetness): 1 = extremely more acid than sweet, 5 = good balance, 9 = extremely more sweet than acid. juice: 1 = extremely low, 5 = intermediate, 9 = extremely high juiciness when chewed. aroma (intensity of aromatic taste, not type): 1 = extremely low, 5 = medium, 9 = extremely high. texture.firm (force to chew): 1 = extremely soft, 5 = intermediate, 9 = extremely firm. texture.crunch (sustained granular resistance while chewing): 1 = extremely low, 5 = intermediate, 9 = extremely high. quality (overall dessert quality, hedonic): 1 = extremely poor, 3 = poor, 5 = good, 7 = very good, 9 = extremely good. Season fields are copied from the collection's descriptions (partly standardised from Smith 1971, National Apple Register): pick = time of harvest maturity; keeps_to = latest month of storage. Where several accessions of one cultivar were scored the scores are averaged (n = accessions averaged, each scored once). Accessions that are sports, spur/compact types, clones with a distinct name or induced tetraploids are excluded; accessions whose MUNQ genotype code disagrees with the cultivar's majority are dropped."
+ },
+ "records": {
+  "akane": {
+   "accession": "Akane",
+   "sweet": 4,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "12/08/2020",
+     "tasted": "12/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1972006"
+  },
+  "allington-pippin": {
+   "accession": "Allington Pippin",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "28/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000016"
+  },
+  "ambassy": {
+   "accession": "Dalili (syn Ambassy)",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 7,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "12/08/2020",
+     "tasted": "12/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1994010"
+  },
+  "american-mother": {
+   "accession": "Mother (Taylor)",
+   "sweet": 3,
+   "acid": 6,
+   "balance": 3,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "31/08/2022",
+     "tasted": "31/08/2022"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1983092"
+  },
+  "aromatic-russet": {
+   "accession": "Aromatic Russet (Scott)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "04/10/2023",
+     "tasted": "08/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1976178"
+  },
+  "autumn-pearmain": {
+   "accession": "Autumn Pearmain",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "07/10/2019",
+     "tasted": "07/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1921019"
+  },
+  "bakers-delicious": {
+   "accession": "Baker's Delicious",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "19/08/2020",
+     "tasted": "19/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1947039"
+  },
+  "baldwin": {
+   "accession": "Baldwin",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "17/10/2022",
+     "tasted": "16/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1921086"
+  },
+  "bardsey": {
+   "accession": "Bardsey Island Apple",
+   "sweet": 8,
+   "acid": 2,
+   "balance": 8,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "11/10/2023",
+     "tasted": "11/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "2003032"
+  },
+  "barnack-orange": {
+   "accession": "Barnack Orange",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "16/10/2023",
+     "tasted": "16/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1925004"
+  },
+  "beauty-of-bath": {
+   "accession": "Beauty of Bath (LA 63A); Beauty of Bath (formerly Tim's Early",
+   "sweet": 5,
+   "acid": 6.5,
+   "balance": 3,
+   "aroma": 4.5,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "04/08/2021",
+     "tasted": "04/08/2021"
+    },
+    {
+     "harvest": "28/07/2021",
+     "tasted": "28/07/2021"
+    }
+   ],
+   "n": 2,
+   "match": "exact",
+   "per_accession": [
+    {
+     "accession": "Beauty of Bath (LA 63A)",
+     "acc_no": "1966146",
+     "munq": "11",
+     "sweet": 6.0,
+     "acid": 7.0,
+     "balance": 3.0,
+     "aroma": 5.0,
+     "firm": 3.0,
+     "crunch": 2.0,
+     "juice": 4.0,
+     "quality": 3.0
+    },
+    {
+     "accession": "Beauty of Bath (formerly Tim's Early",
+     "acc_no": "1976175",
+     "munq": "11",
+     "sweet": 4.0,
+     "acid": 6.0,
+     "balance": 3.0,
+     "aroma": 4.0,
+     "firm": 3.0,
+     "crunch": 2.0,
+     "juice": 4.0,
+     "quality": 3.0
+    }
+   ]
+  },
+  "beauty-of-hants": {
+   "accession": "Beauty of Hants (Myers)",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 4,
+   "aroma": 2,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "25/09/2023",
+     "tasted": "27/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1924054"
+  },
+  "belle-de-boskoop": {
+   "accession": "Belle de Boskoop (LA 67A)(3n)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 5,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "19/10/2020",
+     "tasted": "19/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1973169"
+  },
+  "belle-de-pontoise": {
+   "accession": "Belle de Pontoise",
+   "sweet": 3,
+   "acid": 7,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "19/10/2020",
+     "tasted": "19/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1996017"
+  },
+  "benenden-early": {
+   "accession": "Benenden Early",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 6,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "03/08/2020",
+     "tasted": "03/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1954008"
+  },
+  "beverly-hills": {
+   "accession": "Beverly Hills",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 5,
+   "texture": {
+    "firm": 2,
+    "crunch": 2
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "21/08/2023",
+     "tasted": "23/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1964033"
+  },
+  "bow-hill-pippin": {
+   "accession": "Bow Hill Pippin",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "18/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1957212"
+  },
+  "braddick-nonpareil": {
+   "accession": "Braddick Nonpareil (Scotland)",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 7,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "17/10/2022",
+     "tasted": "19/10/2022"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1967054"
+  },
+  "braeburn": {
+   "accession": "Braeburn",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "07/12/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974357"
+  },
+  "braintree-seedling": {
+   "accession": "Braintree Seedling",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "11/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1954028"
+  },
+  "bramleys-seedling": {
+   "accession": "Bramley's Seedling (LA)(3n)",
+   "sweet": 3,
+   "acid": 8,
+   "balance": 2,
+   "aroma": 5,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "06/10/2021",
+     "tasted": "06/10/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974341"
+  },
+  "calville-daout": {
+   "accession": "Calville d'Aout",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 7,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "15/08/2022",
+     "tasted": "15/08/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1996018"
+  },
+  "caroline": {
+   "accession": "Caroline",
+   "sweet": 6,
+   "acid": 1,
+   "balance": 8,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "09/10/2019",
+     "tasted": "14/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1946108"
+  },
+  "carswells-orange": {
+   "accession": "Carswell's Orange",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 6,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "09/10/2019",
+     "tasted": "09/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1960007"
+  },
+  "cherry-cox": {
+   "accession": "Cherry Cox (Stogden)",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 7,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "28/09/2022",
+     "tasted": "28/09/2022"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1984173"
+  },
+  "christmas-pearmain": {
+   "accession": "Christmas Pearmain",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "28/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000026"
+  },
+  "claygate-pearmain": {
+   "accession": "Claygate Pearmain",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 7,
+    "crunch": 6
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "29/09/2021",
+     "tasted": "03/11/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1941023"
+  },
+  "cockle-pippin": {
+   "accession": "Cockle Pippin",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 7,
+    "crunch": 5
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "23/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000027"
+  },
+  "coeur-de-boeuf": {
+   "accession": "Coeur de Boeuf",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "25/10/2021",
+     "tasted": "01/12/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1947111"
+  },
+  "cornish-aromatic": {
+   "accession": "Cornish Aromatic",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "17/10/2022",
+     "tasted": "19/10/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1920020"
+  },
+  "cornish-gilliflower": {
+   "accession": "Cornish Gilliflower",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "23/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1947116"
+  },
+  "coxs-orange-pippin": {
+   "accession": "Cox's Orange Pippin (LA)",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 6,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "30/09/2020",
+     "tasted": "30/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000008"
+  },
+  "crimson-bramley": {
+   "accession": "Crimson Bramley (3n)",
+   "sweet": 5,
+   "acid": 8,
+   "balance": 2,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 7,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "14/10/2020",
+     "tasted": "14/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1941026"
+  },
+  "crimson-peasgood": {
+   "accession": "Crimson Peasgood",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 5
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "28/09/2022",
+     "tasted": "28/09/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1999075"
+  },
+  "crispin": {
+   "accession": "Mutsu (LA 69A)(3n)",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "30/10/2019",
+     "tasted": "30/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1977140"
+  },
+  "danziger-kantapfel": {
+   "accession": "Danziger Kantapfel",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "20/09/2021",
+     "tasted": "20/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948656"
+  },
+  "darcy-spice": {
+   "accession": "D'Arcy Spice",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 2,
+    "crunch": 2
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "19/12/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1942006"
+  },
+  "decio": {
+   "accession": "Decio",
+   "sweet": 5,
+   "acid": 1,
+   "balance": 8,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "07/12/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1983032"
+  },
+  "delbarestivale": {
+   "accession": "Delcorf",
+   "sweet": 7,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 7,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "20/09/2021",
+     "tasted": "20/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1973103"
+  },
+  "delprim": {
+   "accession": "Delprim",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "12/08/2020",
+     "tasted": "12/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1982193"
+  },
+  "democrat": {
+   "accession": "Democrat",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 6,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "14/10/2019",
+     "tasted": "18/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948744"
+  },
+  "devonshire-quarrenden": {
+   "accession": "Devonshire Quarrenden",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "22/08/2022",
+     "tasted": "22/08/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1957189"
+  },
+  "discovery": {
+   "accession": "Discovery (EMLA 1)",
+   "sweet": 6,
+   "acid": 2,
+   "balance": 8,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 4,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "10/08/2020",
+     "tasted": "10/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1973189"
+  },
+  "duchess-of-bedford": {
+   "accession": "Duchess of Bedford",
+   "sweet": 5,
+   "acid": 7,
+   "balance": 3,
+   "aroma": 7,
+   "texture": {
+    "firm": 2,
+    "crunch": 1
+   },
+   "juice": 3,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "27/07/2022",
+     "tasted": "27/07/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1941009"
+  },
+  "ducks-bill": {
+   "accession": "Duck's Bill",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": null,
+     "tasted": null
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1937010"
+  },
+  "duke-of-devonshire": {
+   "accession": "Duke of Devonshire",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 6,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "11/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000032"
+  },
+  "early-victoria": {
+   "accession": "Emneth Early (LA)",
+   "sweet": 3,
+   "acid": 8,
+   "balance": 1,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "11/08/2021",
+     "tasted": "11/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1975321"
+  },
+  "easter-orange": {
+   "accession": "Easter Orange",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "04/12/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1941007"
+  },
+  "edward-vii": {
+   "accession": "Edward VII",
+   "sweet": 3,
+   "acid": 8,
+   "balance": 2,
+   "aroma": 4,
+   "texture": {
+    "firm": 8,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "28/10/2019",
+     "tasted": "28/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1921015"
+  },
+  "egremont-russet": {
+   "accession": "Egremont Russet (EMLA 1)",
+   "sweet": 4,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 2,
+   "texture": {
+    "firm": 4,
+    "crunch": 2
+   },
+   "juice": 5,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "09/10/2023",
+     "tasted": "09/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979159"
+  },
+  "ellisons-orange": {
+   "accession": "Ellison's Orange (McCarroll)",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "09/10/2019",
+     "tasted": "09/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1982046"
+  },
+  "emperor-alexander": {
+   "accession": "Alexander",
+   "sweet": 2,
+   "acid": 5,
+   "balance": 3,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 3,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "14/08/2023",
+     "tasted": "16/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1999072"
+  },
+  "empire": {
+   "accession": "Empire",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "02/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1962041"
+  },
+  "fall-pippin": {
+   "accession": "Fall Pippin",
+   "sweet": 3,
+   "acid": 5,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "21/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948638"
+  },
+  "falstaff": {
+   "accession": "Falstaff",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "28/09/2020",
+     "tasted": "04/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1972184"
+  },
+  "francis": {
+   "accession": "Francis (Thorrington)",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 8,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "27/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1925031"
+  },
+  "freedom": {
+   "accession": "Freedom (USA)",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "28/10/2019",
+     "tasted": "28/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1984148"
+  },
+  "fuji": {
+   "accession": "Fuji",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 8,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "18/10/2021",
+     "tasted": "13/12/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1963019"
+  },
+  "gala": {
+   "accession": "Gala (LA 69A)",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "23/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976144"
+  },
+  "gascoynes-scarlet": {
+   "accession": "Gascoyne's Scarlet",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "23/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1957181"
+  },
+  "gavin": {
+   "accession": "Gavin",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "25/09/2023",
+     "tasted": "25/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1969029"
+  },
+  "george-cave": {
+   "accession": "George Cave (LA 70A); George Cave (NFT)",
+   "sweet": 5.5,
+   "acid": 5,
+   "balance": 4.5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3.5
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "31/07/2023",
+     "tasted": "03/08/2023"
+    },
+    {
+     "harvest": "03/08/2022",
+     "tasted": "03/08/2022"
+    }
+   ],
+   "n": 2,
+   "match": "exact",
+   "per_accession": [
+    {
+     "accession": "George Cave (LA 70A)",
+     "acc_no": "1979160",
+     "munq": "280",
+     "sweet": 5.0,
+     "acid": 6.0,
+     "balance": 3.0,
+     "aroma": 3.0,
+     "firm": 2.0,
+     "crunch": 2.0,
+     "juice": 4.0,
+     "quality": 4.0
+    },
+    {
+     "accession": "George Cave (NFT)",
+     "acc_no": "1940014",
+     "munq": "280",
+     "sweet": 6.0,
+     "acid": 4.0,
+     "balance": 6.0,
+     "aroma": 5.0,
+     "firm": 4.0,
+     "crunch": 5.0,
+     "juice": 4.0,
+     "quality": 4.0
+    }
+   ]
+  },
+  "george-neal": {
+   "accession": "George Neal",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 2,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "01/09/2021",
+     "tasted": "01/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1924033"
+  },
+  "gladstone": {
+   "accession": "Gladstone",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 3,
+   "aroma": 5,
+   "texture": {
+    "firm": 2,
+    "crunch": 1
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "28/07/2021",
+     "tasted": "28/07/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000036"
+  },
+  "gloster": {
+   "accession": "Gloster 69",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "17/10/2022",
+     "tasted": "07/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1968067"
+  },
+  "golden-bounty": {
+   "accession": "Golden Bounty",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "18/09/2023",
+     "tasted": "18/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1961041"
+  },
+  "golden-delicious": {
+   "accession": "Golden Delicious (EMLA 1)",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 6,
+    "crunch": 6
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "30/09/2020",
+     "tasted": "30/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979162"
+  },
+  "golden-russet": {
+   "accession": "Golden Russet of Western New York",
+   "sweet": 7,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "02/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1952120"
+  },
+  "granny-smith": {
+   "accession": "Granny Smith (LA 73A)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 7,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "16/10/2019",
+     "tasted": "04/12/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976145"
+  },
+  "greensleeves": {
+   "accession": "Greensleeves",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "18/09/2023",
+     "tasted": "18/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1980077"
+  },
+  "gyllenkroks-astrakan": {
+   "accession": "Gyllenkroks Astrakan",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "26/07/2021",
+     "tasted": "26/07/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1927019"
+  },
+  "hawthornden": {
+   "accession": "Hawthornden",
+   "sweet": 3,
+   "acid": 8,
+   "balance": 2,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 5,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "01/09/2021",
+     "tasted": "01/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1999078"
+  },
+  "herrings-pippin": {
+   "accession": "Herring's Pippin",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "22/09/2021",
+     "tasted": "22/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1921011"
+  },
+  "idared": {
+   "accession": "Idared (LA)",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "14/10/2019",
+     "tasted": "25/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976146"
+  },
+  "ingrid-marie": {
+   "accession": "Ingrid Marie",
+   "sweet": 4,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 6,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "07/10/2019",
+     "tasted": "14/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1968017"
+  },
+  "irish-peach": {
+   "accession": "Irish Peach",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "31/07/2023",
+     "tasted": "31/07/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000051"
+  },
+  "james-grieve": {
+   "accession": "James Grieve (LA)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 7,
+    "crunch": 6
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "18/09/2019",
+     "tasted": "23/09/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974349"
+  },
+  "jester": {
+   "accession": "Jester",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 2,
+    "crunch": 2
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "30/09/2020",
+     "tasted": "02/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1981058"
+  },
+  "jonagold": {
+   "accession": "Jonagold (EMLA)",
+   "sweet": 6,
+   "acid": 2,
+   "balance": 8,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "23/10/2023",
+     "tasted": "23/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000113"
+  },
+  "jonathan": {
+   "accession": "Jonathan (EMLA)",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "14/10/2019",
+     "tasted": "04/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979164"
+  },
+  "jupiter": {
+   "accession": "Jupiter",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 7,
+    "crunch": 6
+   },
+   "juice": 7,
+   "quality": 7,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "05/10/2020",
+     "tasted": "05/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1972191"
+  },
+  "kaiser-wilhelm": {
+   "accession": "Kaiser Wilhelm",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "10/10/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1958062"
+  },
+  "kanzi": {
+   "accession": "Nicoter",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "09/10/2023",
+     "tasted": "25/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "2004077"
+  },
+  "kent": {
+   "accession": "Kent; Kent (NFT 1)",
+   "sweet": 7,
+   "acid": 3.5,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4.5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "11/10/2021",
+     "tasted": "24/11/2021"
+    },
+    {
+     "harvest": "11/10/2023",
+     "tasted": "20/12/2023"
+    }
+   ],
+   "n": 2,
+   "match": "exact",
+   "per_accession": [
+    {
+     "accession": "Kent",
+     "acc_no": "1964031",
+     "munq": "346",
+     "sweet": 7.0,
+     "acid": 2.0,
+     "balance": 8.0,
+     "aroma": 5.0,
+     "firm": 5.0,
+     "crunch": 5.0,
+     "juice": 5.0,
+     "quality": 5.0
+    },
+    {
+     "accession": "Kent (NFT 1)",
+     "acc_no": "2000011",
+     "munq": "346",
+     "sweet": 7.0,
+     "acid": 5.0,
+     "balance": 6.0,
+     "aroma": 5.0,
+     "firm": 3.0,
+     "crunch": 4.0,
+     "juice": 5.0,
+     "quality": 5.0
+    }
+   ]
+  },
+  "kentish-fillbasket": {
+   "accession": "Kentish Fillbasket",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "20/09/2023",
+     "tasted": "20/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1939019"
+  },
+  "kentish-quarrenden": {
+   "accession": "Kentish Quarrenden",
+   "sweet": 6,
+   "acid": 1,
+   "balance": 8,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "21/10/2021",
+     "tasted": "21/10/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000052"
+  },
+  "kerry-pippin": {
+   "accession": "Kerry Pippin",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 4,
+   "aroma": 2,
+   "texture": {
+    "firm": 7,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "12/08/2020",
+     "tasted": "12/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1907004"
+  },
+  "king-of-the-pippins": {
+   "accession": "King of the Pippins",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "09/10/2019",
+     "tasted": "14/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1957218"
+  },
+  "kronprinz-rudolf": {
+   "accession": "Kronprinz Rudolf",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "05/10/2020",
+     "tasted": "09/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1951186"
+  },
+  "lady-henniker": {
+   "accession": "Lady Henniker",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "22/09/2021",
+     "tasted": "27/10/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000056"
+  },
+  "lady-of-wemyss": {
+   "accession": "Lady of the Wemyss",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "20/09/2023",
+     "tasted": "20/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1949286"
+  },
+  "lady-sudeley": {
+   "accession": "Lady Sudeley",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "25/08/2021",
+     "tasted": "25/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1941029"
+  },
+  "lady-williams": {
+   "accession": "Lady Williams",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 7,
+    "crunch": 6
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid November",
+   "keeps_to": "May",
+   "assessed": [
+    {
+     "harvest": "12/10/2020",
+     "tasted": "30/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1978136"
+  },
+  "landsberger-reinette": {
+   "accession": "Landsberger Reinette",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 2,
+    "crunch": 2
+   },
+   "juice": 6,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "11/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000057"
+  },
+  "laxtons-epicure": {
+   "accession": "Epicure (LA 65A)",
+   "sweet": 6,
+   "acid": 2,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "13/09/2021",
+     "tasted": "13/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "2006013"
+  },
+  "leathercoat-russet": {
+   "accession": "Leathercoat Russet",
+   "sweet": 6,
+   "acid": 7,
+   "balance": 3,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "07/10/2020",
+     "tasted": "09/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1949275"
+  },
+  "liberty": {
+   "accession": "Liberty",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "28/10/2019",
+     "tasted": "28/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1984076"
+  },
+  "limelight": {
+   "accession": "Limelight",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 6
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "21/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000151"
+  },
+  "lobo": {
+   "accession": "Lobo (LA 72A)",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 3,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "02/10/2019",
+     "tasted": "02/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979171"
+  },
+  "lodgemore-nonpareil": {
+   "accession": "Lodgemore Nonpareil (Hoff)",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 8,
+    "crunch": 7
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "14/10/2019",
+     "tasted": "21/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1962033"
+  },
+  "lodi": {
+   "accession": "Lodi (LA 72A)",
+   "sweet": 5,
+   "acid": 9,
+   "balance": 1,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Late July",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "11/08/2021",
+     "tasted": "11/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979172"
+  },
+  "lord-hindlip": {
+   "accession": "Lord Hindlip",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "11/10/2021",
+     "tasted": "11/10/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1957176"
+  },
+  "lord-lambourne": {
+   "accession": "Lord Lambourne (EMLA 1)",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 4,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "21/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979173"
+  },
+  "lord-suffield": {
+   "accession": "Lord Suffield",
+   "sweet": 2,
+   "acid": 8,
+   "balance": 2,
+   "aroma": 2,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "14/08/2023",
+     "tasted": "16/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000063"
+  },
+  "macoun": {
+   "accession": "Macoun",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "05/10/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1929040"
+  },
+  "maidstone-favourite": {
+   "accession": "Maidstone Favourite",
+   "sweet": 4,
+   "acid": 1,
+   "balance": 7,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 3,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "31/07/2023",
+     "tasted": "31/07/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1924001"
+  },
+  "maigold": {
+   "accession": "Maigold",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 7,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "11/10/2021",
+     "tasted": "03/11/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1971036"
+  },
+  "manks-codlin": {
+   "accession": "Manks Codlin",
+   "sweet": 4,
+   "acid": 7,
+   "balance": 3,
+   "aroma": 1,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "14/08/2023",
+     "tasted": "16/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000064"
+  },
+  "mcintosh-red": {
+   "accession": "McIntosh (LA)",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "30/09/2020",
+     "tasted": "30/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "2006014"
+  },
+  "melba": {
+   "accession": "Melba",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "07/08/2023",
+     "tasted": "08/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1925021"
+  },
+  "melrose": {
+   "accession": "Melrose (2)",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "16/10/2023",
+     "tasted": "16/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1952019"
+  },
+  "meridian": {
+   "accession": "Meridian",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "27/09/2023",
+     "tasted": "25/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000003"
+  },
+  "merton-russet": {
+   "accession": "Merton Russet",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "07/10/2020",
+     "tasted": "07/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1935002"
+  },
+  "michaelmas-red": {
+   "accession": "Tydeman's Michaelmas Red",
+   "sweet": 6,
+   "acid": 1,
+   "balance": 7,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "26/09/2022",
+     "tasted": "26/09/2022"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1943016"
+  },
+  "millers-seedling": {
+   "accession": "Miller's Seedling (LA 69A)",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "21/08/2023",
+     "tasted": "23/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979177"
+  },
+  "mollies-delicious": {
+   "accession": "Mollie's Delicious",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "15/09/2021",
+     "tasted": "15/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1971051"
+  },
+  "newtown-pippin": {
+   "accession": "Newtown Pippin",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 6,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "11/10/2021",
+     "tasted": "04/01/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1963025"
+  },
+  "nonpareil": {
+   "accession": "Nonpareil",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "14/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000072"
+  },
+  "norfolk-beefing": {
+   "accession": "Norfolk Beefing",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 3,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "23/10/2023",
+     "tasted": "06/12/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000074"
+  },
+  "norfolk-royal-russet": {
+   "accession": "Norfolk Royal Russet",
+   "sweet": 4,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "14/10/2019",
+     "tasted": "16/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1973048"
+  },
+  "opal": {
+   "accession": "Opal (Seabrook)",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "11/09/2023",
+     "tasted": "11/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "probable",
+   "acc_no": "1936027"
+  },
+  "opalescent": {
+   "accession": "Opalescent",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "November",
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "21/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1927028"
+  },
+  "orin": {
+   "accession": "Orin",
+   "sweet": 7,
+   "acid": 1,
+   "balance": 8,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "16/10/2023",
+     "tasted": "11/12/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1981117"
+  },
+  "oxford-conquest": {
+   "accession": "Oxford Conquest",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "16/10/2019",
+     "tasted": "20/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1945059"
+  },
+  "palmers-rosey": {
+   "accession": "Palmer's Rosey",
+   "sweet": 5,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 6,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "10/08/2020",
+     "tasted": "10/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1965001"
+  },
+  "patte-de-loup": {
+   "accession": "Patte de Loup",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "16/10/2023",
+     "tasted": "29/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948204"
+  },
+  "pecks-pleasant": {
+   "accession": "Peck's Pleasant",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "09/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000076"
+  },
+  "pepin-shafranny": {
+   "accession": "Pepin Shafrannyi",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "21/08/2023",
+     "tasted": "21/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1975006"
+  },
+  "pilot": {
+   "accession": "Pilot",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 5,
+    "crunch": 6
+   },
+   "juice": 7,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "21/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1994016"
+  },
+  "pinova": {
+   "accession": "Pinova",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "25/09/2023",
+     "tasted": "01/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1994015"
+  },
+  "pixie": {
+   "accession": "Pixie",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 7,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "21/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1978320"
+  },
+  "prairie-spy": {
+   "accession": "Prairie Spy",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "30/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1951062"
+  },
+  "priscilla": {
+   "accession": "Priscilla",
+   "sweet": 7,
+   "acid": 2,
+   "balance": 8,
+   "aroma": 3,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "05/10/2022",
+     "tasted": "26/10/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974179"
+  },
+  "queen-cox": {
+   "accession": "Queen Cox (LA 68A)",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 6,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 7,
+   "quality": 7,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "30/09/2020",
+     "tasted": "30/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976148"
+  },
+  "ralls-janet": {
+   "accession": "Ralls Janet",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "May",
+   "assessed": [
+    {
+     "harvest": "07/10/2020",
+     "tasted": "23/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1953133"
+  },
+  "red-astrachan": {
+   "accession": "Red Astrachan",
+   "sweet": 5,
+   "acid": 7,
+   "balance": 2,
+   "aroma": 4,
+   "texture": {
+    "firm": 1,
+    "crunch": 1
+   },
+   "juice": 4,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Early August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "09/08/2021",
+     "tasted": "09/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1999084"
+  },
+  "red-windsor": {
+   "accession": "Red Alkmene",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "11/09/2023",
+     "tasted": "11/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "2000115"
+  },
+  "redfree": {
+   "accession": "Redfree",
+   "sweet": 3,
+   "acid": 3,
+   "balance": 5,
+   "aroma": 2,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "11/09/2023",
+     "tasted": "11/09/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1983052"
+  },
+  "reinette-clochard": {
+   "accession": "Reinette Clochard",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "16/10/2019",
+     "tasted": "18/11/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948236"
+  },
+  "reinette-grise-du-canada": {
+   "accession": "Reinette Grise du Canada (3n)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "11/10/2021",
+     "tasted": "04/01/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1956065"
+  },
+  "rome-beauty": {
+   "accession": "Rome Beauty",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "12/10/2020",
+     "tasted": "25/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1943007"
+  },
+  "rosemary-russet": {
+   "accession": "Rosemary Russet (LA 65A)",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "27/09/2023",
+     "tasted": "27/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1973143"
+  },
+  "roxbury-russet": {
+   "accession": "Roxbury Russet",
+   "sweet": 4,
+   "acid": 5,
+   "balance": 3,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 3,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "18/10/2021",
+     "tasted": "10/01/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1952111"
+  },
+  "royal-gala": {
+   "accession": "Tenroy (Royal Gala)",
+   "sweet": 5,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "23/10/2019",
+     "tasted": "23/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1979047"
+  },
+  "rubinette": {
+   "accession": "Rafzubin",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "07/09/2020",
+     "tasted": "14/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1988015"
+  },
+  "santana": {
+   "accession": "Santana",
+   "sweet": 7,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 7,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "23/09/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000110"
+  },
+  "saturn": {
+   "accession": "Saturn",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 8,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "21/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1997023"
+  },
+  "scrumptious": {
+   "accession": "Scrumptious",
+   "sweet": 6,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 4,
+   "texture": {
+    "firm": 6,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 6,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "24/08/2022",
+     "tasted": "24/08/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000001"
+  },
+  "sheeps-nose": {
+   "accession": "Sheep's Nose",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "12/10/2020",
+     "tasted": "14/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1951003"
+  },
+  "sir-prize": {
+   "accession": "Sir Prize",
+   "sweet": 5,
+   "acid": 7,
+   "balance": 3,
+   "aroma": 5,
+   "texture": {
+    "firm": 2,
+    "crunch": 4
+   },
+   "juice": 8,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "02/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974180"
+  },
+  "spartan": {
+   "accession": "Spartan (LA)",
+   "sweet": 8,
+   "acid": 1,
+   "balance": 8,
+   "aroma": 2,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "23/10/2023",
+     "tasted": "13/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974351"
+  },
+  "st-edmunds-pippin": {
+   "accession": "Saint Edmund's Pippin (LA 73A)",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "09/10/2023",
+     "tasted": "09/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1977161"
+  },
+  "stayman-winesap": {
+   "accession": "Stayman's Winesap",
+   "sweet": 7,
+   "acid": 2,
+   "balance": 8,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "07/10/2020",
+     "tasted": "16/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1951103"
+  },
+  "sturmer-pippin": {
+   "accession": "Sturmer Pippin",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "12/10/2020",
+     "tasted": "30/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000091"
+  },
+  "sunrise": {
+   "accession": "Sunrise (Canada)",
+   "sweet": 7,
+   "acid": 3,
+   "balance": 7,
+   "aroma": 3,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "24/08/2020",
+     "tasted": "24/08/2020"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1999032"
+  },
+  "sunset": {
+   "accession": "Sunset (LA 74A)",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 6,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 3,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Late September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "23/09/2019",
+     "tasted": "23/09/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979190"
+  },
+  "suntan": {
+   "accession": "Suntan (3n)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "02/10/2023",
+     "tasted": "01/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1980084"
+  },
+  "sweet-sixteen": {
+   "accession": "Sweet Sixteen",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 5
+   },
+   "juice": 6,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "28/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976004"
+  },
+  "telstar": {
+   "accession": "Telstar",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 8,
+   "aroma": 4,
+   "texture": {
+    "firm": 5,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "02/10/2023",
+     "tasted": "02/10/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1961068"
+  },
+  "topaz": {
+   "accession": "Topaz",
+   "sweet": 6,
+   "acid": 4,
+   "balance": 6,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 3,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "21/09/2020",
+     "tasted": "28/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948737"
+  },
+  "transparente-de-croncels": {
+   "accession": "Transparente de Croncels",
+   "sweet": 3,
+   "acid": 6,
+   "balance": 3,
+   "aroma": 3,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 4,
+   "quality": 3,
+   "flavour_words": [],
+   "pick": "Early September",
+   "keeps_to": "October",
+   "assessed": [
+    {
+     "harvest": "14/08/2023",
+     "tasted": "16/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948683"
+  },
+  "tropical-beauty": {
+   "accession": "Tropical Beauty",
+   "sweet": 4,
+   "acid": 1,
+   "balance": 7,
+   "aroma": 5,
+   "texture": {
+    "firm": 2,
+    "crunch": 2
+   },
+   "juice": 3,
+   "quality": 2,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "January",
+   "assessed": [
+    {
+     "harvest": "04/10/2023",
+     "tasted": "27/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1961087"
+  },
+  "tydemans-early-worcester": {
+   "accession": "Tydeman's Early Worcester",
+   "sweet": 5,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 7,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 7,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "01/09/2021",
+     "tasted": "01/09/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2006011"
+  },
+  "tydemans-late-orange": {
+   "accession": "Tydeman's Late Orange (EMLA 1)",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "10/10/2022",
+     "tasted": "21/11/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1979191"
+  },
+  "vista-bella": {
+   "accession": "Vista Bella",
+   "sweet": 4,
+   "acid": 4,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 2
+   },
+   "juice": 7,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid August",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "09/08/2021",
+     "tasted": "09/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1971048"
+  },
+  "wealthy": {
+   "accession": "Wealthy",
+   "sweet": 4,
+   "acid": 4,
+   "balance": 4,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Mid September",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "07/10/2019",
+     "tasted": "14/10/2019"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000098"
+  },
+  "westfield-seek-no-further": {
+   "accession": "Westfield Seek-no-Further",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 6,
+   "aroma": 3,
+   "texture": {
+    "firm": 8,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "December",
+   "assessed": [
+    {
+     "harvest": "23/09/2020",
+     "tasted": "28/10/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1948182"
+  },
+  "wheelers-russet": {
+   "accession": "Wheeler's Russet",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "11/10/2023",
+     "tasted": "27/11/2023"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1944001"
+  },
+  "white-transparent": {
+   "accession": "White Transparent",
+   "sweet": 4,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 7,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late July",
+   "keeps_to": "August",
+   "assessed": [
+    {
+     "harvest": "11/08/2021",
+     "tasted": "11/08/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000096"
+  },
+  "william-crump": {
+   "accession": "William Crump",
+   "sweet": 6,
+   "acid": 6,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 4,
+    "crunch": 6
+   },
+   "juice": 6,
+   "quality": 7,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "18/10/2021",
+     "tasted": "24/11/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1915102"
+  },
+  "winston": {
+   "accession": "Winston (LA)",
+   "sweet": 5,
+   "acid": 6,
+   "balance": 4,
+   "aroma": 3,
+   "texture": {
+    "firm": 6,
+    "crunch": 5
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "April",
+   "assessed": [
+    {
+     "harvest": "18/10/2021",
+     "tasted": "08/12/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1974410"
+  },
+  "winter-banana": {
+   "accession": "Winter Banana",
+   "sweet": 7,
+   "acid": 4,
+   "balance": 7,
+   "aroma": 4,
+   "texture": {
+    "firm": 4,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Early October",
+   "keeps_to": "March",
+   "assessed": [
+    {
+     "harvest": "05/10/2020",
+     "tasted": "18/11/2020"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1921094"
+  },
+  "worcester-pearmain": {
+   "accession": "Worcester Pearmain (LA)",
+   "sweet": 5,
+   "acid": 2,
+   "balance": 7,
+   "aroma": 4,
+   "texture": {
+    "firm": 5,
+    "crunch": 4
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": null,
+   "keeps_to": null,
+   "assessed": [
+    {
+     "harvest": "26/09/2022",
+     "tasted": "28/09/2022"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "1976151"
+  },
+  "wyken-pippin": {
+   "accession": "Wyken Pippin",
+   "sweet": 7,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 5,
+   "texture": {
+    "firm": 3,
+    "crunch": 3
+   },
+   "juice": 5,
+   "quality": 5,
+   "flavour_words": [],
+   "pick": "Mid October",
+   "keeps_to": "February",
+   "assessed": [
+    {
+     "harvest": "18/10/2021",
+     "tasted": "22/11/2021"
+    }
+   ],
+   "n": 1,
+   "match": "exact",
+   "acc_no": "2000101"
+  },
+  "yellow-ingestrie": {
+   "accession": "Summer Golden Pippin",
+   "sweet": 6,
+   "acid": 5,
+   "balance": 5,
+   "aroma": 4,
+   "texture": {
+    "firm": 3,
+    "crunch": 4
+   },
+   "juice": 6,
+   "quality": 4,
+   "flavour_words": [],
+   "pick": "Late August",
+   "keeps_to": "September",
+   "assessed": [
+    {
+     "harvest": "21/08/2023",
+     "tasted": "23/08/2023"
+    }
+   ],
+   "n": 1,
+   "match": "synonym",
+   "acc_no": "1930020"
+  }
+ }
+}

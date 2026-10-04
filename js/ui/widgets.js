@@ -1,5 +1,5 @@
 // Small reusable visual pieces: procedural apple portraits, bars, radar, timelines, score rings.
-import { esc, eatingMonths, tagLabel, isFav } from '../data.js';
+import { esc, eatingMonths, tagLabel, isFav, LEVEL, S } from '../data.js';
 
 const GROUND = { green: '#86ae4a', 'yellow-green': '#b4c357', yellow: '#e6d15a', gold: '#e2b03d', cream: '#eee2b4' };
 const BLUSH = { pink: '#e8909c', orange: '#ec9a4c', 'orange-red': '#d8552f', red: '#c0302c', 'deep-red': '#8e1d24', crimson: '#a2133b', purple: '#6c2f58', brown: '#8d5632' };
@@ -116,6 +116,14 @@ export function seasonTimeline(v) {
   <div class="legend"><span><i style="background:var(--accent)"></i>Picked ${esc(v.season.harvest || '?')}</span><span><i style="background:var(--leaf)"></i>Best eaten ${esc(v.season.eating || '?')}</span></div>`;
 }
 
+/** Taste chips with the number of independent sources behind each tag (taste.support), and the vocabulary definition as a tooltip. */
+export function evChips(t) {
+  const sup = t.support || {}, voc = (S.flavour && S.flavour.vocab && S.flavour.vocab.tags) || {};
+  return (t.tags || []).map(tg => {
+    const n = sup[tg] ?? 0, [lvl, why] = LEVEL(n), d = voc[tg] && voc[tg].definition;
+    return `<span class="chip flav ev-${lvl}" title="${esc((d ? d + ' — ' : '') + why)}">${esc(tagLabel(tg))}${n ? `<sup>${n}</sup>` : ''}</span>`;
+  }).join('');
+}
 export function chips(tags, cls = 'flav') { return (tags || []).map(t => `<span class="chip ${cls}">${esc(tagLabel(t))}</span>`).join(''); }
 export function usesBadges(v) { return v.uses.map(u => `<span class="badge ${u}">${u}</span>`).join(''); }
 export function favBtn(id) {

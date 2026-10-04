@@ -6,6 +6,7 @@ import { renderRootstocks, renderRootstock } from './ui/rootstocks.js';
 import { renderMap, cleanup as cleanupMap } from './ui/map.js';
 import { renderFavourites } from './ui/favourites.js';
 import { renderGuide } from './ui/guide.js';
+import { renderFlavour } from './ui/flavour.js';
 
 const app = document.getElementById('app');
 
@@ -50,6 +51,7 @@ async function route() {
     else if (a === 'r') { renderRootstock(app, b); nav = 'rootstocks'; const r = S.rsById.get(b); if (r) title = r.name + ' rootstock — Pomography'; }
     else if (a === 'map') { renderMap(app, b, params); nav = 'map'; title = 'World map — Pomography'; }
     else if (a === 'favourites') { renderFavourites(app); nav = 'favourites'; title = 'Favourites — Pomography'; }
+    else if (a === 'flavour') { renderFlavour(app); nav = 'flavour'; title = 'Flavour — Pomography'; }
     else if (a === 'guide') { renderGuide(app); nav = 'guide'; title = 'Guide — Pomography'; }
     else app.innerHTML = '<div class="empty"><h2>Page not found</h2><p><a href="#/">Home</a></p></div>';
   } catch (err) {

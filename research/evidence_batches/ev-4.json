@@ -1,0 +1,1252 @@
+[
+ {
+  "id": "ambassy",
+  "name": "Ambassy",
+  "aka": [
+   "Dalili"
+  ],
+  "country": "FR",
+  "year": 1994,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "strawberry",
+   "pear"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Sweet, crisp and juicy, with enough acidity to taste fresher than its Golden Delicious parent. Tasters of the Delcorf family pick out light strawberry and pear hints; the cream flesh bruises easily but stays crisp for a couple of weeks.",
+  "best_eaten": "Late Aug-Sep, within two to three weeks of picking"
+ },
+ {
+  "id": "annurca",
+  "name": "Annurca",
+  "aka": [
+   "Anurka",
+   "Mela Annurca",
+   "Melannurca Campana"
+  ],
+  "country": "IT",
+  "year": 1845,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "perfumed"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Firm, very crunchy white flesh with a lively balance of sugar and acidity and a pleasant fragrance. The traditional post-harvest sunning deepens the colour and rounds off the sharpness, and the fruit stays crisp for months in store.",
+  "best_eaten": "Nov-Mar, after the fruit has been reddened"
+ },
+ {
+  "id": "aromatic-russet",
+  "name": "Aromatic Russet",
+  "aka": [
+   "Rook's Nest",
+   "Spice Apple"
+  ],
+  "country": "GB",
+  "year": 1850,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sharp",
+   "lemon"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Firm, greenish-white flesh with a rich, high-quality russet flavour that is noticeably sharper than Egremont Russet and sometimes carries a hint of lemon.",
+  "best_eaten": null
+ },
+ {
+  "id": "baldwin",
+  "name": "Baldwin",
+  "aka": [
+   "Woodpecker",
+   "Butters"
+  ],
+  "country": "US",
+  "year": 1740,
+  "uses": [
+   "dessert",
+   "culinary",
+   "cider"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Very hard, crisp, juicy flesh with a straightforward sweet flavour backed by a mild tartness; growers prize its firm texture more than any complexity. It holds its shape in pies, keeps three months or more and was long the classic New England cider apple.",
+  "best_eaten": "Nov-Mar"
+ },
+ {
+  "id": "beauty-of-hants",
+  "name": "Beauty of Hants",
+  "aka": [
+   "Ofine Seedling"
+  ],
+  "country": "GB",
+  "year": 1850,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [],
+  "sweet": 3,
+  "acid": 2,
+  "summary": "Soft, juicy, yellowish flesh with a pleasant flavour that recalls Blenheim Orange, though juicier and less dry.",
+  "best_eaten": null
+ },
+ {
+  "id": "bens-red",
+  "name": "Ben's Red",
+  "aka": [],
+  "country": "GB",
+  "year": 1830,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Sweet and pleasant, with firm, crisp, rather dry flesh that can be slightly coarse. An early eating apple best enjoyed fresh from the tree.",
+  "best_eaten": "Sep-Oct, soon after picking"
+ },
+ {
+  "id": "black-twig",
+  "name": "Black Twig",
+  "aka": [
+   "Paragon"
+  ],
+  "country": "US",
+  "year": 1830,
+  "uses": [
+   "dessert",
+   "culinary",
+   "cider"
+  ],
+  "tags": [
+   "sharp",
+   "spice",
+   "wine"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Very firm, crisp flesh that is tart and spicy at harvest, rather like a sharper Winesap; it mellows and becomes richer after a couple of months in store. Valued for cider and cooking as well as winter eating.",
+  "best_eaten": "Jan-Mar, after storage"
+ },
+ {
+  "id": "bow-hill-pippin",
+  "name": "Bow Hill Pippin",
+  "aka": [
+   "Bowhill Pippin",
+   "Bow Hill"
+  ],
+  "country": "GB",
+  "year": 1893,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": null,
+  "summary": "Firm, rather coarse but juicy yellowish flesh with a sweet, aromatic flavour. Little detailed modern tasting information is available.",
+  "best_eaten": null
+ },
+ {
+  "id": "brown-snout",
+  "name": "Brown Snout",
+  "aka": [],
+  "country": "GB",
+  "year": 1850,
+  "uses": [
+   "cider"
+  ],
+  "tags": [
+   "sweet",
+   "astringent"
+  ],
+  "sweet": 3,
+  "acid": 1,
+  "summary": "A mild-to-medium bittersweet: low acid with moderate tannin and firm flesh, making a soft, mellow cider.",
+  "best_eaten": "Not for eating; mill Nov-Dec."
+ },
+ {
+  "id": "cameo",
+  "name": "Cameo",
+  "aka": [],
+  "country": "US",
+  "year": 1987,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "pear",
+   "mild"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Dense, crisp and juicy, balancing sweetness with light tartness and a hint of pear. Orange Pippin's own note calls the flavour fairly bland, but many growers disagree, and individual tasters report strawberry or fresh-pineapple notes. It sweetens over a week or two of storage, browns slowly when cut and keeps its crunch for months in the fridge.",
+  "best_eaten": "Oct-Feb; better after 1-2 weeks in store"
+ },
+ {
+  "id": "chelmsford-wonder",
+  "name": "Chelmsford Wonder",
+  "aka": [
+   "Merveille de Chelmsford"
+  ],
+  "country": "GB",
+  "year": 1870,
+  "uses": [
+   "culinary"
+  ],
+  "tags": [],
+  "sweet": 2,
+  "acid": 3,
+  "summary": "Firm, fine-grained and juicy flesh with a moderate, clean acidity. A late-keeping cooker that holds well in store.",
+  "best_eaten": "Nov-Feb"
+ },
+ {
+  "id": "claygate-pearmain",
+  "name": "Claygate Pearmain",
+  "aka": [
+   "Ribston Pearmain",
+   "Mason's Ribston Pearmain"
+  ],
+  "country": "GB",
+  "year": 1821,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "nutty",
+   "pineapple",
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Fairly soft, juicy cream flesh with a rich, aromatic, nutty flavour in the style of Ribston Pippin. Quite tart straight off the tree, it sweetens and deepens after about a month in store, when tasters report tropical, pineapple-like notes. Keeps a month or two.",
+  "best_eaten": "Dec-Feb"
+ },
+ {
+  "id": "cosmic-crisp",
+  "name": "Cosmic Crisp",
+  "aka": [
+   "WA 38"
+  ],
+  "country": "US",
+  "year": 1997,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 4,
+  "acid": 4,
+  "summary": "Very crisp, firm and juicy with a bright sweet-tart balance; many tasters find the flavour straightforward rather than complex, something like a milder Honeycrisp. The flesh browns slowly and the crunch lasts for months, but fruit held very long in store can turn bland and lose its tartness.",
+  "best_eaten": "Nov-Apr"
+ },
+ {
+  "id": "crimson-bramley",
+  "name": "Crimson Bramley",
+  "aka": [
+   "Red Bramley",
+   "Bramley's Seedling Red"
+  ],
+  "country": "GB",
+  "year": 1913,
+  "uses": [
+   "culinary"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 1,
+  "acid": 5,
+  "summary": "As Bramley's Seedling: firm, coarse, juicy and strongly acid, cooking to a fluffy, tangy purée.",
+  "best_eaten": "Nov-Mar"
+ },
+ {
+  "id": "danziger-kantapfel",
+  "name": "Danziger Kantapfel",
+  "aka": [
+   "Calville de Danzig",
+   "Roter Kardinal",
+   "Erdbeerapfel",
+   "Himbeerapfel",
+   "Nikolausapfel"
+  ],
+  "country": null,
+  "year": 1703,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be veined with green and red. Pleasant fresh in autumn and useful in the kitchen; picked at the end of September, it is usable from mid-October until about January.",
+  "best_eaten": "mid Oct-Jan"
+ },
+ {
+  "id": "discovery",
+  "name": "Discovery",
+  "aka": [
+   "Thurston August"
+  ],
+  "country": "GB",
+  "year": 1949,
+  "uses": [
+   "dessert",
+   "juice"
+  ],
+  "tags": [
+   "sharp",
+   "strawberry",
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Crisp, juicy and fine-textured, more acidic than sweet with a fresh, tangy finish but little depth; a hint of strawberry appears in some years. Best eaten straight from the tree: flavour drops off within about a week and the flesh soon turns woolly, though chilling slows this. Many growers rate it more highly than the official tasting note does.",
+  "best_eaten": "Mid Aug-early Sep; holds a week or two, longer in the fridge"
+ },
+ {
+  "id": "ducks-bill",
+  "name": "Duck's Bill",
+  "aka": [],
+  "country": "GB",
+  "year": 1937,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": null,
+  "summary": "Firm white flesh with a rich, sweet flavour and a rather chewy bite; a dessert apple for November and December. Acidity and aroma are not recorded in the sources checked.",
+  "best_eaten": null
+ },
+ {
+  "id": "easter-orange",
+  "name": "Easter Orange",
+  "aka": [],
+  "country": "GB",
+  "year": 1897,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "perfumed",
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": null,
+  "summary": "Firm, deep cream flesh with a rather chewy texture and an intensely aromatic flavour that develops in store. A good keeper for eating from December into early spring.",
+  "best_eaten": "Dec-Mar; reputedly keeps towards Easter, hence the name"
+ },
+ {
+  "id": "elstar",
+  "name": "Elstar",
+  "aka": [],
+  "country": "NL",
+  "year": 1955,
+  "uses": [
+   "dessert",
+   "culinary",
+   "juice"
+  ],
+  "tags": [
+   "honey",
+   "sharp",
+   "sweet",
+   "perfumed"
+  ],
+  "sweet": 4,
+  "acid": 4,
+  "summary": "Crisp but not hard, juicy cream flesh with an intense honeyed sweetness set against lively acidity; tasters also mention a sherbet-like fizz and a pear note at the finish. Stays firm and sweet for a couple of months and keeps its sharpness for cooking. Opinions vary: many rate it highly, a few find it bland.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "evereste",
+  "name": "Evereste",
+  "aka": [
+   "Malus 'Evereste'",
+   "Perpetu"
+  ],
+  "country": "FR",
+  "year": null,
+  "uses": [
+   "ornamental",
+   "crab",
+   "culinary"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Grown above all for show; the fruit is sharp and not an eating apple, but it is used alone or with other fruit to make crab apple jelly, where its pectin helps the set.",
+  "best_eaten": "Oct-Dec, for jelly"
+ },
+ {
+  "id": "fortune",
+  "name": "Fortune",
+  "aka": [
+   "Laxton's Fortune"
+  ],
+  "country": "GB",
+  "year": 1904,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Fairly firm, slightly coarse, juicy cream flesh with a sweet, aromatic flavour that hints at its Cox parent; best eaten fresh in early autumn.",
+  "best_eaten": "Sep-Oct"
+ },
+ {
+  "id": "frostbite",
+  "name": "Frostbite",
+  "aka": [
+   "MN 447"
+  ],
+  "country": "US",
+  "year": 2008,
+  "uses": [
+   "dessert",
+   "juice"
+  ],
+  "tags": [
+   "sweet",
+   "caramel",
+   "perfumed"
+  ],
+  "sweet": 5,
+  "acid": 2,
+  "summary": "Intensely sweet, dense and crunchy, with an unusual flavour tasters struggle to name; comparisons include cane sugar, molasses and caramel apple, with a little tartness behind it. Keeps one to two months and makes a rich, sweet juice or cider.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "george-neal",
+  "name": "George Neal",
+  "aka": [],
+  "country": "GB",
+  "year": 1904,
+  "uses": [
+   "culinary"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Rather soft, coarse, juicy greenish flesh with a clean acidity; cooks quickly, collapsing almost completely into a smooth purée.",
+  "best_eaten": "Cook from Aug to Oct"
+ },
+ {
+  "id": "golden-hornet",
+  "name": "Golden Hornet",
+  "aka": [
+   "Malus x zumi 'Golden Hornet'",
+   "Malus 'Golden Hornet'"
+  ],
+  "country": "GB",
+  "year": 1948,
+  "uses": [
+   "crab",
+   "ornamental",
+   "culinary"
+  ],
+  "tags": [
+   "sharp",
+   "astringent"
+  ],
+  "sweet": 1,
+  "acid": 4,
+  "summary": "Sharp and somewhat astringent raw with little flavour of its own. Used mainly as a pectin-rich base for jelly, which comes out golden rather than red.",
+  "best_eaten": "Oct-Nov, for jelly"
+ },
+ {
+  "id": "gordon",
+  "name": "Gordon",
+  "aka": [],
+  "country": "US",
+  "year": null,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Described by Californian growers as crisp and juicy with a sweet-tart flavour, good both fresh and cooked; detailed tasting data are scarce.",
+  "best_eaten": "Through its long picking season (Aug-Oct in California)"
+ },
+ {
+  "id": "hagloe-crab",
+  "name": "Hagloe Crab",
+  "aka": [],
+  "country": "GB",
+  "year": 1720,
+  "uses": [
+   "cider"
+  ],
+  "tags": [
+   "sweet",
+   "bitter",
+   "astringent"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "The flesh is firm and dry, sweet with a bitter edge; old analyses describe sweetish, subacid juice with some astringency, and harshness unless fully ripe. Its cider was famed for strength, body and richness when grown on warm limestone soils. Not formally classed: one modern list calls it a sharp, which old descriptions do not support.",
+  "best_eaten": "Not for eating; mill when fully ripe in Nov"
+ },
+ {
+  "id": "hereford-redstreak",
+  "name": "Hereford Redstreak",
+  "aka": [
+   "Herefordshire Redstreak",
+   "Redstreak",
+   "Redstrake",
+   "Scudamore's Crab"
+  ],
+  "country": "GB",
+  "year": 1630,
+  "uses": [
+   "cider"
+  ],
+  "tags": [],
+  "sweet": 4,
+  "acid": null,
+  "summary": "Historic sources record very sugary juice (specific gravity near 1.079) and a sweet, rich, well-coloured cider that lacked strength and did not keep well. Its class is disputed: one modern account calls the original a bittersweet, while modern trees bearing the name test as sharp or bittersharp.",
+  "best_eaten": "Not for eating; historically milled Oct-Nov"
+ },
+ {
+  "id": "honeygold",
+  "name": "Honeygold",
+  "aka": [],
+  "country": "US",
+  "year": 1970,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "honey",
+   "sweet",
+   "mild"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Close to Golden Delicious but sweeter and milder, with crisp, juicy cream flesh and a honeyed sweetness. The low acidity strikes some tasters as bland, while others find enough balance to enjoy it.",
+  "best_eaten": "Oct-Jan"
+ },
+ {
+  "id": "james-grieve",
+  "name": "James Grieve",
+  "aka": [
+   "Grieve"
+  ],
+  "country": "GB",
+  "year": 1893,
+  "uses": [
+   "dessert",
+   "culinary",
+   "juice"
+  ],
+  "tags": [
+   "sharp",
+   "sweet",
+   "mild"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Exceptionally juicy, soft, open-textured flesh with a bright, tangy acidity when first picked, good for cooking as well as eating. After a week or two it mellows to a sweeter, gentler apple.",
+  "best_eaten": "Sep-Oct; sharp and good for cooking when first picked, sweeter after a couple of weeks"
+ },
+ {
+  "id": "jonathan",
+  "name": "Jonathan",
+  "aka": [
+   "Philip Rick",
+   "King Philip",
+   "Ulster Seedling"
+  ],
+  "country": "US",
+  "year": 1826,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "spice",
+   "wine",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Crisp, fine white flesh, juicy and tender, with a lively sweet-sharp balance and the spicy, slightly wine-like tang Jonathan is known for. Mellows and softens over a couple of months in store; also cooks well.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "kentish-fillbasket",
+  "name": "Kentish Fillbasket",
+  "aka": [
+   "Kentish Fill-basket",
+   "Lady de Grey's",
+   "Potter's Large"
+  ],
+  "country": "GB",
+  "year": 1820,
+  "uses": [
+   "culinary"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Tender, juicy, greenish-white flesh with a brisk, clean acidity, well suited to cooking. It was rated a first-class kitchen apple for the midwinter months.",
+  "best_eaten": "Nov-Jan for cooking"
+ },
+ {
+  "id": "king-of-the-pippins",
+  "name": "King of the Pippins",
+  "aka": [
+   "Reine des Reinettes",
+   "Golden Winter Pearmain",
+   "Goldparmäne",
+   "Hampshire Yellow",
+   "Prince's Pippin",
+   "Winter Goldparmane"
+  ],
+  "country": "FR",
+  "year": 1800,
+  "uses": [
+   "dessert",
+   "culinary",
+   "juice"
+  ],
+  "tags": [
+   "sharp",
+   "sweet",
+   "almond"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Firm, juicy, yellowish flesh with a brisk sweet-sharp balance and a light aromatic, almond-like note; it is sharper when picked and mellows in store. Holds its shape when cooked, which is why the French favour it for tarte Tatin.",
+  "best_eaten": "Oct-Jan; sweeter after a few weeks in store"
+ },
+ {
+  "id": "lady-sudeley",
+  "name": "Lady Sudeley",
+  "aka": [
+   "Jacob's Strawberry"
+  ],
+  "country": "GB",
+  "year": 1849,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Firm, fine-grained and juicy yellowish flesh with a lively, slightly sharp flavour of good quality. Best eaten straight from the tree; it softens within about a week.",
+  "best_eaten": "Late Aug-Sep, soon after picking"
+ },
+ {
+  "id": "lemon-pippin",
+  "name": "Lemon Pippin",
+  "aka": [
+   "Kirke's Lemon Pippin",
+   "Quince Apple",
+   "Reinette Limon de Galles"
+  ],
+  "country": "GB",
+  "year": 1744,
+  "uses": [
+   "culinary",
+   "dessert"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Firm, rather dry, coarse flesh that is moderately sharp with a faint aroma. It keeps its shape when cooked, suiting pies and slices, and was traditionally used for drying and preserves; by late winter it is acceptable eaten raw.",
+  "best_eaten": "Nov-Mar"
+ },
+ {
+  "id": "lodi",
+  "name": "Lodi",
+  "aka": [],
+  "country": "US",
+  "year": 1924,
+  "uses": [
+   "culinary",
+   "dessert"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Juicy, crisp-tender white flesh with a sharp, tangy flavour. Turns soft quickly but cooks down to an excellent smooth sauce.",
+  "best_eaten": "Aug, within a week or two of picking"
+ },
+ {
+  "id": "macoun",
+  "name": "Macoun",
+  "aka": [],
+  "country": "US",
+  "year": 1918,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "wine",
+   "perfumed",
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Very crisp, tender, snow-white flesh that bursts with sweet juice and a strong vinous perfume typical of the McIntosh family, with just a little tartness. Best fresh; it loses its snap quickly out of cold storage.",
+  "best_eaten": "Sep-Nov, fresh from the tree"
+ },
+ {
+  "id": "margil",
+  "name": "Margil",
+  "aka": [
+   "Never Fail",
+   "Small Ribston",
+   "Muscat Reinette",
+   "Reinette Musquee"
+  ],
+  "country": null,
+  "year": 1750,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "perfumed",
+   "sweet",
+   "pineapple"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Small, russet-flushed apple with a strong, clean, intensely aromatic Cox-style flavour that is sweet and well balanced; some tasters find a pineapple note. Older accounts call the flesh firm and rather dry, but modern growers report it crisp, juicy and never woolly. Keeps one to two months.",
+  "best_eaten": "Oct-Jan"
+ },
+ {
+  "id": "merton-russet",
+  "name": "Merton Russet",
+  "aka": [],
+  "country": "GB",
+  "year": 1921,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "spice"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Small golden russet from a Sturmer Pippin x Cox cross, with very crisp, juicy, deep-yellow flesh and a complex sweet, spicy flavour. A late apple that holds its quality into the winter.",
+  "best_eaten": "Dec-Feb, after some weeks in store"
+ },
+ {
+  "id": "nehou",
+  "name": "Nehou",
+  "aka": [
+   "Néhou"
+  ],
+  "country": "FR",
+  "year": 1920,
+  "uses": [
+   "cider"
+  ],
+  "tags": [
+   "bitter",
+   "astringent"
+  ],
+  "sweet": 3,
+  "acid": 1,
+  "summary": "A full bittersweet with very high tannin and little acid, giving a heavy, astringent but fruity juice; cider made from it is rich and full-bodied. The flesh is soft.",
+  "best_eaten": "Not for eating; mill Oct, handle gently as it bruises"
+ },
+ {
+  "id": "norland",
+  "name": "Norland",
+  "aka": [],
+  "country": "CA",
+  "year": 1980,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "A sweet, juicy summer apple with a light McIntosh-like flavour from its Melba side. Crisp at first but softens within weeks, and the white flesh browns quickly once cut.",
+  "best_eaten": "Aug, soon after picking"
+ },
+ {
+  "id": "orleans-reinette",
+  "name": "Orleans Reinette",
+  "aka": [
+   "Reinette d'Orleans",
+   "Winter Ribston"
+  ],
+  "country": "FR",
+  "year": 1776,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "nutty",
+   "sweet",
+   "mango"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Firm, fine-textured flesh that is not especially juicy but carries a rich, sweet, nutty and aromatic flavour with balancing acidity, close to Blenheim Orange and often compared with Ashmead's Kernel. One taster found a mango-like note after a week or so in store. Valued for flavour rather than crunch; it keeps its shape when cooked.",
+  "best_eaten": "Nov-Jan"
+ },
+ {
+  "id": "peasgoods-nonsuch",
+  "name": "Peasgood's Nonsuch",
+  "aka": [
+   "Peasgood Nonsuch",
+   "Peasgood's Nonesuch"
+  ],
+  "country": "GB",
+  "year": 1858,
+  "uses": [
+   "culinary",
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Tender, slightly coarse, moderately juicy flesh with a gentle sweet-sharp flavour that is pleasant raw. Its real strength is cooking: it breaks down into a sweet, smooth puree needing little sugar, ideal for baked apples and sauce.",
+  "best_eaten": "Sep-Nov for cooking; raw from late Sep"
+ },
+ {
+  "id": "pitmaston-pine-apple",
+  "name": "Pitmaston Pine Apple",
+  "aka": [
+   "Pitmaston Pineapple",
+   "Pineapple Pippin",
+   "Pitmaston Pine"
+  ],
+  "country": "GB",
+  "year": 1785,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "pineapple",
+   "musky",
+   "honey",
+   "nutty",
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "A small yellow apple whose firm, juicy, never-mealy flesh is sweet but lively, with a prominent musky, pineapple-like flavour that tasters also call sherbet-like; honeyed and nutty notes add richness. Best eaten within two or three weeks of picking.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "prairie-spy",
+  "name": "Prairie Spy",
+  "aka": [
+   "Minnesota 1007"
+  ],
+  "country": "US",
+  "year": 1940,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Firm, dense, crisp flesh with a rich, well-balanced sweet-tart flavour that improves after some weeks in store. Excellent for baking and pies, and one of the longest keepers among hardy apples.",
+  "best_eaten": "Nov-Mar, after a few weeks in store"
+ },
+ {
+  "id": "ralls-janet",
+  "name": "Ralls Janet",
+  "aka": [
+   "Rawls Janet",
+   "Ralls Genet",
+   "Neverfail",
+   "Jefferson Pippin",
+   "Kokko"
+  ],
+  "country": "US",
+  "year": 1800,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Dense, crisp, yellowish flesh with a lively sweet-tart balance and a pleasant scent when cut. A long keeper, though it turns mealy by late spring unless cold-stored; also used for pies, apple butter and blending into cider.",
+  "best_eaten": "Dec-Mar"
+ },
+ {
+  "id": "red-james-grieve",
+  "name": "Red James Grieve",
+  "aka": [],
+  "country": "GB",
+  "year": 1922,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "sharp",
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "As James Grieve: very juicy, soft-textured flesh with a lively, refreshing acidity when first picked that mellows to a sweeter balance after a week or two.",
+  "best_eaten": "Sep-Oct; sharp at picking, softer and sweeter a little later"
+ },
+ {
+  "id": "rescue",
+  "name": "Rescue",
+  "aka": [
+   "Rescue Crab",
+   "Rescue applecrab"
+  ],
+  "country": "CA",
+  "year": 1936,
+  "uses": [
+   "dessert",
+   "culinary",
+   "crab"
+  ],
+  "tags": [
+   "sharp",
+   "sweet"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Crisp and juicy with a tart-sweet balance, good eaten fresh from the tree; it turns mealy within a few weeks. Also used for sauce and preserves.",
+  "best_eaten": "Aug, straight from the tree"
+ },
+ {
+  "id": "ross-nonpareil",
+  "name": "Ross Nonpareil",
+  "aka": [
+   "Nonpareil Ross",
+   "Non-Pareille de Ross"
+  ],
+  "country": "IE",
+  "year": 1802,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "fennel",
+   "aniseed",
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Firm, crisp and on the dry side, with plenty of sugar and a rich, aromatic flavour that old writers likened to the fennel-scented Fenouillet apples, giving it a faint anise note.",
+  "best_eaten": "Nov-Jan"
+ },
+ {
+  "id": "rubinola",
+  "name": "Rubinola",
+  "aka": [],
+  "country": "CZ",
+  "year": null,
+  "uses": [
+   "dessert",
+   "juice"
+  ],
+  "tags": [
+   "sweet",
+   "perfumed",
+   "honey",
+   "elderflower"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Sweet with balancing acidity and an aromatic, rather complex flavour; one taster picks out elderflower and apple-blossom honey. Cream flesh is crisp but light and juicy, does not brown when cut, and keeps a month or two.",
+  "best_eaten": "Oct-Jan"
+ },
+ {
+  "id": "scotch-bridget",
+  "name": "Scotch Bridget",
+  "aka": [
+   "White Calville"
+  ],
+  "country": "GB",
+  "year": 1851,
+  "uses": [
+   "culinary",
+   "dessert"
+  ],
+  "tags": [
+   "sharp"
+  ],
+  "sweet": 2,
+  "acid": 4,
+  "summary": "Soft, tender white flesh, juicy with a lively acidity. Cooks well, and after a couple of months in store it mellows enough to be eaten raw in the new year.",
+  "best_eaten": "Oct-Jan; raw from about Jan"
+ },
+ {
+  "id": "shinano-sweet",
+  "name": "Shinano Sweet",
+  "aka": [],
+  "country": "JP",
+  "year": 1978,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 5,
+  "acid": 2,
+  "summary": "Very sweet and juicy with little acidity and a pleasant scent; crisp at first but softer-fleshed than Fuji.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "snowsweet",
+  "name": "Snowsweet",
+  "aka": [
+   "SnowSweet"
+  ],
+  "country": "US",
+  "year": 2006,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "savoury"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Sweet, with just enough tartness for balance and a rich, rounded, almost savoury depth. Flesh is crisp-tender and juicy, and slices stay white long after cutting.",
+  "best_eaten": "Oct-Dec"
+ },
+ {
+  "id": "stayman-winesap",
+  "name": "Stayman Winesap",
+  "aka": [
+   "Stayman",
+   "Stayman's Winesap"
+  ],
+  "country": "US",
+  "year": 1866,
+  "uses": [
+   "dessert",
+   "culinary",
+   "cider"
+  ],
+  "tags": [
+   "wine",
+   "spice",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 4,
+  "summary": "Fine-grained, tender and very juicy flesh with a brisk, tart-sweet, spicy, wine-like flavour that recalls its Winesap parent but is softer in texture. Sharp at picking, it mellows after a few weeks in store.",
+  "best_eaten": "Nov-Feb"
+ },
+ {
+  "id": "suntan",
+  "name": "Suntan",
+  "aka": [],
+  "country": "GB",
+  "year": 1955,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sharp",
+   "sweet",
+   "perfumed"
+  ],
+  "sweet": 4,
+  "acid": 4,
+  "summary": "Firm, rather coarse, fairly juicy cream flesh with an intense, aromatic Cox-type flavour that is both very sweet and distinctly sharp. Keeps well for a month or two and mellows in store; yellower fruit is said to taste better than red-flushed.",
+  "best_eaten": "Nov-Jan, after a few weeks in store"
+ },
+ {
+  "id": "telstar",
+  "name": "Telstar",
+  "aka": [],
+  "country": "NZ",
+  "year": 1934,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Firm, coarse cream flesh with a sweet, rich flavour and only mild acidity; described as strongly flavoured and sweeter than Cox.",
+  "best_eaten": null
+ },
+ {
+  "id": "transcendent",
+  "name": "Transcendent",
+  "aka": [
+   "Transcendent Crab"
+  ],
+  "country": "US",
+  "year": null,
+  "uses": [
+   "crab",
+   "culinary",
+   "juice"
+  ],
+  "tags": [
+   "astringent"
+  ],
+  "sweet": 2,
+  "acid": 3,
+  "summary": "Cream-yellow, juicy flesh with a mildly acid but noticeably astringent flavour; it softens quickly. Used for jelly, pickling, sauce and as a tannic addition to cider blends.",
+  "best_eaten": "Sep, straight after picking"
+ },
+ {
+  "id": "tydemans-late-orange",
+  "name": "Tydeman's Late Orange",
+  "aka": [
+   "Tydeman's Late Cox"
+  ],
+  "country": "GB",
+  "year": 1930,
+  "uses": [
+   "dessert"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 4,
+  "acid": 3,
+  "summary": "Very firm, crisp and fairly juicy cream flesh with a rich, aromatic flavour in the Cox style. Quite sharp early in the season, it becomes sweeter and more rounded by midwinter.",
+  "best_eaten": "Dec-Mar; improves in store"
+ },
+ {
+  "id": "white-jersey",
+  "name": "White Jersey",
+  "aka": [],
+  "country": "GB",
+  "year": 1895,
+  "uses": [
+   "cider"
+  ],
+  "tags": [
+   "bitter",
+   "astringent"
+  ],
+  "sweet": 3,
+  "acid": 2,
+  "summary": "A medium bittersweet: juice analyses show moderate tannin with low acidity and average sugar, giving a soft, mildly astringent juice for blending.",
+  "best_eaten": "Not for eating"
+ },
+ {
+  "id": "winter-banana",
+  "name": "Winter Banana",
+  "aka": [],
+  "country": "US",
+  "year": 1876,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "banana",
+   "perfumed",
+   "sweet",
+   "pineapple"
+  ],
+  "sweet": 4,
+  "acid": 2,
+  "summary": "Sweet, low-acid fruit with an unusual perfume; the banana note it is named for is subtle, obvious to some tasters and absent for others, and one grower found light pineapple tones. Texture reports differ: older descriptions call the flesh fairly tender and coarse, while growers describe it as dense and crisp, never mealy. The aroma builds as it mellows in store.",
+  "best_eaten": "Nov-Feb, after a few weeks in store"
+ },
+ {
+  "id": "yarlington-mill",
+  "name": "Yarlington Mill",
+  "aka": [],
+  "country": "GB",
+  "year": 1898,
+  "uses": [
+   "cider"
+  ],
+  "tags": [
+   "sweet",
+   "astringent"
+  ],
+  "sweet": 4,
+  "acid": 1,
+  "summary": "A medium bittersweet: sweet, soft juice with gentle tannin and low acid, giving a rounded, fruity cider that also works as a single variety.",
+  "best_eaten": "Not for eating; mill Nov-Dec."
+ },
+ {
+  "id": "zestar",
+  "name": "Zestar",
+  "aka": [
+   "Zestar!",
+   "Minnewashta",
+   "MN 1824"
+  ],
+  "country": "US",
+  "year": 1999,
+  "uses": [
+   "dessert",
+   "culinary"
+  ],
+  "tags": [
+   "sweet",
+   "sharp"
+  ],
+  "sweet": 3,
+  "acid": 3,
+  "summary": "Very crisp, light and juicy, far crunchier than most early apples, with a lively sweet-tart balance; the advertised hint of brown sugar is something some tasters find and others cannot detect. Keeps its texture much longer than typical summer apples if stored cool, though warm-stored fruit can go mealy.",
+  "best_eaten": "late Aug-Oct"
+ }
+]

@@ -1,0 +1,32 @@
+name: Import taste reports
+# Nightly: gather issues labelled taste-report into data/tastings.json, rebuild assets/data.json and commit if changed.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: read
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Import and rebuild
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python tools/import_tastings.py
+          python tools/build.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain data/tastings.json assets)" ]; then
+            git config user.name "pomography-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/tastings.json assets/data.json assets/flavour.json
+            git commit -m "Import taste reports"
+            git push
+          fi

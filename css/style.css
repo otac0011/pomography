@@ -234,3 +234,26 @@ details > summary { cursor: pointer; font-weight: 600; }
 .map-hint { background: color-mix(in srgb, var(--panel) 94%, transparent); border: 1px solid var(--line); border-radius: 10px; padding: 7px 11px; max-width: 250px; font-size: .78rem; box-shadow: var(--shadow); margin: 10px 0 0 10px !important; transition: opacity .6s; line-height: 1.35; }
 .map-hint.quiet { opacity: 0; pointer-events: none; }
 @media (max-width: 640px) { .map-hint { max-width: 190px; font-size: .72rem; } }
+
+/* ---- flavour evidence (decision 0005) */
+.chip.flav sup { font-size: .62rem; margin-left: 3px; color: var(--muted); font-weight: 700; }
+.chip.ev-firm { border-color: color-mix(in srgb, var(--leaf) 60%, var(--line)); }
+.chip.ev-reported { border-style: dashed; }
+.chip.ev-unsourced { border-style: dotted; opacity: .8; }
+.measured { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; font-size: .86rem; margin-top: 10px; padding: 8px 10px; border-radius: 10px; background: var(--panel2); }
+.srclist { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 8px; margin: 6px 0 12px; }
+.src { border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: .88rem; background: var(--panel); }
+.book { border-top: 1px dashed var(--line); padding: 10px 0; font-size: .92rem; }
+.book blockquote { font: italic 1rem/1.5 var(--serif); border-left: 3px solid var(--gold); margin: 6px 0; padding: 2px 0 2px 12px; }
+.book q { font-style: italic; }
+.book .entry { white-space: normal; max-height: 360px; overflow: auto; padding: 8px 10px; margin-top: 6px; background: var(--panel2); border-radius: 8px; font-family: var(--serif); }
+.tblwrap { overflow-x: auto; }
+.tbl { border-collapse: collapse; width: 100%; }
+.tbl th, .tbl td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.fmap svg { width: 100%; height: auto; display: block; }
+.fmap .pt { cursor: pointer; }
+.fmap .pt:hover, .fmap .pt:focus { stroke: var(--ink); stroke-width: 2; }
+.vocab { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+.vocab .card { padding: 10px 12px; font-size: .88rem; }
+.vocab h4 { margin: 0 0 4px; }
+.lead { font-size: 1.05rem; max-width: 72ch; }

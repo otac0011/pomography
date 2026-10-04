@@ -19,6 +19,7 @@ sys.path.insert(0, HERE)
 from schema import validate_variety, parse_harvest, parse_harvest_range, TASTE_TAGS  # noqa: E402
 from validate_rootstocks import validate_rootstock  # noqa: E402
 from validate_regions import validate_region  # noqa: E402
+import flavour  # noqa: E402
 
 KEEPERS_ROOTSTOCKS = {"m27", "m9", "m26", "mm106", "mm111", "m25"}   # the apple rootstocks Keepers lists
 KEEPERS_BASE = "https://www.keepers-nursery.co.uk/fruit-trees/apple/"
@@ -121,6 +122,9 @@ def main():
         reg["variety_ids"] = ids
         regions.append(reg)
 
+    os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)
+    fstats = flavour.attach(varieties, warnings)
+
     glossary = json.load(open(os.path.join(ROOT, "data", "glossary.json"), encoding="utf-8")) if os.path.exists(
         os.path.join(ROOT, "data", "glossary.json")) else []
 
@@ -152,6 +156,7 @@ def main():
         nul["flower_group"] = sum(1 for v in varieties if v["pollination"].get("flower_group") is None)
         nul["harvest"] = sum(1 for v in varieties if v["season"].get("harvest") is None)
         print("nulls:", nul)
+        print("flavour evidence:", fstats)
     sys.exit(1 if errors else 0)
 
 

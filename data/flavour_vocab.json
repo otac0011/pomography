@@ -1,0 +1,510 @@
+{
+  "_about": "Controlled flavour vocabulary for Pomography taste.tags (tools/schema.py TASTE_TAGS). Each tag has one meaning, a list of source synonyms to fold into it, and, where a source actually read for this file supports it, the apple volatile or taste compounds behind the note. Compound-to-descriptor links come from odour descriptors reported in apple-specific papers (GC-MS / GC-olfactometry studies and reviews); several of those descriptors originate in general odour databases (e.g. HSDB as cited in ref 1), so they say what a compound smells like, not that it dominates any given cultivar. Tags with an empty compounds list had no verified apple-specific support and should be read as sensory words only. Examples are cultivars seen described with the note in the cited literature or in widely used pomology/nursery descriptions (Orange Pippin, Specialty Produce, Salt Spring Apple Co., Walcot Nursery). Definitions are original wording. Odour-active volatiles, and the aroma a panel perceives, both change with cultivar and maturity at harvest (ref 11), so a tag describes fruit eaten at normal ripeness. Compiled 2026-10-04.",
+  "tags": {
+    "floral": {
+      "label": "Floral",
+      "group": "floral",
+      "definition": "A general blossom-like lift to the aroma, like smelling a bunch of mixed flowers rather than any one bloom. Use when a source says flowery or blossomy without naming a flower.",
+      "synonyms": ["flowery", "blossom", "blossomy", "apple-blossom", "lavender", "lilac", "violet", "orange-blossom"],
+      "compounds": [
+        {"name": "linalool", "role": "terpene alcohol with flower/lavender odour; a key odour-active compound across 35 cultivars", "ref": 3},
+        {"name": "(E)-beta-damascenone", "role": "character-impact odorant of Elstar and Cox fruit flesh", "ref": 5},
+        {"name": "(E)-beta-damascenone", "role": "linked to the 'flower' and 'sweet' sensory attributes of Guifei apples", "ref": 4},
+        {"name": "hexyl acetate", "role": "major apple ester, described as sweet, fruity, floral", "ref": 3},
+        {"name": "citronellol", "role": "terpene alcohol with floral odour, detected in apple", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Prefer the narrower tags rose, elderflower or perfumed when a source names them. Hexyl acetate and 1-hexanol also carry fruity/green descriptors, so 'floral' overlaps ordinary ripe-apple aroma."
+    },
+    "rose": {
+      "label": "Rose",
+      "group": "floral",
+      "definition": "A specific rose-petal or rosewater scent, sweeter and rounder than general blossom.",
+      "synonyms": ["rosewater", "rose-petal", "rose-scented", "Turkish delight"],
+      "compounds": [
+        {"name": "nonanal", "role": "aldehyde given an orange-rose, waxy odour in the apple aroma review", "ref": 1}
+      ],
+      "examples": [],
+      "note": "2-phenylethanol is the classic rose odorant in other foods, but no apple-specific source read for this file linked it to a rose note in apples, so it is not listed. Nonanal is also described as citrus-like (ref 3)."
+    },
+    "elderflower": {
+      "label": "Elderflower",
+      "group": "floral",
+      "definition": "The sweet, slightly muscat, cordial-like smell of elder blossom.",
+      "synonyms": ["elder", "elder-blossom", "muscat", "muscatel", "cordial"],
+      "compounds": [],
+      "examples": [],
+      "note": "Butyl butanoate is described as 'elderberry' (ref 4); that is the berry, not the flower, so it maps to berry. Muscat/muscatel wording in old sources usually means this grapey-floral note; use grape only if the source plainly means grapes."
+    },
+    "perfumed": {
+      "label": "Perfumed",
+      "group": "floral",
+      "definition": "An intense, scent-bottle aroma, strong enough to fill the room or linger on the palate; the strength of the scent is the point rather than which flower it resembles.",
+      "synonyms": ["perfume", "scented", "highly scented", "aromatic", "highly aromatic", "fragrant", "scent", "soapy"],
+      "compounds": [
+        {"name": "linalool", "role": "floral/lavender terpene, one of the critical odour-active compounds across cultivars", "ref": 3},
+        {"name": "(E)-beta-damascenone", "role": "sweet, floral ketone tied to the 'flower' attribute of Guifei apples", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Old sources use 'aromatic' loosely for any strong flavour; map it here only when it plainly refers to scent. 'Soapy' is a negative reading of the same intensity."
+    },
+    "honey": {
+      "label": "Honey",
+      "group": "sweet-confection",
+      "definition": "A rich, rounded sweetness with a waxy, floral edge, like clear honey rather than plain sugar.",
+      "synonyms": ["honeyed", "honey-like", "mead", "nectar", "honeysuckle sweet"],
+      "compounds": [],
+      "examples": ["Pitmaston Pineapple", "Ellison's Orange"],
+      "note": "No apple paper read for this file tied a compound to a honey note. Do not use for plain high sweetness (that is sweet)."
+    },
+    "vanilla": {
+      "label": "Vanilla",
+      "group": "sweet-confection",
+      "definition": "A soft, creamy custard or vanilla-pod sweetness in the aftertaste.",
+      "synonyms": ["vanillin", "custard", "creamy-sweet"],
+      "compounds": [
+        {"name": "vanillin", "role": "detected in apple with vanilla odour; contributed to 'sweet' attribute in Guifei", "ref": 4}
+      ],
+      "examples": ["D'Arcy Spice"],
+      "note": "Rarely a strong note in fresh apples; often appears alongside spice descriptions of stored fruit."
+    },
+    "caramel": {
+      "label": "Caramel",
+      "group": "sweet-confection",
+      "definition": "A cooked-sugar, toffee-brown sweetness, as in caramelised sugar or toffee apple.",
+      "synonyms": ["toffee", "toffee-apple", "burnt sugar", "caramelised", "brown sugar", "treacle", "fudge"],
+      "compounds": [
+        {"name": "(E)-2-hexen-1-ol", "role": "alcohol given both 'green fruit' and 'caramel' odour notes in the apple flavour review", "ref": 1},
+        {"name": "furfuryl alcohol", "role": "furan with burnt, sweet odour detected in apple", "ref": 4}
+      ],
+      "examples": ["Egremont Russet"],
+      "note": "Kept separate from butterscotch (buttery) and honey. (E)-2-hexen-1-ol is better known as green, so this link is weak."
+    },
+    "butterscotch": {
+      "label": "Butterscotch",
+      "group": "sweet-confection",
+      "definition": "A buttery, creamy toffee note: caramel plus butter.",
+      "synonyms": ["buttery", "butter", "butterscotch-like", "creamy toffee"],
+      "compounds": [],
+      "examples": [],
+      "note": "Cider lexicons list 'butter' among sweet-associated descriptors (ref 13); no apple compound verified here. Use caramel if no buttery quality is mentioned."
+    },
+    "nutty": {
+      "label": "Nutty",
+      "group": "nutty",
+      "definition": "A dry, savoury-sweet, roasted-nut or kernel quality, classically associated with russeted apples.",
+      "synonyms": ["nut-like", "kernel", "hazelnut", "cobnut", "filbert", "chestnut", "nutty-sweet"],
+      "compounds": [],
+      "examples": ["Egremont Russet", "Blenheim Orange", "Pitmaston Pineapple"],
+      "note": "Use almond or walnut only when the source names that nut. No apple compound verified for the generic nutty note."
+    },
+    "almond": {
+      "label": "Almond",
+      "group": "nutty",
+      "definition": "The marzipan or bitter-almond smell, sweet and slightly cherry-stone-like.",
+      "synonyms": ["marzipan", "bitter almond", "amaretto", "noyau"],
+      "compounds": [
+        {"name": "benzaldehyde", "role": "aldehyde with 'almond oil' odour reported in apples", "ref": 1},
+        {"name": "furfural", "role": "furan described as bread, almond, sweet in apple", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Benzaldehyde also reads as cherry-stone; tag cherry only for fresh cherry fruit flavour."
+    },
+    "walnut": {
+      "label": "Walnut",
+      "group": "nutty",
+      "definition": "A fresh-walnut, slightly green and tannic nut flavour.",
+      "synonyms": ["walnut-like", "green walnut"],
+      "compounds": [
+        {"name": "(E)-2-hexen-1-ol", "role": "C6 alcohol described as green, walnut", "ref": 3}
+      ],
+      "examples": [],
+      "note": "Map to nutty unless walnut is named."
+    },
+    "aniseed": {
+      "label": "Aniseed",
+      "group": "spicy",
+      "definition": "A sweet liquorice/anise flavour, sometimes faint in fresh fruit and stronger, almost medicinal, after storage.",
+      "synonyms": ["anise", "anis", "liquorice", "licorice", "star anise", "pastis", "medicinal anise"],
+      "compounds": [
+        {"name": "estragole (4-allylanisole, methyl chavicol)", "role": "phenylpropene with licorice/anise odour", "ref": 3},
+        {"name": "estragole (4-allylanisole, methyl chavicol)", "role": "gives an aniseed note to fresh Royal Gala and a spicy/aromatic flavour to Ellison's Orange", "ref": 1},
+        {"name": "estragole (4-allylanisole, methyl chavicol)", "role": "made from chavicol by the MdoOMT1 enzyme; Royal Gala produces it, Granny Smith does not", "ref": 6},
+        {"name": "phenylpropenes (estragole, anethole, eugenol)", "role": "minor volatiles that give fruit spicy anise- and clove-like notes", "ref": 7}
+      ],
+      "examples": ["Ellison's Orange", "Royal Gala"],
+      "note": "Often confused with fennel (same compound family). Use aniseed when the source says anise or liquorice."
+    },
+    "fennel": {
+      "label": "Fennel",
+      "group": "spicy",
+      "definition": "An anise-like but greener, more herbal note, like fennel seed or fronds.",
+      "synonyms": ["fenouil", "fennel seed", "dill"],
+      "compounds": [
+        {"name": "estragole (4-allylanisole, methyl chavicol)", "role": "phenylpropene credited with the spicy/aromatic flavour of Fenouillet apples", "ref": 1}
+      ],
+      "examples": ["Fenouillet"],
+      "note": "Chemically the same story as aniseed; keep fennel only when the source says fennel. The Fenouillet (fenouil = fennel) group is named for it."
+    },
+    "spice": {
+      "label": "Spice",
+      "group": "spicy",
+      "definition": "A warm, sweet-spice impression like nutmeg or mixed spice, used when no single spice is named.",
+      "synonyms": ["spicy", "spiced", "nutmeg", "mixed spice", "warm spice", "pepper", "peppery"],
+      "compounds": [
+        {"name": "estragole (4-allylanisole, methyl chavicol)", "role": "credited with the 'highly desirable spicy/aromatic' flavour of some cultivars", "ref": 6},
+        {"name": "phenylpropenes (eugenol, estragole, anethole)", "role": "spice compounds also found in apple, contributing spicy notes", "ref": 7}
+      ],
+      "examples": ["D'Arcy Spice", "Ellison's Orange", "Fenouillet"],
+      "note": "Use clove, cinnamon, aniseed or fennel when a specific spice is named."
+    },
+    "clove": {
+      "label": "Clove",
+      "group": "spicy",
+      "definition": "A pungent, warm, slightly numbing clove-bud note.",
+      "synonyms": ["cloves", "clove-like", "eugenol"],
+      "compounds": [
+        {"name": "eugenol", "role": "phenylpropene identified among Cox Orange odorants", "ref": 5},
+        {"name": "eugenol", "role": "phenylpropenes give fruit clove-like as well as anise notes", "ref": 7}
+      ],
+      "examples": [],
+      "note": "Eugenol was found in Cox, but no source read here describes Cox as tasting of clove; it is a minor component."
+    },
+    "cinnamon": {
+      "label": "Cinnamon",
+      "group": "spicy",
+      "definition": "A sweet, woody cinnamon-bark note.",
+      "synonyms": ["cinnamon-like", "cassia"],
+      "compounds": [],
+      "examples": ["D'Arcy Spice"],
+      "note": "No apple compound verified. Map to spice unless cinnamon is named."
+    },
+    "pear-drop": {
+      "label": "Pear-drop",
+      "group": "sweet-confection",
+      "definition": "The boiled-sweet, banana-pear 'pear drop' smell: candied and estery rather than fresh fruit; at high strength it turns towards nail-varnish.",
+      "synonyms": ["pear drops", "acid drop", "boiled sweet", "boiled-sweet", "estery", "amyl", "bubblegum", "Juicy Fruit", "nail varnish", "acetone"],
+      "compounds": [
+        {"name": "isoamyl acetate (3-methylbutyl acetate)", "role": "the ester behind the pear-drop sweet smell; in excess, acetone/nail-polish", "ref": 14},
+        {"name": "isoamyl acetate (3-methylbutyl acetate)", "role": "among the most abundant apple headspace esters (13.5% of volatiles on average); correlates with sweetness", "ref": 2},
+        {"name": "2-methylbutyl acetate", "role": "key apple ester described as sweet, banana, juicy fruit", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Often confused with banana and pear; use pear-drop for the candied version, banana or pear for fresh fruit wording."
+    },
+    "pear": {
+      "label": "Pear",
+      "group": "fruity",
+      "definition": "The juicy, mellow scent of ripe fresh pear.",
+      "synonyms": ["pear-like", "pearish", "pear-flavoured", "buttery pear"],
+      "compounds": [
+        {"name": "hexyl acetate", "role": "major apple ester; descriptor 'pear'", "ref": 1},
+        {"name": "propyl acetate", "role": "ester with fruity, pear descriptor", "ref": 1},
+        {"name": "pentyl acetate", "role": "ester described as sweet, pear, overripe banana", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Hexyl acetate is also called 'red apple' and 'sweet, fruity, floral' (refs 1, 3), so a pear note is part of ordinary ripe-apple aroma."
+    },
+    "quince": {
+      "label": "Quince",
+      "group": "fruity",
+      "definition": "The heady, perfumed, slightly musky smell of ripe quince.",
+      "synonyms": ["quince-like", "membrillo", "coing"],
+      "compounds": [],
+      "examples": [],
+      "note": "No apple compound verified."
+    },
+    "pineapple": {
+      "label": "Pineapple",
+      "group": "fruity",
+      "definition": "A bright, sweet-sharp tropical pineapple flavour, often developing after some weeks in store.",
+      "synonyms": ["ananas", "pineapple-like", "tropical"],
+      "compounds": [
+        {"name": "ethyl butanoate", "role": "ethyl ester given a fruity / pineapple descriptor", "ref": 1},
+        {"name": "ethyl butanoate", "role": "among the highest odour activities in Cox Orange headspace", "ref": 5},
+        {"name": "ethyl hexanoate", "role": "ester eliciting fruity-pineapple at low levels", "ref": 2},
+        {"name": "ethyl acetate", "role": "fruity, pineapple, ether-like ester", "ref": 1}
+      ],
+      "examples": ["Ananas Reinette", "Pitmaston Pineapple"],
+      "note": "'Tropical' maps here only if no other fruit (mango, melon) is named."
+    },
+    "banana": {
+      "label": "Banana",
+      "group": "fruity",
+      "definition": "A soft, ripe-banana fruitiness.",
+      "synonyms": ["banana-like", "ripe banana", "overripe banana"],
+      "compounds": [
+        {"name": "butyl acetate", "role": "major apple ester described as sweet, ripe banana", "ref": 4},
+        {"name": "2-methylbutyl acetate", "role": "key apple ester described as sweet, banana", "ref": 4},
+        {"name": "1-butanol", "role": "alcohol with harsh fusel / banana descriptor", "ref": 1},
+        {"name": "methyl butanoate", "role": "fruity-apple or fruity-banana at low levels", "ref": 2}
+      ],
+      "examples": [],
+      "note": "Overlaps with pear-drop; use banana for fruit wording, pear-drop for candy wording."
+    },
+    "melon": {
+      "label": "Melon",
+      "group": "fruity",
+      "definition": "A cool, watery, sweet melon or cucumber-like freshness.",
+      "synonyms": ["melon-like", "honeydew", "cantaloupe", "cucumber"],
+      "compounds": [],
+      "examples": [],
+      "note": "Hexyl hexanoate is given an apple/cucumber descriptor in ref 1; no melon link verified."
+    },
+    "mango": {
+      "label": "Mango",
+      "group": "fruity",
+      "definition": "A rich, resinous tropical mango flavour.",
+      "synonyms": ["mango-like"],
+      "compounds": [],
+      "examples": [],
+      "note": "No apple compound verified."
+    },
+    "apricot": {
+      "label": "Apricot",
+      "group": "fruity",
+      "definition": "A soft stone-fruit flavour of ripe apricot.",
+      "synonyms": ["apricot-like", "stone fruit"],
+      "compounds": [],
+      "examples": [],
+      "note": "No apple compound verified. 'Stone fruit' maps here if no other stone fruit is named."
+    },
+    "peach": {
+      "label": "Peach",
+      "group": "fruity",
+      "definition": "A juicy, creamy stone-fruit flavour of ripe peach or nectarine.",
+      "synonyms": ["peach-like", "nectarine"],
+      "compounds": [],
+      "examples": [],
+      "note": "gamma-Decalactone was detected in apple but described as sweet, milk (ref 4), so it is not listed as a peach compound."
+    },
+    "lemon": {
+      "label": "Lemon",
+      "group": "fruity",
+      "definition": "A sharp, zesty lemon character, usually lively acidity with a citrus lift.",
+      "synonyms": ["lemony", "lemon-like", "lemon zest", "lemon sherbet"],
+      "compounds": [],
+      "examples": [],
+      "note": "Apple acidity is mainly malic acid, not citric, so 'lemony' in a source is usually a description of sharpness; consider also tagging sharp. No compound verified for a lemon aroma."
+    },
+    "citrus": {
+      "label": "Citrus",
+      "group": "fruity",
+      "definition": "An orange-peel or general citrus-zest aroma.",
+      "synonyms": ["orange", "orange peel", "zesty", "citrussy", "grapefruit", "tangerine"],
+      "compounds": [
+        {"name": "octanal", "role": "aldehyde with citric-fruit descriptor", "ref": 1},
+        {"name": "decanal", "role": "aldehyde with orange-skin, citric descriptor", "ref": 1},
+        {"name": "nonanal", "role": "aldehyde described as citrus-like, floral", "ref": 3},
+        {"name": "D-limonene", "role": "terpene with citrus, herbal odour detected in apple", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Use lemon when lemon is named."
+    },
+    "strawberry": {
+      "label": "Strawberry",
+      "group": "fruity",
+      "definition": "A sweet, jammy strawberry fruitiness.",
+      "synonyms": ["strawberry-like", "wild strawberry"],
+      "compounds": [
+        {"name": "ethyl 2-methylbutanoate", "role": "one of the most important apple esters, described as fruity, strawberry", "ref": 1}
+      ],
+      "examples": [],
+      "note": "Ethyl 2-methylbutanoate is among the strongest odorants in Cox headspace (ref 5) and discriminates cultivars (ref 3), but most apples high in it are described simply as fruity."
+    },
+    "berry": {
+      "label": "Berry",
+      "group": "fruity",
+      "definition": "A dark or mixed soft-fruit character (raspberry, blackcurrant, elderberry) when no single berry is named.",
+      "synonyms": ["raspberry", "blackberry", "blackcurrant", "redcurrant", "elderberry", "bramble", "soft fruit"],
+      "compounds": [
+        {"name": "butyl butanoate", "role": "ester described as sweet fruity, elderberry", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Butyl butanoate is also called 'rotten apple' (ref 1); the berry link is weak. Use strawberry when strawberry is named."
+    },
+    "cherry": {
+      "label": "Cherry",
+      "group": "fruity",
+      "definition": "A fresh red-cherry fruit flavour.",
+      "synonyms": ["cherry-like", "morello", "kirsch"],
+      "compounds": [],
+      "examples": [],
+      "note": "Cherry-stone/marzipan wording belongs to almond. No apple compound verified."
+    },
+    "grape": {
+      "label": "Grape",
+      "group": "fruity",
+      "definition": "A fresh table-grape or muscat-grape flavour.",
+      "synonyms": ["grapey", "grape-like", "gooseberry"],
+      "compounds": [],
+      "examples": [],
+      "note": "Distinct from wine (fermented). Muscat wording that reads floral belongs to elderflower. No apple compound verified."
+    },
+    "wine": {
+      "label": "Vinous",
+      "group": "fruity",
+      "definition": "A wine-like, slightly fermented, fruity-alcoholic depth, often with brisk acidity.",
+      "synonyms": ["vinous", "winey", "winy", "brisk vinous", "brandy", "fermented", "cidery"],
+      "compounds": [
+        {"name": "2-methyl-1-butanol", "role": "alcohol with wine descriptor", "ref": 3},
+        {"name": "ethyl acetate", "role": "fruity, brandy-like ester", "ref": 1}
+      ],
+      "examples": [],
+      "note": "Old pomologies use 'vinous' for a rich sweet-sharp balance as much as for any aroma; tag sharp too when acidity is the point. Wine lactone, found in Cox (ref 5), is a name, not a description, and does not map here."
+    },
+    "herbal": {
+      "label": "Herbal",
+      "group": "other",
+      "definition": "A fresh leafy-herb, minty or green-herbaceous note.",
+      "synonyms": ["herby", "herbaceous", "mint", "minty", "leafy", "sage"],
+      "compounds": [
+        {"name": "alpha-terpineol", "role": "terpene alcohol with mint, green odour in apple", "ref": 4},
+        {"name": "D-limonene", "role": "terpene with citrus, herbal, camphor odour", "ref": 4}
+      ],
+      "examples": [],
+      "note": "Kept separate from 'green' (see suggested_new_tags), which covers the grassy, unripe-apple C6 aldehyde note."
+    },
+    "tea": {
+      "label": "Tea",
+      "group": "other",
+      "definition": "A dry, slightly tannic, black-tea or tea-leaf flavour.",
+      "synonyms": ["tea-like", "tannic tea", "Earl Grey"],
+      "compounds": [],
+      "examples": [],
+      "note": "Often overlaps with astringent; no apple compound verified."
+    },
+    "earthy": {
+      "label": "Earthy",
+      "group": "other",
+      "definition": "A damp-soil, mushroom or cellar note.",
+      "synonyms": ["earth", "mushroom", "fungal", "cellar", "loamy", "musty"],
+      "compounds": [
+        {"name": "1-octen-3-one", "role": "earthy-fungal odorant; negatively related to perceived sweetness", "ref": 2},
+        {"name": "1-octen-3-ol", "role": "earthy-fungal odorant; negatively related to perceived sweetness", "ref": 2},
+        {"name": "1-octen-3-one", "role": "identified among Cox Orange odorants", "ref": 5},
+        {"name": "6-methyl-5-hepten-2-one", "role": "ketone described as mushroom, pepper", "ref": 3}
+      ],
+      "examples": [],
+      "note": "'Musty' maps here, not to musky."
+    },
+    "musky": {
+      "label": "Musky",
+      "group": "other",
+      "definition": "A heavy, warm, animal-sweet perfume, as in musk melons or old aromatic russets.",
+      "synonyms": ["musk", "musk-like", "heavy-scented"],
+      "compounds": [],
+      "examples": [],
+      "note": "Not the same as musty (earthy). No apple compound verified."
+    },
+    "bitter": {
+      "label": "Bitter",
+      "group": "taste",
+      "definition": "The basic bitter taste felt at the back of the tongue, typical of cider apples with high tannin.",
+      "synonyms": ["bitterness", "bittersweet", "bittersharp", "hard tannin", "quinine"],
+      "compounds": [
+        {"name": "oligomeric procyanidins (peaking at the epicatechin tetramer)", "role": "main source of bitterness in cider", "ref": 8},
+        {"name": "procyanidins", "role": "degree of polymerisation and concentration shift bitterness in model cider", "ref": 9}
+      ],
+      "examples": ["Dabinett", "Yarlington Mill", "Kingston Black", "Foxwhelp"],
+      "note": "Often confused with astringent. Bitter is a taste; astringent is a drying feel. Cider classes 'bittersweet' and 'bittersharp' mean tannin above 0.2% in juice (ref 10)."
+    },
+    "astringent": {
+      "label": "Astringent",
+      "group": "mouthfeel",
+      "definition": "A drying, puckering, furry feel on the gums and tongue, rather than a taste.",
+      "synonyms": ["tannic", "tannin", "drying", "puckering", "furry", "rough", "chewy", "soft tannin", "waxy"],
+      "compounds": [
+        {"name": "polymeric (higher-molecular-weight) procyanidins", "role": "main source of astringency in cider", "ref": 8},
+        {"name": "polyphenols / tannins", "role": "impart drying or waxy mouthfeel in cider", "ref": 13}
+      ],
+      "examples": ["Dabinett", "Yarlington Mill", "Kingston Black", "Foxwhelp"],
+      "note": "Old sources use 'rough' or 'tannic' for both bitter and astringent; tag both only when the source clearly means both."
+    },
+    "sharp": {
+      "label": "Sharp",
+      "group": "taste",
+      "definition": "Clearly sour or tart from high acidity: a mouth-watering bite.",
+      "synonyms": ["acid", "acidic", "tart", "sour", "brisk", "tangy", "crisp acidity", "lemony"],
+      "compounds": [
+        {"name": "malic acid", "role": "main apple organic acid (about 90% of acid content); negatively correlated with perceived sweetness", "ref": 2},
+        {"name": "malic acid", "role": "basis of the cider-apple 'sharp' class (above 0.45% acid in juice)", "ref": 10}
+      ],
+      "examples": ["Granny Smith", "Bramley's Seedling", "Braeburn", "Foxwhelp"],
+      "note": "Sharp and sweet can both apply (a balanced 'sweet-sharp' apple). See structure.sharp for numbers."
+    },
+    "sweet": {
+      "label": "Sweet",
+      "group": "taste",
+      "definition": "Clearly sugary to taste, with little acid to offset it.",
+      "synonyms": ["sugary", "sweet-fleshed", "honey-sweet", "luscious", "rich"],
+      "compounds": [
+        {"name": "sucrose, fructose, glucose", "role": "main apple sugars (about 42%, 39% and 18% of total sugars)", "ref": 2},
+        {"name": "sorbitol", "role": "sugar alcohol; correlated with perceived sweetness better than any single sugar", "ref": 2},
+        {"name": "esters and alpha-farnesene", "role": "aroma compounds that raise perceived sweetness (odour-induced enhancement)", "ref": 2}
+      ],
+      "examples": ["Fuji"],
+      "note": "Brix alone is a weak guide to how sweet an apple tastes (ref 2). See structure.sweet. 'Rich' in old sources often means sweet plus aromatic."
+    },
+    "mild": {
+      "label": "Mild",
+      "group": "taste",
+      "definition": "Low in acid (and, for cider fruit, low in tannin), so the taste is gentle, soft and sometimes bland.",
+      "synonyms": ["low-acid", "bland", "soft", "gentle", "insipid", "flat", "mellow", "sweet (cider class)"],
+      "compounds": [
+        {"name": "malic acid (low)", "role": "the 'sweet' cider class is defined by acid below 0.45% and tannin below 0.2% in juice", "ref": 10}
+      ],
+      "examples": ["Sweet Coppin", "Morgendurf"],
+      "note": "Mild describes a lack of acid, not a high sugar level; an apple can be mild without being very sweet. 'Insipid' is a negative form."
+    },
+    "savoury": {
+      "label": "Savoury",
+      "group": "taste",
+      "definition": "A non-sweet, brothy, cheesy or umami-like undertone.",
+      "synonyms": ["savory", "umami", "brothy", "cheesy"],
+      "compounds": [],
+      "examples": [],
+      "note": "Butanoic acid (sour, cheese) and methional were detected in apple (refs 4, 5), but no source read here ties them to a savoury note in eating apples; left empty."
+    }
+  },
+  "structure": {
+    "sweet": {
+      "ssc_brix": "Across 40 lots of 14 cultivars, soluble solids ran 9.5-15.8 Brix (mean 13.2). The lots a trained panel rated sweetest (Fuji, 64-69/100) all measured 14.9 Brix; Granny Smith (30/100) measured 10.3 (ref 2). A Swiss market study set a minimum of 12 Brix for acceptable Golden Delicious (ref 12). Soluble solids correlated only moderately with sweetness (r = 0.64; sorbitol r = 0.66; total sugars r = 0.41) (ref 2). So treat about 13 Brix and above as 'sweet' and below about 11 as unlikely to be called sweet, with acid level deciding the rest.",
+      "refs": [2, 12]
+    },
+    "sharp": {
+      "ta": "Long Ashton juice classification: acid above 0.45% (as malic, about 4.5 g/L) = sharp; below = sweet/mild (ref 10). Example juices: Cox's Orange Pippin 0.60% (6.0 g/L), Bramley's Seedling 0.85% (8.5 g/L), Brown's Apple 0.72%, Foxwhelp 1.91% (19 g/L) (ref 10). In Aprea et al., Granny Smith, Renette Canada and Braeburn had the highest panel sourness (48-73/100) (ref 2).",
+      "refs": [10, 2]
+    },
+    "mild": {
+      "ta": "Acid below 0.45% (about 4.5 g/L malic) in juice, and for cider fruit tannin below 0.2%; e.g. Sweet Coppin 0.20% acid, 0.14% tannin; Dabinett 0.18% acid (but high tannin, so bittersweet, not mild) (ref 10). Morgendurf scored lowest for sourness (about 10/100) in Aprea et al. (ref 2).",
+      "refs": [10, 2]
+    },
+    "bitter_astringent": {
+      "tannin": "Long Ashton classes: tannin above 0.2% in juice makes an apple bittersweet (with acid below 0.45%) or bittersharp (acid above 0.45%); e.g. Dabinett 0.29%, Yarlington Mill 0.32%, Kingston Black 0.20%, while dessert/culinary Cox 0.07% and Bramley 0.08% (ref 10). Smaller procyanidins drive bitterness, larger ones astringency (ref 8).",
+      "refs": [10, 8]
+    },
+    "balance": "Perceived sweet-sharp balance follows the acid-to-sugar ratio more than either alone: in Aprea et al. the acid/sugar ratio correlated with panel sweetness at r = -0.52, versus -0.45 for malic acid and +0.41 for total sugars, and aroma volatiles (esters, farnesene) explained roughly a third of sweetness (ref 2). Acidity offsets the sensation of sweetness, and tannin adds a drying feel that reads as 'dry' (ref 13). Tag both sweet and sharp for apples high in both; mild for low acid regardless of sugar."
+  },
+  "suggested_new_tags": [
+    {"tag": "green", "label": "Green / grassy", "why": "Hexanal (grass, green apple), (E)-2-hexenal (green, leafy) and other C6 compounds are among the principal apple odorants and discriminate cultivars; 'green' is a core apple sensory attribute and is negatively tied to sweetness in Fuji (refs 1, 2, 3, 4, 5). None of the current tags (herbal is closest) captures it.", "compounds": ["hexanal", "(E)-2-hexenal", "(Z)-3-hexenal", "(Z)-3-hexen-1-ol", "1-hexanol"]},
+    {"tag": "cooked-apple", "label": "Cooked / baked apple", "why": "(E)-beta-damascenone is a character-impact odorant of Elstar and Cox flesh (ref 5); other literature calls its odour cooked-apple-like, but that descriptor was seen only in search snippets for this file, not in a paper read here, so verify before adopting.", "compounds": ["(E)-beta-damascenone"]},
+    {"tag": "fermented", "label": "Fermented / solvent", "why": "Ethyl acetate (ether/brandy), acetaldehyde (pungent) and fusel alcohols read as fermented or solvent; cider lexicons list 'solvent' and 'vinegary' as distinct descriptors (refs 1, 4, 13). Useful for over-ripe or long-stored fruit; currently forced into 'wine'.", "compounds": ["ethyl acetate", "acetaldehyde", "1-butanol", "2-methyl-1-propanol"]}
+  ],
+  "references": [
+    {"id": 1, "authors": "Espino-Díaz M, Sepúlveda DR, González-Aguilar G, Olivas GI", "year": 2016, "title": "Biochemistry of apple aroma: a review", "journal": "Food Technology and Biotechnology 54(4):375-397", "url": "https://doi.org/10.17113/ftb.54.04.16.4248"},
+    {"id": 2, "authors": "Aprea E, Charles M, Endrizzi I, Corollaro ML, Betta E, Biasioli F, Gasperi F", "year": 2017, "title": "Sweet taste in apple: the role of sorbitol, individual sugars, organic acids and volatile compounds", "journal": "Scientific Reports 7:44950", "url": "https://doi.org/10.1038/srep44950"},
+    {"id": 3, "authors": "Wu X, Bi J, Fauconnier M-L", "year": 2022, "title": "Characteristic volatiles and cultivar classification in 35 apple varieties: a case study of two harvest years", "journal": "Foods 11(5):690", "url": "https://doi.org/10.3390/foods11050690"},
+    {"id": 4, "authors": "Ma N, Zhu J, Wang H, Qian MC, Xiao Z", "year": 2026, "title": "Characteristic aroma fingerprint disclosure of apples (Malus x domestica) by applying SBSE-GC-O-MS and GC-IMS technology coupled with sensory molecular science", "journal": "Foods 15(3):482", "url": "https://doi.org/10.3390/foods15030482"},
+    {"id": 5, "authors": "Fuhrmann E, Grosch W", "year": 2002, "title": "Character impact odorants of the apple cultivars Elstar and Cox Orange", "journal": "Nahrung/Food 46(3):187-193", "url": "https://doi.org/10.1002/1521-3803(20020501)46:3<187::AID-FOOD187>3.0.CO;2-5"},
+    {"id": 6, "authors": "Yauk YK, Chagné D, Tomes S, Matich AJ, Wang MY, Chen X, Maddumage R, Hunt MB, Rowan DD, Atkinson RG", "year": 2015, "title": "The O-methyltransferase gene MdoOMT1 is required for biosynthesis of methylated phenylpropenes in ripe apple fruit", "journal": "The Plant Journal 82(6):937-950", "url": "https://doi.org/10.1111/tpj.12861"},
+    {"id": 7, "authors": "Atkinson RG", "year": 2018, "title": "Phenylpropenes: occurrence, distribution, and biosynthesis in fruit", "journal": "Journal of Agricultural and Food Chemistry 66:2259-2272", "url": "https://doi.org/10.1021/acs.jafc.6b04696"},
+    {"id": 8, "authors": "Lea AGH, Arnold GM", "year": 1978, "title": "The phenolics of ciders: bitterness and astringency", "journal": "Journal of the Science of Food and Agriculture 29(5):478-483", "url": "https://doi.org/10.1002/jsfa.2740290512"},
+    {"id": 9, "authors": "Symoneaux R, Baron A, Marnet N, Bauduin R, Chollet S", "year": 2014, "title": "Impact of apple procyanidins on sensory perception in model cider (part 1): polymerisation degree and concentration", "journal": "LWT - Food Science and Technology", "url": "https://doi.org/10.1016/j.lwt.2013.11.016"},
+    {"id": 10, "authors": "Lea AGH (compiler; Long Ashton Research Station data)", "year": null, "title": "Cider apple compositional data", "journal": "cider.org.uk (web page)", "url": "https://cider.org.uk/appledat.htm"},
+    {"id": 11, "authors": "Mehinagic E, Royer G, Symoneaux R, Jourjon F, Prost C", "year": 2006, "title": "Characterization of odor-active volatiles in apples: influence of cultivars and maturity stage", "journal": "Journal of Agricultural and Food Chemistry 54(7):2678-2687", "url": "https://doi.org/10.1021/jf052288n"},
+    {"id": 12, "authors": "Höhn E, Guggenbühl B", "year": 1999, "title": "Market demands on Golden Delicious apples", "journal": "Agrarforschung Schweiz", "url": "https://www.agrarforschungschweiz.ch/?p=27564"},
+    {"id": 13, "authors": "Calvert MD, Chang E, Lahne J, Stewart A, Neill CL, Hamilton AM", "year": 2023, "title": "Effective communication of cider sensory quality: a white paper", "journal": "Virginia Cooperative Extension FST-455NP", "url": "https://pubs.ext.vt.edu/FST/fst-455/fst-455.html"},
+    {"id": 14, "authors": "Wine Spectator ('Ask Dr. Vinny')", "year": 2008, "title": "What is a 'pear drop' aroma?", "journal": "Wine Spectator (web)", "url": "https://www.winespectator.com/articles/what-is-a-pear-drop-aroma-5193"}
+  ]
+}

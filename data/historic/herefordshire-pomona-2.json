@@ -1,0 +1,498 @@
+{
+  "_book": "herefordshire-pomona-2",
+  "lord-grosvenor": {
+    "line": 257, "end": 272, "heading": "1. JOLLY BEGGAR", "match": "synonym",
+    "flavour": "Flesh : white, tender, juicy, sweet, briskly, and pleasantly flavoured.",
+    "quality": "An early cooking apple of great merit",
+    "storage": "in season from August till October.",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Described as Jolly Beggar, Syn. Lord Grosvenor."
+  },
+  "wheelers-russet": {
+    "line": 518, "end": 541, "heading": "1. WHEELER'S RUSSET", "match": "exact",
+    "flavour": "Flesh : greenish white, firm, juicy, brisk and sugary ; with a rich vinous and aromatic flavour.",
+    "quality": "A valuable and highly-flavoured dessert apple of the first quality.",
+    "storage": "It is in season from November to April ; and as Mr. Lindley says when it is well ripened and begins to shrivel, it is one of the best russets of its season.",
+    "climate": "succeeds well in almost any soil provided it is not too moist.",
+    "tags": ["sharp", "sweet", "wine", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": ""
+  },
+  "leathercoat-russet": {
+    "line": 569, "end": 606, "heading": "3. ROYAL RUSSET", "match": "probable",
+    "flavour": "Flesh : greenish yellow, tender, crisp, brisk, juicy, and sugary.",
+    "quality": "A most excellent culinary apple of the first quality.",
+    "storage": "It is in season from November to May, but is apt to shrink and become dry, unless kept in a good fruit house.",
+    "climate": null,
+    "tags": ["sharp", "sweet"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Described as Royal Russet, Syn. Leather-Coat (mentioned by Lawson 1597, matching our date). But the entry ends by noting 'another apple known by the name of Leather-Coat or Old Leather-Coat, which is small and of a conical shape' in Gloucestershire orchards, so the homonym is uncertain; here it is a culinary apple."
+  },
+  "norfolk-beefing": {
+    "line": 791, "end": 814, "heading": "2. NORFOLK BEEFING", "match": "exact",
+    "flavour": "Flesh : firm and crisp, with a brisk and pleasant flavour.",
+    "quality": "A well known and first-rate culinary Apple",
+    "storage": "A well known and first-rate culinary Apple, in season from January to June.",
+    "climate": "The tree is very vigorous, but requires a rich soil and not too moist, or it is apt to canker.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Norfolk Beaufin; Catshead Beaufin; Reed's Baker; Taliesin. Dried in ovens as 'Norfolk Biffins'."
+  },
+  "chelmsford-wonder": {
+    "line": 1649, "end": 1668, "heading": "4. [CHELMSFORD WONDER]", "match": "probable",
+    "flavour": "Flesh : white, tender, very juicy and sweet; with a mild and pleasant acidity. Cells of the core open. It is very fragrant when fully ripe.",
+    "quality": "An excellent culinary apple",
+    "storage": "in season from October to December. It is a very handsome apple ; larger, a better keeper, and more productive than Cox's Pomona.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Heading line lost in the OCR (Plate XXXIX no. 4). Identified from the history: raised 1858, first called 'The Claimant', introduced by Messrs Saltmarsh of Chelmsford, first-class certificate 16 Nov 1880. Some authorities thought it 'differs but slightly from Cox's Pomona'."
+  },
+  "gravenstein": {
+    "line": 1674, "end": 1702, "heading": "5. [GRAVENSTEIN]", "match": "exact",
+    "flavour": "Flesh : white, crisp, very juicy, with a rich, vinous and powerful aromatic flavour",
+    "quality": "It is a very valuable Apple of the first quality, and is equally desirable either for dessert or culinary purposes.",
+    "storage": "Its season lasts from October to the end of November.",
+    "climate": null,
+    "tags": ["wine", "perfumed"], "against": [], "sweet": null, "acid": null,
+    "note": "Heading line lost in the OCR; the plate caption (5. Gravenstein) and index place it on Plate XXXIX, and the text gives its origin at the Castle of Grafenstein, Holstein."
+  },
+  "margil": {
+    "line": 2064, "end": 2094, "heading": "3. MARGIL", "match": "exact",
+    "flavour": "Flesh : yellow, firm, juicy, rich and sugary, with a powerful and delicious aromatic flavour.",
+    "quality": "It is one of the best dessert apples",
+    "storage": "when properly kept remains in season from November to February.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Margill; Herefordshire Margil; Small Ribston; Never Fail; Munches Pippin. Called a rival of the Ribston Pippin."
+  },
+  "cornish-aromatic": {
+    "line": 2102, "end": 2123, "heading": "4. CORNISH AROMATIC", "match": "exact",
+    "flavour": "Flesh : yellowish, firm, crisp, juicy, rich and highly aromatic.",
+    "quality": "A valuable dessert apple of the best quality",
+    "storage": "in season from October to Christmas.",
+    "climate": "The tree grows freely, but in many localities it is subject to canker.",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+    "note": ""
+  },
+  "cornish-gilliflower": {
+    "line": 2131, "end": 2173, "heading": "5. CORNISH GILLIFLOWER", "match": "exact",
+    "flavour": "Flesh : yellowish, firm, rich and aromatic. This is one of the best dessert apples, remarkable for its rich and aromatic flavour. \"The best apple that is known,\" says Lindley, \"if high flavour combined with rich, subacid, saccharine juice, be the qualities we most desire in fruit.\"",
+    "quality": "This is one of the best dessert apples",
+    "storage": "It is in season from December to May.",
+    "climate": null,
+    "tags": ["perfumed", "sweet"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Syn. Calville d'Angleterre. The book derives 'Gilliflower' from girofle (clove)."
+  },
+  "lemon-pippin": {
+    "line": 2432, "end": 2457, "heading": "3. LEMON PIPPIN", "match": "exact",
+    "flavour": "Flesh : firm, crisp, and briskly flavoured.",
+    "quality": "A very good Apple for culinary or dessert use",
+    "storage": "It is in season from October to April.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Kirke's Lemon Pippin; Quince. Forsyth: 'It is excellent for drying.'"
+  },
+  "kingston-black": {
+    "line": 2848, "end": 2895, "heading": "3. KINGSTON BLACK", "match": "exact",
+    "flavour": "Flesh : yellowish with a pink tint near the skin, and fine-grained. Juice : plentiful, of a rich tawny red colour, agreeable in flavour, moderately sweet, and pleasantly acid, with an astringent after-taste.",
+    "quality": null,
+    "storage": null,
+    "climate": null,
+    "tags": ["sweet", "sharp", "astringent"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Syn. Black Kingston; Taynton Black; Taunton Black. Said to have been raised at Kingston, near Taunton."
+  },
+  "royal-wilding": {
+    "line": 2901, "end": 2953, "heading": "4. ROYAL WILDING", "match": "exact",
+    "flavour": "Flesh : woolly and tough, not very juicy. The juice has a vapid bitter-sweet flavour with but little acidity, and is remarkably dark in colour.",
+    "quality": "The Royal Wilding is a late fruit, and holds a high place in general esteem, as one of the most useful varieties. It is deficient in flavour by itself",
+    "storage": null,
+    "climate": "the variety requires a favourable season to bear well.",
+    "tags": ["bitter", "sweet", "mild"], "against": [], "sweet": 3, "acid": 1,
+    "note": "Syn. The Cadbury (Somerset). Valued for the body and strength it gives to mixed cider."
+  },
+  "court-pendu-plat": {
+    "line": 3781, "end": 3835, "heading": "1. COURT-PENDU-PLAT", "match": "exact",
+    "flavour": "Flesh : yellow, firm, crisp, very juicy, and richly flavoured.",
+    "quality": "This is a dessert apple of the very first quality",
+    "storage": "Its season lasts from December to May ... It is one of the very best late keeping varieties.",
+    "climate": "It blossoms very late in the spring, and is thus less liable to be injured by frost ; and hence it has derived its name of Wise Apple.",
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Syn. Garnons Pippin (its Herefordshire name); Woollaton Pippin; Wise Apple; many French Court-pendu names."
+  },
+  "landsberger-reinette": {
+    "line": 3841, "end": 3855, "heading": "2. LANDSBERGER REINETTE", "match": "exact",
+    "flavour": "Flesh : yellowish, delicate, melting and sweet.",
+    "quality": "An excellent apple, fit for either dessert or culinary purposes.",
+    "storage": "It is in season from October to Christmas.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": ""
+  },
+  "king-of-the-pippins": {
+    "line": 3985, "end": 4008, "heading": "7. GOLDEN WINTER PEARMAIN", "match": "synonym",
+    "flavour": "Flesh : yellowish white, firm, breaking, juicy and sweet, with a pleasant and somewhat aromatic flavour.",
+    "quality": "As a dessert fruit, except when fresh and well kept, its greatest merit is its beauty",
+    "storage": "It is in season from October to the end of December.",
+    "climate": "rarely failing to yield a crop in almost any soil or situation.",
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. King of the Pippins; Prince of Pippins; Hampshire Yellow. The book stresses that Seek No Further (Pl. XLIX no. 5, figured by Lindley as King of Pippins) is a different apple."
+  },
+  "costard": {
+    "line": 4045, "end": 4133, "heading": "THE COSTARD APPLE", "match": "probable",
+    "flavour": "Flesh : white, very tender, with a mild subacid flavour. ... Flesh : yellow, tender, sweet, and of good flavour.",
+    "quality": "Both these varieties of Costard are good to eat when gathered ripe from the tree, but both are chiefly used as culinary apples, and have an excellent flavour in pudding or pie.",
+    "storage": "In season during the Autumn, in October and November.",
+    "climate": null,
+    "tags": ["mild", "sweet"], "against": [], "sweet": null, "acid": 2,
+    "note": "General Costard essay (Edward I's bills, 1292) followed by two surviving local forms, Gloucestershire Costard (first flavour quote) and Herefordshire Costard (second). The book says 'The true Costard is now rarely to be met with' and that Costard and Cat's-head are distinct, contrary to Lindley."
+  },
+  "catshead": {
+    "line": 4153, "end": 4200, "heading": "3. CATSHEAD", "match": "exact",
+    "flavour": "Flesh : tender, juicy, and sweet, with a pleasant, acid and slightly perfumed flavour.",
+    "quality": "The Cat's-head is one of the oldest and best culinary apples.",
+    "storage": "It is in season from October to January, and even to February and March with careful hoarding.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Some pomologists consider it a seedling of the old Costard."
+  },
+  "dumelows-seedling": {
+    "line": 4385, "end": 4418, "heading": "1. DUMELOW'S SEEDLING", "match": "exact",
+    "flavour": "Flesh : yellowish white, firm, crisp, brisk and very juicy, with a slight aromatic flavour.",
+    "quality": "One of the most valuable culinary apples",
+    "storage": "keeps well without shrivelling ... It is in season from November to March, but with care will keep still longer.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Dumelow's Crab; Normanton Wonder; Wellington."
+  },
+  "annie-elizabeth": {
+    "line": 4454, "end": 4471, "heading": "2. ANNIE ELIZABETH", "match": "exact",
+    "flavour": "Flesh : white and of a firm yet crisp and tender texture, with a fine, brisk, sprightly flavour.",
+    "quality": "An excellent late kitchen apple, in season through the winter months, and very good for dessert if kept until the spring.",
+    "storage": "When well kept it lasts from December to June, or even until apples come again.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Believed to be from Bess Pool; raised by Harrison & Son, Leicester."
+  },
+  "lanes-prince-albert": {
+    "line": 4477, "end": 4496, "heading": "3. PRINCE ALBERT", "match": "exact",
+    "flavour": "Flesh : very tender, juicy, briskly acid, and with an agreeable flavour.",
+    "quality": "An excellent culinary apple, large and handsome",
+    "storage": "in season from November to January, or even to February or March if well kept.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Syn. Lane's Prince Albert. The book warns that Smart's Prince Albert is a different (dessert) apple."
+  },
+  "wyken-pippin": {
+    "line": 4812, "end": 4835, "heading": "1. WYKEN PIPPIN", "match": "exact",
+    "flavour": "Flesh : yellow, tinged with green, tender, very juicy, sweet and richly flavoured.",
+    "quality": "A valuable and delicious dessert apple of the first quality.",
+    "storage": "It is in season from December to April.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Warwickshire Pippin; Arley; Girkin Pippin."
+  },
+  "american-mother": {
+    "line": 4876, "end": 4893, "heading": "2. AMERICAN MOTHER", "match": "exact",
+    "flavour": "Flesh : yellowish white, remarkably tender, crisp and breaking, very juicy, sweet and with a balsamic aroma.",
+    "quality": "One of the best dessert apples in October.",
+    "storage": null,
+    "climate": "It is one of the few American apples that will ripen their fruit well in this country.",
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Mother Apple; Queen Anne; Gardener's Apple."
+  },
+  "cockle-pippin": {
+    "line": 4922, "end": 4942, "heading": "4. COCKLE'S PIPPIN", "match": "exact",
+    "flavour": "Flesh : yellowish, firm, tender, crisp, juicy and sugary, with a pleasant aromatic flavour.",
+    "quality": "An excellent dessert apple of the finest quality",
+    "storage": "in season from January to April. It is much valued in the London market from its good keeping qualities.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Nutmeg Pippin; Nutmeg Cockle; Brown Cockle; White Cockle."
+  },
+  "ashmeads-kernel": {
+    "line": 4948, "end": 4971, "heading": "5. ASHMEAD'S KERNEL", "match": "exact",
+    "flavour": "Flesh : yellowish, firm, crisp, juicy, sugary, rich and highly aromatic. ... It has all the richness of the Nonpareil, but it is more sweet and juicy.",
+    "quality": "Ashmead's Kernel is a dessert apple of the very first quality.",
+    "storage": "It is in season from November until May.",
+    "climate": "It is, however, more hardy, and will succeed in situations unfavourable to the Nonpareil.",
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": ""
+  },
+  "aromatic-russet": {
+    "line": 4999, "end": 5013, "heading": "7. AROMATIC RUSSET", "match": "exact",
+    "flavour": "Flesh : greenish yellow, firm, crisp, brisk, sugary and richly aromatic.",
+    "quality": "A highly flavoured dessert apple of the first quality",
+    "storage": "in season from December to February.",
+    "climate": null,
+    "tags": ["sharp", "sweet", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "The book notes it is often confounded with the Golden Russet but is not the same variety."
+  },
+  "roxbury-russet": {
+    "line": 5019, "end": 5041, "heading": "8. BOSTON RUSSET", "match": "synonym",
+    "flavour": "Flesh : yellowish white, juicy, sugary, brisk and richly flavoured. ... It partakes somewhat of the flavour of the Ribston Pippin, or rather is between that and the Nonpareil.",
+    "quality": "A very valuable dessert apple of the first quality",
+    "storage": "in season from January to April, May, or even until June.",
+    "climate": "It is one of the few introduced American varieties that attain perfection in this country.",
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Described as Boston Russet, Syn. Roxbury Russet; Shippen's Russet; Putman's Russet."
+  },
+  "kentish-fillbasket": {
+    "line": 5262, "end": 5279, "heading": "1. KENTISH FILL-BASKET", "match": "exact",
+    "flavour": "Flesh : tender and juicy, with a brisk and pleasant flavour.",
+    "quality": "An excellent culinary apple of first-rate quality",
+    "storage": "in season from November to January.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Lady de Grey's; Potter's Large. The book says it is not the Kentish Fill-basket of Miller, Forsyth or Rogers (which was the Kentish Codlin)."
+  },
+  "calville-blanc-dhiver": {
+    "line": 5317, "end": 5342, "heading": "3. CALVILLE BLANCHE D'HIVER", "match": "exact",
+    "flavour": "Flesh : yellowish white, delicate and juicy, with a rich, lively and agreeable aromatic flavour.",
+    "quality": "A valuable winter apple adapted to all culinary purposes, and good also for dessert when apples are scarce.",
+    "storage": "It is in season from January to April.",
+    "climate": "It is considered on the Continent to be the finest of all apples for kitchen use, and it probably is so in warmer climates than our own. The tree is hardy and bears well, but is apt to canker in wet ground.",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+    "note": "Syn. Calville blanche; White Winter Calville; Bonnet Carre. Fruit and flavour improved under orchard-house treatment."
+  },
+  "mere-de-menage": {
+    "line": 6720, "end": 6736, "heading": "7. MERE DE MENAGE", "match": "exact",
+    "flavour": "Flesh : firm, crisp, brisk and juicy.",
+    "quality": "A beautiful and valuable culinary apple of first rate quality",
+    "storage": "in season from October to January.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Lord Combermere; Combermere Apple; Flanders Pippin."
+  },
+  "peasgoods-nonsuch": {
+    "line": 6742, "end": 6762, "heading": "8. PEASGOOD'S NONESUCH", "match": "exact",
+    "flavour": "Flesh : yellowish, tender, very juicy, with an agreeable acid flavour.",
+    "quality": "A very handsome highly coloured apple, whose beauty gives it a place on the dessert table, though its best virtues are culinary.",
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "early-harvest": {
+    "line": 7040, "end": 7063, "heading": "4. EARLY HARVEST", "match": "exact",
+    "flavour": "Flesh : white, tender, crisp and juicy, with a sprightly and pleasant subacid flavour.",
+    "quality": "An excellent and refreshing early dessert apple of the first quality.",
+    "storage": "It ripens at the end of July or the beginning of August. ... It must be eaten soon after gathering to have it in perfection.",
+    "climate": "It is found to succeed perfectly in this climate.",
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Yellow Harvest; Prince's Early Harvest; July Pippin; Tart Bough; Large White Juneating."
+  },
+  "gladstone": {
+    "line": 7069, "end": 7091, "heading": "5. MR. GLADSTONE", "match": "exact",
+    "flavour": "When ripe the aroma is so powerful, that it can be detected at a considerable distance. It has a pleasant, rich, and vinous flavour.",
+    "quality": "its brilliant colour, and its excellent flavour, make it a very popular variety in the market.",
+    "storage": "It becomes ripe the third week in July",
+    "climate": null,
+    "tags": ["perfumed", "wine"], "against": [], "sweet": null, "acid": null,
+    "note": "Syn. Scarlet Pippin; Jackson's Seedling. The largest early summer apple known (1880s)."
+  },
+  "london-pippin": {
+    "line": 7707, "end": 7730, "heading": "2. LONDON PIPPIN", "match": "exact",
+    "flavour": "Flesh : yellowish white, firm, crisp, tender and juicy, with a brisk pleasant flavour.",
+    "quality": "An excellent culinary apple ... It is also useful for the dessert table.",
+    "storage": "in season from November to April, when it still keeps sound and free from shrivelling.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Five-crowned Pippin; New London Pippin. The Royal Somerset of Plate LIX is said to be a distinct fruit, although the Horticultural Society's Royal Somerset is London Pippin (our aka lists Royal Somerset)."
+  },
+  "lady-henniker": {
+    "line": 7736, "end": 7760, "heading": "3. LADY HENNIKER", "match": "exact",
+    "flavour": "Flesh : very tender in the grain, well flavoured, and with a pleasant perfume.",
+    "quality": "A first rate apple for culinary purposes",
+    "storage": "in season from October to February.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+    "note": "Raised at Thornham Hall, Suffolk, from pips sown 1840-50."
+  },
+  "yellow-ingestrie": {
+    "line": 8174, "end": 8192, "heading": "3. YELLOW INGESTRIE", "match": "exact",
+    "flavour": "Flesh : yellow, firm, crisp and delicate, with a profusion of brisk and highly flavoured vinous juice.",
+    "quality": "A beautiful little dessert apple of excellent quality",
+    "storage": "It is in season during September and October",
+    "climate": null,
+    "tags": ["sharp", "wine"], "against": [], "sweet": null, "acid": 3,
+    "note": "T. A. Knight's seedling, Orange Pippin x Golden Pippin. Called 'Summers' in the London market. Vol. 1 describes a separate Summer Golden Pippin (Plate III), not treated here as the same apple."
+  },
+  "duchesss-favourite": {
+    "line": 8266, "end": 8286, "heading": "7. DUCHESS' FAVOURITE", "match": "exact",
+    "flavour": "Flesh : yellowish, tender, juicy, sweet, and highly flavoured, frequently tinged with red like that of Sops-in-Wine.",
+    "quality": "sold rather for its great beauty, than for its quality, which is not very high.",
+    "storage": "It is in season during November and up to Christmas.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Duchess of York's Favourite; Duchess of Gloucester."
+  },
+  "pitmaston-pine-apple": {
+    "line": 8292, "end": 8306, "heading": "8. PITMASTON PINE APPLE", "match": "exact",
+    "flavour": "Flesh : yellowish, firm, crisp and juicy ; rich, and with a distinct pine-apple flavour.",
+    "quality": "A dessert apple of great excellence",
+    "storage": "in season during December and January.",
+    "climate": null,
+    "tags": ["pineapple"], "against": [], "sweet": null, "acid": null,
+    "note": "Raised by Mr Williams of Pitmaston, c. 1825."
+  },
+  "bess-pool": {
+    "line": 8694, "end": 8722, "heading": "2. [BESS POOL]", "match": "exact",
+    "flavour": "Flesh : white, tender, and juicy, with a fine sugary and vinous flavour.",
+    "quality": "A handsome and excellent apple, either for culinary or dessert purposes, when others are gone by.",
+    "storage": "It is in season from November to March, and well kept, will last almost until May.",
+    "climate": "It blossoms very late, and the blossoms are not liable to be injured by frost",
+    "tags": ["sweet", "wine"], "against": [], "sweet": 4, "acid": null,
+    "note": "Heading line lost in the OCR (Plate LXXI no. 2; the index lists Bess Pool there); the text tells the story of the girl Bess Pool who found the seedling. 'New Bess Pool' (no. 3) is a separate seedling."
+  },
+  "hambledon-deux-ans": {
+    "line": 8804, "end": 8824, "heading": "6. HAMBLEDON DEUX ANS", "match": "exact",
+    "flavour": "Flesh : greenish white, firm, crisp, not very juicy, but richly and briskly flavoured. One of the most valuable of culinary apples. It has a peculiar and distinct flavour not unworthy of the dessert table.",
+    "quality": "One of the most valuable of culinary apples.",
+    "storage": "It is in season from January, to May or June. It keeps excellently, and may be preserved with care for a couple of years as its name denotes.",
+    "climate": "It flourishes in the more northerly districts of England.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Syn. Dusand; Dewsum; Jewsums."
+  },
+  "hagloe-crab": {
+    "line": 8934, "end": 8968, "heading": "3. HAGLOE CRAB", "match": "exact",
+    "flavour": "Flesh : white, moderately firm. Juice : plentiful, pale amber, sweetish and subacid, with some astringency.",
+    "quality": null,
+    "storage": null,
+    "climate": null,
+    "tags": ["sweet", "astringent"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Raised at Hagloe, parish of Awre, Gloucestershire (c. 1720 per Marshall); said to have disappeared from Herefordshire but still found in several Gloucestershire parishes."
+  },
+  "grenadier": {
+    "line": 9292, "end": 9310, "heading": "3. [GRENADIER]", "match": "exact",
+    "flavour": "Flesh : white, crisp, and juicy, with a pleasantly acid flavour.",
+    "quality": "A very valuable culinary apple, the largest of the early Codlins",
+    "storage": "in season, during September and October.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Heading line lost in the OCR (Plate LXXIII no. 3); the index lists Grenadier on Plate LXXIII and the text says it was brought into notice by George Bunyard of Maidstone, first-class certificate October 1883."
+  },
+  "golden-spire": {
+    "line": 9316, "end": 9336, "heading": "4. GOLDEN SPIRE", "match": "exact",
+    "flavour": "Flesh : tender, with an agreeable acidity, and with all the merits of a fine cooking apple.",
+    "quality": "A fine, solid fleshed, well flavoured, culinary apple",
+    "storage": "comes into season in August, and will continue until November, December, or even later, if well kept.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Found in Lancashire by Richard Smith of Worcester."
+  },
+  "lord-derby": {
+    "line": 9384, "end": 9397, "heading": "7. LORD DERBY", "match": "exact",
+    "flavour": "Flesh : greenish white, delicate and tender, with a pleasant, and mild acidity.",
+    "quality": "One of the finest culinary apples",
+    "storage": "in season from October to Christmas",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 2,
+    "note": ""
+  },
+  "bramleys-seedling": {
+    "line": 9403, "end": 9424, "heading": "8. BRAMLEY'S SEEDLING", "match": "exact",
+    "flavour": "Flesh : tender, with a yellowish tinge, and a free brisk acidity.",
+    "quality": "An excellent kitchen apple",
+    "storage": "in season from December to February. A good market apple, for it travels well, and keeps well.",
+    "climate": "its blossoms seem able to withstand the spring frosts so successfully, that it is a constant and regular bearer.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Issued by Merryweather of Southwell c. 1876; first-class certificate 1883."
+  },
+  "api": {
+    "line": 9494, "end": 9564, "heading": "2. API", "match": "exact",
+    "flavour": "Flesh : white, crisp, tender, sweet, very juicy, and slightly perfumed. ... It should be eaten with the skin on, since it is there that the perfume is contained.",
+    "quality": "A beautiful little dessert apple",
+    "storage": "in season from October to April.",
+    "climate": "It succeeds well on the doucin, or crab stock, in almost any situation, provided the soil is rich and loamy, without being too light or dry.",
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn. Lady Apple; Pomme d'Api; Api Petit; Api Rouge; Petit Api Rouge."
+  },
+  "colonel-vaughan": {
+    "line": 9623, "end": 9642, "heading": "5. COLONEL VAUGHAN", "match": "exact",
+    "flavour": "Flesh : yellowish white, delicate, and very juicy, with a sweet, and briskly acid flavour.",
+    "quality": "A culinary apple of excellent quality",
+    "storage": "in season from October to January",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 3, "acid": 4,
+    "note": "Syn. Vaun's Pippin; Kentish Pippin; Red Kentish Pippin. Here a culinary apple, sometimes used for dessert when small."
+  },
+  "siberian-crab": {
+    "line": 9727, "end": 9849, "heading": "CRABS, ORNAMENTAL AND USEFUL. 1. THE SIBERIAN CRAB (Pyrus baccata.)", "match": "exact",
+    "flavour": "The fruit of almost all the varieties, when eaten fresh from the tree, has a peculiar flavour, and a sharp acidulated taste, which renders it very refreshing during the hot weather of August and September.",
+    "quality": null,
+    "storage": null,
+    "climate": "They are so hardy and prolific, that they will flourish and bear fruit abundantly in cold, exposed situations, that would be fatal to most of the cultivated apples.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Syn. Cherry Apple; Cherry Crab; Red Siberian Crab; Scarlet Siberian Crab. Plate LXXV gives one shared description for all eight ornamental crabs; the flavour sentence covers 'almost all the varieties'. The entry range starts at the plate heading because the climate sentence comes from the plate's introduction (line 9747); the Siberian Crab itself is listed at line 9757."
+  },
+  "sweet-alford": {
+    "line": 10136, "end": 10139, "heading": "Alford, or Sweet Alford", "match": "exact",
+    "flavour": "It is a late variety, has a sweet rich juice, and makes very good cider.",
+    "quality": "makes very good cider",
+    "storage": null,
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Short entry in the 'List of other cider apples' exhibited at the Hereford shows; 'A white Devonshire apple, of middle size'."
+  },
+  "brown-snout": {
+    "line": 10257, "end": 10261, "heading": "Brown Snout, or Pointed Brown Snout", "match": "exact",
+    "flavour": "It is a bitter-sweet, and makes good cider.",
+    "quality": "A very good late apple.",
+    "storage": null,
+    "climate": null,
+    "tags": ["bitter", "sweet"], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples'. 'bitter-sweet' is the cider class (sweet juice with tannin)."
+  },
+  "chisel-jersey": {
+    "line": 10546, "end": 10551, "heading": "Jersey Chisel, Chisel Jersey, or Bitter Jersey", "match": "exact",
+    "flavour": "A striped bitter-sweet apple in the highest esteem in Somersetshire. ... It makes excellent rich cider, of high colour",
+    "quality": "in the highest esteem in Somersetshire",
+    "storage": null,
+    "climate": null,
+    "tags": ["bitter", "sweet"], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples'; best mixed with a rich sweet kind ripening at the same time."
+  },
+  "sheeps-nose": {
+    "line": 10800, "end": 10810, "heading": "Sheeps Snout, or Sheeps Nose", "match": "exact",
+    "flavour": "A light, green, bitter sweet apple, largely grown in Somersetshire, Gloucestershire, and Worcestershire.",
+    "quality": "It is valued as a cider fruit, and cooks well when in season.",
+    "storage": null,
+    "climate": null,
+    "tags": ["bitter", "sweet"], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples' (runs over a page break). Not the American Sheepnose."
+  },
+  "slack-ma-girdle": {
+    "line": 10832, "end": 10836, "heading": "Slack-My-Girdle, or Slack-ma-girl", "match": "exact",
+    "flavour": null,
+    "quality": "As a cider apple, however, it has not much merit.",
+    "storage": "It keeps well and is usually sold for culinary purposes",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples': a striped, large Somerset (and Devon) apple. Nothing on taste."
+  },
+  "sops-in-wine": {
+    "line": 10838, "end": 10843, "heading": "Sops in Wine", "match": "exact",
+    "flavour": null,
+    "quality": "It is considered a good culinary and cider fruit.",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples': above middle size, very dark red with a bloom, flesh coloured red. Nothing on taste."
+  },
+  "ten-commandments": {
+    "line": 10882, "end": 10887, "heading": "Ten Commandments", "match": "exact",
+    "flavour": null,
+    "quality": "the fruit is thought to make good cider.",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples': deep red, ribbed, white flesh stained red, ten red spots round the core give the name. Nothing on taste."
+  },
+  "tremletts-bitter": {
+    "line": 10889, "end": 10891, "heading": "Tremlett's Bitter", "match": "exact",
+    "flavour": "A Devonshire bittersweet apple, above middle size, and highly esteemed as a cider apple.",
+    "quality": "highly esteemed as a cider apple.",
+    "storage": null,
+    "climate": null,
+    "tags": ["bitter", "sweet"], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry in the 'List of other cider apples'."
+  }
+}

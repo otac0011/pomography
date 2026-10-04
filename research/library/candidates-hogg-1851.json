@@ -1,0 +1,2321 @@
+{
+ "adams-pearmain": [
+  {
+   "line": 2632,
+   "page": null,
+   "score": 1.5,
+   "key": "NORFOLK",
+   "text": "Norfolk, where, according to Mr. George Lindley, the original tree"
+  },
+  {
+   "line": 5766,
+   "page": null,
+   "score": 1.5,
+   "key": "NORFOLK",
+   "text": "Norfolk, and was first brought into notice by Mr. George Lindley, who"
+  },
+  {
+   "line": 6153,
+   "page": null,
+   "score": 1.5,
+   "key": "NORFOLK",
+   "text": "Norfolk, whose gardener procured it from a tree supposed to be the"
+  },
+  {
+   "line": 1909,
+   "page": null,
+   "score": 1.3,
+   "key": "ADAMSS PEARMAIN",
+   "text": "Adams’s Pearmain"
+  },
+  {
+   "line": 17434,
+   "page": null,
+   "score": 1.3,
+   "key": "ADAMSS PEARMAIN",
+   "text": "Adams’s Pearmain"
+  },
+  {
+   "line": 17556,
+   "page": null,
+   "score": 1.3,
+   "key": "ADAMSS PEARMAIN",
+   "text": "Adams’s Pearmain"
+  }
+ ],
+ "early-harvest": [
+  {
+   "line": 1412,
+   "page": null,
+   "score": 1.8,
+   "key": "EARLY HARVEST",
+   "text": "Early Harvest"
+  },
+  {
+   "line": 5039,
+   "page": null,
+   "score": 1.8,
+   "key": "TART BOUGH",
+   "text": "Tart Bough, _Ibid._ Prince’s Yellow Harvest, _acc. Gard. Chron._ July"
+  },
+  {
+   "line": 17371,
+   "page": null,
+   "score": 1.8,
+   "key": "EARLY HARVEST",
+   "text": "Early Harvest"
+  },
+  {
+   "line": 17506,
+   "page": null,
+   "score": 1.8,
+   "key": "EARLY HARVEST",
+   "text": "Early Harvest"
+  },
+  {
+   "line": 17742,
+   "page": null,
+   "score": 1.8,
+   "key": "EARLY HARVEST",
+   "text": "Early Harvest"
+  },
+  {
+   "line": 18319,
+   "page": null,
+   "score": 1.3,
+   "key": "EARLY HARVEST",
+   "text": "Early Harvest                                75"
+  }
+ ],
+ "duchess-of-oldenburg": [
+  {
+   "line": 1429,
+   "page": null,
+   "score": 1.0,
+   "key": "DUCHESS",
+   "text": "Duchess of Oldenburgh"
+  },
+  {
+   "line": 17383,
+   "page": null,
+   "score": 1.0,
+   "key": "DUCHESS",
+   "text": "Duchess of Oldenburgh"
+  },
+  {
+   "line": 17788,
+   "page": null,
+   "score": 1.0,
+   "key": "DUCHESS",
+   "text": "Duchess of Oldenburgh"
+  },
+  {
+   "line": 18301,
+   "page": null,
+   "score": 1.0,
+   "key": "DUCHESS",
+   "text": "Duchess of Oldenburgh                        71"
+  }
+ ],
+ "devonshire-quarrenden": [
+  {
+   "line": 1443,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  },
+  {
+   "line": 17370,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  },
+  {
+   "line": 17505,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  },
+  {
+   "line": 17601,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  },
+  {
+   "line": 17684,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  },
+  {
+   "line": 17787,
+   "page": null,
+   "score": 1.8,
+   "key": "DEVONSHIRE QUARRENDEN",
+   "text": "Devonshire Quarrenden"
+  }
+ ],
+ "irish-peach": [
+  {
+   "line": 1444,
+   "page": null,
+   "score": 1.8,
+   "key": "IRISH PEACH",
+   "text": "Irish Peach"
+  },
+  {
+   "line": 17372,
+   "page": null,
+   "score": 1.8,
+   "key": "IRISH PEACH",
+   "text": "Irish Peach"
+  },
+  {
+   "line": 17507,
+   "page": null,
+   "score": 1.8,
+   "key": "IRISH PEACH",
+   "text": "Irish Peach"
+  },
+  {
+   "line": 17604,
+   "page": null,
+   "score": 1.8,
+   "key": "IRISH PEACH",
+   "text": "Irish Peach"
+  }
+ ],
+ "red-astrachan": [
+  {
+   "line": 1448,
+   "page": null,
+   "score": 1.8,
+   "key": "RED ASTRACHAN",
+   "text": "Red Astrachan"
+  }
+ ],
+ "keswick-codlin": [
+  {
+   "line": 1462,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  },
+  {
+   "line": 17385,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  },
+  {
+   "line": 17518,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  },
+  {
+   "line": 17625,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  },
+  {
+   "line": 17696,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  },
+  {
+   "line": 17752,
+   "page": null,
+   "score": 1.8,
+   "key": "KESWICK CODLIN",
+   "text": "Keswick Codlin"
+  }
+ ],
+ "manks-codlin": [
+  {
+   "line": 1463,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  },
+  {
+   "line": 17386,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  },
+  {
+   "line": 17519,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  },
+  {
+   "line": 17626,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  },
+  {
+   "line": 17697,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  },
+  {
+   "line": 17753,
+   "page": null,
+   "score": 1.8,
+   "key": "MANKS CODLIN",
+   "text": "Manks Codlin"
+  }
+ ],
+ "yellow-ingestrie": [
+  {
+   "line": 1466,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER GOLDEN PIPPIN",
+   "text": "Summer Golden Pippin"
+  },
+  {
+   "line": 1638,
+   "page": null,
+   "score": 1.8,
+   "key": "YELLOW INGESTRIE",
+   "text": "Yellow Ingestrie"
+  },
+  {
+   "line": 17377,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER GOLDEN PIPPIN",
+   "text": "Summer Golden Pippin"
+  },
+  {
+   "line": 17409,
+   "page": null,
+   "score": 1.8,
+   "key": "YELLOW INGESTRIE",
+   "text": "Yellow Ingestrie"
+  },
+  {
+   "line": 17538,
+   "page": null,
+   "score": 1.8,
+   "key": "YELLOW INGESTRIE",
+   "text": "Yellow Ingestrie"
+  },
+  {
+   "line": 17616,
+   "page": null,
+   "score": 1.8,
+   "key": "YELLOW INGESTRIE",
+   "text": "Yellow Ingestrie"
+  }
+ ],
+ "kerry-pippin": [
+  {
+   "line": 1478,
+   "page": null,
+   "score": 1.8,
+   "key": "KERRY PIPPIN",
+   "text": "Kerry Pippin"
+  },
+  {
+   "line": 1561,
+   "page": null,
+   "score": 1.8,
+   "key": "RED STREAK",
+   "text": "Red-Streak"
+  },
+  {
+   "line": 17374,
+   "page": null,
+   "score": 1.8,
+   "key": "KERRY PIPPIN",
+   "text": "Kerry Pippin"
+  },
+  {
+   "line": 17509,
+   "page": null,
+   "score": 1.8,
+   "key": "KERRY PIPPIN",
+   "text": "Kerry Pippin"
+  },
+  {
+   "line": 17605,
+   "page": null,
+   "score": 1.8,
+   "key": "KERRY PIPPIN",
+   "text": "Kerry Pippin"
+  },
+  {
+   "line": 17685,
+   "page": null,
+   "score": 1.8,
+   "key": "KERRY PIPPIN",
+   "text": "Kerry Pippin"
+  }
+ ],
+ "king-of-the-pippins": [
+  {
+   "line": 1491,
+   "page": null,
+   "score": 1.8,
+   "key": "KING OF THE PIPPINS",
+   "text": "King of the Pippins"
+  },
+  {
+   "line": 1660,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN WINTER PEARMAIN",
+   "text": "Golden Winter Pearmain"
+  },
+  {
+   "line": 7748,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN WINTER PEARMAIN",
+   "text": "Golden Winter Pearmain. I suspect this is the _King Apple_ of Rea."
+  },
+  {
+   "line": 17375,
+   "page": null,
+   "score": 1.8,
+   "key": "KING OF THE PIPPINS",
+   "text": "King of the Pippins"
+  },
+  {
+   "line": 17404,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN WINTER PEARMAIN",
+   "text": "Golden Winter Pearmain"
+  },
+  {
+   "line": 17533,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN WINTER PEARMAIN",
+   "text": "Golden Winter Pearmain"
+  }
+ ],
+ "mere-de-menage": [
+  {
+   "line": 1519,
+   "page": null,
+   "score": 1.8,
+   "key": "FLANDERS PIPPIN",
+   "text": "Flanders Pippin"
+  },
+  {
+   "line": 1662,
+   "page": null,
+   "score": 1.8,
+   "key": "MERE DE MENAGE",
+   "text": "Mère de Ménage"
+  },
+  {
+   "line": 17425,
+   "page": null,
+   "score": 1.8,
+   "key": "MERE DE MENAGE",
+   "text": "Mère de Ménage"
+  },
+  {
+   "line": 17547,
+   "page": null,
+   "score": 1.8,
+   "key": "MERE DE MENAGE",
+   "text": "Mère de Ménage"
+  },
+  {
+   "line": 17583,
+   "page": null,
+   "score": 1.8,
+   "key": "MERE DE MENAGE",
+   "text": "Mère de Ménage"
+  },
+  {
+   "line": 17811,
+   "page": null,
+   "score": 1.8,
+   "key": "MERE DE MENAGE",
+   "text": "Mére de Mènage"
+  }
+ ],
+ "golden-noble": [
+  {
+   "line": 1524,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN NOBLE",
+   "text": "Golden Noble"
+  },
+  {
+   "line": 17419,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN NOBLE",
+   "text": "Golden Noble"
+  },
+  {
+   "line": 17793,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN NOBLE",
+   "text": "Golden Noble"
+  }
+ ],
+ "gravenstein": [
+  {
+   "line": 1549,
+   "page": null,
+   "score": 1.5,
+   "key": "GRAVENSTEIN",
+   "text": "Gravenstein"
+  },
+  {
+   "line": 17418,
+   "page": null,
+   "score": 1.5,
+   "key": "GRAVENSTEIN",
+   "text": "Gravenstein"
+  },
+  {
+   "line": 17797,
+   "page": null,
+   "score": 1.5,
+   "key": "GRAVENSTEIN",
+   "text": "Gravenstein"
+  },
+  {
+   "line": 18480,
+   "page": null,
+   "score": 1.0,
+   "key": "GRAFENSTEINER",
+   "text": "_Grafensteiner_                             102"
+  },
+  {
+   "line": 18484,
+   "page": null,
+   "score": 1.0,
+   "key": "GRAVENSTEIN",
+   "text": "Gravenstein                                 102"
+  }
+ ],
+ "colonel-vaughan": [
+  {
+   "line": 1678,
+   "page": null,
+   "score": 1.8,
+   "key": "KENTISH PIPPIN",
+   "text": "Kentish Pippin"
+  },
+  {
+   "line": 1648,
+   "page": null,
+   "score": 1.3,
+   "key": "COLONEL VAUGHANS",
+   "text": "Colonel Vaughan’s"
+  },
+  {
+   "line": 17400,
+   "page": null,
+   "score": 1.3,
+   "key": "COLONEL VAUGHANS",
+   "text": "Colonel Vaughan’s"
+  },
+  {
+   "line": 18205,
+   "page": null,
+   "score": 1.3,
+   "key": "COLONEL VAUGHANS",
+   "text": "Colonel Vaughan’s                            59"
+  },
+  {
+   "line": 19188,
+   "page": null,
+   "score": 1.3,
+   "key": "RED KENTISH",
+   "text": "_Red Kentish_                        121"
+  },
+  {
+   "line": 1554,
+   "page": null,
+   "score": 1.0,
+   "key": "KENTISH",
+   "text": "Kentish Fill Basket"
+  }
+ ],
+ "kentish-fillbasket": [
+  {
+   "line": 1554,
+   "page": null,
+   "score": 1.8,
+   "key": "KENTISH FILL BASKET",
+   "text": "Kentish Fill Basket"
+  },
+  {
+   "line": 17424,
+   "page": null,
+   "score": 1.8,
+   "key": "KENTISH FILL BASKET",
+   "text": "Kentish Fill-basket"
+  },
+  {
+   "line": 17804,
+   "page": null,
+   "score": 1.8,
+   "key": "KENTISH FILL BASKET",
+   "text": "Kentish Fill-basket"
+  },
+  {
+   "line": 18645,
+   "page": null,
+   "score": 1.3,
+   "key": "LADY DE GREYS",
+   "text": "Lady _de Grey’s_                            120"
+  }
+ ],
+ "kingston-black": [
+  {
+   "line": 1555,
+   "page": null,
+   "score": 1.8,
+   "key": "KINGSTON BLACK",
+   "text": "Kingston Black"
+  },
+  {
+   "line": 17859,
+   "page": null,
+   "score": 1.8,
+   "key": "KINGSTON BLACK",
+   "text": "Kingston Black"
+  },
+  {
+   "line": 18633,
+   "page": null,
+   "score": 1.3,
+   "key": "KINGSTON BLACK",
+   "text": "Kingston Black                              123"
+  }
+ ],
+ "flower-of-kent": [
+  {
+   "line": 1580,
+   "page": null,
+   "score": 1.8,
+   "key": "FLOWER OF KENT",
+   "text": "Flower of Kent"
+  },
+  {
+   "line": 17417,
+   "page": null,
+   "score": 1.8,
+   "key": "FLOWER OF KENT",
+   "text": "Flower of Kent"
+  },
+  {
+   "line": 17791,
+   "page": null,
+   "score": 1.8,
+   "key": "FLOWER OF KENT",
+   "text": "Flower of Kent"
+  },
+  {
+   "line": 18385,
+   "page": null,
+   "score": 1.3,
+   "key": "FLOWER OF KENT",
+   "text": "Flower of Kent                               84"
+  }
+ ],
+ "hawthornden": [
+  {
+   "line": 1585,
+   "page": null,
+   "score": 1.5,
+   "key": "HAWTHORNDEN",
+   "text": "Hawthornden"
+  },
+  {
+   "line": 4915,
+   "page": null,
+   "score": 1.5,
+   "key": "HAWTHORNDEN",
+   "text": "Hawthornden, _acc. Riv. Cat._ Wellington’s, _Diel Kernobst._ v. B. 55."
+  },
+  {
+   "line": 6003,
+   "page": null,
+   "score": 1.5,
+   "key": "HAWTHORNDEN",
+   "text": "Hawthornden. Eye, large, with long segments, and set in an angular"
+  },
+  {
+   "line": 11373,
+   "page": null,
+   "score": 1.5,
+   "key": "LINCOLNSHIRE",
+   "text": "Lincolnshire, for the supply of the Boston markets."
+  },
+  {
+   "line": 13008,
+   "page": null,
+   "score": 1.5,
+   "key": "HAWTHORNDEN",
+   "text": "Hawthornden.--_Laws. Cat._"
+  },
+  {
+   "line": 17423,
+   "page": null,
+   "score": 1.5,
+   "key": "HAWTHORNDEN",
+   "text": "Hawthornden"
+  }
+ ],
+ "scotch-bridget": [
+  {
+   "line": 1593,
+   "page": null,
+   "score": 1.8,
+   "key": "SCOTCH BRIDGET",
+   "text": "Scotch Bridget"
+  },
+  {
+   "line": 3562,
+   "page": null,
+   "score": 1.8,
+   "key": "WHITE CALVILLE",
+   "text": "White Calville, _Switz. Fr. Gard._ 135. _Coxe View_. 136. White"
+  }
+ ],
+ "cornish-aromatic": [
+  {
+   "line": 1603,
+   "page": null,
+   "score": 1.8,
+   "key": "CORNISH AROMATIC",
+   "text": "Cornish Aromatic"
+  },
+  {
+   "line": 17401,
+   "page": null,
+   "score": 1.8,
+   "key": "CORNISH AROMATIC",
+   "text": "Cornish Aromatic"
+  }
+ ],
+ "catshead": [
+  {
+   "line": 1616,
+   "page": null,
+   "score": 1.5,
+   "key": "CATSHEAD",
+   "text": "Catshead"
+  },
+  {
+   "line": 17414,
+   "page": null,
+   "score": 1.5,
+   "key": "CATSHEAD",
+   "text": "Catshead"
+  },
+  {
+   "line": 17784,
+   "page": null,
+   "score": 1.5,
+   "key": "CATSHEAD",
+   "text": "Catshead"
+  },
+  {
+   "line": 18148,
+   "page": null,
+   "score": 1.3,
+   "key": "CATS HEAD",
+   "text": "_Cat’s Head_                                 53"
+  },
+  {
+   "line": 4363,
+   "page": null,
+   "score": 1.0,
+   "key": "CATSHEAD",
+   "text": "Catshead and Costard as distinct, and Leonard Meager enumerates three"
+  },
+  {
+   "line": 18149,
+   "page": null,
+   "score": 1.0,
+   "key": "CATSHEAD",
+   "text": "Catshead                                     53"
+  }
+ ],
+ "costard": [
+  {
+   "line": 1618,
+   "page": null,
+   "score": 1.5,
+   "key": "COSTARD",
+   "text": "Costard"
+  },
+  {
+   "line": 3859,
+   "page": null,
+   "score": 1.0,
+   "key": "COSTARD",
+   "text": "Costard of Ray, which is undoubtedly an error, the Costard being a"
+  },
+  {
+   "line": 18216,
+   "page": null,
+   "score": 1.0,
+   "key": "COSTARD",
+   "text": "Costard                                      61"
+  },
+  {
+   "line": 18219,
+   "page": null,
+   "score": 1.0,
+   "key": "COULTHARD",
+   "text": "_Coulthard_                                  61"
+  },
+  {
+   "line": 19186,
+   "page": null,
+   "score": 1.0,
+   "key": "PRUSSIAN",
+   "text": "_Prussian_                            61"
+  }
+ ],
+ "melrose": [
+  {
+   "line": 1627,
+   "page": null,
+   "score": 1.5,
+   "key": "MELROSE",
+   "text": "Melrose"
+  },
+  {
+   "line": 17546,
+   "page": null,
+   "score": 1.5,
+   "key": "MELROSE",
+   "text": "Melrose"
+  },
+  {
+   "line": 17627,
+   "page": null,
+   "score": 1.5,
+   "key": "MELROSE",
+   "text": "Melrose"
+  },
+  {
+   "line": 17810,
+   "page": null,
+   "score": 1.5,
+   "key": "MELROSE",
+   "text": "Melrose"
+  },
+  {
+   "line": 18730,
+   "page": null,
+   "score": 1.0,
+   "key": "MELROSE",
+   "text": "Melrose                                     136"
+  }
+ ],
+ "sheeps-nose": [
+  {
+   "line": 1632,
+   "page": null,
+   "score": 1.3,
+   "key": "SHEEPS NOSE",
+   "text": "Sheep’s Nose"
+  },
+  {
+   "line": 19653,
+   "page": null,
+   "score": 1.3,
+   "key": "SHEEPS NOSE",
+   "text": "Sheep’s Nose                                182"
+  }
+ ],
+ "emperor-alexander": [
+  {
+   "line": 1655,
+   "page": null,
+   "score": 1.8,
+   "key": "EMPEROR ALEXANDER",
+   "text": "Emperor Alexander"
+  },
+  {
+   "line": 17416,
+   "page": null,
+   "score": 1.8,
+   "key": "EMPEROR ALEXANDER",
+   "text": "Emperor Alexander"
+  },
+  {
+   "line": 17543,
+   "page": null,
+   "score": 1.8,
+   "key": "EMPEROR ALEXANDER",
+   "text": "Emperor Alexander"
+  },
+  {
+   "line": 17790,
+   "page": null,
+   "score": 1.8,
+   "key": "EMPEROR ALEXANDER",
+   "text": "Emperor Alexander"
+  },
+  {
+   "line": 18339,
+   "page": null,
+   "score": 1.3,
+   "key": "EMPEROR ALEXANDER",
+   "text": "Emperor Alexander                            77"
+  },
+  {
+   "line": 18608,
+   "page": null,
+   "score": 1.3,
+   "key": "KAISER ALEXANDER",
+   "text": "_Kaiser Alexander Von Russland_              77"
+  }
+ ],
+ "hagloe-crab": [
+  {
+   "line": 1661,
+   "page": null,
+   "score": 1.8,
+   "key": "HAGLOE CRAB",
+   "text": "Hagloe Crab"
+  },
+  {
+   "line": 17856,
+   "page": null,
+   "score": 1.8,
+   "key": "HAGLOE CRAB",
+   "text": "Hagloe Crab"
+  }
+ ],
+ "autumn-pearmain": [
+  {
+   "line": 1665,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17536,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17610,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17764,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  }
+ ],
+ "blenheim-orange": [
+  {
+   "line": 1712,
+   "page": null,
+   "score": 1.8,
+   "key": "BLENHEIM PIPPIN",
+   "text": "Blenheim Pippin"
+  },
+  {
+   "line": 2982,
+   "page": null,
+   "score": 1.8,
+   "key": "WOODSTOCK PIPPIN",
+   "text": "Woodstock Pippin, _Ibid._ Northwick Pippin, _Ibid._ Kempster’s Pippin."
+  },
+  {
+   "line": 17478,
+   "page": null,
+   "score": 1.8,
+   "key": "BLENHEIM PIPPIN",
+   "text": "Blenheim Pippin"
+  },
+  {
+   "line": 17579,
+   "page": null,
+   "score": 1.8,
+   "key": "BLENHEIM PIPPIN",
+   "text": "Blenheim Pippin"
+  },
+  {
+   "line": 17599,
+   "page": null,
+   "score": 1.8,
+   "key": "BLENHEIM PIPPIN",
+   "text": "Blenheim Pippin"
+  },
+  {
+   "line": 17781,
+   "page": null,
+   "score": 1.8,
+   "key": "BLENHEIM PIPPIN",
+   "text": "Blenheim Pippin"
+  }
+ ],
+ "rhode-island-greening": [
+  {
+   "line": 1736,
+   "page": null,
+   "score": 1.8,
+   "key": "RHODE ISLAND GREENING",
+   "text": "Rhode Island Greening"
+  },
+  {
+   "line": 17489,
+   "page": null,
+   "score": 1.8,
+   "key": "RHODE ISLAND GREENING",
+   "text": "Rhode Island Greening"
+  },
+  {
+   "line": 15162,
+   "page": null,
+   "score": 1.5,
+   "key": "GREENING",
+   "text": "Greening; it is of a dark green color, with a little of a chocolate"
+  },
+  {
+   "line": 18491,
+   "page": null,
+   "score": 1.5,
+   "key": "GREENING",
+   "text": "Greening, _Burlington_                      170"
+  }
+ ],
+ "esopus-spitzenburg": [
+  {
+   "line": 1741,
+   "page": null,
+   "score": 1.5,
+   "key": "SPITZENBERG",
+   "text": "Spitzenberg"
+  },
+  {
+   "line": 5300,
+   "page": null,
+   "score": 1.5,
+   "key": "SPITZENBURG",
+   "text": "Spitzenburg, _Ken. Amer. Or._ 40. True Spitzenburgh, _acc. Down._"
+  },
+  {
+   "line": 8904,
+   "page": null,
+   "score": 1.5,
+   "key": "SPITZENBERG",
+   "text": "Spitzenberg, _acc. Coxe Cult_ 126. English Spitzemberg, _Ibid._"
+  },
+  {
+   "line": 19682,
+   "page": null,
+   "score": 1.0,
+   "key": "SPITZENBERG",
+   "text": "Spitzenberg _Æsopus_                         80"
+  }
+ ],
+ "wyken-pippin": [
+  {
+   "line": 1743,
+   "page": null,
+   "score": 1.8,
+   "key": "WYKEN PIPPIN",
+   "text": "Wyken Pippin"
+  },
+  {
+   "line": 17470,
+   "page": null,
+   "score": 1.8,
+   "key": "WYKEN PIPPIN",
+   "text": "Wyken Pippin"
+  },
+  {
+   "line": 17766,
+   "page": null,
+   "score": 1.8,
+   "key": "WYKEN PIPPIN",
+   "text": "Wyken Pippin"
+  },
+  {
+   "line": 19234,
+   "page": null,
+   "score": 1.0,
+   "key": "WARWICKSHIRE",
+   "text": "_Warwickshire_                       211"
+  }
+ ],
+ "newtown-pippin": [
+  {
+   "line": 1810,
+   "page": null,
+   "score": 1.8,
+   "key": "NEWTOWN PIPPIN",
+   "text": "Newtown Pippin"
+  },
+  {
+   "line": 8846,
+   "page": null,
+   "score": 1.8,
+   "key": "NEWTOWN PIPPIN",
+   "text": "Newtown Pippin, _acc. Hort. Soc. Cat._ Green Newtown Pippin, _Hort."
+  },
+  {
+   "line": 1744,
+   "page": null,
+   "score": 1.3,
+   "key": "YELLOW NEWTOWN",
+   "text": "Yellow Newtown Pippin"
+  },
+  {
+   "line": 2078,
+   "page": null,
+   "score": 1.3,
+   "key": "NEWTOWN PIPPIN",
+   "text": "_Newtown Pippin_."
+  },
+  {
+   "line": 14148,
+   "page": null,
+   "score": 1.3,
+   "key": "NEWTOWN PIPPIN",
+   "text": "Newtown Pippin flavor. It is in use in January, and suitable either for"
+  },
+  {
+   "line": 18764,
+   "page": null,
+   "score": 1.3,
+   "key": "NEWTOWN PIPPIN",
+   "text": "Newtown Pippin                              143"
+  }
+ ],
+ "calville-rouge-dhiver": [
+  {
+   "line": 1753,
+   "page": null,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DHIVER",
+   "text": "Calville Rouge d’Hiver"
+  }
+ ],
+ "caroline": [
+  {
+   "line": 1754,
+   "page": null,
+   "score": 1.5,
+   "key": "CAROLINE",
+   "text": "Caroline"
+  },
+  {
+   "line": 18140,
+   "page": null,
+   "score": 1.0,
+   "key": "CAROLINE",
+   "text": "Caroline                                     52"
+  }
+ ],
+ "hambledon-deux-ans": [
+  {
+   "line": 1761,
+   "page": null,
+   "score": 1.8,
+   "key": "HAMBLEDON DEUX ANS",
+   "text": "Hambledon Deux Ans"
+  },
+  {
+   "line": 17482,
+   "page": null,
+   "score": 1.8,
+   "key": "HAMBLEDON DEUX ANS",
+   "text": "Hambledon Deux Ans"
+  },
+  {
+   "line": 18281,
+   "page": null,
+   "score": 1.8,
+   "key": "DEUX ANS",
+   "text": "Deux Ans, Hambledon                         105"
+  }
+ ],
+ "claygate-pearmain": [
+  {
+   "line": 1916,
+   "page": null,
+   "score": 1.8,
+   "key": "CLAYGATE PEARMAIN",
+   "text": "Claygate Pearmain"
+  },
+  {
+   "line": 17442,
+   "page": null,
+   "score": 1.8,
+   "key": "CLAYGATE PEARMAIN",
+   "text": "Claygate Pearmain"
+  },
+  {
+   "line": 17561,
+   "page": null,
+   "score": 1.8,
+   "key": "CLAYGATE PEARMAIN",
+   "text": "Claygate Pearmain"
+  },
+  {
+   "line": 17735,
+   "page": null,
+   "score": 1.8,
+   "key": "CLAYGATE PEARMAIN",
+   "text": "Claygate Pearmain"
+  },
+  {
+   "line": 2450,
+   "page": null,
+   "score": 1.5,
+   "key": "RIBSTON",
+   "text": "Ribston, but particularly the latter."
+  },
+  {
+   "line": 8355,
+   "page": null,
+   "score": 1.5,
+   "key": "RIBSTON",
+   "text": "Ribston, _M.C.H.S._"
+  }
+ ],
+ "ribston-pippin": [
+  {
+   "line": 1768,
+   "page": null,
+   "score": 1.8,
+   "key": "RIBSTON PIPPIN",
+   "text": "Ribston Pippin"
+  },
+  {
+   "line": 12233,
+   "page": null,
+   "score": 1.8,
+   "key": "RIBSTON PIPPIN",
+   "text": "Ribston Pippin, and will keep till May and June."
+  },
+  {
+   "line": 13104,
+   "page": null,
+   "score": 1.8,
+   "key": "RIBSTON PIPPIN",
+   "text": "Ribston Pippin, but not so rich; it is in use from November to March."
+  },
+  {
+   "line": 17407,
+   "page": null,
+   "score": 1.8,
+   "key": "RIBSTON PIPPIN",
+   "text": "Ribston Pippin"
+  },
+  {
+   "line": 17535,
+   "page": null,
+   "score": 1.8,
+   "key": "RIBSTON PIPPIN",
+   "text": "Ribston Pippin"
+  },
+  {
+   "line": 2450,
+   "page": null,
+   "score": 1.5,
+   "key": "RIBSTON",
+   "text": "Ribston, but particularly the latter."
+  }
+ ],
+ "aromatic-russet": [
+  {
+   "line": 1776,
+   "page": null,
+   "score": 1.8,
+   "key": "SPICE APPLE",
+   "text": "Spice Apple"
+  },
+  {
+   "line": 1845,
+   "page": null,
+   "score": 1.8,
+   "key": "AROMATIC RUSSET",
+   "text": "Aromatic Russet"
+  },
+  {
+   "line": 19677,
+   "page": null,
+   "score": 1.3,
+   "key": "SPICE APPLE",
+   "text": "Spice Apple                                 186"
+  }
+ ],
+ "darcy-spice": [
+  {
+   "line": 1793,
+   "page": null,
+   "score": 1.8,
+   "key": "BADDOW PIPPIN",
+   "text": "Baddow Pippin"
+  },
+  {
+   "line": 17436,
+   "page": null,
+   "score": 1.8,
+   "key": "BADDOW PIPPIN",
+   "text": "Baddow Pippin"
+  }
+ ],
+ "braddick-nonpareil": [
+  {
+   "line": 1796,
+   "page": null,
+   "score": 1.3,
+   "key": "BRADDICKS NONPAREIL",
+   "text": "Braddick’s Nonpareil"
+  },
+  {
+   "line": 17440,
+   "page": null,
+   "score": 1.3,
+   "key": "BRADDICKS NONPAREIL",
+   "text": "Braddick’s Nonpareil"
+  },
+  {
+   "line": 17559,
+   "page": null,
+   "score": 1.3,
+   "key": "BRADDICKS NONPAREIL",
+   "text": "Braddick’s Nonpareil"
+  },
+  {
+   "line": 17640,
+   "page": null,
+   "score": 1.3,
+   "key": "BRADDICKS NONPAREIL",
+   "text": "* Braddick’s Nonpareil"
+  },
+  {
+   "line": 17730,
+   "page": null,
+   "score": 1.3,
+   "key": "BRADDICKS NONPAREIL",
+   "text": "Braddick’s Nonpareil"
+  }
+ ],
+ "court-pendu-plat": [
+  {
+   "line": 1801,
+   "page": null,
+   "score": 1.8,
+   "key": "COURT PENDU PLAT",
+   "text": "Court-pendu Plat"
+  },
+  {
+   "line": 17447,
+   "page": null,
+   "score": 1.8,
+   "key": "COURT PENDU PLAT",
+   "text": "Court-pendu Plat"
+  },
+  {
+   "line": 17564,
+   "page": null,
+   "score": 1.8,
+   "key": "COURT PENDU PLAT",
+   "text": "Court-pendu Plat"
+  },
+  {
+   "line": 17739,
+   "page": null,
+   "score": 1.8,
+   "key": "COURT PENDU PLAT",
+   "text": "Court-pendu Plat"
+  },
+  {
+   "line": 4450,
+   "page": null,
+   "score": 1.3,
+   "key": "COURT PENDU",
+   "text": "Court-pendu rosat, _Diel Kernobst._ xii. 171. Court-pendû musqué,"
+  },
+  {
+   "line": 18220,
+   "page": null,
+   "score": 1.3,
+   "key": "COURT PENDU",
+   "text": "_Court-pendû_                                64"
+  }
+ ],
+ "dumelows-seedling": [
+  {
+   "line": 1802,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS SEEDLING",
+   "text": "Dumelow’s Seedling"
+  },
+  {
+   "line": 4944,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS CRAB",
+   "text": "Dumelow’s Crab. It was first introduced to the neighbourhood of London,"
+  },
+  {
+   "line": 15763,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS SEEDLING",
+   "text": "Dumelow’s Seedling. It is cultivated about Nottingham--_Mid. Flor._"
+  },
+  {
+   "line": 17480,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS SEEDLING",
+   "text": "Dumelow’s Seedling"
+  },
+  {
+   "line": 17580,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS SEEDLING",
+   "text": "Dumelow’s Seedling"
+  },
+  {
+   "line": 17662,
+   "page": null,
+   "score": 1.3,
+   "key": "DUMELOWS SEEDLING",
+   "text": "Dumelow’s Seedling"
+  }
+ ],
+ "london-pippin": [
+  {
+   "line": 1807,
+   "page": null,
+   "score": 1.8,
+   "key": "LONDON PIPPIN",
+   "text": "London Pippin"
+  },
+  {
+   "line": 12654,
+   "page": null,
+   "score": 1.8,
+   "key": "LONDON PIPPIN",
+   "text": "London Pippin, but does not change to yellow color by keeping as that"
+  },
+  {
+   "line": 17807,
+   "page": null,
+   "score": 1.8,
+   "key": "LONDON PIPPIN",
+   "text": "London Pippin"
+  },
+  {
+   "line": 19064,
+   "page": null,
+   "score": 1.3,
+   "key": "FIVE CROWNED",
+   "text": "_Five-Crowned_                       128"
+  }
+ ],
+ "nonpareil": [
+  {
+   "line": 15792,
+   "page": null,
+   "score": 1.8,
+   "key": "OLD NONPAREIL",
+   "text": "Old Nonpareil, which it resembles. It is of a roundish shape. Skin,"
+  },
+  {
+   "line": 1811,
+   "page": null,
+   "score": 1.5,
+   "key": "NONPAREIL",
+   "text": "Nonpareil"
+  },
+  {
+   "line": 9000,
+   "page": null,
+   "score": 1.5,
+   "key": "NONPAREIL",
+   "text": "Nonpareil, _Hort Soc. Cat._ ed. 1, 659. Lovedon’s Pippin, _Ibid._ 573."
+  },
+  {
+   "line": 9264,
+   "page": null,
+   "score": 1.5,
+   "key": "NONPAREIL",
+   "text": "Nonpareil, over which it has this advantage, that it will ripen in a"
+  },
+  {
+   "line": 10674,
+   "page": null,
+   "score": 1.5,
+   "key": "NONPAREIL",
+   "text": "Nonpareil. Skin, yellow, tinged with green on the shaded side; but"
+  },
+  {
+   "line": 16413,
+   "page": null,
+   "score": 1.5,
+   "key": "NONPAREIL",
+   "text": "Nonpareil. It is of a roundish shape; skin, green on the shaded side,"
+  }
+ ],
+ "norfolk-beefing": [
+  {
+   "line": 1812,
+   "page": null,
+   "score": 1.8,
+   "key": "NORFOLK BEEFING",
+   "text": "Norfolk Beefing"
+  },
+  {
+   "line": 17485,
+   "page": null,
+   "score": 1.8,
+   "key": "NORFOLK BEEFING",
+   "text": "Norfolk Beefing"
+  },
+  {
+   "line": 19400,
+   "page": null,
+   "score": 1.3,
+   "key": "REEDS BAKER",
+   "text": "_Reed’s Baker_                              146"
+  }
+ ],
+ "sops-in-wine": [
+  {
+   "line": 1827,
+   "page": null,
+   "score": 1.8,
+   "key": "SOPS IN WINE",
+   "text": "Sops in Wine"
+  },
+  {
+   "line": 17869,
+   "page": null,
+   "score": 1.8,
+   "key": "SOPS IN WINE",
+   "text": "Sops in Wine"
+  },
+  {
+   "line": 19670,
+   "page": null,
+   "score": 1.3,
+   "key": "SOPS IN WINE",
+   "text": "Sops in Wine                                186"
+  },
+  {
+   "line": 19671,
+   "page": null,
+   "score": 1.3,
+   "key": "SOPS OF WINE",
+   "text": "_Sops of Wine_                              186"
+  }
+ ],
+ "sturmer-pippin": [
+  {
+   "line": 1829,
+   "page": null,
+   "score": 1.8,
+   "key": "STURMER PIPPIN",
+   "text": "Sturmer Pippin"
+  },
+  {
+   "line": 17468,
+   "page": null,
+   "score": 1.8,
+   "key": "STURMER PIPPIN",
+   "text": "Sturmer Pippin"
+  },
+  {
+   "line": 17572,
+   "page": null,
+   "score": 1.8,
+   "key": "STURMER PIPPIN",
+   "text": "Sturmer Pippin"
+  },
+  {
+   "line": 17762,
+   "page": null,
+   "score": 1.8,
+   "key": "STURMER PIPPIN",
+   "text": "Sturmer Pippin"
+  },
+  {
+   "line": 11627,
+   "page": null,
+   "score": 1.5,
+   "key": "STURMER",
+   "text": "Sturmer, near Haverhill, in Suffolk, and was obtained by impregnating"
+  },
+  {
+   "line": 17656,
+   "page": null,
+   "score": 1.3,
+   "key": "STURMER PIPPIN",
+   "text": "* Sturmer Pippin"
+  }
+ ],
+ "ashmeads-kernel": [
+  {
+   "line": 1846,
+   "page": null,
+   "score": 1.3,
+   "key": "ASHMEADS KERNEL",
+   "text": "Ashmead’s Kernel"
+  },
+  {
+   "line": 17435,
+   "page": null,
+   "score": 1.3,
+   "key": "ASHMEADS KERNEL",
+   "text": "Ashmead’s Kernel"
+  },
+  {
+   "line": 17728,
+   "page": null,
+   "score": 1.3,
+   "key": "ASHMEADS KERNEL",
+   "text": "Ashmead’s Kernel"
+  }
+ ],
+ "roxbury-russet": [
+  {
+   "line": 1847,
+   "page": null,
+   "score": 1.8,
+   "key": "BOSTON RUSSET",
+   "text": "Boston Russet"
+  },
+  {
+   "line": 17439,
+   "page": null,
+   "score": 1.8,
+   "key": "BOSTON RUSSET",
+   "text": "Boston Russet"
+  },
+  {
+   "line": 17731,
+   "page": null,
+   "score": 1.8,
+   "key": "BOSTON RUSSET",
+   "text": "Boston Russet"
+  }
+ ],
+ "knobby-russet": [
+  {
+   "line": 1854,
+   "page": null,
+   "score": 1.8,
+   "key": "KNOBBED RUSSET",
+   "text": "Knobbed Russet"
+  },
+  {
+   "line": 18842,
+   "page": null,
+   "score": 1.3,
+   "key": "OLD MAIDS",
+   "text": "_Old Maid’s_                                124"
+  }
+ ],
+ "pomme-gris": [
+  {
+   "line": 1860,
+   "page": null,
+   "score": 1.8,
+   "key": "POMME GRISE",
+   "text": "Pomme Grise"
+  }
+ ],
+ "ross-nonpareil": [
+  {
+   "line": 1865,
+   "page": null,
+   "score": 1.8,
+   "key": "ROSS NONPAREIL",
+   "text": "Ross Nonpareil"
+  },
+  {
+   "line": 17465,
+   "page": null,
+   "score": 1.8,
+   "key": "ROSS NONPAREIL",
+   "text": "Ross Nonpareil"
+  }
+ ],
+ "sam-young": [
+  {
+   "line": 1867,
+   "page": null,
+   "score": 1.8,
+   "key": "SAM YOUNG",
+   "text": "Sam Young"
+  },
+  {
+   "line": 17467,
+   "page": null,
+   "score": 1.8,
+   "key": "SAM YOUNG",
+   "text": "Sam Young"
+  },
+  {
+   "line": 19629,
+   "page": null,
+   "score": 1.3,
+   "key": "SAM YOUNG",
+   "text": "Sam Young                                   178"
+  }
+ ],
+ "wheelers-russet": [
+  {
+   "line": 1870,
+   "page": null,
+   "score": 1.3,
+   "key": "WHEELERS RUSSET",
+   "text": "Wheeler’s Russet"
+  }
+ ],
+ "cockle-pippin": [
+  {
+   "line": 1884,
+   "page": null,
+   "score": 1.8,
+   "key": "COCKLE PIPPIN",
+   "text": "Cockle Pippin"
+  },
+  {
+   "line": 17443,
+   "page": null,
+   "score": 1.8,
+   "key": "COCKLE PIPPIN",
+   "text": "Cockle Pippin"
+  },
+  {
+   "line": 17562,
+   "page": null,
+   "score": 1.8,
+   "key": "COCKLE PIPPIN",
+   "text": "Cockle Pippin"
+  },
+  {
+   "line": 19014,
+   "page": null,
+   "score": 1.3,
+   "key": "BROWN COCKLE",
+   "text": "_Brown Cockle_                        57"
+  },
+  {
+   "line": 19029,
+   "page": null,
+   "score": 1.0,
+   "key": "COCKLES",
+   "text": "_Cockle’s_                            57"
+  }
+ ],
+ "lemon-pippin": [
+  {
+   "line": 1891,
+   "page": null,
+   "score": 1.8,
+   "key": "LEMON PIPPIN",
+   "text": "Lemon Pippin"
+  },
+  {
+   "line": 17806,
+   "page": null,
+   "score": 1.8,
+   "key": "LEMON PIPPIN",
+   "text": "Lemon Pippin"
+  },
+  {
+   "line": 19121,
+   "page": null,
+   "score": 1.3,
+   "key": "KIRKES LEMON",
+   "text": "_Kirke’s Lemon_                      126"
+  }
+ ],
+ "warners-king": [
+  {
+   "line": 1900,
+   "page": null,
+   "score": 1.3,
+   "key": "WARNERS KING",
+   "text": "Warner’s King"
+  }
+ ],
+ "baldwin": [
+  {
+   "line": 1910,
+   "page": null,
+   "score": 1.5,
+   "key": "BALDWIN",
+   "text": "Baldwin"
+  },
+  {
+   "line": 17942,
+   "page": null,
+   "score": 1.0,
+   "key": "BALDWIN",
+   "text": "Baldwin                                      29"
+  },
+  {
+   "line": 18065,
+   "page": null,
+   "score": 1.0,
+   "key": "BUTTERS",
+   "text": "_Butter’s_                                   29"
+  },
+  {
+   "line": 19816,
+   "page": null,
+   "score": 1.0,
+   "key": "WOODPECKER",
+   "text": "_Woodpecker_                                 29"
+  }
+ ],
+ "beauty-of-kent": [
+  {
+   "line": 1912,
+   "page": null,
+   "score": 1.8,
+   "key": "BEAUTY OF KENT",
+   "text": "Beauty of Kent"
+  },
+  {
+   "line": 17476,
+   "page": null,
+   "score": 1.8,
+   "key": "BEAUTY OF KENT",
+   "text": "Beauty of Kent"
+  },
+  {
+   "line": 17778,
+   "page": null,
+   "score": 1.8,
+   "key": "BEAUTY OF KENT",
+   "text": "Beauty of Kent"
+  },
+  {
+   "line": 17961,
+   "page": null,
+   "score": 1.3,
+   "key": "BEAUTY OF KENT",
+   "text": "Beauty of Kent                               32"
+  }
+ ],
+ "bess-pool": [
+  {
+   "line": 1914,
+   "page": null,
+   "score": 1.8,
+   "key": "BESS POOL",
+   "text": "Bess Pool"
+  },
+  {
+   "line": 17558,
+   "page": null,
+   "score": 1.8,
+   "key": "BESS POOL",
+   "text": "Bess Pool"
+  },
+  {
+   "line": 17780,
+   "page": null,
+   "score": 1.8,
+   "key": "BESS POOL",
+   "text": "Bess Pool"
+  },
+  {
+   "line": 17989,
+   "page": null,
+   "score": 1.3,
+   "key": "BESS POOL",
+   "text": "Bess Pool                                    36"
+  }
+ ],
+ "cornish-gilliflower": [
+  {
+   "line": 1917,
+   "page": null,
+   "score": 1.8,
+   "key": "CORNISH GILLIFLOWER",
+   "text": "Cornish Gilliflower"
+  },
+  {
+   "line": 17445,
+   "page": null,
+   "score": 1.8,
+   "key": "CORNISH GILLIFLOWER",
+   "text": "Cornish Gilliflower"
+  },
+  {
+   "line": 17737,
+   "page": null,
+   "score": 1.8,
+   "key": "CORNISH GILLIFLOWER",
+   "text": "Cornish Gilliflower"
+  }
+ ],
+ "winter-pearmain": [
+  {
+   "line": 1930,
+   "page": null,
+   "score": 1.8,
+   "key": "WINTER PEARMAIN",
+   "text": "Winter Pearmain"
+  },
+  {
+   "line": 1931,
+   "page": null,
+   "score": 1.8,
+   "key": "WINTER QUOINING",
+   "text": "Winter Quoining"
+  },
+  {
+   "line": 17495,
+   "page": null,
+   "score": 1.8,
+   "key": "WINTER PEARMAIN",
+   "text": "Winter Pearmain"
+  },
+  {
+   "line": 17825,
+   "page": null,
+   "score": 1.8,
+   "key": "WINTER PEARMAIN",
+   "text": "Winter Pearmain"
+  },
+  {
+   "line": 17873,
+   "page": null,
+   "score": 1.8,
+   "key": "WINTER PEARMAIN",
+   "text": "Winter Pearmain"
+  },
+  {
+   "line": 18948,
+   "page": null,
+   "score": 1.3,
+   "key": "SUSSEX SCARLET",
+   "text": "Sussex Scarlet                    275"
+  }
+ ],
+ "golden-knob": [
+  {
+   "line": 1967,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN KNOB",
+   "text": "Golden Knob"
+  }
+ ],
+ "golden-russet": [
+  {
+   "line": 1969,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN RUSSET",
+   "text": "Golden Russet"
+  }
+ ],
+ "rosemary-russet": [
+  {
+   "line": 1975,
+   "page": null,
+   "score": 1.8,
+   "key": "ROSEMARY RUSSET",
+   "text": "Rosemary Russet"
+  },
+  {
+   "line": 19605,
+   "page": null,
+   "score": 1.0,
+   "key": "ROSEMARY",
+   "text": "Rosemary                            173"
+  }
+ ],
+ "api": [
+  {
+   "line": 2234,
+   "page": null,
+   "score": 1.3,
+   "key": "POMME DAPI",
+   "text": "Pomme d’Api Gros. _Ron. Pyr. Mal._ 39. Passe-rose, _Chart. Cat._ 55."
+  },
+  {
+   "line": 18644,
+   "page": null,
+   "score": 1.3,
+   "key": "LADY APPLE",
+   "text": "_Lady Apple_                                 23"
+  }
+ ],
+ "arbroath-pippin": [
+  {
+   "line": 6154,
+   "page": null,
+   "score": 1.5,
+   "key": "ORIGINAL",
+   "text": "original, in an old orchard at Downham, and communicated it to the"
+  },
+  {
+   "line": 9274,
+   "page": null,
+   "score": 1.5,
+   "key": "ARBROATH",
+   "text": "Arbroath; or to have been introduced from France by the monks of the"
+  },
+  {
+   "line": 18060,
+   "page": null,
+   "score": 1.3,
+   "key": "BURR KNOT",
+   "text": "Burr Knot                                   220"
+  },
+  {
+   "line": 18746,
+   "page": null,
+   "score": 1.3,
+   "key": "MOTHER APPLE",
+   "text": "Mother Apple                                252"
+  },
+  {
+   "line": 18747,
+   "page": null,
+   "score": 1.3,
+   "key": "MOTHER APPLE",
+   "text": "_Mother Apple_                              149"
+  },
+  {
+   "line": 2361,
+   "page": null,
+   "score": 1.0,
+   "key": "ORIGINAL",
+   "text": "original tree existed within the last few years, in what had originally"
+  }
+ ],
+ "lord-suffield": [
+  {
+   "line": 3830,
+   "page": null,
+   "score": 1.8,
+   "key": "LORD SUFFIELD",
+   "text": "Lord Suffield, of Blickling and Gunton Hall, Norfolk.--_Lindley._"
+  }
+ ],
+ "christmas-pearmain": [
+  {
+   "line": 3945,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas."
+  },
+  {
+   "line": 4174,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas, if well preserved."
+  },
+  {
+   "line": 4264,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas."
+  },
+  {
+   "line": 4905,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas."
+  },
+  {
+   "line": 7819,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas."
+  },
+  {
+   "line": 9975,
+   "page": null,
+   "score": 1.5,
+   "key": "CHRISTMAS",
+   "text": "Christmas."
+  }
+ ],
+ "summer-rambo": [
+  {
+   "line": 10010,
+   "page": null,
+   "score": 1.8,
+   "key": "RAMBOUR DETE",
+   "text": "Rambour d’été, _Poit. et Turp._ Rambour d’été or Summer Rambour, _Coxe"
+  }
+ ],
+ "hereford-redstreak": [
+  {
+   "line": 10135,
+   "page": null,
+   "score": 1.3,
+   "key": "SCUDAMORES CRAB",
+   "text": "Scudamore’s Crab."
+  }
+ ],
+ "fall-pippin": [
+  {
+   "line": 10258,
+   "page": null,
+   "score": 1.8,
+   "key": "FALL PIPPIN",
+   "text": "Fall Pippin, _Rog. Fr. Cult._ 95. Cobbett’s Fall Pippin, _acc. Hort."
+  }
+ ],
+ "danziger-kantapfel": [
+  {
+   "line": 12738,
+   "page": null,
+   "score": 1.5,
+   "key": "HIMBEERAPFEL",
+   "text": "Himbeerapfel, _Diel Kernobst._ v. 15."
+  },
+  {
+   "line": 18540,
+   "page": null,
+   "score": 1.0,
+   "key": "HIMBEERAPFEL",
+   "text": "_Himbeerapfel, Langer Rother_               209"
+  }
+ ],
+ "royal-wilding": [
+  {
+   "line": 17866,
+   "page": null,
+   "score": 1.8,
+   "key": "ROYAL WILDING",
+   "text": "Royal Wilding"
+  },
+  {
+   "line": 17839,
+   "page": null,
+   "score": 1.5,
+   "key": "CADBURY",
+   "text": "Cadbury"
+  },
+  {
+   "line": 18068,
+   "page": null,
+   "score": 1.0,
+   "key": "CADBURY",
+   "text": "Cadbury                                     221"
+  }
+ ],
+ "yellow-bellflower": [
+  {
+   "line": 17979,
+   "page": null,
+   "score": 1.5,
+   "key": "BELLEFLEUR",
+   "text": "Bellefleur, Brabant                          42"
+  }
+ ],
+ "bohnapfel": [
+  {
+   "line": 18009,
+   "page": null,
+   "score": 1.5,
+   "key": "BOHNAPFEL",
+   "text": "Bohnapfel, Grosse Rheinischer               238"
+  }
+ ],
+ "tower-of-glamis": [
+  {
+   "line": 18143,
+   "page": null,
+   "score": 1.3,
+   "key": "CARSE OF GOWRIE",
+   "text": "_Carse of Gowrie_                           196"
+  }
+ ],
+ "ducks-bill": [
+  {
+   "line": 18303,
+   "page": null,
+   "score": 1.3,
+   "key": "DUCKS BILL",
+   "text": "_Duck’s Bill_                               208"
+  }
+ ],
+ "sheepnose": [
+  {
+   "line": 18410,
+   "page": null,
+   "score": 1.0,
+   "key": "GILLIFLOWER",
+   "text": "Gilliflower                                 235"
+  },
+  {
+   "line": 18916,
+   "page": null,
+   "score": 1.0,
+   "key": "GILLIFLOWER",
+   "text": "Gilliflower                       235"
+  }
+ ],
+ "transparente-de-croncels": [
+  {
+   "line": 18418,
+   "page": null,
+   "score": 1.0,
+   "key": "GLASAPFEL",
+   "text": "_Glasapfel, Berliner_                       266"
+  }
+ ],
+ "millers-seedling": [
+  {
+   "line": 18425,
+   "page": null,
+   "score": 1.0,
+   "key": "MILLERS",
+   "text": "Miller’s                             251"
+  }
+ ],
+ "worcester-pearmain": [
+  {
+   "line": 18473,
+   "page": null,
+   "score": 1.0,
+   "key": "WORCESTER",
+   "text": "Worcester                            236"
+  }
+ ],
+ "jonathan": [
+  {
+   "line": 18588,
+   "page": null,
+   "score": 1.0,
+   "key": "JONATHAN",
+   "text": "Jonathan                                    243"
+  }
+ ],
+ "leathercoat-russet": [
+  {
+   "line": 18666,
+   "page": null,
+   "score": 1.3,
+   "key": "LEATHER COAT",
+   "text": "_Leather Coat_                              175"
+  }
+ ],
+ "margil": [
+  {
+   "line": 18761,
+   "page": null,
+   "score": 1.3,
+   "key": "NEVER FAIL",
+   "text": "_Never Fail_                                133"
+  }
+ ],
+ "northern-spy": [
+  {
+   "line": 18833,
+   "page": null,
+   "score": 1.3,
+   "key": "NORTHERN SPY",
+   "text": "Northern Spy                                256"
+  }
+ ],
+ "gladstone": [
+  {
+   "line": 19107,
+   "page": null,
+   "score": 1.0,
+   "key": "JACKSONS",
+   "text": "_Jackson’s_                          242"
+  }
+ ],
+ "westfield-seek-no-further": [
+  {
+   "line": 19387,
+   "page": null,
+   "score": 1.8,
+   "key": "RED WINTER",
+   "text": "Red Winter, Pennock’s                       258"
+  }
+ ],
+ "siberian-crab": [
+  {
+   "line": 19657,
+   "page": null,
+   "score": 1.3,
+   "key": "SIBERIAN CRAB",
+   "text": "_Siberian Crab_                              54"
+  }
+ ],
+ "stirling-castle": [
+  {
+   "line": 19697,
+   "page": null,
+   "score": 1.3,
+   "key": "STIRLING CASTLE",
+   "text": "Stirling Castle                             273"
+  }
+ ],
+ "tom-putt": [
+  {
+   "line": 19739,
+   "page": null,
+   "score": 1.3,
+   "key": "TOM POTTER",
+   "text": "Tom Potter                                  277"
+  }
+ ]
+}

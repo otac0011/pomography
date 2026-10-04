@@ -32,6 +32,7 @@ export function renderGuide(app) {
       <p><i>Pomology</i> is the study of fruit; <i>pomography</i> is the mapping of it: which apples suit which places, and why.</p>
       <ol>
         <li><b>Explore varieties.</b> Filter ${c.varieties} apples by flavour (rose-water, vanilla, pineapple, nutty&hellip;), season, use, origin or disease resistance. Open a variety for its taste profile, growing habits, pollination partners and climate needs.</li>
+        <li><b>Check the flavour evidence.</b> The small number on each flavour tag is how many independent sources back it. Each variety page quotes the old pomology books, lists who says what, and shows measured sugar and acidity and expert tasting scores where they exist. The <a href="#/flavour">Flavour</a> page explains the method and maps every measured apple from sweet to sharp. Tasted one? Use <i>Report your tasting</i>.</li>
         <li><b>Heart the ones you like.</b> Your favourites are kept in your browser.</li>
         <li><b>Click the world map.</b> Click one of the dots or anywhere at all: Pomography downloads ten years of real weather for that spot and scores each favourite for winter chill, hardiness, spring frost, ripening, summer heat and disease &mdash; with the reasons in words.</li>
         <li><b>Compare rootstocks.</b> See how vigour, precocity, anchorage and disease resistance differ, or use the chooser.</li>

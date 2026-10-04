@@ -19,6 +19,20 @@ National Fruit Collection (Brogdale / University of Reading / Defra), Orange Pip
 Geneva, WSU, Michigan State, University of Minnesota, Penn State, East Malling), regional pomological societies.
 Individual agents' notes of conflicts between sources are kept inside each record (`notes`, `history`).
 
+## Flavour evidence (decision 0005)
+* **Public-domain books** in `library/` (Hogg, the Herefordshire Pomona, Bunyard, Lindley, Beach, Downing, Warder, Ragan,
+  Leroy) are quoted verbatim; texts from Project Gutenberg and the Internet Archive.
+* **National Fruit Collection characterisation & evaluation data** (Ordidge & Hale, University of Reading,
+  doi:10.17864/1947.001455): contains public sector information licensed under the Open Government Licence v3.0
+  (Crown copyright, Department for Environment, Food & Rural Affairs).
+* **Laboratory sugar/acid data**: USDA GRIN-Global (Geneva NY; public domain); REFPOP apple reference population
+  (Switzerland / Italy; Etalab Open Licence 2.0); Canada's Apple Biodiversity Collection (Watts et al. 2021, Plants,
+  People, Planet; per-cultivar averages of published measurements, credited); Geneva cider-apple acidity data (Kumar
+  et al. 2021, J. Amer. Soc. Hort. Sci., data via GRIN). Only per-variety averages are stored (`data/chemistry/`).
+* Modern web sources (Orange Pippin, Wikipedia, nurseries, universities) are recorded as short keyword lists with
+  links, never copied prose. Keepers Nursery's text is not used.
+* Aroma-chemistry references are listed in `data/flavour_vocab.json`.
+
 ## Weather and maps
 * Weather: ERA5 reanalysis, Copernicus Climate Change Service / ECMWF, accessed via the free
   [Open-Meteo](https://open-meteo.com/) historical API (CC BY 4.0). Contains modified Copernicus Climate Change Service information.

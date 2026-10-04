@@ -1,0 +1,601 @@
+{
+ "_batch": "ev-3",
+ "allington-pippin": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/allington-pippin", "words": ["aromatic", "intense fruit drop", "pineapple flavour", "mellows in store"], "tags": ["perfumed", "pineapple"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Allington_Pippin", "words": ["strong flavour", "hints of pineapple", "sharp fruit candy"], "tags": ["pineapple", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=121&&fruit=apple", "words": ["distinct aromatic flavour"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Firm enough to bake at picking; after a few months in store it mellows to an intense fruit-drop or pineapple flavour.",
+  "climate_flavour": null,
+  "peak": "After a few months in store",
+  "notes": "Orange Pippin's 'fruit drop' is not specifically pear-drop, so pear-drop was not tagged. Our 'sweet' tag is not stated by any of the three."
+ },
+ "annie-elizabeth": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/annie-elizabeth", "words": ["relatively sweet flavour", "sharper"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC page (id=178) calls it a fine, late-keeping cooking apple but gives no flavour words; no English Wikipedia article found."
+ },
+ "arkansas-black": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/arkansas-black", "words": ["aromatic", "pleasantly sweet", "honey?", "bit of vanilla", "almond undertones", "not at all tart"], "tags": ["perfumed", "sweet", "honey", "vanilla", "almond"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Arkansas_Black", "words": ["distinctive aroma", "fairly tart", "mellow with storage"], "tags": ["perfumed", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.treesofantiquity.com/products/arkansas-black-apple-tree", "words": ["sharp flavor", "improving with age"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Hard and fairly tart when picked; mellows and improves in storage, and the skin darkens almost to black.",
+  "climate_flavour": {"needs": "warm", "note": "Trees of Antiquity calls it one of the best apples for hot interior sites and says hot autumn weather lets the fruit ripen."},
+  "peak": "After some months in store; keeps all winter",
+  "notes": "Orange Pippin's honey is a hedged '(and something else? honey?)'; its sampled fruit was 'not at all tart' though it says the apple is supposed to be very tart. Big Horse Creek Farm (bighorsecreekfarm.com/arkansas-black) also says 'sprightly subacid' and 'improves in flavor in storage'. No source mentions wine or spice."
+ },
+ "bakers-delicious": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=300&&fruit=apple", "words": ["firm, crisp and juicy", "good aromatic flavour"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin (slug bakers-delicious redirects home)."
+ },
+ "beauty-of-bath": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/beauty-of-bath", "words": ["quite a sharp flavour", "can be sweet"], "tags": ["sharp", "sweet"], "sweet": null, "acid": 4, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Beauty_of_Bath", "words": ["sharp at first", "sweetens later"], "tags": ["sharp", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=390&&fruit=apple", "words": ["sweet", "a little acid", "distinctive flavour"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Sharp at first and sweeter if caught fully ripe; does not keep more than a day or so.",
+  "climate_flavour": null,
+  "peak": "Straight from the tree in early August, before it goes over-ripe",
+  "notes": ""
+ },
+ "benenden-early": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=507&&fruit=apple", "words": ["coarse, soft flesh", "subacid flavour"], "tags": [], "sweet": null, "acid": 2, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin."
+ },
+ "bismarck": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/bismarck", "words": ["sharper", "cooks to golden yellow puree"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=570&&fruit=apple", "words": ["acid flavour", "fine-textured, juicy flesh"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Bismarck_(apple)", "words": ["sharp flavour"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "None of the three mentions a perfume."
+ },
+ "bountiful": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/bountiful", "words": ["fairly sweet for a cooker", "sweet/sharp"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=687&&fruit=apple", "words": ["delicious flavour when cooked"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin gives keeping as 1 week. Our 'mild' tag is not supported."
+ },
+ "brenchley-pippin": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=732&&fruit=apple", "words": ["sweet, aromatic flavour", "tender flesh"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin."
+ },
+ "calville-rouge-dhiver": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/calville-rouge-dhiver", "words": ["mild pleasant flavor", "sweet/sharp"], "tags": ["mild", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=923&&fruit=apple", "words": ["somewhat sweet flavour", "rather soft"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Through the winter (picked very late, keeps 3 months or more)",
+  "notes": "No modern source found for our berry/raspberry note; de 'Roter_Winterkalvill' and fr 'Calville_rouge_d'hiver' Wikipedia pages returned 404."
+ },
+ "charles-ross": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/charles-ross", "words": ["very sweet", "not bland", "aromatic qualities of Cox", "reminiscent of pears", "quite sharp in September"], "tags": ["sweet", "perfumed", "pear", "sharp"], "sweet": 4, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1051&&fruit=apple", "words": ["juicy and sweet", "moderate flavour", "rather coarse-textured"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Quite sharp in September, sweetens in store; flesh becomes almost powdery as it matures.",
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "No Wikipedia article found under Charles_Ross_(apple)."
+ },
+ "cider-ladys-finger": {
+  "sources": [],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC page (id=1113) has no flavour description; not on Orange Pippin."
+ },
+ "cortland": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/cortland", "words": ["sweet flavour", "sweeter"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1291&&fruit=apple", "words": ["sweet, refreshing flavour", "slightly coarse-textured"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Cortland_(apple)", "words": ["sweet apple", "white and juicy flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Sweetness and crispness fade quickly after picking.",
+  "climate_flavour": null,
+  "peak": "Soon after picking",
+  "notes": "None of the three supports our wine or perfumed tags."
+ },
+ "crawley-beauty": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/crawley-beauty", "words": ["delicate apple flavour", "sharper"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1347&&fruit=apple", "words": ["subacid, slightly sweet flavour", "rather dry flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Cooked at first; can be eaten fresh after storing.",
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC says it appears identical with the French variety Nouvelle France. Our 'mild' tag is not stated directly."
+ },
+ "dabinett": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/dabinett", "words": ["bittersweet"], "tags": ["bitter", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1438&&fruit=apple", "words": ["sweet", "astringent", "strong fruity flavour", "bittersweet"], "tags": ["sweet", "astringent", "bitter"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Dabinett", "words": ["aromatic", "bittersweet"], "tags": ["perfumed", "bitter"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Wikipedia gives acid content 0.18%."
+ },
+ "devonshire-quarrenden": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/devonshire-quarrenden", "words": ["distinctive strawberry flavour", "sweeter"], "tags": ["strawberry", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1561&&fruit=apple", "words": ["sweet, crisp and juicy", "distinctive aromatic flavour"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Devonshire_Quarrenden", "words": ["strawberry flavour"], "tags": ["strawberry"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Keeps only 1-3 days.",
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin says the strawberry note shows only in some fruit and depends on picking time; Wikipedia says it is clearer in descendants (Worcester Pearmain, Discovery, Katy). NFC calls it aromatic whereas our summary says 'vinous rather than aromatic'; no source here supports our wine tag."
+ },
+ "duchesss-favourite": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1686&&fruit=apple", "words": ["brisk and pleasant flavour", "crisp, yellow flesh"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin under duchesss-favourite."
+ },
+ "early-victoria": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1864&&fruit=apple", "words": ["crisp, firm", "very acid", "cooks well"], "tags": ["sharp"], "sweet": null, "acid": 5, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC lists it as Emneth Early. Not on Orange Pippin; no Wikipedia article. Our 'floral' tag is not supported by any modern source found."
+ },
+ "ellisons-orange": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/ellisons-orange", "words": ["aromatic", "aniseed flavour", "pear-like in texture", "juicier than Cox"], "tags": ["perfumed", "aniseed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1837&&fruit=apple", "words": ["rich and strong aniseed flavour", "soft, juicy flesh"], "tags": ["aniseed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Ellison%27s_Orange", "words": ["distinct aniseed flavor in storage", "flesh of a pear"], "tags": ["aniseed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Aniseed is barely detectable straight from the tree and develops after picking / in storage; keeps about a week.",
+  "climate_flavour": null,
+  "peak": "Within about a week of picking (mid-September)",
+  "notes": "'Pear-like' in Orange Pippin and Wikipedia refers to texture, not flavour, so pear was not tagged. No source here mentions an orange/citrus note or sweetness."
+ },
+ "esopus-spitzenburg": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1903&&fruit=apple", "words": ["subacid and aromatic flavour", "crisp, tender flesh"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Esopus_Spitzenburg", "words": ["full, rich flavor", "firm crisp, juicy"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://bighorsecreekfarm.com/esopus-spitzenburg/", "words": ["crisp, yellow, aromatic flesh"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Improves with a few weeks of cool storage, which brings out its full, rich flavour.",
+  "climate_flavour": null,
+  "peak": "After a few weeks of cool storage",
+  "notes": "Not on Orange Pippin (esopus-spitzenburg and spitzenburg slugs both redirect home). No modern source found for our spice tag."
+ },
+ "flower-of-kent": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Flower_of_Kent", "words": ["mealy", "sub-acid", "generally poor quality"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC page (id=2071) has no description and the variety is not currently held; not on Orange Pippin."
+ },
+ "freyberg": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/freyberg", "words": ["sweet and refreshing", "distinct pear-like note", "sweeter"], "tags": ["sweet", "pear"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2149&&fruit=apple", "words": ["sweet and good aromatic flavour", "firm, fine-textured, juicy"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "No modern source found for our aniseed, honey or banana tags. No Wikipedia article."
+ },
+ "george-cave": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/george-cave", "words": ["stronger and more intense", "sharper"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2239&&fruit=apple", "words": ["a little acid", "slightly aromatic", "pleasant flavour"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Softens within hours of picking and goes dry and mealy within days.",
+  "climate_flavour": null,
+  "peak": "Straight from the tree in mid-August",
+  "notes": ""
+ },
+ "golden-delicious-russet": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2336&&fruit=apple", "words": ["fairly crisp, juicy", "good flavour"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC: a fully russeted sport of Golden Delicious from Stuttgart. No source found for our sweet/honey tags; not on Orange Pippin."
+ },
+ "goodland": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/goodland", "words": ["aromatic sauce apple", "crisp, juicy, tender"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not in the NFC; no Wikipedia article. Our 'sweet' tag is not supported."
+ },
+ "gyllenkroks-astrakan": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2573&&fruit=apple", "words": ["subacid flavour", "fine, loose, white flesh"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://sv.wikipedia.org/wiki/Gyllenkroks_astrakan", "words": ["god smak", "saftig", "lösköttig"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Short keeping; picked in stages only at full ripeness from early September.",
+  "climate_flavour": null,
+  "peak": "Early September, at full ripeness",
+  "notes": "Swedish Wikipedia words: god smak = good flavour, saftig = juicy, lösköttig = loose-fleshed."
+ },
+ "hawthornden": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2662&&fruit=apple", "words": ["subacid flavour", "firm, coarse flesh"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin; no Wikipedia article (Hawthornden redirects elsewhere)."
+ },
+ "honeycrisp": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/honeycrisp", "words": ["sweet", "very little acidity", "little depth", "trace of pear-drop", "instantly refreshing", "simply sweet and bland"], "tags": ["sweet", "pear-drop", "mild"], "sweet": 4, "acid": 1, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Honeycrisp", "words": ["sweetness and tartness", "mild to highly aromatic"], "tags": ["sweet", "sharp", "mild", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "university", "url": "https://mnhardy.umn.edu/honeycrisp", "words": ["well-balanced sweet-tart", "sub-acid", "mildly aromatic"], "tags": ["sweet", "sharp", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Orange Pippin: stays crisp in store until April and flavour can improve for 7-10 days after leaving cold store; Wikipedia: taste fades after long storage.",
+  "climate_flavour": {"needs": "cool", "note": "Wikipedia says growing it in relatively warm regions has led to a drop in quality."},
+  "peak": null,
+  "notes": "Sources disagree on acidity: Orange Pippin finds very little, Wikipedia and Minnesota call it sweet-tart. No source uses 'honey' as a flavour word (only the name)."
+ },
+ "irish-peach": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/irish-peach", "words": ["sharper"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2939&&fruit=apple", "words": ["good aromatic flavour", "white, moderately firm, juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Does not keep.",
+  "climate_flavour": null,
+  "peak": "Mid-August, straight from the tree",
+  "notes": "Neither source mentions a peach-like flavour; no Wikipedia article."
+ },
+ "jonagored": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/jonagored", "words": ["very juicy and sweet", "a little tartness"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3069&&fruit=apple", "words": ["sweet and good rich flavour", "juicy"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "de.wikipedia Jonagored redirects to the Jonagold article, so not used. No source found for our honey tag."
+ },
+ "kent": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/kent", "words": ["sweet-sharp", "aromatic"], "tags": ["sweet", "sharp", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3755&&fruit=apple", "words": ["pleasant aromatic flavour", "fairly juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC lists it as Malling Kent (id=3755); NFC id=3174 'Kent' is an unrelated 1869 Michigan apple."
+ },
+ "king-david": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/king-david", "words": ["aromatic qualities", "sweet/sharp"], "tags": ["perfumed", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3223&&fruit=apple", "words": ["subacid, slightly sweet flavour", "rather coarse flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin says it is well suited to the warmer southern US states (growing, not flavour). Big Horse Creek page gives only texture. No source found for our wine, spice or grape tags."
+ },
+ "lady-of-wemyss": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3357&&fruit=apple", "words": ["acid flavour", "hard, fine flesh"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC lists it as Lady of the Wemyss. Not on Orange Pippin."
+ },
+ "leathercoat-russet": {
+  "sources": [],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC 'Leathercoat' (id=3472) has no description and is not held; NFC lists Leathercoat Russet also as a synonym of Royal Russet (id=5520), which in turn lists Reinette Grise du Canada as a synonym - homonym confusion. Not on Orange Pippin."
+ },
+ "lodgemore-nonpareil": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3561&&fruit=apple", "words": ["sweet and perfumed flavour", "firm, crisp, juicy"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin."
+ },
+ "lord-suffield": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3643&&fruit=apple", "words": ["acid flavour", "crisp, juicy", "breaking up completely"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Used from August to November (Wikipedia)",
+  "notes": "Wikipedia (Lord_Suffield_(apple)) has no flavour words. Not on Orange Pippin."
+ },
+ "manks-codlin": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3764&&fruit=apple", "words": ["firm, white, acid flesh"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Manks_Codlin", "words": ["delicate flavor when cooked", "firm, white flesh"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin (manks-codlin, manx-codlin)."
+ },
+ "meridian": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/meridian", "words": ["clean-looking and tasting", "hint of lemon or melon", "tarte aux citron", "sharper", "not same depth as Cox"], "tags": ["lemon", "melon", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3925&&fruit=apple", "words": ["Cox-like flavour"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Keeps 2-3 weeks (Orange Pippin)",
+  "notes": "Lemon and melon rest on Orange Pippin alone."
+ },
+ "muscadet-de-dieppe": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/muscadet-de-dieppe", "words": ["sweet and aromatic", "bittersweet"], "tags": ["sweet", "perfumed", "bitter"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4143&&fruit=apple", "words": ["bittersweet cider"], "tags": ["bitter"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin keeping 2-3 weeks, picked late September."
+ },
+ "norfolk-royal-russet": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/norfolk-royal-russet", "words": ["classic English russet flavours", "sweet and pear-like", "sweet/sharp"], "tags": ["sweet", "pear", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4270&&fruit=apple", "words": ["rich, sweet flavour", "crisp, firm flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin calls the flesh soft-chewy and slightly dry, NFC crisp and firm. No source found for our nutty tag."
+ },
+ "orin": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/orin", "words": ["sweet", "very honeyed", "little taste or acidity"], "tags": ["sweet", "honey", "mild"], "sweet": 5, "acid": 1, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4423&&fruit=apple", "words": ["sweet and aromatic flavour", "firm, juicy"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC gives the origin as Fukushima (T. Otsuki, before 1942); Orange Pippin says Aomori Apple Research Station, Indo x Golden Delicious."
+ },
+ "patte-de-loup": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4525&&fruit=apple", "words": ["sweet, subacid, perfumed flavour", "firm flesh"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://fr.wikipedia.org/wiki/Patte_de_loup", "words": ["sucrée", "délicatement acidulée", "parfumée", "léger goût anisé"], "tags": ["sweet", "perfumed", "aniseed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin. fr.wikipedia words: sucrée = sweet, délicatement acidulée = delicately acid, parfumée = perfumed, léger goût anisé = light aniseed taste."
+ },
+ "pinova": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/pinova", "words": ["sweeter"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Pinova", "words": ["süßsäuerlich", "aromatisch", "würzig", "fest, saftig"], "tags": ["sweet", "sharp", "perfumed", "spice"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "de.wikipedia: picked early-mid October, ready to eat from November and keeps chilled to about March; fruit ripened on the tree tastes clearly better than fruit ripened in store.",
+  "climate_flavour": null,
+  "peak": "From November (de.wikipedia)",
+  "notes": "en.wikipedia (same organisation, not counted separately) says it has some of the taste of Cox's. NFC page has only 'crisp and juicy'. de words: süßsäuerlich = sweet-sour, aromatisch = aromatic, würzig = spicy. No source found for rose or floral."
+ },
+ "porters-perfection": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/porters-perfection", "words": ["bitter-sharp", "bittersharp"], "tags": ["bitter", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4777&&fruit=apple", "words": ["sharp juice", "little astringency"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC's 'little astringency' only weakly supports our astringent tag."
+ },
+ "rajka": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/rajka", "words": ["sweet", "good acidity", "hint of strawberry-apple flavour", "sweet/sharp"], "tags": ["sweet", "sharp", "strawberry"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": {"needs": "warm", "note": "Orange Pippin: the strawberry hint shows only in a good summer."},
+  "peak": null,
+  "notes": "Not in NFC; cs/de Wikipedia 'Rajka' pages are about the Hungarian village."
+ },
+ "red-jade": {
+  "sources": [],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Ornamental crab. Not on Orange Pippin; NFC id=37 'Red Jade' page has no description."
+ },
+ "reinette-grise-du-canada": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/reinette-grise-du-canada", "words": ["spicy flavour", "sweet flavour typical of russets", "sweet/sharp"], "tags": ["spice", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5264&&fruit=apple", "words": ["sweet and moderate flavour", "somewhat dry flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "fr.wikipedia Reinette_grise_du_Canada redirects to the Reinette du Canada article and de Kanadarenette covers the white form, so not used. No source here for our perfumed tag."
+ },
+ "rosemary-russet": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/rosemary-russet", "words": ["sweeter"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5452&&fruit=apple", "words": ["rather acid and good flavour", "firm, fine-textured, juicy"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin classes it 'sweeter' while NFC calls it rather acid."
+ },
+ "rubinette": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/rubinette", "words": ["intense and honeyed", "echoes of pear-drops", "sweet and sharp", "slightly sharper than Cox"], "tags": ["honey", "pear-drop", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4947&&fruit=apple", "words": ["good, aromatic flavour", "crisp and juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Rubinette", "words": ["saftig-knackig", "feinsäuerlich", "aroma like Cox Orange"], "tags": ["sharp", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "de.wikipedia: ready to eat at harvest from late September without storage; Orange Pippin: keeps 1-2 months.",
+  "climate_flavour": null,
+  "peak": "From harvest (late September/October), no storage needed",
+  "notes": "Orange Pippin stresses its flavour is consistent from year to year, unlike Cox. de words: feinsäuerlich = delicately acid."
+ },
+ "schoner-aus-nordhausen": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5695&&fruit=apple", "words": ["sweet, subacid flavour", "fine, moderately firm"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Sch%C3%B6ner_aus_Nordhausen", "words": ["säuerlich-feinaromatisch"], "tags": ["sharp", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Picked in October; keeps in a cool cellar from November to April.",
+  "climate_flavour": null,
+  "peak": "November to April from a cool store",
+  "notes": "NFC (as Schoner von Nordhausen) calls it sweet and subacid, de.wikipedia 'säuerlich' (tart). Not on Orange Pippin."
+ },
+ "shenandoah": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/shenandoah", "words": ["sweet", "slightly dry texture"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5773&&fruit=apple", "words": ["slightly perfumed and aromatic flavour", "crisp, juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://bighorsecreekfarm.com/shenandoah/", "words": ["richly flavored", "reminiscent of Golden Delicious", "aromatic", "sprightly subacid"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin's 'sweet, slightly dry' refers to UK-grown fruit."
+ },
+ "smokehouse": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/smokehouse", "words": ["fresh cider flavor", "sweet/sharp", "aromatic", "honeyed"], "tags": ["sweet", "sharp", "perfumed", "honey"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://bighorsecreekfarm.com/smokehouse/", "words": ["pleasing spicy flavor", "very flavorful"], "tags": ["spice"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Keeps well through March (Orange Pippin)",
+  "notes": "NFC page (id=5876) has no flavour description."
+ },
+ "statefair": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/state-fair", "words": ["juicy aromatic and sweet", "moderately subacid", "sharper"], "tags": ["perfumed", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5996&&fruit=apple", "words": ["crisp and juicy", "aromatic flavour"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Late August; keeps 2-3 weeks",
+  "notes": "Orange Pippin slug is state-fair (statefair redirects home)."
+ },
+ "sunset": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/sunset", "words": ["quite close to Cox", "aromatic qualities", "good sweetness", "disappointing in a poor year"], "tags": ["perfumed", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=6152&&fruit=apple", "words": ["good aromatic Cox-like flavour", "firm crisp"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Sunset_(apple)", "words": ["crisp", "aromatic flavor"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Does not keep especially well; lasts about a month in a refrigerator.",
+  "climate_flavour": {"needs": null, "note": "Orange Pippin: flavour can be very disappointing in a poor year, though it stays crisp and sweet; reportedly better on M9 than MM106."},
+  "peak": null,
+  "notes": ""
+ },
+ "sweetango": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/sweetango", "words": ["crisp, juicy, sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/SweeTango", "words": ["sweet-tart", "brown sugar", "spiced apple cider", "fall spicy citric"], "tags": ["sweet", "sharp", "spice", "citrus"], "sweet": null, "acid": null, "against": []},
+   {"src": "university", "url": "https://mnhardy.umn.edu/sweetango", "words": ["sweet-tart", "hints of fall spices", "vibrant acidity", "long finish"], "tags": ["sweet", "sharp", "spice"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": {"needs": null, "note": "University of Minnesota says fruit quality can be affected by climate and site, hence its release as a managed variety."},
+  "peak": null,
+  "notes": "No source found for our floral or cinnamon tags."
+ },
+ "tower-of-glamis": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/tower-of-glamis", "words": ["pleasant acidic juicy flesh", "sharper"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC page (id=6385) has no flavour description. No source found for our perfumed tag."
+ },
+ "tydemans-early-worcester": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=6462&&fruit=apple", "words": ["good vinous flavour", "white, crisp, fine-textured, juicy"], "tags": ["wine"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin under tydemans-early-worcester."
+ },
+ "wheelers-russet": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=6684&&fruit=apple", "words": ["subacid, slightly sweet", "slightly aromatic flavour", "a little soft"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin. No modern source found for our wine tag."
+ },
+ "winston": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/winston", "words": ["a little sharp", "mellowing", "sweet and aromatic"], "tags": ["sharp", "sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=6827&&fruit=apple", "words": ["sweet and good aromatic flavour", "firm, fine-textured, juicy"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Winston_(apple)", "words": ["a little sharp", "balanced with sweetness and aroma"], "tags": ["sharp", "sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "A little sharp at first, mellowing in store to sweet and aromatic; keeps to April and improves somewhat after picking.",
+  "climate_flavour": null,
+  "peak": "After some time in store; keeps to April",
+  "notes": ""
+ },
+ "xuanina": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://es.wikipedia.org/wiki/Xuanina", "words": ["sabor ácido", "grupo tecnológico ácido"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Ripens late October to early November (es.wikipedia)",
+  "notes": "es.wikipedia (from SERIDA data): sabor ácido = acid flavour; sugars 95.6 g/l, total acidity 5.1 g/l H2SO4, phenols 1.1 g/l. Not in NFC or Orange Pippin."
+ },
+ "zabergau-reinette": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/zabergau-reinette", "words": ["rather sharp flavor", "much sweeter after a month", "sweeter"], "tags": ["sharp", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=7000&&fruit=apple", "words": ["rich, nutty flavour", "firm, fairly juicy"], "tags": ["nutty"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Rather sharp with dense flesh straight from the tree; much sweeter after a month or so in cold store.",
+  "climate_flavour": null,
+  "peak": "After about a month in cold store",
+  "notes": "No de.wikipedia article found. No source here for our spice tag."
+ }
+}

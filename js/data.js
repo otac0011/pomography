@@ -64,6 +64,18 @@ export function load() {
   return S.ready;
 }
 
+/** assets/flavour.json: book entries, source lists, lab data, vocabulary. Large, so loaded only when a page needs it. */
+let flavourP = null;
+export function loadFlavour() {
+  if (!flavourP) flavourP = fetch('assets/flavour.json').then(r => r.ok ? r.json() : null).catch(() => null).then(d => { S.flavour = d; return d; });
+  return flavourP;
+}
+export const LEVEL = n => n >= 3 ? ['firm', '3 or more independent sources'] : n === 2 ? ['supported', '2 independent sources'] : n === 1 ? ['reported', '1 source'] : ['unsourced', 'no source found yet'];
+export const REPO = 'otac0011/pomography';
+export function tasteReportURL(v) {
+  return 'https://github.com/' + REPO + '/issues/new?template=taste-report.yml&title=' + encodeURIComponent('Taste: ' + v.name) + '&variety=' + encodeURIComponent(v.name);
+}
+
 // ---------------------------------------------------------------- favourites
 export const getFavs = () => favs.slice();
 export const isFav = id => favs.includes(id);

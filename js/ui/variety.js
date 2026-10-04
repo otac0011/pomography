@@ -1,6 +1,6 @@
 // Single-variety page.
-import { S, esc, countryName, pollinators, similar, chillClass, seasonName, tagLabel, isFav } from '../data.js';
-import { appleSVG, bar, meter, chips, usesBadges, favBtn, keepersBadge, breederBadge, radar, seasonTimeline, scoreRing, DISEASES } from './widgets.js';
+import { S, esc, countryName, pollinators, similar, chillClass, seasonName, tagLabel, isFav, loadFlavour, tasteReportURL } from '../data.js';
+import { appleSVG, bar, meter, chips, evChips, usesBadges, favBtn, keepersBadge, breederBadge, radar, seasonTimeline, scoreRing, DISEASES } from './widgets.js';
 import { scoreVariety, labelOf } from '../score/score.js';
 
 const CONF = { high: ['High', 'Verified against several independent sources.'], medium: ['Medium', 'Broadly documented; some fields are inferred from season, parentage or origin.'], low: ['Low', 'Sparsely documented. Core facts only; many fields are unrecorded or estimated.'] };
@@ -34,6 +34,56 @@ export function regionScores(v) {
     out.push({ r, s });
   }
   return out.sort((a, b) => b.s.score - a.s.score);
+}
+
+const NEEDS = { cool: 'Flavour is best in a cool climate', warm: 'Needs a warm season for full flavour', any: 'Climate' };
+function tasteExtras(v) {
+  const t = v.taste, out = [];
+  if (t.measured && (t.measured.ssc != null || t.measured.ta != null)) {
+    const m = t.measured, pc = (x, w) => x == null ? '' : ` <span class="muted">(${w} than ${Math.round(x)}% of the apples measured)</span>`;
+    out.push(`<div class="measured"><b>Measured</b> ${m.ssc != null ? `<span>sugar <b>${m.ssc}</b> °Brix${pc(m.pct_ssc, 'sweeter')}</span>` : ''}${m.ta != null ? `<span>acidity <b>${m.ta}</b> g/L malic${pc(m.pct_ta, 'sharper')}</span>` : ''}<span class="tiny muted">from ${m.n} lab dataset${m.n === 1 ? '' : 's'} — <a href="#evidence" data-jump>details</a></span></div>`);
+  }
+  if (t.panel) {
+    const p = t.panel, f = (l, x) => x == null ? '' : `<span>${l} <b>${x}</b>/9</span>`;
+    out.push(`<div class="measured"><b>Expert tasting</b>${f('sweetness', p.sweet)}${f('acidity', p.acid)}${f('aroma', p.aroma)}${f('juiciness', p.juice)}${f('eating quality', p.quality)}<span class="tiny muted">National Fruit Collection, Brogdale; one assessor${p.tasted ? ', tasted ' + esc(p.tasted) : ''}; 5 = medium</span></div>`);
+  }
+  if (t.peak) out.push(`<p class="small"><b>Best:</b> ${esc(t.peak)}</p>`);
+  if (t.storage_change) out.push(`<p class="small"><b>In store:</b> ${esc(t.storage_change)}</p>`);
+  if (t.climate_flavour) out.push(`<p class="small"><b>${esc(NEEDS[t.climate_flavour.needs] || 'Climate')}:</b> ${esc(t.climate_flavour.note || '')}</p>`);
+  if (t.visitors) {
+    const vs = t.visitors, top = Object.entries(vs.tags || {}).filter(([, n]) => n >= 2).slice(0, 5).map(([k]) => tagLabel(k));
+    out.push(`<p class="small"><b>Visitors' tastings (${vs.n}):</b> sweetness ${vs.sweet ?? '–'}/5, sharpness ${vs.acid ?? '–'}/5, aroma ${vs.aroma ?? '–'}/5${top.length ? '; most noticed ' + top.map(esc).join(', ') : ''}.</p>`);
+  }
+  return out.join('');
+}
+
+function evidenceHTML(v, D) {
+  if (!D) return `<p class="small muted">No sources recorded yet for ${esc(v.name)}; its flavour notes are unverified.</p>`;
+  const parts = [];
+  parts.push(`<p class="small muted">Each flavour note is counted once per independent source (an author or an organisation); the small numbers on the tags show the count. <a href="#/flavour">How this works &rarr;</a></p>`);
+  if (D.sources.length) {
+    parts.push(`<h4>Who says what</h4><div class="srclist">${D.sources.map(s => `<div class="src"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a> <span class="tiny muted">${({ book: 'book', web: 'web', panel: 'tasting scores' })[s.kind] || ''}</span><div>${s.tags.length ? chips(s.tags) : '<span class="tiny muted">no specific flavour notes</span>'}</div>${s.words && s.words.length ? `<div class="tiny muted">their words: ${s.words.map(esc).join(', ')}</div>` : ''}</div>`).join('')}</div>`);
+  }
+  const added = D.added || [], unv = D.unverified || [], con = D.contested || [];
+  if (added.length || unv.length || con.length) {
+    parts.push(`<p class="small">${added.length ? `<b>Added from the sources:</b> ${added.map(x => esc(tagLabel(x))).join(', ')}. ` : ''}${unv.length ? `<b>Dropped (no source supports it):</b> ${unv.map(x => esc(tagLabel(x))).join(', ')}. ` : ''}${con.length ? `<b>Dropped (contradicted):</b> ${con.map(x => esc(tagLabel(x))).join(', ')}.` : ''}</p>`);
+  }
+  if (D.books.length) {
+    parts.push(`<h4>In the old books</h4>` + D.books.map(b => `<div class="book">
+      <div><b>${esc(b.author)}</b>, <i>${esc(b.title)}</i> (${b.year})${b.page ? `, p. ${b.page}` : ''} — <a href="${esc(b.link)}" target="_blank" rel="noopener">see the page &#8599;</a>${b.match === 'probable' ? ' <span class="tiny muted">(probably the same apple)</span>' : b.match === 'synonym' && b.heading ? ` <span class="tiny muted">(as ${esc(b.heading)})</span>` : ''}</div>
+      ${b.quality ? `<div class="small">Verdict: <q>${esc(b.quality)}</q></div>` : ''}
+      ${b.flavour ? `<blockquote>${esc(b.flavour)}${b.flavour_en ? `<div class="small muted">${esc(b.flavour_en)}</div>` : ''}</blockquote>` : ''}
+      ${b.storage ? `<div class="small">Keeping: <q>${esc(b.storage)}</q></div>` : ''}
+      ${b.climate ? `<div class="small">Situation: <q>${esc(b.climate)}</q></div>` : ''}
+      ${b.note ? `<div class="tiny muted">${esc(b.note)}</div>` : ''}
+      <details><summary class="small">Full entry (scanned text, may contain errors)</summary><div class="small entry">${esc(b.text).replace(/\n\n/g, '<br><br>')}</div></details>
+    </div>`).join(''));
+  }
+  if (D.chemistry.length) {
+    parts.push(`<h4>Lab measurements</h4><div class="tblwrap"><table class="tbl small"><tr><th>Source</th><th>Sugar (°Brix)</th><th>Acidity (g/L)</th><th>Firmness</th><th>Samples</th></tr>${D.chemistry.map(c => `<tr><td><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.title || c.source)}</a>${c.where ? `<div class="tiny muted">${esc(c.where)}${c.stage ? ', at ' + esc(c.stage) : ''}</div>` : ''}</td><td>${c.ssc ?? '–'}</td><td>${c.ta ?? '–'}</td><td>${c.firmness != null ? c.firmness + ' ' + esc(c.firmness_units || '') : '–'}</td><td>${c.n ?? ''}</td></tr>`).join('')}</table></div>`);
+  }
+  if (D.notes) parts.push(`<p class="tiny muted">Research notes: ${esc(D.notes)}</p>`);
+  return parts.join('');
 }
 
 export function renderVariety(app, id) {
@@ -76,14 +126,23 @@ export function renderVariety(app, id) {
         <div style="justify-self:center">${radar(t)}</div>
         <div>
           ${t.summary ? `<p class="quote">${esc(t.summary)}</p>` : ''}
-          <div>${chips(t.tags)}</div>
+          <div data-chips>${evChips(t)}</div>
+          ${(t.unverified || []).length ? `<p class="tiny muted" style="margin-top:4px">Not confirmed by any source we found: ${t.unverified.map(x => esc(tagLabel(x))).join(', ')}</p>` : ''}
+          <p class="tiny muted" style="margin-top:4px">${t.n_sources ? `Flavour notes checked against ${t.n_sources} independent source${t.n_sources === 1 ? '' : 's'}${t.n_books ? `, including ${t.n_books} old book${t.n_books === 1 ? '' : 's'}` : ''}. <a href="#evidence" data-jump>See them</a>` : 'No independent sources recorded yet; these flavour notes are unverified.'}</p>
           <div style="display:grid;grid-template-columns:90px 1fr;gap:5px 10px;margin-top:10px;font-size:.88rem;align-items:center">
             ${[['Sweetness', t.sweet, ''], ['Acidity', t.acid, 'gold'], ['Aroma', t.aroma, 'leaf'], ['Crispness', t.crisp, ''], ['Juiciness', t.juicy, ''], ['Tannin', t.tannin, 'gold']].map(([l, x, cl]) => (l === 'Tannin' && !(x > 0)) ? '' : `<span class="muted">${l}</span>${bar(x, 5, cl)}`).join('')}
           </div>
           ${t.cider_class ? `<p class="small" style="margin-top:8px"><b>Cider class:</b> ${esc(t.cider_class)}</p>` : ''}
           ${t.best_eaten ? `<p class="small muted" style="margin-top:8px">${esc(t.best_eaten)}</p>` : ''}
+          ${tasteExtras(v)}
+          <p style="margin-top:10px"><a class="btn sm" href="${esc(tasteReportURL(v))}" target="_blank" rel="noopener">Tasted it? Report your tasting &#8599;</a> <span class="tiny muted">a short form on GitHub (free account needed)</span></p>
         </div>
       </div>
+    </section>
+
+    <section class="card pad wide" id="evidence">
+      <h2>Flavour: the evidence</h2>
+      <div data-evidence><p class="small muted">Loading sources&hellip;</p></div>
     </section>
 
     <section class="card pad">
@@ -174,4 +233,13 @@ export function renderVariety(app, id) {
       </div>
     </section>
   </div>`;
+  // the hash router owns '#...', so in-page jumps scroll instead of navigating
+  app.querySelectorAll('[data-jump]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); app.querySelector('#evidence').scrollIntoView({ behavior: 'smooth' }); }));
+  loadFlavour().then(F => {
+    const el = app.querySelector('[data-evidence]');
+    if (!el || !el.isConnected) return;
+    el.innerHTML = F ? evidenceHTML(v, F.varieties[v.id]) : '<p class="small muted">Could not load the source data.</p>';
+    const c = app.querySelector('[data-chips]');
+    if (F && c) c.innerHTML = evChips(t);          // re-render with vocabulary tooltips
+  });
 }

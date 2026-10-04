@@ -1,0 +1,390 @@
+{
+  "_book": "warder-1867",
+  "early-harvest": {
+    "line": 11656, "end": 11683, "heading": "Early Harvest.", "match": "exact",
+    "flavour": "Flesh tender, breaking, juicy, acid to sub-acid, agreeable; Of first quality for table or kitchen during the month of July.",
+    "quality": "Of first quality for table or kitchen",
+    "storage": "during the month of July",
+    "climate": "its proneness to be defective on some soils",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "American summer apple; falling into disfavour with market men for its uncertainty."
+  },
+  "hawthornden": {
+    "line": 11841, "end": 11863, "heading": "Hawthornden.", "match": "exact",
+    "flavour": "Flesh greenish-white, breaking, fine grained, juicy; Flavor acid, aromatic; of second quality for table, but first rate for cooking",
+    "quality": "of second quality for table, but first rate for cooking",
+    "storage": "Season October.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
+    "note": "'This famous Scotch fruit'. Warder describes Hawley (our aka) as a separate New York apple at line 11822; not used."
+  },
+  "api": {
+    "line": 11901, "end": 11930, "heading": "Lady. (API PETIT, ETC.)", "match": "synonym",
+    "flavour": "Flesh white, breaking, tender and juicy when ripe; with a mild sub-acid flavor",
+    "quality": null,
+    "storage": "Season December until March.",
+    "climate": "In the rich soils of the West it is apt to be too large, and has generally failed to meet the requisitions; but it succeeds well in Michigan, and the neighboring region of Indiana.",
+    "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Described as Lady, 'this beautiful little French apple'; Use ornament and dessert, prized for Christmas decorations."
+  },
+  "rhode-island-greening": {
+    "line": 11992, "end": 12025, "heading": "Rhode Island Greening.", "match": "exact",
+    "flavour": "Flesh very yellow, breaking, tender, juicy, with a rich, acid flavor, making it a superior cooking apple, and very fine for the dessert when fully ripe",
+    "quality": "Quality almost first rate",
+    "storage": "Season October to December--in the North, keeping until March.",
+    "climate": "In sandstone soils, however, even in Southern Indiana and Illinois, it does better than on the limestone clays; the fruit attains an enormous size, but matures too early for a winter apple.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": ""
+  },
+  "baldwin": {
+    "line": 12226, "end": 12268, "heading": "Baldwin.", "match": "exact",
+    "flavour": "flesh yellow, breaking, frequently coarse-grained, juicy, sub-acid, rich; some northern specimens are fine-grained and almost first quality",
+    "quality": "those from the South are coarse, poor and scarcely second-rate for table use, but are good for cooking",
+    "storage": "it is apt to become a fall or early winter fruit, instead of a keeping apple; Season October to January, occasionally keeping later.",
+    "climate": "some northern specimens are fine-grained and almost first quality; those from the South are coarse, poor and scarcely second-rate for table use",
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Warder says it 'is not well adapted to our palates' in the West and South."
+  },
+  "magnum-bonum": {
+    "line": 12336, "end": 12358, "heading": "Bonum. (MAGNUM BONUM.)", "match": "synonym",
+    "flavour": "Flesh yellow, firm, breaking, fine-grained, juicy; Flavor rich, sub-acid; first quality for the dessert",
+    "quality": "first quality for the dessert",
+    "storage": "in September.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "'This delicious southern fruit originated in Davidson County, North Carolina.'"
+  },
+  "duchess-of-oldenburg": {
+    "line": 12561, "end": 12584, "heading": "Duchess of Oldenburgh.", "match": "exact",
+    "flavour": "Flesh white, tender, juicy; Sour and suitable for cooking. Though attractive to the eye, it is unsuited for the dessert.",
+    "quality": "Though attractive to the eye, it is unsuited for the dessert.",
+    "storage": null,
+    "climate": "has proved one of the hardiest apples in our trying climate. Reports from the Northwest are entirely satisfactory as to its hardiness.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Russian; Kennicott considered it the ne plus ultra for northern Illinois and higher latitudes."
+  },
+  "red-astrachan": {
+    "line": 13353, "end": 13374, "heading": "Red Astrachan.", "match": "exact",
+    "flavour": "Flesh yellow, breaking, juicy; Flavor quite acid, not rich; Quality first rate for market and cooking, poor for table",
+    "quality": "first rate for market and cooking, poor for table",
+    "storage": "Season July.",
+    "climate": "a great favorite, particularly in the North, by its hardiness and productiveness",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": ""
+  },
+  "rome-beauty": {
+    "line": 13402, "end": 13429, "heading": "Rome Beauty. (GILLETT'S SEEDLING.)", "match": "exact",
+    "flavour": "Flesh yellow, breaking, coarse-grained; Flavor sub-acid, not rich; Quality scarcely good",
+    "quality": "Quality scarcely good; valuable for market, on account of its productiveness, size and beauty",
+    "storage": "Season December to February.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Originated in Southern Ohio by H.N. Gillett."
+  },
+  "pomme-gris": {
+    "line": 13785, "end": 13803, "heading": "Pomme Grise.", "match": "exact",
+    "flavour": "Flesh firm, yellow, breaking, fine grained, juicy; Flavor sub-acid, rich, aromatic, delicious; Quality best, for dessert",
+    "quality": "Quality best, for dessert; One of the very best of the Russets.",
+    "storage": "Season, January to March",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "'Supposed to be of French or Canadian origin.'"
+  },
+  "gravenstein": {
+    "line": 14354, "end": 14375, "heading": "Gravenstein.", "match": "exact",
+    "flavour": "Flesh yellow, fine grained, breaking, juicy; Flavor sub-acid, aromatic; Quality best",
+    "quality": "Quality best; table and kitchen",
+    "storage": "Season, August, September.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "roxbury-russet": {
+    "line": 14523, "end": 14563, "heading": "Roxbury Russet. (BOSTON RUSSET.--PUTNAM RUSSET.)", "match": "exact",
+    "flavour": "Flesh greenish-yellow, breaking, granular, often coarse, juicy; Flavor decidedly acid; Quality second rate",
+    "quality": "Quality second rate; Use, market and cooking",
+    "storage": "Season, November to January; a better keeper in the North.",
+    "climate": "it is apt to ripen too early in the season in southern locations and on limestone soils. Hence its value as a keeping apple is diminished.",
+    "tags": ["sharp"], "against": ["sweet"], "sweet": null, "acid": 4,
+    "note": "Warder's 'decidedly acid' sits against our sweet/honey profile; he also notes the Putnam Russet of Marietta proved identical."
+  },
+  "emperor-alexander": {
+    "line": 15065, "end": 15086, "heading": "Alexander.", "match": "synonym",
+    "flavour": "Flesh whitish, breaking, not fine grained, juicy; Flavor acid, not rich; Quality scarcely good, except for cooking",
+    "quality": "Quality scarcely good, except for cooking",
+    "storage": "Season, August and September. Fruit falls badly from the tree.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "'This Russian apple, so much admired for its size and beauty'."
+  },
+  "twenty-ounce": {
+    "line": 15089, "end": 15118, "heading": "Cayuga Red Streak. (TWENTY OUNCE, ETC.)", "match": "synonym",
+    "flavour": "Flesh whitish, breaking, granular, juicy; Flavor sour, not rich; Quality good, only for its special uses, market, cooking and drying",
+    "quality": "Quality good, only for its special uses, market, cooking and drying",
+    "storage": "Season, October to December.",
+    "climate": null,
+    "tags": ["sharp"], "against": ["sweet"], "sweet": null, "acid": 4,
+    "note": "Warder adopts Cayuga Red Streak to avoid confusion with the 'very indifferent' Twenty Ounce Pippin, which he describes separately at line 13515 (not ours)."
+  },
+  "limbertwig": {
+    "line": 15260, "end": 15286, "heading": "Limbertwig.", "match": "exact",
+    "flavour": "Flesh greenish-yellow, firm; Flavor sub-acid, rich, aromatic; Quality very good",
+    "quality": "Quality very good; Use, table and kitchen",
+    "storage": "Season, March and April. Keeps very well, but wilts if exposed to the air--preserved very well in the ground.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Southern long-keeper; Willow Twig often confused with it."
+  },
+  "ralls-janet": {
+    "line": 15321, "end": 15349, "heading": "Rawle's Janet. (JANETTING OR GENETON--NEVER FAIL--ROCK RIMMON, ETC.)", "match": "synonym",
+    "flavour": "Flesh yellowish, crisp, breaking, fine grained, juicy; Flavor sub-acid, vinous, refreshing; Quality good to very good",
+    "quality": "Quality good to very good",
+    "storage": "Season, February, March, and later.",
+    "climate": "even the Northwest where, however, it has not proved hardy. It also has the fault of over-bearing, when the fruit is often small and insipid. In suitable soils it is very fine",
+    "tags": ["wine"], "against": [], "sweet": null, "acid": 3,
+    "note": "Spelled Rawle's Janet; origin Virginia. Insipid only when over-cropped."
+  },
+  "westfield-seek-no-further": {
+    "line": 15399, "end": 15424, "heading": "Westfield Seek-no-Further.", "match": "exact",
+    "flavour": "Flesh yellowish-white, tender, breaking; Flavor very mild sub-acid, aromatic, satisfying, not high flavored nor spicy; Quality only good in my estimation",
+    "quality": "Quality only good in my estimation",
+    "storage": "Season, December.",
+    "climate": "on lower parallels it is less known, and not so highly appreciated, nor is it so fine a fruit, being larger, but less compact, more spongy, less beautifully colored and sometimes almost a russet.",
+    "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+    "note": "Connecticut apple. Warder's separate Red Winter Pearmain (line 15352, our aka) is a southern apple, not this one."
+  },
+  "ross-nonpareil": {
+    "line": 15536, "end": 15559, "heading": "Ross' Nonpareil. (SPICE RUSSET? OF OHIO.)", "match": "probable",
+    "flavour": "Flesh white, breaking, fine grained, tender; Flavor sub-acid, aromatic, rich; Quality almost best; for table",
+    "quality": "Quality almost best; for table",
+    "storage": "Season December.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Warder only 'believed' his Ohio/Indiana fruit (often shown as Spice Russet) to be the Irish apple of Thompson and Lindley."
+  },
+  "esopus-spitzenburg": {
+    "line": 15989, "end": 16015, "heading": "Esopus Spitzenberg.", "match": "exact",
+    "flavour": "Flesh rich, yellow, breaking, juicy at the North, more fibrous than crisp at the South; Flavor quite acid till ripe, when it is rich, saccharine, highly aromatic, giving the idea of the Spitzenberg flavor; Quality best",
+    "quality": "Quality best; Use, dessert and kitchen",
+    "storage": "Season, December to February.",
+    "climate": "This fruit has changed its character in progressing westward and southward, becoming larger and more irregular, less brilliantly colored, less highly flavored, and less productive.",
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "'Quite acid till ripe' then saccharine."
+  },
+  "northern-spy": {
+    "line": 16065, "end": 16086, "heading": "Northern Spy.", "match": "exact",
+    "flavour": "Flesh yellowish-white, breaking, granular, juicy; Flavor acid, becoming sub-acid, aromatic, rich, with the spiciness of a Spitzenberg; Quality considered best, but rather coarse in texture",
+    "quality": "Quality considered best, but rather coarse in texture",
+    "storage": "Season, December until May, and in the North longer.",
+    "climate": null,
+    "tags": ["sharp", "perfumed", "spice"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "winesap": {
+    "line": 16223, "end": 16242, "heading": "Winesap.--[Coxe.]", "match": "exact",
+    "flavour": "Flesh firm, yellow; Flavor rich, acid to sub-acid",
+    "quality": null,
+    "storage": "Season, January to March.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Short entry; Use, market, kitchen, cider."
+  },
+  "tolman-sweet": {
+    "line": 16546, "end": 16565, "heading": "Tallman's Sweet.", "match": "synonym",
+    "flavour": "Flesh yellow, breaking, firm; Flavor very sweet, rich; Quality good; Use, baking and stock",
+    "quality": "Quality good; Use, baking and stock",
+    "storage": "Season, December and January.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 5, "acid": null,
+    "note": "'This favorite baking apple of New England' from Rhode Island."
+  },
+  "cornish-aromatic": {
+    "line": 16900, "end": 16917, "heading": "Cornish Aromatic.", "match": "exact",
+    "flavour": "Flesh yellow, breaking, juicy; Flavor sub-acid, aromatic, spicy",
+    "quality": null,
+    "storage": "Season November to February.",
+    "climate": null,
+    "tags": ["perfumed", "spice"], "against": [], "sweet": null, "acid": 3,
+    "note": "Imported and tested at Louisville by George Heinsohn."
+  },
+  "fall-pippin": {
+    "line": 16942, "end": 16967, "heading": "Fall Pippin.", "match": "exact",
+    "flavour": "Flesh yellow, breaking, compact, very fine-grained; Flavor acid, becoming sub-acid, aromatic, delicious; Quality best for dessert, kitchen, market and drying",
+    "quality": "Quality best for dessert, kitchen, market and drying",
+    "storage": "Season September to December.",
+    "climate": "rarely blushed South, frequently so North, with skin finer",
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Warder separates this American apple from the inferior foreign Holland Pippin."
+  },
+  "newtown-pippin": {
+    "line": 17163, "end": 17183, "heading": "Newtown Pippin. (GREEN NEWTOWN.)", "match": "exact",
+    "flavour": "Flesh greenish white, crisp, tender, juicy; Flavor acid, aromatic, rich, very agreeable; Quality best",
+    "quality": "Quality best; Use, dessert, cooking",
+    "storage": "Season, December to March.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
+    "note": "Green Newtown; Warder describes the commoner Yellow Newtown (also our aka) separately at line 19423."
+  },
+  "yellow-ingestrie": {
+    "line": 17293, "end": 17309, "heading": "Yellow Ingestrie.", "match": "exact",
+    "flavour": "Flesh whitish yellow, breaking, juicy; Flavor sub-acid; Quality barely good; Use, cooking",
+    "quality": "Quality barely good",
+    "storage": "Season, September, October.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "'This old English variety'; Warder rates it only as a cooking apple."
+  },
+  "beauty-of-kent": {
+    "line": 17374, "end": 17390, "heading": "Beauty of Kent.", "match": "exact",
+    "flavour": "Flesh whitish yellow, breaking, juicy; Flavor acid; Quality only good",
+    "quality": "Quality only good; Use, cooking and market",
+    "storage": "Season, September and October.",
+    "climate": null,
+    "tags": ["sharp"], "against": ["mild"], "sweet": null, "acid": 4,
+    "note": "'A large English apple, well adapted to the kitchen.'"
+  },
+  "ben-davis": {
+    "line": 17393, "end": 17434, "heading": "Ben Davis. (NEW YORK PIPPIN, &C.)", "match": "exact",
+    "flavour": "Flesh whitish, breaking, tender, juicy; Flavor sub-acid, not rich; Quality only good",
+    "quality": "Quality only good; Use, market, kitchen",
+    "storage": "Season, December, January and longer.",
+    "climate": "The fruit is modified somewhat by a cooler climate, and will keep later than that grown in the South.",
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Grown 'not on account of its superlative excellence' but as an orchard and market fruit."
+  },
+  "hewes-crab": {
+    "line": 17837, "end": 17861, "heading": "Hewes' Crab.", "match": "exact",
+    "flavour": "Flesh firm, yellowish and greenish, juicy; Flavor acid, rich; the must is very heavy; Quality best for cider",
+    "quality": "Quality best for cider",
+    "storage": "Season, November to January.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Also 'the rich and piquant acid makes it a particularly desirable ingredient in mince-pies'."
+  },
+  "hubbardston-nonesuch": {
+    "line": 17864, "end": 17888, "heading": "Hubbardston. (HUBBARDSTON NONSUCH.)", "match": "exact",
+    "flavour": "Flesh yellow, breaking, fine grained, juicy; Flavor acid, sub-acid, rich; Quality very good; Use, cooking early, table when perfectly ripe",
+    "quality": "Quality very good",
+    "storage": "Use, cooking early, table when perfectly ripe; Season, November, December.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "margil": {
+    "line": 18020, "end": 18041, "heading": "Margil.", "match": "exact",
+    "flavour": "Flesh yellow, crisp, fine-grained, juicy; Flavor sub-acid, rich, aromatic, very agreeable; Quality best",
+    "quality": "A famous old English dessert apple; Quality best",
+    "storage": "Season, November to January.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "ribston-pippin": {
+    "line": 18225, "end": 18244, "heading": "Ribston Pippin.", "match": "exact",
+    "flavour": "Flesh yellow, crisp, firm, juicy; Flavor acid, rich, aromatic; Use, kitchen--scarcely for table",
+    "quality": "Use, kitchen--scarcely for table",
+    "storage": "Season, October and later, but apt to wilt.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
+    "note": "'This famous English apple does not seem to have many admirers among our orchardists' - a low American verdict."
+  },
+  "sops-in-wine": {
+    "line": 18328, "end": 18344, "heading": "Sops of Wine.", "match": "synonym",
+    "flavour": "Flesh yellow, fine grained, tender, juicy; Flavor acid to sub-acid, agreeable; Quality good to very good; Use, dessert",
+    "quality": "Quality good to very good; Use, dessert",
+    "storage": "Season, August and September.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "'European'; core 'distinctly marked with a red line'."
+  },
+  "swaar": {
+    "line": 18892, "end": 18913, "heading": "Swaar.", "match": "exact",
+    "flavour": "Flesh very heavy, yellow, fine-grained; Flavor very mild sub-acid, or sweet, very rich; Quality best",
+    "quality": "Quality best; Use, table and kitchen",
+    "storage": "Season, March.",
+    "climate": null,
+    "tags": ["mild", "sweet"], "against": [], "sweet": 4, "acid": 2,
+    "note": "Hudson valley, New York."
+  },
+  "pecks-pleasant": {
+    "line": 19216, "end": 19245, "heading": "Peck's Pleasant.", "match": "exact",
+    "flavour": "Flesh yellow, tender, breaking, fine-grained; Flavor sub-acid and somewhat aromatic; of first quality in the North",
+    "quality": "of first quality in the North",
+    "storage": "Season, December to January, or later.",
+    "climate": "There is, however, a remarkable diversity in the fruit arising from the different soils and climates in which it is cultivated, North and South, and while, like many other varieties, its size is greatly developed, its texture and flavor are depreciated in the migrations southward.",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "tompkins-king": {
+    "line": 19602, "end": 19626, "heading": "King. (KING OF TOMPKINS COUNTY.)", "match": "exact",
+    "flavour": "Flesh yellowish-white, tender, breaking; Flavor sub-acid, aromatic; Quality best",
+    "quality": "Quality best; Use, table, kitchen and market",
+    "storage": "Season, December and longer.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "sheepnose": {
+    "line": 19827, "end": 19844, "heading": "Black Gilliflower.", "match": "synonym",
+    "flavour": "Flesh whitish, dry; Flavor only sweet",
+    "quality": "it is but an indifferent fruit",
+    "storage": "on account of its productiveness and keeping properties, it is considered profitable for orchard planting. Season, November to March.",
+    "climate": null,
+    "tags": ["sweet"], "against": ["perfumed", "nutty"], "sweet": 4, "acid": null,
+    "note": "'Flavor only sweet' and 'dry' leave no room for our perfumed/nutty notes. Not the 'Sheepnose of Mears' (line 19327), a different Ohio apple."
+  },
+  "american-mother": {
+    "line": 19847, "end": 19863, "heading": "Mother.", "match": "exact",
+    "flavour": "Flesh yellow, crisp, very fine-grained, juicy; Flavor sweet, very rich, vinous, aromatic; Quality best; Use, dessert",
+    "quality": "Quality best; Use, dessert",
+    "storage": "Season, October to January.",
+    "climate": null,
+    "tags": ["sweet", "wine", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "'Origin Bolton, Massachusetts.'"
+  },
+  "grimes-golden": {
+    "line": 20048, "end": 20071, "heading": "Grimes' Golden.", "match": "exact",
+    "flavour": "Flesh yellow, firm, breaking, very fine-grained, juicy; Flavor sub-acid, aromatic, spicy, rich, refreshing; Quality very best; Use, dessert, too good for aught else",
+    "quality": "Quality very best; Use, dessert, too good for aught else",
+    "storage": "Season, January to March.",
+    "climate": null,
+    "tags": ["perfumed", "spice"], "against": [], "sweet": null, "acid": 3,
+    "note": "Origin Brooke County, Virginia."
+  },
+  "jonathan": {
+    "line": 20307, "end": 20334, "heading": "Jonathan.", "match": "exact",
+    "flavour": "Flesh, whitish yellow, tender, breaking, very juicy; Flavor sub-acid, aromatic, equal to Spitzenberg; Quality best",
+    "quality": "A very superior dessert fruit; good for all purposes; Quality best",
+    "storage": "December, January.",
+    "climate": "seems to do well everywhere",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Called 'a gentleman's apple'."
+  },
+  "keswick-codlin": {
+    "line": 20581, "end": 20603, "heading": "Keswick Codling.", "match": "exact",
+    "flavour": "Flesh greenish yellow, fine-grained, tender, juicy; Flavor acid; Quality good to very good for its use--cooking",
+    "quality": "Quality good to very good for its use--cooking",
+    "storage": "Season, August to October. The fruit may be cooked in June.",
+    "climate": "particularly desirable in the North and Northwest",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": ""
+  },
+  "yellow-bellflower": {
+    "line": 20657, "end": 20689, "heading": "Yellow Bellflower.", "match": "exact",
+    "flavour": "Flesh yellow, breaking, fine-grained, juicy; Flavor acid to sub-acid, aromatic, very rich and satisfying; Quality best",
+    "quality": "Quality best; One of the finest culinary apples in the catalogue.",
+    "storage": "Season, December.",
+    "climate": "The quality of the fruit varies with the soil, being best and most highly flavored and colored on exposed ridges of rather thin soil, while those on rich low bottoms or prairies are slow in bearing, and then produce very large fruit.",
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Burlington County, New Jersey; first described by Coxe."
+  },
+  "york-imperial": {
+    "line": 20692, "end": 20706, "heading": "York Imperial.", "match": "exact",
+    "flavour": "Flesh yellowish, tender, juicy; Flavor sub-acid, aromatic; Quality quite good",
+    "quality": "Quality quite good; Use, market, kitchen",
+    "storage": "Season, January, February.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "From near York, Pennsylvania; exhibited 1855."
+  }
+}

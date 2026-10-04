@@ -108,7 +108,7 @@ export function renderExplore(app, params) {
   <section class="hero">
     <div>
       <h1>The heirloom apple atlas</h1>
-      <p class="lead">Taste, growing habit and ripening for ${c.varieties} apple varieties — from rose-water Cox to pineapple-scented Ananas Reinette — plus the rootstocks that decide how big and how soon they crop. Then click the world map to see how your favourites would do in Norfolk, Paris or southern Michigan.</p>
+      <p class="lead">Taste, growing habit and ripening for ${c.varieties} apple varieties — from pineapple-scented Ananas Reinette and fennel-flavoured Ross Nonpareil to strawberry-tinged Worcester Pearmain, each flavour note checked against the sources — plus the rootstocks that decide how big and how soon they crop. Then click the world map to see how your favourites would do in Norfolk, Paris or southern Michigan.</p>
       <p class="small" style="margin:0 0 8px"><b>Browse by taste:</b>
         ${[['rose', 'Rose-water'], ['floral', 'Floral'], ['pear-drop', 'Pear drop'], ['pineapple', 'Pineapple'], ['vanilla', 'Vanilla'], ['nutty', 'Nutty'], ['aniseed', 'Aniseed'], ['honey', 'Honeyed'], ['strawberry', 'Strawberry']].map(([t, l]) => `<a class="chip" href="#/?tag=${t}">${l}</a>`).join('')}
         <a class="chip" href="#/?bred=1">Karim's own seedlings</a></p>

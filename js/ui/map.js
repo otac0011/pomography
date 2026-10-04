@@ -260,7 +260,7 @@ function factorHTML(f) {
 function scoreRow(v, s, extra = '') {
   const first = s.factors && s.factors.length;
   return `<div class="scorerow" data-open="${esc(v.id)}" tabindex="0" role="button" aria-expanded="false">${scoreRing(s.score)}<div style="flex:1;min-width:0"><h4>${esc(v.name)}</h4><div class="small muted">${esc(s.label)}${s.harvest ? ' &middot; ripens ~' + esc(s.harvest) : ''}${s.limiting ? ' &middot; limited by <b>' + esc(({ chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply', disease: 'disease' })[s.limiting]) + '</b>' : ''}</div></div>${extra}</div>
-  ${first ? `<div class="factors">${s.factors.map(factorHTML).join('')}<p class="small"><a href="#/v/${esc(v.id)}">Full profile of ${esc(v.name)} &rarr;</a></p></div>` : ''}`;
+  ${first ? `<div class="factors">${s.factors.map(factorHTML).join('')}${s.flavour ? `<div class="factor"><div class="ft"><span class="dot ${s.flavour.tone}"></span>Flavour here <span class="tiny muted">(not scored)</span></div><div class="fx">${esc(s.flavour.text)}</div></div>` : ''}<p class="small"><a href="#/v/${esc(v.id)}">Full profile of ${esc(v.name)} &rarr;</a></p></div>` : ''}`;
 }
 function wireRows(body) {
   body.querySelectorAll('.scorerow').forEach(r => {

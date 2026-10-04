@@ -1,0 +1,327 @@
+{
+  "_book": "beach-1905-2",
+  "emperor-alexander": {
+    "line": 362, "end": 487, "heading": "ALEXANDER", "match": "synonym",
+    "flavour": "Flesh nearly white with faint yellow tinge, firm, coarse, moderately crisp, tender, juicy, mild subacid, fair to good.",
+    "quality": "medium to good in quality, suitable for culinary rather than for dessert use",
+    "storage": "It may be held in cold storage till November. It goes down quickly and as it does not stand heat well before going into storage it should be shipped the day it is picked and under ice.",
+    "climate": null,
+    "tags": ["mild"], "against": ["sharp"], "sweet": null, "acid": 2,
+    "note": "Beach's synonyms include Emperor Alexander, Kaiser Alexander, Empereur Alexandre and Aporta; typical variety of the Russian Aport group. Same lines also recorded for aport."
+  },
+  "aport": {
+    "line": 362, "end": 487, "heading": "ALEXANDER", "match": "probable",
+    "flavour": "Flesh nearly white with faint yellow tinge, firm, coarse, moderately crisp, tender, juicy, mild subacid, fair to good.",
+    "quality": "medium to good in quality, suitable for culinary rather than for dessert use",
+    "storage": "It may be held in cold storage till November. It goes down quickly",
+    "climate": null,
+    "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Beach lists Aporta as a synonym of Alexander (our aka Aport Alexander) and calls Alexander the typical variety of the Aport group (short note at line 570). He also describes a separate Aport Orient (syn. Aport, Budd's No. 252, line 586), 'resembles Alexander closely', ripening mid-August and 'coarse-grained and inferior in quality'. Same lines as emperor-alexander; identity with the Almaty Aport not certain."
+  },
+  "antonovka": {
+    "line": 537, "end": 568, "heading": "ANTONOVKA", "match": "exact",
+    "flavour": "flesh yellow, juicy, sprightly spicy subacid, good.",
+    "quality": "A Russian fruit of no practical value for this state.",
+    "storage": null,
+    "climate": null,
+    "tags": ["spice"], "against": [], "sweet": null, "acid": 3,
+    "note": "Short entry quoting Hansen's description; synonyms Antonowka, Antony, 26 M. Season given as October."
+  },
+  "beauty-of-kent": {
+    "line": 1068, "end": 1093, "heading": "BEAUTY OF KENT", "match": "exact",
+    "flavour": null,
+    "quality": "Fruit large, beautiful, showy, suitable for culinary use",
+    "storage": null,
+    "climate": "In England where it originated it is said to do best under garden culture in warm soil and on Paradise stock; grown in clay and other uncongenial soils it loses quality.",
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry; season late September to November. Leroy gives Kentish Pippin as a synonym (not our colonel-vaughan)."
+  },
+  "bismarck": {
+    "line": 1318, "end": 1387, "heading": "BISMARCK", "match": "exact",
+    "flavour": "Flesh nearly white, moderately firm, coarse, rather tender, juicy, subacid, sprightly, fair to good or nearly good.",
+    "quality": "suitable for kitchen and market purposes but inferior in dessert qualities",
+    "storage": "its season extends from October to early winter",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Beach gives the origin as the Province of Canterbury, New Zealand (our record says Australia). Related to the Aport group; ranks with Alexander and Wolf River in quality."
+  },
+  "blenheim-orange": {
+    "line": 1401, "end": 1502, "heading": "BLENHEIM", "match": "synonym",
+    "flavour": "Flesh tinged with yellow, rather firm, moderately juicy, crisp, moderately fine grained or a little coarse, somewhat aromatic, agreeable sprightly subacid, becoming rather mild subacid, good to very good; excellent either for dessert or culinary use.",
+    "quality": "attractive in appearance and of excellent quality",
+    "storage": "It is at its best from October to December but often may be kept until midwinter or later.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Described as Blenheim; synonyms Blenheim Orange, Blenheim Pippin, Woodstock Pippin. Beach notes it is not a good keeper and is variable in season."
+  },
+  "magnum-bonum": {
+    "line": 1559, "end": 1612, "heading": "BONUM", "match": "synonym",
+    "flavour": "Flesh white, often stained next to the skin, firm, fine, tender, juicy, aromatic, mild subacid, very good for dessert.",
+    "quality": "a southern variety of very good quality when grown under favorable conditions",
+    "storage": null,
+    "climate": "Probably it is not well adapted to regions as far north as New York",
+    "tags": ["perfumed", "mild"], "against": ["sharp"], "sweet": null, "acid": 2,
+    "note": "Described as Bonum with synonym Magnum Bonum; origin Davidson county, N. C. Fruit description compiled from other authors."
+  },
+  "belle-de-boskoop": {
+    "line": 1684, "end": 1761, "heading": "BOSKOOP", "match": "synonym",
+    "flavour": "the texture is somewhat coarse, and the flavor rather too acid for an agreeable dessert apple, but late in the season its acidity becomes modified. Flesh tinged with yellow, firm, somewhat coarse, tender, juicy, crisp, brisk subacid, good to very good.",
+    "quality": "more suitable for general market and culinary purposes than for dessert",
+    "storage": "As grown in Western New York generally some of the fruit may be kept till April.",
+    "climate": "When grown on warm soils in Southern New York it may be marketed in September, but in the more northern regions of the state it keeps into the winter.",
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Synonyms Belle de Boskoop, Schoner von Boskoop, Reinette Monstrueuse."
+  },
+  "catshead": {
+    "line": 1930, "end": 1946, "heading": "CATHEAD", "match": "synonym",
+    "flavour": "Fruit very large, pale green, subacid.",
+    "quality": "Used for cooking and evaporating.",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Short entry; synonyms Catshead, Catshead Greening, Tete de Chat; Floy-Lindley's Costard and Emmons's Costard Ray are also listed as synonyms (our costard not recorded)."
+  },
+  "coxs-orange-pippin": {
+    "line": 2698, "end": 2765, "heading": "COX ORANGE", "match": "exact",
+    "flavour": "Flesh yellow, firm, nearly fine, crisp, tender, very juicy, rich, sprightly subacid or becoming mild subacid, decidedly aromatic, very good to best.",
+    "quality": "One of the best in quality of the English dessert apples",
+    "storage": "in season from late September to early winter",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Beach drops the possessive: Cox Orange = Cox's Orange Pippin."
+  },
+  "early-harvest": {
+    "line": 3202, "end": 3290, "heading": "EARLY HARVEST", "match": "exact",
+    "flavour": "Flesh white, not firm, rather fine, crisp, tender, juicy, at first briskly subacid but eventually becoming milder, and more agreeable for dessert. Good to very good.",
+    "quality": "very good in quality",
+    "storage": "it keeps but a short time",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Synonyms include Yellow Harvest, July Pippin, Prince's Harvest and Tart Bough (of some). Beach's separate Tart Bough (line 12870) is a different, more acid variety."
+  },
+  "fall-pippin": {
+    "line": 3767, "end": 3866, "heading": "FALL PIPPIN", "match": "exact",
+    "flavour": "The flesh is tender, rich and very good in quality. Flesh whitish or tinged with yellow, moderately firm, rather fine, tender, very juicy, agreeable subacid, somewhat aromatic, very good.",
+    "quality": "excellent for dessert but especially desirable for culinary uses",
+    "storage": "even carefully selected fruit cannot be relied upon to hold in common storage till December 1st without considerable loss. In cold storage it may be held till January or February.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "The OCR lost the heading and references (page 61); the entry starts at its SYNONYMS line, which includes Pound Pippin. Beach compares it with Holland Pippin."
+  },
+  "gladstone": {
+    "line": 4544, "end": 4598, "heading": "GLADSTONE", "match": "exact",
+    "flavour": "Flesh slightly tinged with yellow, moderately firm, a little coarse, crisp, tender, juicy, mild subacid, fair in quality.",
+    "quality": "It is not equal to either of these varieties in quality.",
+    "storage": null,
+    "climate": null,
+    "tags": ["mild"], "against": ["sharp"], "sweet": null, "acid": 2,
+    "note": "Synonym Mr. Gladstone; intermediate in appearance between Oldenburg and Gravenstein, inferior to both in quality."
+  },
+  "gravenstein": {
+    "line": 5065, "end": 5194, "heading": "GRAVENSTEIN", "match": "exact",
+    "flavour": "Flesh yellowish, firm, moderately fine, crisp, moderately tender, juicy, sprightly subacid, aromatic, very good to best.",
+    "quality": "an apple of good size, attractive appearance and excellent quality. For culinary purposes it is perhaps unexcelled by any variety of its season.",
+    "storage": "When properly handled a considerable portion of the fruit may remain apparently sound much later than this but the color fades and the quality and flavor deteriorate.",
+    "climate": "In many sections of the state the tree is regarded as not quite hardy, being somewhat subject to sunscald and canker.",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "hawthornden": {
+    "line": 5734, "end": 5773, "heading": "HAWTHORNDEN", "match": "exact",
+    "flavour": "Flesh mild subacid, not of high flavor, pleasant, good.",
+    "quality": null,
+    "storage": null,
+    "climate": "A Scotch variety which has done fairly well in various parts of this country from New England to California.",
+    "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Beach had not grown it; description is second-hand. Lists Hawley as an erroneous synonym (his Hawley, line 5663, is a different American apple)."
+  },
+  "kentish-fillbasket": {
+    "line": 6917, "end": 6975, "heading": "KENTISH FILLBASKET", "match": "exact",
+    "flavour": "Flesh whitish, firm, moderately coarse, crisp, rather tender, juicy, brisk subacid, good.",
+    "quality": "desirable for cooking but not for dessert use",
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Synonyms Lady de Grey's, Potter's Large. Following Hogg, the Kentish Fillbasket of Miller and Forsyth is a different apple (the old English Codlin)."
+  },
+  "keswick-codlin": {
+    "line": 6977, "end": 7073, "heading": "KESWICK", "match": "synonym",
+    "flavour": "Flesh nearly white, fine, tender, very juicy, brisk subacid, good for culinary use, too acid for dessert unless very ripe.",
+    "quality": "particularly esteemed on account of its excellence for culinary use",
+    "storage": "It is not adapted for storage, its commercial limit in ordinary storage being September and early October.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "Described as Keswick, synonym Keswick Codlin; distinct from the English Codling of Coxe and Forsyth."
+  },
+  "landsberger-reinette": {
+    "line": 7114, "end": 7177, "heading": "LANDSBERG", "match": "synonym",
+    "flavour": "pleasant subacid flavor. Flesh nearly white, very tender, crisp, rather fine-grained, mild subacid, agreeable in flavor, good to very good for dessert.",
+    "quality": "a good dessert apple but less desirable for culinary uses because when it is cooked it lacks character in texture, color and flavor",
+    "storage": "Some of the fruit keeps apparently sound till March or later but after January it loses in quality.",
+    "climate": null,
+    "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Described as Landsberg, synonym Landsberger Reinette; raised about 1840 by Mr. Burkhardt at Landsberg."
+  },
+  "lord-suffield": {
+    "line": 7528, "end": 7548, "heading": "LORD SUFFIELD", "match": "exact",
+    "flavour": "flesh white, rather fine, moderately juicy, subacid, good for culinary use.",
+    "quality": "considered by some one of the best apples of the group",
+    "storage": "suitable for cooking as early as the middle of July and remains in use till September",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Keswick Codlin group; blighted badly at Geneva."
+  },
+  "mcintosh-red": {
+    "line": 7925, "end": 8032, "heading": "McINTOSH", "match": "exact",
+    "flavour": "The flesh is very tender, perfumed and delicious. Flesh white or slightly tinged with yellow, sometimes veined with red, firm, fine, crisp, tender, very juicy, characteristically and agreeably aromatic, perfumed, sprightly, subacid, becoming mild and nearly sweet when very ripe, very good to best for dessert.",
+    "quality": "very good to best for dessert",
+    "storage": "In Western New York it cannot be expected to keep much later than October in ordinary storage without considerable loss but in cold storage it may be held until December or January.",
+    "climate": "When grown in more northern or elevated regions it is often held in good condition till midwinter or later.",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Synonym McIntosh Red; Fameuse group."
+  },
+  "american-mother": {
+    "line": 8531, "end": 8617, "heading": "MOTHER", "match": "synonym",
+    "flavour": "tender, rich, aromatic flesh of best dessert quality. It is less desirable for culinary uses, being somewhat lacking in acidity. Flesh fine, tender, juicy, very mild subacid, aromatic, very good to best in flavor and quality.",
+    "quality": "best dessert quality",
+    "storage": "In ordinary storage it does not keep well and November is its safe commercial limit, but in cold storage it may be held till March or later.",
+    "climate": "In many localities it is rather tender and liable to scald or canker on the trunk and larger branches.",
+    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Described as Mother; synonyms American Mother, Gardener's Apple, Mother of America. Resembles Esopus Spitzenburg."
+  },
+  "duchess-of-oldenburg": {
+    "line": 8952, "end": 9100, "heading": "OLDENBURG", "match": "synonym",
+    "flavour": "Flesh tinged with yellow, rather firm, moderately fine, crisp, tender, juicy, sprightly subacid, aromatic, good to very good for culinary purposes. It has too much acidity for a good dessert apple.",
+    "quality": "good to very good for culinary purposes",
+    "storage": "Since the fruit is quite perishable it does not stand heat well before shipment and goes down rather quickly",
+    "climate": "The tree is highly valued because of its great hardiness.",
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
+    "note": "Beach uses the A.P.S. name Oldenburg (cross-reference under Duchess of Oldenburg at line 3064); synonyms Duchess, Charlamowsky, Borowitsky. His Borovinka (line 1614) is treated as distinct."
+  },
+  "peasgoods-nonsuch": {
+    "line": 9631, "end": 9643, "heading": "PEASGOOD NONSUCH", "match": "exact",
+    "flavour": null,
+    "quality": "excellent for culinary use",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry; little tested in America."
+  },
+  "coxs-pomona": {
+    "line": 9786, "end": 9853, "heading": "POMONA", "match": "synonym",
+    "flavour": "Flesh whitish, not very firm, rather fine, crisp, tender, juicy, subacid, sprightly, good to very good for culinary use.",
+    "quality": "good to very good for culinary use",
+    "storage": "not a very good keeper. In ordinary storage its commercial limit is October.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Described as Pomona, synonym Cox's Pomona; raised by Mr. Cox, who also raised Cox Orange."
+  },
+  "red-astrachan": {
+    "line": 10567, "end": 10677, "heading": "RED ASTRACHAN", "match": "exact",
+    "flavour": "Flesh white often strongly tinged with red, rather fine, crisp, tender, juicy, brisk subacid, aromatic, sometimes slightly astringent, good to very good.",
+    "quality": "When fully ripe and mellow it is desirable for dessert use.",
+    "storage": "It is very perishable, and on this account not well adapted for shipping to distant markets.",
+    "climate": null,
+    "tags": ["sharp", "perfumed", "astringent"], "against": [], "sweet": null, "acid": 4,
+    "note": "Fit for culinary use before fully ripe."
+  },
+  "ribston-pippin": {
+    "line": 10917, "end": 11034, "heading": "RIBSTON", "match": "synonym",
+    "flavour": "Flesh tinged with yellow, firm, very crisp, medium in texture, juicy, pleasantly aromatic, rich, sprightly subacid, very good.",
+    "quality": "much esteemed for its rich flavor and fine quality",
+    "storage": "Heat ripens it quickly and it is not considered a very good keeper.",
+    "climate": "It is not grown to any considerable extent in New York but succeeds better farther north, as in portions of Northern New England and of Canada",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Described as Ribston; synonyms Ribston Pippin, Glory of York, Formosa Pippin, Travers. Same group as Hubbardston."
+  },
+  "sops-in-wine": {
+    "line": 11882, "end": 11952, "heading": "SOPS OF WINE", "match": "synonym",
+    "flavour": "Flesh yellowish often stained with pink, soft, fine, juicy, aromatic, mild, pleasant, subacid, good.",
+    "quality": "Of little value except as a dessert apple for family use.",
+    "storage": null,
+    "climate": null,
+    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
+    "note": "Synonyms Sops in Wine, Sapson, Rode Wyn Appel; quoted from Hogg as a very ancient English culinary and cider apple."
+  },
+  "summer-rambo": {
+    "line": 12463, "end": 12546, "heading": "SUMMER RAMBO", "match": "exact",
+    "flavour": "Flesh yellowish-green, firm, breaking, coarse, tender, very juicy, mildly subacid, somewhat aromatic, good.",
+    "quality": "good to very good",
+    "storage": null,
+    "climate": null,
+    "tags": ["mild", "perfumed"], "against": ["sharp"], "sweet": null, "acid": 2,
+    "note": "Synonyms Rambour Franc, Rambour d'Ete, Summer Rambour; said to have originated in France."
+  },
+  "tom-putt": {
+    "line": 13177, "end": 13192, "heading": "TOM PUTT", "match": "exact",
+    "flavour": "A rather attractive red apple of good size, moderately coarse, subacid, fair to good for culinary uses.",
+    "quality": "fair to good for culinary uses",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Short entry; synonyms Coalbrook, Marrow-bone."
+  },
+  "twenty-ounce": {
+    "line": 13265, "end": 13381, "heading": "TWENTY OUNCE", "match": "exact",
+    "flavour": "Flesh whitish somewhat tinged with yellow, coarse, moderately tender, juicy, subacid, good for culinary use, second rate for dessert.",
+    "quality": "good for culinary use, second rate for dessert",
+    "storage": "In common storage the fruit goes down rapidly during October and November. In cold storage it may be kept till midwinter",
+    "climate": "It seems to succeed particularly well in favorable locations in the apple belt south of Lake Ontario. It is especially subject to sunscald and canker on the trunk and larger limbs.",
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Synonyms Cayuga Red Streak, Eighteen Ounce; distinct from Twenty Ounce Pippin."
+  },
+  "wealthy": {
+    "line": 13806, "end": 13918, "heading": "WEALTHY", "match": "exact",
+    "flavour": "Flesh whitish sometimes stained with red, moderately fine, crisp, tender, very juicy, agreeable subacid, sprightly, somewhat aromatic, good to very good.",
+    "quality": "good in quality for either dessert or culinary uses",
+    "storage": "In ordinary storage its commercial limit is October, but in cold storage it may be kept till January or later.",
+    "climate": "This variety is particularly valuable for cold climates because the tree is very hardy",
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": ""
+  },
+  "wolf-river": {
+    "line": 14296, "end": 14373, "heading": "WOLF RIVER", "match": "exact",
+    "flavour": "Flesh slightly tinged with yellow, firm, moderately coarse, tender, juicy, subacid, a little aromatic, fair to good.",
+    "quality": "fair to good",
+    "storage": "with October as the commercial limit in ordinary storage. In cold storage it may be held till January. It does not stand heat well, and goes down quickly",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Aport group; supposed seedling of Alexander."
+  },
+  "white-transparent": {
+    "line": 14420, "end": 14524, "heading": "YELLOW TRANSPARENT", "match": "synonym",
+    "flavour": "Flesh white, moderately firm, fine-grained, crisp, tender, juicy, sprightly subacid with a pleasant but not high flavor, good or sometimes very good.",
+    "quality": "excellent for culinary use and acceptable for dessert. It is not equal in quality to Early Harvest",
+    "storage": null,
+    "climate": "In some portions of the West it suffers from twig blight (fire blight) but it appears to be quite free from this disease in New York.",
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Described as Yellow Transparent; synonyms Transparente Jaune, Skwosnoi Schotoi; imported from Russia in 1870."
+  },
+  "hyslop": {
+    "line": 14970, "end": 15030, "heading": "HYSLOP", "match": "exact",
+    "flavour": "Flesh yellow, sometimes with tinge of red next the skin, very firm, moderately fine, at first juicy but eventually becoming dry and mealy, subacid, astringent, good for culinary purposes.",
+    "quality": "good for culinary purposes",
+    "storage": "at first juicy but eventually becoming dry and mealy",
+    "climate": null,
+    "tags": ["astringent"], "against": [], "sweet": null, "acid": 3,
+    "note": "Crabapple; synonym Hyslop's Crab."
+  },
+  "siberian-crab": {
+    "line": 15403, "end": 15425, "heading": "RED SIBERIAN", "match": "probable",
+    "flavour": "flesh subacid, astringent, good for culinary uses.",
+    "quality": "good for culinary uses",
+    "storage": null,
+    "climate": null,
+    "tags": ["astringent"], "against": [], "sweet": null, "acid": 3,
+    "note": "Beach's Red Siberian has the synonym Siberian Crab (older authors); fruit three-quarters of an inch to an inch, ornamental, in clusters; origin given as France (Budd-Hansen). A cultivated form; our record is the species Malus baccata. Yellow Siberian (line 15689, also called Siberian Crab by Waring) is similar but golden."
+  },
+  "transcendent": {
+    "line": 15555, "end": 15611, "heading": "TRANSCENDENT", "match": "exact",
+    "flavour": "Flesh yellow, crisp, juicy, moderately fine, somewhat astringent, subacid, very good for culinary uses.",
+    "quality": "very good for culinary uses",
+    "storage": null,
+    "climate": null,
+    "tags": ["astringent"], "against": [], "sweet": null, "acid": 3,
+    "note": "Crabapple; in Prince's catalogue as early as 1844."
+  }
+}

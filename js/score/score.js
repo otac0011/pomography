@@ -209,6 +209,23 @@ function driver(k, F) {
 }
 const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
 
+/**
+ * How the place is likely to change the apple's flavour (not scored). Uses the variety's `taste.climate_flavour`, recorded
+ * from sources (e.g. Cox loses aroma in hot summers: needs 'cool'; Granny Smith needs a long warm season: 'warm').
+ * Hot = hottest-month mean high >= 28 C or 10+ days a year at 32 C; cool = hottest-month mean high below 22 C.
+ */
+export function flavourHere(v, F) {
+  const cf = v.taste && v.taste.climate_flavour;
+  if (!cf || !cf.needs || cf.needs === 'any' || !F.heat) return null;
+  const hot = F.heat.tmaxHot >= 28 || F.heat.hot32 >= 10, cool = F.heat.tmaxHot < 22;
+  const src = cf.note ? ' Sources: ' + cf.note : '';
+  if (cf.needs === 'cool' && hot) return { tone: F.heat.tmaxHot >= 31 ? 'bad' : 'warn', text: 'Hot summers here (hottest month averages ' + Math.round(F.heat.tmaxHot) + ' °C highs) usually make ' + v.name + ' milder and less aromatic than where it is famous.' + src };
+  if (cf.needs === 'cool' && F.heat.tmaxHot < 26) return { tone: 'good', text: 'A cool summer like this suits the flavour of ' + v.name + '.' + src };
+  if (cf.needs === 'warm' && cool) return { tone: 'warn', text: 'Summers here are cool (hottest month averages ' + Math.round(F.heat.tmaxHot) + ' °C highs); ' + v.name + ' needs warmth to develop full sweetness and may stay sharp.' + src };
+  if (cf.needs === 'warm' && F.heat.tmaxHot >= 26) return { tone: 'good', text: 'Warm summers here help ' + v.name + ' reach full sweetness.' + src };
+  return null;
+}
+
 /** Score one variety at one place. F = climate features, ctx = makeContext(ref). */
 export function scoreVariety(v, F, ctx) {
   if (F.error) return { score: 0, label: 'No data', factors: [], limiting: null, error: F.error };
@@ -229,7 +246,7 @@ export function scoreVariety(v, F, ctx) {
   const minCrit = Math.min(...CRITICAL.map(k => parts[k].f));
   const score = Math.round(100 * base * Math.pow(minCrit, 0.6));
   const worst = [...factors].sort((a, b) => a.f - b.f)[0];
-  return { score, label: labelOf(score), factors, limiting: worst.f < 0.7 ? worst.key : null, harvest: parts.season.harvest || null, shift: parts.season.shift ?? null };
+  return { score, label: labelOf(score), factors, limiting: worst.f < 0.7 ? worst.key : null, harvest: parts.season.harvest || null, shift: parts.season.shift ?? null, flavour: flavourHere(v, F) };
 }
 
 export function rankVarieties(varieties, F, ctx) {
