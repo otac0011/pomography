@@ -20,7 +20,7 @@ Karim Habibi).
   free weather service is busy the panel falls back to values extrapolated from nearby reference places and says so.
 * **Favourites** - side-by-side comparison and a pollination check (flowering groups, triploids).
 
-Live site: https://otac0011.github.io/pomona/ (GitHub Pages from `main`, repo root).
+Live site: https://otac0011.github.io/pomography/ (GitHub Pages from `main`, repo root).
 
 ## Run it locally
 
