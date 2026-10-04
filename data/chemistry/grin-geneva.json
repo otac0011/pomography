@@ -12,6 +12,20 @@
   "ta_units": "g/L malic acid (no TA in this source)"
  },
  "records": {
+  "abbondanza": {
+   "accession": "Abbondanza",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 206542"
+   ]
+  },
   "adams-pearmain": {
    "accession": "Adams's Pearmain",
    "ssc": 15.7,
@@ -40,6 +54,34 @@
     "PI 255899"
    ]
   },
+  "akero": {
+   "accession": "Akero",
+   "ssc": 11.2,
+   "ta": null,
+   "firmness": 11.0,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 104776"
+   ]
+  },
+  "alkmene": {
+   "accession": "Alkmene",
+   "ssc": 13.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 344547"
+   ]
+  },
   "american-mother": {
    "accession": "Mother",
    "ssc": 14.5,
@@ -52,6 +94,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589077"
+   ]
+  },
+  "american-summer-pearmain": {
+   "accession": "American Summer Pearmain",
+   "ssc": 13.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589214"
    ]
   },
   "anna": {
@@ -110,6 +166,34 @@
     "PI 589117"
    ]
   },
+  "arlet": {
+   "accession": "Arlet",
+   "ssc": 14.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589443"
+   ]
+  },
+  "aroma": {
+   "accession": "Aroma",
+   "ssc": 12.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589352"
+   ]
+  },
   "arthur-turner": {
    "accession": "Arthur Turner",
    "ssc": 11.0,
@@ -136,6 +220,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589654"
+   ]
+  },
+  "atlas": {
+   "accession": "Atlas",
+   "ssc": 10.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588977"
+   ]
+  },
+  "aurora-golden-gala": {
+   "accession": "Aurora",
+   "ssc": 17.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589552"
    ]
   },
   "baldwin": {
@@ -166,6 +278,34 @@
     "PI 206021"
    ]
   },
+  "bancroft": {
+   "accession": "Bancroft",
+   "ssc": 13.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589052"
+   ]
+  },
+  "barry": {
+   "accession": "Barry",
+   "ssc": 14.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000-2007",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589428"
+   ]
+  },
   "battleford": {
    "accession": "Battleford",
    "ssc": 14.5,
@@ -178,6 +318,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588846"
+   ]
+  },
+  "baumanns-reinette": {
+   "accession": "Baumann's Reinette",
+   "ssc": 13.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589566"
+   ]
+  },
+  "beacon": {
+   "accession": "Beacon",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589885"
    ]
   },
   "belle-de-boskoop": {
@@ -208,6 +376,37 @@
     "PI 102537"
    ]
   },
+  "belle-fleur-de-france": {
+   "accession": "Belle Fleur de France; Double Bon Pommier",
+   "ssc": 11.4,
+   "ta": null,
+   "firmness": 18.2,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 2,
+   "years": "2004-2009",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 131104",
+    "PI 589573"
+   ],
+   "per_accession": [
+    {
+     "accession": "Double Bon Pommier",
+     "id": "PI 131104",
+     "ssc": 11.1,
+     "ta": null,
+     "firmness": 18.2
+    },
+    {
+     "accession": "Belle Fleur de France",
+     "id": "PI 589573",
+     "ssc": 11.8,
+     "ta": null,
+     "firmness": null
+    }
+   ]
+  },
   "ben-davis": {
    "accession": "Ben Davis",
    "ssc": 11.2,
@@ -220,6 +419,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588953"
+   ]
+  },
+  "benoni": {
+   "accession": "Benoni",
+   "ssc": 12.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589120"
    ]
   },
   "berner-rosen": {
@@ -250,6 +463,20 @@
     "PI 589886"
    ]
   },
+  "bietigheimer": {
+   "accession": "Bietigheimer",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": 9.6,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589043"
+   ]
+  },
   "binet-rouge": {
    "accession": "Binet Rouge",
    "ssc": 12.1,
@@ -262,6 +489,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 158730"
+   ]
+  },
+  "black-ben-davis": {
+   "accession": "Black Ben Davis",
+   "ssc": 12.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589178"
+   ]
+  },
+  "black-oxford": {
+   "accession": "Black Oxford",
+   "ssc": 15.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 157052"
    ]
   },
   "black-twig": {
@@ -306,6 +561,20 @@
     "PI 590180"
    ]
   },
+  "bodil-neergaard": {
+   "accession": "Bodil Neergaard",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2007",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 104781"
+   ]
+  },
   "bohnapfel": {
    "accession": "Bohnapfel",
    "ssc": null,
@@ -318,6 +587,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 644150"
+   ]
+  },
+  "boiken": {
+   "accession": "Boiken",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589134"
    ]
   },
   "braeburn": {
@@ -365,6 +648,34 @@
     }
    ]
   },
+  "brettacher-samling": {
+   "accession": "Brettacher",
+   "ssc": 11.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589563"
+   ]
+  },
+  "britemac": {
+   "accession": "Britemac",
+   "ssc": 14.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589140"
+   ]
+  },
   "brown-snout": {
    "accession": "Brown Snout",
    "ssc": null,
@@ -407,6 +718,20 @@
     "PI 588808"
    ]
   },
+  "burgundy": {
+   "accession": "Burgundy",
+   "ssc": 11.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588835"
+   ]
+  },
   "butterball": {
    "accession": "Butterball",
    "ssc": 18.0,
@@ -435,6 +760,20 @@
     "PI 589596"
    ]
   },
+  "cap-of-liberty": {
+   "accession": "Cap of Liberty",
+   "ssc": 13.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 161830"
+   ]
+  },
   "captain-kidd": {
    "accession": "Captain Kidd",
    "ssc": 15.3,
@@ -447,6 +786,48 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589698"
+   ]
+  },
+  "carlton": {
+   "accession": "Carlton",
+   "ssc": 12.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589075"
+   ]
+  },
+  "carola": {
+   "accession": "Carola",
+   "ssc": 14.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 341068"
+   ]
+  },
+  "carroll": {
+   "accession": "Carroll",
+   "ssc": 13.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588832"
    ]
   },
   "centennial": {
@@ -463,6 +844,34 @@
     "PI 588909"
    ]
   },
+  "champion": {
+   "accession": "Sampion",
+   "ssc": 11.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589533"
+   ]
+  },
+  "charden": {
+   "accession": "Charden",
+   "ssc": 14.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589445"
+   ]
+  },
   "charles-ross": {
    "accession": "Charles Ross",
    "ssc": 12.2,
@@ -475,6 +884,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589659"
+   ]
+  },
+  "chehalis": {
+   "accession": "Chehalis",
+   "ssc": 14.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589890"
+   ]
+  },
+  "chenango": {
+   "accession": "Chenango Strawberry",
+   "ssc": 11.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589239"
    ]
   },
   "cherry-cox": {
@@ -503,6 +940,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588803"
+   ]
+  },
+  "chieftain": {
+   "accession": "Chieftain",
+   "ssc": 12.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589854"
    ]
   },
   "chisel-jersey": {
@@ -545,6 +996,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 280024"
+   ]
+  },
+  "clivia": {
+   "accession": "Clivia",
+   "ssc": 12.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 344550"
+   ]
+  },
+  "collins-june": {
+   "accession": "Collins June",
+   "ssc": 10.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1995",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589149"
    ]
   },
   "cornish-aromatic": {
@@ -679,6 +1158,20 @@
     "PI 589657"
    ]
   },
+  "crimson-beauty": {
+   "accession": "Crimson Beauty",
+   "ssc": 12.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589024"
+   ]
+  },
   "crimson-bramley": {
    "accession": "Crimson Bramley",
    "ssc": 13.9,
@@ -691,6 +1184,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 113703"
+   ]
+  },
+  "crimson-gold": {
+   "accession": "Crimson Gold",
+   "ssc": 13.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589215"
+   ]
+  },
+  "crimson-king": {
+   "accession": "Crimson King",
+   "ssc": 15.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2007",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 158618"
    ]
   },
   "crispin": {
@@ -721,6 +1242,20 @@
     "PI 589073"
    ]
   },
+  "dayton": {
+   "accession": "Dayton",
+   "ssc": 12.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590183"
+   ]
+  },
   "democrat": {
    "accession": "Democrat",
    "ssc": 13.6,
@@ -747,6 +1282,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589581"
+   ]
+  },
+  "diana": {
+   "accession": "Diana",
+   "ssc": 11.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588962"
+   ]
+  },
+  "directeur-lesage": {
+   "accession": "Directeur Lesage",
+   "ssc": 9.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589589"
    ]
   },
   "discovery": {
@@ -792,18 +1355,17 @@
    ]
   },
   "duchess-of-oldenburg": {
-   "accession": "Borowitsky; Duchess; Oldenburg",
-   "ssc": 11.4,
+   "accession": "Borowitsky; Duchess",
+   "ssc": 11.3,
    "ta": null,
    "firmness": null,
    "firmness_units": null,
-   "n": 3,
-   "years": "1996-2005",
+   "n": 2,
+   "years": "2000-2005",
    "match": "synonym",
    "stage": "harvest",
    "accession_ids": [
     "PI 588801",
-    "PI 589562",
     "PI 589574"
    ],
    "per_accession": [
@@ -818,13 +1380,6 @@
      "accession": "Borowitsky",
      "id": "PI 589574",
      "ssc": 12.1,
-     "ta": null,
-     "firmness": null
-    },
-    {
-     "accession": "Oldenburg",
-     "id": "PI 589562",
-     "ssc": 11.7,
      "ta": null,
      "firmness": null
     }
@@ -844,6 +1399,34 @@
     "PI 126873"
    ]
   },
+  "dufflin": {
+   "accession": "Dufflin",
+   "ssc": 14.5,
+   "ta": null,
+   "firmness": 10.8,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 175542"
+   ]
+  },
+  "dukat": {
+   "accession": "Dukat",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 341069"
+   ]
+  },
   "dumelows-seedling": {
    "accession": "Wellington",
    "ssc": 14.7,
@@ -856,6 +1439,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589363"
+   ]
+  },
+  "dunning": {
+   "accession": "Dunning",
+   "ssc": 14.1,
+   "ta": null,
+   "firmness": 14.1,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2009",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589050"
    ]
   },
   "early-harvest": {
@@ -884,6 +1481,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589661"
+   ]
+  },
+  "edelborsdorfer": {
+   "accession": "Edelborsdorfer",
+   "ssc": 13.8,
+   "ta": null,
+   "firmness": 10.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590124"
    ]
   },
   "edward-vii": {
@@ -945,6 +1556,34 @@
     "PI 280401"
    ]
   },
+  "elektra": {
+   "accession": "Elektra",
+   "ssc": 15.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 344551"
+   ]
+  },
+  "elise-rathke": {
+   "accession": "Elise Rathke",
+   "ssc": 14.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588886"
+   ]
+  },
   "ellis-bitter": {
    "accession": "Ellis Bitter",
    "ssc": 14.8,
@@ -985,6 +1624,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589440"
+   ]
+  },
+  "emilia": {
+   "accession": "Emilia",
+   "ssc": 16.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 123989"
    ]
   },
   "emperor-alexander": {
@@ -1043,6 +1696,20 @@
     "PI 588785"
    ]
   },
+  "exeter-cross": {
+   "accession": "Exeter Cross",
+   "ssc": 13.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589649"
+   ]
+  },
   "fall-pippin": {
    "accession": "Fall Pippin",
    "ssc": 13.1,
@@ -1055,6 +1722,62 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588954"
+   ]
+  },
+  "fallawater": {
+   "accession": "Fallawater",
+   "ssc": 14.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589294"
+   ]
+  },
+  "fenouillet-gris": {
+   "accession": "Fenouillet Gris",
+   "ssc": 11.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2007",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 136591"
+   ]
+  },
+  "fireside": {
+   "accession": "Fireside",
+   "ssc": 14.6,
+   "ta": null,
+   "firmness": 8.1,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 644191"
+   ]
+  },
+  "florina": {
+   "accession": "Florina",
+   "ssc": 13.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588747"
    ]
   },
   "flower-of-kent": {
@@ -1144,6 +1867,20 @@
     "PI 276299"
    ]
   },
+  "frogmore-prolific": {
+   "accession": "Frogmore",
+   "ssc": 11.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 104790"
+   ]
+  },
   "frostbite": {
    "accession": "Frostbite",
    "ssc": 12.1,
@@ -1184,6 +1921,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589683"
+   ]
+  },
+  "gewurzluiken": {
+   "accession": "Gewurzluiken",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2002",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 132225"
    ]
   },
   "gladstone": {
@@ -1231,6 +1982,20 @@
     }
    ]
   },
+  "gloria-mundi": {
+   "accession": "Gloria Mundi",
+   "ssc": 10.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589040"
+   ]
+  },
   "gloster": {
    "accession": "Gloster 69",
    "ssc": 14.5,
@@ -1276,6 +2041,20 @@
     }
    ]
   },
+  "golden-harvey": {
+   "accession": "Golden Harvey",
+   "ssc": 18.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590128"
+   ]
+  },
   "golden-noble": {
    "accession": "Golden Noble",
    "ssc": 12.7,
@@ -1288,6 +2067,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589135"
+   ]
+  },
+  "golden-nugget": {
+   "accession": "Golden Nugget",
+   "ssc": 15.2,
+   "ta": null,
+   "firmness": 18.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2009",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589126"
    ]
   },
   "golden-russet": {
@@ -1388,6 +2181,48 @@
     "PI 588791"
    ]
   },
+  "guldborg": {
+   "accession": "Guldborg",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997-2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 265301"
+   ]
+  },
+  "halberstadter-jungfernapfel": {
+   "accession": "Halberstadter Jungfernapfel",
+   "ssc": 14.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 132759"
+   ]
+  },
+  "hammerstein": {
+   "accession": "Minister von Hammerstein",
+   "ssc": 9.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 131007"
+   ]
+  },
   "haralson": {
    "accession": "Haralson",
    "ssc": 13.9,
@@ -1430,6 +2265,20 @@
     "PI 175543"
    ]
   },
+  "herma": {
+   "accession": "Herma",
+   "ssc": 14.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 344552"
+   ]
+  },
   "herrings-pippin": {
    "accession": "Herring's Pippin",
    "ssc": 11.2,
@@ -1442,6 +2291,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 136001"
+   ]
+  },
+  "hibernal": {
+   "accession": "Hibernal",
+   "ssc": 16.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589911"
+   ]
+  },
+  "holiday": {
+   "accession": "Holiday",
+   "ssc": 14.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589669"
    ]
   },
   "holstein": {
@@ -1528,6 +2405,34 @@
     "PI 589912"
    ]
   },
+  "idagold": {
+   "accession": "Idagold",
+   "ssc": 13.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589189"
+   ]
+  },
+  "idajon": {
+   "accession": "Idajon",
+   "ssc": 10.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589446"
+   ]
+  },
   "idared": {
    "accession": "Idared",
    "ssc": 11.6,
@@ -1540,6 +2445,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588841"
+   ]
+  },
+  "ingol": {
+   "accession": "Ingol",
+   "ssc": 14.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589441"
    ]
   },
   "ingrid-marie": {
@@ -1570,6 +2489,48 @@
     "PI 104727"
    ]
   },
+  "jamba-69": {
+   "accession": "Jamba",
+   "ssc": 10.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589917"
+   ]
+  },
+  "jefferis": {
+   "accession": "Jefferis",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589185"
+   ]
+  },
+  "jerseymac": {
+   "accession": "Jerseymac",
+   "ssc": 11.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588863"
+   ]
+  },
   "john-downie": {
    "accession": "John Downie",
    "ssc": 12.0,
@@ -1582,6 +2543,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589343"
+   ]
+  },
+  "john-standish": {
+   "accession": "John Standish",
+   "ssc": 13.2,
+   "ta": null,
+   "firmness": 13.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 123726"
+   ]
+  },
+  "jonafree": {
+   "accession": "Jonafree",
+   "ssc": 12.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589962"
    ]
   },
   "jonagold": {
@@ -1598,6 +2587,34 @@
     "PI 588941"
    ]
   },
+  "jonalicious": {
+   "accession": "Jonalicious",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613815"
+   ]
+  },
+  "jonamac": {
+   "accession": "Jonamac",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588858"
+   ]
+  },
   "jonathan": {
    "accession": "Jonathan",
    "ssc": 13.1,
@@ -1610,6 +2627,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 590185"
+   ]
+  },
+  "jubilee": {
+   "accession": "Jubilee",
+   "ssc": 13.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588900"
+   ]
+  },
+  "julyred": {
+   "accession": "Julyred",
+   "ssc": 13.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588942"
    ]
   },
   "kaiser-wilhelm": {
@@ -1626,6 +2671,34 @@
     "PI 589564"
    ]
   },
+  "kandil-sinap": {
+   "accession": "Kandil Sinap",
+   "ssc": 14.3,
+   "ta": null,
+   "firmness": 18.7,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2007-2008",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613948"
+   ]
+  },
+  "karmijn-de-sonnaville": {
+   "accession": "Karmijn",
+   "ssc": 16.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2005",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589436"
+   ]
+  },
   "katy": {
    "accession": "Katja",
    "ssc": 12.3,
@@ -1638,6 +2711,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589492"
+   ]
+  },
+  "keepsake": {
+   "accession": "Keepsake",
+   "ssc": 13.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589894"
    ]
   },
   "kent": {
@@ -1680,6 +2767,37 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 247026"
+   ]
+  },
+  "king-cole": {
+   "accession": "Cole; King Cole",
+   "ssc": 13.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 2,
+   "years": "1997",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 129820",
+    "PI 249925"
+   ],
+   "per_accession": [
+    {
+     "accession": "King Cole",
+     "id": "PI 249925",
+     "ssc": 13.1,
+     "ta": null,
+     "firmness": null
+    },
+    {
+     "accession": "Cole",
+     "id": "PI 129820",
+     "ssc": 13.8,
+     "ta": null,
+     "firmness": null
+    }
    ]
   },
   "king-david": {
@@ -1736,6 +2854,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 502248"
+   ]
+  },
+  "lakeland": {
+   "accession": "Lakeland",
+   "ssc": 11.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589186"
    ]
   },
   "landsberger-reinette": {
@@ -1806,6 +2938,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588943"
+   ]
+  },
+  "linda": {
+   "accession": "Linda",
+   "ssc": 14.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996-2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589032"
    ]
   },
   "lobo": {
@@ -1920,6 +3066,20 @@
     "PI 588946"
    ]
   },
+  "maiden-blush": {
+   "accession": "Maiden Blush",
+   "ssc": 11.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589105"
+   ]
+  },
   "major": {
    "accession": "Major",
    "ssc": 15.3,
@@ -1932,6 +3092,65 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 150649"
+   ]
+  },
+  "malinda": {
+   "accession": "Malinda",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": 9.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 2,
+   "years": "2000-2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613817",
+    "PI 644176"
+   ],
+   "per_accession": [
+    {
+     "accession": "Malinda",
+     "id": "PI 644176",
+     "ssc": 12.1,
+     "ta": null,
+     "firmness": 9.3
+    },
+    {
+     "accession": "Malinda",
+     "id": "PI 613817",
+     "ssc": 13.2,
+     "ta": null,
+     "firmness": null
+    }
+   ]
+  },
+  "manningtons-pearmain": {
+   "accession": "Mannington Pearmain",
+   "ssc": 16.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 141240"
+   ]
+  },
+  "mantet": {
+   "accession": "Mantet",
+   "ssc": 11.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589367"
    ]
   },
   "margil": {
@@ -1962,6 +3181,20 @@
     "PI 594108"
    ]
   },
+  "medina": {
+   "accession": "Medina",
+   "ssc": 12.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589531"
+   ]
+  },
   "melba": {
    "accession": "Melba",
    "ssc": 11.0,
@@ -1974,6 +3207,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589112"
+   ]
+  },
+  "melon": {
+   "accession": "Melon",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 342430"
    ]
   },
   "melrose": {
@@ -1990,6 +3237,20 @@
     "PI 589362"
    ]
   },
+  "merton-delight": {
+   "accession": "Merton Delight",
+   "ssc": 14.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 205461"
+   ]
+  },
   "merton-russet": {
    "accession": "Merton Russet",
    "ssc": 16.7,
@@ -2002,6 +3263,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 199008"
+   ]
+  },
+  "merton-worcester": {
+   "accession": "Merton Worcester",
+   "ssc": 14.5,
+   "ta": null,
+   "firmness": 14.8,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2007-2008",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 199009"
    ]
   },
   "michaelmas-red": {
@@ -2063,6 +3338,48 @@
     "PI 260001"
    ]
   },
+  "milton": {
+   "accession": "Milton",
+   "ssc": 11.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588956"
+   ]
+  },
+  "minnehaha": {
+   "accession": "Minnehaha",
+   "ssc": 9.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589030"
+   ]
+  },
+  "mio": {
+   "accession": "Mio",
+   "ssc": 10.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 238074"
+   ]
+  },
   "mollies-delicious": {
    "accession": "Mollie's Delicious",
    "ssc": 13.5,
@@ -2077,6 +3394,20 @@
     "PI 588981"
    ]
   },
+  "monroe": {
+   "accession": "Monroe",
+   "ssc": 12.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588772"
+   ]
+  },
   "muscadet-de-dieppe": {
    "accession": "Muscadet de Dieppe",
    "ssc": 13.8,
@@ -2089,6 +3420,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589493"
+   ]
+  },
+  "nanny": {
+   "accession": "Nanny",
+   "ssc": 17.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 131215"
    ]
   },
   "nehou": {
@@ -2119,6 +3464,20 @@
     "PI 588773"
    ]
   },
+  "niagara": {
+   "accession": "Niagara",
+   "ssc": 10.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589145"
+   ]
+  },
   "nonpareil": {
    "accession": "Old Nonpareil",
    "ssc": null,
@@ -2147,6 +3506,20 @@
     "PI 157733"
    ]
   },
+  "norfolk-royal": {
+   "accession": "Norfolk Royal",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 123729"
+   ]
+  },
   "northern-spy": {
    "accession": "Northern Spy",
    "ssc": 15.4,
@@ -2159,6 +3532,62 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588872"
+   ]
+  },
+  "nova-easygro": {
+   "accession": "Nova Easygro",
+   "ssc": 15.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588838"
+   ]
+  },
+  "novaspy": {
+   "accession": "Novaspy",
+   "ssc": 14.9,
+   "ta": null,
+   "firmness": 14.4,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2009",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613939"
+   ]
+  },
+  "ohio-nonpareil": {
+   "accession": "Ohio Nonpareil",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589852"
+   ]
+  },
+  "ontario": {
+   "accession": "Ontario",
+   "ssc": 14.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 237702"
    ]
   },
   "opalescent": {
@@ -2189,6 +3618,34 @@
     "PI 589232"
    ]
   },
+  "oriole": {
+   "accession": "Oriole",
+   "ssc": 14.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589897"
+   ]
+  },
+  "orleans": {
+   "accession": "Orleans",
+   "ssc": 14.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 276567"
+   ]
+  },
   "orleans-reinette": {
    "accession": "Orleans Reinette",
    "ssc": 13.7,
@@ -2201,6 +3658,51 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 280028"
+   ]
+  },
+  "ortley": {
+   "accession": "Cleopatra; Ortley",
+   "ssc": 11.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 2,
+   "years": "1997-2004",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589301",
+    "PI 589705"
+   ],
+   "per_accession": [
+    {
+     "accession": "Ortley",
+     "id": "PI 589301",
+     "ssc": 11.2,
+     "ta": null,
+     "firmness": null
+    },
+    {
+     "accession": "Cleopatra",
+     "id": "PI 589705",
+     "ssc": 11.3,
+     "ta": null,
+     "firmness": null
+    }
+   ]
+  },
+  "ozark-gold": {
+   "accession": "Ozark Gold",
+   "ssc": 12.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588982"
    ]
   },
   "parkland": {
@@ -2217,6 +3719,20 @@
     "PI 589450"
    ]
   },
+  "paula-red": {
+   "accession": "Paulared",
+   "ssc": 12.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589969"
+   ]
+  },
   "pecks-pleasant": {
    "accession": "Peck Pleasant",
    "ssc": 8.4,
@@ -2231,6 +3747,20 @@
     "PI 589240"
    ]
   },
+  "pederstrup": {
+   "accession": "Pederstrup",
+   "ssc": 11.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 104807"
+   ]
+  },
   "pepin-shafranny": {
    "accession": "Pepin Shafrannyi",
    "ssc": 12.4,
@@ -2243,6 +3773,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 259452"
+   ]
+  },
+  "pewaukee": {
+   "accession": "Pewaukee",
+   "ssc": 14.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590177"
+   ]
+  },
+  "pine-golden-pippin": {
+   "accession": "Pine Golden Pippin",
+   "ssc": 15.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 157734"
    ]
   },
   "pink-pearl": {
@@ -2301,6 +3859,20 @@
     "PI 589242"
    ]
   },
+  "potts-seedling": {
+   "accession": "Pott's Seedling",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": 18.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2008",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 126586"
+   ]
+  },
   "prairie-spy": {
    "accession": "Prairie Spy",
    "ssc": 10.4,
@@ -2313,6 +3885,62 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589898"
+   ]
+  },
+  "priam": {
+   "accession": "Priam",
+   "ssc": 13.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 483255"
+   ]
+  },
+  "prima": {
+   "accession": "Prima",
+   "ssc": 12.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589181"
+   ]
+  },
+  "primate": {
+   "accession": "Primate",
+   "ssc": 11.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000-2002",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589229"
+   ]
+  },
+  "primus": {
+   "accession": "Primus",
+   "ssc": 11.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589922"
    ]
   },
   "priscilla": {
@@ -2372,6 +4000,20 @@
      "ta": null,
      "firmness": null
     }
+   ]
+  },
+  "pumpkin-sweet": {
+   "accession": "Pumpkin Sweet",
+   "ssc": 13.8,
+   "ta": null,
+   "firmness": 10.6,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589257"
    ]
   },
   "ralls-janet": {
@@ -2475,6 +4117,48 @@
     "PI 594111"
    ]
   },
+  "redgold": {
+   "accession": "Redgold",
+   "ssc": 14.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589067"
+   ]
+  },
+  "redwell": {
+   "accession": "Redwell",
+   "ssc": 12.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589901"
+   ]
+  },
+  "regent": {
+   "accession": "Regent",
+   "ssc": 14.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999-2005",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589902"
+   ]
+  },
   "reinette-clochard": {
    "accession": "Reinette Clochard",
    "ssc": 15.5,
@@ -2487,6 +4171,48 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589444"
+   ]
+  },
+  "reinette-rouge-etoilee": {
+   "accession": "Sterappel",
+   "ssc": 14.5,
+   "ta": null,
+   "firmness": 21.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2007-2008",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590163"
+   ]
+  },
+  "reinette-simirenko": {
+   "accession": "Reinette Simirenko",
+   "ssc": 13.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 483257"
+   ]
+  },
+  "renown": {
+   "accession": "Renown",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": 7.6,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 131081"
    ]
   },
   "reverend-w-wilks": {
@@ -2531,6 +4257,20 @@
     "PI 588840"
    ]
   },
+  "rokewood": {
+   "accession": "Rokewood",
+   "ssc": 11.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2004",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 307381"
+   ]
+  },
   "rosemary-russet": {
    "accession": "Rosemary Russet",
    "ssc": 15.8,
@@ -2557,6 +4297,34 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 590141"
+   ]
+  },
+  "roter-eiserapfel": {
+   "accession": "Roter Eiserapfel",
+   "ssc": 13.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589592"
+   ]
+  },
+  "rouville": {
+   "accession": "Rouville",
+   "ssc": 13.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590187"
    ]
   },
   "roxbury-russet": {
@@ -2657,6 +4425,20 @@
     "PI 589432"
    ]
   },
+  "sharon": {
+   "accession": "Sharon",
+   "ssc": 14.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589322"
+   ]
+  },
   "sheepnose": {
    "accession": "Black Gilliflower; Crow Egg",
    "ssc": 13.9,
@@ -2686,6 +4468,20 @@
      "ta": null,
      "firmness": null
     }
+   ]
+  },
+  "shinsei": {
+   "accession": "Shinsei",
+   "ssc": 13.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 199533"
    ]
   },
   "siberian-crab": {
@@ -2733,6 +4529,20 @@
     "PI 105132"
    ]
   },
+  "sinta": {
+   "accession": "Sinta",
+   "ssc": 14.0,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2002",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589964"
+   ]
+  },
   "sir-prize": {
    "accession": "Sir Prize",
    "ssc": 14.4,
@@ -2759,6 +4569,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589903"
+   ]
+  },
+  "snovit": {
+   "accession": "Snovit",
+   "ssc": 13.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 232661"
    ]
   },
   "somerset-redstreak": {
@@ -2789,6 +4613,48 @@
     "PI 588871"
    ]
   },
+  "spencer-seedless": {
+   "accession": "Spencer Seedless",
+   "ssc": 15.1,
+   "ta": null,
+   "firmness": 15.5,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589031"
+   ]
+  },
+  "spigold": {
+   "accession": "Spigold",
+   "ssc": 15.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588860"
+   ]
+  },
+  "splendour": {
+   "accession": "Splendour",
+   "ssc": 12.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 437054"
+   ]
+  },
   "st-edmunds-pippin": {
    "accession": "St. Edmund's Russet",
    "ssc": 18.1,
@@ -2801,6 +4667,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589658"
+   ]
+  },
+  "stark-earliest": {
+   "accession": "Stark Earliest",
+   "ssc": 11.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588783"
    ]
   },
   "statefair": {
@@ -2859,6 +4739,34 @@
     "PI 307382"
    ]
   },
+  "summerred": {
+   "accession": "Summerred",
+   "ssc": 14.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 304637"
+   ]
+  },
+  "sundance": {
+   "accession": "Sundance",
+   "ssc": 12.4,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590209"
+   ]
+  },
   "sunrise": {
    "accession": "Sunrise",
    "ssc": 14.0,
@@ -2901,6 +4809,20 @@
     "PI 589680"
    ]
   },
+  "surprise": {
+   "accession": "Surprise",
+   "ssc": 11.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 134672"
+   ]
+  },
   "sweet-alford": {
    "accession": "Sweet Alford",
    "ssc": 18.9,
@@ -2913,6 +4835,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589081"
+   ]
+  },
+  "sweet-bough": {
+   "accession": "Sweet Bough",
+   "ssc": 12.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589101"
    ]
   },
   "sweet-coppin": {
@@ -2929,6 +4865,20 @@
     "PI 589688"
    ]
   },
+  "sweet-delicious": {
+   "accession": "Sweet Delicious",
+   "ssc": 15.7,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588955"
+   ]
+  },
   "sweet-sixteen": {
    "accession": "Sweet Sixteen",
    "ssc": 12.3,
@@ -2941,6 +4891,48 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589906"
+   ]
+  },
+  "sweet-winesap": {
+   "accession": "Hendrick Sweet",
+   "ssc": 12.9,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589295"
+   ]
+  },
+  "sylvia": {
+   "accession": "Sylvia",
+   "ssc": 15.4,
+   "ta": null,
+   "firmness": 6.2,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 1,
+   "years": "2013",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589351"
+   ]
+  },
+  "taliaferro": {
+   "accession": "Robinson",
+   "ssc": 17.5,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589455"
    ]
   },
   "tolman-sweet": {
@@ -3013,6 +5005,20 @@
     "PI 589538"
    ]
   },
+  "tumanga": {
+   "accession": "Auralia",
+   "ssc": 12.2,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1996",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 344548"
+   ]
+  },
   "tydemans-early-worcester": {
    "accession": "Tydeman Red (Cooper); Tydemans Early Worcester",
    "ssc": 13.6,
@@ -3044,6 +5050,34 @@
     }
    ]
   },
+  "venus-pippin": {
+   "accession": "Venus Pippin",
+   "ssc": 9.8,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2000",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 125273"
+   ]
+  },
+  "vilberie": {
+   "accession": "Vilberie",
+   "ssc": 17.1,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2002",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589652"
+   ]
+  },
   "vista-bella": {
    "accession": "Vista Bella",
    "ssc": 12.8,
@@ -3056,6 +5090,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 588819"
+   ]
+  },
+  "wagener": {
+   "accession": "Wagener",
+   "ssc": 12.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 588988"
    ]
   },
   "wealthy": {
@@ -3117,6 +5165,37 @@
     }
    ]
   },
+  "white-winter-pearmain": {
+   "accession": "White Winter Pearmain",
+   "ssc": 13.2,
+   "ta": null,
+   "firmness": 9.3,
+   "firmness_units": "lbf (penetrometer, recorded as psi)",
+   "n": 2,
+   "years": "2003-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613887",
+    "PI 681625"
+   ],
+   "per_accession": [
+    {
+     "accession": "White Winter Pearmain",
+     "id": "PI 613887",
+     "ssc": 12.4,
+     "ta": null,
+     "firmness": null
+    },
+    {
+     "accession": "White Winter Pearmain",
+     "id": "PI 681625",
+     "ssc": 14.0,
+     "ta": null,
+     "firmness": 9.3
+    }
+   ]
+  },
   "wickson-crab": {
    "accession": "Wickson",
    "ssc": 16.5,
@@ -3131,6 +5210,20 @@
     "PI 613818"
    ]
   },
+  "wijcik-mcintosh": {
+   "accession": "Wijcik McIntosh",
+   "ssc": 14.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1999",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590186"
+   ]
+  },
   "william-crump": {
    "accession": "William Crump",
    "ssc": 12.6,
@@ -3143,6 +5236,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589309"
+   ]
+  },
+  "williams-favourite": {
+   "accession": "Williams",
+   "ssc": 10.6,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2003-2004",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589133"
    ]
   },
   "williams-pride": {
@@ -3311,6 +5418,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589233"
+   ]
+  },
+  "zoete-ermgaard": {
+   "accession": "Zoete Ermgaard",
+   "ssc": 15.3,
+   "ta": null,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "1997",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589925"
    ]
   },
   "zuccalmaglios-renette": {

@@ -1,0 +1,541 @@
+[
+  {
+    "id": "eva",
+    "name": "Eva",
+    "aka": ["IAPAR 75", "IAPAR 75 Eva"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "BR",
+      "place": "Paraná, Brazil",
+      "year": 1999,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Anna x Gala",
+      "raised_by": "Instituto Agronômico do Paraná (IAPAR)"
+    },
+    "history": "Released in 1999 by the Paraná state agricultural institute IAPAR as one of a group of low-chill apples (with Anabela and Carícia) for warm subtropical parts of Brazil. It ripens in December and January in southern Brazil, ahead of Gala and Fuji, and is now grown even in semi-arid north-east Brazil and other warm-winter countries.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "No reliable description of the fruit's appearance found."
+    },
+    "taste": {
+      "summary": "No published tasting notes were found; its value lies in cropping where winters are too mild for most apples.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Reported as highly productive in warm regions; growers in Brazil still often apply dormancy-breaking sprays when winter chill falls short."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Needs a low-chill partner flowering at the same time; UK flowering group is meaningless for such an early-breaking tree."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 350,
+      "hardiness_zone": 8,
+      "heat_tolerance": 5,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Subtropical and warm-winter regions with roughly 100-450 chill hours: southern and north-eastern Brazil and similar climates in South America, Africa and the Middle East.",
+      "poor_climates": "Cold-winter climates such as Britain: chill is satisfied very early, so it breaks bud and flowers early and risks spring frost; harvest time there is not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found in the sources consulted."
+    },
+    "grow_notes": "A specialist apple for warm-winter gardens, to be paired with another low-chill variety such as Anna or Dorsett Golden for pollination. Not suited to UK gardens.",
+    "conf": "low"
+  },
+  {
+    "id": "evercrisp",
+    "name": "EverCrisp",
+    "aka": ["MAIA-1", "MAIA 1"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "US",
+      "place": "Lynd Fruit Farm, Pataskala, Ohio",
+      "year": 1998,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Honeycrisp x Fuji",
+      "raised_by": "Mitch Lynd for the Midwest Apple Improvement Association (MAIA)"
+    },
+    "history": "Raised in the late 1990s by Ohio grower Mitch Lynd within the grower-run Midwest Apple Improvement Association, patented as MAIA 1 and sold as EverCrisp. It was promoted from about 2012 and reached wider retail around 2017.",
+    "look": {
+      "size": null,
+      "shape": "round",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": null,
+      "russet": null,
+      "description": "Fuji-like in shape and look, with a rosy red blush over a cream background and a slightly tougher skin than Honeycrisp."
+    },
+    "taste": {
+      "summary": "Very sweet, with a candy-like sweetness, a light tang in the background and a Fuji-like flavour with some Honeycrisp character. Dense and very crisp, a little harder than Honeycrisp, and it keeps its crunch for months in store and for a couple of weeks at room temperature.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr; said to eat even better after two or three months in cold store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A small, spreading tree with wide crotch angles that crops annually and largely self-thins; the original tree set four crops in a row without thinning. Easier to manage than Fuji. Fruit left hanging into November may develop watercore."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not published; plant with another mid-season diploid."
+    },
+    "season": {
+      "harvest": "late Oct-early Nov",
+      "eating": "Dec-Apr",
+      "storage_weeks": 30
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred for the US Midwest, with cold winters and warm summers and a long autumn; in Indiana it is picked from mid October and can hang into early November.",
+      "poor_climates": "Its very late season makes full ripening doubtful in cool, short British autumns, as with Fuji."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "No pre-harvest drop or bitter pit recorded in early trials, unlike Honeycrisp; watercore can develop if picked very late."
+    },
+    "grow_notes": "Needs a long, warm season to sweeten; in Britain only a warm, sheltered south-facing site is likely to ripen it. The tree is compact and easy, and the fruit stores exceptionally well.",
+    "conf": "medium"
+  },
+  {
+    "id": "golden-orange",
+    "name": "Golden Orange",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "IT",
+      "place": "Trento, Trentino, Italy",
+      "year": 1979,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "PRI 1956-6 x Ed Gould Golden",
+      "raised_by": "Istituto Sperimentale per la Frutticoltura, Trento section (later part of CRA-FRU)"
+    },
+    "history": "Crossed in 1979 and released in 1996-97 by the Trento section of Italy's state fruit-research institute, as one of three scab-resistant Golden-Delicious-type apples (with Golden Lasa and Summerfree). Not to be confused with an unrelated Scottish 'Golden Orange' exhibited in 1883.",
+    "look": {
+      "size": "large",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, symmetrical Golden-Delicious-type yellow apple, around 200 g, with smooth russet-free skin and a light orange blush."
+    },
+    "taste": {
+      "summary": "Reported to eat much like Golden Delicious; no detailed independent tasting notes were found. Its breeders note it is less suitable than its sister Golden Lasa for processing and baking.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderate vigour with a spreading habit."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Medium-late flowering; group inferred from that description."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Northern Italian fruit valleys; also recommended for organic orchards in south-east France.",
+      "poor_climates": "As a late Golden-type apple it needs a long season; untested in cool maritime or very hot climates."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Carries Vf scab resistance; other susceptibilities not recorded."
+    },
+    "grow_notes": "A scab-resistant substitute for Golden Delicious in low-spray orchards, ripening a few days after it and keeping well. Needs a warm site and a mid-to-late flowering pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "golden-sweet",
+    "name": "Golden Sweet",
+    "aka": ["Golden Sweeting", "Early Golden Sweet", "Summer Sweet"],
+    "uses": ["dessert", "culinary", "cider"],
+    "origin": {
+      "country": "US",
+      "place": "Connecticut",
+      "year": 1832,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "An old Connecticut sweet apple known before 1832, later widely sold by southern US nurseries. The UK National Apple Register uses 'Golden Sweet' as a synonym of Northern Sweet from Vermont, which is a different apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Medium to large, pale golden-yellow apple with thin, smooth, waxy skin."
+    },
+    "taste": {
+      "summary": "Extremely sweet with almost no acidity; it has been likened to eating a spoonful of honey. The yellow flesh is firm, juicy and lightly aromatic.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet", "honey"],
+      "cider_class": "sweet",
+      "best_eaten": "Straight from the tree; Aug-Sep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tends to crop every other year."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "late Aug-mid Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "New England and the warmer south-eastern US, where it was once popular.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A curiosity for those who like very low-acid apples; also useful for sweetening sauce and cider. Expect biennial cropping, so thinning in heavy years helps.",
+    "conf": "low"
+  },
+  {
+    "id": "hangdown",
+    "name": "Hangdown",
+    "aka": ["Hangy Down", "Hangydown", "Horner", "Pocket Apple"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Probably the Glastonbury area, Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "A traditional Somerset and North Devon cider apple, believed to come from around Glastonbury and probably at least two centuries old. Long Ashton Research Station once recommended it and it survives in trial orchards, but it is rare in modern commercial planting.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small, round to slightly conical, smooth, somewhat waxy yellow fruit with a light red or pinkish-orange flush."
+    },
+    "taste": {
+      "summary": "A mild bittersweet: sweet, plentiful juice with only gentle tannin. A vintage-quality variety that can make a single-variety cider, though nurseries usually rate it as an average blender.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": 4,
+      "tags": ["sweet", "bitter"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not for eating; mill in October-November"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "A compact tree of many twiggy branches that hang down heavily under a crop, hence the name. Slow to start but a heavy cropper once established."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4 (full bloom about mid May at Brogdale); pollinate with group 3-5 cider apples such as Harry Masters Jersey, Michelin or Yarlington Mill."
+    },
+    "season": {
+      "harvest": "early Oct-late Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, moist south-west England and similar cool maritime cider regions; fully hardy in Britain and northern Europe.",
+      "poor_climates": "Wet, scab-prone sites; untested in hot summers."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab and canker."
+    },
+    "grow_notes": "Its drooping, twiggy habit makes it easy to pick from but needs little pruning beyond thinning out crowded shoots. Plant with other mid-season cider varieties, and choose an airy site to limit scab and canker.",
+    "conf": "medium"
+  },
+  {
+    "id": "harrison",
+    "name": "Harrison",
+    "aka": ["Harrison Cider", "Long Stem", "Newark"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "US",
+      "place": "Essex County, New Jersey",
+      "year": 1770,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": "Unknown",
+      "raised_by": null
+    },
+    "history": "An 18th-century New Jersey cider apple named after a local family in Essex County, described by Coxe in 1817 and prized for strong, high-priced cider. It fell out of use and was thought lost until old trees were found in the late 20th century (accounts credit a find in Livingston, NJ in 1976 and apple historian Tom Burford); it is now widely replanted by American cider makers and is on Slow Food's Ark of Taste.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 5,
+      "stripes": false,
+      "russet": 1,
+      "description": "Smallish, rather elongated fruit tapering to the eye, on a long stalk; yellow, occasionally with a slight red blush, and rough to the touch from many small dark raised dots."
+    },
+    "taste": {
+      "summary": "Rich, sweet and sprightly but dry, with firm, tough yellow flesh that gives little free juice; an early writer compared the flavour to quince. Pressed, it makes a richly coloured, sweet, strong cider.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": ["sweet", "quince"],
+      "cider_class": "bittersweet",
+      "best_eaten": "Not a dessert apple; mill after sweating"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Historically described as a strong, vigorous tree with hard wood that throws suckers from the limbs and bears reliably; Orange Pippin rates vigour as slightly small and cropping as good, regular and spur-bearing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Diploid, flowering group 3; needs a pollinator flowering at the same time."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "The eastern US from New England to Virginia and the Carolinas; Orange Pippin lists it for both temperate and warm climates.",
+      "poor_climates": "Not documented; cool, short British seasons may limit its sugar."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some scab resistance; fruit is notably free of rot at harvest. Keeping reports vary from two or three weeks to well into spring."
+    },
+    "grow_notes": "A good choice for American-style single-variety cider. Let the fruit drop or hang until fully ripe, then keep it under cover briefly before pressing. Plant with another group-3 diploid.",
+    "conf": "medium"
+  },
+  {
+    "id": "kalmar-glasapple",
+    "name": "Kalmar Glasäpple",
+    "aka": ["Spansk Renett", "Kalmar Glassapple"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": null,
+      "place": "Grown around Kalmar, south-east Sweden; origin disputed (Sweden or Germany)",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown; possibly the same as the old Spanish/German Gelbe Spanische Renette (White Spanish Reinette)",
+      "raised_by": null
+    },
+    "history": "A Swedish heritage apple cultivated since the 18th century, named after Kalmar. Its origin is disputed, and it may be identical to the old White Spanish Reinette (Gelbe Spanische Renette); the UK National Apple Register files 'Kalmar Glassapple' among that variety's synonyms.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "A light yellow apple, about 78 mm wide and 65 mm tall, on a short stalk."
+    },
+    "taste": {
+      "summary": "A balance of good acidity and sweetness; it is at its best after a period in store, reaching full ripeness in early December.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "sharp"],
+      "cider_class": null,
+      "best_eaten": "Dec-Jan, once ripened in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable tree information found."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Late flowering; needs a pollinator that blooms at the same time. Group number inferred from 'late blossoming'."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Dec-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 6,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The mildest southern Swedish growing zones (zones I-II) and comparable cool temperate climates.",
+      "poor_climates": "Recommended only for southern Sweden, so colder inland or northern climates are too harsh; hot climates untested."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A late-flowering heritage apple for cool-temperate gardens; pick in early October and store until December. Pair with another late-flowering variety.",
+    "conf": "low"
+  }
+]

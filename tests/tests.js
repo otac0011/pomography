@@ -1,7 +1,8 @@
 // In-browser unit tests: open /tests/ (served by tools/serve.py). All lines must say PASS before committing.
 import { computeFeatures, chillUnitsDay, utahWeight, koppen, usdaZone, viLabel, viToDate, doyToVi, curveAt, offsetFor, ra, et0Hargreaves, buildCycles, compactFeatures, dayHumidity, leafWetHours, millsHours, blightDegreeHours, humidityClimatology } from '../js/climate/features.js';
 import { regionalFor, inPolygon } from '../js/climate/regional.js';
-import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf, flavourHere } from '../js/score/score.js';
+import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf, flavourHere, harvestAt } from '../js/score/score.js';
+import { climateChanges } from '../js/score/change.js';
 
 const out = document.getElementById('out');
 let pass = 0, fail = 0;
@@ -109,6 +110,28 @@ t('null variety data does not crash', () => { const s = scoreVariety(V({ climate
 t('rankVarieties sorts descending', () => { const r = rankVarieties([V({ id: 'a', climate: { chill_hours: 3000, hardiness_zone: 5 } }), V({ id: 'b' })], temperate, ctx); if (r[0].s.score < r[1].s.score) throw new Error('order'); });
 t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Not viable'); });
 t('thermalNeed grows with later harvest', () => { if (!(thermalNeed(ctx, 300) > thermalNeed(ctx, 230))) throw new Error('monotone'); });
+t('harvestAt: the reference place returns the recorded picking date', () => { const h = harvestAt(V(), temperate, ctx); near(h.vi, 268, 0.5); eq(h.shift, 0); });
+t('harvestAt: a warmer place is earlier, but by days after bloom, not by degree-days', () => {
+  const warmer = computeFeatures(synth(45, 14, 9, 6));
+  const h = harvestAt(V(), warmer, ctx), dafbRef = 268 - temperate.bloom.vi;
+  if (!(h.dafb < dafbRef)) throw new Error('dafb ' + h.dafb + ' vs ' + dafbRef);
+  if (!(h.dafb >= 0.75 * dafbRef)) throw new Error('shortened by more than 25%: ' + h.dafb);
+});
+t('climateChanges: home vs itself is "about the same"', () => {
+  const r = climateChanges(V({ taste: { acid: 3, aroma: 3 }, look: {} }), temperate, ctx, temperate, 'Home');
+  for (const k of ['sugar', 'acid']) eq(r.items.find(i => i.key === k).dir, 'same', k);
+});
+t('climateChanges: hot place -> more sugar, less acid, softer, paler red, sunburn', () => {
+  const v = V({ taste: { acid: 3, aroma: 3 }, look: { blush: 'red', blush_cover: 70, russet: 0 }, season: { harvest_doy: 268, storage_weeks: 12 }, climate: { chill_hours: 600, hardiness_zone: 6, heat_tolerance: 3, colour_needs_cool_nights: true } });
+  const r = climateChanges(v, hot, ctx, temperate, 'Home'), d = k => (r.items.find(i => i.key === k) || {}).dir;
+  eq(d('sugar'), 'up', 'sugar'); eq(d('acid'), 'down', 'acid'); eq(d('keep'), 'down', 'keeping'); eq(d('colour'), 'down', 'colour');
+  if (!r.items.some(i => i.key === 'sunburn')) throw new Error('no sunburn note');
+});
+t('climateChanges: a season too short -> unripe, sharper, less sugar', () => {
+  const cool = computeFeatures(synth(45, 5.5, 15, 4.5));
+  const r = climateChanges(V({ taste: { acid: 3 }, look: {}, season: { harvest_doy: 300 } }), cool, ctx, temperate, 'Home'), d = k => (r.items.find(i => i.key === k) || {}).dir;
+  eq(r.items.find(i => i.key === 'ripen').tone, 'bad'); eq(d('sugar'), 'down'); eq(d('acid'), 'up');
+});
 t('siteProfile returns entries for a normal site', () => { if (siteProfile(temperate).length < 5) throw new Error('short'); });
 t('rootstockAdvice groups by size', () => {
   const rs = [{ id: 'm9', name: 'M.9', size_class: 'dwarf', hardiness_zone: 5, susceptibility: { fire_blight: 5 }, tolerance: {} }, { id: 'g41', name: 'G.41', size_class: 'dwarf', hardiness_zone: 4, susceptibility: { fire_blight: 1 }, tolerance: {} }, { id: 'm25', name: 'M.25', size_class: 'vigorous', hardiness_zone: 4, susceptibility: {}, tolerance: {} }];

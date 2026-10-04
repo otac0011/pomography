@@ -1,0 +1,541 @@
+[
+ {
+  "id": "prima",
+  "name": "Prima",
+  "aka": ["Co-op 2"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "PRI co-operative breeding programme (Purdue, Rutgers and Illinois universities), USA",
+   "year": 1970,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "PRI 14-510 x NJ 123249; a complex PRI selection whose ancestry includes Malus floribunda (source of the Vf scab gene) with Rome Beauty, Melba, Golden Delicious and Wealthy",
+   "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+  },
+  "history": "One of the first scab-resistant apples released by the joint Purdue-Rutgers-Illinois (PRI) programme, introduced in 1970; the 'PRI' letters are hidden in its name. Its Vf resistance has since been overcome by new scab races in several regions, so it is no longer the trouble-free garden apple it was once sold as.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": false,
+   "russet": null,
+   "description": "Medium to large, roundish-conical fruit, a dark red flush over a yellow ground; size is variable."
+  },
+  "taste": {
+   "summary": "Juicy, cream-white flesh with a gentle, fruity balance of sugar and mild acidity; pleasant rather than memorable straight from the tree. It does not keep, losing quality within a few weeks even under refrigeration.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["mild", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, soon after picking"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "A robust, productive spur-bearer; fruit hangs well and does not drop readily. Has some tendency to crop biennially, so thin heavy crops."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Flowers early-mid season at Brogdale (full bloom around 8 May); needs a compatible early or mid-season pollinator."
+  },
+  "season": {
+   "harvest": "early Sep-late Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Continental and temperate climates of the American Midwest and north-east where it was bred, and similar summers in Europe.",
+   "poor_climates": "Areas where Vf-breaking scab strains are established, and wet warm regions with heavy cedar-apple rust pressure."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": 2,
+   "rust": 5,
+   "bitter_pit": null,
+   "other": "Bred as scab-immune (Vf) but that resistance has broken down in many areas, so it now scabs badly where new races occur. Highly susceptible to cedar-apple rust."
+  },
+  "grow_notes": "Still a useful low-spray tree where its scab resistance holds, but check local scab experience before relying on it. Eat or process the fruit promptly; it is a short-season apple, also used for drying, sauce and cider.",
+  "conf": "medium"
+ },
+ {
+  "id": "primate",
+  "name": "Primate",
+  "aka": ["July Apple", "Powers", "Scott", "Early Tart Harvest", "Sour Harvest", "Rough and Ready"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Camillus, Onondaga County, New York",
+   "year": 1840,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "Calvin D. Bingham (reputed)"
+  },
+  "history": "An old New York summer apple thought to have arisen with Calvin D. Bingham at Camillus around 1840, and once highly regarded as an early eating apple across the north-eastern United States. It gathered many local names, among them July Apple, Powers and Scott.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium to large, smooth, pale green to whitish-yellow apple, often ribbed, sometimes with a faint red or orange cheek."
+  },
+  "taste": {
+   "summary": "Fine, tender, white flesh that is crisp when first picked, with a lively tart, lightly aromatic flavour typical of the early American summer apples. It softens and loses its edge quickly.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sharp", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Aug-early Sep, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": null
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early-flowering at Brogdale (full bloom around 7 May); pair with another early or mid-season variety."
+  },
+  "season": {
+   "harvest": "late Aug-early Sep",
+   "eating": "Aug-Sep",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Cold-winter, warm-summer north-eastern North America where it originated; ripens in late July in mild California sites.",
+   "poor_climates": "Little documented; as a soft summer apple it will not hold on the tree in hot spells."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No reliable disease ratings found. Soft fruit bruises easily and keeps only days."
+  },
+  "grow_notes": "A garden tree for an early fresh apple; pick as soon as the fruit comes away easily and eat within a week or two. Plant with an early-flowering partner.",
+  "conf": "low"
+ },
+ {
+  "id": "alfriston",
+  "name": "Alfriston",
+  "aka": ["Shepherd's Pippin", "Shepherd's Seedling", "Lord Gwydyr's Newtown Pippin", "Oldaker's New"],
+  "uses": ["culinary", "juice"],
+  "origin": {
+   "country": "GB",
+   "place": "Uckfield, Sussex, England",
+   "year": 1790,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "Mr Shepherd"
+  },
+  "history": "Raised in the late 1700s by a Mr Shepherd at Uckfield in Sussex and first known as Shepherd's Pippin; it took the name Alfriston in 1819. A respected Victorian cooker, it received an RHS Award of Merit in 1920.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "orange",
+   "blush_cover": 15,
+   "stripes": false,
+   "russet": 0,
+   "description": "Big, broad, slightly ribbed green to greenish-yellow cooker, with at most an orange tinge on the sunny side."
+  },
+  "taste": {
+   "summary": "A sharp cooking apple with a brisk, fairly sugary acidity and coarse, yellowish flesh that is not especially juicy. It cooks down to a soft purée.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 3,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Mar for cooking"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "upright-spreading",
+   "bearing": "part-tip",
+   "cropping": "moderate",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Vigorous; fairly upright when young, spreading with age. A partial tip-bearer with some tendency to crop biennially, so prune lightly and renew rather than spur back hard."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering; needs a group 2-4 partner."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Cool, moist British conditions; reported to cope even with exposed upland sites.",
+   "poor_climates": "Untested in hot or low-chill climates; an English late cooker is likely to struggle there."
+  },
+  "health": {
+   "scab": 2,
+   "canker": 2,
+   "mildew": 3,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Generally healthy, with some resistance to scab and canker; mildew resistance is variously reported as good or only average."
+  },
+  "grow_notes": "A hardy, vigorous cooker suited to organic growing in most of Britain. Store the fruit cool for use through winter; it needs a mid-season pollinator.",
+  "conf": "medium"
+ },
+ {
+  "id": "arlet",
+  "name": "Arlet",
+  "aka": ["Swiss Gourmet"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CH",
+   "place": "Swiss Federal Research Station, Wädenswil, Switzerland",
+   "year": 1958,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Idared",
+   "raised_by": "Swiss Federal Research Station Wädenswil (Bernhard Krapf)"
+  },
+  "history": "Crossed in 1958 at the Swiss federal fruit research station at Wädenswil and released in 1984; it was patented in 1989 and sold in North America as Swiss Gourmet. It is now grown more by gardeners than by commercial orchards.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": true,
+   "russet": 1,
+   "description": "Rounded to slightly tall fruit, yellow largely covered with a bright pinkish-red flush and stripes, with russet in the stalk cavity."
+  },
+  "taste": {
+   "summary": "Crisp, very juicy, fine-grained cream flesh; sweet with a light, fresh acidity and a faint perfume. Pleasant and balanced but fairly mild overall, and it keeps its crunch well in store.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Precocious and regular-bearing spur type; one source rates growth as strong, another as average."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering; an average pollinator for other varieties."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Temperate to warm climates; grown in Switzerland and found in North American gardens from zone 5 to 8.",
+   "poor_climates": "Wet, scab-prone sites without spraying; areas with heavy cedar-apple rust."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": null,
+   "rust": 5,
+   "bitter_pit": null,
+   "other": "Strongly scab-susceptible according to Swiss sources; very susceptible to cedar-apple rust."
+  },
+  "grow_notes": "Give it an open, airy site and a scab programme in wet areas. Pick in early October and store; it keeps well, even at room temperature, without going soft.",
+  "conf": "medium"
+ },
+ {
+  "id": "atlas",
+  "name": "Atlas",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Central Experimental Farm, Ottawa, Ontario, Canada",
+   "year": 1898,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Open-pollinated seedling of Manks Codlin",
+   "raised_by": "Central Experimental Farm, Ottawa"
+  },
+  "history": "Grown at the Central Experimental Farm in Ottawa from seed sown in 1898, selected in 1912 and introduced around 1924 as a hardy apple for Canadian conditions. Its seed parent was the old Manx cooking apple Manks Codlin.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": null,
+   "description": "Truncate-conical, somewhat ribbed pale yellow apple striped with orange-red."
+  },
+  "taste": {
+   "summary": "White, juicy flesh with a mild, sub-acid flavour; little else is recorded about its eating quality.",
+   "sweet": null,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": null,
+   "juicy": 4,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "Sep-Nov"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": null
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early-mid flowering at Brogdale (full bloom around 8 May)."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep-Dec",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental climates such as eastern Ontario, for which it was selected.",
+   "poor_climates": "Not documented; a hardy Canadian early-autumn apple is unlikely to suit hot or low-chill regions."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "Of interest mainly to collectors and cold-climate growers. Pick in early September and use within a few months.",
+  "conf": "low"
+ },
+ {
+  "id": "barry",
+  "name": "Barry",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York",
+   "year": 1936,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "McIntosh x Cox's Orange Pippin",
+   "raised_by": "New York State Agricultural Experiment Station, Geneva"
+  },
+  "history": "A McIntosh x Cox's Orange Pippin seedling selected at the Geneva, New York station in 1936 and released commercially in 1957. It never became widely planted.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "deep-red",
+   "blush_cover": 70,
+   "stripes": false,
+   "russet": 0,
+   "description": "Flattish, medium to large fruit with a dark, solid red to brownish-red flush over greenish-yellow."
+  },
+  "taste": {
+   "summary": "Firm, rather coarse greenish flesh with a sweet, aromatic flavour.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": null,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": null
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering at Brogdale (full bloom around 13 May)."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Oct-Dec",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool-summer, cold-winter climates like upstate New York where it was bred.",
+   "poor_climates": "Not documented; McIntosh-type apples generally soften and colour poorly in hot summers."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 1,
+   "bitter_pit": null,
+   "other": "Rated resistant to cedar-apple rust; other ratings not found."
+  },
+  "grow_notes": "A collection variety; keeps about three months in a cool store. Plant with a mid-season pollinator.",
+  "conf": "low"
+ },
+ {
+  "id": "bodil-neergaard",
+  "name": "Bodil Neergaard",
+  "aka": ["Bodil Neergård"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "DK",
+   "place": "Flintinge, Lolland, Denmark",
+   "year": 1850,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Seedling of Pigeonnet blanc d'hiver (per the Danish genebank record)",
+   "raised_by": "Anderson, a nurseryman (finder)"
+  },
+  "history": "Found around 1850 by a nurseryman named Anderson at Flintinge on Lolland and named after Bodil de Neergaard of the Fuglsang estate. Known in Danish lists from 1913, it reached Sweden through the Alnarp nurseries in 1925 and was still recommended in Denmark in the 1980s.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow-green",
+   "blush": "orange",
+   "blush_cover": 15,
+   "stripes": false,
+   "russet": 1,
+   "description": "Tall, almost pear-shaped conical fruit, waxy greenish-yellow with a faint greyish-orange cheek and conspicuous grey lenticels."
+  },
+  "taste": {
+   "summary": "A very juicy late keeper with medium sugar and fairly strong acidity; sources disagree on aroma, the UK collection calling it sweet, aromatic and vinous while the Danish genebank finds the aroma weak. Texture can turn dry and crumbly in English conditions.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["wine", "sharp", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Jan-Apr"
+  },
+  "tree": {
+   "vigor": 2,
+   "habit": "upright-spreading",
+   "bearing": null,
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Weak to moderate growth with a medium yield. The fruit marks easily, so handle it gently."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Self-sterile (S-alleles S1S7); Cox's Orange Pippin and Cox's Pomona are listed as pollinators. Full bloom around 10 May at Brogdale."
+  },
+  "season": {
+   "harvest": "mid Oct-late Oct",
+   "eating": "Jan-Apr",
+   "storage_weeks": 24
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool maritime Scandinavian climates such as Denmark and southern Sweden.",
+   "poor_climates": "Hot or mildew-prone dry sites; very late picking needs a long autumn."
+  },
+  "health": {
+   "scab": 1,
+   "canker": 1,
+   "mildew": 5,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Unsprayed Danish trials found no scab and strong canker tolerance, but most shoots carried powdery mildew. Fruit bruises easily."
+  },
+  "grow_notes": "Choose an airy site and watch for mildew. Pick late and store until the new year, when the fruit is at its best.",
+  "conf": "medium"
+ }
+]

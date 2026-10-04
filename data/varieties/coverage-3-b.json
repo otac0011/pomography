@@ -1,0 +1,618 @@
+[
+ {
+  "id": "jonafree",
+  "name": "Jonafree",
+  "aka": ["Co-op 22"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "PRI co-operative breeding programme (Purdue, Rutgers and Illinois universities), USA",
+   "year": 1965,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Complex (PRI 855-102 x NJ 31); ancestry includes Crandall's Rome x Malus floribunda 821, Jonathan, Gallia Beauty, Red Spy and Golden Delicious",
+   "raised_by": "Purdue-Rutgers-Illinois (PRI) co-operative programme"
+  },
+  "history": "A scab-resistant apple from the PRI co-operative programme, which bred the floribunda scab-resistance gene into dessert apples. It was selected in the 1960s and released in 1979 as Co-op 22.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 85,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium, rounded fruit almost entirely covered with a bright red flush."
+  },
+  "taste": {
+   "summary": "Crisp, juicy flesh with a Jonathan-style flavour but noticeably less acid than Jonathan.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec; keeps about 10 weeks"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree habit not well recorded."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early-flowering: Orange Pippin lists group 1 and National Fruit Collection dates are among the earliest; group 2 used as a compromise."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Humid eastern and midwestern US climates where scab pressure is high and a spray-free apple is wanted.",
+   "poor_climates": "Areas with heavy cedar-apple rust, to which it is susceptible."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 4,
+   "bitter_pit": null,
+   "other": "Carries the Vf scab-resistance gene; rated susceptible to cedar-apple rust in Arkansas trials."
+  },
+  "grow_notes": "Good for low-spray gardens because of its scab resistance, but keep it away from junipers where cedar-apple rust occurs. Needs an early-flowering pollinator.",
+  "conf": "medium"
+ },
+ {
+  "id": "jonamac",
+  "name": "Jonamac",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
+   "year": 1944,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "McIntosh x Jonathan",
+   "raised_by": "Roger D. Way, New York State Agricultural Experiment Station"
+  },
+  "history": "Raised in 1944 by Roger Way at Geneva, New York, and introduced in 1972. It combines McIntosh's white flesh with some of Jonathan's richer flavour, and is itself a parent of the Canadian apple Eden.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 75,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, round fruit largely covered with bright red flush and stripes over pale yellow."
+  },
+  "taste": {
+   "summary": "Very white, moderately firm flesh with a McIntosh-type aromatic flavour, sweeter and improved by the Jonathan parent. Orange Pippin also lists honeyed and strawberry notes.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["perfumed", "sweet", "honey", "strawberry"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct; keeps 2-3 weeks"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "upright-spreading",
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Good cropper with some tendency to alternate bearing; fruit hangs well on the tree."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Group 2 per Orange Pippin."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool, cold-winter regions such as New York, New England and eastern Canada, like its McIntosh parent.",
+   "poor_climates": "Hot summers, where McIntosh-type apples go soft and colour poorly."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": 2,
+   "bitter_pit": null,
+   "other": "Some scab susceptibility; some resistance to fire blight and cedar-apple rust."
+  },
+  "grow_notes": "A hardy early-autumn apple for cold districts. Thin the fruit in heavy years to reduce alternate cropping, and use the fruit within a few weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "julyred",
+  "name": "Julyred",
+  "aka": ["July Red"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New Jersey Agricultural Experiment Station, New Brunswick, New Jersey, USA",
+   "year": 1962,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "(Petrel x Early McIntosh) x (Williams x Starr)",
+   "raised_by": "G. W. Schneider, New Jersey Agricultural Experiment Station"
+  },
+  "history": "An early summer apple from the New Jersey breeding programme, introduced in 1962. It is a parent of Jerseymac and appears in the pedigrees of several later New Jersey apples.",
+  "look": {
+   "size": "large",
+   "shape": "round",
+   "ground": "green",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, attractive, rounded fruit, striped and flushed red over pale green."
+  },
+  "taste": {
+   "summary": "Soft, white, juicy flesh with a strongly scented, wine-like flavour likened to loganberry. A sweet summer apple to eat straight from the tree.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["wine", "berry", "perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Aug; within a week of picking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree characteristics not well recorded."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group 3 per Orange Pippin."
+  },
+  "season": {
+   "harvest": "early Aug",
+   "eating": "Aug",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mid-Atlantic and north-eastern US climates, where it provides fruit in July.",
+   "poor_climates": "Areas with heavy cedar-apple rust pressure."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 4,
+   "bitter_pit": null,
+   "other": "Rated susceptible to cedar-apple rust in Arkansas trials; otherwise not well recorded."
+  },
+  "grow_notes": "Pick over several passes as fruits colour and eat promptly; like most summer apples it goes soft within a week or so.",
+  "conf": "medium"
+ },
+ {
+  "id": "keepsake",
+  "name": "Keepsake",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota, USA",
+   "year": 1978,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Frostbite x Northern Spy",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "Released by the University of Minnesota in 1978 as a very hardy, long-keeping winter apple. Its homely, irregular looks kept it out of supermarkets, but it found fame as a parent of Honeycrisp.",
+  "look": {
+   "size": "medium",
+   "shape": "irregular",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 90,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small to medium, lumpy and irregular fruit, mostly covered with red flush and streaks."
+  },
+  "taste": {
+   "summary": "Very hard, crisp, fine-grained and juicy light-yellow flesh with a strongly aromatic, sweet and spicy flavour. It mellows in store and is at its best in mid-winter.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 5,
+   "tannin": 0,
+   "crisp": 5,
+   "juicy": 4,
+   "tags": ["perfumed", "spice", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar; peaks in Jan-Feb after storage"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "slight",
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Medium vigour and easy to manage; comes into bearing early but tends to crop biennially."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Group 4 per Orange Pippin."
+  },
+  "season": {
+   "harvest": "mid Oct-late Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 22
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental climates such as Minnesota and the northern US and Canada, where it is very hardy.",
+   "poor_climates": "Short-season districts where it cannot be left to mid-October; untested in hot climates."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": 2,
+   "bitter_pit": null,
+   "other": "Good general disease resistance; some resistance to fire blight and cedar-apple rust."
+  },
+  "grow_notes": "Pick late and store cool; it needs two or three months in store to reach full flavour. Thin in heavy years to curb biennial cropping.",
+  "conf": "high"
+ },
+ {
+  "id": "lakeland",
+  "name": "Lakeland",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota, USA",
+   "year": 1950,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Open-pollinated seedling of Malinda",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "One of the University of Minnesota's mid-century hardy apples, introduced in 1950 from a Malinda seedling. A general-purpose apple for cold northern gardens.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, broadly conical fruit, flushed and streaked dark purplish red over yellowish green, with a waxy skin."
+  },
+  "taste": {
+   "summary": "Fine-textured, juicy cream to yellow flesh, sometimes tinged red, with a sweet and mildly acid flavour. A good all-round apple for eating, pies and sauce.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Sep-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree characteristics not well recorded."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Group 2 per Orange Pippin."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep-Dec",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter northern climates such as Minnesota, for which it was bred.",
+   "poor_climates": "Not documented; hardy northern apples generally do less well in hot summers."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not recorded in the sources used."
+  },
+  "grow_notes": "Mainly of interest for very cold gardens. Use early fruit for cooking and let the rest store until December.",
+  "conf": "low"
+ },
+ {
+  "id": "merton-delight",
+  "name": "Merton Delight",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "John Innes Horticultural Institution, Merton, London, England",
+   "year": null,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Cox's Orange Pippin x Golden Pippin (National Fruit Collection); Orange Pippin gives Cox's Orange Pippin x Golden Russet",
+   "raised_by": "M. B. Crane, John Innes Institution"
+  },
+  "history": "One of the Merton seedlings raised by M. B. Crane at the John Innes Institution in the 1930s from a Cox cross. It was not taken up commercially and was dropped from British trials in 1959.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": null,
+   "description": "Medium, flattish yellow fruit with pinkish-red stripes."
+  },
+  "taste": {
+   "summary": "Tender, crisp, creamy flesh with a sweet to gently acid flavour.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree characteristics not recorded."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "No published group found; estimated from National Fruit Collection flowering dates and its Cox parentage."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Southern English conditions, where it was raised and trialled.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not recorded."
+  },
+  "grow_notes": "A rare collection apple; grow as for Cox, with a group 3 partner and a sheltered site.",
+  "conf": "low"
+ },
+ {
+  "id": "milton",
+  "name": "Milton",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
+   "year": 1909,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Yellow Transparent x McIntosh",
+   "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
+  },
+  "history": "Crossed in 1909 by Richard Wellington at Geneva and introduced in 1923 by the New York State Fruit Testing Association. An early-autumn McIntosh-type apple.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": 75,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium, ribbed, conical fruit, pale yellow largely covered by a deep cherry-red flush."
+  },
+  "taste": {
+   "summary": "Soft, fine and very white flesh, juicy and sweet with low acidity and a hint of raspberry.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["sweet", "berry"],
+   "cider_class": null,
+   "best_eaten": "Sep"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree characteristics not well recorded."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Group 2 per Orange Pippin; early-flowering at Brogdale."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool north-eastern US and Canadian climates suited to its McIntosh and Yellow Transparent parents.",
+   "poor_climates": "Not documented; soft early fruit is unlikely to stand hot weather."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 1,
+   "bitter_pit": null,
+   "other": "Rated very resistant to cedar-apple rust in Arkansas trials; other diseases not recorded."
+  },
+  "grow_notes": "Eat soon after picking. Pair with another early-flowering apple for pollination.",
+  "conf": "medium"
+ },
+ {
+  "id": "mio",
+  "name": "Mio",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "SE",
+   "place": "Alnarp, Skane, Sweden",
+   "year": 1932,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Worcester Pearmain x Oranie",
+   "raised_by": "Emil Johansson, Alnarp horticultural research station"
+  },
+  "history": "Crossed in 1932 at Alnarp in southern Sweden and sold from 1956; named after Astrid Lindgren's children's book 'Mio, min Mio'. A popular early-autumn garden apple in Sweden.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "green",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, ribbed, conical fruit, mostly red-striped over a pale green ground; skin becomes greasy."
+  },
+  "taste": {
+   "summary": "Soft, white flesh tinged with pink, sweet with a light acidity. The National Fruit Collection found the flavour rather insipid in Kent.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Sep"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tree characteristics not well recorded."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Swedish sources call it medium-early flowering and list James Grieve, Katja, Melba and Transparente Blanche among good partners."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Southern and central Sweden (Swedish zones I-IV) and similar cool northern climates.",
+   "poor_climates": "Not documented; in the milder, warmer English climate its flavour was judged dull."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Good scab resistance reported in Sweden."
+  },
+  "grow_notes": "A garden apple for cool northern climates; pick in early September and use promptly.",
+  "conf": "medium"
+ }
+]

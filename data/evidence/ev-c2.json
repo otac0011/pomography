@@ -1,0 +1,206 @@
+{
+ "_batch": "ev-c2",
+ "prima": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/prima", "words": ["juicy", "mild subacid flavor", "sweet/sharp", "sweeter"], "tags": ["mild", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Prima_apple", "words": ["juicy", "balanced", "mild sub-acid flavour"], "tags": ["mild"], "sweet": null, "acid": 2, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4821&&fruit=apple", "words": ["juicy", "good fruity flavour"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Straight from the tree; Wikipedia and Orange Pippin both say it keeps poorly, even refrigerated.",
+  "notes": ""
+ },
+ "primate": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4822&&fruit=apple", "words": ["crisp", "fine", "tender", "subacid", "aromatic"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/primate", "words": ["crisp", "juicy", "tart"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "NFC characterisation of the Brogdale tree records the flesh as soft and dry, unlike the crisp, juicy description elsewhere."
+ },
+ "alfriston": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Alfriston_(apple)", "words": ["crisp", "juicy", "sugary", "briskly flavored", "subacid", "pear-like flavour"], "tags": ["sweet", "sharp", "pear"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/alfriston", "words": ["very good", "sharper"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=108&&fruit=apple", "words": ["soft", "coarse-textured", "not very juicy", "acid"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Wikipedia: use November to April.",
+  "notes": "Wikipedia words combine the article (crisp, juicy, sugary, brisk) and its cultivar-list row (subacid, pear-like); NFC instead finds the flesh soft and not very juicy. Orange Pippin: cooks to a puree."
+ },
+ "arlet": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=212&&fruit=apple", "words": ["sweet", "crisp", "juicy", "slightly perfumed"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/arlet-swiss-gourmet", "words": ["pleasant", "juicy", "balanced sharp and sweet", "essentially mild", "crunchy"], "tags": ["sweet", "sharp", "mild"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Arlet_(Apfel)", "words": ["angenehm fruchtig", "fein-säuerlich", "sehr saftig"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "de.wikipedia: stays firm for a long time at room temperature without going soft.",
+  "climate_flavour": null,
+  "peak": "de.wikipedia: November to February.",
+  "notes": "Orange Pippin's 'ripens early September' reflects North American conditions; NFC and de.wikipedia give early-mid October picking."
+ },
+ "atlas": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=242&&fruit=apple", "words": ["juicy", "soft", "subacid"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin; the Wikipedia cultivar list row has no flavour words."
+ },
+ "barry": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=348&&fruit=apple", "words": ["firm", "sweet", "aromatic flavour"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin page has no flavour description (colour and rust resistance only)."
+ },
+ "bodil-neergaard": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=646&&fruit=apple", "words": ["sweet", "aromatic", "vinous"], "tags": ["sweet", "perfumed", "wine"], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://nordic-baltic-genebanks.org/gringlobal/accessiondetail?id=6742", "words": ["very juicy", "medium sweetness", "medium-strong acidity", "weak aroma"], "tags": ["sharp"], "sweet": 3, "acid": 4, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)", "words": ["juicy", "spicy"], "tags": ["spice"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "January onwards after long storage (Danish genebank; sv.wikipedia says January to April).",
+  "notes": "Aroma disputed: NFC calls it aromatic and vinous, the Danish genebank evaluation says weak aroma. NFC fruit characterisation also notes crumbly, dry flesh at Brogdale. sv.wikipedia read but gives no flavour words."
+ },
+ "boiken": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Boikenapfel", "words": ["angenehm gewürzhaft", "weinsäuerlich", "saftig"], "tags": ["spice", "wine", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=653&&fruit=apple", "words": ["juicy", "acid", "very little flavour"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "en.wikipedia cultivar list: use February to May.",
+  "notes": "de.wikipedia finds a pleasant spicy, wine-acid taste; NFC finds acid with very little flavour. en.wikipedia list row says subacid to acid, good."
+ },
+ "campanino": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Campanino", "words": ["aromatic", "slightly acidic", "sugary", "very firm"], "tags": ["perfumed", "sharp", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=941&&fruit=apple", "words": ["firm", "crisp", "rather acid"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []}
+  ],
+  "storage_change": "Wikipedia: keeps about six months without refrigeration.",
+  "climate_flavour": null,
+  "peak": "en.wikipedia cultivar list: use January to March.",
+  "notes": ""
+ },
+ "cellini": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/cellini", "words": ["aromatic", "aniseed", "balsam"], "tags": ["perfumed", "aniseed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1022&&fruit=apple", "words": ["soft", "juicy", "coarse-textured", "slightly acid", "subacid, aromatic"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Cellini_(apple)", "words": ["soft-textured", "juicy", "coarse-textured"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Orange Pippin: keeps only 2-3 weeks; en.wikipedia list: use October to December.",
+  "notes": "Orange Pippin calls it a late-season apple, but NFC and the Wikipedia list give mid-late September picking."
+ },
+ "champion": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://cs.wikipedia.org/wiki/%C5%A0ampion_(odr%C5%AFda_jablek)", "words": ["sladká až velmi sladká", "šťavnatá"], "tags": ["sweet"], "sweet": 4, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5756&&fruit=apple", "words": ["sweet", "juicy", "pleasant flavour"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "en.wikipedia cultivar list: use October to February.",
+  "notes": "Homonym: in the National Fruit Collection 'Champion' is a synonym of Collins (Arkansas, 1865); the Czech apple is filed there as Sampion, which is the page used. en.wikipedia article has no flavour words; its list row says subacid."
+ },
+ "charden": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/charden", "words": ["Honeyed", "Good"], "tags": ["honey"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1047&&fruit=apple", "words": ["fairly crisp", "juicy", "sweet flavour"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)", "words": ["subacid"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "en.wikipedia cultivar list: use November to March.",
+  "notes": "fr.wikipedia has no Charden article."
+ },
+ "chenango": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/chenango-strawberry", "words": ["juicy", "mildly subacid", "aromatic", "hint of strawberries", "sweet-tart"], "tags": ["mild", "perfumed", "strawberry", "sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1074&&fruit=apple", "words": ["tender", "fairly firm", "subacid", "aromatic"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)", "words": ["juicy", "mild subacid", "aromatic", "good to very good"], "tags": ["mild", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Orange Pippin: keeps poorly even when refrigerated.",
+  "climate_flavour": null,
+  "peak": "Orange Pippin: pick when the skin turns milky; ripens over a long period.",
+  "notes": ""
+ },
+ "chieftain": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/chieftain", "words": ["subacid", "milder than Jonathan", "more sprightly than Delicious", "sweet and sharp"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1087&&fruit=apple", "words": ["sweet", "crisp", "juicy"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)", "words": ["firm", "crisp", "juicy", "sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": ""
+ },
+ "collins-june": {
+  "sources": [
+   {"src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/search?q=PI+589149", "words": ["flesh soft", "flavor subacid", "eating quality fair"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "USDA GRIN: very early, early August.",
+  "notes": "Different apple from Collins (Arkansas, synonym Champion)."
+ },
+ "crimson-gold": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Crimson_Gold_(apple)", "words": ["balance of sweet and tart", "crisp"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.greenmantlenursery.com/fruit/etter-apples.htm", "words": ["extraordinary eating", "juicing apple"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Greenmantle Nursery (California): late October to November.",
+  "notes": "The en.wikipedia cultivar list gives Czech Republic as origin, apparently confusing it with Svatava sold as 'Crimson Gold'; the article says California (Albert Etter)."
+ },
+ "crimson-king": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Crimson_King_(apple)", "words": ["sharp", "high in acidity", "low in tannin"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1374&&fruit=apple", "words": ["acidic juice", "no astringency", "light, fruity"], "tags": ["sharp"], "sweet": null, "acid": 4, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Not on Orange Pippin. The two NFC accessions differ widely in picking time (early September vs mid November)."
+ },
+ "directeur-lesage": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/directeur-lesage", "words": ["sweet/sharp", "very good"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1582&&fruit=apple", "words": ["crisp", "juicy", "slightly subacid"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Orange Pippin: keeps only 1-3 days.",
+  "climate_flavour": null,
+  "peak": null,
+  "notes": ""
+ },
+ "dufflin": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Dufflin_(apple)", "words": ["high sugar content", "sweetness", "bittersharp"], "tags": ["sweet", "sharp", "bitter"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Class disputed within Wikipedia: the article calls it bittersharp, the cider-apple table in List of apple cultivars classes it Sweet. NFC page (Devonshire cider apple) gives no flavour words; the article places it in Cornwall."
+ },
+ "dukat": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1696&&fruit=apple", "words": ["rather coarse-textured", "very sweet"], "tags": ["sweet"], "sweet": 5, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "No Wikipedia article (cs 'Dukát' is the coin); not on Orange Pippin."
+ }
+}

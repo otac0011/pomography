@@ -1,0 +1,307 @@
+{
+ "batch": "coverage-3",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "edelborsdorfer",
+   "name": "Edelborsdorfer",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Edelborsdorfer"
+  },
+  {
+   "id": "eden",
+   "name": "Eden",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Eden_%28apple%29"
+  },
+  {
+   "id": "elise-rathke",
+   "name": "Elise Rathke",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "fenouillet-gris",
+   "name": "Fenouillet Gris",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/fenouillet-gris"
+  },
+  {
+   "id": "ginger-gold",
+   "name": "Ginger Gold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Ginger_Gold"
+  },
+  {
+   "id": "golden-harvey",
+   "name": "Golden Harvey",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Brandy Apple"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/golden-harvey"
+  },
+  {
+   "id": "jefferis",
+   "name": "Jefferis",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/jefferies"
+  },
+  {
+   "id": "jonadel",
+   "name": "Jonadel",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Jonadel"
+  },
+  {
+   "id": "jonafree",
+   "name": "Jonafree",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Co-op 22"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/jonafree"
+  },
+  {
+   "id": "jonamac",
+   "name": "Jonamac",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/jonamac"
+  },
+  {
+   "id": "julyred",
+   "name": "Julyred",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/july-red"
+  },
+  {
+   "id": "keepsake",
+   "name": "Keepsake",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/keepsake"
+  },
+  {
+   "id": "lakeland",
+   "name": "Lakeland",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/lakeland"
+  },
+  {
+   "id": "merton-delight",
+   "name": "Merton Delight",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/merton-delight"
+  },
+  {
+   "id": "milton",
+   "name": "Milton",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/milton"
+  },
+  {
+   "id": "mio",
+   "name": "Mio",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "nanny",
+   "name": "Nanny",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "niagara",
+   "name": "Niagara",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/niagara"
+  },
+  {
+   "id": "norfolk-royal",
+   "name": "Norfolk Royal",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/norfolk-royal"
+  },
+  {
+   "id": "ontario",
+   "name": "Ontario",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "reinette-du-canada",
+    "name": "Reinette du Canada",
+    "aka": [
+      "Reinette Blanche du Canada",
+      "Canada Reinette",
+      "Canada Blanc",
+      "Kanada Reinette",
+      "Pariser Rambour-Reinette",
+      "Reinette Monstrueuse du Canada"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Probably Normandy, France",
+      "year": 1771,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Despite the name this is an old French apple, probably from Normandy, already listed in France by 1771; it received an RHS Award of Merit in 1901. This is the white (lightly russeted) Canada Reinette; the grey, heavily russeted Reinette Grise du Canada is treated as a separate variety, though some sources lump them.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 2,
+      "description": "Large, broad, irregular and faintly ribbed apple; greenish-yellow with patchy russet and sometimes a slight orange-brown flush on the sunny side."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse, somewhat dry flesh. Picked early it is tart and keeps its shape in cooking (a classic strudel apple); after some months in store it turns softer, sweeter and aromatic, and eventually mealy.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar; tart for cooking at first, sweeter for eating after storage"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Vigorous, forming a broad crown (German Wikipedia; Orange Pippin). As a triploid it needs plenty of room."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Orange Pippin lists group 4; Wikipedia says it blooms about three days after Cox, while National Fruit Collection records put full bloom close to Cox (about 13 May). Triploid: a poor pollen donor, so plant two compatible diploids."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sheltered sites with moist, rich, clay-containing soils in temperate Europe (German Wikipedia).",
+      "poor_climates": "Cold, exposed or dry, poor sites (German Wikipedia)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease ratings found for the white form; flesh becomes mealy in long storage."
+    },
+    "grow_notes": "A big, vigorous triploid: give it room, a warm site and rich, moist soil, and two diploid pollinators. Use early fruit for cooking and keep the rest for eating after Christmas.",
+    "conf": "high"
+  },
+  {
+    "id": "reinette-rouge-etoilee",
+    "name": "Reinette Rouge Etoilée",
+    "aka": [
+      "Reinette Etoilée",
+      "Rote Sternrenette",
+      "Rothe Stern-Reinette",
+      "Sterappel",
+      "Calville Etoilée",
+      "Pomme de Coeur",
+      "Early Red Calville"
+    ],
+    "uses": [
+      "dessert",
+      "juice",
+      "ornamental"
+    ],
+    "origin": {
+      "country": "NL",
+      "place": "Maastricht region (Netherlands/Belgium border)",
+      "year": 1830,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "First described in 1830, probably from the Maastricht area on the Dutch-Belgian border, and spread along the Lower Rhine. Its deep red, star-speckled skin made it a traditional polished Christmas apple. It is a parent of Primus, Koningin Juliana and Atalanta.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 1,
+      "description": "Rounded apple washed purple-red to dark red with a bluish bloom and many conspicuous pale star-shaped lenticels."
+    },
+    "taste": {
+      "summary": "Firm, fine, rather dry white flesh, sometimes pink-tinged under the skin, with a mild sweet-sour flavour and a faint perfume. Generally rated more beautiful than tasty; it goes mealy by mid-winter.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "mild",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": 1,
+      "ploidy": "diploid",
+      "notes": "Strong-growing with a tall, rounded crown; slow to start bearing (German Wikipedia mentions 10-12 years on standard trees), then crops reasonably well."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Orange Pippin lists group 4; German Wikipedia describes late, long flowering, while National Fruit Collection records put full bloom close to Cox (12-14 May). Poor pollination can make crops irregular."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Humid north-west European lowland climates with deep, moist soils.",
+      "poor_climates": "Dry sites and light soils (German Wikipedia)."
+    },
+    "health": {
+      "scab": 3,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally robust and frost-hardy (German Wikipedia); some canker resistance and some scab susceptibility (Orange Pippin). Prone to lenticel spotting and codling moth."
+    },
+    "grow_notes": "Grown mainly for its striking winter colour. Give it deep, moist soil and patience, as it is slow to begin cropping.",
+    "conf": "medium"
+  },
+  {
+    "id": "renown",
+    "name": "Renown",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Welford Park, Newbury, Berkshire, England",
+      "year": 1908,
+      "year_note": "first recorded",
+      "kind": "bred",
+      "parentage": "Peasgood's Nonsuch x Cox's Orange Pippin",
+      "raised_by": "Charles Ross"
+    },
+    "history": "One of the apples raised by Charles Ross, head gardener at Welford Park near Newbury, from Peasgood's Nonsuch and Cox. It received an RHS Award of Merit in 1908.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, uneven conical apple mostly covered in red flush over yellow."
+    },
+    "taste": {
+      "summary": "Firm, pale yellow flesh with a sweet, mildly acid flavour; usable both for dessert and cooking.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No tree description found."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "The National Fruit Collection records full bloom around 14 May, close to Cox, so group 3 is inferred."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Southern English conditions like those at Welford Park (inferred).",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A rare Edwardian Charles Ross apple; grow it like Cox with a mid-season pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "rokewood",
+    "name": "Rokewood",
+    "aka": [
+      "Bullock's Seedling"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Rokewood district near Ballarat, Victoria (Western Australia is also suggested)",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An Australian apple from the Rokewood district near Ballarat, dating from about the 1870s. Because it ripened at the start of the southern winter and kept well, it was shipped to London and sold before the English crop arrived; it is also in the ancestry of Lady Williams.",
+    "look": {
+      "size": "small",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium, truncated-conical apple; green-yellow skin largely covered by streaked orange-red to deep red."
+    },
+    "taste": {
+      "summary": "Firm, crisp, greenish-white flesh with a sweet, mildly acid flavour. Valued above all as a very long keeper.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Recorded as a vigorous tree and a regular, heavy bearer."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "In Kent the National Fruit Collection records full bloom around 6 May, suggesting group 2; an Australian heritage orchard lists it as group 3."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": null,
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Long, warm growing seasons of south-eastern Australia such as Victoria, where it ripens in March-April.",
+      "poor_climates": "England and similar cool, short-season climates: it ripens too late and is described as unsuited there."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A very late, long-keeping apple for warm-summer regions. In Britain it struggles to ripen; elsewhere pick as late as possible and store.",
+    "conf": "low"
+  }
+]

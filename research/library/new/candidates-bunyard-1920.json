@@ -1,0 +1,555 @@
+{
+ "alfriston": [
+  {
+   "line": 697,
+   "page": 15,
+   "score": 3.5,
+   "key": "ALFRISTON",
+   "text": "ALFRISTON.  Ronalds  p.  35.  (Shepherds  Pippin,"
+  },
+  {
+   "line": 5302,
+   "page": 119,
+   "score": 3.0,
+   "key": "SHEPHERDS",
+   "text": "SHEPHERD'S  PEARMAIN.  Dessert  or  culinary,"
+  },
+  {
+   "line": 698,
+   "page": 15,
+   "score": 1.3,
+   "key": "SHEPHERDS SEEDLING",
+   "text": "Shepherds  Seedling),  culinary,  keeps  till  April,  large,"
+  },
+  {
+   "line": 5311,
+   "page": 119,
+   "score": 1.3,
+   "key": "SHEPHERDS PIPPIN",
+   "text": "Shepherd's  Pippin  :    see  Alfriston."
+  },
+  {
+   "line": 5312,
+   "page": 119,
+   "score": 1.3,
+   "key": "SHEPHERDS SEEDLING",
+   "text": "Shepherd's  Seedling  :    see  Alfriston."
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 1288,
+   "page": 28,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American,  date  uncertain,  known  before  1800.  A"
+  },
+  {
+   "line": 4020,
+   "page": 90,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American.)  Culinary,  October  to  January,  fairly"
+  },
+  {
+   "line": 719,
+   "page": 15,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Mother  :    see  Mother."
+  },
+  {
+   "line": 741,
+   "page": 16,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Plate  :   see  Golden  Pippin."
+  },
+  {
+   "line": 742,
+   "page": 16,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Red  :    see  Astrachan  Red."
+  },
+  {
+   "line": 4978,
+   "page": 109,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  variety  is  under  trial  and  so  far  seems  promis-"
+  }
+ ],
+ "ard-cairn-russet": [
+  {
+   "line": 798,
+   "page": 17,
+   "score": 3.8,
+   "key": "ARD CAIRN RUSSET",
+   "text": "ARD  CAIRN  RUSSET.  Garden,  1911,  570.  Des-"
+  }
+ ],
+ "baumanns-reinette": [
+  {
+   "line": 976,
+   "page": 21,
+   "score": 3.8,
+   "key": "BAUMANNS REINETTE",
+   "text": "BAUMANN'S  REINETTE.  Fl.  and  Pom.,  1879,"
+  },
+  {
+   "line": 1868,
+   "page": 41,
+   "score": 1.3,
+   "key": "COURONNE DES DAMES",
+   "text": "Couronne  des  Dames  :   see  Baumann's  Reinette."
+  }
+ ],
+ "baxters-pearmain": [
+  {
+   "line": 995,
+   "page": 22,
+   "score": 3.8,
+   "key": "BAXTERS PEARMAIN",
+   "text": "BAXTER'S  PEARMAIN.  Dessert  or  culinary,  Dec-"
+  }
+ ],
+ "jubilee": [
+  {
+   "line": 1096,
+   "page": 24,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "Jubilee  but  distinct."
+  }
+ ],
+ "detroit-red": [
+  {
+   "line": 1970,
+   "page": 44,
+   "score": 3.0,
+   "key": "CRIMSON",
+   "text": "CRIMSON  BRAMLEY.  A  form  of  Bramley's"
+  },
+  {
+   "line": 4649,
+   "page": 104,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson.  Flesh,  crisp,  juicy,  greenish,  pleasantly"
+  },
+  {
+   "line": 1171,
+   "page": 26,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  flush  and  stripes.  Flesh,  firm,  pale  yellow,"
+  },
+  {
+   "line": 2036,
+   "page": 45,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  flush.  Flesh,  crisp,  greenish,  aromatic.  Eye,"
+  },
+  {
+   "line": 3549,
+   "page": 79,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  flush  and  broad  broken  stripes.  Flesh,  yellow-"
+  },
+  {
+   "line": 5009,
+   "page": 112,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  flush  and  stripes,  covered  with  russet.  Flesh,"
+  }
+ ],
+ "bietigheimer": [
+  {
+   "line": 1226,
+   "page": 26,
+   "score": 3.5,
+   "key": "BIETIGHEIMER",
+   "text": "BIETIGHEIMER.  F.,  Rouge  de  Stettin;  G.,"
+  }
+ ],
+ "edelborsdorfer": [
+  {
+   "line": 1300,
+   "page": 29,
+   "score": 3.5,
+   "key": "BORSDORFER",
+   "text": "BORSDORFER.  Her.  Pom.,  3.  F.,  Borsdorfer  ;"
+  }
+ ],
+ "brabant-bellefleur": [
+  {
+   "line": 1355,
+   "page": 30,
+   "score": 3.8,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "BRABANT  BELLEFLEUR.  Ronalds,  p.  31.  F.,"
+  }
+ ],
+ "golden-harvey": [
+  {
+   "line": 2699,
+   "page": 60,
+   "score": 3.8,
+   "key": "GOLDEN HARVEY",
+   "text": "GOLDEN  HARVEY.  RonaMs,  p.  23.  F.,  Harvey"
+  },
+  {
+   "line": 1403,
+   "page": 30,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple  :    see  Golden  Harvey."
+  },
+  {
+   "line": 5020,
+   "page": 112,
+   "score": 1.3,
+   "key": "ROUND RUSSET HARVEY",
+   "text": "Round  Russet  Harvey :    see  Golden  Harvey."
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 1559,
+   "page": 34,
+   "score": 3.8,
+   "key": "CARAWAY RUSSET",
+   "text": "CARAWAY  RUSSET.  Her.  Pom.,  p.  21.  F.,"
+  },
+  {
+   "line": 1560,
+   "page": 34,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  Gris ;  G.,  Grauer  Feucher  Apfel.  [Anis,"
+  },
+  {
+   "line": 1561,
+   "page": 34,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Anise,  Aromatic  Russet  (of  some)  Spice"
+  },
+  {
+   "line": 2480,
+   "page": 55,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Anise  :    see  Caraway  Russet."
+  }
+ ],
+ "cellini": [
+  {
+   "line": 1616,
+   "page": 36,
+   "score": 3.5,
+   "key": "CELLINI",
+   "text": "CELLINI.  (Phillips'  Seedling.)  Her.  Pom.,  12."
+  },
+  {
+   "line": 4532,
+   "page": 101,
+   "score": 1.3,
+   "key": "PHILLIPS SEEDLING",
+   "text": "Phillip's  Seedling  :    see  Cellini."
+  }
+ ],
+ "potts-seedling": [
+  {
+   "line": 4660,
+   "page": 104,
+   "score": 3.8,
+   "key": "POTTS SEEDLING",
+   "text": "POTTS'  SEEDLING.  Her.  Pom.,  10.  (Dean's"
+  },
+  {
+   "line": 2013,
+   "page": 45,
+   "score": 1.3,
+   "key": "DEANS CODLIN",
+   "text": "Dean's  Codlin :    see  Pott's  Seedling."
+  }
+ ],
+ "dutch-mignonne": [
+  {
+   "line": 2190,
+   "page": 49,
+   "score": 3.8,
+   "key": "DUTCH MIGNONNE",
+   "text": "DUTCH  MIGNONNE.  Ronalds,  p.  26.  F.,Reinette"
+  },
+  {
+   "line": 4486,
+   "page": 100,
+   "score": 1.5,
+   "key": "PATERNOSTER",
+   "text": "Paternoster  :  see  Dutch  Mignonne."
+  }
+ ],
+ "reinette-rouge-etoilee": [
+  {
+   "line": 4831,
+   "page": 108,
+   "score": 3.8,
+   "key": "REINETTE ROUGE ETOILEE",
+   "text": "REINETTE  ROUGE  ETOILEE.  Fl.  and  Pom.,"
+  },
+  {
+   "line": 2242,
+   "page": 50,
+   "score": 1.3,
+   "key": "EARLY RED CALVILLE",
+   "text": "Early  Red  Calville  :   see  Reinette  Rouge  Etoilee."
+  },
+  {
+   "line": 4814,
+   "page": 108,
+   "score": 1.3,
+   "key": "REINETTE ETOILEE",
+   "text": "Reinette  Etoilee  :   see  Reinette  Rouge  Etoilee."
+  }
+ ],
+ "frogmore-prolific": [
+  {
+   "line": 2582,
+   "page": 57,
+   "score": 3.8,
+   "key": "FROGMORE PROLIFIC",
+   "text": "FROGMORE  PROLIFIC.  Culinary,  September  to"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 2672,
+   "page": 59,
+   "score": 3.8,
+   "key": "GLORIA MUNDI",
+   "text": "GLORIA  MUNDI.  Ronalds,  p.  7.  (as  Mammoth)."
+  },
+  {
+   "line": 3979,
+   "page": 88,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin  :    see  Gloria  Mundi."
+  },
+  {
+   "line": 4438,
+   "page": 99,
+   "score": 1.3,
+   "key": "OX APPLE",
+   "text": "Ox  Apple  :    see  Gloria  Mundi."
+  }
+ ],
+ "histon-favourite": [
+  {
+   "line": 3053,
+   "page": 68,
+   "score": 3.8,
+   "key": "HISTON FAVOURITE",
+   "text": "HISTON  FAVOURITE.  (Oliver's  Seedling.)"
+  }
+ ],
+ "holland-pippin": [
+  {
+   "line": 3107,
+   "page": 69,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin  :    see  Pott's  Seedling."
+  }
+ ],
+ "kandil-sinap": [
+  {
+   "line": 3295,
+   "page": 74,
+   "score": 3.8,
+   "key": "KANDIL SINAP",
+   "text": "KANDIL  SINAP.  Rev.  Hort.,  1892,  36.  (Sari"
+  }
+ ],
+ "lucombes-seedling": [
+  {
+   "line": 3720,
+   "page": 83,
+   "score": 3.5,
+   "key": "LUCOMBES",
+   "text": "LUCOMBE'S  PINE.  Her.  Pom.,  47.  (Pine  Apple.)"
+  }
+ ],
+ "manningtons-pearmain": [
+  {
+   "line": 3808,
+   "page": 85,
+   "score": 3.8,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "MANNINGTON'S  PEARMAIN.  Her.  Pom.,  p.  14."
+  }
+ ],
+ "ontario": [
+  {
+   "line": 3898,
+   "page": 87,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario,  in  the  orchard  of  Heman  Chapin,  and  intro-"
+  },
+  {
+   "line": 4361,
+   "page": 97,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "ONTARIO.  New  York,  L,  240.  Culinary  or"
+  }
+ ],
+ "ohio-nonpareil": [
+  {
+   "line": 4351,
+   "page": 97,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil :    see  Gravenstein."
+  }
+ ],
+ "orleans": [
+  {
+   "line": 4401,
+   "page": 98,
+   "score": 3.0,
+   "key": "ORLEANS",
+   "text": "ORLEAN'S  REINETTE.  Lauche  I.  40.  (Reinette"
+  }
+ ],
+ "venus-pippin": [
+  {
+   "line": 5683,
+   "page": 127,
+   "score": 3.8,
+   "key": "VENUS PIPPIN",
+   "text": "VENUS  PIPPIN.  Card.  Chron.,  1899,  p.  261."
+  },
+  {
+   "line": 4627,
+   "page": 103,
+   "score": 1.5,
+   "key": "PLUMDERITY",
+   "text": "Plumderity  :    see  Venus  Pippin."
+  },
+  {
+   "line": 5684,
+   "page": 127,
+   "score": 1.0,
+   "key": "PLUMDERITY",
+   "text": "(Plumderity.)  Dessert  or  culinary,  September  to  Oct-"
+  }
+ ],
+ "reinette-du-canada": [
+  {
+   "line": 4795,
+   "page": 107,
+   "score": 3.8,
+   "key": "REINETTE DU CANADA",
+   "text": "REINETTE  DU  CANADA.  Ronalds,  P.  n.  F.,"
+  },
+  {
+   "line": 4796,
+   "page": 107,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada ;  G.,  Pariser  Rambour  Reinette."
+  }
+ ],
+ "chenango": [
+  {
+   "line": 4839,
+   "page": 108,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "strawberry  flavour.  Eye,  open,  in  a  very  even,  regular"
+  }
+ ],
+ "nanny": [
+  {
+   "line": 5293,
+   "page": 119,
+   "score": 3.8,
+   "key": "SEPTEMBER BEAUTY",
+   "text": "SEPTEMBER  BEAUTY.  Dessert,  September  to"
+  }
+ ],
+ "star-of-devon": [
+  {
+   "line": 5405,
+   "page": 121,
+   "score": 3.8,
+   "key": "STAR OF DEVON",
+   "text": "STAR  OF  DEVON.  Dessert,  till  February,  small"
+  }
+ ],
+ "surprise": [
+  {
+   "line": 5510,
+   "page": 124,
+   "score": 3.5,
+   "key": "SURPRISE",
+   "text": "SURPRISE.  Culinary,  October  to  November,"
+  }
+ ],
+ "upton-pyne": [
+  {
+   "line": 5673,
+   "page": 127,
+   "score": 3.8,
+   "key": "UPTON PYNE",
+   "text": "UPTON  PYNE.  Exhibition,  till  March,  large,"
+  }
+ ],
+ "wagener": [
+  {
+   "line": 5709,
+   "page": 128,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "WAGENER.  New  York,  I.,  354.  G.,  Wageners"
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 5906,
+   "page": 133,
+   "score": 3.8,
+   "key": "WILLIAMS FAVOURITE",
+   "text": "WILLIAM'S  FAVOURITE.  Dessert,  August,"
+  },
+  {
+   "line": 8950,
+   "page": 202,
+   "score": 3.0,
+   "key": "WILLIAMS",
+   "text": "WILLIAMS  BON  CHRETIEN.  Her.  Pom.,  L,  9."
+  },
+  {
+   "line": 7662,
+   "page": 173,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "Williams  \"  much  subdued.\"  Very  much  !  Makes  a"
+  },
+  {
+   "line": 8483,
+   "page": 192,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "Williams'  Duchess.  G.  Pitmaston's  Herzogin.  Exhi-"
+  }
+ ]
+}

@@ -2,10 +2,8 @@
 import { S, esc, countryName, getFavs, isFav, toggleFav, setFavs, onFavs, toast, seasonName, fmtInt } from '../data.js';
 import { appleSVG, scoreRing, bar, toneOf, chips } from './widgets.js';
 import { scoreVariety, rankVarieties, siteProfile, rootstockAdvice, labelOf, pressureWord, sitePressures } from '../score/score.js';
-import { climateFor, fallbackFor, reverseGeocode, ClimateError } from '../climate/fetch.js';
 import { MONTH_NAMES } from '../climate/features.js';
-import { regionalFor } from '../climate/regional.js';
-import { haversine, nearestRegion } from '../data.js';
+import { analysePlace } from '../climate/place.js';
 
 let map = null, pinLayer = null, selMarker = null, pins = new Map(), token = 0, sel = null, tab = 'apples', offFavs = null, friendly = null;
 const SETS = [
@@ -170,44 +168,23 @@ export async function selectRegion(id) {
   renderPanel();
 }
 
-/** Attach the regional (presence/absence) factors, which depend on the country rather than on weather. */
-function withRegional(F, lat, lon, cc) {
-  return F.regional && F.regional.country === (cc || F.regional.country) ? F : Object.assign({}, F, { regional: regionalFor(lat, lon, cc) });
-}
-
 export async function selectPoint(lat, lon, place) {
   const my = ++token;
   lon = ((lon + 540) % 360) - 180;
   showSel(lat, lon); setHash('@' + lat.toFixed(3) + ',' + lon.toFixed(3));
-  panelLoading('Looking up this place…');
-  const ac = new AbortController(); const to = setTimeout(() => ac.abort(), 3500);
-  const geo = await reverseGeocode(lat, lon, ac.signal); clearTimeout(to);
+  let a;
+  try { a = await analysePlace(lat, lon, { place, onStep: m => { if (my === token) panelLoading(m); } }); }
+  catch (e) { if (e.name === 'AbortError') return; throw e; }
   if (my !== token) return;
-  if (geo && geo.ocean && !place) {
-    document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><h3 style="margin-top:12px">${esc(geo.water || 'Open water')}</h3><p class="muted">That looks like open water. Apples need land &mdash; click somewhere ashore.</p></div>`;
+  if (a.ocean) {
+    document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><h3 style="margin-top:12px">${esc(a.water)}</h3><p class="muted">That looks like open water. Apples need land &mdash; click somewhere ashore.</p></div>`;
     wireClose(); return;
   }
-  panelLoading('Fetching ten years of weather for this spot…');
-  let res, err = null;
-  try { res = await climateFor(lat, lon); }
-  catch (e) {
-    if (e.name === 'AbortError') return;
-    err = e; res = fallbackFor(lat, lon);
-  }
-  if (my !== token) return;
-  if (!res) {
-    document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><div class="note bad"><b>No climate data for this spot.</b> ${esc(err ? err.message : '')} It is also more than 1,500 km from every pre-computed reference place, so nothing could be extrapolated. <button class="btn sm" data-retry>Try again</button></div></div>`;
+  if (a.failed) {
+    document.getElementById('placepanel').innerHTML = `<div class="ppad"><button class="btn sm" data-close>&times; Close</button><div class="note bad"><b>No climate data for this spot.</b> ${esc(a.err ? a.err.message : '')} It is also more than 1,500 km from every pre-computed reference place, so nothing could be extrapolated. <button class="btn sm" data-retry>Try again</button></div></div>`;
     wireClose(); const rb = document.querySelector('#placepanel [data-retry]'); if (rb) rb.onclick = () => selectPoint(lat, lon); return;
   }
-  const cc = geo && geo.country;
-  const F = res.source === 'preset' ? res.F : withRegional(res.F, lat, lon, cc);
-  const np = nearestRegion(lat, lon);
-  sel = {
-    lat, lon, name: place ? place.name : res.region && res.source === 'preset' ? res.region.name : (geo && geo.label) || 'Selected spot',
-    region: place || res.region || null, F, source: res.source, err, country: cc || (place && place.country) || (res.region && res.region.country) || F.regional.country,
-    nearest: np && np.d <= 800 ? np : null,
-    cellKm: res.source === 'live' || res.source === 'cache' ? Math.round(haversine(lat, lon, F.lat, F.lon)) : null,
-  };
+  sel = a;
   if (tab === 'local' && !sel.region && !sel.nearest) tab = 'apples';
   renderPanel();
 }

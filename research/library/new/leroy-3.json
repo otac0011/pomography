@@ -1,0 +1,103 @@
+{
+ "_book": "leroy-3",
+ "alfriston": {
+  "line": 4454, "end": 4560, "heading": "Pomme ALFRISTON", "match": "exact",
+  "flavour": "Chair : jaunâtre et assez tendre. — Eau : suffisante, fortement acidulée, faiblement sucrée.",
+  "flavour_en": "Flesh: yellowish and fairly tender. Juice: sufficient, strongly acidulous, faintly sweet.",
+  "quality": "Deuxième comme fruit à couteau, mais première pour la marmelade ou la simple cuisson.",
+  "storage": "Maturité. — Novembre-Mars.",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": 2, "acid": 4,
+  "note": "Synonyms Lord Gwydyr's Newtown Pippin, Oldaker's New, Shepherd's Seedling, Shepherd's Pippin - all in our aka. Raised by a Mr. Shepherd near Uckfield; named by the London Horticultural Society in 1819."
+ },
+ "api-etoile": {
+  "line": 5179, "end": 5315, "heading": "Pomme API ÉTOILÉ", "match": "exact",
+  "flavour": "Chair : blanc verdâtre, ferme, à grain serré, croquante, quelque peu marcescente. — Eau : abondante, sucrée, acidulé, rafraîchissante, mais sans parfum bien appréciable.",
+  "flavour_en": "Flesh: greenish white, firm, close-grained, crisp, somewhat inclined to shrivel. Juice: abundant, sweet, acidulous, refreshing, but without any very noticeable perfume.",
+  "quality": "Deuxième.",
+  "storage": "Maturité. — Février-Avril.",
+  "climate": "Les Italiens l'ont aussi multipliée des premiers, et même abondamment; ce qui laisse croire — on l'a du reste affirmé — qu'elle devient chez eux bien meilleure que chez nous.",
+  "tags": ["sweet", "sharp"], "against": ["perfumed"], "sweet": 3, "acid": 3,
+  "note": "Synonyms Pentagone, Carrée d'Hiver, Étoilée (our aka Pomme Etoilée). First recorded by Jean Bauhin (d. 1613), imported to Montbéliard from Württemberg about 1605. 'Sans parfum bien appréciable' contradicts our perfumed tag."
+ },
+ "brabant-bellefleur": {
+  "line": 8001, "end": 8106, "heading": "Pomme BELLE-FLEUR DE BRABANT", "match": "probable",
+  "flavour": "Chair : blanche, tendre, peu compacte. — Eau : suffisante, sucrée, légèrement acidulé et douée d'un parfum particulier assez délicat.",
+  "flavour_en": "Flesh: white, tender, not very compact. Juice: sufficient, sweet, slightly acidulous and endowed with a peculiar, rather delicate perfume.",
+  "quality": "Deuxième.",
+  "storage": "Maturité. — Décembre-Février.",
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": 2,
+  "note": "Leroy's fruit came to Lindley (1833) from Haarlem and 'passe pour être d'origine hollandaise', grown in Limburg and Flanders - fits our Dutch record; but he also lists Hogg's English synonyms Gloire de Flandre and Iron, and Bunyard says the English Brabant Bellefleur is NOT the Dutch one, so identity is not certain."
+ },
+ "belle-fleur-de-france": {
+  "line": 8121, "end": 8236, "heading": "Pomme BELLE-FLEUR LONGUE", "match": "probable",
+  "flavour": "Chair : légèrement verdâtre ou jaunâtre, mi-fine, assez ferme et croquante. — Eau : abondante, rarement bien sucrée, faiblement acidulé, douée d'une certaine délicatesse.",
+  "flavour_en": "Flesh: slightly greenish or yellowish, medium-fine, fairly firm and crisp. Juice: abundant, rarely very sweet, faintly acidulous, with a certain delicacy.",
+  "quality": "Deuxième.",
+  "storage": "Maturité. — Novembre-Janvier.",
+  "climate": null,
+  "tags": [], "against": [], "sweet": 2, "acid": 2,
+  "note": "Leroy gives Belle-Fleur de France (Royer 1854) and Belle-Fleur double (Knoop 1760) as synonyms of Belle-Fleur longue (Langer Bellefleur), a large Dutch apple. But he also gives Belle-Fleur double as a synonym of Petit-Bon (leroy-4 line 6795), and our aka (Double Bon Pommier, Grosse Bonne Ente) may point to the separate Dubbele Bellefleur - homonym doubt. Eaten raw in Holland and Britain sliced with orange or lemon juice."
+ },
+ "boiken": {
+  "line": 9831, "end": 9882, "heading": "Pomme BOÏKEN", "match": "exact",
+  "flavour": "Chair : blanche, fine, serrée, croquante. — Eau : suffisante, sucrée, douée d'un aigrelet et d'un parfum très-délicats.",
+  "flavour_en": "Flesh: white, fine, close-grained, crisp. Juice: sufficient, sweet, with a very delicate tartness and perfume.",
+  "quality": "Première.",
+  "storage": "Maturité. — Janvier-Mars.",
+  "climate": null,
+  "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 3, "acid": 3,
+  "note": "Obtained from Prussia in 1866; Oberdieck (1859) calls the Duchy of Bremen its cradle. OCR prints 'Manche' for 'blanche'."
+ },
+ "edelborsdorfer": {
+  "line": 10203, "end": 10358, "heading": "Pomme de BORSDORF", "match": "synonym",
+  "flavour": "Chair : blanc jaunâtre, fine, compacte, assez tendre. — Eau : suffisante, sucrée, vineuse, possédant une saveur acidulé et un parfum particulier qui la rendent fort délicate.",
+  "flavour_en": "Flesh: yellowish white, fine, compact, fairly tender. Juice: sufficient, sweet, vinous, with an acidulous savour and a particular perfume which make it very delicate.",
+  "quality": "Première.",
+  "storage": "Maturité. — Novembre-Mars.",
+  "climate": "Le coloris de sa peau, généralement assez variable selon le sol ou selon l'exposition de l'arbre",
+  "tags": ["sweet", "wine", "sharp", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+  "note": "Synonyms include Edelborsdorfer, Reinette Bâtarde, Reinette d'Allemagne, Queen's - as in our aka. Cordus (d. 1544) already knew it in Misnia (Saxony)."
+ },
+ "sweet-bough": {
+  "line": 10516, "end": 10583, "heading": "Pomme BOUGH", "match": "synonym",
+  "flavour": "Chair : blanchâtre, veinée de vert, fine, tendre et quelque peu marcescente. — Eau : suffisante, très-sucrée, parfumée, non acidulé.",
+  "flavour_en": "Flesh: whitish, veined with green, fine, tender and somewhat inclined to shrivel. Juice: sufficient, very sweet, perfumed, not acidulous.",
+  "quality": "Deuxième, mais première pour les amateurs de pommes douces.",
+  "storage": "Maturité. — Fin juillet.",
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 5, "acid": 1,
+  "note": "Synonyms Early Bough, Large Yellow Bough, Sweet Bough as in our aka; American, made known by Coxe (1817); fruits 'dénués de toute saveur acide'."
+ },
+ "roter-eiserapfel": {
+  "line": 18687, "end": 18754, "heading": "Pomme EISER ROUGE", "match": "synonym",
+  "flavour": "Chair : blanche ou légèrement jaunâtre, fine ou mi-fine, bien croquante. — Eau : suffisante, sucrée, délicatement acidulée et parfumée.",
+  "flavour_en": "Flesh: white or slightly yellowish, fine or medium-fine, very crisp. Juice: sufficient, sweet, delicately acidulous and perfumed.",
+  "quality": "Première.",
+  "storage": "Maturité. — Commencement de février et se prolongeant plus d'une année.",
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 3, "acid": 2,
+  "note": "Synonyms Durable trois ans, Rother Eiser; German, described by Diel 1802; Leroy dates it only to the end of the 18th century (our year 1600). Oberdieck says it keeps several years; Leroy tasted one kept from September 1867 to July 1868 unchanged."
+ },
+ "fenouillet-gris": {
+  "line": 19185, "end": 19302, "heading": "Pomme FENOUILLET GRIS", "match": "exact",
+  "flavour": "Chair : blanche, jaunissant vite à l'air, assez tendre, inodore, croquante et des plus fines. — Eau ; suffisante, très-sucrée, sans aucune acidité, mais douée d'un parfum anisé-musqué aussi délicat que bien prononcé.",
+  "flavour_en": "Flesh: white, quickly yellowing in the air, fairly tender, odourless, crisp and very fine. Juice: sufficient, very sweet, without any acidity, but with an anise-musky perfume as delicate as it is pronounced.",
+  "quality": "Première.",
+  "storage": "Maturité. — Décembre-Avril.",
+  "climate": null,
+  "tags": ["sweet", "aniseed", "musky", "perfumed"], "against": [], "sweet": 5, "acid": 1,
+  "note": "Synonyms d'Épice d'Hiver (Olivier de Serres 1608), d'Anis, Caraway Russet, Aromatic Russet. From Anjou; Ménage (1694) says it is named for the taste of its juice. Leroy stresses it is 'complètement douce' unlike the acid Court-Pendu gris."
+ },
+ "gloria-mundi": {
+  "line": 26253, "end": 26426, "heading": "Pomme JOSÉPHINE", "match": "synonym",
+  "flavour": "Chair : jaunâtre, mi-fine et mi-tendre. — Eau : suffisante, sucrée, acidulée, sans parfum, mais non dépourvue d'une certaine saveur.",
+  "flavour_en": "Flesh: yellowish, medium-fine and medium-tender. Juice: sufficient, sweet, acidulous, without perfume, but not lacking a certain flavour.",
+  "quality": "Deuxième pour le couteau, première pour compotes et gelées.",
+  "storage": "Maturité. — Novenbre-Mars.",
+  "climate": "la grosseur de ses fruits, que le moindre vent détache avant leur maturité",
+  "tags": ["sweet", "sharp"], "against": [], "sweet": 3, "acid": 3,
+  "note": "Synonyms Gloria Mundi, Monstrous Pippin, Mammoth, American Mammoth, Glazenwood Gloria Mundi, Baltimore - as in our aka. Brought from America by Comte le Lieur about 1803-1804. Leroy warns it is often confused with Belle du Bois."
+ }
+}

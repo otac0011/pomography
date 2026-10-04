@@ -1,6 +1,6 @@
 // Variety x place suitability. Pure functions: (variety record, climate features) -> score + reasons.
 // Design notes and the rejected alternatives are in docs/decisions/0002-climate-model.md.
-import { curveAt, offsetFor, viLabel, PARAMS } from '../climate/features.js';
+import { curveAt, viLabel, spanClim } from '../climate/features.js';
 
 const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 const fmt = n => Math.round(n).toLocaleString('en-US');
@@ -38,6 +38,24 @@ export function makeContext(refFeatures) {
 export function thermalNeed(ctx, harvestDoy) {
   const r = ctx.ref;
   return curveAt(r.season.gddCurve, harvestDoy - r.bloom.vi);
+}
+
+/**
+ * Picking date at a place. Days from full bloom to harvest (DAFB) are nearly the same for a variety wherever it grows
+ * (Gala ~130-140, Fuji ~175, Granny Smith ~190); warm weather in the first two months after bloom shortens them a little
+ * (Warrington et al. 1999). So: DAFB in south-east England, minus 2.5% per °C that the 60 days after bloom are warmer
+ * there (clamped to -25%..+20%). A pure degree-day clock put hot places 4-7 weeks too early (decision 0006).
+ */
+export const DAFB_PER_C = 0.025;
+export function harvestAt(v, F, ctx) {
+  const doy = v.season && v.season.harvest_doy;
+  if (doy == null || !F.bloom || !F.monthly) return null;
+  const r = ctx.ref, dafb = doy - r.bloom.vi;
+  const t = X => spanClim(X, X.bloom.vi, X.bloom.vi + 60).tmean;
+  const fac = clamp(1 - DAFB_PER_C * (t(F) - t(r)), 0.75, 1.2);
+  const vi = F.bloom.vi + dafb * fac;
+  // shift is measured within the season (virtual days), so a southern-hemisphere February counts as "earlier" than an English September
+  return { vi, label: viLabel(vi, F.southern), dafb: Math.round(dafb * fac), shift: Math.round(vi - doy) };
 }
 
 function fChill(v, F, notes) {
@@ -98,13 +116,9 @@ function fSeason(v, F, ctx) {
   const q = G / R;
   const ok = F.season.gendPer.filter(x => x >= R).length / F.season.gendPer.length;
   const f = Math.min(pw(q, [[0.8, 0], [0.9, 0.2], [1.0, 0.6], [1.1, 0.85], [1.25, 1]]), 0.2 + 0.8 * ok);
-  const off = offsetFor(F.season.gddCurve, R);
-  let harvest = null, shift = null;
-  if (isFinite(off)) {
-    const hv = F.bloom.vi + off;
-    harvest = viLabel(hv, F.southern);
-    shift = Math.round(hv - doy);
-  }
+  // whether it ripens is a question of total warmth (above); when is a question of days after bloom (harvestAt)
+  const h = harvestAt(v, F, ctx);
+  const harvest = h ? h.label : null, shift = h ? h.shift : null;
   let text;
   if (f >= 0.85) {
     text = 'The season is long and warm enough: it should ripen around ' + harvest + (shift !== null && Math.abs(shift) >= 7 ? ', ' + Math.round(Math.abs(shift) / 7) + ' week' + (Math.abs(Math.round(shift / 7)) === 1 ? '' : 's') + (shift < 0 ? ' earlier' : ' later') + ' than in south-east England' : '') + ', well ahead of the first hard freeze (' + (F.season.firstFreeze || 'none recorded') + ').';

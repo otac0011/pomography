@@ -1,0 +1,263 @@
+{
+ "autumn-bough": [
+  {
+   "line": 6379,
+   "page": 78,
+   "score": 1.3,
+   "key": "AUTUMN SWEET BOUGH",
+   "text": "Autumn  Sweet  Bough."
+  },
+  {
+   "line": 6381,
+   "page": 78,
+   "score": 1.3,
+   "key": "LATE BOUGH",
+   "text": "Late  Bough.  Sweet  Bellflower."
+  },
+  {
+   "line": 6383,
+   "page": 78,
+   "score": 1.3,
+   "key": "FALL BOUGH",
+   "text": "Fall  Bough.  Philadelphia  Sweet."
+  },
+  {
+   "line": 6385,
+   "page": 78,
+   "score": 1.3,
+   "key": "WHITE SUGAR",
+   "text": "White  Sugar  ?"
+  },
+  {
+   "line": 23780,
+   "page": 368,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet  Bellflower."
+  },
+  {
+   "line": 23790,
+   "page": 368,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet  Bellflower  of  Wyandot  County."
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 9079,
+   "page": 124,
+   "score": 1.3,
+   "key": "CLARKE PEARMAIN",
+   "text": "Clarke  Pearmain."
+  },
+  {
+   "line": 9081,
+   "page": 124,
+   "score": 1.3,
+   "key": "YELLOW PEARMAIN",
+   "text": "Yellow  Pearmain.  Columbian  Russet."
+  },
+  {
+   "line": 9083,
+   "page": 124,
+   "score": 1.3,
+   "key": "GLOUCESTER PEARMAIN",
+   "text": "Gloucester  Pearmain.  Golden  Pearmain."
+  },
+  {
+   "line": 13065,
+   "page": 170,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain."
+  },
+  {
+   "line": 65118,
+   "page": 1017,
+   "score": 1.3,
+   "key": "CLARKE PEARMAIN",
+   "text": "Clarke  Pearmain. 127"
+  },
+  {
+   "line": 66493,
+   "page": 1022,
+   "score": 1.3,
+   "key": "GLOUCESTER PEARMAIN",
+   "text": "Gloucester  Pearmain 127"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 9191,
+   "page": 124,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee."
+  },
+  {
+   "line": 65158,
+   "page": 1017,
+   "score": 1.0,
+   "key": "COCCAGEE",
+   "text": "Coccagee 129"
+  }
+ ],
+ "styre": [
+  {
+   "line": 12258,
+   "page": 170,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre."
+  },
+  {
+   "line": 23250,
+   "page": 347,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre."
+  },
+  {
+   "line": 66199,
+   "page": 1021,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  },
+  {
+   "line": 66201,
+   "page": 1021,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre ..."
+  }
+ ],
+ "poveshon": [
+  {
+   "line": 20019,
+   "page": 301,
+   "score": 1.5,
+   "key": "POVESHON",
+   "text": "Poveshon."
+  },
+  {
+   "line": 69295,
+   "page": 1031,
+   "score": 1.5,
+   "key": "POVESHON",
+   "text": "Poveshon"
+  }
+ ],
+ "red-autumn-calville": [
+  {
+   "line": 20724,
+   "page": 315,
+   "score": 1.3,
+   "key": "RED AUTUMN CALVILLE",
+   "text": "Red  Autumn  Calville."
+  },
+  {
+   "line": 20726,
+   "page": 315,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "Calville  Rouge  d'Automne.  Calville  Rouge."
+  },
+  {
+   "line": 69584,
+   "page": 1031,
+   "score": 1.3,
+   "key": "RED AUTUMN CALVILLE",
+   "text": "Red  Autumn  Calville"
+  },
+  {
+   "line": 87234,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig  Reinette 84"
+  },
+  {
+   "line": 87236,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig 84"
+  },
+  {
+   "line": 92808,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig  Reinette."
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 54535,
+   "page": 878,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson."
+  },
+  {
+   "line": 54541,
+   "page": 878,
+   "score": 1.5,
+   "key": "ROBERTSON",
+   "text": "Robertson."
+  },
+  {
+   "line": 93637,
+   "page": 1098,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson."
+  },
+  {
+   "line": 21036,
+   "page": 329,
+   "score": 1.0,
+   "key": "ROBERTSON",
+   "text": "Robertson  s  Pearmain."
+  },
+  {
+   "line": 82246,
+   "page": 1077,
+   "score": 1.0,
+   "key": "ROBERTSON",
+   "text": "Robertson 878"
+  },
+  {
+   "line": 82250,
+   "page": 1077,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson 878"
+  }
+ ],
+ "swazie": [
+  {
+   "line": 87707,
+   "page": 1098,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or.  .  *. 27"
+  },
+  {
+   "line": 90270,
+   "page": 1098,
+   "score": 1.3,
+   "key": "SWAZIE POMME GRISE",
+   "text": "Swazie  Pomme  Grise."
+  },
+  {
+   "line": 90281,
+   "page": 1098,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or."
+  }
+ ]
+}

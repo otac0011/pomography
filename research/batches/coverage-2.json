@@ -1,0 +1,312 @@
+{
+ "batch": "coverage-2",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "prima",
+   "name": "Prima",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Co-op 2"
+   ],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Prima_apple"
+  },
+  {
+   "id": "primate",
+   "name": "Primate",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "July Apple",
+    "Powers",
+    "Scott"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/primate"
+  },
+  {
+   "id": "alfriston",
+   "name": "Alfriston",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Alfriston_%28apple%29"
+  },
+  {
+   "id": "arlet",
+   "name": "Arlet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/arlet-swiss-gourmet"
+  },
+  {
+   "id": "atlas",
+   "name": "Atlas",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "barry",
+   "name": "Barry",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/barry"
+  },
+  {
+   "id": "bodil-neergaard",
+   "name": "Bodil Neergaard",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "boiken",
+   "name": "Boiken",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "campanino",
+   "name": "Campanino",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Campanino"
+  },
+  {
+   "id": "cellini",
+   "name": "Cellini",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Cellini_%28apple%29"
+  },
+  {
+   "id": "champion",
+   "name": "Champion",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Sampion",
+    "Shampion"
+   ],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Champion_%28apple%29"
+  },
+  {
+   "id": "charden",
+   "name": "Charden",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/charden"
+  },
+  {
+   "id": "chenango",
+   "name": "Chenango",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Chenango Strawberry"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/chenango-strawberry"
+  },
+  {
+   "id": "chieftain",
+   "name": "Chieftain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/chieftain"
+  },
+  {
+   "id": "collins-june",
+   "name": "Collins June",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "crimson-gold",
+   "name": "Crimson Gold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Crimson_Gold_%28apple%29"
+  },
+  {
+   "id": "crimson-king",
+   "name": "Crimson King",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Crimson_King_%28apple%29"
+  },
+  {
+   "id": "directeur-lesage",
+   "name": "Directeur Lesage",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/directeur-lesage"
+  },
+  {
+   "id": "dufflin",
+   "name": "Dufflin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Dufflin_%28apple%29"
+  },
+  {
+   "id": "dukat",
+   "name": "Dukat",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

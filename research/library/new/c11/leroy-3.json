@@ -1,0 +1,23 @@
+{
+  "_book": "leroy-3",
+  "red-pineapple": {
+    "line": 4827, "end": 4904, "heading": "9. Pomme ANANAS ROUGE. Synonyme. - Pomme Rother Ananas (Edouard Lucas, 1854)", "match": "probable",
+    "flavour": "Chair : blanchâtre, fine et délicate. Eau : assez abondante, acidulée et bien sucrée, ayant un parfum très-savoureux.",
+    "flavour_en": "Flesh: whitish, fine and delicate. Juice: fairly abundant, acidulous and well sugared, with a very savoury perfume.",
+    "quality": "Qualité. - Première.",
+    "storage": "Maturité. - Septembre-Novembre.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Rother Ananas of Lucas (1854), found by the court gardener Richter in an old orchard by the Elbe near Dessau; matches our 1854 German date. Leroy warns Germany grows two unrelated 'Ananas rouge' (the other raised at Cassel, before 1817), and that it differs from the pomme Ananas and Reinette Ananas - hence 'probable'. Medium, conical-oblong, bright yellow mostly washed carmine; autumn."
+  },
+  "red-autumn-calville": {
+    "line": 12673, "end": 12776, "heading": "92. Pomme CALLEVILLE ROUGE D'AUTOMNE.", "match": "exact",
+    "flavour": "Chair : blanche, tendre, un peu spongieuse, assez odorante, rosée sous la peau. Eau : suffisante, sucrée, acidulé, à parfum légèrement framboise.",
+    "flavour_en": "Flesh: white, tender, a little spongy, rather fragrant, pink under the skin. Juice: sufficient, sugary, acidulous, with a slight raspberry perfume.",
+    "quality": "Qualité. - Deuxième.",
+    "storage": "Maturité. - Octobre-Décembre.",
+    "climate": "ce fruit n'est rouge en dedans que sur les vieux arbres plantés dans des terres fortes et fraîches",
+    "tags": ["perfumed", "berry", "sweet", "floral"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Synonyms include Framboise d'Automne and Violette; La Bretonnerie (1784, quoted) says a good one should 'sentir la violette' (smell of violets) - source of the floral tag. Known 1670, thought to come from Auvergne. Leroy (line 12779) says the German 'Calleville rouge d'Automne' is a different apple, Roi-Très-Noble (= Edelkönig), so our aka 'Edelkönig' (and possibly 'Roter Herbstkalvill') mixes two varieties."
+  }
+}

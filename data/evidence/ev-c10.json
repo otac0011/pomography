@@ -1,0 +1,164 @@
+{
+  "_batch": "ev-c10",
+  "brina": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Brina", "words": ["excellent taste characteristics"], "tags": [], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "Only a generic quality claim; no flavour descriptors found anywhere. The ISHS release abstract (Acta Hort. 595) gives disease resistance and season only. Not on Orange Pippin or in the NFC."
+  },
+  "cap-of-liberty": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Cap_of_Liberty_(apple)", "words": ["bittersharp", "high in tannin", "high malic acid", "vintage quality"], "tags": ["sharp", "bitter", "astringent"], "sweet": null, "acid": 4, "against": []},
+      {"src": "nursery", "url": "https://www.saltspringapplecompany.com/cap-of-liberty", "words": ["bittersharp", "high tannins", "high acid", "complex", "spicy flavours", "mildly bitter", "acidic"], "tags": ["sharp", "bitter", "astringent", "spice"], "sweet": null, "acid": 4, "against": []},
+      {"src": "other", "url": "https://www.rhs.org.uk/plants/116263/malus-domestica-cap-of-liberty-(cider)/details", "words": ["aromatic", "complex", "spicy flavour", "high acidity and tannin"], "tags": ["perfumed", "spice", "sharp", "astringent"], "sweet": null, "acid": 4, "against": []}
+    ],
+    "storage_change": "does not keep; press within a week or two of picking (RHS, Salt Spring)",
+    "climate_flavour": null, "peak": "mill shortly after an early-October harvest",
+    "notes": "The RHS entry and Salt Spring both say 'complex' and 'spicy'; RHS wording looks like supplier copy, so the spice tag may trace to one nursery text. NFC page (not held) and PTES FruitFinder give no flavour. Salt Spring's claim of an 11th-14th century origin is unsupported elsewhere and was not used."
+  },
+  "creston": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Creston_(apple)", "words": ["good flavour", "good texture"], "tags": [], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": "Orange Pippin's identification note says it softens in storage, while Wikipedia (citing the 1999 release paper) credits good keeping",
+    "climate_flavour": null, "peak": null,
+    "notes": "Orange Pippin page (https://www.orangepippin.com/varieties/apples/creston) has no description, only an identification note (poor colour, softens in storage, greasy skin) plus user reviews, so it is not counted as a flavour source."
+  },
+  "crimson-delight": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Crimson_Delight", "words": ["firm", "crisp", "juicy"], "tags": [], "sweet": null, "acid": null, "against": []},
+      {"src": "university", "url": "https://tfrec.cahnrs.wsu.edu/breed/?p=134", "words": ["balanced flavor", "sweet", "moderate acidity", "crisp", "juicy", "very firm"], "tags": ["sweet"], "sweet": 4, "acid": 3, "against": []}
+    ],
+    "storage_change": "Wikipedia: flavour improves with storage and with a few days to a week at room temperature; WSU: firmness hardly drops in storage",
+    "climate_flavour": {"needs": "any", "note": "WSU reports good quality in both northern and southern Washington districts; low sunburn risk"},
+    "peak": "out of store from late autumn; keeps months (WSU 13 months CA)",
+    "notes": "A second WSU page (https://treefruit.wsu.edu/variety/wa2/: 'balanced, juicy, firm') is the same organisation and is not counted separately. Parentage differs between WSU pages (Splendour x Gala vs Splendour open-pollinated)."
+  },
+  "delrouval": {
+    "sources": [],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "en and fr Wikipedia read; neither gives any flavour description. Not on Orange Pippin or in the NFC; Delbard catalogue page not found."
+  },
+  "dougherty": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Dougherty_(apple)", "words": ["sweet", "spicy", "firm", "fine textured"], "tags": ["sweet", "spice"], "sweet": null, "acid": null, "against": []},
+      {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1639&&fruit=apple", "words": ["sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "Wikipedia's firm/fine-textured description refers to the Red Dougherty sport. Origin given as Australia by NFC (recorded 1885) and the Wikipedia list, but as a New Zealand cultivar in the Wikipedia article."
+  },
+  "english-russet": {
+    "sources": [
+      {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1884&&fruit=apple", "words": ["firm", "rather crisp", "fine", "subacid"], "tags": [], "sweet": null, "acid": 2, "against": []},
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)", "words": ["crisp", "subacid", "good"], "tags": [], "sweet": null, "acid": 2, "against": []}
+    ],
+    "storage_change": "Wikipedia article: keeps exceptionally well; the list gives use January-May",
+    "climate_flavour": null, "peak": "Jan-May (Wikipedia list)",
+    "notes": "NFC identifies it as the American Poughkeepsie Russet (recorded 1842), not an English apple. The Wikipedia article (https://en.wikipedia.org/wiki/English_Russet) has no flavour words. Both descriptions likely derive from 19th-century US pomology."
+  },
+  "eva": {
+    "sources": [],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "en Wikipedia stub and a 2022 Australian Journal of Crop Science paper on Eva phenology (https://www.cropj.com/rodrigues_16_6_2022_676_681.pdf) read; neither describes flavour. pt Wikipedia page not found."
+  },
+  "evercrisp": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/EverCrisp", "words": ["sweet", "crisp", "Honeycrisp flavor", "Fuji-like tang", "candied-apple sweetness", "background tang", "dense"], "tags": ["sweet"], "sweet": 5, "acid": 2, "against": []},
+      {"src": "other", "url": "https://fruitgrowersnews.com/article/apple-stays-evercrisp/", "words": ["crisp and sweet", "tastes a lot like Fuji", "a bit crispier"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": "Wikipedia: eats even better after two or three months in cold store and holds crispness for two weeks at room temperature; Fruit Growers News: still crisp and sweet after three weeks in a fruit bowl",
+    "climate_flavour": null, "peak": "after 2-3 months in cold store",
+    "notes": "Fruit Growers News notes watercore when fruit is left hanging into November. Not on Orange Pippin (slug redirects home)."
+  },
+  "golden-orange": {
+    "sources": [],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "Wikipedia and the ISHS abstract (Acta Hort. 595: Golden Lasa, Summerfree and Golden Orange) give no flavour words. A search snippet from the Dalival nursery said its eating quality is close to Golden Delicious, but the page returned 403 and was not read. The NFC 'Golden Orange' is an unrelated Scottish apple exhibited in 1883."
+  },
+  "golden-sweet": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Golden_Sweet", "words": ["very sweet", "rich", "almost no tartness", "honey sweet", "no acid flavor", "aromatic (list)"], "tags": ["sweet", "honey", "mild", "perfumed"], "sweet": 5, "acid": 1, "against": []},
+      {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/golden-sweet", "words": ["very sweet", "juicy", "rich flavor"], "tags": ["sweet"], "sweet": 5, "acid": null, "against": []},
+      {"src": "nursery", "url": "https://bighorsecreekfarm.com/golden-sweet/", "words": ["extraordinarily sweet", "no acid", "like a tablespoon of honey", "firm", "juicy", "aromatic"], "tags": ["sweet", "honey", "mild", "perfumed"], "sweet": 5, "acid": 1, "against": []}
+    ],
+    "storage_change": null, "climate_flavour": null, "peak": "summer apple eaten Aug-Sep (Wikipedia)",
+    "notes": "'mild' here means low acid (all three agree there is no acid), not blandness. Season conflict: Wikipedia gives late July-August (use Aug-Sep), Big Horse Creek Farm says mid to late fall. NFC lists 'Golden Sweet' as a synonym of Northern Sweet (Vermont), a different apple. The 'aromatic' word in the Wikipedia entry is from the List of apple cultivars (A-K) row."
+  },
+  "hangdown": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Hangdown_(apple)", "words": ["mild bittersweet", "vintage"], "tags": ["bitter"], "sweet": null, "acid": null, "against": []},
+      {"src": "nursery", "url": "https://www.saltspringapplecompany.com/hangdown", "words": ["crisp", "tender", "white flesh", "sweet juice"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+      {"src": "nursery", "url": "https://www.frankpmatthews.com/catalogue/apple_cider/11455", "words": ["mild bittersweet", "sweet in taste", "very soft"], "tags": ["bitter", "sweet"], "sweet": null, "acid": null, "against": []},
+      {"src": "other", "url": "https://www.rhs.org.uk/plants/102075/malus-domestica-hangy-down-cider/details", "words": ["mild bittersweet flavour"], "tags": ["bitter"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": null, "climate_flavour": null, "peak": "mill after an October harvest",
+    "notes": "Texture conflict: Salt Spring says crisp, tender flesh; Frank P Matthews says very soft. NFC page gives appearance and late-October picking at Brogdale but no flavour words."
+  },
+  "harrison": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Harrison_Cider_Apple", "words": ["pleasant", "sprightly", "dry", "rich", "sweet cider of great strength", "firm", "tough"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+      {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/harrison", "words": ["bittersweet (cider)", "flavour quality very good"], "tags": ["bitter"], "sweet": null, "acid": null, "against": []},
+      {"src": "nursery", "url": "https://bighorsecreekfarm.com/harrison/", "words": ["quince-like (Coxe)", "very rich", "sprightly", "slightly dry"], "tags": ["quince"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": "Wikipedia and Big Horse Creek: keeps well (into spring); Orange Pippin: keeps 2-3 weeks",
+    "climate_flavour": null, "peak": null,
+    "notes": "The quince comparison is Coxe (1817) quoted by Big Horse Creek Farm. Orange Pippin classes the juice as bittersweet; Wikipedia only says rich, sweet, strong cider. Rediscovery accounts differ (Livingston NJ 1976 vs Tom Burford 1989). Orange Pippin rates fruit size large while Wikipedia and the Wikipedia list say small."
+  },
+  "kalmar-glasapple": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://sv.wikipedia.org/wiki/Kalmar_Glas%C3%A4pple", "words": ["god syra och sötma", "good acidity and sweetness"], "tags": ["sweet", "sharp"], "sweet": 3, "acid": 3, "against": []}
+    ],
+    "storage_change": "picked early October, fully ripe in early December, keeps one to two months (sv and en Wikipedia)",
+    "climate_flavour": null, "peak": "early December onwards",
+    "notes": "en Wikipedia (https://en.wikipedia.org/wiki/Kalmar_Glas%C3%A4pple) says the same ('a mix of acidity and sweetness') and is not counted separately. NFC lists 'Kalmar Glassapple' as a synonym of White Spanish Reinette; sv Wikipedia gives the alias 'Spansk renett'."
+  },
+  "king-byerd": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/King_Byerd", "words": ["sharp", "sweet", "mellows", "sweet, sharp"], "tags": ["sharp", "sweet"], "sweet": null, "acid": null, "against": []},
+      {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3218&&fruit=apple", "words": ["firm", "crisp", "fine", "subacid", "slightly sweet"], "tags": ["sweet"], "sweet": 3, "acid": null, "against": []}
+    ],
+    "storage_change": "sharp-sweet at picking, mellowing to a sweeter balance by January-March (Wikipedia)",
+    "climate_flavour": null, "peak": "Jan-Mar (Wikipedia)",
+    "notes": "NFC calls it only subacid, milder than Wikipedia's 'sharp'."
+  },
+  "lady-alice": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Lady_Alice_(apple)", "words": ["sweet with hints of tart", "rich", "complex", "heirloom-like", "dense", "crispy", "hints of honey", "almond"], "tags": ["sweet", "honey", "almond"], "sweet": 4, "acid": null, "against": []}
+    ],
+    "storage_change": "stored after harvest and sold February-May, peaking in March (Wikipedia)",
+    "climate_flavour": null, "peak": "March",
+    "notes": "Honey and almond come from the List of apple cultivars (L-Z) row; the article itself cites Rainier Fruit marketing copy, so this is effectively one commercial source. Naming conflict: Alice Zirkle (article) vs the finder's mother (list). Rainier Fruit's own page no longer lists the variety."
+  },
+  "nicola": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Nicola_(apple)", "words": ["crisp", "juicy", "sweet", "full aromatic flavours"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+      {"src": "other", "url": "https://active.inspection.gc.ca/english/plaveg/pbrpov/cropreport/app/app00005198e.shtml", "words": ["very firm", "coarse to intermediate texture", "medium to juicy"], "tags": [], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": "aromatic flavour develops after several weeks in store (Wikipedia); search summaries say up to three months improves it",
+    "climate_flavour": null, "peak": "after several weeks in store",
+    "notes": "The CFIA plant-breeders'-rights report describes texture and colour only. Not on Orange Pippin."
+  },
+  "pams-delight": {
+    "sources": [
+      {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Pam%27s_Delight", "words": ["sweet", "crisp", "juicy"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": null, "climate_flavour": null, "peak": "Oct-Nov (Wikipedia)",
+    "notes": "NFC page shows it is not held at Brogdale (kept by the East of England Apples and Orchards Project) and has no description."
+  },
+  "summerfree": {
+    "sources": [],
+    "storage_change": null, "climate_flavour": null, "peak": null,
+    "notes": "Wikipedia and the ISHS abstract give no flavour. Wikipedia's article and list disagree on ripening (1-2 months vs 1-2 days before Gala); the ISHS abstract says end of August in Trentino. Its stated parentage is identical to Golden Orange's, which may be a copying error."
+  },
+  "tentation": {
+    "sources": [
+      {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/tentation", "words": ["pleasant rather than exceptional", "underlying sweetness", "tending towards blandness", "strong and deep (retailer)", "delicate (originators)"], "tags": ["sweet", "mild"], "sweet": null, "acid": null, "against": []},
+      {"src": "wikipedia", "url": "https://fr.wikipedia.org/wiki/Tentation_(pomme)", "words": ["sucrée (sweet)", "croquante (crisp)", "arômes caractéristiques (characteristic aromas)"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+    ],
+    "storage_change": "fr Wikipedia: needs 30-40 days after harvest to develop its full aroma",
+    "climate_flavour": {"needs": null, "note": "Orange Pippin finds the orange flush more prominent on southern-hemisphere fruit; no flavour effect reported"},
+    "peak": "from about 4-6 weeks after picking",
+    "notes": "en Wikipedia has no flavour words. Orange Pippin's own tasting found it bland-leaning, while several visitor reviews (not counted) praise it as aromatic; fr Wikipedia's aroma remark supports 'perfumed' after storage, which our record does not carry."
+  }
+}

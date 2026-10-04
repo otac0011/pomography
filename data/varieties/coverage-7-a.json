@@ -1,0 +1,664 @@
+[
+  {
+    "id": "hibernal",
+    "name": "Hibernal",
+    "aka": [
+      "Orsimui",
+      "Orsimoi",
+      "Osimoe",
+      "Romna"
+    ],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "RU",
+      "place": null,
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Usually treated as one of the 'Russian' apples brought to North America around 1870-1880 to give prairie and northern settlers a tree that would survive their winters; the National Fruit Collection notes an alternative story that it went from the USA to Russia. Today it is valued mainly for its extreme hardiness, including use as a hardy framework or interstem for less hardy varieties.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Big, flattish, often lopsided and ribbed fruit, greenish yellow with an orange-red flush splashed and striped crimson, freckled with small russet dots."
+    },
+    "taste": {
+      "summary": "Firm, coarse, juicy yellowish flesh that is acid and noticeably astringent raw, so it is little liked for eating fresh. Cooks well into sauce and pies.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 1,
+      "tannin": 1,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sharp",
+        "astringent"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov for cooking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": "triploid",
+      "notes": "Vigorous, prolific and early to bear, with stout, crooked, horizontal or drooping limbs. Its winter-hardiness makes it a traditional hardy frame or interstem for tenderer varieties in very cold districts."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Triploid, so a poor pollen donor; plant two other compatible diploids nearby. National Fruit Collection blossom dates are early (about group 2)."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Severe continental winters such as Minnesota, the northern Plains, the Canadian prairies and Russia, where few other apples survive.",
+      "poor_climates": "Pointless in mild climates where better-flavoured cooking apples grow; long hot summers and mild winters do not suit this northern type."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Montana State University reports apparent resistance to scab, fire blight and cedar rusts; fire-blight behaviour elsewhere is not well documented."
+    },
+    "grow_notes": "Grow it where winters are too harsh for ordinary apples, or as a hardy trunk to topwork other varieties onto. Treat the fruit as a cooker and pair the tree with two diploid pollinators.",
+    "conf": "medium"
+  },
+  {
+    "id": "histon-favourite",
+    "name": "Histon Favourite",
+    "aka": [
+      "Chivers' Seedling",
+      "Chiver's Seedling",
+      "Histon Favorite"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Histon, Cambridgeshire, England",
+      "year": 1883,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "John Chivers"
+    },
+    "history": "Raised by John Chivers of the Histon fruit-growing and jam-making family; it was recorded in 1883, though one orchard group dates it to about 1850. It earned only middling prices at market and is now kept mainly in Cambridgeshire community orchards.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 25,
+      "stripes": true,
+      "russet": 1,
+      "description": "Pale yellow apple with a light pink flush and a few pink stripes, some golden russet round the stalk; the skin turns greasy in store."
+    },
+    "taste": {
+      "summary": "Sharp and crisp straight from the tree, mellowing in store to a juicy, fine-textured, only lightly sweet apple with a faint, slightly aromatic flavour.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; sharp at picking, mellower after a few weeks"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little recorded about the tree; National Fruit Collection trees are spreading to drooping."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season blossom (group C/3)."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Dry, cool eastern England, where it was raised and is still grown.",
+      "poor_climates": "No documented performance outside England; untested in hot or very cold regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A local heritage apple for East Anglian gardens and community orchards. Pick in late September and keep a few weeks before eating to let the sharpness soften.",
+    "conf": "low"
+  },
+  {
+    "id": "holiday",
+    "name": "Holiday",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ohio Agricultural Experiment Station, Wooster, Ohio",
+      "year": 1940,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Macoun x Jonathan",
+      "raised_by": "F. S. Howlett, Ohio Agricultural Experiment Station"
+    },
+    "history": "Crossed in 1940 by F. S. Howlett at the Ohio station in Wooster and named and released in 1964. Through Macoun it is a grandchild of McIntosh and Jersey Black.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": 0,
+      "description": "Glossy, bright red apple over yellow with conspicuous pale dots."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, white flesh that is sweet with a light winey tang, joining Jonathan's richness to Macoun's juicy texture. Also used for cooking.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "wine",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little published about the tree; National Fruit Collection trees have a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3-4)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for the US Midwest; continental climates with warm summers and cold winters.",
+      "poor_climates": "Little documented; untested in very hot or very short-season areas."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No variety-specific disease data found; both parents are scab-prone to some degree."
+    },
+    "grow_notes": "A late-season eating apple for the Jonathan/Macoun lover. Pick in mid October and store for Christmas use; plant with another mid-season diploid for pollination.",
+    "conf": "medium"
+  },
+  {
+    "id": "holland-pippin",
+    "name": "Holland Pippin",
+    "aka": [
+      "Holland Winter"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Kirton, near Boston, Holland district of Lincolnshire, England",
+      "year": 1729,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Lincolnshire apple, recorded in 1729 as Kirton Pippin; the 'Holland' is the Parts of Holland in south Lincolnshire, not the Netherlands. The name is shared by an unrelated old North American kitchen apple (also called Summer Pippin or Pie Apple), and Orange Pippin files the name under Broad-Eyed Pippin; this record follows the Lincolnshire tree held at the National Fruit Collection. Sources disagree on the Kirton Pippin link: the National Fruit Collection ties the names together, but Hogg (1884) says Holland Pippin and Kirton Pippin are different apples, so the synonym is not listed here.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": false,
+      "russet": null,
+      "description": "Fair-sized, slightly ribbed, yellowish-green apple with a dull reddish-orange flush on the sunny side."
+    },
+    "taste": {
+      "summary": "Soft, coarse, rather mealy flesh with mild acidity; mainly a cooker that keeps its shape in the pan, though usable for eating late in the season.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details are not documented."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Mid-late blossom (group D/4)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool, fairly dry eastern England, where it originated.",
+      "poor_climates": "No documented performance outside England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A late-keeping Lincolnshire cooker for local-heritage plantings. Pick in mid October and store cool for winter cooking.",
+    "conf": "low"
+  },
+  {
+    "id": "idagold",
+    "name": "Idagold",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Idaho Agricultural Experiment Station, Moscow, Idaho",
+      "year": 1944,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Esopus Spitzenburg x Wagener",
+      "raised_by": "Leif Verner, University of Idaho"
+    },
+    "history": "Bred by Leif Verner at the University of Idaho in Moscow, selected in 1939 and introduced in 1944. It comes from the same breeding programme as Idared and Idajon.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": null,
+      "description": "Strongly ribbed, greenish-yellow apple without a recorded flush."
+    },
+    "taste": {
+      "summary": "Fine-grained, soft, greenish flesh with a mild sweet-sharp (subacid) flavour; little else is recorded.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Jan-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not documented."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Jan-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for the dry-summer, cold-winter inland Pacific Northwest.",
+      "poor_climates": "Little documented performance elsewhere."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A rarely grown late keeper of collection interest. Pick in mid October and store until after Christmas.",
+    "conf": "low"
+  },
+  {
+    "id": "idajon",
+    "name": "Idajon",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Idaho Agricultural Experiment Station, Moscow, Idaho",
+      "year": 1949,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Wagener x Jonathan",
+      "raised_by": "Leif Verner, University of Idaho"
+    },
+    "history": "A full sibling of Idared, bred by Leif Verner at the University of Idaho and introduced in 1949. It was released to fill the market gap just before Jonathan and Delicious were harvested.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": true,
+      "russet": 0,
+      "description": "Rounder and larger than Jonathan, almost covered in deep red streaks over yellow."
+    },
+    "taste": {
+      "summary": "Fine-grained, crisp, juicy, creamy-white flesh with a rich but gentle flavour, about as mild as Delicious. Not noticeably sweet at picking but sweetens in store; at its best within a couple of weeks of harvest.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec; prime a week or two after picking, fading after early December"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Spreading tree with a strong framework; one of the heaviest and most regular croppers in the Idaho trials, but fruit drops badly at harvest."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3-4)."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised in northern Idaho and tested both on dry land and under irrigation in southern Idaho.",
+      "poor_climates": "Little documented performance outside the Pacific Northwest."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Heavy pre-harvest drop is the main recorded fault."
+    },
+    "grow_notes": "Pick promptly as soon as it is ripe, since the fruit drops readily. Eat it through the autumn rather than storing it long.",
+    "conf": "medium"
+  },
+  {
+    "id": "ingol",
+    "name": "Ingol",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Obstbauversuchsanstalt Jork, Altes Land, near Hamburg",
+      "year": 1954,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Ingrid Marie x Golden Delicious",
+      "raised_by": "Jork Fruit Research Station"
+    },
+    "history": "Crossed in 1954 at the Jork fruit research station in the Altes Land near Hamburg. Its parentage, Ingrid Marie x Golden Delicious, is the same as that of the Dutch Elstar.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Big, flattish round apple, greenish yellow with a strong red flush and stripes on the sunny side."
+    },
+    "taste": {
+      "summary": "Soft, juicy, rather crumbly white flesh with a balanced sweet-sharp flavour; one source calls it pleasantly tart, the National Fruit Collection panel found it only moderately acid with little aroma.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "National Fruit Collection trees have a drooping habit; little else recorded."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": null,
+      "notes": "Late blossom at the National Fruit Collection (about group 5)."
+    },
+    "season": {
+      "harvest": "late Sep-early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for the maritime fruit district of northern Germany.",
+      "poor_climates": "No documented performance in hot or very cold regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A large-fruited German dessert apple of the Elstar family. Flowers late, so pair it with another late-blossoming variety.",
+    "conf": "low"
+  },
+  {
+    "id": "jamba-69",
+    "name": "Jamba 69",
+    "aka": [
+      "Jamba"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Obstbauversuchsanstalt Jork, Altes Land, near Hamburg",
+      "year": 1954,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Melba x James Grieve",
+      "raised_by": "Dr E. Loewel, Jork"
+    },
+    "history": "Crossed in 1954 by Dr E. Loewel at the Jork fruit research station in the Altes Land and released in 1969, hence the number in its name.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Tall-round, slightly angular apple, green to yellow-green with a bright red wash and stripes on the sunny side; the skin turns waxy."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, greenish-white flesh with a lively, fairly sharp and aromatic flavour balanced by good sweetness. An early apple that does not keep long.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-early Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Medium-sized tree that grows strongly when young and calms down once in full cropping."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3-4)."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, sunny sites in northern European fruit districts.",
+      "poor_climates": "Cold, exposed sites; no documented performance in hot climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "An early-season German dessert apple for a warm, sunny spot. Pick in late August to early September and eat within a few weeks.",
+    "conf": "low"
+  }
+]

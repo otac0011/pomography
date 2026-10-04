@@ -1,0 +1,80 @@
+{
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 26091,
+   "page": 37,
+   "score": 3.5,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG 17,  1 8,  25,    26"
+  },
+  {
+   "line": 26093,
+   "page": 37,
+   "score": 3.0,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG   GROUP 25"
+  },
+  {
+   "line": 2211,
+   "page": 8,
+   "score": 1.5,
+   "key": "OLDENBURG",
+   "text": "Oldenburg,"
+  },
+  {
+   "line": 13434,
+   "page": 37,
+   "score": 1.0,
+   "key": "OLDENBURG",
+   "text": "Oldenburg  (i,  3,  5,  6)."
+  }
+ ],
+ "swazie": [
+  {
+   "line": 20340,
+   "page": 37,
+   "score": 1.3,
+   "key": "SWAZIE POMME GRISE",
+   "text": "Swazie  Pomme  Grise  as  a  synonym.  Woolverton  (5)  gives  an"
+  },
+  {
+   "line": 20342,
+   "page": 37,
+   "score": 1.3,
+   "key": "SWAZIE POMME GRISE",
+   "text": "Swazie  Pomme  Grise  with  Pomme  Grise  d'Or  as  a  synonym.  The"
+  },
+  {
+   "line": 26370,
+   "page": 37,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or 328"
+  },
+  {
+   "line": 27140,
+   "page": 37,
+   "score": 1.3,
+   "key": "SWAZIE POMME GRISE",
+   "text": "Swazie  Pomme  Grise 328"
+  }
+ ],
+ "autumn-bough": [
+  {
+   "line": 24151,
+   "page": 37,
+   "score": 3.3,
+   "key": "AUTUMN BOUGH",
+   "text": "AUTUMN  BOUGH 15"
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 26724,
+   "page": 37,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson  3J6"
+  }
+ ]
+}

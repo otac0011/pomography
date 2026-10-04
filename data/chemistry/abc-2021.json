@@ -45,6 +45,34 @@
     }
    ]
   },
+  "akero": {
+   "accession": "Akero",
+   "ssc": 11.1,
+   "ta": 6.14,
+   "firmness": 8.8,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "alkmene": {
+   "accession": "Alkmene",
+   "ssc": 12.5,
+   "ta": 5.71,
+   "firmness": 5.99,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.6,
+    "ta": 5.04,
+    "firmness": 3.69,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "ambrosia": {
    "accession": "Ambrosia",
    "ssc": 11.6,
@@ -76,6 +104,23 @@
     "ssc": 13.1,
     "ta": 4.4,
     "firmness": 4.93,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "american-summer-pearmain": {
+   "accession": "American Summer Pearmain",
+   "ssc": 12.6,
+   "ta": 3.18,
+   "firmness": 6.72,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": null,
+    "ta": null,
+    "firmness": 4.69,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -130,6 +175,40 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "arlet": {
+   "accession": "Arlet",
+   "ssc": 12.4,
+   "ta": 5.32,
+   "firmness": 7.44,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.1,
+    "ta": 5.04,
+    "firmness": 5.62,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "aroma": {
+   "accession": "Aroma",
+   "ssc": 13.9,
+   "ta": 11.52,
+   "firmness": 7.14,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.9,
+    "ta": 5.86,
+    "firmness": 7.6,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "baldwin": {
    "accession": "Baldwin",
    "ssc": 12.8,
@@ -175,6 +254,34 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "baumanns-reinette": {
+   "accession": "Baumann's Reinette",
+   "ssc": 10.7,
+   "ta": 9.43,
+   "firmness": 10.36,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": null,
+    "ta": null,
+    "firmness": 6.95,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "beacon": {
+   "accession": "Beacon",
+   "ssc": 11.6,
+   "ta": 6.82,
+   "firmness": 5.74,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "beauty-of-bath": {
    "accession": "Beauty of Bath",
    "ssc": 6.1,
@@ -214,6 +321,40 @@
    "match": "probable",
    "stage": "harvest"
   },
+  "belle-fleur-de-france": {
+   "accession": "Belle Fleur de France",
+   "ssc": 12.5,
+   "ta": 8.16,
+   "firmness": 9.45,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.2,
+    "ta": 7.22,
+    "firmness": 6.22,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "benoni": {
+   "accession": "Benoni",
+   "ssc": 11.6,
+   "ta": 6.81,
+   "firmness": 5.6,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.5,
+    "ta": 4.96,
+    "firmness": 4.25,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "berner-rosen": {
    "accession": "Berner Rosen",
    "ssc": 10.2,
@@ -248,6 +389,17 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "bietigheimer": {
+   "accession": "Bietigheimer",
+   "ssc": 11.3,
+   "ta": 9.95,
+   "firmness": 8.04,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "binet-rouge": {
    "accession": "Binet Rouge",
    "ssc": 9.5,
@@ -262,6 +414,40 @@
     "ssc": 15.7,
     "ta": 1.41,
     "firmness": 7.19,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "black-ben-davis": {
+   "accession": "Black Ben Davis",
+   "ssc": 11.4,
+   "ta": 6.27,
+   "firmness": 9.47,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.9,
+    "ta": 6.18,
+    "firmness": 7.35,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "black-oxford": {
+   "accession": "Black Oxford",
+   "ssc": 14.2,
+   "ta": 6.26,
+   "firmness": 11.84,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 17.1,
+    "ta": 4.43,
+    "firmness": 7.81,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -310,6 +496,40 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "bodil-neergaard": {
+   "accession": "Bodil Neergaard",
+   "ssc": 12.3,
+   "ta": 5.42,
+   "firmness": 6.68,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.2,
+    "ta": 6.79,
+    "firmness": 4.72,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "boiken": {
+   "accession": "Boiken",
+   "ssc": 12.7,
+   "ta": 13.96,
+   "firmness": 10.76,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.4,
+    "ta": 8.09,
+    "firmness": 5.03,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "braeburn": {
    "accession": "Braeburn",
    "ssc": 10.9,
@@ -324,6 +544,40 @@
     "ssc": 12.8,
     "ta": 4.56,
     "firmness": 9.71,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "brettacher-samling": {
+   "accession": "Brettacher",
+   "ssc": 11.8,
+   "ta": 8.55,
+   "firmness": 6.71,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.3,
+    "ta": 8.35,
+    "firmness": 4.96,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "britemac": {
+   "accession": "Britemac",
+   "ssc": 11.7,
+   "ta": 4.83,
+   "firmness": 6.74,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.7,
+    "ta": 4.05,
+    "firmness": 3.66,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -361,6 +615,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "burgundy": {
+   "accession": "Burgundy",
+   "ssc": 11.2,
+   "ta": 7.08,
+   "firmness": 6.36,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.7,
+    "ta": 3.54,
+    "firmness": 3.82,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "captain-kidd": {
    "accession": "Captain Kidd",
    "ssc": 12.2,
@@ -378,11 +649,67 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "carola": {
+   "accession": "Carola",
+   "ssc": 9.9,
+   "ta": 5.49,
+   "firmness": 8.27,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "carroll": {
+   "accession": "Carroll",
+   "ssc": 12.3,
+   "ta": 5.82,
+   "firmness": 5.35,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.9,
+    "ta": 2.06,
+    "firmness": 1.98,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "charden": {
+   "accession": "Charden",
+   "ssc": 12.0,
+   "ta": 6.9,
+   "firmness": 7.66,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.3,
+    "ta": 5.71,
+    "firmness": 4.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "charles-ross": {
    "accession": "Charles Ross",
    "ssc": 12.7,
    "ta": 8.19,
    "firmness": 8.33,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "chehalis": {
+   "accession": "Chehalis",
+   "ssc": 12.8,
+   "ta": 6.49,
+   "firmness": 4.75,
    "firmness_units": "kg/cm2",
    "n": 1,
    "years": "2016-2017",
@@ -405,6 +732,51 @@
     "firmness": 4.11,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "chieftain": {
+   "accession": "Chieftain",
+   "ssc": 11.5,
+   "ta": 5.19,
+   "firmness": 10.08,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.1,
+    "ta": 4.21,
+    "firmness": 5.49,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "clivia": {
+   "accession": "Clivia",
+   "ssc": 9.9,
+   "ta": 5.63,
+   "firmness": 9.38,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.9,
+    "ta": 5.0,
+    "firmness": 5.45,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "collins-june": {
+   "accession": "Collins June",
+   "ssc": 10.0,
+   "ta": 10.94,
+   "firmness": 4.01,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "cornish-gilliflower": {
    "accession": "Cornish Gilliflower",
@@ -484,6 +856,17 @@
     }
    ]
   },
+  "crimson-beauty": {
+   "accession": "Crimson Beauty",
+   "ssc": 10.4,
+   "ta": 14.66,
+   "firmness": 3.39,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "crimson-bramley": {
    "accession": "Crimson Bramley",
    "ssc": 12.8,
@@ -517,6 +900,45 @@
     "firmness": 8.78,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "crimson-gold": {
+   "accession": "Crimson Gold",
+   "ssc": 15.6,
+   "ta": null,
+   "firmness": 10.67,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 17.2,
+    "ta": 8.82,
+    "firmness": 7.03,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "crimson-king": {
+   "accession": "Crimson King",
+   "ssc": 12.0,
+   "ta": 4.97,
+   "firmness": 7.04,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "dayton": {
+   "accession": "Dayton",
+   "ssc": 11.9,
+   "ta": 5.53,
+   "firmness": 5.55,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "democrat": {
    "accession": "Democrat",
@@ -552,6 +974,34 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "diana": {
+   "accession": "Diana",
+   "ssc": 11.0,
+   "ta": 9.59,
+   "firmness": 5.03,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.3,
+    "ta": 7.64,
+    "firmness": 3.67,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "directeur-lesage": {
+   "accession": "Directeur Lesage",
+   "ssc": 11.4,
+   "ta": 9.19,
+   "firmness": 5.63,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "discovery": {
    "accession": "Discovery",
    "ssc": 13.2,
@@ -563,6 +1013,40 @@
    "match": "exact",
    "stage": "harvest"
   },
+  "dukat": {
+   "accession": "Dukat",
+   "ssc": 11.8,
+   "ta": 4.71,
+   "firmness": 9.24,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.9,
+    "ta": 4.27,
+    "firmness": 6.7,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "dunning": {
+   "accession": "Dunning",
+   "ssc": 12.0,
+   "ta": 1.34,
+   "firmness": 6.44,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 9.9,
+    "ta": null,
+    "firmness": 3.77,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "early-harvest": {
    "accession": "Early Harvest",
    "ssc": 5.3,
@@ -573,6 +1057,23 @@
    "years": "2016",
    "match": "exact",
    "stage": "harvest"
+  },
+  "eden": {
+   "accession": "Eden",
+   "ssc": 11.5,
+   "ta": 9.2,
+   "firmness": 7.53,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.3,
+    "ta": 6.66,
+    "firmness": 5.77,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
   },
   "edward-vii": {
    "accession": "King Edward VII",
@@ -625,6 +1126,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "elektra": {
+   "accession": "Elektra",
+   "ssc": 12.7,
+   "ta": 3.45,
+   "firmness": 7.06,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.0,
+    "ta": 3.63,
+    "firmness": 4.95,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "ellisons-orange": {
    "accession": "Ellison's Orange",
    "ssc": 11.0,
@@ -656,6 +1174,23 @@
     "ssc": 13.6,
     "ta": 7.23,
     "firmness": 4.35,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "emilia": {
+   "accession": "Emilia",
+   "ssc": 11.8,
+   "ta": 6.38,
+   "firmness": 8.97,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 15.0,
+    "ta": 7.33,
+    "firmness": 6.07,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -727,6 +1262,68 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "exeter-cross": {
+   "accession": "Exeter Cross",
+   "ssc": 10.9,
+   "ta": 5.87,
+   "firmness": 5.61,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "fallawater": {
+   "accession": "Fallawater",
+   "ssc": 12.0,
+   "ta": 8.13,
+   "firmness": 11.49,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.2,
+    "ta": 5.41,
+    "firmness": 6.46,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "fireside": {
+   "accession": "Fireside",
+   "ssc": 12.5,
+   "ta": 3.8,
+   "firmness": 8.61,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.1,
+    "ta": 2.19,
+    "firmness": 6.18,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "florina": {
+   "accession": "Florina",
+   "ssc": 12.2,
+   "ta": 6.0,
+   "firmness": 8.24,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.9,
+    "ta": 3.83,
+    "firmness": 5.73,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "flower-of-kent": {
    "accession": "Flower of Kent",
    "ssc": 11.9,
@@ -772,6 +1369,17 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "frogmore-prolific": {
+   "accession": "Frogmore",
+   "ssc": 11.6,
+   "ta": 11.57,
+   "firmness": 8.46,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest"
+  },
   "gala": {
    "accession": "Gala",
    "ssc": 12.4,
@@ -806,6 +1414,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "gewurzluiken": {
+   "accession": "Gewurzluiken",
+   "ssc": 12.3,
+   "ta": 8.39,
+   "firmness": 8.64,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.6,
+    "ta": 6.48,
+    "firmness": 6.02,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "gladstone": {
    "accession": "Gladstone",
    "ssc": 6.2,
@@ -833,6 +1458,17 @@
     "firmness": 6.83,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "gloria-mundi": {
+   "accession": "Gloria Mundi",
+   "ssc": 9.5,
+   "ta": 8.24,
+   "firmness": 10.8,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "golden-delicious": {
    "accession": "Golden Delicious; Yellow Delicious",
@@ -866,6 +1502,34 @@
      "firmness": 7.4
     }
    ]
+  },
+  "golden-harvey": {
+   "accession": "Golden Harvey",
+   "ssc": 16.3,
+   "ta": 11.04,
+   "firmness": 8.55,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 19.5,
+    "ta": null,
+    "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "golden-nugget": {
+   "accession": "Golden Nugget",
+   "ssc": 12.5,
+   "ta": 5.54,
+   "firmness": 7.61,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "golden-russet": {
    "accession": "Golden Russet",
@@ -951,6 +1615,40 @@
     }
    ]
   },
+  "halberstadter-jungfernapfel": {
+   "accession": "Halberstadter Jungfernapfel",
+   "ssc": 11.0,
+   "ta": 7.02,
+   "firmness": 9.18,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.6,
+    "ta": 4.57,
+    "firmness": 5.95,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "hammerstein": {
+   "accession": "Minister von Hammerstein",
+   "ssc": 11.5,
+   "ta": 9.15,
+   "firmness": 6.95,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.2,
+    "ta": 6.97,
+    "firmness": 5.39,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "haralson": {
    "accession": "Haralson",
    "ssc": 12.0,
@@ -982,6 +1680,40 @@
     "ssc": 12.4,
     "ta": 1.92,
     "firmness": 5.16,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "herma": {
+   "accession": "Herma",
+   "ssc": 12.0,
+   "ta": 6.82,
+   "firmness": 5.47,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.3,
+    "ta": 6.63,
+    "firmness": 5.22,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "hibernal": {
+   "accession": "Hibernal",
+   "ssc": 11.6,
+   "ta": 17.35,
+   "firmness": 6.92,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.1,
+    "ta": 6.69,
+    "firmness": 3.45,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1075,6 +1807,40 @@
    "match": "synonym",
    "stage": "harvest"
   },
+  "idagold": {
+   "accession": "Idagold",
+   "ssc": 11.8,
+   "ta": 9.54,
+   "firmness": 7.99,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.4,
+    "ta": 7.05,
+    "firmness": 5.33,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "idajon": {
+   "accession": "Idajon",
+   "ssc": 13.0,
+   "ta": 7.56,
+   "firmness": 5.85,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.2,
+    "ta": 4.48,
+    "firmness": 3.79,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "idared": {
    "accession": "Idared",
    "ssc": 12.1,
@@ -1092,6 +1858,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "ingol": {
+   "accession": "Ingol",
+   "ssc": 12.3,
+   "ta": 10.41,
+   "firmness": 6.17,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 15.0,
+    "ta": 8.48,
+    "firmness": 4.43,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "ingrid-marie": {
    "accession": "Ingrid Marie",
    "ssc": 10.8,
@@ -1102,6 +1885,74 @@
    "years": "2016",
    "match": "exact",
    "stage": "harvest"
+  },
+  "jamba-69": {
+   "accession": "Jamba",
+   "ssc": 13.0,
+   "ta": 8.98,
+   "firmness": 5.42,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.7,
+    "ta": 6.5,
+    "firmness": 3.71,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "jefferis": {
+   "accession": "Jefferis",
+   "ssc": 10.9,
+   "ta": 4.66,
+   "firmness": 5.99,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.7,
+    "ta": 4.29,
+    "firmness": 3.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "john-standish": {
+   "accession": "John Standish",
+   "ssc": 12.6,
+   "ta": 10.09,
+   "firmness": 11.49,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.1,
+    "ta": 8.34,
+    "firmness": 8.46,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "jonafree": {
+   "accession": "Jonafree",
+   "ssc": 11.0,
+   "ta": 7.92,
+   "firmness": 8.72,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.6,
+    "ta": 4.7,
+    "firmness": 5.39,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
   },
   "jonagold": {
    "accession": "Jonagold",
@@ -1117,6 +1968,40 @@
     "ssc": 12.9,
     "ta": 4.49,
     "firmness": 4.49,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "jonalicious": {
+   "accession": "Jonalicious",
+   "ssc": 9.3,
+   "ta": 6.47,
+   "firmness": 7.38,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.2,
+    "ta": 5.96,
+    "firmness": 6.28,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "jonamac": {
+   "accession": "Jonamac",
+   "ssc": 12.0,
+   "ta": 5.04,
+   "firmness": 5.98,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.8,
+    "ta": 4.91,
+    "firmness": 3.36,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1137,6 +2022,17 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "julyred": {
+   "accession": "Julyred",
+   "ssc": 9.1,
+   "ta": 2.69,
+   "firmness": 2.76,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "kaiser-wilhelm": {
    "accession": "Kaiser Wilhelm",
    "ssc": 13.2,
@@ -1154,6 +2050,40 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "kandil-sinap": {
+   "accession": "Kandil Sinap",
+   "ssc": 12.3,
+   "ta": 6.32,
+   "firmness": 7.66,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.4,
+    "ta": 4.52,
+    "firmness": 6.33,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "karmijn-de-sonnaville": {
+   "accession": "Karmijn",
+   "ssc": 13.5,
+   "ta": 10.93,
+   "firmness": 7.64,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 15.5,
+    "ta": 10.19,
+    "firmness": 4.96,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "katy": {
    "accession": "Katja",
    "ssc": 11.9,
@@ -1168,6 +2098,23 @@
     "ssc": 11.4,
     "ta": 5.29,
     "firmness": 4.49,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "keepsake": {
+   "accession": "Keepsake",
+   "ssc": 11.5,
+   "ta": 3.92,
+   "firmness": 9.69,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.5,
+    "ta": 4.73,
+    "firmness": 6.88,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1198,6 +2145,39 @@
    "years": "2017",
    "match": "exact",
    "stage": "harvest"
+  },
+  "king-cole": {
+   "accession": "Cole; King Cole",
+   "ssc": 11.9,
+   "ta": 12.17,
+   "firmness": 8.01,
+   "firmness_units": "kg/cm2",
+   "n": 2,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.1,
+    "ta": 9.22,
+    "firmness": 5.9,
+    "note": "after 3 months of cold storage, unadjusted"
+   },
+   "per_accession": [
+    {
+     "accession": "Cole",
+     "id": "564",
+     "ssc": 12.7,
+     "ta": 12.36,
+     "firmness": 7.62
+    },
+    {
+     "accession": "King Cole",
+     "id": "706",
+     "ssc": 11.1,
+     "ta": 11.98,
+     "firmness": 8.4
+    }
+   ]
   },
   "king-david": {
    "accession": "King David",
@@ -1244,6 +2224,23 @@
    "match": "probable",
    "stage": "harvest"
   },
+  "lakeland": {
+   "accession": "Lakeland",
+   "ssc": 11.8,
+   "ta": 7.34,
+   "firmness": 6.28,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.9,
+    "ta": 5.06,
+    "firmness": 3.51,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "lanes-prince-albert": {
    "accession": "Lane's Prince Albert",
    "ssc": 10.0,
@@ -1286,6 +2283,23 @@
     "ssc": 12.9,
     "ta": 5.21,
     "firmness": 5.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "linda": {
+   "accession": "Linda",
+   "ssc": 12.6,
+   "ta": 12.11,
+   "firmness": 6.3,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.8,
+    "ta": 9.94,
+    "firmness": 4.69,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1373,6 +2387,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "maiden-blush": {
+   "accession": "Maiden Blush",
+   "ssc": 11.6,
+   "ta": 8.53,
+   "firmness": 7.67,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.1,
+    "ta": 6.43,
+    "firmness": 4.5,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "maigold": {
    "accession": "Maigold",
    "ssc": 12.8,
@@ -1401,6 +2432,34 @@
    "match": "exact",
    "stage": "harvest"
   },
+  "malinda": {
+   "accession": "Malinda",
+   "ssc": 10.1,
+   "ta": null,
+   "firmness": 9.78,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.7,
+    "ta": null,
+    "firmness": 5.44,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "mantet": {
+   "accession": "Mantet",
+   "ssc": 10.2,
+   "ta": 3.51,
+   "firmness": 3.59,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "mcintosh-red": {
    "accession": "McIntosh",
    "ssc": 11.5,
@@ -1415,6 +2474,23 @@
     "ssc": 12.0,
     "ta": 6.71,
     "firmness": 3.95,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "medina": {
+   "accession": "Medina",
+   "ssc": 11.2,
+   "ta": 7.05,
+   "firmness": 8.89,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.6,
+    "ta": 5.0,
+    "firmness": 5.12,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1435,6 +2511,17 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "melon": {
+   "accession": "Melon",
+   "ssc": 11.7,
+   "ta": 5.59,
+   "firmness": 7.52,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "melrose": {
    "accession": "Melrose",
    "ssc": 11.8,
@@ -1452,6 +2539,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "merton-delight": {
+   "accession": "Merton Delight",
+   "ssc": 10.6,
+   "ta": 6.56,
+   "firmness": 5.98,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.7,
+    "ta": 8.16,
+    "firmness": 4.31,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "michaelmas-red": {
    "accession": "Michaelmas Red",
    "ssc": 11.7,
@@ -1466,6 +2570,57 @@
     "ssc": 11.2,
     "ta": 4.96,
     "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "milton": {
+   "accession": "Milton",
+   "ssc": 12.5,
+   "ta": 4.22,
+   "firmness": 6.04,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.5,
+    "ta": 6.03,
+    "firmness": 3.67,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "minnehaha": {
+   "accession": "Minnehaha",
+   "ssc": 11.0,
+   "ta": 6.73,
+   "firmness": 7.1,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.5,
+    "ta": 5.16,
+    "firmness": 5.22,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "mio": {
+   "accession": "Mio",
+   "ssc": 10.3,
+   "ta": 5.67,
+   "firmness": 4.08,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.8,
+    "ta": 4.92,
+    "firmness": 2.8,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -1496,6 +2651,34 @@
    "years": "2017",
    "match": "exact",
    "stage": "harvest"
+  },
+  "nanny": {
+   "accession": "Nanny",
+   "ssc": 13.1,
+   "ta": 8.35,
+   "firmness": 6.62,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "niagara": {
+   "accession": "Niagara",
+   "ssc": 13.1,
+   "ta": 6.3,
+   "firmness": 7.0,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.4,
+    "ta": 5.36,
+    "firmness": 4.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
   },
   "norland": {
    "accession": "Norland",
@@ -1531,6 +2714,68 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "nova-easygro": {
+   "accession": "Nova Easygro",
+   "ssc": 12.2,
+   "ta": 3.18,
+   "firmness": 7.69,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.5,
+    "ta": 3.19,
+    "firmness": 4.64,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "novamac": {
+   "accession": "Novamac",
+   "ssc": 12.5,
+   "ta": 11.38,
+   "firmness": 7.41,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.4,
+    "ta": 6.12,
+    "firmness": 3.85,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "novaspy": {
+   "accession": "Novaspy",
+   "ssc": 12.1,
+   "ta": 9.5,
+   "firmness": 8.4,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "ohio-nonpareil": {
+   "accession": "Ohio Nonpareil",
+   "ssc": 12.1,
+   "ta": 8.9,
+   "firmness": 8.94,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.0,
+    "ta": 6.97,
+    "firmness": 5.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "orin": {
    "accession": "Orin",
    "ssc": 12.3,
@@ -1548,6 +2793,90 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "orleans": {
+   "accession": "Orleans",
+   "ssc": 10.3,
+   "ta": 3.15,
+   "firmness": 7.01,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.0,
+    "ta": 3.73,
+    "firmness": 4.02,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "ortley": {
+   "accession": "Cleopatra; Ortley",
+   "ssc": 12.4,
+   "ta": 6.19,
+   "firmness": 8.91,
+   "firmness_units": "kg/cm2",
+   "n": 2,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.3,
+    "ta": 6.04,
+    "firmness": 5.16,
+    "note": "after 3 months of cold storage, unadjusted"
+   },
+   "per_accession": [
+    {
+     "accession": "Cleopatra",
+     "id": "399",
+     "ssc": 12.7,
+     "ta": 7.58,
+     "firmness": 9.93
+    },
+    {
+     "accession": "Ortley",
+     "id": "1067",
+     "ssc": 12.1,
+     "ta": 4.8,
+     "firmness": 7.88
+    }
+   ]
+  },
+  "ozark-gold": {
+   "accession": "Ozark Gold",
+   "ssc": 11.6,
+   "ta": 5.6,
+   "firmness": 7.43,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.0,
+    "ta": 4.74,
+    "firmness": 5.05,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "paula-red": {
+   "accession": "Paulared",
+   "ssc": 11.3,
+   "ta": 6.35,
+   "firmness": 7.12,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.9,
+    "ta": 4.93,
+    "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "pecks-pleasant": {
    "accession": "Peck Pleasant",
    "ssc": 12.7,
@@ -1557,6 +2886,28 @@
    "n": 1,
    "years": "2016",
    "match": "probable",
+   "stage": "harvest"
+  },
+  "pederstrup": {
+   "accession": "Pederstrup",
+   "ssc": 10.1,
+   "ta": 12.21,
+   "firmness": 7.28,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
+  "pewaukee": {
+   "accession": "Pewaukee",
+   "ssc": 12.4,
+   "ta": 9.38,
+   "firmness": 10.14,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
    "stage": "harvest"
   },
   "pink-pearl": {
@@ -1627,6 +2978,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "potts-seedling": {
+   "accession": "Pott's Seedling",
+   "ssc": 12.3,
+   "ta": 8.33,
+   "firmness": 7.87,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.9,
+    "ta": 5.92,
+    "firmness": 4.76,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "prairie-spy": {
    "accession": "Prairie Spy",
    "ssc": 11.8,
@@ -1643,6 +3011,34 @@
     "firmness": null,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "priam": {
+   "accession": "Priam",
+   "ssc": 12.2,
+   "ta": 7.71,
+   "firmness": 7.92,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.0,
+    "ta": 4.9,
+    "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "primate": {
+   "accession": "Primate",
+   "ssc": 11.9,
+   "ta": 6.64,
+   "firmness": 5.43,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "priscilla": {
    "accession": "Priscilla",
@@ -1677,6 +3073,34 @@
     "firmness": null,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "pumpkin-sweet": {
+   "accession": "Pumpkin Sweet",
+   "ssc": 11.6,
+   "ta": 1.5,
+   "firmness": 7.31,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.4,
+    "ta": 0.96,
+    "firmness": 5.05,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "quinte": {
+   "accession": "Quinte",
+   "ssc": 9.6,
+   "ta": null,
+   "firmness": 4.23,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
   },
   "red-astrachan": {
    "accession": "Red Astrachan",
@@ -1763,6 +3187,51 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "redgold": {
+   "accession": "Redgold",
+   "ssc": 12.8,
+   "ta": 3.5,
+   "firmness": 7.44,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.5,
+    "ta": 1.97,
+    "firmness": 5.59,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "redwell": {
+   "accession": "Redwell",
+   "ssc": 12.4,
+   "ta": 6.74,
+   "firmness": 6.68,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.0,
+    "ta": 5.09,
+    "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "regent": {
+   "accession": "Regent",
+   "ssc": 11.9,
+   "ta": 6.8,
+   "firmness": 7.38,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
+  },
   "reinette-grise-du-canada": {
    "accession": "Canada Grise",
    "ssc": 12.7,
@@ -1779,6 +3248,17 @@
     "firmness": 3.82,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "renown": {
+   "accession": "Renown",
+   "ssc": 11.1,
+   "ta": 3.51,
+   "firmness": 6.65,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest"
   },
   "rhode-island-greening": {
    "accession": "Rhode Island Greening",
@@ -1824,6 +3304,40 @@
    "years": "2016",
    "match": "exact",
    "stage": "harvest"
+  },
+  "roter-eiserapfel": {
+   "accession": "Roter Eiserapfel",
+   "ssc": 10.8,
+   "ta": 8.6,
+   "firmness": 9.79,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.7,
+    "ta": 8.38,
+    "firmness": 5.84,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "rouville": {
+   "accession": "Rouville",
+   "ssc": 12.4,
+   "ta": 4.97,
+   "firmness": 5.61,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.8,
+    "ta": 3.12,
+    "firmness": 2.96,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
   },
   "roxbury-russet": {
    "accession": "Roxbury Russet",
@@ -1876,6 +3390,23 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "sharon": {
+   "accession": "Sharon",
+   "ssc": 11.3,
+   "ta": 4.96,
+   "firmness": 8.43,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 11.2,
+    "ta": 2.43,
+    "firmness": 5.27,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "sheepnose": {
    "accession": "Black Gilliflower; Crow Egg",
    "ssc": 12.3,
@@ -1919,6 +3450,39 @@
    "years": "2017",
    "match": "exact",
    "stage": "harvest"
+  },
+  "sinta": {
+   "accession": "Sinta",
+   "ssc": 12.8,
+   "ta": 6.0,
+   "firmness": 6.73,
+   "firmness_units": "kg/cm2",
+   "n": 2,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.4,
+    "ta": 5.05,
+    "firmness": 4.38,
+    "note": "after 3 months of cold storage, unadjusted"
+   },
+   "per_accession": [
+    {
+     "accession": "Sinta",
+     "id": "1239",
+     "ssc": 12.6,
+     "ta": 6.47,
+     "firmness": 7.03
+    },
+    {
+     "accession": "Sinta",
+     "id": "1238",
+     "ssc": 13.0,
+     "ta": 5.53,
+     "firmness": 6.44
+    }
+   ]
   },
   "sir-prize": {
    "accession": "Sir Prize",
@@ -1988,6 +3552,56 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "summerred": {
+   "accession": "Summerred",
+   "ssc": 11.6,
+   "ta": 8.41,
+   "firmness": 6.27,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.4,
+    "ta": 6.02,
+    "firmness": 3.68,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "sundance": {
+   "accession": "Co-op 29; Sundance",
+   "ssc": 11.6,
+   "ta": 5.73,
+   "firmness": 9.3,
+   "firmness_units": "kg/cm2",
+   "n": 2,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 12.2,
+    "ta": 4.26,
+    "firmness": 5.86,
+    "note": "after 3 months of cold storage, unadjusted"
+   },
+   "per_accession": [
+    {
+     "accession": "Co-op 29",
+     "id": "15",
+     "ssc": 10.8,
+     "ta": 6.84,
+     "firmness": 9.47
+    },
+    {
+     "accession": "Sundance",
+     "id": "1153",
+     "ssc": 12.4,
+     "ta": 4.62,
+     "firmness": 9.13
+    }
+   ]
+  },
   "sunrise": {
    "accession": "Sunrise",
    "ssc": 12.2,
@@ -2039,6 +3653,57 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "surprise": {
+   "accession": "Surprise",
+   "ssc": 10.7,
+   "ta": 7.61,
+   "firmness": 8.1,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 10.3,
+    "ta": 6.0,
+    "firmness": 4.61,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "sweet-delicious": {
+   "accession": "Sweet Delicious",
+   "ssc": 13.1,
+   "ta": 1.28,
+   "firmness": 6.8,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 15.2,
+    "ta": null,
+    "firmness": 4.88,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "sweet-winesap": {
+   "accession": "Hendrick Sweet",
+   "ssc": 13.0,
+   "ta": 1.91,
+   "firmness": 8.06,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 13.8,
+    "ta": 1.55,
+    "firmness": null,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
   "sweetango": {
    "accession": "SweeTango",
    "ssc": 12.8,
@@ -2055,6 +3720,17 @@
     "firmness": 6.63,
     "note": "after 3 months of cold storage, unadjusted"
    }
+  },
+  "sylvia": {
+   "accession": "Sylvia",
+   "ssc": 11.0,
+   "ta": 5.73,
+   "firmness": 4.13,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "exact",
+   "stage": "harvest"
   },
   "tom-putt": {
    "accession": "Tom Putt",
@@ -2138,6 +3814,23 @@
     "ssc": 13.6,
     "ta": 2.3,
     "firmness": 4.71,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "tumanga": {
+   "accession": "Auralia",
+   "ssc": 13.2,
+   "ta": 6.7,
+   "firmness": 7.35,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016-2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 14.6,
+    "ta": 6.38,
+    "firmness": 5.31,
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
@@ -2226,6 +3919,17 @@
     "note": "after 3 months of cold storage, unadjusted"
    }
   },
+  "williams-favourite": {
+   "accession": "Williams",
+   "ssc": 11.6,
+   "ta": 8.62,
+   "firmness": 7.25,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest"
+  },
   "winter-banana": {
    "accession": "Winter Banana",
    "ssc": 11.9,
@@ -2285,6 +3989,23 @@
     "ssc": 13.4,
     "ta": 3.97,
     "firmness": 5.45,
+    "note": "after 3 months of cold storage, unadjusted"
+   }
+  },
+  "zoete-ermgaard": {
+   "accession": "Zoete Ermgaard",
+   "ssc": 14.7,
+   "ta": 1.32,
+   "firmness": 9.55,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2016",
+   "match": "exact",
+   "stage": "harvest",
+   "storage": {
+    "ssc": 15.6,
+    "ta": 1.53,
+    "firmness": 7.44,
     "note": "after 3 months of cold storage, unadjusted"
    }
   }

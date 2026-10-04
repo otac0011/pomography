@@ -1,4 +1,48 @@
 {
+ "maiden-blush": [
+  {
+   "line": 11984,
+   "page": 130,
+   "score": 3.8,
+   "key": "MAIDENS BLUSH",
+   "text": "MAIDEN'S  BLUSH. — Fruit,  large,  three  inches  and  a  quarter  wide,"
+  },
+  {
+   "line": 513,
+   "page": null,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  the  fruit  is  not  on  that  account  to  be  classed  in  the  coloured"
+  },
+  {
+   "line": 1246,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's  Blush,  Sep. — Oct."
+  },
+  {
+   "line": 7668,
+   "page": 42,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek.  Eye,  large  and  open,  with  broad,  reflexed  segments,  set"
+  },
+  {
+   "line": 16663,
+   "page": 130,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  on  the  side  next  the  sun,  the  surface  sprinkled  with  russet"
+  },
+  {
+   "line": 48037,
+   "page": 130,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  on  one  side,  and  strewed  with  a  few  dots.  Stalk,  about  half"
+  }
+ ],
  "sops-in-wine": [
   {
    "line": 16494,
@@ -133,6 +177,50 @@
    "text": "Hawthornden,  with  which  it  is  very  frequently  confounded,  an  error"
   }
  ],
+ "frogmore-prolific": [
+  {
+   "line": 8764,
+   "page": 76,
+   "score": 3.8,
+   "key": "FROGMORE PROLIFIC",
+   "text": "FROGMORE  PROLIFIC— Fruit,  large,  three  inches  and  a  half"
+  },
+  {
+   "line": 20245,
+   "page": 130,
+   "score": 3.5,
+   "key": "FROGMORE",
+   "text": "FROGMORE  EARLY.— Fruit,  small,  two  inches  wide,  and  an  inch"
+  },
+  {
+   "line": 8735,
+   "page": 76,
+   "score": 3.0,
+   "key": "FROGMORE",
+   "text": "FROGMORE  GOLDEN  PIPPIN.— Fruit,  small,  two  inches  wide,"
+  },
+  {
+   "line": 8749,
+   "page": 76,
+   "score": 3.0,
+   "key": "FROGMORE",
+   "text": "FROGMORE  NONPAREIL.— Fruit,  small,  two  inches  and  a  half"
+  },
+  {
+   "line": 32369,
+   "page": 130,
+   "score": 3.0,
+   "key": "FROGMORE",
+   "text": "FROGMORE  GOLDEN.— This  is  one  of  the  yellow-fleshed,  or"
+  },
+  {
+   "line": 50990,
+   "page": 130,
+   "score": 3.0,
+   "key": "FROGMORE",
+   "text": "FROGMORE  LATE  PINE.— Fruit, very  large;  conical,  and  cocks-"
+  }
+ ],
  "london-pippin": [
   {
    "line": 15690,
@@ -219,14 +307,14 @@
    "line": 1200,
    "page": null,
    "score": 1.3,
-   "key": "ST EDMUNDS",
+   "key": "ST EDMUNDS PIPPIN",
    "text": "St,  Edmund's  Pippin,  Oct."
   },
   {
    "line": 2167,
    "page": null,
    "score": 1.3,
-   "key": "ST EDMUNDS",
+   "key": "ST EDMUNDS PIPPIN",
    "text": "St.  Edmund's  Pippin,  Oct."
   }
  ],
@@ -332,6 +420,50 @@
    "score": 1.3,
    "key": "MOTHER APPLE",
    "text": "Mother  Apple.  See  American  Mother,  Cornish  Mother,  Oslin,  and"
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 6176,
+   "page": 32,
+   "score": 3.8,
+   "key": "CARAWAY RUSSET",
+   "text": "CARAWAY  RUSSET. — Fruit,  below  medium  size  ;  two  inches  and"
+  },
+  {
+   "line": 8296,
+   "page": 76,
+   "score": 3.5,
+   "key": "FENOUILLET",
+   "text": "FENOUILLET  JAUNE.— Fruit,  small,  two  inches  and  a  quarter"
+  },
+  {
+   "line": 1292,
+   "page": null,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet,  Nov. — Feb."
+  },
+  {
+   "line": 1765,
+   "page": null,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet,  Nov. — Feb."
+  },
+  {
+   "line": 19536,
+   "page": 130,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet"
+  },
+  {
+   "line": 5774,
+   "page": 32,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Jaune,  on  the  bhaded  side,  and  over  the  base  ;  but  green,"
   }
  ],
  "sam-young": [
@@ -443,6 +575,50 @@
    "score": 1.3,
    "key": "ASHMEADS KERNEL",
    "text": "Ashmead's  Kernel"
+  }
+ ],
+ "dutch-mignonne": [
+  {
+   "line": 9735,
+   "page": 94,
+   "score": 3.8,
+   "key": "GROSSE CASSELER REINETTE",
+   "text": "GROSSE  CASSELER  REINETTE.— Fruit,  small,  two  inches"
+  },
+  {
+   "line": 7742,
+   "page": 42,
+   "score": 3.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "DUTCH  MIGNONNE  {Christ's  Golden  lieinette ;  Copmanthorpe"
+  },
+  {
+   "line": 43081,
+   "page": 130,
+   "score": 1.5,
+   "key": "PATERNOSTER",
+   "text": "Paternoster.     See  Vicar  of  Winkjield."
+  },
+  {
+   "line": 1365,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne,  Dec. — May."
+  },
+  {
+   "line": 6429,
+   "page": 42,
+   "score": 1.3,
+   "key": "CHRISTS GOLDEN REINETTE",
+   "text": "Christ's  Golden  Reinette,     See  Dutch  Migjionne."
+  },
+  {
+   "line": 15100,
+   "page": 130,
+   "score": 1.3,
+   "key": "REINETTE DE CAUX",
+   "text": "Reinette  de  Caux.     See  Dutch  Mignonne."
   }
  ],
  "early-harvest": [
@@ -748,6 +924,43 @@
    "text": "Kentish  Fill  Basket"
   }
  ],
+ "brabant-bellefleur": [
+  {
+   "line": 5470,
+   "page": 16,
+   "score": 3.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "BRABANT  BELLEFLEUR  {Glory  of  Flanders;  Iron  Apple).—"
+  },
+  {
+   "line": 1457,
+   "page": null,
+   "score": 1.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant  Bellefleur,  Nov. — Apr."
+  },
+  {
+   "line": 18845,
+   "page": 130,
+   "score": 1.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant  Bellefleur"
+  },
+  {
+   "line": 19303,
+   "page": 130,
+   "score": 1.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant  Bellefleur"
+  },
+  {
+   "line": 19759,
+   "page": 130,
+   "score": 1.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant  Bellefleur"
+  }
+ ],
  "melrose": [
   {
    "line": 1508,
@@ -790,6 +1003,73 @@
    "score": 1.0,
    "key": "MELROSE",
    "text": "MELROSE  (White  Melrose). — Fruit,  large,  three  inches  and  a"
+  }
+ ],
+ "lucombes-seedling": [
+  {
+   "line": 11902,
+   "page": 130,
+   "score": 3.8,
+   "key": "LUCOMBES SEEDLING",
+   "text": "LUCOMBE'S  SEEDLING.— Fruit,  large,  three  mches  and  a  half"
+  },
+  {
+   "line": 11880,
+   "page": 130,
+   "score": 3.0,
+   "key": "LUCOMBES",
+   "text": "LUCOMBE'S  PINE  APPLE  (Pine  AjipJe ;  Pine  Apple  Pippin).—"
+  },
+  {
+   "line": 48753,
+   "page": 130,
+   "score": 3.0,
+   "key": "LUCOMBES",
+   "text": "LUCOMBE'S  NONESUCH.— Fruit,  above  medium  size;  round,"
+  },
+  {
+   "line": 1532,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling,  Oct. — Feb."
+  },
+  {
+   "line": 2624,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling,  Oct. — Dec."
+  },
+  {
+   "line": 30682,
+   "page": 130,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling.     See  Early  Newington."
+  }
+ ],
+ "baumanns-reinette": [
+  {
+   "line": 4744,
+   "page": 16,
+   "score": 3.8,
+   "key": "BAUMANNS REINETTE",
+   "text": "BAUMANN'S  REINETTE.— Fruit,  two  inches  and  a  quarter  wide,"
+  },
+  {
+   "line": 1554,
+   "page": null,
+   "score": 1.3,
+   "key": "BAUMANNS REINETTE",
+   "text": "Baumann's  Reinette,  Nov."
+  },
+  {
+   "line": 15017,
+   "page": 130,
+   "score": 1.3,
+   "key": "REINETTE BAUMANN",
+   "text": "Reinette  Baumann.     See  Baumann's  Reinette."
   }
  ],
  "nonpareil": [
@@ -993,6 +1273,59 @@
    "text": "Northern  Spy"
   }
  ],
+ "reinette-rouge-etoilee": [
+  {
+   "line": 1752,
+   "page": null,
+   "score": 1.3,
+   "key": "EARLY RED CALVILLE",
+   "text": "Early  Red  Calville,  Oct.— Nov."
+  }
+ ],
+ "detroit-red": [
+  {
+   "line": 7100,
+   "page": 42,
+   "score": 3.0,
+   "key": "CRIMSON",
+   "text": "CRIMSON  QUOINING  {Scarlet  Queening;  Summer  Queening;"
+  },
+  {
+   "line": 31983,
+   "page": 130,
+   "score": 3.0,
+   "key": "CRIMSON",
+   "text": "CRIMSON  GALANDE  (Crimson  Mignonne). — Fruit,  large,  roundish,"
+  },
+  {
+   "line": 50759,
+   "page": 130,
+   "score": 3.0,
+   "key": "CRIMSON",
+   "text": "CRIMSON  CLUSTER. — Fruit,  medium  sized ;  roundish,  and  some-"
+  },
+  {
+   "line": 50770,
+   "page": 130,
+   "score": 3.0,
+   "key": "CRIMSON",
+   "text": "CRIMSON  QUEEN  {Doubledai/s  No.  2).— Fruit,  large  ;  cockscomb-"
+  },
+  {
+   "line": 5224,
+   "page": 16,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  and  streaked  with  darker  crimson,  which  streaks  extend  to"
+  },
+  {
+   "line": 6679,
+   "page": 42,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  on  a  golden  yellow  ground,  and  dotted  with  large  russet  dots,"
+  }
+ ],
  "coxs-orange-pippin": [
   {
    "line": 7054,
@@ -1005,36 +1338,80 @@
    "line": 1792,
    "page": null,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's   Orange   Pippin,   Oct.  —"
   },
   {
    "line": 2875,
    "page": null,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's    Orange    Pippin,   Oct. —"
   },
   {
    "line": 18728,
    "page": 130,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's  Orange  Pippin"
   },
   {
    "line": 19204,
    "page": 130,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's  Orange  Pippin"
   },
   {
    "line": 19460,
    "page": 130,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's  Orange  Pippin"
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 21224,
+   "page": 130,
+   "score": 3.5,
+   "key": "AMERICAN",
+   "text": "AMERICAN  HEART.— Fruit,  above  medium  size,  produced  in"
+  },
+  {
+   "line": 4225,
+   "page": 1,
+   "score": 3.3,
+   "key": "AMERICAN SUMMER PEARMAIN",
+   "text": "AMERICAN  SUMMER  PEARMAIN  {Early  Summer  Pearmain)."
+  },
+  {
+   "line": 17016,
+   "page": 130,
+   "score": 3.3,
+   "key": "SUMMER PEARMAIN",
+   "text": "SUMMER  PEARMAIN  {Autumn  Pearmain).—FTmt,  medium"
+  },
+  {
+   "line": 4186,
+   "page": 1,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  GOLDEN  RUSSET.— Fruit,  about  the  size  of  Golden"
+  },
+  {
+   "line": 4199,
+   "page": 1,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  MOTHER  {Mother  Ajiple ;  Queen  Anne ;  Gardener's"
+  },
+  {
+   "line": 21198,
+   "page": 130,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  AMBER  (Bloodyood's  Amher;  Bloodgood's  Honey ;"
   }
  ],
  "autumn-pearmain": [
@@ -1328,6 +1705,138 @@
    "text": "Cockle's  Pippin"
   }
  ],
+ "alfriston": [
+  {
+   "line": 16179,
+   "page": 130,
+   "score": 3.5,
+   "key": "SHEPHERDS",
+   "text": "SHEPHERD'S  FAME.— Fruit,  large,  three  inches  and  a  quarter"
+  },
+  {
+   "line": 4098,
+   "page": 1,
+   "score": 3.0,
+   "key": "ALFRISTON",
+   "text": "ALFRISTON  {Lord  Gwydijr's  Newtoum  Pippin ;  Oldaker's  New  ;"
+  },
+  {
+   "line": 16194,
+   "page": 130,
+   "score": 3.0,
+   "key": "SHEPHERDS",
+   "text": "SHEPHERD'S  NEWINGTON.— Fruit,  rather  large,  three  inches"
+  },
+  {
+   "line": 2017,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston,  Nov. — Apr."
+  },
+  {
+   "line": 18843,
+   "page": 130,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 19019,
+   "page": 130,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  }
+ ],
+ "cellini": [
+  {
+   "line": 2051,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  },
+  {
+   "line": 2270,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  },
+  {
+   "line": 2548,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  },
+  {
+   "line": 2832,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  },
+  {
+   "line": 3322,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  },
+  {
+   "line": 3660,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini,  Oct.— Nov."
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 9158,
+   "page": 76,
+   "score": 3.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "GOLDEN  PEARMAIN  (English  Golden  Fearmain;  Buchnan's"
+  },
+  {
+   "line": 6435,
+   "page": 42,
+   "score": 3.0,
+   "key": "CLARKES",
+   "text": "CLARKE'S  PIPPIN. — Fruit,  small,  two  inches  and  a  quarter  wide,"
+  },
+  {
+   "line": 8965,
+   "page": 76,
+   "score": 3.0,
+   "key": "GLOUCESTER",
+   "text": "GLOUCESTER  QUOINING.— Fruit,  large,  three  inches  wide,  and"
+  },
+  {
+   "line": 2128,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain,  Nov. — Mar."
+  },
+  {
+   "line": 2277,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain,  Nov. — Dec."
+  },
+  {
+   "line": 3371,
+   "page": null,
+   "score": 1.0,
+   "key": "CLARKES",
+   "text": "Clarke's  Pippin,  Oct. — Dec."
+  }
+ ],
  "braddick-nonpareil": [
   {
    "line": 5490,
@@ -1414,6 +1923,22 @@
    "score": 1.3,
    "key": "WINTER QUOINING",
    "text": "Winter  Quoining,  Nov.— Mar."
+  }
+ ],
+ "red-autumn-calville": [
+  {
+   "line": 6045,
+   "page": 32,
+   "score": 3.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "CALVILLE   ROUGE   D'AUTOMNE   {Autumn  Calville;    Autumn"
+  },
+  {
+   "line": 2163,
+   "page": null,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "Calville  Rouge  d'Automne,  Oct."
   }
  ],
  "emperor-alexander": [
@@ -2043,6 +2568,50 @@
    "text": "Ribston  Pippin,  Nov.— Mar."
   }
  ],
+ "gloria-mundi": [
+  {
+   "line": 8887,
+   "page": 76,
+   "score": 3.3,
+   "key": "GLORIA MUNDI",
+   "text": "GLORIA  MUNDI  {Baltimore;  Belle    Dubois;  Glazenwood  Gloria"
+  },
+  {
+   "line": 2373,
+   "page": null,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi,  Oct. — Jan."
+  },
+  {
+   "line": 3411,
+   "page": null,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi,  Oct. — Dec."
+  },
+  {
+   "line": 12566,
+   "page": 130,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin.     See  Gloria  Mundi."
+  },
+  {
+   "line": 13613,
+   "page": 130,
+   "score": 1.3,
+   "key": "OX APPLE",
+   "text": "Ox  Apple.     See  Gloria  Mundi."
+  },
+  {
+   "line": 18767,
+   "page": 130,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi"
+  }
+ ],
  "lady-henniker": [
   {
    "line": 2374,
@@ -2279,6 +2848,50 @@
    "score": 1.3,
    "key": "AMERICAN MOTHER",
    "text": "American  Mother"
+  }
+ ],
+ "golden-harvey": [
+  {
+   "line": 9051,
+   "page": 76,
+   "score": 3.3,
+   "key": "GOLDEN HARVEY",
+   "text": "GOLDEN  HARVEY  (Brandy  Apple;  Round  Russet  Harveij).—"
+  },
+  {
+   "line": 9754,
+   "page": 94,
+   "score": 3.3,
+   "key": "GUERNSEY PIPPIN",
+   "text": "GUERNSEY  PIPPIN  (Hammond's  Guernsey  Pippin).— Fruit,"
+  },
+  {
+   "line": 2551,
+   "page": null,
+   "score": 1.3,
+   "key": "GUERNSEY PIPPIN",
+   "text": "Guernsey  Pippin,  Dec. — Feb."
+  },
+  {
+   "line": 2846,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden  Harvey,  Dec. — May."
+  },
+  {
+   "line": 5534,
+   "page": 16,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple.     See  Golden  Harvey."
+  },
+  {
+   "line": 15549,
+   "page": 130,
+   "score": 1.3,
+   "key": "ROUND RUSSET HARVEY",
+   "text": "Round  Russet  Harvey.     See  Golden  Harvey."
   }
  ],
  "bramleys-seedling": [
@@ -2542,6 +3155,29 @@
    "text": "Wheeler's  Russet"
   }
  ],
+ "hangdown": [
+  {
+   "line": 9877,
+   "page": 94,
+   "score": 3.5,
+   "key": "HANGDOWN",
+   "text": "HANGDOWN. — Fruit,  medium  sized,  two  inches  and  five-eighths"
+  },
+  {
+   "line": 2753,
+   "page": null,
+   "score": 1.5,
+   "key": "HANGDOWN",
+   "text": "Hangdown,  Nov. — Feb."
+  },
+  {
+   "line": 19894,
+   "page": 130,
+   "score": 1.5,
+   "key": "HANGDOWN",
+   "text": "Hangdown — A.  small  yellow  apple"
+  }
+ ],
  "catshead": [
   {
    "line": 6244,
@@ -2563,6 +3199,50 @@
    "score": 1.5,
    "key": "CATSHEAD",
    "text": "Catshead"
+  }
+ ],
+ "edelborsdorfer": [
+  {
+   "line": 2818,
+   "page": null,
+   "score": 1.5,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer,  Nov. — Jan."
+  },
+  {
+   "line": 18723,
+   "page": 130,
+   "score": 1.5,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer"
+  },
+  {
+   "line": 18920,
+   "page": 130,
+   "score": 1.5,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer"
+  },
+  {
+   "line": 19481,
+   "page": 130,
+   "score": 1.5,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer"
+  },
+  {
+   "line": 14642,
+   "page": 130,
+   "score": 1.3,
+   "key": "QUEENS APPLE",
+   "text": "Queen's  Apple.     See  Borsdurfer,"
+  },
+  {
+   "line": 15058,
+   "page": 130,
+   "score": 1.3,
+   "key": "REINETTE DALLEMAGNE",
+   "text": "Reinette  d'Allemagne.    See  Borsdorfer."
   }
  ],
  "blenheim-orange": [
@@ -2639,6 +3319,43 @@
    "text": "Scarlet  Incomparable.     See  Duchess's  Favourite."
   }
  ],
+ "pine-golden-pippin": [
+  {
+   "line": 14148,
+   "page": 130,
+   "score": 3.8,
+   "key": "PINE GOLDEN PIPPIN",
+   "text": "PINE  GOLDEN  PIPPIN.— Fruit,  small,  two  inches  wide,  and  an"
+  },
+  {
+   "line": 2843,
+   "page": null,
+   "score": 1.3,
+   "key": "PINE GOLDEN PIPPIN",
+   "text": "Pine  Golden  Pippin,  Oct. — Nov."
+  },
+  {
+   "line": 18745,
+   "page": 130,
+   "score": 1.3,
+   "key": "PINE GOLDEN PIPPIN",
+   "text": "Pine  Golden  Pippin"
+  },
+  {
+   "line": 19267,
+   "page": 130,
+   "score": 1.3,
+   "key": "PINE GOLDEN PIPPIN",
+   "text": "Pine  Golden  Pippin"
+  },
+  {
+   "line": 19431,
+   "page": 130,
+   "score": 1.3,
+   "key": "PINE GOLDEN PIPPIN",
+   "text": "Pine  Golden  Pippin"
+  }
+ ],
  "ross-nonpareil": [
   {
    "line": 15495,
@@ -2711,6 +3428,50 @@
    "score": 1.3,
    "key": "LEMON PIPPIN",
    "text": "Lemon  Pippin"
+  }
+ ],
+ "manningtons-pearmain": [
+  {
+   "line": 12063,
+   "page": 130,
+   "score": 3.8,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "MANNINGTON'S  PEARMAIN.— Fruit,  below  medium  size,  two"
+  },
+  {
+   "line": 2961,
+   "page": null,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's   Pearmain,  Nov."
+  },
+  {
+   "line": 3763,
+   "page": null,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's  Pearmain,  Oct.-"
+  },
+  {
+   "line": 12106,
+   "page": 130,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "\"  Mannington's  Pearmain.\""
+  },
+  {
+   "line": 18817,
+   "page": 130,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's  Pearmain"
+  },
+  {
+   "line": 19247,
+   "page": 130,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's  Pearmain"
   }
  ],
  "jonathan": [
@@ -2886,6 +3647,45 @@
    "text": "Boston  Russet"
   }
  ],
+ "potts-seedling": [
+  {
+   "line": 7231,
+   "page": 42,
+   "score": 3.8,
+   "key": "DEANS CODLIN",
+   "text": "DEANS'  CODLIN. — Fruit,  very  large,  three  inches  and  a  quarter"
+  },
+  {
+   "line": 3145,
+   "page": null,
+   "score": 1.3,
+   "key": "DEANS CODLIN",
+   "text": "Deans'  Codlin,  Nov. — Feb."
+  }
+ ],
+ "woodcock": [
+  {
+   "line": 18455,
+   "page": 130,
+   "score": 3.5,
+   "key": "WOODCOCK",
+   "text": "WOODCOCK.  —Fruit,  medium  sized ;  of  an  oval  shape,  tapering  a"
+  },
+  {
+   "line": 3269,
+   "page": null,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock,  Oct. — Dec."
+  },
+  {
+   "line": 18479,
+   "page": 130,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock.     See  Green  Woodcock,"
+  }
+ ],
  "dumelows-seedling": [
   {
    "line": 7664,
@@ -3050,6 +3850,66 @@
    "text": "Prince  Bismark,  Oct. — Jan."
   }
  ],
+ "chenango": [
+  {
+   "line": 16780,
+   "page": 130,
+   "score": 3.0,
+   "key": "STRAWBERRY",
+   "text": "STRAWBERRY  NORMAN.— Fruit,  small,  two  inches  and  a"
+  },
+  {
+   "line": 29769,
+   "page": 130,
+   "score": 3.0,
+   "key": "STRAWBERRY",
+   "text": "STRAWBERRY  {Raisin  Framboisier). — Bunches,  small  and  well"
+  },
+  {
+   "line": 3661,
+   "page": null,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  Norman,  Oct. — Dec."
+  },
+  {
+   "line": 19844,
+   "page": 130,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  Norman"
+  },
+  {
+   "line": 51535,
+   "page": 130,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "strawberry  in  cultivation."
+  }
+ ],
+ "baxters-pearmain": [
+  {
+   "line": 4762,
+   "page": 16,
+   "score": 3.8,
+   "key": "BAXTERS PEARMAIN",
+   "text": "BAXTER'S  PEARMAIN.— Fruit,  medium  sized,  two  inches  and  a"
+  },
+  {
+   "line": 3670,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter's  Pearmain,  Nov. — Mar."
+  },
+  {
+   "line": 19745,
+   "page": 130,
+   "score": 1.0,
+   "key": "BAXTERS",
+   "text": "Baxter's  Pear  main"
+  }
+ ],
  "lanes-prince-albert": [
   {
    "line": 11387,
@@ -3092,6 +3952,29 @@
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert.     See  Smart's  Prince  Arthur."
+  }
+ ],
+ "american-golden-pippin": [
+  {
+   "line": 4186,
+   "page": 1,
+   "score": 3.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "AMERICAN  GOLDEN  RUSSET.— Fruit,  about  the  size  of  Golden"
+  },
+  {
+   "line": 9018,
+   "page": 76,
+   "score": 1.3,
+   "key": "GOLDEN APPLE",
+   "text": "Golden  Apple.     See  OsUn."
+  },
+  {
+   "line": 19443,
+   "page": 130,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  Russet"
   }
  ],
  "aromatic-russet": [
@@ -3205,6 +4088,29 @@
    "text": "Christmas."
   }
  ],
+ "reinette-du-canada": [
+  {
+   "line": 6157,
+   "page": 32,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette.     See  Reinette  de  Canada."
+  },
+  {
+   "line": 19354,
+   "page": 130,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada"
+  },
+  {
+   "line": 19765,
+   "page": 130,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada"
+  }
+ ],
  "caroline": [
   {
    "line": 6214,
@@ -3240,6 +4146,22 @@
    "score": 1.0,
    "key": "CAROLINE",
    "text": "Caroline  Hogg"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 6542,
+   "page": 42,
+   "score": 3.5,
+   "key": "COCCAGEE",
+   "text": "COCCAGEE. — Fruit,  medium  sized  ;  ovate.  Skin,  fine  yellow,"
+  },
+  {
+   "line": 19818,
+   "page": 130,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee"
   }
  ],
  "costard": [
@@ -3291,14 +4213,14 @@
    "line": 18801,
    "page": 130,
    "score": 1.3,
-   "key": "COURT PENDU",
+   "key": "COURT PENDU PLAT",
    "text": "Court  Pendu  Plat"
   },
   {
    "line": 19005,
    "page": 130,
    "score": 1.3,
-   "key": "COURT PENDU",
+   "key": "COURT PENDU PLAT",
    "text": "Court  Pendu  Plat"
   }
  ],
@@ -3348,6 +4270,52 @@
    "score": 1.3,
    "key": "DYMOCK RED",
    "text": "Dymock  Red"
+  }
+ ],
+ "sweet-bough": [
+  {
+   "line": 11428,
+   "page": 128,
+   "score": 3.3,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "LARGE  YELLOW  BOUGH  {Larrje  Earhj  Yellow  Bough;  Sweet"
+  },
+  {
+   "line": 7801,
+   "page": 42,
+   "score": 1.3,
+   "key": "EARLY BOUGH",
+   "text": "Early  Bough.     See  Large  Yellow  Bough,"
+  },
+  {
+   "line": 17146,
+   "page": 130,
+   "score": 1.3,
+   "key": "SWEET BOUGH",
+   "text": "Sweet  Bough.     See  Large  Yellow  Bough."
+  },
+  {
+   "line": 19406,
+   "page": 130,
+   "score": 1.3,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "Large  Yellow  Bough"
+  }
+ ],
+ "styre": [
+  {
+   "line": 8464,
+   "page": 76,
+   "score": 3.3,
+   "key": "FOREST STYRE",
+   "text": "FOREST  STYRE  (Stive).— Fruit,  below  medium  size ;  roundish,"
+  },
+  {
+   "line": 19823,
+   "page": 130,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
   }
  ],
  "red-delicious": [
@@ -3463,6 +4431,45 @@
    "text": "Hagloe  Crab"
   }
  ],
+ "holland-pippin": [
+  {
+   "line": 10323,
+   "page": 110,
+   "score": 3.8,
+   "key": "HOLLAND PIPPIN",
+   "text": "HOLLAND  PIPPIN.— Fruit,  large,  three  inches  wide,  and  two"
+  },
+  {
+   "line": 10338,
+   "page": 110,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin  is  a  native  of  the  Holland  district  of  Lincolnshire,  hence  its"
+  },
+  {
+   "line": 19748,
+   "page": 130,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin"
+  },
+  {
+   "line": 41031,
+   "page": 130,
+   "score": 1.0,
+   "key": "HOLLAND",
+   "text": "Holland  Bergamot.     See  Bergamotte  d'Hollande."
+  }
+ ],
+ "jubilee": [
+  {
+   "line": 10882,
+   "page": 116,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "Jubilee  Pippin.     See  Bland's  Jubilee."
+  }
+ ],
  "knobby-russet": [
   {
    "line": 18390,
@@ -3553,6 +4560,36 @@
    "score": 1.3,
    "key": "LORD SUFFIELD",
    "text": "Lord  Suffield"
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 18137,
+   "page": 130,
+   "score": 3.3,
+   "key": "WILLIAMS FAVOURITE",
+   "text": "WILLIAMS'  FAVOURITE  {Willianu'  Early;  Williams'  Red).—"
+  },
+  {
+   "line": 18135,
+   "page": 130,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY",
+   "text": "Williams'  Early.     See  Williams'  Favourite."
+  },
+  {
+   "line": 18149,
+   "page": 130,
+   "score": 1.3,
+   "key": "WILLIAMS RED",
+   "text": "Williams'  Red.     See  Williams'  Favourite."
+  },
+  {
+   "line": 12278,
+   "page": 130,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "\"Williams,  of  Martin- Hussingtree,  near  Worcester,  and  after  producing  fruit,  was"
   }
  ],
  "ralls-janet": [
@@ -3711,6 +4748,15 @@
    "text": "Royal  Wilding"
   }
  ],
+ "taliaferro": [
+  {
+   "line": 15914,
+   "page": 130,
+   "score": 1.5,
+   "key": "ROBERTSON",
+   "text": "Robertson,  the  nurseryman  of  Kilkenny."
+  }
+ ],
  "scotch-bridget": [
   {
    "line": 16040,
@@ -3750,6 +4796,15 @@
    "text": "Siberian  Crab.     See  Cherry  Apple,"
   }
  ],
+ "ortley": [
+  {
+   "line": 17529,
+   "page": 130,
+   "score": 1.3,
+   "key": "VAN DYNE",
+   "text": "Van  Dyne.     See  Woolman's  Long."
+  }
+ ],
  "calville-blanc-dhiver": [
   {
    "line": 18050,
@@ -3757,6 +4812,24 @@
    "score": 1.3,
    "key": "WHITE WINTER CALVILLE",
    "text": "White  Winter  Calville.     See  Cahille  Blanche  iVHiver."
+  }
+ ],
+ "white-winter-pearmain": [
+  {
+   "line": 18050,
+   "page": 130,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter  Calville.     See  Cahille  Blanche  iVHiver."
+  }
+ ],
+ "english-russet": [
+  {
+   "line": 18390,
+   "page": 130,
+   "score": 3.8,
+   "key": "WINTER RUSSET",
+   "text": "WINTER  RUSSET. — Fruit,  about  medium  size,  two  inches  and  a"
   }
  ],
  "lord-grosvenor": [
@@ -3775,6 +4848,24 @@
    "text": "Lord  Grosvenor"
   }
  ],
+ "foxwhelp": [
+  {
+   "line": 19824,
+   "page": 130,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp"
+  }
+ ],
+ "rokewood": [
+  {
+   "line": 21784,
+   "page": 130,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Heart.     See  Ox-Heart*"
+  }
+ ],
  "white-transparent": [
   {
    "line": 23468,
@@ -3782,6 +4873,52 @@
    "score": 1.3,
    "key": "WHITE TRANSPARENT",
    "text": "White  Transparent.     See  White  Heart."
+  }
+ ],
+ "keepsake": [
+  {
+   "line": 25983,
+   "page": 130,
+   "score": 3.0,
+   "key": "KEEPSAKE",
+   "text": "KEEPSAKE  (Banks). — Fruit,  of  medium  length,  a  little  tapered"
+  },
+  {
+   "line": 26882,
+   "page": 130,
+   "score": 1.5,
+   "key": "KEEPSAKE",
+   "text": "Keepsake"
+  },
+  {
+   "line": 25201,
+   "page": 130,
+   "score": 1.0,
+   "key": "KEEPSAKE",
+   "text": "Keepsake  (Banks)"
+  }
+ ],
+ "surprise": [
+  {
+   "line": 26648,
+   "page": 130,
+   "score": 3.0,
+   "key": "SURPRISE",
+   "text": "SURPRISE  (Moscroft).— Fruit,  very  long  and  well-formed.  Skin,"
+  },
+  {
+   "line": 51563,
+   "page": 130,
+   "score": 3.0,
+   "key": "SURPRISE",
+   "text": "SURPRISE  (Myatfs  Surprise). — Fruit,  very  large ;  conical  or"
+  },
+  {
+   "line": 25229,
+   "page": 130,
+   "score": 1.0,
+   "key": "SURPRISE",
+   "text": "Surprise  (Moscroft)"
   }
  ],
  "freedom": [
@@ -3805,6 +4942,63 @@
    "score": 1.0,
    "key": "FREEDOM",
    "text": "FREEDOM  (Moore). — Fruit,  very  long ;  the  two-veined  ones  flat-"
+  }
+ ],
+ "burgundy": [
+  {
+   "line": 27715,
+   "page": 130,
+   "score": 1.5,
+   "key": "BURGUNDY",
+   "text": "Burgundy."
+  },
+  {
+   "line": 28012,
+   "page": 130,
+   "score": 1.5,
+   "key": "BURGUNDY",
+   "text": "Burgundy.     See  Black  Cluster."
+  },
+  {
+   "line": 29782,
+   "page": 130,
+   "score": 1.5,
+   "key": "BURGUNDY",
+   "text": "Burgundy,  and  through  her  it  was  introduced  into  this  country.  This"
+  }
+ ],
+ "champion": [
+  {
+   "line": 28112,
+   "page": 130,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion  Hamburgh.  See  Black  Champion  and  Mill  Hill  Ham-"
+  },
+  {
+   "line": 28115,
+   "page": 130,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion  Hamburgh  Muscat.     See  Muscat  Champion."
+  }
+ ],
+ "golden-orange": [
+  {
+   "line": 30573,
+   "page": 130,
+   "score": 1.3,
+   "key": "GOLDEN ORANGE",
+   "text": "GOLDEN  (Orange). — Fruit,  medium  sized,  roundish  ovate.  Skin,"
+  }
+ ],
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 30718,
+   "page": 130,
+   "score": 1.5,
+   "key": "OLDENBURG",
+   "text": "Oldenburg.    See  Elruge."
   }
  ],
  "early-victoria": [
@@ -3860,6 +5054,38 @@
    "score": 1.3,
    "key": "MEDAILLE DOR",
    "text": "Medaille  d'Or.     See  Frederic  de  Wiirtemberg."
+  }
+ ],
+ "orleans": [
+  {
+   "line": 46835,
+   "page": 130,
+   "score": 1.5,
+   "key": "ORLEANS",
+   "text": "Orleans"
+  },
+  {
+   "line": 48994,
+   "page": 130,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "ORLEANS  [Amjlaise  Noire ;  Monsieur ;  Monsieur  Ordinaire;  Prune"
+  },
+  {
+   "line": 50110,
+   "page": 130,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans  Prince  Engelbeit"
+  }
+ ],
+ "crimson-beauty": [
+  {
+   "line": 48100,
+   "page": 130,
+   "score": 1.3,
+   "key": "EARLY SCARLET",
+   "text": "Early  Scarlet.     See  Chen-y."
   }
  ],
  "magnum-bonum": [

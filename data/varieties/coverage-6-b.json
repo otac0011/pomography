@@ -1,0 +1,541 @@
+[
+  {
+    "id": "elektra",
+    "name": "Elektra",
+    "aka": [],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "DE",
+      "place": "Müncheberg, Brandenburg, Germany",
+      "year": 1930,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Geheimrat Doktor Oldenburg",
+      "raised_by": "Martin Schmidt, Müncheberg research station"
+    },
+    "history": "Bred by Professor Martin Schmidt at the Müncheberg research institute east of Berlin, one of a series of German Cox crosses from the 1930s. It was later distributed in eastern Europe and reached the UK National Fruit Trials in 1977.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 55,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium apple with a dry, slightly rough greenish-yellow skin flushed and dully striped brownish red."
+    },
+    "taste": {
+      "summary": "Firm, fine, juicy yellowish flesh that is sweet with little acidity and a refined, Cox-like aroma. Brogdale's panel found it sweet and well balanced, though less aromatic than Cox.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb from store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous when young, then weak, forming a small broad-conical crown with few, obliquely upright scaffold branches. Flowers only on spurs; tends to crop biennially."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Long flowering period; the blossom is sensitive to frost."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool temperate central and north-west Europe with moderate summers, similar to its Cox parent.",
+      "poor_climates": "Frost-prone sites (tender blossom) and wet sites where canker is rife."
+    },
+    "health": {
+      "scab": null,
+      "canker": 5,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very prone to canker; only slightly susceptible to mildew. Blossom is frost-tender. Fruit bruises little and stores well."
+    },
+    "grow_notes": "Give it a well-drained, sheltered site to limit canker and frost damage, and prune lightly to keep spurs renewed on the small tree.",
+    "conf": "medium"
+  },
+  {
+    "id": "emilia",
+    "name": "Emilia",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "CA",
+      "place": "Central Experimental Farm, Ottawa, Ontario",
+      "year": 1915,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Northern Spy seedling (pollen parent unknown)",
+      "raised_by": "Agriculture Canada (Central Experimental Farm, Ottawa)"
+    },
+    "history": "One of the Ottawa Central Experimental Farm's early Northern Spy seedlings, dated to about 1915 in research-collection records. The UK National Fruit Trials received it from Ottawa in 1927.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium to large, tall conical apple streaked with red over a pale whitish-yellow to greenish ground."
+    },
+    "taste": {
+      "summary": "Crisp but rather coarse, tender cream flesh with a sweet, aromatic, Spy-like flavour; Brogdale's tasting panel found acidity low and aroma modest.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Productive but strongly biennial."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Flowers fairly late at Brogdale (around 10 May), as befits a Northern Spy seedling."
+    },
+    "season": {
+      "harvest": "late Sep-mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold continental climates such as eastern Ontario and the US north-east.",
+      "poor_climates": "Not documented; late flowering helps it escape spring frosts (inferred from flowering date)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found; strong biennial bearing is the main recorded fault."
+    },
+    "grow_notes": "A collection apple; thin heavily in the 'on' year to temper biennial cropping. Harvest timing is poorly documented: Brogdale gives mid September for ripening but picked in mid October, and USDA Geneva lists it as late.",
+    "conf": "low"
+  },
+  {
+    "id": "exeter-cross",
+    "name": "Exeter Cross",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Long Ashton Research Station, Bristol, England",
+      "year": 1924,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Worcester Pearmain x Beauty of Bath",
+      "raised_by": "G.T. Spinks, Long Ashton Research Station"
+    },
+    "history": "Raised in 1924 by G.T. Spinks at Long Ashton, Bristol, and named in 1953, it was intended as an improved early apple combining Worcester and Beauty of Bath. It is a parent of Redsleeves.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Small, flat, slightly ribbed apple flushed and striped scarlet over a pale greenish-yellow ground."
+    },
+    "taste": {
+      "summary": "Firm and crisp when freshly picked, juicy and sweet with a light, refreshing, moderately aromatic flavour; Orange Pippin notes a sharp edge. It softens and goes over quickly, and Brogdale's panel scored it low on crunch and juice.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous, upright, tip-bearing tree; prune lightly and renew fruiting shoots rather than spurring back hard."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "early Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, moist English conditions like those of its Bristol birthplace.",
+      "poor_climates": "Hot summers would make an already short-lived early apple go mealy faster (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found. Fruit keeps only days."
+    },
+    "grow_notes": "Treat as a garden early apple to eat from the tree in August. Being tip-bearing it suits an open-centre bush rather than cordons.",
+    "conf": "medium"
+  },
+  {
+    "id": "fallawater",
+    "name": "Fallawater",
+    "aka": ["Tulpehocken", "Fallenwalder", "Brubacker", "Molly Whopper"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "US",
+      "place": "Pennsylvania (Bucks County according to the National Apple Register)",
+      "year": 1842,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Introduced by a Mr Garber of Columbia, Pennsylvania"
+    },
+    "history": "A Pennsylvania German farm apple described by 1842 and spread by a Mr Garber of Columbia, Pennsylvania; it collected many local names, including Tulpehocken. It was valued as a huge, productive sauce and drying apple through the Mid-Atlantic states.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 1,
+      "description": "Very large, broad green apple, ripening to yellowish green, with dull red stripes or flush and russet dots; sometimes over 15 cm across."
+    },
+    "taste": {
+      "summary": "Firm, coarse, crisp greenish-white flesh with a mild subacid to gently sweet flavour. Best for sauce, pies and drying; USDA Geneva rates it only poor to fair for eating fresh.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Very productive spur-bearer."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "No flowering data found."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Long, warm summers of the eastern US Mid-Atlantic region, where it ripens very late.",
+      "poor_climates": "Short or cool seasons; at Geneva, New York it ripens only in early November, so it would struggle to mature in cool maritime climates (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found."
+    },
+    "grow_notes": "A big kitchen apple for warm-summer areas. Give it a long season and a sunny site, and pick last of all.",
+    "conf": "medium"
+  },
+  {
+    "id": "flamenco",
+    "name": "Flamenco",
+    "aka": ["Obelisk", "Ballerina Flamenco"],
+    "uses": ["dessert", "ornamental"],
+    "origin": {
+      "country": "GB",
+      "place": "East Malling Research Station, Kent, England",
+      "year": 1970,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "(Cox's Orange Pippin x Court Pendu Plat) x Wijcik McIntosh",
+      "raised_by": "East Malling Research Station"
+    },
+    "history": "Raised in 1970 at East Malling as part of the 'Ballerina' columnar apple series, which takes its single-stem habit from Wijcik, a compact sport of McIntosh. It is sold as Flamenco and registered at Brogdale as Obelisk.",
+    "look": {
+      "size": null,
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Red dessert apple borne close against a single upright stem."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and rather brisk when picked, mellowing by the New Year according to Brogdale; Orange Pippin rates the flavour as average and on the sharp side.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Oct-Jan; sharper early, mellower after store"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "columnar",
+      "bearing": "spur",
+      "cropping": "light",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Narrow columnar tree that fruits on short spurs along a single stem; suits pots and small gardens. Brogdale notes a tendency to biennial bearing; Orange Pippin rates cropping light."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 per Orange Pippin; Brogdale records quite early flowering (end of April)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool temperate climates (Orange Pippin lists cold to cool summers).",
+      "poor_climates": "Warm-summer areas are not recommended by Orange Pippin; poor disease resistance is a drawback in humid climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Orange Pippin rates its overall disease resistance as poor. Sources disagree on keeping: Brogdale says it mellows into the New Year, Orange Pippin gives 2-3 weeks."
+    },
+    "grow_notes": "Ideal for a patio container or narrow border; needs no shaping beyond removing any strong side shoots. Feed and water container trees well and supply a group 3 pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "frogmore-prolific",
+    "name": "Frogmore Prolific",
+    "aka": ["Frogmore"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "GB",
+      "place": "The Royal Gardens, Frogmore, Windsor, England",
+      "year": 1865,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": "Possibly a Hawthornden seedling (Wikipedia list)",
+      "raised_by": "Mr Ingram, gardener at Frogmore"
+    },
+    "history": "Raised around 1865 by Mr Ingram in the Royal Gardens at Frogmore, Windsor, as a heavy-cropping early cooking apple. It is now rarely grown.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": null,
+      "description": "Large, broad, truncated-conical greenish-yellow cooker streaked and lightly flushed with red."
+    },
+    "taste": {
+      "summary": "Soft, fine-textured white flesh, acid and only moderately juicy, with little distinctive flavour according to Brogdale; a plain early cooking apple.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": ["sharp"],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov for cooking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "USDA Geneva describes a weak, upright-spreading tree."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Southern English garden conditions.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found."
+    },
+    "grow_notes": "A historic Victorian kitchen-garden cooker; grow on a vigorous rootstock because the tree itself is weak.",
+    "conf": "medium"
+  },
+  {
+    "id": "gewurzluiken",
+    "name": "Gewürzluiken",
+    "aka": ["Gewürzluike", "Gewürzluikenapfel"],
+    "uses": ["dessert", "culinary", "juice"],
+    "origin": {
+      "country": "DE",
+      "place": "Probably northern Württemberg, Germany",
+      "year": 1885,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, parentage unknown",
+      "raised_by": null
+    },
+    "history": "A chance seedling, probably from northern Württemberg, spread widely through the region from about 1885 and became one of its most planted apples alongside the Luikenapfel, with which it is often confused. It is used both as a table apple and for Most (cider/juice).",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium to large apple almost covered in strong carmine to dark red, striped brownish red, over a yellow ground, with some russet."
+    },
+    "taste": {
+      "summary": "Very juicy, firm white to greenish flesh with a tart, faintly spicy flavour (the name means 'spice Luiken'); Brogdale and USDA Geneva describe it as sweet and subacid. Fruit from cold sites stays poorly coloured and tastes grassy.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": ["sharp", "spice"],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar from store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Wood is susceptible to winter frost damage; plant only in warm sites."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Flowers fairly late at Brogdale (around 11 May)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sheltered sites in south-west German valleys with long autumns.",
+      "poor_climates": "Cold, high or frosty sites: the wood suffers winter frost damage and the fruit fails to colour or ripen, tasting grassy."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to winter wood-frost damage."
+    },
+    "grow_notes": "Choose a warm, sunny position with a long season; it needs time to colour and develop flavour. Store the fruit until winter before eating.",
+    "conf": "medium"
+  }
+]

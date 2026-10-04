@@ -1,0 +1,618 @@
+[
+ {
+  "id": "pederstrup",
+  "name": "Pederstrup",
+  "aka": ["Pederstrup Reinette", "Pommerske", "Stettiner"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "DK",
+   "place": "Funen (Fyn), Denmark",
+   "year": 1858,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old Danish apple known on Funen by 1858; the National Fruit Collection notes it may have come from Denmark or Germany. It was widely planted in Denmark, mainly as a household cooking apple, but is rare in Sweden.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": 1,
+   "description": "Flattish green-yellow apple with greyish-red to carmine stripes over part of the skin."
+  },
+  "taste": {
+   "summary": "Fairly crisp, tender, greenish-white flesh with only a slight sweetness and a mild acidity; used mostly in the kitchen.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": null,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Fruit is easily blown down by wind (Swedish Wikipedia)."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 10 May, so group 3 is inferred. Self-fertility not recorded."
+  },
+  "season": {
+   "harvest": "late Sep-early Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool Baltic and North Sea climates such as Denmark and southern Sweden.",
+   "poor_climates": "Windy sites cause fruit drop; hot summers are untested."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found. Prone to windfall before harvest."
+  },
+  "grow_notes": "A Danish kitchen apple for cool northern gardens. Plant in a sheltered spot because the fruit drops easily in wind.",
+  "conf": "low"
+ },
+ {
+  "id": "pewaukee",
+  "name": "Pewaukee",
+  "aka": ["Peewaukee"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Pewaukee, Wisconsin",
+   "year": 1870,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Duchess of Oldenburg x Northern Spy",
+   "raised_by": "George P. Peffer"
+  },
+  "history": "Raised by the Wisconsin nurseryman George Peffer at Pewaukee from Duchess of Oldenburg and Northern Spy, and first recorded around 1870. It was planted in the upper Midwest as a hardy winter apple.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, somewhat ribbed yellow apple, striped and mottled with orange-red."
+  },
+  "taste": {
+   "summary": "White, fairly firm but coarse and very juicy flesh with a mildly acid, faintly aromatic flavour; rated only fair to good in quality.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 5,
+   "tags": ["perfumed"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb, from store"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Recorded as a vigorous tree."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 9 May, so group 3 is inferred."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cold continental climates of the upper Midwest, where its Duchess parentage gives winter hardiness.",
+   "poor_climates": "Hot summers and mild winters; inferred from its northern origin."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A hardy, late-keeping heirloom for cold gardens. Pick in early October and store for winter use.",
+  "conf": "low"
+ },
+ {
+  "id": "pine-golden-pippin",
+  "name": "Pine Golden Pippin",
+  "aka": ["Golden Pine Pippin", "Pine-Golden Pippin", "Pepin d'Or Ananas"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "GB",
+   "place": null,
+   "year": 1861,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A British dessert apple first recorded in 1861; its exact origin is not known. It is held in the National Fruit Collection.",
+  "look": {
+   "size": "small",
+   "shape": "round-flat",
+   "ground": "gold",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": 2,
+   "description": "Small, flattish golden apple with a good deal of russet."
+  },
+  "taste": {
+   "summary": "Moderately firm, juicy yellowish flesh with a fairly sweet, rich and aromatic flavour and a light tart sparkle; one description notes a honey scent.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["perfumed", "sweet", "honey"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "upright-spreading",
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Average vigour, upright-spreading, spur-bearing and a good cropper (Orange Pippin)."
+  },
+  "pollination": {
+   "flower_group": 5,
+   "self_fertile": "no",
+   "notes": "Late flowering: Orange Pippin lists group 5 and the National Fruit Collection records full bloom around 18 May. Needs a late-flowering partner."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Nov-Jan",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Cool temperate and mild, damp climates with moderate summers; late flowering helps it avoid spring frost.",
+   "poor_climates": "Hot summers are likely to blunt its aroma (inferred); mild-winter regions lack chill."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Rated average for disease resistance by Orange Pippin; no specific weakness recorded."
+  },
+  "grow_notes": "A late-blooming russeted dessert apple suited to frosty gardens. Pair with another group 4-6 diploid.",
+  "conf": "medium"
+ },
+ {
+  "id": "potts-seedling",
+  "name": "Pott's Seedling",
+  "aka": ["Potts' Seedling", "Dean's Codlin", "Nott's Seedling"],
+  "uses": ["culinary"],
+  "origin": {
+   "country": "GB",
+   "place": "Ashton-under-Lyne (recorded as Cheshire), England",
+   "year": 1849,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "Samuel Potts"
+  },
+  "history": "Raised by Samuel Potts at Ashton-under-Lyne around 1849. It has been suggested as the unconfirmed parent of James Grieve. The National Fruit Collection also lists Holland Pippin and Dean's Codlin among its synonyms.",
+  "look": {
+   "size": "large",
+   "shape": "oblong",
+   "ground": "yellow-green",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": 0,
+   "description": "Large, plain pale green to yellow apple with a glossy skin that bruises easily."
+  },
+  "taste": {
+   "summary": "Soft, fine, greenish-white flesh with a clear acidity. Cooks down to a smooth puree that needs little sugar, while holding enough acid to keep slices from browning.",
+   "sweet": 1,
+   "acid": 4,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, for cooking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Grower reports mention crops that vary from year to year and a tree that stayed healthy without spraying."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 12 May, so group 3 is inferred."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 4
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Cool, moist northern English climates like the one it was raised in.",
+   "poor_climates": "Not documented; probably unsuited to hot or mild-winter regions."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No formal disease ratings found. The fruit bruises easily."
+  },
+  "grow_notes": "An early cooking apple from north-west England. Handle the fruit gently and use it within a few weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "primus",
+  "name": "Primus",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "NL",
+   "place": "Horticultural Laboratory, Wageningen, Netherlands",
+   "year": 1935,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Reinette Rouge Etoilee x Cox's Orange Pippin",
+   "raised_by": "Horticultural Laboratory, Wageningen"
+  },
+  "history": "Raised in 1935 at Wageningen in the Netherlands from the Dutch Sterappel (Reinette Rouge Etoilee) and Cox's Orange Pippin.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, conical yellow apple striped orange-red, with russet dots and streaks and a slightly greasy skin."
+  },
+  "taste": {
+   "summary": "Soft, coarse, creamy-white flesh with a very sweet flavour.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No tree description found."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 12 May, so group 3 is inferred."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool maritime north-west European climates like the Netherlands (inferred).",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A rarely grown Dutch Cox seedling; treat it like a Cox-type dessert apple with a mid-season partner.",
+  "conf": "low"
+ },
+ {
+  "id": "quinte",
+  "name": "Quinte",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Smithfield Experimental Farm, Trenton, Ontario",
+   "year": 1964,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Crimson Beauty x Red Melba",
+   "raised_by": "Agriculture Canada, Smithfield Experimental Farm"
+  },
+  "history": "Released in 1964 by the Smithfield Experimental Farm in Ontario as an early summer apple. It found a niche in cold climates such as Sweden but is too light-cropping for commercial use.",
+  "look": {
+   "size": "medium",
+   "shape": "oblong",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium, slightly tall yellow apple mostly washed with light red."
+  },
+  "taste": {
+   "summary": "Tender, creamy-white flesh, sweet but with a clear tart edge; one Swedish account compares the texture to sorbet. A good early apple that should be eaten straight from the tree.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "light",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Low yields keep it out of commercial orchards (Swedish Wikipedia)."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early flowering: Orange Pippin lists group 2 and the National Fruit Collection records full bloom around 6 May. Swedish sources name Discovery, Katja, Summerred and White Transparent as pollinators."
+  },
+  "season": {
+   "harvest": "mid Aug",
+   "eating": "Aug",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-temperate climates such as Ontario and southern to central Sweden (Swedish zones I-IV).",
+   "poor_climates": "Areas with heavy cedar-apple rust pressure; hot summers would hurry and soften an already short-lived early apple."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": 4,
+   "fire_blight": null,
+   "rust": 4,
+   "bitter_pit": null,
+   "other": "Susceptible to cedar-apple rust (Orange Pippin) and powdery mildew (Swedish Wikipedia)."
+  },
+  "grow_notes": "An early-August apple for cold gardens. Plant with another early-flowering variety and eat the fruit within a couple of weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "redwell",
+  "name": "Redwell",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
+   "year": 1911,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Uncertain: the National Fruit Collection records Scott's Winter x unknown; Orange Pippin gives a Wealthy x Alexander seedling.",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "Raised around 1911 at the University of Minnesota fruit breeding farm and released in 1946. Sources disagree about its parentage.",
+  "look": {
+   "size": "large",
+   "shape": "oblong",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, slightly elongated apple, streaked red to orange-red over yellow-green."
+  },
+  "taste": {
+   "summary": "Soft, greenish to cream flesh with a mild, gently acid flavour; described as smooth and mellow, good for eating and baking.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["mild"],
+   "cider_class": null,
+   "best_eaten": "Oct-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No tree description found."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Fairly late flowering: the National Fruit Collection records full bloom around 15 May, so group 4 is inferred."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": "Oct-Jan",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cold continental climates like Minnesota, for which it was bred.",
+   "poor_climates": "Hot summers and mild winters (inferred from its origin)."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A hardy, mild-flavoured Minnesota apple that keeps until about January. Plant with a later-flowering partner.",
+  "conf": "low"
+ },
+ {
+  "id": "regent",
+  "name": "Regent",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
+   "year": 1964,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Daniels Red Duchess x Delicious (National Fruit Collection); Orange Pippin gives Haralson x McIntosh",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "Released by the University of Minnesota in 1963-64 as a hardy, long-keeping apple for eating and cooking. Its published parentage differs between sources.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, conical apple striped bright red over yellow-green."
+  },
+  "taste": {
+   "summary": "Crisp, crackling and juicy cream flesh, sweet and honeyed but with plenty of acidity for balance. Holds its shape when cooked, with a light, sweet, fruity flavour.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 5,
+   "juicy": 4,
+   "tags": ["honey", "sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb, from store"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Moderately vigorous and easy to train (University of Minnesota); precocious, spur-bearing heavy cropper (Orange Pippin)."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Orange Pippin lists group 3; the National Fruit Collection records full bloom around 11 May."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 18
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool-summer continental climates such as Minnesota and the northern US; rated moderately hardy there.",
+   "poor_climates": "Hot summers (inferred); the very coldest Minnesota sites, where it is only moderately hardy."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 3,
+   "rust": 1,
+   "bitter_pit": null,
+   "other": "Susceptible to apple scab; some fire blight susceptibility; very resistant to cedar-apple rust (Orange Pippin)."
+  },
+  "grow_notes": "A good keeper for cold gardens that crops early and heavily. Spray or site it for scab control, and thin heavy crops.",
+  "conf": "high"
+ }
+]

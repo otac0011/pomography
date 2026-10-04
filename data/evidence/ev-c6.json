@@ -1,0 +1,269 @@
+{
+  "_batch": "ev-c6",
+  "carroll": {
+    "sources": [
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1003535",
+        "words": ["flavor mild", "soft to very soft", "good dessert"], "tags": ["mild"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "Ripens about 1 September in Manitoba and keeps 2-3 months (USDA GRIN).",
+    "notes": "Orange Pippin page read but its description has no flavour words (only 'excellent eating apple, also for cooking'); Wikipedia list compares it to a highly coloured Melba without flavour words."
+  },
+  "chehalis": {
+    "sources": [
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/chehalis",
+        "words": ["tart to sweeter", "Sweeter", "Honeyed"], "tags": ["sharp", "sweet", "honey"], "sweet": null, "acid": null, "against": [] },
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1068&&fruit=apple",
+        "words": ["sweet and juicy", "melting flesh", "panel: high sweetness", "panel: intermediate acidity", "panel: low-medium aroma"], "tags": ["sweet"], "sweet": 4, "acid": 3, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1021836",
+        "words": ["like Golden Delicious flavor", "big sweet yellow apple", "crisp"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": "Tart if picked early, sweetens within a few days, then the flesh softens quickly (Orange Pippin; Brogdale calls it melting).",
+    "climate_flavour": null,
+    "peak": "Mid September to October, soon after picking.",
+    "notes": "USDA GRIN calls the flesh crisp; Brogdale's panel scored it soft with low crunch."
+  },
+  "dayton": {
+    "sources": [
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/dayton",
+        "words": ["sweet", "Sweet/Sharp", "Very good"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://patents.google.com/patent/USPP5584",
+        "words": ["sub-acid to mild", "less acidic than Prima", "very good"], "tags": ["mild"], "sweet": null, "acid": 2, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["subacid", "firm, crisp", "very good"], "tags": [], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": "Keeps texture and flavour for about four weeks at 1 C (plant patent).",
+    "climate_flavour": null,
+    "peak": "At harvest, ripening with Prima about four weeks before Jonathan/Delicious.",
+    "notes": "Orange Pippin's 'Sweet/Sharp' style label sits uneasily with the patent's 'sub-acid to mild'."
+  },
+  "delbard-jubilee": {
+    "sources": [
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Delbard_Jubil%C3%A9e",
+        "words": ["pronounced flavor", "balance of sweet and acid", "floral odor", "touch of banana", "hazelnut flowers"], "tags": ["sweet", "floral", "banana"], "sweet": null, "acid": null, "against": [] },
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1520&&fruit=apple",
+        "words": ["sweet, crisp and juicy", "light aromatic flavour"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "Harvest mid-late October; keeps until late March (Wikipedia).",
+    "notes": "Floral/banana words come from the breeder Georges Delbard, quoted on Wikipedia, not from independent tasters, so floral and banana were left out of our tags. Orange Pippin's 'Jubilee' page is the Canadian McIntosh x Grimes Golden apple, a different variety (not used)."
+  },
+  "detroit-red": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1554&&fruit=apple",
+        "words": ["subacid", "aromatic", "coarse, tender"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": [] },
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/detroit-red",
+        "words": ["soft, snow white flesh"], "tags": [], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Detroit_Red_(apple)",
+        "words": ["mediocre quality"], "tags": [], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://www.cooksinfo.com/detroit-red-apples/",
+        "words": ["aromatic", "juicy", "tart taste"], "tags": ["perfumed", "sharp"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "September (CooksInfo).",
+    "notes": "Identity is muddled: NFC lists Detroit Red, Black Detroit and Red Detroit as synonyms of 'Detroit', CooksInfo says Detroit Red is distinct from 'Red Detroit', Wikipedia says possibly the same as Detroit Black, and Orange Pippin gives north Georgia as origin. NFC data come from Smith's National Apple Register; the variety is not currently held at Brogdale."
+  },
+  "diana": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1570&&fruit=apple",
+        "words": ["sweet, soft, juicy", "McIntosh type flavour"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1006285",
+        "words": ["slightly acid", "poor to fair", "low quality"], "tags": [], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": null,
+    "notes": "Brogdale (sweet) and USDA Geneva (slightly acid, poor to fair) disagree on quality. Brogdale ripens it early October; Geneva says early September with uneven ripening."
+  },
+  "dunning": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1723&&fruit=apple",
+        "words": ["sweet", "faintly perfumed", "firm, crisp", "panel: very high sweetness", "panel: extremely low acidity", "panel: very low aroma"], "tags": ["sweet", "perfumed", "mild"], "sweet": 5, "acid": 1, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1007794",
+        "words": ["flavor sweet", "eating quality good"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["flesh sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "Late August-September, straight from the tree.",
+    "notes": "The NFC page text (firm, crisp, faintly perfumed) differs from the NFC tasting panel (soft, very low aroma); perfumed was not kept in our tags."
+  },
+  "elektra": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1826&&fruit=apple",
+        "words": ["firm, juicy, sweet", "Cox-like flavour", "panel: high sweetness", "panel: low aroma"], "tags": ["sweet"], "sweet": 4, "acid": 3, "against": [] },
+      { "src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Elektra_(Apfel)",
+        "words": ["saftig", "süß mit wenig Säure", "edelaromatisch"], "tags": ["sweet", "perfumed"], "sweet": 4, "acid": 2, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1257105",
+        "words": ["subacid", "Cox type", "eating quality fair"], "tags": [], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "November to February (de.wikipedia); Brogdale store to January/February.",
+    "notes": "de.wikipedia calls it 'edelaromatisch' while Brogdale's panel scored aroma low."
+  },
+  "emilia": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1858&&fruit=apple",
+        "words": ["crisp, coarse, tender", "sweet, aromatic flavour", "panel: low acidity", "panel: low aroma"], "tags": ["sweet", "perfumed"], "sweet": 3, "acid": 2, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1132355",
+        "words": ["subacid", "fair, similar to Spy"], "tags": [], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": null,
+    "notes": "Harvest timing conflicts: Brogdale lists ripening as mid September (but picked mid October in 2019); USDA Geneva says late October."
+  },
+  "exeter-cross": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1926&&fruit=apple",
+        "words": ["firm, crisp, juicy", "sweet and refreshing", "moderately aromatic", "panel: more sweet"], "tags": ["sweet", "perfumed"], "sweet": 3, "acid": 2, "against": [] },
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/exeter",
+        "words": ["crisp, sweet, juicy", "sharp flavor"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["crisp, juicy, sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "August, straight from the tree.",
+    "notes": "USDA GRIN repeats Smith's National Apple Register wording ('sweet, subacid, moderately aromatic') already on the NFC page, so it was not counted. Orange Pippin's 'sharp' is not echoed by Brogdale's panel (low acidity)."
+  },
+  "fallawater": {
+    "sources": [
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/fallawater",
+        "words": ["subacid to mildly sweet", "Sweet/Sharp"], "tags": ["sweet", "mild"], "sweet": null, "acid": null, "against": [] },
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1964&&fruit=apple",
+        "words": ["subacid to slightly sweet", "firm, coarse, crisp"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1013771",
+        "words": ["subacid", "poor to fair"], "tags": [], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["mild subacid", "crisp, juicy"], "tags": ["mild"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "November-December (Wikipedia list).",
+    "notes": "NFC data are from Smith's National Apple Register; not currently held at Brogdale. NFC also lists 'Pound' and 'Baltimore Pippin' as synonyms, names shared with Gloria Mundi."
+  },
+  "flamenco": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=4326&&fruit=apple",
+        "words": ["crisp, juicy", "rather brisk", "mellow in the New Year"], "tags": ["sharp"], "sweet": null, "acid": null, "against": [] },
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/flamenco",
+        "words": ["Sharper", "Average"], "tags": ["sharp"], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Flamenco_(apple)",
+        "words": ["good for eating fresh"], "tags": [], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": "Brisk when picked, becoming mellow by the New Year (NFC).",
+    "climate_flavour": null,
+    "peak": "After Christmas (NFC).",
+    "notes": "Orange Pippin gives keeping as 2-3 weeks and picking in early September, against NFC's early October picking and New Year mellowing. NFC lists it as Obelisk."
+  },
+  "frogmore-prolific": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2156&&fruit=apple",
+        "words": ["soft, fine-textured", "acid", "no particular flavour"], "tags": ["sharp"], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1128323",
+        "words": ["flavor sweet", "tender"], "tags": ["sweet"], "sweet": null, "acid": null, "against": ["sharp"] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["soft, juicy, acid"], "tags": ["sharp"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "September-November (NFC, Wikipedia list).",
+    "notes": "USDA GRIN calls the flavour sweet, contradicting NFC and Wikipedia ('acid'); the GRIN accession arrived via Sweden in 1934 under the name 'Frogmore'."
+  },
+  "gewurzluiken": {
+    "sources": [
+      { "src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Gew%C3%BCrzluiken",
+        "words": ["sehr saftig", "säuerlich", "leicht würzig", "grasig (kalte Lagen)"], "tags": ["sharp", "spice"], "sweet": null, "acid": null, "against": [] },
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2261&&fruit=apple",
+        "words": ["firm flesh", "sweet subacid"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1134066",
+        "words": ["sweet, subacid"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["crisp, juicy, acid"], "tags": ["sharp"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": { "needs": "warm", "note": "de.wikipedia: plant only in warmer sites; in cold sites the fruit does not ripen or colour and tastes grassy." },
+    "peak": "November-March (de.wikipedia); NFC store December-March.",
+    "notes": "German and English Wikipedia call it tart/acid, NFC and GRIN 'sweet subacid'. Both Wikipedias are Wikipedia, so count as one organisation. GRIN notes the name may mean 'spicy', but that refers to the name, not tasting."
+  },
+  "gloria-mundi": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2297&&fruit=apple",
+        "words": ["rather soft, coarse", "dry", "subacid"], "tags": [], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1007601",
+        "words": ["mildly subacid", "eating quality fair"], "tags": ["mild"], "sweet": null, "acid": null, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["mild subacid", "coarse, crisp, tender, juicy", "fair to good"], "tags": ["mild"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "NFC store December-March; Wikipedia list uses October-December.",
+    "notes": "NFC lists Mère de Ménage among Gloria Mundi's synonyms and Gloria Mundi among Mère de Ménage's, but holds them as separate accessions; our atlas keeps Mère de Ménage as a distinct record. NFC says 'dry', Wikipedia list 'juicy'."
+  },
+  "golden-nugget": {
+    "sources": [
+      { "src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/golden-nugget",
+        "words": ["crisp, juicy", "extra sweet", "rich, mellow"], "tags": ["sweet"], "sweet": 5, "acid": null, "against": [] },
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2357&&fruit=apple",
+        "words": ["sweet, rich flavour"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": "Short keeping life (Orange Pippin).",
+    "climate_flavour": null,
+    "peak": "October-November (NFC store to November).",
+    "notes": ""
+  },
+  "guldborg": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2567&&fruit=apple",
+        "words": ["firm, white flesh", "subacid", "dry", "panel: good balance"], "tags": [], "sweet": 3, "acid": 3, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["juicy, subacid, aromatic"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "Late August-September, soon after picking.",
+    "notes": "USDA GRIN text repeats Smith's National Apple Register wording on the NFC page, so it was not counted. NFC says dry, Wikipedia list juicy. A Danish museum teaching sheet (Museum Lolland-Falster) calls it a famous Danish cooking apple and an early summer apple but gives no flavour words."
+  },
+  "halberstadter-jungfernapfel": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2587&&fruit=apple",
+        "words": ["firm, rather coarse", "moderately sweet", "subacid", "panel: low aroma"], "tags": ["sweet"], "sweet": 3, "acid": 3, "against": [] },
+      { "src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+        "words": ["juicy, sweet", "very good"], "tags": ["sweet"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "Wikipedia list: November-February; NFC store September-December.",
+    "notes": "USDA GRIN repeats the same Smith wording as NFC, so not counted. Brogdale's panel rated overall quality poor while the Wikipedia list says very good."
+  },
+  "hammerstein": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3990&&fruit=apple",
+        "words": ["firm, creamy white", "sweet, subacid", "panel: good balance", "panel: medium aroma"], "tags": ["sweet"], "sweet": 4, "acid": 4, "against": [] },
+      { "src": "wikipedia", "url": "https://cs.wikipedia.org/wiki/Hammersteinovo",
+        "words": ["velmi šťavnatá", "sladce navinulá až nakyslá", "aromatická", "chuť dobrá"], "tags": ["sweet", "sharp", "perfumed"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": "Keeps the same quality through storage and does not shrivel (cs and de Wikipedia).",
+    "climate_flavour": null,
+    "peak": "November to February (cs.wikipedia).",
+    "notes": "USDA GRIN repeats Smith's wording, so not counted. de.wikipedia read but gives no flavour words. The cs article notes confusion with 'Ontario', which keeps better and tastes better."
+  },
+  "herma": {
+    "sources": [
+      { "src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2714&&fruit=apple",
+        "words": ["crisp and juicy", "skin can be tough"], "tags": [], "sweet": null, "acid": null, "against": [] },
+      { "src": "other", "url": "https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1257106",
+        "words": ["slightly acid", "excellent taste", "delicate perfume", "eating quality fair"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": [] }
+    ],
+    "storage_change": null,
+    "climate_flavour": null,
+    "peak": "October to February (GRIN); NFC store January-March.",
+    "notes": "GRIN text both calls eating quality fair and praises 'excellent taste, delicate perfume' (probably a donor's note)."
+  }
+}

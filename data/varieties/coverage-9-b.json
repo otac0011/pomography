@@ -1,0 +1,618 @@
+[
+ {
+  "id": "stark-earliest",
+  "name": "Stark Earliest",
+  "aka": ["Stark's Earliest", "Scarlet Pimpernel", "Starks Allerfrühester"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Orofino, Idaho",
+   "year": 1938,
+   "year_note": "",
+   "kind": "discovered",
+   "parentage": null,
+   "raised_by": "Found by Douglas Bonner; introduced by Stark Bros"
+  },
+  "history": "Discovered by Douglas Bonner at Orofino, Idaho, in 1938 and introduced by Stark Bros nursery in 1944. In Britain and Ireland it has been sold as Scarlet Pimpernel and was once grown commercially in Ireland as a very early apple.",
+  "look": {
+   "size": "small",
+   "shape": "conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": null,
+   "russet": 0,
+   "description": "Small conical apple, smooth-skinned, flushed red over a pale whitish-green ground."
+  },
+  "taste": {
+   "summary": "Fine-textured white flesh, crisp at picking but softening fast. Sweeter than most very early apples, yet still with a clear sharp edge; best eaten straight from the tree.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Late Jul-Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "weeping",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "National Fruit Collection records a drooping habit. Fruit ripens over a short period and must be picked promptly."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early flowering (group 2); a useful pollinator for other early blossoms."
+  },
+  "season": {
+   "harvest": "late Jul-early Aug",
+   "eating": "Jul-Aug",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Continental and maritime temperate regions where a very early apple is wanted, from inland Idaho to Ireland.",
+   "poor_climates": "Frost pockets, where its early blossom is at risk; hot summers make the soft fruit go over even faster."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Average disease resistance reported; no specific weaknesses documented."
+  },
+  "grow_notes": "Grow it for the first apples of summer. Pick little and often from late July and eat at once, as it does not keep. Avoid frosty sites because it blossoms early.",
+  "conf": "medium"
+ },
+ {
+  "id": "summerred",
+  "name": "Summerred",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CA",
+   "place": "Summerland Research Station, British Columbia",
+   "year": 1964,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Open-pollinated seedling of Summerland (McIntosh x Golden Delicious)",
+   "raised_by": "K.O. Lapins, Canada Department of Agriculture, Summerland"
+  },
+  "history": "Selected in 1961 by K.O. Lapins at Summerland, British Columbia, from open-pollinated seedlings of the McIntosh x Golden Delicious selection Summerland, and named in 1964. It was later tested successfully in south-central Alaska, where the original tree survived -40 F without protection.",
+  "look": {
+   "size": "medium",
+   "shape": "oblong",
+   "ground": null,
+   "blush": "red",
+   "blush_cover": 90,
+   "stripes": false,
+   "russet": 0,
+   "description": "Uniform, slightly elongated apple almost covered in a bright solid red, with prominent lenticels."
+  },
+  "taste": {
+   "summary": "Soft to moderately firm, very juicy cream flesh with a refreshing, mildly winey sweet-tart flavour reminiscent of McIntosh. Reports of aroma vary from fragrant to faint.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["wine"],
+   "cider_class": null,
+   "best_eaten": "Late Aug-Sep"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "weeping",
+   "bearing": null,
+   "cropping": null,
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Crops regularly year after year according to Alaskan trials; National Fruit Collection records a drooping habit."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Diploid; a good pollinator for McIntosh, Golden Delicious and Delicious. Group estimated from National Fruit Collection flowering dates (full bloom around 5 May)."
+  },
+  "season": {
+   "harvest": "late Aug",
+   "eating": "Aug-Oct",
+   "storage_weeks": 4
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter, short-season regions such as interior British Columbia and southern Alaska, where an early red apple is valuable.",
+   "poor_climates": "Hot summers and mild winters; frost pockets because it flowers early."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A very hardy early apple for cold gardens; use a hardy rootstock where winters are severe. Pick in late August and eat within a few weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "sundance",
+  "name": "Sundance",
+  "aka": ["Co-op 29"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Purdue-Rutgers-Illinois (PRI) cooperative breeding programme",
+   "year": 2004,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Co-op selection 1050 NJ 1 (ancestry includes Winter Banana, McIntosh, Rome and Malus floribunda)",
+   "raised_by": "Purdue University, Rutgers University and University of Illinois (PRI)"
+  },
+  "history": "A disease-resistant yellow apple from the PRI cooperative programme, tested as Co-op 29 and released in 2004. Its scab resistance comes ultimately from the crab Malus floribunda.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": null,
+   "description": "Clear yellow apple, occasionally with a light blush; skin can be thick."
+  },
+  "taste": {
+   "summary": "Very firm, crisp, breaking cream flesh with a full, spicy and sprightly flavour, more tart than sweet at harvest with lemony notes; it mellows and sweetens in storage.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 5,
+   "juicy": 3,
+   "tags": ["spice", "lemon", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar, after a few weeks in store"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Vigorous spur-bearer; fruit hangs well on the tree."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Needs a mid-season diploid partner."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 500,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Humid eastern and midwestern US conditions where scab, rust and fire blight are rife; a nursery quotes a modest chill need of about 500 hours, so it also suits warmer districts.",
+   "poor_climates": "Very cold zones below about zone 5, and short summers that cannot ripen a mid-October apple."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": 1,
+   "rust": 1,
+   "bitter_pit": null,
+   "other": "Field immune to scab and highly resistant to cedar-apple rust and fire blight; moderately resistant to powdery mildew."
+  },
+  "grow_notes": "An excellent low-spray apple for organic or humid gardens. Let it hang until fully yellow, then store; flavour improves after a few weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "sweet-winesap",
+  "name": "Sweet Winesap",
+  "aka": ["Hendrick Sweet", "Henrick Sweet", "Sweet Wine Sap"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Pennsylvania",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": "Unknown; not a sport of Winesap despite the name",
+   "raised_by": null
+  },
+  "history": "A 19th-century Pennsylvania apple that was long cultivated in western New York by the early 1900s and shipped to southern markets. It is unrelated to Winesap and was sometimes confused with Lady Sweet.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 85,
+   "stripes": true,
+   "russet": null,
+   "description": "Attractive, uniform apple almost covered in bright light red with carmine stripes over a pale yellow-green ground."
+  },
+  "taste": {
+   "summary": "Firm, fairly fine, moderately crisp and juicy white flesh with a pronounced sweet, low-acid flavour, good for eating and for baking.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information recorded."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "No UK flowering group recorded."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Jan",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Eastern US fruit districts such as Pennsylvania and western New York.",
+   "poor_climates": "Not documented; probably short, cool summers that do not ripen a mid-October apple."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A heritage sweet apple for baking and fresh eating; keeps two to three months chilled. Pair with a mid-season pollinator.",
+  "conf": "low"
+ },
+ {
+  "id": "sylvia",
+  "name": "Sylvia",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "SE",
+   "place": "Balsgård, Skåne, Sweden",
+   "year": null,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Gyllenkroks Astrakan x Worcester Pearmain (per Swedish sources)",
+   "raised_by": "Balsgård fruit breeding station"
+  },
+  "history": "A Swedish summer apple raised at the Balsgård breeding station in Skåne. It reached modest commercial planting in Sweden, with a few thousand orchard trees recorded.",
+  "look": {
+   "size": "medium",
+   "shape": null,
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 50,
+   "stripes": null,
+   "russet": null,
+   "description": "Slightly glossy apple in pink and yellow."
+  },
+  "taste": {
+   "summary": "Juicy, fairly firm flesh with a sweet, aromatic and only slightly tart flavour; collection tasters found it sweet and low in acid. It keeps only briefly.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information recorded."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Swedish sources list partners such as James Grieve, Transparente Blanche, Sävstaholm, Alice and Cortland. Group estimated from National Fruit Collection flowering dates (full bloom around 10 May)."
+  },
+  "season": {
+   "harvest": "early Aug-mid Aug",
+   "eating": "Aug",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool northern European summers; grown in Swedish zones I-IV.",
+   "poor_climates": "Hot summers, where an early apple turns soft and loses quality quickly."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "An early-August eater for cool gardens. Pick as soon as the fruit colours and eat promptly.",
+  "conf": "low"
+ },
+ {
+  "id": "uttwiler-spatlauber",
+  "name": "Uttwiler Spätlauber",
+  "aka": ["Uttwiler Spätlese"],
+  "uses": ["culinary", "cider"],
+  "origin": {
+   "country": "CH",
+   "place": "Uttwil, Thurgau, Switzerland",
+   "year": 1750,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Thought to be a local chance seedling",
+   "raised_by": null
+  },
+  "history": "A rare Swiss apple known around Uttwil on Lake Constance since about 1750 and conserved by ProSpecieRara. It became famous in the 2000s when an extract of its plant stem cells, noted for the fruit's very long keeping life, was marketed for anti-ageing cosmetics.",
+  "look": {
+   "size": null,
+   "shape": "round-conical",
+   "ground": "green",
+   "blush": "brown",
+   "blush_cover": 20,
+   "stripes": null,
+   "russet": null,
+   "description": "Smooth, glossy green apple turning greenish-yellow only late, with brownish-red tones on sunny sides; the skin darkens in long storage."
+  },
+  "taste": {
+   "summary": "Firm, crunchy flesh with a sour flavour and only a faint spiciness; an acidic all-purpose apple used mostly for cooking and cider.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": null,
+   "tags": ["sharp", "spice"],
+   "cider_class": null,
+   "best_eaten": "Winter into the following summer; keeps up to a year"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": null,
+   "notes": "Grows vigorously and healthily, bears early and readily, and often forms blossom on summer shoot growth."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "No flowering group recorded."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": null,
+   "storage_weeks": 36
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Central European conditions with moderately moist soil and warm, dry, sunny summers, as around Lake Constance.",
+   "poor_climates": "Not documented; probably very short cool summers that fail to ripen a mid-October keeper."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Described as a healthy tree with modest soil and climate demands; specific disease data lacking."
+  },
+  "grow_notes": "A curiosity for collectors and cider makers. It is undemanding and fruitful; pick in mid October and store cool, where it keeps exceptionally long.",
+  "conf": "low"
+ },
+ {
+  "id": "venus-pippin",
+  "name": "Venus Pippin",
+  "aka": ["Plumderity", "Venus' Pippin", "Plum Bidy"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "Devon or the Tamar Valley, south-west England",
+   "year": 1800,
+   "year_note": "c.",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old south-western English apple, thought to have been raised around 1800 in Devon or the Tamar Valley; around Launceston it was known as Plum Bidy. It is recommended locally for Cornish orchards.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow-green",
+   "blush": "pink",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 0,
+   "description": "Smooth, pale yellow to green-yellow apple with only an occasional pink flush."
+  },
+  "taste": {
+   "summary": "Very tender, soft and coarse cream flesh with a slightly sweet, slightly sharp flavour and little aroma. Sharp enough to cook to a purée when first picked, it is briefly a pleasant eater before going over.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 1,
+   "juicy": 3,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Aug-early Sep; cook early, eat soon after"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information recorded."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 14 May)."
+  },
+  "season": {
+   "harvest": "early Aug",
+   "eating": "Aug-Sep",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild, wet south-west England, where it is a recommended local variety.",
+   "poor_climates": "Not documented; hot summers would hasten its already short life."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A West Country heritage apple for local orchards. Pick in early August, use the first fruits for cooking and eat the rest promptly.",
+  "conf": "low"
+ },
+ {
+  "id": "vilberie",
+  "name": "Vilberie",
+  "aka": [],
+  "uses": ["cider"],
+  "origin": {
+   "country": "FR",
+   "place": "France (Normandy cider region presumed)",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A traditional French cider apple, dated to the first half of the 19th century, that was brought to Herefordshire by the Woolhope Naturalists' Field Club at the end of the 19th century. It is still grown in English cider orchards for its full bittersweet juice.",
+  "look": {
+   "size": "small",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "orange",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small, flattish, strongly ribbed yellow apple flushed and streaked orange."
+  },
+  "taste": {
+   "summary": "A full bittersweet cider apple: sweet, very tannic juice with low acidity, giving a full-bodied cider.",
+   "sweet": 4,
+   "acid": 1,
+   "aroma": null,
+   "tannin": 4,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["bitter", "astringent", "sweet"],
+   "cider_class": "bittersweet",
+   "best_eaten": "Mill Nov-Dec, within a few weeks of picking"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Vigorous, open-spreading tree; precocious and heavy cropping."
+  },
+  "pollination": {
+   "flower_group": 6,
+   "self_fertile": "partial",
+   "notes": "Very late flowering (full bloom late May at the National Fruit Collection), so pair with other late cider apples."
+  },
+  "season": {
+   "harvest": "mid Nov",
+   "eating": null,
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild, damp cider districts of western England and north-west France; late bloom avoids spring frost.",
+   "poor_climates": "Short-season climates that cannot ripen a mid-November apple."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": 4,
+   "fire_blight": 3,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Appears susceptible to powdery mildew; some fire blight susceptibility."
+  },
+  "grow_notes": "A late, heavy-cropping bittersweet for cider orchards. Plant with other late-flowering cider varieties and watch for mildew; shake fruit down in November and mill soon after.",
+  "conf": "medium"
+ }
+]

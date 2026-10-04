@@ -12,6 +12,32 @@
   "ta_units": "g/L malic acid"
  },
  "records": {
+  "abbondanza": {
+   "accession": "Abbondanza",
+   "ssc": 13.1,
+   "ta": 6.76,
+   "firmness": 8.34,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "akero": {
+   "accession": "Åkerö",
+   "ssc": 10.1,
+   "ta": 5.47,
+   "firmness": 7.74,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 1,
+   "sites": "ITA"
+  },
   "american-mother": {
    "accession": "Mother",
    "ssc": 13.3,
@@ -51,6 +77,45 @@
    "obs": 3,
    "sites": "CHE, ITA"
   },
+  "ard-cairn-russet": {
+   "accession": "Ard Cairn Russet",
+   "ssc": 13.7,
+   "ta": 2.95,
+   "firmness": 9.19,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 2,
+   "sites": "CHE, ITA"
+  },
+  "aroma": {
+   "accession": "Aroma",
+   "ssc": 11.9,
+   "ta": 9.0,
+   "firmness": 6.49,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE"
+  },
+  "atlas": {
+   "accession": "Atlas",
+   "ssc": 11.7,
+   "ta": 6.79,
+   "firmness": 7.4,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
+  },
   "ballyfatten": {
    "accession": "Ballyfatten",
    "ssc": 12.2,
@@ -63,6 +128,45 @@
    "stage": "harvest",
    "obs": 1,
    "sites": "ITA"
+  },
+  "bancroft": {
+   "accession": "Bancroft",
+   "ssc": 12.7,
+   "ta": 8.93,
+   "firmness": 7.62,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 9,
+   "sites": "CHE, ITA"
+  },
+  "barry": {
+   "accession": "Barry",
+   "ssc": 12.6,
+   "ta": 7.91,
+   "firmness": 7.58,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
+  },
+  "beeley-pippin": {
+   "accession": "Beeley Pippin",
+   "ssc": 10.2,
+   "ta": 5.46,
+   "firmness": 5.93,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 2,
+   "sites": "CHE, ITA"
   },
   "bellefleur-krasnyi": {
    "accession": "Bellefleur Krasny",
@@ -77,6 +181,58 @@
    "obs": 3,
    "sites": "CHE, ITA"
   },
+  "benoni": {
+   "accession": "Benoni",
+   "ssc": 11.3,
+   "ta": 5.92,
+   "firmness": 6.82,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 11,
+   "sites": "CHE, ITA"
+  },
+  "bodil-neergaard": {
+   "accession": "Bodil Neergaard",
+   "ssc": 13.4,
+   "ta": 7.58,
+   "firmness": 7.78,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "brabant-bellefleur": {
+   "accession": "Brabant Bellefleur",
+   "ssc": 12.0,
+   "ta": 10.75,
+   "firmness": 7.95,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
+  },
+  "bushey-grove": {
+   "accession": "Bushey Grove",
+   "ssc": 10.6,
+   "ta": 11.82,
+   "firmness": 6.11,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
+  },
   "calville-blanc-dhiver": {
    "accession": "Calville Blanc d'Hiver",
    "ssc": 12.5,
@@ -89,6 +245,19 @@
    "stage": "harvest",
    "obs": 2,
    "sites": "CHE"
+  },
+  "campanino": {
+   "accession": "Campanino",
+   "ssc": 13.2,
+   "ta": 7.74,
+   "firmness": 13.68,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
   },
   "caroline": {
    "accession": "Caroline",
@@ -129,6 +298,19 @@
    "obs": 2,
    "sites": "CHE"
   },
+  "crimson-beauty": {
+   "accession": "Early Red Bird",
+   "ssc": 8.5,
+   "ta": 15.7,
+   "firmness": 4.63,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "synonym",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE"
+  },
   "danziger-kantapfel": {
    "accession": "Danziger Kantapfel",
    "ssc": 11.9,
@@ -153,6 +335,32 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 4,
+   "sites": "CHE, ITA"
+  },
+  "diana": {
+   "accession": "Diana",
+   "ssc": 10.8,
+   "ta": 9.92,
+   "firmness": 4.82,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "directeur-lesage": {
+   "accession": "Directeur Lesage",
+   "ssc": 9.8,
+   "ta": 8.52,
+   "firmness": 5.84,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
    "sites": "CHE, ITA"
   },
   "discovery": {
@@ -181,6 +389,32 @@
    "obs": 7,
    "sites": "CHE, ITA"
   },
+  "dukat": {
+   "accession": "Dukat",
+   "ssc": 13.5,
+   "ta": 6.37,
+   "firmness": 8.22,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE"
+  },
+  "dutch-mignonne": {
+   "accession": "Dutch Mignonne",
+   "ssc": 15.1,
+   "ta": 11.4,
+   "firmness": 10.25,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
   "edward-vii": {
    "accession": "Edward VII",
    "ssc": 11.8,
@@ -205,6 +439,32 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "elise-rathke": {
+   "accession": "Elise Rathke",
+   "ssc": 12.1,
+   "ta": 7.6,
+   "firmness": 5.87,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 2,
+   "sites": "CHE, ITA"
+  },
+  "emilia": {
+   "accession": "Emilia",
+   "ssc": 13.4,
+   "ta": 7.73,
+   "firmness": 8.43,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
    "sites": "CHE, ITA"
   },
   "emperor-alexander": {
@@ -244,6 +504,19 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 3,
+   "sites": "CHE, ITA"
+  },
+  "fireside": {
+   "accession": "Fireside",
+   "ssc": 12.9,
+   "ta": 4.64,
+   "firmness": 8.26,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
    "sites": "CHE, ITA"
   },
   "freiherr-von-berlepsch": {
@@ -350,6 +623,45 @@
    "obs": 7,
    "sites": "CHE, ITA"
   },
+  "histon-favourite": {
+   "accession": "Histon Favourite",
+   "ssc": 11.9,
+   "ta": 9.58,
+   "firmness": 8.74,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 9,
+   "sites": "CHE, ITA"
+  },
+  "holland-pippin": {
+   "accession": "Holland Pippin",
+   "ssc": 11.9,
+   "ta": 6.72,
+   "firmness": 6.8,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE, ITA"
+  },
+  "indo": {
+   "accession": "Indo",
+   "ssc": 13.4,
+   "ta": 2.32,
+   "firmness": 11.17,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
   "ingrid-marie": {
    "accession": "Ingrid Marie",
    "ssc": 12.4,
@@ -361,6 +673,32 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 6,
+   "sites": "CHE, ITA"
+  },
+  "jefferis": {
+   "accession": "Jefferis",
+   "ssc": 11.3,
+   "ta": 6.88,
+   "firmness": 7.26,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "jersey-black": {
+   "accession": "Jersey Black",
+   "ssc": 13.4,
+   "ta": 8.0,
+   "firmness": 9.03,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
    "sites": "CHE, ITA"
   },
   "jonathan": {
@@ -467,6 +805,19 @@
    "obs": 2,
    "sites": "CHE"
   },
+  "mantet": {
+   "accession": "Mantet",
+   "ssc": 10.7,
+   "ta": 7.9,
+   "firmness": 4.66,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE"
+  },
   "mcintosh-red": {
    "accession": "McIntosh",
    "ssc": 14.3,
@@ -506,6 +857,45 @@
    "obs": 5,
    "sites": "CHE, ITA"
   },
+  "merton-worcester": {
+   "accession": "Merton Worcester",
+   "ssc": 11.4,
+   "ta": 9.82,
+   "firmness": 8.08,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 6,
+   "sites": "CHE, ITA"
+  },
+  "mio": {
+   "accession": "Mio",
+   "ssc": 10.7,
+   "ta": 7.01,
+   "firmness": 5.69,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 7,
+   "sites": "CHE, ITA"
+  },
+  "nanny": {
+   "accession": "Nanny",
+   "ssc": 13.0,
+   "ta": 7.94,
+   "firmness": 7.38,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 1,
+   "sites": "ITA"
+  },
   "newtown-pippin": {
    "accession": "Newtown Pippin",
    "ssc": 13.7,
@@ -517,6 +907,19 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "ontario": {
+   "accession": "Ontario",
+   "ssc": 12.5,
+   "ta": 8.7,
+   "firmness": 8.3,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
    "sites": "CHE, ITA"
   },
   "opalescent": {
@@ -543,6 +946,19 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 5,
+   "sites": "CHE, ITA"
+  },
+  "orleans": {
+   "accession": "Orleans",
+   "ssc": 12.4,
+   "ta": 5.43,
+   "firmness": 7.65,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 12,
    "sites": "CHE, ITA"
   },
   "peasgoods-nonsuch": {
@@ -597,6 +1013,45 @@
    "obs": 4,
    "sites": "CHE, ITA"
   },
+  "prima": {
+   "accession": "Prima",
+   "ssc": 11.3,
+   "ta": 7.94,
+   "firmness": 8.22,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 6,
+   "sites": "CHE, ITA"
+  },
+  "primate": {
+   "accession": "Primate",
+   "ssc": 10.5,
+   "ta": 6.02,
+   "firmness": 5.87,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE, ITA"
+  },
+  "primus": {
+   "accession": "Primus",
+   "ssc": 13.5,
+   "ta": 2.0,
+   "firmness": 8.16,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE, ITA"
+  },
   "priscilla": {
    "accession": "Priscilla-NL",
    "ssc": 10.6,
@@ -648,6 +1103,19 @@
    "stage": "harvest",
    "obs": 4,
    "sites": "CHE, ITA"
+  },
+  "reinette-rouge-etoilee": {
+   "accession": "Reinette Rouge Etoilee",
+   "ssc": 13.8,
+   "ta": 9.7,
+   "firmness": 7.5,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 2,
+   "sites": "CHE"
   },
   "rome-beauty": {
    "accession": "Rome Beauty",
@@ -701,6 +1169,19 @@
    "obs": 2,
    "sites": "ITA"
   },
+  "shinsei": {
+   "accession": "Shinsei",
+   "ssc": 12.9,
+   "ta": 5.99,
+   "firmness": 6.8,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 6,
+   "sites": "CHE, ITA"
+  },
   "signe-tillisch": {
    "accession": "Signe Tillisch",
    "ssc": 9.9,
@@ -709,6 +1190,19 @@
    "firmness_units": "kg/cm2",
    "n": 1,
    "years": "2019-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE, ITA"
+  },
+  "snovit": {
+   "accession": "Snövit",
+   "ssc": 11.7,
+   "ta": 7.7,
+   "firmness": 5.5,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019",
    "match": "exact",
    "stage": "harvest",
    "obs": 3,
@@ -726,6 +1220,32 @@
    "stage": "harvest",
    "obs": 9,
    "sites": "CHE, ITA"
+  },
+  "stark-earliest": {
+   "accession": "Stark Earliest",
+   "ssc": 10.9,
+   "ta": 10.4,
+   "firmness": 6.37,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 6,
+   "sites": "CHE"
+  },
+  "sylvia": {
+   "accession": "Sylvia",
+   "ssc": 8.9,
+   "ta": null,
+   "firmness": 5.48,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 1,
+   "sites": "CHE"
   },
   "tropical-beauty": {
    "accession": "Tropical Beauty",
@@ -753,6 +1273,19 @@
    "obs": 7,
    "sites": "CHE, ITA"
   },
+  "venus-pippin": {
+   "accession": "Venus Pippin",
+   "ssc": 9.7,
+   "ta": 14.8,
+   "firmness": 5.07,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 4,
+   "sites": "CHE"
+  },
   "vista-bella": {
    "accession": "Vista Bella",
    "ssc": 11.4,
@@ -764,6 +1297,19 @@
    "match": "exact",
    "stage": "harvest",
    "obs": 5,
+   "sites": "CHE"
+  },
+  "wagener": {
+   "accession": "Wagener",
+   "ssc": 11.4,
+   "ta": 8.17,
+   "firmness": 8.67,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2019",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
    "sites": "CHE"
   },
   "wealthy": {
@@ -882,6 +1428,19 @@
    "stage": "harvest",
    "obs": 4,
    "sites": "CHE"
+  },
+  "zoete-ermgaard": {
+   "accession": "Zoete Ermgaard",
+   "ssc": 15.4,
+   "ta": 2.0,
+   "firmness": 9.39,
+   "firmness_units": "kg/cm2",
+   "n": 1,
+   "years": "2018-2020",
+   "match": "exact",
+   "stage": "harvest",
+   "obs": 3,
+   "sites": "CHE, ITA"
   },
   "zuccalmaglios-renette": {
    "accession": "Zuccalmaglios Renette",

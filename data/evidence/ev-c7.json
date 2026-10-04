@@ -1,0 +1,249 @@
+{
+ "_batch": "ev-c7",
+ "hibernal": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2729&&fruit=apple",
+    "words": ["acid", "astringent", "firm, coarse flesh"], "tags": ["sharp", "astringent"], "sweet": null, "acid": 4, "against": []},
+   {"src": "university", "url": "https://agresearch.montana.edu/warc/guides/apples/heritage_orchard_management_guide/heritage-fruit-id-guide/apples_id_key/hibernalappleid.html",
+    "words": ["subacid", "astringent", "flavor is lacking", "firm, coarse, juicy"], "tags": ["astringent"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Montana State: moderate keeper, lasting to about January.",
+  "notes": "Montana State calls it a late-harvest apple, while the NFC picks it in early September in Kent."
+ },
+ "histon-favourite": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2752&&fruit=apple",
+    "words": ["a little sweet", "faint flavour", "subacid", "slightly aromatic", "soft, juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://applesandorchards.org.uk/product/histon-favourite/",
+    "words": ["sharp and crisp when picked", "mellows in store"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Sharp and crisp at picking, mellowing in store (East of England Apples & Orchards).",
+  "climate_flavour": null,
+  "peak": "October to December (East of England Apples & Orchards).",
+  "notes": "Orange Pippin's page was read but gives no flavour description."
+ },
+ "holiday": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2771&&fruit=apple",
+    "words": ["sweet", "crisp and juicy", "slight vinous flavour"], "tags": ["sweet", "wine"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/holiday",
+    "words": ["fine flavored", "rich flavor of Jonathan", "white juicy flesh"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+    "words": ["crisp", "juicy", "sweet", "vinous"], "tags": ["sweet", "wine"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "November to December (Wikipedia list).",
+  "notes": ""
+ },
+ "holland-pippin": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2775&&fruit=apple",
+    "words": ["soft, coarse, mealy", "slightly acid"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://applesandorchards.org.uk/product/holland-pippin/",
+    "words": ["lightly acidic", "keeps shape when cooked"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "November to March (East of England Apples & Orchards).",
+  "notes": "Homonyms: this is the Lincolnshire apple (syn. Kirton Pippin). The Wikipedia list's Holland Pippin (aka Summer Pippin, Pie Apple; North American, before 1820) is a different apple, and Orange Pippin maps the name to Broad-Eyed Pippin; neither was used."
+ },
+ "idagold": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2891&&fruit=apple",
+    "words": ["fine, soft flesh", "subacid"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "No modern flavour description found beyond the NFC."
+ },
+ "idajon": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2893&&fruit=apple",
+    "words": ["fine, crisp", "creamy white flesh", "sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://journal.americanpomological.org/index.php/jofaps/article/view/2608",
+    "words": ["rich", "as mild as Delicious", "becomes sweet in storage", "crisp and juicy"], "tags": ["mild", "sweet"], "sweet": null, "acid": 2, "against": []}
+  ],
+  "storage_change": "Not noticeably sweet when picked but sweetens in storage (L. Verner, raiser).",
+  "climate_flavour": null,
+  "peak": "Prime a week or two after harvest, declining after early December (Verner).",
+  "notes": "Verner's article (Fruit Varieties and Horticultural Digest, University of Idaho) is by the raiser."
+ },
+ "ingol": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2923&&fruit=apple",
+    "words": ["soft but juicy", "good rich flavour"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://www.plantura.garden/obst/apfelsorten/ingol",
+    "words": ["angenehme Saeure"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Ready to eat from early October to February (plantura).",
+  "notes": "NFC sensory panel data rate acidity low-to-intermediate, softer than plantura's 'pleasant acidity' suggests."
+ },
+ "jamba-69": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2972&&fruit=apple",
+    "words": ["crisp and juicy", "reasonable flavour"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Jamba_(Apfel)",
+    "words": ["saeuerlich", "aromatisch", "saftig"], "tags": ["sharp", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Picked mid-August to September in Germany, keeps until October (de.wikipedia).",
+  "notes": "de.wikipedia recommends mild, sunny sites but does not link this to flavour."
+ },
+ "jersey-black": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3011&&fruit=apple",
+    "words": ["sweet", "subacid", "aromatic", "crisp, rather coarse"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Jersey_Black",
+    "words": ["sweet white firm flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.saltspringapplecompany.com/jersey-black",
+    "words": ["sweet", "white, firm flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Wikipedia and Salt Spring use near-identical wording ('sweet white firm flesh'); they may not be independent."
+ },
+ "jerseymac": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/jersey-mac",
+    "words": ["crisp and juicy", "tart flavor", "sweet/tart"], "tags": ["sharp", "sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3017&&fruit=apple",
+    "words": ["tender, juicy flesh", "aromatic", "similar to McIntosh"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(A%E2%80%93K)",
+    "words": ["juicy", "aromatic", "subacid"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Does not store well (Orange Pippin).",
+  "climate_flavour": null,
+  "peak": "Eat in August, straight from the tree (Wikipedia list).",
+  "notes": ""
+ },
+ "john-standish": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3047&&fruit=apple",
+    "words": ["very firm", "juicy", "moderately acid", "refreshing"], "tags": ["sharp"], "sweet": null, "acid": 3, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Wikipedia list entry gives only appearance; no other modern flavour description found."
+ },
+ "jonalicious": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/jonalicious",
+    "words": ["sugar and spice", "tart freshness", "sweet/sharp", "crisp"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3072&&fruit=apple",
+    "words": ["firm, crisp, juicy", "subacid", "aromatic"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Orange Pippin's 'sugar and spice' is a figure of speech, so not tagged spice. Orange Pippin says it keeps extremely well (3+ months)."
+ },
+ "jubilee": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Jubilee_apple",
+    "words": ["sweet and tart", "crisp, juicy", "fine-grained"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/jubilee",
+    "words": ["crisp", "well-balanced flavour", "sweeter", "flavour decays in storage"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Crisp and well balanced when fresh; like McIntosh it loses crispness and flavour in store (Orange Pippin).",
+  "climate_flavour": null,
+  "peak": "Soon after picking; Wikipedia says it keeps up to three months in cold store, Orange Pippin 1-2 months.",
+  "notes": "This is the Canadian Summerland Jubilee (McIntosh x Grimes Golden), not Delbard Jubilee or Royal Jubilee. Orange Pippin's index also maps a 'Jubilee' name to a Fuji sport."
+ },
+ "kandil-sinap": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3136&&fruit=apple",
+    "words": ["sweet", "slightly vinous", "perfumed", "crisp, snow-white flesh"], "tags": ["sweet", "wine", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/kandil-sinap",
+    "words": ["excellent flavor", "sweet/sharp", "crisp, juicy, fine-textured"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.saltspringapplecompany.com/kandil-sinap",
+    "words": ["juicy and crisp", "sweet", "refreshing acidity"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Storage claims differ: Orange Pippin 1-2 months, Salt Spring up to 4 months refrigerated, NFC December-February."
+ },
+ "king-cole": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3221&&fruit=apple",
+    "words": ["firm, fine", "subacid", "slightly subacid"], "tags": [], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/king-cole",
+    "words": ["brisk tasting"], "tags": ["sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Keeps until January (Orange Pippin).",
+  "notes": ""
+ },
+ "linda": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3528&&fruit=apple",
+    "words": ["fairly sweet", "subacid", "aromatic", "fairly crisp, tender"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.saltspringapplecompany.com/linda",
+    "words": ["sweet", "crisp and juicy", "strawberry-like flavour"], "tags": ["sweet", "strawberry"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "Strawberry note rests on a single nursery."
+ },
+ "liveland-raspberry": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3657&&fruit=apple",
+    "words": ["sweet to subacid", "perfumed", "fine, tender"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(L%E2%80%93Z)",
+    "words": ["very tender", "sweet"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.albemarleciderworks.com/node/530",
+    "words": ["hint of sweetness", "tender, white flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Holds its quality on and off the tree better than most apples of its season (Albemarle CiderWorks).",
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "None of these sources describes a raspberry or berry flavour; the name seems to refer to colour. NFC holds it as 'Lowland Raspberry'."
+ },
+ "lucombes-seedling": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3663&&fruit=apple",
+    "words": ["subacid", "spicy", "firm, white flesh"], "tags": ["spice"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Lucombe%27s_Seedling",
+    "words": ["juicy white flesh", "spicy", "subacid"], "tags": ["spice"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Use October to January (Wikipedia list).",
+  "notes": "The Wikipedia wording ('spicy, subacid') may derive from the NFC description, so the two may not be fully independent."
+ },
+ "manningtons-pearmain": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3767&&fruit=apple",
+    "words": ["slightly aromatic", "firm, fine-textured", "moderately juicy"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "nursery", "url": "https://www.saltspringapplecompany.com/manningtons-pearmain",
+    "words": ["rich and aromatic", "hint of nuttiness", "well-balanced"], "tags": ["perfumed", "nutty"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_apple_cultivars_(L%E2%80%93Z)",
+    "words": ["soft juicy", "of no great merit"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": "Use November to March (Wikipedia list).",
+  "notes": "Wikipedia list (citing Hogg) rates it of no great merit, whereas Salt Spring praises it and the NFC sensory panel scored it very good."
+ },
+ "medina": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=3891&&fruit=apple",
+    "words": ["sweet subacid", "aromatic", "perfumed", "firm, tender"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": null,
+  "peak": null,
+  "notes": "No other modern flavour description found."
+ }
+}

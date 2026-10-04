@@ -1,0 +1,329 @@
+{
+ "batch": "coverage-1",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "akero",
+   "name": "Åkerö",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/%C3%85ker%C3%B6"
+  },
+  {
+   "id": "alkmene",
+   "name": "Alkmene",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Alkmene_%28apple%29"
+  },
+  {
+   "id": "beacon",
+   "name": "Beacon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Beacon_%28apple%29"
+  },
+  {
+   "id": "crimson-beauty",
+   "name": "Crimson Beauty",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Early Red Bird"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Crimson_Beauty"
+  },
+  {
+   "id": "florina",
+   "name": "Florina",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Querina"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Florina_%28apple%29"
+  },
+  {
+   "id": "karmijn-de-sonnaville",
+   "name": "Karmijn de Sonnaville",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Karminj"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Karmijn_de_Sonnaville"
+  },
+  {
+   "id": "melon",
+   "name": "Melon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "surprise",
+   "name": "Surprise",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "aroma",
+   "name": "Aroma",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/aroma"
+  },
+  {
+   "id": "benoni",
+   "name": "Benoni",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/benoni"
+  },
+  {
+   "id": "clivia",
+   "name": "Clivia",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Clivia_%28apple%29"
+  },
+  {
+   "id": "dutch-mignonne",
+   "name": "Dutch Mignonne",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Dutch_Mignonne"
+  },
+  {
+   "id": "fireside",
+   "name": "Fireside",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/fireside"
+  },
+  {
+   "id": "foxwhelp",
+   "name": "Foxwhelp",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Foxwhelp"
+  },
+  {
+   "id": "indo",
+   "name": "Indo",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Indo_%28apple%29"
+  },
+  {
+   "id": "maiden-blush",
+   "name": "Maiden Blush",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Maiden_Blush_apple"
+  },
+  {
+   "id": "malinda",
+   "name": "Malinda",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Malinda_%28apple%29"
+  },
+  {
+   "id": "mantet",
+   "name": "Mantet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/mantet"
+  },
+  {
+   "id": "ortley",
+   "name": "Ortley",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Cleopatra",
+    "White Bellflower"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Ortley_%28apple%29"
+  },
+  {
+   "id": "paula-red",
+   "name": "Paula Red",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Paula_Red"
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+[
+ {
+  "id": "roter-eiserapfel",
+  "name": "Roter Eiserapfel",
+  "aka": ["Rote Eiserapfel", "Bamberger", "Paradiesapfel", "Eiser Rouge", "Hunt's Royal Red", "Schornsteinfeger", "Roter Krieger"],
+  "uses": ["culinary", "dessert", "juice"],
+  "origin": {
+   "country": "DE",
+   "place": "Franconia (Bamberg-Nuremberg area), Germany - presumed",
+   "year": 1600,
+   "year_note": "c.",
+   "kind": "ancient",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "One of the oldest German apples, thought to come from Franconia and grown around Bamberg and Nuremberg by the 16th-17th centuries; it gathered dozens of local names across central Europe. Famous as a phenomenal keeper, it was the traditional Christmas and Krampus apple in parts of Germany and Austria. The UK National Fruit Collection holds it as a triploid.",
+  "look": {
+   "size": "medium",
+   "shape": "irregular",
+   "ground": "yellow-green",
+   "blush": "deep-red",
+   "blush_cover": 70,
+   "stripes": false,
+   "russet": 1,
+   "description": "Lopsided, slightly ribbed fruit washed dark blood-red with a bluish bloom and many pale lenticel dots."
+  },
+  "taste": {
+   "summary": "Very firm, fine-grained cream flesh, juicy once mellowed. Sweet with a gentle subacid balance but little aroma and a faintly astringent edge; it needs several weeks in store to reach full flavour.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 1,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sweet", "astringent"],
+   "cider_class": null,
+   "best_eaten": "Dec-Apr; at its best after 4-6 weeks in store, keeping into summer in a cool cellar"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "triploid",
+   "notes": "Strong, long-lived tree making a very broad crown; a traditional orchard (Streuobst) standard. Undemanding and healthy."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Triploid: needs two diploid partners and is a poor pollen donor. Blossom is late and long-lasting and stands up well to poor weather. Group estimated from National Fruit Collection flowering dates (full bloom mid May)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 26
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool, moist central European uplands and similar damp temperate regions, including heavy, not very fertile soils.",
+   "poor_climates": "Warm valley sites and hot, dry summers, which German growers regard as unsuitable."
+  },
+  "health": {
+   "scab": null,
+   "canker": 2,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Regarded as very healthy; only minor susceptibility to canker and fire blight is reported."
+  },
+  "grow_notes": "Best as a large standard or half-standard on heavier, moisture-retentive soil, where it will live for generations. Plant two diploid pollinators that flower mid-to-late season. Pick in October and store cool; it improves for weeks before eating.",
+  "conf": "medium"
+ },
+ {
+  "id": "rouville",
+  "name": "Rouville",
+  "aka": [],
+  "uses": ["dessert", "juice", "cider", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Saint-Jean-sur-Richelieu, Quebec",
+   "year": 1983,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": null,
+   "raised_by": "Agriculture Canada research station, Saint-Jean-sur-Richelieu"
+  },
+  "history": "Released by Agriculture Canada in 1983 from the apple breeding programme that moved from Ottawa to Saint-Jean-sur-Richelieu, Quebec, in 1971 with aims of scab resistance and juice and cider quality. It is a hardy, scab-resistant summer apple; its parentage is not published in the sources consulted.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": null,
+   "russet": null,
+   "description": "Flattish apple, largely flushed deep red over a pale greenish-yellow ground."
+  },
+  "taste": {
+   "summary": "Very juicy, somewhat coarse flesh with a sweet, subacid flavour that growers liken to berries, finished by a light but noticeable tannic grip that suits juice and cider.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 1,
+   "crisp": 3,
+   "juicy": 5,
+   "tags": ["berry", "sweet", "astringent"],
+   "cider_class": null,
+   "best_eaten": "Aug-Sep from the tree; keeps about two months chilled"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Vigorous and very productive according to growers."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "No UK flowering group recorded; plant with another mid-season diploid."
+  },
+  "season": {
+   "harvest": "late Aug-early Sep",
+   "eating": "Aug-Oct",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter, humid regions such as southern Quebec and the Maritimes, where its scab immunity saves spraying.",
+   "poor_climates": "Hot-summer regions, where an early apple of this type softens quickly; untested in low-chill areas."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Bred for scab resistance and reported immune to the common North American scab races; other disease behaviour not documented."
+  },
+  "grow_notes": "A good low-spray choice for cold, wet districts. Pick over a short window as it ripens, and use quickly for eating, juicing or blending into cider.",
+  "conf": "low"
+ },
+ {
+  "id": "sandow",
+  "name": "Sandow",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Central Experimental Farm, Ottawa, Ontario",
+   "year": 1912,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Open-pollinated seedling of Northern Spy",
+   "raised_by": "Central Experimental Farm, Ottawa"
+  },
+  "history": "Selected in 1912 at the Central Experimental Farm in Ottawa from seedlings of Northern Spy and introduced in 1935. It was valued as a hardier, earlier-bearing and less scab-prone alternative to its parent; a tetraploid form (Hunter Sandow) is also held at the UK National Fruit Collection.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, flattish apple streaked bright scarlet over a red flush on a green-yellow ground."
+  },
+  "taste": {
+   "summary": "Juicy cream flesh, crisp at first and becoming tender, with a balanced sweet-sharp flavour and a light raspberry note noted by several growers.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["berry", "sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Comes into bearing sooner than Northern Spy. A tetraploid sport, Hunter Sandow, exists."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 12 May)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 14
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental regions of eastern Canada and the northern US (reported for zones 3-5), and cool temperate gardens.",
+   "poor_climates": "Hot southern summers and mild-winter areas lacking chill."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Described as more scab resistant than Northern Spy; other disease data lacking."
+  },
+  "grow_notes": "A hardy late keeper for cold districts that wants the flavour of Northern Spy without the long wait for crops. Pick in October and store until winter.",
+  "conf": "medium"
+ },
+ {
+  "id": "shinsei",
+  "name": "Shinsei",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "JP",
+   "place": "Aomori Apple Experiment Station, Aomori",
+   "year": 1930,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Early McIntosh",
+   "raised_by": "Aomori Apple Experiment Station"
+  },
+  "history": "Raised in 1930 at the Aomori Apple Experiment Station in northern Japan and named in 1948. It belongs to the early wave of Japanese crosses using Golden Delicious.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 15,
+   "stripes": false,
+   "russet": null,
+   "description": "Pale greenish to whitish-yellow apple with a faint pink cheek, looking like a small Golden Delicious."
+  },
+  "taste": {
+   "summary": "White, fine-grained flesh, crisp and juicy when fresh, with a very sweet, low-acid and lightly scented flavour; it softens within a few weeks of picking.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Oct-Nov"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "weeping",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "National Fruit Collection records a drooping tree habit."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 12 May)."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": "Oct-Nov",
+   "storage_weeks": 6
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate regions with warm summers and cold winters, like its home in northern Honshu.",
+   "poor_climates": "Very hot or mild-winter regions, and short cool summers; not documented outside collections."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A collector's apple rather than a garden standard. Pick in late September and eat within a few weeks, before the low-acid flesh turns soft.",
+  "conf": "low"
+ },
+ {
+  "id": "sinta",
+  "name": "Sinta",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CA",
+   "place": "Summerland Research Station, British Columbia",
+   "year": 1955,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Grimes Golden",
+   "raised_by": "K.O. Lapins, Canada Department of Agriculture, Summerland"
+  },
+  "history": "Raised in 1955 by K.O. Lapins at the Canadian research station in Summerland, British Columbia, from a cross of Golden Delicious with its probable parent Grimes Golden. It was released for trial in the 1960s but never became widespread.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 1,
+   "description": "Pale yellow, sometimes almost cream-white apple with a slight pinkish-orange cheek where sunned."
+  },
+  "taste": {
+   "summary": "Crisp, juicy, deep-cream flesh with a sweet, aromatic flavour that growers rate above both parents; a little crunchier than Golden Delicious.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Oct-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "National Fruit Collection records a spreading to drooping habit."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 10 May)."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm-summer temperate regions such as interior British Columbia and similar fruit districts.",
+   "poor_climates": "Very cold winters and short cool summers that may not ripen it; humid areas if, like its parents, it is prone to disease (not documented)."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A good choice for anyone who likes Golden Delicious but wants more aroma. Pick in early-to-mid October; it keeps until around the New Year in a cool store.",
+  "conf": "medium"
+ },
+ {
+  "id": "snovit",
+  "name": "Snövit",
+  "aka": ["Snovit"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "SE",
+   "place": "Alnarp, Skåne, Sweden",
+   "year": 1936,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Stenbock x Pfirsichroter Sommerapfel (Persikorött sommaräpple)",
+   "raised_by": "Emil Johansson"
+  },
+  "history": "Raised in 1936 by Emil Johansson at Alnarp in southern Sweden; the name means Snow White and refers to its strikingly white flesh. It is a Swedish summer apple suited to both eating and cooking.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "cream",
+   "blush": "red",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": null,
+   "description": "Conical, whitish-yellow apple striped with red."
+  },
+  "taste": {
+   "summary": "Very soft, snow-white flesh sometimes tinged pink, with a sweet and lightly perfumed flavour balanced by moderate acidity. It is not very juicy and goes over quickly.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 1,
+   "juicy": 2,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Aug-Sep, within a few weeks of picking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Early to flower. National Fruit Collection records a spreading to drooping habit."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early flowering; Swedish sources list partners such as James Grieve, Melba, Transparente Blanche, Sävstaholm and Gyllenkroks Astrakan. Group estimated from National Fruit Collection flowering dates (full bloom around 6 May)."
+  },
+  "season": {
+   "harvest": "mid Aug",
+   "eating": "Aug-Sep",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool Scandinavian and northern European climates; grown in Swedish zones III-V.",
+   "poor_climates": "Hot summers, where an early soft apple turns mealy fast; humid areas because of scab."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Swedish sources flag susceptibility to scab."
+  },
+  "grow_notes": "A hardy summer apple for cold gardens. Pick when the first fruits colour and eat promptly, as it keeps only a few weeks. Choose an airy site to limit scab.",
+  "conf": "medium"
+ },
+ {
+  "id": "spigold",
+  "name": "Spigold",
+  "aka": [],
+  "uses": ["dessert", "culinary", "juice"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York",
+   "year": 1962,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Red Spy x Golden Delicious (the NFC records the Red Spy parent as Rodluvan)",
+   "raised_by": "New York State Agricultural Experiment Station, Geneva"
+  },
+  "history": "Introduced in 1962 by the New York State Agricultural Experiment Station at Geneva from a cross of a red Northern Spy sport with Golden Delicious. A large triploid dessert apple, it is grown mainly by amateurs and enthusiasts who prize its flavour.",
+  "look": {
+   "size": "large",
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 75,
+   "stripes": true,
+   "russet": 0,
+   "description": "Big conical apple about three-quarters striped bright red over golden yellow, with a tender skin."
+  },
+  "taste": {
+   "summary": "Fine-grained, firm, crisp and very juicy yellow flesh with a sprightly sweet flavour; tasters report honeyed and citrus-like notes, though collection tasters found the aroma modest.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 5,
+   "tags": ["sweet", "honey", "citrus"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "upright",
+   "bearing": null,
+   "cropping": null,
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "triploid",
+   "notes": "Large, fairly vigorous tree with a tendency to crop biennially. Triploid, so it gives little useful pollen."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Triploid: needs two diploid partners in group 3-5 and will not pollinate them back."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 14
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter temperate regions such as New York and the Great Lakes, and mild damp maritime climates.",
+   "poor_climates": "Hot humid areas where cedar-apple rust is common, and mild-winter regions lacking chill."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": 5,
+   "bitter_pit": null,
+   "other": "Very susceptible to cedar-apple rust; some fire blight resistance. Tender skin bruises easily."
+  },
+  "grow_notes": "Give it space and two good diploid pollinators. Thin in heavy years to even out biennial cropping, and handle the fruit gently at picking.",
+  "conf": "medium"
+ },
+ {
+  "id": "star-of-devon",
+  "name": "Star of Devon",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "Broadclyst, near Exeter, Devon, England",
+   "year": 1905,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": "J. Garland"
+  },
+  "history": "Raised by J. Garland at Broadclyst near Exeter and introduced by George Pyne's Denver Nurseries in Topsham; it received an RHS Award of Merit in 1905. It is a parent of Cheddar Cross and has been grown on the Killerton estate near Broadclyst.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 80,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium apple heavily striped red over yellow, with a slightly greasy skin."
+  },
+  "taste": {
+   "summary": "Soft, greenish-white flesh with a rather sharp flavour and only a faint aroma.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 3,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Mar"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information recorded."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 9 May)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild, damp south-west England and similar maritime climates where it was raised.",
+   "poor_climates": "Hot or very cold continental climates; no documented performance outside Britain."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented."
+  },
+  "grow_notes": "A Devon heritage apple mainly of local interest. Pick in mid October and store; it keeps through winter.",
+  "conf": "low"
+ }
+]

@@ -1,0 +1,387 @@
+[
+ {
+  "id": "sweetie",
+  "name": "Sweetie",
+  "aka": ["PremA280"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "NZ",
+   "place": "Hawke's Bay, New Zealand",
+   "year": null,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Royal Gala x Braeburn (the US plant patent gives the cross as Braeburn x Royal Gala)",
+   "raised_by": "Allan G. White; introduced by Prevar Ltd"
+  },
+  "history": "A New Zealand Gala-Braeburn cross bred in Hawke's Bay, patented as PremA280 and released through Prevar under the trademark Sweetie. It was meant to be an early, very sweet alternative to Gala, and it is also grown under licence in Washington State.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": 80,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, conical, often lopsided fruit, striped and flushed dark red over most of a yellow skin, with prominent pale lenticels."
+  },
+  "taste": {
+   "summary": "Very sweet with low acidity, firm and crisp, with very juicy cream-coloured flesh. The flavour has a faint spicy note but is mild and does not linger. The breeders' description rates the aroma higher than retail tasting notes do.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 5,
+   "tags": ["sweet", "spice", "mild"],
+   "cider_class": null,
+   "best_eaten": "From picking into early winter"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Moderately vigorous with wide branch angles and a spreading habit, according to the plant patent."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Flowers mid to late season in New Zealand; UK group not established."
+  },
+  "season": {
+   "harvest": "early Sep-mid Sep",
+   "eating": "Sep-Dec",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 600,
+   "hardiness_zone": 6,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Warm, sunny temperate fruit districts such as Hawke's Bay and central Washington; it ripens a few days to a week before Royal Gala.",
+   "poor_climates": "Untested in cold-winter or cool maritime climates."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "The patent reports no notable resistance or susceptibility."
+  },
+  "grow_notes": "A licensed commercial variety, not usually offered to home gardeners. As an early Gala-season apple it is best eaten fresh rather than kept long.",
+  "conf": "medium"
+ },
+ {
+  "id": "taliaferro",
+  "name": "Taliaferro",
+  "aka": ["Robinson", "Robertson"],
+  "uses": ["cider", "dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Near Williamsburg, Virginia, USA (probably Doncastle's Ordinary)",
+   "year": 1778,
+   "year_note": "before",
+   "kind": "discovered",
+   "parentage": null,
+   "raised_by": "Found by Major Richard Taliaferro"
+  },
+  "history": "A Virginia apple found by Major Richard Taliaferro in a field near Williamsburg before 1778. It may have come from the Robinson family property, which explains the alternative names. Thomas Jefferson rated it the finest cider apple he knew. It appears to be lost, though 'Nelson County Crab', 'Highland County' and 'Red Coat' have been suggested as surviving forms.",
+  "look": {
+   "size": "small",
+   "shape": "round-flat",
+   "ground": "cream",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": true,
+   "russet": null,
+   "description": "A small to medium, flattened apple with straw-coloured to whitish skin and faint red streaks."
+  },
+  "taste": {
+   "summary": "Jefferson found it very juicy and good to eat. He praised its cider above all others, comparing it to fine wine or Champagne.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "tannin": null,
+   "crisp": null,
+   "juicy": 4,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No tree description survives."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 700,
+   "hardiness_zone": 6,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": null,
+   "best_climates": "The warm, humid Virginia Piedmont and Tidewater where it was grown.",
+   "poor_climates": "No records outside Virginia."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not recorded; probably extinct."
+  },
+  "grow_notes": "Not available as such; growers interested in Jefferson's cider should try the candidate survivors with caution, since none is confirmed.",
+  "conf": "low"
+ },
+ {
+  "id": "tartu-rose",
+  "name": "Tartu Rose",
+  "aka": ["Tartu roos", "Tartu roosõun", "Rozovoe iz Tartu"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "EE",
+   "place": "Estonia",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An Estonian apple once treated as a native variety. Hansman's Estonian pomology (1970) later judged it probably the same as the American Wealthy. The UK National Fruit Collection received it as 'Rozovoe iz Tartu' from the Vavilov Institute in 1976. That clone ripens in mid-August, about a month before Wealthy at Brogdale, and is crisp rather than soft, so the two may not be the same and its identity is still open.",
+  "look": {
+   "size": "small",
+   "shape": "round-conical",
+   "ground": "cream",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small, broad-conical fruit with a pale whitish-yellow base, partly flushed and striped red, with a little russet."
+  },
+  "taste": {
+   "summary": "In the UK the white flesh is firm, crisp and juicy but has little flavour. No tasting notes from Estonia were found.",
+   "sweet": null,
+   "acid": null,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["mild"],
+   "cider_class": null,
+   "best_eaten": "Straight from the tree in August"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No tree description found."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": null,
+   "notes": "Flowers early at Brogdale (late April), well before Wealthy; group inferred from those dates."
+  },
+  "season": {
+   "harvest": "mid Aug",
+   "eating": "Aug",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold Baltic climates such as Estonia's, where it was grown and probably tastes better than in England.",
+   "poor_climates": "Mild maritime climates such as south-east England, where it gives little flavour."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not recorded."
+  },
+  "grow_notes": "Mainly of interest to Baltic or cold-climate growers. In the UK, other early apples taste better. Check whether your tree is really Wealthy.",
+  "conf": "low"
+ },
+ {
+  "id": "woodcock",
+  "name": "Woodcock",
+  "aka": ["Afal coes y dryw", "Afal coeshir y gwin"],
+  "uses": ["cider"],
+  "origin": {
+   "country": "GB",
+   "place": "Herefordshire and Gloucestershire, England",
+   "year": 1670,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "One of the earliest-described English cider apples, listed by John Evelyn in 1670 among the main Gloucestershire cider fruits. People thought the name came from the bird-like stalk, but Knight suggested it was the raiser's surname. By 1830 it was in decline, and it is now thought lost. In 1932 a writer suggested that the Monmouthshire apple 'Frederick' might be the same or closely related.",
+  "look": {
+   "size": "medium",
+   "shape": "oblong",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": false,
+   "russet": null,
+   "description": "A medium, oval apple, yellow with a soft red flush that is deeper on the sunny side. It hangs on a distinctive fleshy, curved stalk about 2 cm long."
+  },
+  "taste": {
+   "summary": "No flavour description survives. It was valued as a cider apple and usually blended with other varieties.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "tannin": null,
+   "crisp": null,
+   "juicy": null,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": 5,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "A large, vigorous tree with heavy, pear-like limbs."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "The cider counties of the English West Midlands and the Welsh borders.",
+   "poor_climates": "No records elsewhere."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not recorded; probably extinct."
+  },
+  "grow_notes": "Not available; believed lost. 'Frederick' is the nearest suggested survivor for anyone recreating old Gloucestershire cider blends.",
+  "conf": "low"
+ },
+ {
+  "id": "amanda",
+  "name": "Amanda",
+  "aka": [],
+  "uses": ["cider"],
+  "origin": {
+   "country": "GB",
+   "place": "Long Ashton Research Station, near Bristol, England",
+   "year": 2008,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "From Long Ashton's cider-apple crosses using Michelin, Dabinett, James Grieve Red and Worcester Pearmain; its own cross is not stated in the sources found",
+   "raised_by": "Liz Copas and Ray Williams, Long Ashton Research Station"
+  },
+  "history": "One of 'The Girls', a set of cider apples mostly named after women, bred at Long Ashton between 1985 and 2003 and released by 2008. The aim was earlier-ripening bittersweets for England's commercial cider makers.",
+  "look": {
+   "size": "large",
+   "shape": null,
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": null,
+   "russet": null,
+   "description": "Medium to large greenish-yellow fruit with a variable red flush."
+  },
+  "taste": {
+   "summary": "A medium bittersweet: low acid with over 0.2% tannin. It is used in early pressings rather than eaten.",
+   "sweet": 3,
+   "acid": 1,
+   "aroma": null,
+   "tannin": 3,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["bitter", "astringent"],
+   "cider_class": "bittersweet",
+   "best_eaten": "Not a dessert apple; press soon after harvest"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": "part-tip",
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Heavy-cropping and a partial tip-bearer, so avoid hard pruning of all the shoot tips."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Listed in flowering group C (= 3) by one database; the RHS calls it early-flowering."
+  },
+  "season": {
+   "harvest": "late Sep-mid Oct",
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Southern and western English cider country; RHS hardiness H6 means it copes with cold winters throughout the UK and northern Europe.",
+   "poor_climates": "No records outside the UK."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No variety-specific disease data published; the RHS lists only the general apple problems."
+  },
+  "grow_notes": "Plant it in full sun on moist, well-drained soil, ideally facing south or west with shelter. It is a modern bittersweet for cider makers who want an early pressing before Dabinett and Michelin.",
+  "conf": "low"
+ }
+]

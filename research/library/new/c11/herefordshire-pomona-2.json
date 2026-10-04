@@ -1,0 +1,39 @@
+{
+  "_book": "herefordshire-pomona-2",
+  "red-autumn-calville": {
+    "line": 5348, "end": 5369, "heading": "4. CALVILLE ROUGE D'AUTOMNE.", "match": "synonym",
+    "flavour": "Flesh: white, tinged with red under the skin, and very much so on the side exposed to the sun; it is tender, delicate and juicy, with a pleasant vinous and violet scented flavour.",
+    "quality": "An apple very highly esteemed on the continent both as a culinary and dessert fruit",
+    "storage": "It is in season during October and November.",
+    "climate": "it requires a favourable season in this country to maintain its best qualities.",
+    "tags": ["wine", "floral"], "against": [], "sweet": null, "acid": null,
+    "note": "Syn: Autumn Calville; Autumn Red Calville."
+  },
+  "coccagee": {
+    "line": 9047, "end": 9096, "heading": "6. COCCAGEE.", "match": "exact",
+    "flavour": "Flesh: yellowish white, firm and crisp. Juice: moderately plentiful, of an amber colour, and a harsh austere taste. It is so extremely rough and tart that it would be almost impossible to eat one raw.",
+    "quality": "A very old and highly esteemed variety for culinary purposes, and especially for baking, when it possesses a peculiarly rich flavour.",
+    "storage": "It is in season from October, to February and March.",
+    "climate": null,
+    "tags": ["sharp", "astringent"], "against": [], "sweet": null, "acid": 5,
+    "note": "Believed Irish; favourite Devon cider apple c.1800. Stafford (1753) found in its cider 'a vinous pipinary golden flavour'. Juice 9.08% sugar. 'Rough and tart' is Brookshaw quoted."
+  },
+  "styre": {
+    "line": 9141, "end": 9193, "heading": "8. FOREST STYRE.", "match": "synonym",
+    "flavour": "Flesh: yellow, dry and harsh. Juice: small in quantity, pale straw colour, changing to deep amber, with a remarkably sweet luscious flavour and some astringency.",
+    "quality": "A fine old Gloucestershire cider apple",
+    "storage": null,
+    "climate": "extensively cultivated on the thin light limestone soil of the Forest of Dean.",
+    "tags": ["sweet", "astringent"], "against": [], "sweet": 4, "acid": null,
+    "note": "Syn: Stire; Stirom. Juice 14% sugar, 3.3% tannin etc. Knight: affords a stronger cider than any other apple. Remarkably sweet juice sits uneasily with our 'sharp' tag, though acidity is not mentioned. The book also has a separate short 'Styre, or Small Styre' (line 10853), a small red apple."
+  },
+  "woodcock": {
+    "line": 10941, "end": 10948, "heading": "Woodcock.", "match": "exact",
+    "flavour": null,
+    "quality": "It was formerly held in great esteem",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short paragraph in the list of Herefordshire cider apples: figured by Knight; disappeared from orchards and the fruit exhibited was not true to character. Not the Sussex Green Woodcock (line 2484)."
+  }
+}

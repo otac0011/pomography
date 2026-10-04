@@ -12,6 +12,20 @@
   "ta_units": "g/L malic acid"
  },
  "records": {
+  "american-summer-pearmain": {
+   "accession": "American Summer Pearmain",
+   "ssc": null,
+   "ta": 4.41,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589214"
+   ]
+  },
   "arkansas-black": {
    "accession": "Arkansas Black",
    "ssc": null,
@@ -52,6 +66,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 102537"
+   ]
+  },
+  "belle-fleur-de-france": {
+   "accession": "Double Bon Pommier",
+   "ssc": null,
+   "ta": 3.31,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "synonym",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 131104"
    ]
   },
   "ben-davis": {
@@ -122,6 +150,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589596"
+   ]
+  },
+  "cap-of-liberty": {
+   "accession": "Cap of Liberty",
+   "ssc": null,
+   "ta": 6.13,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 161830"
    ]
   },
   "cortland": {
@@ -225,6 +267,20 @@
     "PI 590122"
    ]
   },
+  "dufflin": {
+   "accession": "Dufflin",
+   "ssc": null,
+   "ta": 6.86,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 175542"
+   ]
+  },
   "edward-vii": {
    "accession": "Edward VII",
    "ssc": null,
@@ -295,6 +351,20 @@
     "PI 392303"
    ]
   },
+  "gewurzluiken": {
+   "accession": "Gewurzluiken",
+   "ssc": null,
+   "ta": 3.95,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 132225"
+   ]
+  },
   "glockenapfel": {
    "accession": "Pomme Cloche",
    "ssc": null,
@@ -321,6 +391,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 590184"
+   ]
+  },
+  "golden-harvey": {
+   "accession": "Golden Harvey",
+   "ssc": null,
+   "ta": 7.79,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 590128"
    ]
   },
   "golden-russet": {
@@ -419,6 +503,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 589202"
+   ]
+  },
+  "jefferis": {
+   "accession": "Jefferis",
+   "ssc": null,
+   "ta": 3.98,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 589185"
    ]
   },
   "jonathan": {
@@ -881,6 +979,20 @@
    "stage": "harvest",
    "accession_ids": [
     "PI 175553"
+   ]
+  },
+  "white-winter-pearmain": {
+   "accession": "White Winter Pearmain",
+   "ssc": null,
+   "ta": 3.9,
+   "firmness": null,
+   "firmness_units": null,
+   "n": 1,
+   "years": "2017",
+   "match": "exact",
+   "stage": "harvest",
+   "accession_ids": [
+    "PI 613887"
    ]
   },
   "wickson-crab": {

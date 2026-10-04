@@ -1,0 +1,313 @@
+{
+ "batch": "coverage-4",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "oriole",
+   "name": "Oriole",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/oriole"
+  },
+  {
+   "id": "orleans",
+   "name": "Orleans",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "ozark-gold",
+   "name": "Ozark Gold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/ozark-gold"
+  },
+  {
+   "id": "priam",
+   "name": "Priam",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/priam"
+  },
+  {
+   "id": "pumpkin-sweet",
+   "name": "Pumpkin Sweet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/pumpkin-sweet"
+  },
+  {
+   "id": "redgold",
+   "name": "Redgold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/red-gold"
+  },
+  {
+   "id": "reinette-simirenko",
+   "name": "Reinette Simirenko",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Reinette_Simirenko"
+  },
+  {
+   "id": "sharon",
+   "name": "Sharon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/sharon"
+  },
+  {
+   "id": "spencer-seedless",
+   "name": "Spencer Seedless",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "splendour",
+   "name": "Splendour",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "american-summer-pearmain",
+   "name": "American Summer Pearmain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "American Summer Pearmain",
+    "Early Summer Pearmain"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/american-summer-pearmain"
+  },
+  {
+   "id": "sweet-bough",
+   "name": "Sweet Bough",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Early Bough",
+    "Large Yellow Bough"
+   ],
+   "listed_in": [
+    "grin",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Sweet_Bough"
+  },
+  {
+   "id": "sweet-delicious",
+   "name": "Sweet Delicious",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/sweet-delicious"
+  },
+  {
+   "id": "tumanga",
+   "name": "Tumanga",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Auralia"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/tumanga"
+  },
+  {
+   "id": "upton-pyne",
+   "name": "Upton Pyne",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Upton_Pyne_apple"
+  },
+  {
+   "id": "wagener",
+   "name": "Wagener",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "orangepippin",
+    "refpop",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Wagener_%28apple%29"
+  },
+  {
+   "id": "white-winter-pearmain",
+   "name": "White Winter Pearmain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/White_Winter_Pearmain"
+  },
+  {
+   "id": "wijcik-mcintosh",
+   "name": "Wijcik McIntosh",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Wijcik_McIntosh"
+  },
+  {
+   "id": "abbondanza",
+   "name": "Abbondanza",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Belfort"
+   ],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "american-golden-pippin",
+   "name": "American Golden Pippin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Golden Apple",
+    "Golden Pippin",
+    "Golding",
+    "New York Greening"
+   ],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/golden-pippin"
+  }
+ ]
+}

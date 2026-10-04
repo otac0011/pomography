@@ -43,6 +43,66 @@
    "text": "Adams’s Pearmain"
   }
  ],
+ "chenango": [
+  {
+   "line": 19700,
+   "page": null,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry, Early                           230"
+  },
+  {
+   "line": 938,
+   "page": null,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "strawberry or raspberry flavor."
+  }
+ ],
+ "detroit-red": [
+  {
+   "line": 13761,
+   "page": null,
+   "score": 1.8,
+   "key": "CRIMSON PIPPIN",
+   "text": "Crimson Pippin."
+  },
+  {
+   "line": 1037,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson.--2. The ground color changes by keeping to beautiful deep"
+  },
+  {
+   "line": 1307,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson.--2. The ground color changes by keeping, to beautiful deep"
+  },
+  {
+   "line": 5985,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson. Eye, small and slightly closed, set in a shallow and puckered"
+  },
+  {
+   "line": 9869,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson. Eye, large and open, like that of the Blenheim Pippin, and"
+  },
+  {
+   "line": 10560,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson, marked with streaks of deeper crimson, on the side next the"
+  }
+ ],
  "early-harvest": [
   {
    "line": 1412,
@@ -85,6 +145,15 @@
    "score": 1.3,
    "key": "EARLY HARVEST",
    "text": "Early Harvest                                75"
+  }
+ ],
+ "sweet-bough": [
+  {
+   "line": 1416,
+   "page": null,
+   "score": 1.8,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "Large Yellow Bough"
   }
  ],
  "duchess-of-oldenburg": [
@@ -189,6 +258,22 @@
    "score": 1.8,
    "key": "IRISH PEACH",
    "text": "Irish Peach"
+  }
+ ],
+ "maiden-blush": [
+  {
+   "line": 1445,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden’s Blush"
+  },
+  {
+   "line": 18696,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden’s Blush                              130"
   }
  ],
  "red-astrachan": [
@@ -332,6 +417,50 @@
    "text": "Yellow Ingestrie"
   }
  ],
+ "american-summer-pearmain": [
+  {
+   "line": 1476,
+   "page": null,
+   "score": 1.8,
+   "key": "AMERICAN SUMMER PEARMAIN",
+   "text": "American Summer Pearmain"
+  },
+  {
+   "line": 1665,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17536,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17610,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 17764,
+   "page": null,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain"
+  },
+  {
+   "line": 18896,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN SUMMER",
+   "text": "American Summer                    23"
+  }
+ ],
  "kerry-pippin": [
   {
    "line": 1478,
@@ -464,6 +593,50 @@
    "text": "Mére de Mènage"
   }
  ],
+ "gloria-mundi": [
+  {
+   "line": 1522,
+   "page": null,
+   "score": 1.8,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria Mundi"
+  },
+  {
+   "line": 17792,
+   "page": null,
+   "score": 1.8,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria Mundi"
+  },
+  {
+   "line": 5972,
+   "page": null,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "_Gloria Mundi_ with _Golden Mundi_, which he has described under the"
+  },
+  {
+   "line": 18420,
+   "page": null,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria Mundi                                 91"
+  },
+  {
+   "line": 18861,
+   "page": null,
+   "score": 1.3,
+   "key": "OX APPLE",
+   "text": "_Ox Apple_                                   91"
+  },
+  {
+   "line": 18663,
+   "page": null,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous                       252"
+  }
+ ],
  "golden-noble": [
   {
    "line": 1524,
@@ -485,6 +658,43 @@
    "score": 1.8,
    "key": "GOLDEN NOBLE",
    "text": "Golden Noble"
+  }
+ ],
+ "cellini": [
+  {
+   "line": 1544,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini"
+  },
+  {
+   "line": 17415,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini"
+  },
+  {
+   "line": 17542,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini"
+  },
+  {
+   "line": 17785,
+   "page": null,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini"
+  },
+  {
+   "line": 18152,
+   "page": null,
+   "score": 1.0,
+   "key": "CELLINI",
+   "text": "Cellini                                      53"
   }
  ],
  "gravenstein": [
@@ -619,6 +829,15 @@
    "score": 1.3,
    "key": "KINGSTON BLACK",
    "text": "Kingston Black                              123"
+  }
+ ],
+ "red-autumn-calville": [
+  {
+   "line": 1577,
+   "page": null,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "Calville Rouge d’Automne"
   }
  ],
  "flower-of-kent": [
@@ -771,6 +990,36 @@
    "text": "Catshead                                     53"
   }
  ],
+ "coccagee": [
+  {
+   "line": 1617,
+   "page": null,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee"
+  },
+  {
+   "line": 17840,
+   "page": null,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee"
+  },
+  {
+   "line": 18171,
+   "page": null,
+   "score": 1.0,
+   "key": "COCCAGEE",
+   "text": "Coccagee                                     57"
+  },
+  {
+   "line": 18172,
+   "page": null,
+   "score": 1.0,
+   "key": "COCKAGEE",
+   "text": "_Cockagee_                                   57"
+  }
+ ],
  "costard": [
   {
    "line": 1618,
@@ -806,6 +1055,36 @@
    "score": 1.0,
    "key": "PRUSSIAN",
    "text": "_Prussian_                            61"
+  }
+ ],
+ "lucombes-seedling": [
+  {
+   "line": 1766,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe’s Seedling"
+  },
+  {
+   "line": 18684,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe’s Seedling                          130"
+  },
+  {
+   "line": 1625,
+   "page": null,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe’s Pine"
+  },
+  {
+   "line": 18986,
+   "page": null,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe’s                       129"
   }
  ],
  "melrose": [
@@ -951,6 +1230,73 @@
    "text": "Summer Pearmain"
   }
  ],
+ "woodcock": [
+  {
+   "line": 1683,
+   "page": null,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock"
+  },
+  {
+   "line": 17874,
+   "page": null,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock"
+  },
+  {
+   "line": 19811,
+   "page": null,
+   "score": 1.0,
+   "key": "WOODCOCK",
+   "text": "Woodcock                                    210"
+  }
+ ],
+ "alfriston": [
+  {
+   "line": 1708,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 17474,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 17577,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 17776,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 18841,
+   "page": null,
+   "score": 1.3,
+   "key": "OLDAKERS NEW",
+   "text": "_Oldaker’s New_                              21"
+  },
+  {
+   "line": 19654,
+   "page": null,
+   "score": 1.3,
+   "key": "SHEPHERDS SEEDLING",
+   "text": "_Shepherd’s Seedling_                        21"
+  }
+ ],
  "blenheim-orange": [
   {
    "line": 1712,
@@ -993,6 +1339,80 @@
    "score": 1.8,
    "key": "BLENHEIM PIPPIN",
    "text": "Blenheim Pippin"
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 1849,
+   "page": null,
+   "score": 1.8,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet Gris"
+  },
+  {
+   "line": 18373,
+   "page": null,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet Gris                              82"
+  },
+  {
+   "line": 1723,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet Jaune"
+  },
+  {
+   "line": 1850,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet Rouge"
+  },
+  {
+   "line": 5475,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet _acc. Calvel_. Petit Fenouillet, _Ibid._ Pomme d’Anis,"
+  },
+  {
+   "line": 18372,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "_Fenouillet_                                 82"
+  }
+ ],
+ "holland-pippin": [
+  {
+   "line": 1726,
+   "page": null,
+   "score": 1.8,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland Pippin"
+  },
+  {
+   "line": 17581,
+   "page": null,
+   "score": 1.8,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland Pippin"
+  },
+  {
+   "line": 17803,
+   "page": null,
+   "score": 1.8,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland Pippin"
+  },
+  {
+   "line": 19096,
+   "page": null,
+   "score": 1.0,
+   "key": "HOLLAND",
+   "text": "Holland                              110"
   }
  ],
  "rhode-island-greening": [
@@ -1129,6 +1549,22 @@
    "text": "Newtown Pippin                              143"
   }
  ],
+ "brabant-bellefleur": [
+  {
+   "line": 1752,
+   "page": null,
+   "score": 1.8,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant Bellefleur"
+  },
+  {
+   "line": 17661,
+   "page": null,
+   "score": 1.8,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant Bellefleur"
+  }
+ ],
  "calville-rouge-dhiver": [
   {
    "line": 1753,
@@ -1152,6 +1588,50 @@
    "score": 1.0,
    "key": "CAROLINE",
    "text": "Caroline                                     52"
+  }
+ ],
+ "dutch-mignonne": [
+  {
+   "line": 1756,
+   "page": null,
+   "score": 1.8,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch Mignonne"
+  },
+  {
+   "line": 17448,
+   "page": null,
+   "score": 1.8,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch Mignonne"
+  },
+  {
+   "line": 17741,
+   "page": null,
+   "score": 1.8,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch Mignonne"
+  },
+  {
+   "line": 18315,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch Mignonne                               74"
+  },
+  {
+   "line": 18883,
+   "page": null,
+   "score": 1.0,
+   "key": "PATERNOSTER",
+   "text": "_Paternoster_                                91"
+  },
+  {
+   "line": 18884,
+   "page": null,
+   "score": 1.0,
+   "key": "PATERNOSTER",
+   "text": "_Paternoster Apfel_                          74"
   }
  ],
  "hambledon-deux-ans": [
@@ -1646,6 +2126,50 @@
    "text": "Boston Russet"
   }
  ],
+ "golden-harvey": [
+  {
+   "line": 1851,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 15338,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey. It is of an oblate shape, yellow color; the flesh is"
+  },
+  {
+   "line": 17449,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 17745,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 17852,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 18038,
+   "page": null,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "_Brandy Apple_                               92"
+  }
+ ],
  "knobby-russet": [
   {
    "line": 1854,
@@ -1818,6 +2342,43 @@
    "text": "_Woodpecker_                                 29"
   }
  ],
+ "baxters-pearmain": [
+  {
+   "line": 1911,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter’s Pearmain"
+  },
+  {
+   "line": 17475,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter’s Pearmain"
+  },
+  {
+   "line": 17560,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter’s Pearmain"
+  },
+  {
+   "line": 17641,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter’s Pearmain"
+  },
+  {
+   "line": 18901,
+   "page": null,
+   "score": 1.0,
+   "key": "BAXTERS",
+   "text": "Baxter’s                           32"
+  }
+ ],
  "beauty-of-kent": [
   {
    "line": 1912,
@@ -1945,6 +2506,59 @@
    "text": "Sussex Scarlet                    275"
   }
  ],
+ "manningtons-pearmain": [
+  {
+   "line": 1946,
+   "page": null,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington’s Pearmain"
+  },
+  {
+   "line": 17456,
+   "page": null,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington’s Pearmain"
+  },
+  {
+   "line": 18931,
+   "page": null,
+   "score": 1.0,
+   "key": "MANNINGTONS",
+   "text": "Mannington’s                      131"
+  }
+ ],
+ "ortley": [
+  {
+   "line": 12792,
+   "page": null,
+   "score": 1.8,
+   "key": "VAN DYNE",
+   "text": "Van Dyne, _Hort. Soc. Cat._ ed. 1, 1128."
+  },
+  {
+   "line": 1958,
+   "page": null,
+   "score": 1.3,
+   "key": "WOOLMANS LONG",
+   "text": "Woolman’s Long"
+  },
+  {
+   "line": 19764,
+   "page": null,
+   "score": 1.3,
+   "key": "VAN DYNE",
+   "text": "_Van Dyne_                                  210"
+  },
+  {
+   "line": 19817,
+   "page": null,
+   "score": 1.3,
+   "key": "WOOLMANS LONG",
+   "text": "Woolman’s Long                              210"
+  }
+ ],
  "golden-knob": [
   {
    "line": 1967,
@@ -1952,6 +2566,36 @@
    "score": 1.8,
    "key": "GOLDEN KNOB",
    "text": "Golden Knob"
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 1968,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden Pearmain"
+  },
+  {
+   "line": 12338,
+   "page": null,
+   "score": 1.5,
+   "key": "GLOUCESTER",
+   "text": "Gloucester. The original tree is still existing in the nursery of"
+  },
+  {
+   "line": 18177,
+   "page": null,
+   "score": 1.0,
+   "key": "CLARKES",
+   "text": "Clarke’s                            223"
+  },
+  {
+   "line": 18438,
+   "page": null,
+   "score": 1.0,
+   "key": "GLOUCESTER",
+   "text": "Gloucester                           236"
   }
  ],
  "golden-russet": [
@@ -2039,6 +2683,59 @@
    "text": "original tree existed within the last few years, in what had originally"
   }
  ],
+ "jubilee": [
+  {
+   "line": 2955,
+   "page": null,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "Jubilee Rose Pip, _Nursery Catalogues_."
+  },
+  {
+   "line": 18001,
+   "page": null,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "_Jubilee Rose Pip_                   38"
+  },
+  {
+   "line": 19109,
+   "page": null,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "_Jubilee_                             38"
+  }
+ ],
+ "edelborsdorfer": [
+  {
+   "line": 3077,
+   "page": null,
+   "score": 1.3,
+   "key": "QUEENS APPLE",
+   "text": "Queen’s Apple, _Fors. Treat._ ed. 3, 15, Red Borsdorffer, _Willich"
+  },
+  {
+   "line": 3080,
+   "page": null,
+   "score": 1.3,
+   "key": "REINETTE DALLEMAGNE",
+   "text": "Reinette d’Allemagne, _Ibid._ Blanche de Leipsic, _Acc. Knoop. Pom._"
+  },
+  {
+   "line": 18019,
+   "page": null,
+   "score": 1.0,
+   "key": "BORSDORFER",
+   "text": "_Borsdorfer, Edel Winter_                    40"
+  },
+  {
+   "line": 18717,
+   "page": null,
+   "score": 1.0,
+   "key": "MASCHANZKER",
+   "text": "_Maschanzker_                                40"
+  }
+ ],
  "lord-suffield": [
   {
    "line": 3830,
@@ -2090,6 +2787,15 @@
    "score": 1.5,
    "key": "CHRISTMAS",
    "text": "Christmas."
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 7677,
+   "page": null,
+   "score": 1.5,
+   "key": "ROBERTSON",
+   "text": "Robertson, the nurseryman of Kilkenny, in Ireland."
   }
  ],
  "summer-rambo": [
@@ -2158,6 +2864,15 @@
    "text": "Cadbury                                     221"
   }
  ],
+ "styre": [
+  {
+   "line": 17847,
+   "page": null,
+   "score": 1.8,
+   "key": "FOREST STYRE",
+   "text": "Forest Styre"
+  }
+ ],
  "yellow-bellflower": [
   {
    "line": 17979,
@@ -2167,6 +2882,15 @@
    "text": "Bellefleur, Brabant                          42"
   }
  ],
+ "jersey-black": [
+  {
+   "line": 17994,
+   "page": null,
+   "score": 1.3,
+   "key": "BLACK AMERICAN",
+   "text": "Black American                              218"
+  }
+ ],
  "bohnapfel": [
   {
    "line": 18009,
@@ -2174,6 +2898,22 @@
    "score": 1.5,
    "key": "BOHNAPFEL",
    "text": "Bohnapfel, Grosse Rheinischer               238"
+  }
+ ],
+ "white-winter-pearmain": [
+  {
+   "line": 18128,
+   "page": null,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "_White Winter_                      48"
+  },
+  {
+   "line": 18130,
+   "page": null,
+   "score": 1.3,
+   "key": "WINTER WHITE",
+   "text": "_Winter White_                      48"
   }
  ],
  "tower-of-glamis": [
@@ -2192,6 +2932,15 @@
    "score": 1.3,
    "key": "DUCKS BILL",
    "text": "_Duck’s Bill_                               208"
+  }
+ ],
+ "fallawater": [
+  {
+   "line": 18359,
+   "page": null,
+   "score": 1.0,
+   "key": "FALLAWATER",
+   "text": "Fallawater                                  232"
   }
  ],
  "sheepnose": [
@@ -2228,6 +2977,15 @@
    "text": "Miller’s                             251"
   }
  ],
+ "american-golden-pippin": [
+  {
+   "line": 18432,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN APPLE",
+   "text": "_Golden Apple_                              149"
+  }
+ ],
  "worcester-pearmain": [
   {
    "line": 18473,
@@ -2235,6 +2993,15 @@
    "score": 1.0,
    "key": "WORCESTER",
    "text": "Worcester                            236"
+  }
+ ],
+ "harrison": [
+  {
+   "line": 18511,
+   "page": null,
+   "score": 1.0,
+   "key": "HARRISON",
+   "text": "Harrison                                    239"
   }
  ],
  "jonathan": [
@@ -2273,6 +3040,24 @@
    "text": "Northern Spy                                256"
   }
  ],
+ "golden-sweet": [
+  {
+   "line": 18866,
+   "page": null,
+   "score": 1.3,
+   "key": "SUMMER SWEET",
+   "text": "Summer Sweet                      274"
+  }
+ ],
+ "rokewood": [
+  {
+   "line": 19016,
+   "page": null,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "_Bullock’s_                          182"
+  }
+ ],
  "gladstone": [
   {
    "line": 19107,
@@ -2298,6 +3083,15 @@
    "score": 1.3,
    "key": "SIBERIAN CRAB",
    "text": "_Siberian Crab_                              54"
+  }
+ ],
+ "pederstrup": [
+  {
+   "line": 19695,
+   "page": null,
+   "score": 1.0,
+   "key": "STETTINER",
+   "text": "_Stettiner Rothe_                           266"
   }
  ],
  "stirling-castle": [

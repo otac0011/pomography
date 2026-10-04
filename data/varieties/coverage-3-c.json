@@ -1,0 +1,333 @@
+[
+  {
+    "id": "nanny",
+    "name": "Nanny",
+    "aka": [
+      "Nancy"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Surrey, England",
+      "year": 1842,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Surrey dessert apple recorded in 1842. Little else is documented about its origin.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to fairly large, broadly conical fruit, heavily striped orange-red over pale yellow."
+    },
+    "taste": {
+      "summary": "Fairly firm, fine, rather dry cream flesh with a gently acid flavour; no aroma notes recorded.",
+      "sweet": null,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not recorded."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "No published group found; National Fruit Collection records it among the earlier-flowering apples, so group 2 is an estimate."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Southern English conditions, where it originated.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded."
+    },
+    "grow_notes": "A rare collection apple from Surrey; grow as a typical English early-autumn dessert apple with an early-flowering partner.",
+    "conf": "low"
+  },
+  {
+    "id": "niagara",
+    "name": "Niagara",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
+      "year": 1950,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Carlton x McIntosh",
+      "raised_by": "New York State Agricultural Experiment Station"
+    },
+    "history": "Selected at Geneva, New York, in 1950 and introduced in 1962 as an early McIntosh-type apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, somewhat irregular conical fruit with a deep red blush and stripes over pale yellow; tough skin."
+    },
+    "taste": {
+      "summary": "Fine, crisp, tender white flesh like McIntosh, very sweet and juicy with mild acidity and some aroma.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not well recorded."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "No published group found; early National Fruit Collection flowering dates and McIntosh parentage suggest group 2."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool north-eastern US and eastern Canadian climates suited to McIntosh types.",
+      "poor_climates": "Not documented; McIntosh types soften and colour poorly in hot summers."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 2,
+      "bitter_pit": null,
+      "other": "Rated resistant to cedar-apple rust in Arkansas trials; other diseases not recorded."
+    },
+    "grow_notes": "An early-season McIntosh-style apple for cold districts; eat within a few weeks of picking.",
+    "conf": "medium"
+  },
+  {
+    "id": "norfolk-royal",
+    "name": "Norfolk Royal",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Wright's Nurseries, North Walsham, Norfolk, England",
+      "year": 1908,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown",
+      "raised_by": "Wright's Nurseries (found as a chance seedling)"
+    },
+    "history": "A chance seedling found at Wright's Nurseries in North Walsham, Norfolk, around 1908; introduced in 1928 and named in 1930. Its russeted sport, Norfolk Royal Russet, is now better known.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, conical fruit with a bright red flush and streaks over pale yellow."
+    },
+    "taste": {
+      "summary": "Crisp, firm and very juicy white flesh with a sweet, pleasant flavour that has a delicate melon note.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "melon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Regular bearer; few other tree details recorded."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "No published group found for the parent; group 4 matches the record for its sport Norfolk Royal Russet and its slightly late National Fruit Collection flowering."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool-summer climates like East Anglia, where it is a local favourite.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded for the parent; its russet sport is reported to resist scab and mildew."
+    },
+    "grow_notes": "A regional East Anglian apple suited to the drier east of England. Pick in September and eat within a couple of months.",
+    "conf": "medium"
+  },
+  {
+    "id": "ontario",
+    "name": "Ontario",
+    "aka": [
+      "Ontarioapfel"
+    ],
+    "uses": [
+      "culinary",
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Paris, Ontario, Canada",
+      "year": 1874,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Wagener x Northern Spy",
+      "raised_by": "Charles Arnold"
+    },
+    "history": "Raised by the nurseryman Charles Arnold at Paris, Ontario, from Wagener and Northern Spy; German Wikipedia dates it to about 1874, while English sources give about 1820. It gained an RHS Award of Merit in 1898, became widely grown in central Europe as Ontarioapfel, and is a parent of Juno and Schweizer Orange.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, flattish, strongly ribbed fruit, greenish yellow with a bluish-red to dark red flush and mottling, and a bloom on the skin."
+    },
+    "taste": {
+      "summary": "Soft, fine, very juicy greenish-white flesh with a lively, sprightly acidity, some sweetness and a little aroma. Rich in vitamin C; cooks to a purée.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Apr after storage"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Medium vigour. Fruit bruises easily. Ploidy unclear: Orange Pippin lists it as triploid, but German sources recommend it as a pollinator and the National Fruit Collection holds a separate tetraploid sport, which suggests the normal form is diploid."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 per Orange Pippin; blossom is unusually frost-tolerant. Check ploidy before relying on it as a pollinator."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Apr",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm sites in temperate central Europe or southern Ontario, including places prone to late spring frost, since the blossom is hardy.",
+      "poor_climates": "Regions with severe winters: the wood is frost-tender despite the hardy blossom."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Fruit bruises easily; wood is sensitive to hard winter frost. Needs fertile soil."
+    },
+    "grow_notes": "Plant on rich soil in a warm spot and pick late, handling the fruit gently. Store until December or later before eating fresh.",
+    "conf": "medium"
+  }
+]

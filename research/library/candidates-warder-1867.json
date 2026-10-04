@@ -1,4 +1,48 @@
 {
+ "american-summer-pearmain": [
+  {
+   "line": 11398,
+   "page": null,
+   "score": 3.5,
+   "key": "AMERICAN",
+   "text": "AMERICAN."
+  },
+  {
+   "line": 73,
+   "page": null,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN POMOLOGY."
+  },
+  {
+   "line": 15193,
+   "page": null,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN RED JUNEATING."
+  },
+  {
+   "line": 20996,
+   "page": null,
+   "score": 1.8,
+   "key": "AMERICAN SUMMER PEARMAIN",
+   "text": "American Summer Pearmain,"
+  },
+  {
+   "line": 21157,
+   "page": null,
+   "score": 1.8,
+   "key": "AMERICAN SUMMER PEARMAIN",
+   "text": "American Summer Pearmain,"
+  },
+  {
+   "line": 21166,
+   "page": null,
+   "score": 1.8,
+   "key": "AMERICAN SUMMER PEARMAIN",
+   "text": "American Summer Pearmain,"
+  }
+ ],
  "arbroath-pippin": [
   {
    "line": 154,
@@ -107,6 +151,59 @@
    "text": "Delicious and profitable."
   }
  ],
+ "foxwhelp": [
+  {
+   "line": 1431,
+   "page": null,
+   "score": 1.0,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp are hastening rapidly after them.\" In noticing the decay of"
+  }
+ ],
+ "harrison": [
+  {
+   "line": 22787,
+   "page": null,
+   "score": 1.8,
+   "key": "LONG STEM",
+   "text": "Long Stem, (L.      |    |      |                  |        |       |"
+  },
+  {
+   "line": 21341,
+   "page": null,
+   "score": 1.5,
+   "key": "HARRISON",
+   "text": "Harrison,"
+  },
+  {
+   "line": 21809,
+   "page": null,
+   "score": 1.5,
+   "key": "HARRISON",
+   "text": "Harrison,"
+  },
+  {
+   "line": 21823,
+   "page": null,
+   "score": 1.5,
+   "key": "HARRISON",
+   "text": "Harrison,"
+  },
+  {
+   "line": 22786,
+   "page": null,
+   "score": 1.3,
+   "key": "LONG STEM",
+   "text": "Long Stem           |med.| Ky.  |    I.  I. 2. 2.  | Winter |       |"
+  },
+  {
+   "line": 1461,
+   "page": null,
+   "score": 1.0,
+   "key": "HARRISON",
+   "text": "Harrison informed him that this variety was very successfully grown on"
+  }
+ ],
  "northern-spy": [
   {
    "line": 20940,
@@ -149,6 +246,31 @@
    "score": 1.8,
    "key": "NORTHERN SPY",
    "text": "Northern Spy,"
+  }
+ ],
+ "burgundy": [
+  {
+   "line": 2723,
+   "page": null,
+   "score": 1.0,
+   "key": "BURGUNDY",
+   "text": "Burgundy pitch                  28 parts."
+  }
+ ],
+ "chenango": [
+  {
+   "line": 20736,
+   "page": null,
+   "score": 3.8,
+   "key": "CHENANGO STRAWBERRY",
+   "text": "CHENANGO STRAWBERRY."
+  },
+  {
+   "line": 3989,
+   "page": null,
+   "score": 3.5,
+   "key": "STRAWBERRY",
+   "text": "STRAWBERRY. DWARFING THE APPLE. PARADISE STOCK. THE DOUCIN;"
   }
  ],
  "rhode-island-greening": [
@@ -218,6 +340,50 @@
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "chestnut-brown, shaped like a beech-nut, with a perpendicular"
+  }
+ ],
+ "detroit-red": [
+  {
+   "line": 15754,
+   "page": null,
+   "score": 3.8,
+   "key": "DETROIT RED",
+   "text": "DETROIT RED?--GRAND SACHEM."
+  },
+  {
+   "line": 10464,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson."
+  },
+  {
+   "line": 10789,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson."
+  },
+  {
+   "line": 11897,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson; Flesh whitish, crisp, juicy, acid and pleasant; October and"
+  },
+  {
+   "line": 13702,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson; Dots scattered, large, gray."
+  },
+  {
+   "line": 15203,
+   "page": null,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson; Dots rare, very minute; Surface sticky or \"greasy\" when"
   }
  ],
  "early-harvest": [
@@ -322,6 +488,50 @@
    "score": 1.0,
    "key": "HAWTHORNDEN",
    "text": "=Hawthornden=       |lg. | Scot.|    I.  I. 2. 1.  | Autumn | good  |410"
+  }
+ ],
+ "maiden-blush": [
+  {
+   "line": 16399,
+   "page": null,
+   "score": 3.8,
+   "key": "LADY BLUSH",
+   "text": "LADY BLUSH."
+  },
+  {
+   "line": 17147,
+   "page": null,
+   "score": 3.8,
+   "key": "RED CHEEK",
+   "text": "RED CHEEK."
+  },
+  {
+   "line": 11847,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's Blush, which possesses all its good qualities as a market and"
+  },
+  {
+   "line": 11933,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "=Maiden's Blush.="
+  },
+  {
+   "line": 20976,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's Blush,"
+  },
+  {
+   "line": 20992,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's Blush."
   }
  ],
  "christmas-pearmain": [
@@ -481,6 +691,22 @@
    "text": "=Duchess of         |lg. | Eur. |{   I.  I. 2. 2. }| Summer | good  |431"
   }
  ],
+ "jefferis": [
+  {
+   "line": 12846,
+   "page": null,
+   "score": 1.0,
+   "key": "JEFFERIES",
+   "text": "=Jefferies.="
+  },
+  {
+   "line": 22649,
+   "page": null,
+   "score": 1.0,
+   "key": "JEFFERIES",
+   "text": "=Jefferies=         |med.| Penn.|    I.  I. 2. 2.  | Summer | best  |440"
+  }
+ ],
  "newtown-pippin": [
   {
    "line": 17165,
@@ -523,6 +749,50 @@
    "score": 1.8,
    "key": "NEWTOWN PIPPIN",
    "text": "Newtown Pippin."
+  }
+ ],
+ "ohio-nonpareil": [
+  {
+   "line": 13076,
+   "page": null,
+   "score": 3.8,
+   "key": "MYERS NONPAREIL",
+   "text": "MYER'S NONPAREIL--WESTERN BEAUTY."
+  },
+  {
+   "line": 21278,
+   "page": null,
+   "score": 1.8,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio Nonpareil,"
+  },
+  {
+   "line": 13074,
+   "page": null,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "=Ohio Nonpareil.="
+  },
+  {
+   "line": 22928,
+   "page": null,
+   "score": 1.3,
+   "key": "MYERS NONPAREIL",
+   "text": "_Myer's Nonpareil_, Synonym of Ohio Nonpareil.                      |"
+  },
+  {
+   "line": 22968,
+   "page": null,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "=Ohio Nonpareil=    |lg. | Ohio |    I.  I. 2. 2.  | Autumn |v. good|447"
+  },
+  {
+   "line": 22111,
+   "page": null,
+   "score": 1.0,
+   "key": "CATTELL",
+   "text": "_Cattell._ Synonym of Ohio Nonpareil.                               |"
   }
  ],
  "esopus-spitzenburg": [
@@ -740,6 +1010,52 @@
    "text": "=Pomme Grise=       |sm. | Fr.? |    I.  I. 2. 3.  | Winter | best  |469"
   }
  ],
+ "cellini": [
+  {
+   "line": 14008,
+   "page": null,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "=Phillips' Sweet.="
+  },
+  {
+   "line": 21690,
+   "page": null,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "*Phillips' Sweeting,"
+  },
+  {
+   "line": 23021,
+   "page": null,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "=Phillip's Sweet=   |lg. | Ohio |   II. II. 1. 2.  | Winter | good? |477"
+  }
+ ],
+ "reinette-du-canada": [
+  {
+   "line": 14102,
+   "page": null,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "=Canada Reinette.="
+  },
+  {
+   "line": 22073,
+   "page": null,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "=Canada Reinette=   |lg. | Eur.?|    I. II. 2. 1.  | Winter |v. good|479"
+  },
+  {
+   "line": 23138,
+   "page": null,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "_Reinette du Canada_, Synonym of Canada Reinette.                   |"
+  }
+ ],
  "gravenstein": [
   {
    "line": 20935,
@@ -793,6 +1109,36 @@
    "text": "Holstein. It has long been in this country, where it succeeds very"
   }
  ],
+ "wagener": [
+  {
+   "line": 21148,
+   "page": null,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "Wagener, need careful handling"
+  },
+  {
+   "line": 21614,
+   "page": null,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "Wagener,"
+  },
+  {
+   "line": 14469,
+   "page": null,
+   "score": 1.0,
+   "key": "WAGENER",
+   "text": "=Wagener.="
+  },
+  {
+   "line": 23477,
+   "page": null,
+   "score": 1.0,
+   "key": "WAGONER",
+   "text": "=Wagoner=           |lg. | N.Y. |    I. II. 2. 2.  | Winter | good  |490"
+  }
+ ],
  "roxbury-russet": [
   {
    "line": 14525,
@@ -837,6 +1183,131 @@
    "text": "Roxbury Russet,"
   }
  ],
+ "sweet-bough": [
+  {
+   "line": 14601,
+   "page": null,
+   "score": 3.8,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "LARGE YELLOW BOUGH, ETC."
+  },
+  {
+   "line": 21063,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BOUGH",
+   "text": "Sweet Bough,"
+  },
+  {
+   "line": 21127,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BOUGH",
+   "text": "Sweet Bough."
+  },
+  {
+   "line": 21660,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BOUGH",
+   "text": "*Sweet Bough."
+  },
+  {
+   "line": 23378,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BOUGH",
+   "text": "_Sweet Bough_, Synonym of Bough.                                    |"
+  }
+ ],
+ "fallawater": [
+  {
+   "line": 14624,
+   "page": null,
+   "score": 3.5,
+   "key": "TULPEHOCKEN",
+   "text": "TULPEHOCKEN, ETC."
+  },
+  {
+   "line": 21005,
+   "page": null,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater,"
+  },
+  {
+   "line": 21287,
+   "page": null,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater,"
+  },
+  {
+   "line": 21326,
+   "page": null,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater,"
+  },
+  {
+   "line": 21363,
+   "page": null,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater,"
+  },
+  {
+   "line": 21505,
+   "page": null,
+   "score": 1.5,
+   "key": "TULPEHOCKEN",
+   "text": "Tulpehocken,"
+  }
+ ],
+ "pumpkin-sweet": [
+  {
+   "line": 15608,
+   "page": null,
+   "score": 3.8,
+   "key": "POUND SWEET",
+   "text": "POUND SWEET."
+  },
+  {
+   "line": 21524,
+   "page": null,
+   "score": 1.8,
+   "key": "PUMPKIN SWEET",
+   "text": "Pumpkin Sweet,"
+  },
+  {
+   "line": 21656,
+   "page": null,
+   "score": 1.8,
+   "key": "PUMPKIN SWEET",
+   "text": "Pumpkin Sweet,"
+  },
+  {
+   "line": 14879,
+   "page": null,
+   "score": 1.3,
+   "key": "PUMPKIN SWEET",
+   "text": "=Pumpkin Sweet.="
+  },
+  {
+   "line": 15606,
+   "page": null,
+   "score": 1.3,
+   "key": "LYMANS PUMPKIN SWEET",
+   "text": "=Lyman's Pumpkin Sweet.="
+  },
+  {
+   "line": 23048,
+   "page": null,
+   "score": 1.3,
+   "key": "POUND SWEET",
+   "text": "Pound Sweet         |lg. | Mich?|  III.  I. 1. 1.  | Winter | good  |"
+  }
+ ],
  "democrat": [
   {
    "line": 14931,
@@ -851,6 +1322,59 @@
    "score": 1.0,
    "key": "DEMOCRAT",
    "text": "=Democrat=          |med.| (O.) |   II.  I. 2. 1.  |E. Wint.| good  |505"
+  }
+ ],
+ "holland-pippin": [
+  {
+   "line": 14948,
+   "page": null,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "=Holland Pippin.="
+  },
+  {
+   "line": 22570,
+   "page": null,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "=Holland Pippin=    |lg. | Eur.?|{  II.  I. 2. 1. }| Autumn | good? |506"
+  }
+ ],
+ "white-winter-pearmain": [
+  {
+   "line": 21212,
+   "page": null,
+   "score": 1.8,
+   "key": "WHITE WINTER PEARMAIN",
+   "text": "White Winter Pearmain,"
+  },
+  {
+   "line": 21556,
+   "page": null,
+   "score": 1.8,
+   "key": "WHITE WINTER PEARMAIN",
+   "text": "White Winter Pearmain."
+  },
+  {
+   "line": 21616,
+   "page": null,
+   "score": 1.8,
+   "key": "WHITE WINTER PEARMAIN",
+   "text": "White Winter Pearmain,"
+  },
+  {
+   "line": 15002,
+   "page": null,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "=White Winter Pearmain.="
+  },
+  {
+   "line": 23539,
+   "page": null,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White Winter        |sm. | Penn.|  III.  I. 2. 1.  |L. Wint.| good  |"
   }
  ],
  "emperor-alexander": [
@@ -881,6 +1405,50 @@
    "score": 1.0,
    "key": "ALEXANDER",
    "text": "Alexander           |lg. |   ?  |  III. II. 2. 2.  | Autumn | good  |"
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 15121,
+   "page": null,
+   "score": 1.3,
+   "key": "CLARKES PEARMAIN",
+   "text": "=Clarke's Pearmain.="
+  },
+  {
+   "line": 18559,
+   "page": null,
+   "score": 1.3,
+   "key": "COLUMBIAN RUSSET",
+   "text": "=Columbian Russet.="
+  },
+  {
+   "line": 18670,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "=Golden Pearmain.=--[Of Kentucky.]"
+  },
+  {
+   "line": 22159,
+   "page": null,
+   "score": 1.3,
+   "key": "COLUMBIAN RUSSET",
+   "text": "=Columbian Russet=  |sm. | Sou.?|  III.  I. 2. 3.  | Winter |v. good|622"
+  },
+  {
+   "line": 22448,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden Pearmain     |sm. |   ?  |  III.  I. 2. 3.  | Winter | good  |"
+  },
+  {
+   "line": 22449,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "=Golden Pearmain=   |sm. | (Ky.)|  III.  I. 2. 1.  |        |       |"
   }
  ],
  "limbertwig": [
@@ -962,6 +1530,131 @@
    "score": 1.3,
    "key": "RED WINTER",
    "text": "=Red Winter Pearmain.="
+  }
+ ],
+ "american-golden-pippin": [
+  {
+   "line": 15438,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "=American Golden Russet.="
+  },
+  {
+   "line": 19031,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "=American Golden Pippin.="
+  },
+  {
+   "line": 20970,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American Golden Russet,"
+  },
+  {
+   "line": 21158,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American Golden Russet,"
+  },
+  {
+   "line": 21357,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American Golden Russet,"
+  },
+  {
+   "line": 21478,
+   "page": null,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American Golden Russet,"
+  }
+ ],
+ "rokewood": [
+  {
+   "line": 15440,
+   "page": null,
+   "score": 3.0,
+   "key": "BULLOCKS",
+   "text": "BULLOCK'S PIPPIN, ETC."
+  },
+  {
+   "line": 21285,
+   "page": null,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's Pippin,"
+  },
+  {
+   "line": 21338,
+   "page": null,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's Pippin,"
+  },
+  {
+   "line": 21402,
+   "page": null,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's Pippin,"
+  },
+  {
+   "line": 22053,
+   "page": null,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "_Bullock's Pippin_, Synonym of American Golden Russet.              |"
+  }
+ ],
+ "english-russet": [
+  {
+   "line": 15515,
+   "page": null,
+   "score": 3.8,
+   "key": "ENGLISH RUSSET",
+   "text": "ENGLISH RUSSET."
+  },
+  {
+   "line": 21004,
+   "page": null,
+   "score": 1.8,
+   "key": "ENGLISH RUSSET",
+   "text": "English Russet,"
+  },
+  {
+   "line": 21095,
+   "page": null,
+   "score": 1.8,
+   "key": "ENGLISH RUSSET",
+   "text": "English Russet,"
+  },
+  {
+   "line": 21462,
+   "page": null,
+   "score": 1.8,
+   "key": "ENGLISH RUSSET",
+   "text": "English Russet,"
+  },
+  {
+   "line": 21624,
+   "page": null,
+   "score": 1.8,
+   "key": "ENGLISH RUSSET",
+   "text": "English Russet,"
+  },
+  {
+   "line": 15513,
+   "page": null,
+   "score": 1.3,
+   "key": "POUGHKEEPSIE RUSSET",
+   "text": "=Poughkeepsie Russet.="
   }
  ],
  "ross-nonpareil": [
@@ -1068,6 +1761,50 @@
    "text": "Winesap,"
   }
  ],
+ "golden-sweet": [
+  {
+   "line": 20934,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEET",
+   "text": "Golden Sweet,"
+  },
+  {
+   "line": 21060,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEET",
+   "text": "Golden Sweet,"
+  },
+  {
+   "line": 21204,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEET",
+   "text": "Golden Sweet,"
+  },
+  {
+   "line": 21263,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEETING",
+   "text": "Golden Sweeting,"
+  },
+  {
+   "line": 21487,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEET",
+   "text": "Golden Sweet,"
+  },
+  {
+   "line": 21626,
+   "page": null,
+   "score": 1.8,
+   "key": "GOLDEN SWEET",
+   "text": "Golden Sweet,"
+  }
+ ],
  "cornish-aromatic": [
   {
    "line": 16900,
@@ -1167,6 +1904,22 @@
    "text": "=Ben Davis=         |lg. | Ky.  |{ III.  I. 2. 2. }| Winter | good  |585"
   }
  ],
+ "dutch-mignonne": [
+  {
+   "line": 17644,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "=Dutch Mignonne.="
+  },
+  {
+   "line": 22272,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "=Dutch Mignonne=    |lg. | Eur. |  III.  I. 2. 2.  | Autumn | good? |593"
+  }
+ ],
  "hewes-crab": [
   {
    "line": 17837,
@@ -1229,6 +1982,50 @@
    "text": "=Liberty=           |lg. |Ohio  |  III.  I. 2. 2.  | Spring | good  | 604"
   }
  ],
+ "jersey-black": [
+  {
+   "line": 21145,
+   "page": null,
+   "score": 1.8,
+   "key": "JERSEY BLACK",
+   "text": "Jersey Black, 200 trees."
+  },
+  {
+   "line": 21788,
+   "page": null,
+   "score": 1.8,
+   "key": "JERSEY BLACK",
+   "text": "Jersey Black,"
+  },
+  {
+   "line": 18271,
+   "page": null,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "BLACK APPLE of Coxe and Downing--AMERICAN BLACK."
+  },
+  {
+   "line": 18276,
+   "page": null,
+   "score": 1.3,
+   "key": "JERSEY BLACK",
+   "text": "_Jersey Black_ is cultivated, but it seems to be quite distinct."
+  },
+  {
+   "line": 19562,
+   "page": null,
+   "score": 1.3,
+   "key": "JERSEY BLACK",
+   "text": "=Jersey Black.="
+  },
+  {
+   "line": 19564,
+   "page": null,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "BLACK APPLE of Coxe?"
+  }
+ ],
  "sops-in-wine": [
   {
    "line": 20946,
@@ -1257,6 +2054,66 @@
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "=Sops-of-Wine=      |med.| Eur. |  III.  I. 2. 2.  | Summ'r | good  |"
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 18425,
+   "page": null,
+   "score": 3.8,
+   "key": "WILLIAMS EARLY",
+   "text": "WILLIAMS' EARLY."
+  },
+  {
+   "line": 18423,
+   "page": null,
+   "score": 1.3,
+   "key": "WILLIAMS FAVORITE",
+   "text": "=Williams' Favorite.="
+  },
+  {
+   "line": 20950,
+   "page": null,
+   "score": 1.3,
+   "key": "WILLIAMS FAVORITE",
+   "text": "Williams' Favorite,"
+  },
+  {
+   "line": 23547,
+   "page": null,
+   "score": 1.3,
+   "key": "WILLIAMS FAVORITE",
+   "text": "=Williams' Favorite=|med.| Mass.|  III.  I. 2. 2.  | Summ'r | good  |618"
+  }
+ ],
+ "bailey": [
+  {
+   "line": 21588,
+   "page": null,
+   "score": 1.8,
+   "key": "BAILEY SWEET",
+   "text": "Bailey Sweet,"
+  },
+  {
+   "line": 21771,
+   "page": null,
+   "score": 1.8,
+   "key": "BAILEY SWEET",
+   "text": "Bailey Sweet, _B._ _T._"
+  },
+  {
+   "line": 18927,
+   "page": null,
+   "score": 1.3,
+   "key": "BAILEY SWEET",
+   "text": "=Bailey Sweet.="
+  },
+  {
+   "line": 21933,
+   "page": null,
+   "score": 1.3,
+   "key": "BAILEYS SWEET",
+   "text": "=Bailey's Sweet=    |lg. | N.Y. |{ III. II. 1. 2. }| Winter | good  |633"
   }
  ],
  "pecks-pleasant": [
@@ -1301,6 +2158,36 @@
    "score": 1.3,
    "key": "PECKS PLEASANT",
    "text": "Peck's Pleasant,"
+  }
+ ],
+ "primate": [
+  {
+   "line": 21311,
+   "page": null,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate,"
+  },
+  {
+   "line": 21371,
+   "page": null,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate,"
+  },
+  {
+   "line": 19248,
+   "page": null,
+   "score": 1.0,
+   "key": "PRIMATE",
+   "text": "=Primate.="
+  },
+  {
+   "line": 23062,
+   "page": null,
+   "score": 1.0,
+   "key": "PRIMATE",
+   "text": "=Primate=           |med.| N.Y. |{ III. II. 2. 1.} | Summer | best  |648"
   }
  ],
  "sheepnose": [
@@ -1409,6 +2296,29 @@
    "text": "Nonpareil=        |sm. | (O.) |  III. II. 2. 2.  | Summ'r | good  |657"
   }
  ],
+ "golden-harvey": [
+  {
+   "line": 19728,
+   "page": null,
+   "score": 3.8,
+   "key": "BRANDY APPLE",
+   "text": "BRANDY APPLE."
+  },
+  {
+   "line": 19726,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "=Golden Harvey.="
+  },
+  {
+   "line": 22447,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "=Golden Harvey=     |sm. | Engl.|  III. II. 2. 3.  | Winter | good? |658"
+  }
+ ],
  "grimes-golden": [
   {
    "line": 20048,
@@ -1430,6 +2340,15 @@
    "score": 1.3,
    "key": "GRIMES GOLDEN",
    "text": "=Grimes' Golden=    |med.| Va.  |   IV.  I. 2. 1.  | Winter | best  |670"
+  }
+ ],
+ "ortley": [
+  {
+   "line": 20098,
+   "page": null,
+   "score": 3.8,
+   "key": "WHITE BELLFLOWER",
+   "text": "WHITE BELLFLOWER, And Many Others."
   }
  ],
  "jonathan": [
@@ -1490,6 +2409,36 @@
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn Pearmain     |med.|   ?  |   IV.  I. 2. 2.  | Winter | good  |"
+  }
+ ],
+ "autumn-bough": [
+  {
+   "line": 21380,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet Bellflower,"
+  },
+  {
+   "line": 21784,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet Bellflower,"
+  },
+  {
+   "line": 20454,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "=Sweet Bellflower.="
+  },
+  {
+   "line": 23377,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "=Sweet Bellflower=  |lg. | Ohio |   IV. II. 1. 1.  | Winter | good  |683"
   }
  ],
  "keswick-codlin": [
@@ -1741,6 +2690,61 @@
    "text": "Golden Russet of    |    |      |                  |        |       |"
   }
  ],
+ "taliaferro": [
+  {
+   "line": 21470,
+   "page": null,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson,"
+  },
+  {
+   "line": 23163,
+   "page": null,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson Stripe     |med.| (O.) |   II.  I. 2. 2.  | Autumn | poor  |"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 21515,
+   "page": null,
+   "score": 1.8,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria Mundi,"
+  },
+  {
+   "line": 22438,
+   "page": null,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "_Gloria Mundi_, Synonym of Mammoth Pippin.                          |"
+  },
+  {
+   "line": 22895,
+   "page": null,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "_Monstrous Pippin_, Synonym of Mammoth Pippin.                      |"
+  }
+ ],
+ "melon": [
+  {
+   "line": 21569,
+   "page": null,
+   "score": 1.3,
+   "key": "NORTONS MELON",
+   "text": "Norton's Melon,"
+  },
+  {
+   "line": 22959,
+   "page": null,
+   "score": 1.3,
+   "key": "NORTONS MELON",
+   "text": "_Norton's Melon_, Synonym of Melon.                                 |"
+  }
+ ],
  "hagloe-crab": [
   {
    "line": 21808,
@@ -1812,7 +2816,7 @@
    "line": 22188,
    "page": null,
    "score": 1.3,
-   "key": "COURT PENDU",
+   "key": "COURT PENDU PLAT",
    "text": "Court Pendu Plat    |med.| Eur. |    I.  I. 2. 1.  | Winter | \"gd.\" |"
   }
  ],
@@ -1837,6 +2841,24 @@
    "score": 1.0,
    "key": "QUARRENDEN",
    "text": "_Quarrenden--Red_, Synonym of Devonshire Quarrenden.                |"
+  }
+ ],
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 22261,
+   "page": null,
+   "score": 1.0,
+   "key": "OLDENBURG",
+   "text": "Oldenburg=        |    |      |{ III.  I. 2. 2. }|        |       |"
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 22377,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet Rouge    |med.| Fr.? |  III.  I. 2. 1.  | Autumn |       |"
   }
  ],
  "flower-of-kent": [
@@ -1869,6 +2891,22 @@
    "score": 1.0,
    "key": "PRINCES",
    "text": "Prince's Fall Pippin|lg. |   ?  |  III. II. 2. 1.  | Autumn | good  |"
+  }
+ ],
+ "sweet-winesap": [
+  {
+   "line": 22542,
+   "page": null,
+   "score": 1.3,
+   "key": "HENRICK SWEET",
+   "text": "Henrick Sweet       |med.|      |    I.  I. 1. 2.  | Winter | good? |"
+  },
+  {
+   "line": 23402,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET WINESAP",
+   "text": "Sweet Winesap       |med.| Pen.?|{   I.  I. 1. 2. }|E. Wint.| good  |"
   }
  ],
  "irish-peach": [
@@ -1926,6 +2964,15 @@
    "score": 1.3,
    "key": "LEMON PIPPIN",
    "text": "Lemon Pippin        |med.|Engl. |   II.  I. 2. 1.  | Winter | poor  |"
+  }
+ ],
+ "lucombes-seedling": [
+  {
+   "line": 22801,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's Seedling  |lg. | Engl.|  III. II. 2. 2.  | Autumn | good? |"
   }
  ],
  "millers-seedling": [
@@ -1989,6 +3036,15 @@
    "text": "Summer Rambo        |    | Sou.?|    I.  I. 2. 2.  |        |       |"
   }
  ],
+ "surprise": [
+  {
+   "line": 23368,
+   "page": null,
+   "score": 1.0,
+   "key": "SURPRISE",
+   "text": "Surprise            |sm. | Eur. |  III.  I. 2. 1.  | Winter | poor  |"
+  }
+ ],
  "winter-pearmain": [
   {
    "line": 23578,
@@ -1996,6 +3052,15 @@
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter Pearmain     |med.|(Ills)|   II.  I. 2. 2.  | Winter | poor  |"
+  }
+ ],
+ "reinette-simirenko": [
+  {
+   "line": 23602,
+   "page": null,
+   "score": 1.3,
+   "key": "WOODS GREENING",
+   "text": "Wood's Greening     |med.| N.J. |    I.  I. 2. 1.  | Winter | good? |"
   }
  ]
 }

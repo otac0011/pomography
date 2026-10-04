@@ -1,0 +1,384 @@
+{
+ "detroit-red": [
+  {
+   "line": 9547,
+   "page": 4,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  on  the  side  next  the  sun.  Eye  :  small,  set  in  a  rather  deep  and  plaited  basin.  Stalk  :"
+  },
+  {
+   "line": 324,
+   "page": 3,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  on  the  side  next  the  sun.  Eye  :  small  and  closed,  with  short  segments,  placed  in  a"
+  },
+  {
+   "line": 2861,
+   "page": 3,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  colour,  which  extends  over  nearly  the  whole  surface  ;  where  the  colour  is  paler  it  is  splashed"
+  },
+  {
+   "line": 5448,
+   "page": 4,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  streaks."
+  },
+  {
+   "line": 6667,
+   "page": 4,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  on  a  deep  yellow  ground.  Eye  :  small,  and  closed  with  short  erect  segments  set  in  a  deep"
+  },
+  {
+   "line": 9681,
+   "page": 4,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson  all  over,  except  a  small  portion  on  the  shaded  side,  which  is  pale  yellow  when  ripe.  Eye  :"
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 9804,
+   "page": 4,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American"
+  },
+  {
+   "line": 3445,
+   "page": 4,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  fruit.  It  is  figured  by  Ronalds,  PL  xxxviii.,  fig.  2."
+  },
+  {
+   "line": 11255,
+   "page": 4,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Fall  Pippin"
+  }
+ ],
+ "cellini": [
+  {
+   "line": 11714,
+   "page": 8,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini  ..."
+  },
+  {
+   "line": 4166,
+   "page": 4,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillips'  “  Cyder.\""
+  },
+  {
+   "line": 13986,
+   "page": 10,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillips’  Reinette  ..."
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 4393,
+   "page": 4,
+   "score": 1.5,
+   "key": "WILLIAMS",
+   "text": "Williams,  of  the  Turnham  Green  Nursery,  who  received  it  from  Gopsal  Hall,  the  seat  of  Earl  Howe,"
+  },
+  {
+   "line": 17122,
+   "page": 10,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "■ - William’s"
+  },
+  {
+   "line": 19224,
+   "page": 10,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "William’s,  or  W.  Bon  Chretien"
+  }
+ ],
+ "dutch-mignonne": [
+  {
+   "line": 7538,
+   "page": 4,
+   "score": 1.5,
+   "key": "PATERNOSTER",
+   "text": "Paternoster  ;  Pradel.\\"
+  },
+  {
+   "line": 18415,
+   "page": 10,
+   "score": 1.5,
+   "key": "PATERNOSTER",
+   "text": "Paternoster"
+  },
+  {
+   "line": 11734,
+   "page": 8,
+   "score": 1.3,
+   "key": "CHRISTS GOLDEN REINETTE",
+   "text": "Christ’s  Golden  Reinette"
+  },
+  {
+   "line": 11956,
+   "page": 8,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne"
+  }
+ ],
+ "dufflin": [
+  {
+   "line": 10372,
+   "page": 4,
+   "score": 1.5,
+   "key": "DUFFLIN",
+   "text": "Dufflin. — An  old  Devonshire  apple,  formerly  much"
+  }
+ ],
+ "hangdown": [
+  {
+   "line": 10499,
+   "page": 4,
+   "score": 1.5,
+   "key": "HANGDOWN",
+   "text": "Hangdown,  or  Horner. — A  small  yellow  apple  in"
+  }
+ ],
+ "cap-of-liberty": [
+  {
+   "line": 10765,
+   "page": 4,
+   "score": 1.3,
+   "key": "RED SOLDIER",
+   "text": "Red  Soldier. — “  A  very  lucky  bearer  ”  and  from"
+  }
+ ],
+ "foxwhelp": [
+  {
+   "line": 11004,
+   "page": 4,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp"
+  },
+  {
+   "line": 15701,
+   "page": 10,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp  ..."
+  },
+  {
+   "line": 15859,
+   "page": 10,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp"
+  }
+ ],
+ "chenango": [
+  {
+   "line": 11071,
+   "page": 4,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  Hereford"
+  },
+  {
+   "line": 12080,
+   "page": 8,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "- Strawberry"
+  },
+  {
+   "line": 15076,
+   "page": 10,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "-  Strawberry"
+  }
+ ],
+ "baumanns-reinette": [
+  {
+   "line": 11199,
+   "page": 4,
+   "score": 1.3,
+   "key": "BAUMANNS REINETTE",
+   "text": "Baumann’s  Reinette"
+  }
+ ],
+ "alfriston": [
+  {
+   "line": 11229,
+   "page": 4,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston"
+  },
+  {
+   "line": 13656,
+   "page": 10,
+   "score": 1.3,
+   "key": "OLDAKERS NEW",
+   "text": "Oldaker’s  New"
+  },
+  {
+   "line": 15226,
+   "page": 10,
+   "score": 1.3,
+   "key": "SHEPHERDS PIPPIN",
+   "text": "Shepherd’s  Pippin,  or  Seedling"
+  },
+  {
+   "line": 14038,
+   "page": 10,
+   "score": 1.0,
+   "key": "SHEPHERDS",
+   "text": "- Shepherd’s"
+  }
+ ],
+ "brabant-bellefleur": [
+  {
+   "line": 11453,
+   "page": 8,
+   "score": 1.3,
+   "key": "BRABANT BELLEFLEUR",
+   "text": "Brabant  Bellefleur"
+  }
+ ],
+ "golden-harvey": [
+  {
+   "line": 11489,
+   "page": 8,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple"
+  },
+  {
+   "line": 18015,
+   "page": 10,
+   "score": 1.0,
+   "key": "GUERNSEY",
+   "text": "Guernsey  Chaumontel"
+  }
+ ],
+ "reinette-du-canada": [
+  {
+   "line": 11660,
+   "page": 8,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette"
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 11670,
+   "page": 8,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet  ..."
+  }
+ ],
+ "frogmore-prolific": [
+  {
+   "line": 12417,
+   "page": 10,
+   "score": 1.3,
+   "key": "FROGMORE PROLIFIC",
+   "text": "Frogmore  Prolific"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 12541,
+   "page": 10,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi"
+  },
+  {
+   "line": 13340,
+   "page": 10,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin  ..."
+  },
+  {
+   "line": 13750,
+   "page": 10,
+   "score": 1.3,
+   "key": "OX APPLE",
+   "text": "Ox  Apple"
+  },
+  {
+   "line": 14972,
+   "page": 10,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "- — — — —  Monstrous  Rein-"
+  }
+ ],
+ "american-golden-pippin": [
+  {
+   "line": 12611,
+   "page": 10,
+   "score": 1.3,
+   "key": "GOLDEN APPLE",
+   "text": "Golden  Apple"
+  }
+ ],
+ "lucombes-seedling": [
+  {
+   "line": 13240,
+   "page": 10,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe’s  Pine"
+  }
+ ],
+ "manningtons-pearmain": [
+  {
+   "line": 13868,
+   "page": 10,
+   "score": 1.0,
+   "key": "MANNINGTONS",
+   "text": "-  Mannington’s"
+  }
+ ],
+ "pine-golden-pippin": [
+  {
+   "line": 14032,
+   "page": 10,
+   "score": 1.3,
+   "key": "PINE GOLDEN",
+   "text": "Pine  Golden  Pippin"
+  }
+ ],
+ "potts-seedling": [
+  {
+   "line": 14313,
+   "page": 10,
+   "score": 1.3,
+   "key": "POTTS SEEDLING",
+   "text": "Potts  Seedling  ..."
+  }
+ ]
+}

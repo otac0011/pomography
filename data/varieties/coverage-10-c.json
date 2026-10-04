@@ -1,0 +1,464 @@
+[
+  {
+    "id": "king-byerd",
+    "name": "King Byerd",
+    "aka": ["King Bayard"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Cornwall, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Cornish apple of unknown age, received by the UK National Fruit Trials from Cornwall in 1954 and still held at Brogdale. Used mainly for cooking but also eaten fresh once it has mellowed in store.",
+    "look": {
+      "size": "large",
+      "shape": "oblong",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, tall, noticeably ribbed apple, green ripening to yellow, streaked with orange-red and flecked with grey russet."
+    },
+    "taste": {
+      "summary": "Firm, crisp, fine-textured cream flesh. Sharp with some sweetness when picked, mellowing in store to a sweeter, still-brisk flavour by midwinter.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sharp", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Jan-Mar for eating fresh; cook from picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable tree information found."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "At Brogdale it reaches full bloom around mid May, similar to group 4 varieties."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 6,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, moist south-west England and similar cool maritime climates.",
+      "poor_climates": "Humid sites with high scab pressure; hot climates untested."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Scab is the main recorded problem."
+    },
+    "grow_notes": "A late, long-keeping dual-purpose apple for the south-west; give it an open, airy position to reduce scab. Pick in late October and store for eating after Christmas.",
+    "conf": "medium"
+  },
+  {
+    "id": "lady-alice",
+    "name": "Lady Alice",
+    "aka": [],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "US",
+      "place": "Near Gleed, Washington",
+      "year": 1979,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Chance seedling; reportedly a shoot from the seedling rootstock of a damaged Red Delicious tree",
+      "raised_by": "Found by orchardist Don Emmons; developed by Rainier Fruit Company"
+    },
+    "history": "Found in 1979 in a Red Delicious orchard near Gleed, Washington, where a shoot from a damaged tree's rootstock was allowed to fruit. Rainier Fruit Company markets it as a trademarked late-winter apple; accounts differ on whether it was named for the finder's mother or for Rainier co-founder Alice Zirkle.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "pink",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, roundish-oblate apple with thin skin: a pink to orange blush and bright red streaks over a creamy yellow ground that deepens in store."
+    },
+    "taste": {
+      "summary": "Sweet with a touch of tartness and a rich, complex, heirloom-style flavour, with hints of honey and almond. Dense and crisp; slow to brown when cut and holds its shape in hot baking.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": ["sweet", "honey", "almond"],
+      "cider_class": null,
+      "best_eaten": "Sold Feb-May after storage, at its best around March"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A proprietary commercial variety; no published tree information found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": "Feb-May",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Irrigated central Washington, with hot, dry summers and cold winters.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "Grown commercially under licence in Washington; garden trees are rarely offered. Its flavour is developed by storage, so it is eaten in late winter and spring.",
+    "conf": "low"
+  },
+  {
+    "id": "nicola",
+    "name": "Nicola",
+    "aka": ["SPA440"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "CA",
+      "place": "Summerland, British Columbia, Canada",
+      "year": 1981,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Splendour x Gala",
+      "raised_by": "David Lane, Agriculture and Agri-Food Canada, Pacific Agri-Food Research Centre, Summerland"
+    },
+    "history": "Crossed in 1981 at the Summerland research centre in British Columbia and selected later as SPA440; marketed as Nicola. Plantings were small at first, with more fruit coming on stream from about 2010, sold mainly in Canada and some US natural-food stores.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": null,
+      "description": "Large to very large, rounded-conical apple, mostly covered in a solid bright to dark red flush over yellow or yellow-green."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and sweet, with very firm, rather coarse yellowish flesh. It is fairly plain at picking; fuller aromatic flavours develop after several weeks to about three months in store.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": ["sweet", "perfumed"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar, after several weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderate to vigorous with an upright-spreading habit; buds break very late."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": null,
+      "notes": "Very late bud burst and late flowering; group number inferred from that, so pair with a late-flowering pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The Okanagan and similar dry interior valleys with long, sunny autumns; late flowering helps it avoid spring frost.",
+      "poor_climates": "It ripens after Ambrosia and only shortly before Fuji, so short cool seasons may leave it under-ripe."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A late, very long-keeping apple for sunny sites with a long autumn. Store it for a few weeks before eating so the flavour can develop. Its late flowering suits frost-prone sites.",
+    "conf": "medium"
+  },
+  {
+    "id": "pams-delight",
+    "name": "Pam's Delight",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "GB",
+      "place": "Luton, Bedfordshire, England",
+      "year": 1956,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Unknown; grown from a pip",
+      "raised_by": "Alfred Hull"
+    },
+    "history": "Raised from a pip sown around 1956 by Alfred Hull, a retired clerk in Luton, and named after his daughter Pam, who was ill with Hodgkin's disease; she tasted the first fruit in 1963 and died in 1964. It was accepted for trial at Brogdale and registered in 1968, and is now kept by the East of England Apples and Orchards Project.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium-sized apple with a red flush."
+    },
+    "taste": {
+      "summary": "Sweet, with crisp, juicy flesh; no fuller tasting notes found.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable tree information found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Self-sterile; needs a pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Eastern and southern England, where it was raised.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A local Bedfordshire curiosity, rare in commerce. Grow it like any mid-season English dessert apple: full sun, good drainage and a compatible pollinator.",
+    "conf": "low"
+  },
+  {
+    "id": "summerfree",
+    "name": "Summerfree",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "IT",
+      "place": "Trento, Trentino, Italy",
+      "year": 1996,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Reported on Wikipedia as PRI 1956-6 x Ed Gould Golden (the same parentage given for Golden Orange, possibly an error)",
+      "raised_by": "Istituto Sperimentale per la Frutticoltura, Trento section (later part of CRA-FRU)"
+    },
+    "history": "One of three scab-resistant apples released in 1996-97 by the Trento section of Italy's state fruit-research institute, with Golden Lasa and Golden Orange. Unlike its sisters it is an early apple, ripening at the end of August in Trentino.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "A smooth-skinned, attractive early apple averaging about 175 g."
+    },
+    "taste": {
+      "summary": "No published tasting notes were found.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous with a spreading habit."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Northern Italian fruit valleys; an early season means it ripens even where autumns are short.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Bred for scab resistance (Vf); other susceptibilities not recorded."
+    },
+    "grow_notes": "An early, scab-resistant apple for low-spray growing, said to store unusually well for its season. UK experience is lacking, so treat it as experimental.",
+    "conf": "low"
+  },
+  {
+    "id": "tentation",
+    "name": "Tentation",
+    "aka": ["Delblush"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "FR",
+      "place": "France",
+      "year": 1979,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Grifer (Blushing Golden) x Golden Delicious",
+      "raised_by": "Georges Delbard nursery"
+    },
+    "history": "Bred by the Delbard nursery in France from a 1979 cross (Orange Pippin dates its development to about 1990) and protected as the cultivar Delblush. A group of New Zealand growers took it up from the late 1990s to supply northern markets in summer, and it is also grown in Europe, including Kent.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": null,
+      "description": "Golden-yellow to light greenish-gold apple dotted with many lenticels and carrying an orange to pinkish flush on the sunny side."
+    },
+    "taste": {
+      "summary": "Sweet and crisp, essentially a Golden Delicious type; its full aroma is said to develop only a month or more after picking. Opinions range from rich to pleasant but slightly bland, with sweetness outweighing acidity.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet", "mild"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb, after 4-6 weeks in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Medium vigour with an open shape; starts cropping early and bears regular, plentiful crops."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Diploid and not self-fertile; plant with another diploid of similar flowering time."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Sunny temperate regions such as France and New Zealand; it is also grown commercially in Kent. The orange flush is reported to be stronger on southern-hemisphere fruit.",
+      "poor_climates": "Dull, cool seasons may leave it pale and less flavoursome, like other Golden Delicious types."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "Grow like Golden Delicious: full sun, fertile, well-drained soil and a diploid pollinator. Pick when the skin turns golden and store for a few weeks before eating so the aroma can develop.",
+    "conf": "medium"
+  }
+]

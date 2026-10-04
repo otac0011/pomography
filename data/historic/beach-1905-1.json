@@ -1,354 +1,1028 @@
 {
-  "_book": "beach-1905-1",
-  "arkansas-black": {
-    "line": 3594, "end": 3650, "heading": "ARKANSAS BLACK", "match": "exact",
-    "flavour": "Flesh decidedly tinged with yellow, very firm, rather fine-grained, crisp, moderately juicy, sprightly subacid, good to very good.",
-    "quality": "good to very good",
-    "storage": "It is a good keeper and commands a good price in market. Season December to April or later. In cold storage it keeps well through the storage season.",
-    "climate": null,
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Beach: distinct from the Arkansas or Mammoth Blacktwig."
-  },
-  "baldwin": {
-    "line": 4009, "end": 4236, "heading": "BALDWIN", "match": "exact",
-    "flavour": "Flesh yellowish, firm, moderately coarse, crisp, rather tender, juicy to very juicy, agreeably subacid, sprightly, somewhat aromatic, good to very good.",
-    "quality": "very good in quality when grown under favorable conditions",
-    "storage": "Season November to March or April in common storage; to May or later in cold storage.",
-    "climate": "In the South and Southwest it is not desirable because it there becomes a fall apple and also because it does not attain as good quality as it does in the Baldwin belt.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms include Woodpecker, Pecker and Butters (historical). Entry includes notes on Russet, Dark Baldwin and Olympia types."
-  },
-  "ben-davis": {
-    "line": 4780, "end": 4944, "heading": "BEN DAVIS", "match": "exact",
-    "flavour": "Flesh whitish, slightly tinged with yellow, firm, moderately coarse, not very crisp, somewhat aromatic, juicy, mildly subacid, good.",
-    "quality": "here it is generally regarded as not good enough in quality for home use",
-    "storage": "It often keeps here in ordinary storage till May, and in cold storage till June, or often till July.",
-    "climate": "unquestionably in most portions of New York state the seasons are usually too short to mature the variety properly",
-    "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
-    "note": "When grown in the South or Southwest, at its best it is but of second rate quality (Beach)."
-  },
-  "bess-pool": {
-    "line": 5004, "end": 5012, "heading": "BESS POOL", "match": "exact",
-    "flavour": "Flesh white, juicy, subacid.",
-    "quality": "Esteemed in England both for culinary and dessert uses",
-    "storage": "Season November to March.",
-    "climate": null,
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Short note only; an old English apple but little known in America; Beach relies on Downing and Hogg."
-  },
-  "sheepnose": {
-    "line": 5304, "end": 5398, "heading": "BLACK GILLIFLOWER", "match": "synonym",
-    "flavour": "The flesh at its best is but moderately juicy and soon becomes dry, but it has a peculiar aroma which is pleasing to many. Flesh whitish or slightly tinged with yellow, firm, rather tender, rather coarse, moderately juicy eventually becoming dry, mild subacid, rich, peculiarly aromatic, good for dessert and special markets.",
-    "quality": "good for dessert and special markets",
-    "storage": "Season October to January or February.",
-    "climate": null,
-    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
-    "note": "Described as Black Gilliflower; Beach's separate SHEEPNOSE note (line 19096) says Sheepnose is in other places a common name for the Black Gilliflower. It is not sour enough to be very valuable for cooking."
-  },
-  "blue-pearmain": {
-    "line": 5457, "end": 5537, "heading": "BLUE PEARMAIN", "match": "exact",
-    "flavour": "The fruit is of mild flavor and does not rank high in quality. Flesh yellowish, moderately firm, rather coarse, moderately juicy, mild subacid, decidedly and agreeably aromatic, good.",
-    "quality": "does not rank high in quality",
-    "storage": "In common storage it does not keep late, and by January it often becomes shriveled. It may keep till March but often begins to shrivel after January.",
-    "climate": null,
-    "tags": ["mild", "perfumed"], "against": ["sharp"], "sweet": null, "acid": 2,
-    "note": "Our 'sharp' tag is against Beach's 'mild flavor' / 'mild subacid'."
-  },
-  "duke-of-devonshire": {
-    "line": 7387, "end": 7436, "heading": "DUKE OF DEVONSHIRE", "match": "exact",
-    "flavour": "Flesh yellowish or tinged with green, moderately juicy, moderately crisp, firm, somewhat coarse, with a pleasant subacid flavor characteristic of certain russet apples, good to very good.",
-    "quality": "It is there esteemed as an excellent dessert apple and a good keeper",
-    "storage": "Season December to April or later.",
-    "climate": null,
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Little known in New York; 'there' = England."
-  },
-  "dumelows-seedling": {
-    "line": 7438, "end": 7508, "heading": "DUMELOW", "match": "synonym",
-    "flavour": "Flesh whitish with slight yellow tinge, firm, crisp, moderately fine, tender, very juicy, brisk subacid, slightly aromatic, good for cooking.",
-    "quality": "It is excellent for culinary use, but too acid to be agreeable for dessert.",
-    "storage": "a good keeper. Season November to March or April.",
-    "climate": null,
-    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
-    "note": "Synonyms Dumelow's Seedling, Wellington, Dumelow's Crab, Normanton Wonder. In England esteemed as one of the most valuable culinary apples."
-  },
-  "esopus-spitzenburg": {
-    "line": 7926, "end": 8048, "heading": "ESOPUS SPITZENBURG", "match": "exact",
-    "flavour": "Flesh tinged with yellow, firm, moderately fine, crisp, rather tender, juicy, aromatic, sprightly subacid, very good to best.",
-    "quality": "the standard of excellence for apples of the Baldwin class ... unexcelled in flavor and quality",
-    "storage": "Season November to February or later. In cold storage may be held till June.",
-    "climate": "The fruit develops good color and quality in most of the apple-growing regions of the State but it does particularly well in favorable localities in Schoharie and Greene counties and along Lake Champlain.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": ""
-  },
-  "golden-russet": {
-    "line": 9301, "end": 9415, "heading": "GOLDEN RUSSET", "match": "exact",
-    "flavour": "Flesh yellowish, rather fine-grained, moderately crisp, tender, juicy, rich, agreeably subacid, aromatic, very good.",
-    "quality": "very good",
-    "storage": "It is an excellent storage variety. Season December to April or later.",
-    "climate": null,
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Golden Russet of Western N. Y., English Golden Russet. The Roxbury entry adds that the flesh of the Golden Russet is more sprightly subacid, finer-grained and of richer flavor than Roxbury."
-  },
-  "newtown-pippin": {
-    "line": 9456, "end": 9761, "heading": "GREEN NEWTOWN AND YELLOW NEWTOWN", "match": "synonym",
-    "flavour": "Flesh yellowish or tinged with green according to the color of the fruit, firm, crisp, tender, moderately fine-grained, juicy, sprightly, with a fine aromatic subacid flavor, best. ... its flesh is apt to be more distinctly tinged with yellow, milder, less sprightly and more highly aromatic.",
-    "quality": "The fruit is of the highest quality for dessert and excellent for culinary uses.",
-    "storage": "It is firm, keeps very late and ships well. In ordinary storage its commercial season is February to March; in cold storage March to May.",
-    "climate": "Both sorts are exceedingly variable and susceptible to the influence of soil, climate, elevation above sea level, etc.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Beach describes Green Newtown and Yellow Newtown together (Yellow Newtown = Albemarle Pippin); our record covers both."
-  },
-  "grimes-golden": {
-    "line": 9953, "end": 10036, "heading": "GRIMES", "match": "synonym",
-    "flavour": "Flesh yellow, very firm, tender, crisp, moderately coarse, moderately juicy, subacid, rich, aromatic, sprightly, very good to best.",
-    "quality": "very good to best",
-    "storage": "It is not a good keeper and is apt to scald in storage.",
-    "climate": "as grown in this state it does not develop in size, color or quality as well as it does in more southern latitudes",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Grimes Golden, Grimes Golden Pippin."
-  },
-  "lady-henniker": {
-    "line": 10126, "end": 10190, "heading": "HENNIKER", "match": "synonym",
-    "flavour": "Flesh tinged with yellow, moderately coarse, somewhat crisp, rather tender, juicy, rich, brisk subacid with something of the flavor characteristic of certain russets, becoming rather mild late in the season; good to very good in quality.",
-    "quality": "Excellent for cooking but at first rather too briskly acid to be desirable for a dessert apple.",
-    "storage": "Season November to March or April.",
-    "climate": null,
-    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
-    "note": "Synonym Lady Henniker; originated in Suffolk, England, 1840-1850."
-  },
-  "hubbardston-nonesuch": {
-    "line": 10416, "end": 10557, "heading": "HUBBARDSTON", "match": "synonym",
-    "flavour": "Flesh whitish slightly tinged with yellow, moderately firm, breaking, rather fine-grained, tender, moderately crisp, juicy, aromatic, rich, at first sprightly but becoming mild subacid mingled with sweet, very good to best.",
-    "quality": "The quality is excellent for dessert but less satisfactory for culinary use except very early in the season before the fruit loses acidity.",
-    "storage": "Hubbardston reaches edible maturity in October and holds its flavor well till December or January, but after that time its quality usually deteriorates rapidly.",
-    "climate": "It varies remarkably under different conditions of soil and climate",
-    "tags": ["perfumed", "sweet"], "against": [], "sweet": 3, "acid": 2,
-    "note": "Synonyms Hubbardston Nonsuch, American Blush, John May; Beach treats American Blush, Van Vleet and Orleans as identical or strains."
-  },
-  "jonathan": {
-    "line": 11034, "end": 11160, "heading": "JONATHAN", "match": "exact",
-    "flavour": "Flesh whitish or somewhat yellow, sometimes with tinge of red, firm, moderately fine, crisp, tender, juicy, very aromatic, sprightly subacid, very good to best.",
-    "quality": "highly flavored and of excellent quality for either dessert or culinary use",
-    "storage": "It may be kept through the winter but when held in ordinary storage later than January dark spots are liable to develop in the skin",
-    "climate": "even under such circumstances it does not usually attain as good size as it does in certain portions of the valleys of the Ohio, Mississippi and Missouri",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Philip Rick, King Philip, Ulster Seedling."
-  },
-  "api": {
-    "line": 11557, "end": 11660, "heading": "LADY", "match": "synonym",
-    "flavour": "Flesh white, firm, fine-grained, crisp, rather tender, juicy, pleasantly aromatic, mild subacid becoming nearly sweet, good to very good for dessert.",
-    "quality": "good to very good for dessert",
-    "storage": "Properly handled, it may be held in cold storage till summer",
-    "climate": "It does fairly well on any good apple soil, but a warm, gravelly or sandy loam seems to suit it best, developing to a marked degree the characteristically beautiful color and delicate high flavor of this variety",
-    "tags": ["perfumed", "sweet"], "against": [], "sweet": 3, "acid": 2,
-    "note": "Described as Lady (Lady Apple); synonyms Api, Petit Api, Pomme d'Api. End excludes the following 'Other varieties of the Lady group' section."
-  },
-  "limbertwig": {
-    "line": 12308, "end": 12405, "heading": "LIMBERTWIG", "match": "probable",
-    "flavour": "Flesh yellowish, hard, moderately fine, not very crisp, juicy, aromatic, subacid, good.",
-    "quality": "only fair to good",
-    "storage": "well adapted for storage, ships well and keeps late. Season January to March or April; in cold storage February to May or later.",
-    "climate": null,
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Beach says several different apples are called Limbertwig and describes a small or red and a large or green one; flavour quoted is the small/red Limbertwig. The green one has flesh 'much inferior in flavor and quality'. Which is our Old Fashioned Limbertwig is not certain."
-  },
-  "mere-de-menage": {
-    "line": 13123, "end": 13191, "heading": "MENAGERE", "match": "synonym",
-    "flavour": "Flesh white, coarse-grained, moderately juicy, subacid, fair in flavor and quality.",
-    "quality": "It is undesirable either for dessert or culinary use, being coarse-grained and only fair in quality.",
-    "storage": "Season October to January; under favorable conditions some portion of the fruit may be kept till spring.",
-    "climate": null,
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Mere de Menage, Combermere Apple, Flanders Pippin. Beach: an old German variety, suitable only for exhibition."
-  },
-  "northern-spy": {
-    "line": 14497, "end": 14701, "heading": "NORTHERN SPY", "match": "exact",
-    "flavour": "Flesh yellowish, rather firm, moderately fine-grained, very tender, crisp, very juicy, sprightly, aromatic, subacid, very good to best.",
-    "quality": "easily ranks among the very best winter apples of New York",
-    "storage": "It is ready for use in November and December, and retains its crispness and high flavor remarkably well until the close of the season",
-    "climate": "This variety succeeds better in the cooler regions of the interior of the state than it does on the warm slopes south of the Fishkill mountains and on the coastal plain.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": ""
-  },
-  "opalescent": {
-    "line": 15258, "end": 15318, "heading": "OPALESCENT", "match": "exact",
-    "flavour": "Flesh distinctly tinged with yellow, rather firm, moderately tender, a little coarse, juicy or moderately juicy, agreeable mild subacid, aromatic, good to very good.",
-    "quality": "good to very good",
-    "storage": "It does not appear to be as good a keeper as Baldwin. Season November to February or March.",
-    "climate": null,
-    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
-    "note": "Introduced about 1899 by McNary and Gaines, Xenia, Ohio."
-  },
-  "black-twig": {
-    "line": 15532, "end": 15616, "heading": "PARAGON", "match": "synonym",
-    "flavour": "Flesh greenish or tinged with yellow, firm, a little coarse, rather tender, juicy, mild subacid, somewhat aromatic, good to very good.",
-    "quality": "good to very good",
-    "storage": "Season January to May.",
-    "climate": "The fruit evidently does not develop to as high a degree of perfection in New York as it does in more southern latitudes.",
-    "tags": ["mild", "perfumed"], "against": ["sharp"], "sweet": null, "acid": 2,
-    "note": "Our aka Paragon (Tennessee, seed planted about 1830). Beach lists 'Black Twig' and 'Mammoth Black Twig' as erroneous synonyms (confusion with Arkansas). Our 'sharp' tag is against Beach's 'mild subacid'."
-  },
-  "pecks-pleasant": {
-    "line": 15963, "end": 16065, "heading": "PECK PLEASANT", "match": "exact",
-    "flavour": "The flesh is tender, pleasantly flavored and ranks very good to best in quality. Flesh yellowish, firm, tender, crisp, fine-grained, juicy, pleasant subacid, aromatic, very good to best.",
-    "quality": "very good to best",
-    "storage": "Toward the close of the season it becomes inferior in quality although it may appear to be still in good condition.",
-    "climate": null,
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "The fruit very often scalds in storage."
-  },
-  "pomme-gris": {
-    "line": 16597, "end": 16689, "heading": "POMME GRISE", "match": "exact",
-    "flavour": "Flesh yellowish, firm, crisp, moderately fine-grained, juicy, rich, subacid, aromatic, very good to best.",
-    "quality": "A little russet apple valued only because of its excellent dessert quality.",
-    "storage": "After midwinter it is apt to deteriorate in quality, although it may remain apparently in good condition till March or April.",
-    "climate": "It has the reputation of developing particularly fine flavor when grown in the St. Lawrence valley.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Beach queries Leroy's Reinette Grise synonyms. Swazie (Swazie Pomme Grise) is a separate entry of the Pomme Grise type."
-  },
-  "lanes-prince-albert": {
-    "line": 16794, "end": 16876, "heading": "PRINCE ALBERT", "match": "synonym",
-    "flavour": "Flesh tinged with yellow or green, firm, moderately fine, crisp, tender, very juicy, briskly subacid or sour; suitable for culinary uses but has too much acidity for a good dessert apple.",
-    "quality": "It is too briskly subacid in flavor for a dessert apple but is valued for culinary uses.",
-    "storage": "Its season has not been proved here but it evidently extends from midautumn to midwinter. Hogg gives its season as December to March.",
-    "climate": null,
-    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
-    "note": "Synonyms Lane's Prince Albert, Lane Albert; Beach follows Bunyard in calling it Prince Albert."
-  },
-  "ralls-janet": {
-    "line": 16955, "end": 17080, "heading": "RALLS", "match": "synonym",
-    "flavour": "Flesh whitish, firm, moderately fine-grained, crisp, moderately tender, juicy, subacid with a slight mingling of sweet, aromatic, pleasant, very good for dessert.",
-    "quality": "very good for dessert",
-    "storage": "it has the merit of being a good keeper and holds its flavor well till late in the season. In ordinary storage it is in season from December to May with April as the commercial limit",
-    "climate": "In districts farther south and west and, generally speaking, throughout the Ben Davis apple regions it produces fruit of superior quality",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Rawle's Janet, Ralls Genet, Neverfail, Jefferson Pippin, Jeniton."
-  },
-  "hereford-redstreak": {
-    "line": 17385, "end": 17441, "heading": "REDSTREAK", "match": "synonym",
-    "flavour": "flesh yellow, rich, firm, dry, good. ... the flesh is yellow, rich, firm, and dry",
-    "quality": "a capital English cider apple",
-    "storage": "the apple keeps well through the winter, and is much esteemed as an excellent kitchen fruit in the latter part of the winter.",
-    "climate": "The climate of America is supposed to have revived the character of this apple, which had deteriorated in its native soil, from the long duration of the variety",
-    "tags": [], "against": [], "sweet": null, "acid": null,
-    "note": "Synonyms Herefordshire Redstreak, English Redstreak, Scudamore's Crab. Beach did not fruit it; the description is quoted from Downing (1845) and Coxe (1817). Cider makes a rich, high-flavored, strong liquor."
-  },
-  "rhode-island-greening": {
-    "line": 17628, "end": 17880, "heading": "RHODE ISLAND GREENING", "match": "exact",
-    "flavour": "Flesh yellowish, firm, moderately fine-grained, crisp, tender, juicy, rich, sprightly subacid, peculiarly flavored, very good in quality.",
-    "quality": "one of the very best cooking apples grown ... It is also very good in quality for dessert use.",
-    "storage": "In going down, it scalds badly in storage, loses in quality, turns yellow, becomes mealy and large specimens are liable to burst",
-    "climate": "it appears to do particularly well on fertile gravelly or sandy loam with well-drained clay subsoil",
-    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
-    "note": "Hovey, quoted by Beach: 'To some tastes it is rather acid'."
-  },
-  "rome-beauty": {
-    "line": 18067, "end": 18193, "heading": "ROME", "match": "synonym",
-    "flavour": "Flesh nearly white with slight tinge of yellow or green, firm, moderately fine-grained to a little coarse, rather crisp, juicy, slightly aromatic, agreeable mild subacid, commonly good but not high in quality.",
-    "quality": "commonly good but not high in quality",
-    "storage": "It is thick-skinned, stands handling remarkably well and is a good keeper. It is held in cold storage till May or later.",
-    "climate": "It appears to be better adapted to bottom lands and to fertile sandy or gravelly loams than to heavy clay soils.",
-    "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
-    "note": "Synonyms Rome Beauty, Gillett's Seedling."
-  },
-  "roxbury-russet": {
-    "line": 18240, "end": 18374, "heading": "ROXBURY", "match": "synonym",
-    "flavour": "Flesh tinged with yellow or greenish, firm, somewhat coarse, moderately tender, breaking, juicy, sprightly subacid, good to very good.",
-    "quality": "good to very good",
-    "storage": "Being an excellent keeper it is well liked for southern trade. Season December to May or in cold storage to July.",
-    "climate": "Roxbury fruit that is grown in Central and Western New York keeps better than that produced in more southern localities",
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonyms Roxbury Russet, Boston Russet, Putnam Russet, Sylvan Russet. Compared with Golden Russet the Roxbury flesh is rather coarser, yellower, and more mildly subacid."
-  },
-  "smokehouse": {
-    "line": 19400, "end": 19495, "heading": "SMOKEHOUSE", "match": "exact",
-    "flavour": "It is a very pleasant flavored dessert apple but hardly acid enough for most culinary uses. Flesh slightly tinged with yellow, rather firm, moderately fine, crisp, moderately tender, juicy, mild subacid, delicately aromatic, with an agreeable but not high flavor, good.",
-    "quality": "good",
-    "storage": "Season October to February or March.",
-    "climate": null,
-    "tags": ["mild", "perfumed"], "against": ["sharp"], "sweet": null, "acid": 2,
-    "note": "Synonyms Gibbons Smokehouse, Millcreek Vandevere, English Vandevere. Our 'sharp' tag is against 'hardly acid enough'."
-  },
-  "stayman-winesap": {
-    "line": 19722, "end": 19806, "heading": "STAYMAN WINESAP", "match": "exact",
-    "flavour": "Flesh tinged with yellow or slightly greenish, firm, moderately fine-grained, tender, moderately crisp, breaking, juicy to very juicy, aromatic, sprightly, pleasant subacid, good to very good.",
-    "quality": "good to very good",
-    "storage": "Season December to May; commercial limit, April.",
-    "climate": "It is evidently not well suited for regions as far north as this.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Raised from Winesap seed in 1866 at Leavenworth, Kan., by Dr. J. Stayman."
-  },
-  "swaar": {
-    "line": 20198, "end": 20305, "heading": "SWAAR", "match": "exact",
-    "flavour": "Flesh yellowish, firm, moderately tender, rather fine-grained, juicy, mild or very mild subacid, aromatic, rich, very good to best.",
-    "quality": "valued especially for dessert use because of its rich flavor and fine quality",
-    "storage": "Its season is somewhat variable but in ordinary storage commonly extends from November or December to March or April",
-    "climate": "Downing observes that this variety requires a deep, rich, sandy loam to bring it to perfection but that it does not succeed well in damp or cold soils",
-    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
-    "note": "Coxe, quoted: 'a large green apple, of great and uncommon flavour and richness'."
-  },
-  "tolman-sweet": {
-    "line": 21173, "end": 21271, "heading": "TOLMAN SWEET", "match": "exact",
-    "flavour": "Flesh white, firm, neither tender nor crisp, rather hard, moderately fine, rather dry to moderately juicy, decidedly sweet, good to very good.",
-    "quality": "good to very good",
-    "storage": "In ordinary storage it is in season from November to January with December as the commercial limit.",
-    "climate": null,
-    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
-    "note": "Much esteemed for pickling, boiling and baking; one of the hardiest old New England varieties."
-  },
-  "tompkins-king": {
-    "line": 21279, "end": 21527, "heading": "TOMPKINS KING", "match": "exact",
-    "flavour": "Flesh attractive yellowish, rather coarse, crisp, tender, aromatic, juicy, subacid, very good to best. Its very agreeable perfumed flavor is equal to the Swaar.",
-    "quality": "excellent in quality for either dessert or culinary uses",
-    "storage": "Some of the fruit is often kept in cellars till spring, but not with prime flavor, for usually it begins to lose flavor by midwinter or earlier.",
-    "climate": "In the lake region of Central and Western New York in many cases it appears to succeed better on the uplands than it does close to the lakes.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "The 'perfumed flavor ... equal to the Swaar' sentence is from an 1850s grower's letter quoted in the Historical section."
-  },
-  "westfield-seek-no-further": {
-    "line": 22377, "end": 22545, "heading": "WESTFIELD SEEK-NO-FURTHER", "match": "exact",
-    "flavour": "at its best it has a peculiarly pleasant, rich, mild subacid flavor which has made it popular. Flesh slightly tinged with pale yellow, firm, medium in grain or a little coarse, crisp, tender, breaking, juicy, mild subacid, rich, sometimes a little astringent, peculiarly aromatic, sprightly, very good to best.",
-    "quality": "very good to best",
-    "storage": "toward the close of the season it is apt to shrivel badly",
-    "climate": "It does not commonly develop as good color or quality on heavy, cold soils, particularly if they are not well drained, as it does on well-drained, fertile, gravelly or sandy loam.",
-    "tags": ["perfumed", "mild", "astringent"], "against": [], "sweet": null, "acid": 2,
-    "note": "Beach's RED WINTER PEARMAIN note (line 17443) lists that name as a synonym of Westfield Seek-No-Further among others."
-  },
-  "winesap": {
-    "line": 22972, "end": 23099, "heading": "WINESAP", "match": "exact",
-    "flavour": "Flesh tinged with yellow, veins sometimes red, very firm, rather coarse, moderately crisp, very juicy, sprightly subacid, good to very good.",
-    "quality": "When well grown it is of very good quality",
-    "storage": "It is a good shipper and stands heat well before going into storage, but late in the season it often scalds, particularly when not well colored.",
-    "climate": "It does best on rather light, rich, deep soils and does not succeed on heavy clays or in low, damp locations.",
-    "tags": [], "against": [], "sweet": null, "acid": 3,
-    "note": "Coxe called it the most favored cider fruit in West Jersey."
-  },
-  "winter-banana": {
-    "line": 23104, "end": 23185, "heading": "WINTER BANANA", "match": "exact",
-    "flavour": "characteristically aromatic, of good dessert quality, but too mild in flavor to excel for culinary uses. Flesh whitish tinged with pale yellow, moderately firm, a little coarse, somewhat crisp, tender, juicy, mild subacid, distinctly aromatic, good to very good.",
-    "quality": "of good dessert quality",
-    "storage": "In cold storage it ranks as a keeper about with Rhode Island Greening, but is not equal to Baldwin.",
-    "climate": null,
-    "tags": ["perfumed", "mild"], "against": [], "sweet": null, "acid": 2,
-    "note": "Beach notes it is not a sweet apple and is distinct from Banana Sweet. No banana flavour is mentioned."
-  },
-  "yellow-bellflower": {
-    "line": 23338, "end": 23478, "heading": "YELLOW BELLFLOWER", "match": "exact",
-    "flavour": "Flesh whitish tinged with pale yellow, firm, crisp, moderately fine-grained, rather tender, juicy, aromatic, very good for culinary use, rather too acid for dessert early in the season but later its acidity becomes somewhat subdued.",
-    "quality": "generally highly esteemed for culinary uses and also for its excellent dessert qualities",
-    "storage": "It does not reach its best condition for dessert use till January or later, when its acidity becomes somewhat subdued.",
-    "climate": "It seems to thrive particularly well on warm, well-drained soils.",
-    "tags": ["perfumed", "sharp"], "against": [], "sweet": null, "acid": 4,
-    "note": "End excludes the following 'Yellow Bellflower group' section."
-  },
-  "york-imperial": {
-    "line": 23568, "end": 23690, "heading": "YORK IMPERIAL", "match": "exact",
-    "flavour": "Flesh yellowish, firm, crisp, somewhat breaking, a little coarse, moderately tender, moderately juicy, at first sprightly subacid but becoming mild subacid or nearly sweet, somewhat aromatic, good to very good.",
-    "quality": "good to very good",
-    "storage": "It stands heat fairly well before going into storage, but often scalds badly and when it begins to deteriorate goes down rather quickly.",
-    "climate": "It seems to prefer rather heavy clay soils and seldom does well on soils that are light or in any way thin or leachy.",
-    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
-    "note": "Synonym Johnson's Fine Winter. When grown as far north as New York the fruit is deficient in color, size and quality."
-  }
+ "_book": "beach-1905-1",
+ "arkansas-black": {
+  "line": 3594,
+  "end": 3650,
+  "heading": "ARKANSAS BLACK",
+  "match": "exact",
+  "flavour": "Flesh decidedly tinged with yellow, very firm, rather fine-grained, crisp, moderately juicy, sprightly subacid, good to very good.",
+  "quality": "good to very good",
+  "storage": "It is a good keeper and commands a good price in market. Season December to April or later. In cold storage it keeps well through the storage season.",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Beach: distinct from the Arkansas or Mammoth Blacktwig."
+ },
+ "baldwin": {
+  "line": 4009,
+  "end": 4236,
+  "heading": "BALDWIN",
+  "match": "exact",
+  "flavour": "Flesh yellowish, firm, moderately coarse, crisp, rather tender, juicy to very juicy, agreeably subacid, sprightly, somewhat aromatic, good to very good.",
+  "quality": "very good in quality when grown under favorable conditions",
+  "storage": "Season November to March or April in common storage; to May or later in cold storage.",
+  "climate": "In the South and Southwest it is not desirable because it there becomes a fall apple and also because it does not attain as good quality as it does in the Baldwin belt.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms include Woodpecker, Pecker and Butters (historical). Entry includes notes on Russet, Dark Baldwin and Olympia types."
+ },
+ "ben-davis": {
+  "line": 4780,
+  "end": 4944,
+  "heading": "BEN DAVIS",
+  "match": "exact",
+  "flavour": "Flesh whitish, slightly tinged with yellow, firm, moderately coarse, not very crisp, somewhat aromatic, juicy, mildly subacid, good.",
+  "quality": "here it is generally regarded as not good enough in quality for home use",
+  "storage": "It often keeps here in ordinary storage till May, and in cold storage till June, or often till July.",
+  "climate": "unquestionably in most portions of New York state the seasons are usually too short to mature the variety properly",
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "When grown in the South or Southwest, at its best it is but of second rate quality (Beach)."
+ },
+ "bess-pool": {
+  "line": 5004,
+  "end": 5012,
+  "heading": "BESS POOL",
+  "match": "exact",
+  "flavour": "Flesh white, juicy, subacid.",
+  "quality": "Esteemed in England both for culinary and dessert uses",
+  "storage": "Season November to March.",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Short note only; an old English apple but little known in America; Beach relies on Downing and Hogg."
+ },
+ "sheepnose": {
+  "line": 5304,
+  "end": 5398,
+  "heading": "BLACK GILLIFLOWER",
+  "match": "synonym",
+  "flavour": "The flesh at its best is but moderately juicy and soon becomes dry, but it has a peculiar aroma which is pleasing to many. Flesh whitish or slightly tinged with yellow, firm, rather tender, rather coarse, moderately juicy eventually becoming dry, mild subacid, rich, peculiarly aromatic, good for dessert and special markets.",
+  "quality": "good for dessert and special markets",
+  "storage": "Season October to January or February.",
+  "climate": null,
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Described as Black Gilliflower; Beach's separate SHEEPNOSE note (line 19096) says Sheepnose is in other places a common name for the Black Gilliflower. It is not sour enough to be very valuable for cooking."
+ },
+ "blue-pearmain": {
+  "line": 5457,
+  "end": 5537,
+  "heading": "BLUE PEARMAIN",
+  "match": "exact",
+  "flavour": "The fruit is of mild flavor and does not rank high in quality. Flesh yellowish, moderately firm, rather coarse, moderately juicy, mild subacid, decidedly and agreeably aromatic, good.",
+  "quality": "does not rank high in quality",
+  "storage": "In common storage it does not keep late, and by January it often becomes shriveled. It may keep till March but often begins to shrivel after January.",
+  "climate": null,
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [
+   "sharp"
+  ],
+  "sweet": null,
+  "acid": 2,
+  "note": "Our 'sharp' tag is against Beach's 'mild flavor' / 'mild subacid'."
+ },
+ "duke-of-devonshire": {
+  "line": 7387,
+  "end": 7436,
+  "heading": "DUKE OF DEVONSHIRE",
+  "match": "exact",
+  "flavour": "Flesh yellowish or tinged with green, moderately juicy, moderately crisp, firm, somewhat coarse, with a pleasant subacid flavor characteristic of certain russet apples, good to very good.",
+  "quality": "It is there esteemed as an excellent dessert apple and a good keeper",
+  "storage": "Season December to April or later.",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Little known in New York; 'there' = England."
+ },
+ "dumelows-seedling": {
+  "line": 7438,
+  "end": 7508,
+  "heading": "DUMELOW",
+  "match": "synonym",
+  "flavour": "Flesh whitish with slight yellow tinge, firm, crisp, moderately fine, tender, very juicy, brisk subacid, slightly aromatic, good for cooking.",
+  "quality": "It is excellent for culinary use, but too acid to be agreeable for dessert.",
+  "storage": "a good keeper. Season November to March or April.",
+  "climate": null,
+  "tags": [
+   "sharp",
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "Synonyms Dumelow's Seedling, Wellington, Dumelow's Crab, Normanton Wonder. In England esteemed as one of the most valuable culinary apples."
+ },
+ "esopus-spitzenburg": {
+  "line": 7926,
+  "end": 8048,
+  "heading": "ESOPUS SPITZENBURG",
+  "match": "exact",
+  "flavour": "Flesh tinged with yellow, firm, moderately fine, crisp, rather tender, juicy, aromatic, sprightly subacid, very good to best.",
+  "quality": "the standard of excellence for apples of the Baldwin class ... unexcelled in flavor and quality",
+  "storage": "Season November to February or later. In cold storage may be held till June.",
+  "climate": "The fruit develops good color and quality in most of the apple-growing regions of the State but it does particularly well in favorable localities in Schoharie and Greene counties and along Lake Champlain.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": ""
+ },
+ "golden-russet": {
+  "line": 9301,
+  "end": 9415,
+  "heading": "GOLDEN RUSSET",
+  "match": "exact",
+  "flavour": "Flesh yellowish, rather fine-grained, moderately crisp, tender, juicy, rich, agreeably subacid, aromatic, very good.",
+  "quality": "very good",
+  "storage": "It is an excellent storage variety. Season December to April or later.",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Golden Russet of Western N. Y., English Golden Russet. The Roxbury entry adds that the flesh of the Golden Russet is more sprightly subacid, finer-grained and of richer flavor than Roxbury."
+ },
+ "newtown-pippin": {
+  "line": 9456,
+  "end": 9761,
+  "heading": "GREEN NEWTOWN AND YELLOW NEWTOWN",
+  "match": "synonym",
+  "flavour": "Flesh yellowish or tinged with green according to the color of the fruit, firm, crisp, tender, moderately fine-grained, juicy, sprightly, with a fine aromatic subacid flavor, best. ... its flesh is apt to be more distinctly tinged with yellow, milder, less sprightly and more highly aromatic.",
+  "quality": "The fruit is of the highest quality for dessert and excellent for culinary uses.",
+  "storage": "It is firm, keeps very late and ships well. In ordinary storage its commercial season is February to March; in cold storage March to May.",
+  "climate": "Both sorts are exceedingly variable and susceptible to the influence of soil, climate, elevation above sea level, etc.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Beach describes Green Newtown and Yellow Newtown together (Yellow Newtown = Albemarle Pippin); our record covers both."
+ },
+ "grimes-golden": {
+  "line": 9953,
+  "end": 10036,
+  "heading": "GRIMES",
+  "match": "synonym",
+  "flavour": "Flesh yellow, very firm, tender, crisp, moderately coarse, moderately juicy, subacid, rich, aromatic, sprightly, very good to best.",
+  "quality": "very good to best",
+  "storage": "It is not a good keeper and is apt to scald in storage.",
+  "climate": "as grown in this state it does not develop in size, color or quality as well as it does in more southern latitudes",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Grimes Golden, Grimes Golden Pippin."
+ },
+ "lady-henniker": {
+  "line": 10126,
+  "end": 10190,
+  "heading": "HENNIKER",
+  "match": "synonym",
+  "flavour": "Flesh tinged with yellow, moderately coarse, somewhat crisp, rather tender, juicy, rich, brisk subacid with something of the flavor characteristic of certain russets, becoming rather mild late in the season; good to very good in quality.",
+  "quality": "Excellent for cooking but at first rather too briskly acid to be desirable for a dessert apple.",
+  "storage": "Season November to March or April.",
+  "climate": null,
+  "tags": [
+   "sharp"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "Synonym Lady Henniker; originated in Suffolk, England, 1840-1850."
+ },
+ "hubbardston-nonesuch": {
+  "line": 10416,
+  "end": 10557,
+  "heading": "HUBBARDSTON",
+  "match": "synonym",
+  "flavour": "Flesh whitish slightly tinged with yellow, moderately firm, breaking, rather fine-grained, tender, moderately crisp, juicy, aromatic, rich, at first sprightly but becoming mild subacid mingled with sweet, very good to best.",
+  "quality": "The quality is excellent for dessert but less satisfactory for culinary use except very early in the season before the fruit loses acidity.",
+  "storage": "Hubbardston reaches edible maturity in October and holds its flavor well till December or January, but after that time its quality usually deteriorates rapidly.",
+  "climate": "It varies remarkably under different conditions of soil and climate",
+  "tags": [
+   "perfumed",
+   "sweet"
+  ],
+  "against": [],
+  "sweet": 3,
+  "acid": 2,
+  "note": "Synonyms Hubbardston Nonsuch, American Blush, John May; Beach treats American Blush, Van Vleet and Orleans as identical or strains."
+ },
+ "jonathan": {
+  "line": 11034,
+  "end": 11160,
+  "heading": "JONATHAN",
+  "match": "exact",
+  "flavour": "Flesh whitish or somewhat yellow, sometimes with tinge of red, firm, moderately fine, crisp, tender, juicy, very aromatic, sprightly subacid, very good to best.",
+  "quality": "highly flavored and of excellent quality for either dessert or culinary use",
+  "storage": "It may be kept through the winter but when held in ordinary storage later than January dark spots are liable to develop in the skin",
+  "climate": "even under such circumstances it does not usually attain as good size as it does in certain portions of the valleys of the Ohio, Mississippi and Missouri",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Philip Rick, King Philip, Ulster Seedling."
+ },
+ "api": {
+  "line": 11557,
+  "end": 11660,
+  "heading": "LADY",
+  "match": "synonym",
+  "flavour": "Flesh white, firm, fine-grained, crisp, rather tender, juicy, pleasantly aromatic, mild subacid becoming nearly sweet, good to very good for dessert.",
+  "quality": "good to very good for dessert",
+  "storage": "Properly handled, it may be held in cold storage till summer",
+  "climate": "It does fairly well on any good apple soil, but a warm, gravelly or sandy loam seems to suit it best, developing to a marked degree the characteristically beautiful color and delicate high flavor of this variety",
+  "tags": [
+   "perfumed",
+   "sweet"
+  ],
+  "against": [],
+  "sweet": 3,
+  "acid": 2,
+  "note": "Described as Lady (Lady Apple); synonyms Api, Petit Api, Pomme d'Api. End excludes the following 'Other varieties of the Lady group' section."
+ },
+ "limbertwig": {
+  "line": 12308,
+  "end": 12405,
+  "heading": "LIMBERTWIG",
+  "match": "probable",
+  "flavour": "Flesh yellowish, hard, moderately fine, not very crisp, juicy, aromatic, subacid, good.",
+  "quality": "only fair to good",
+  "storage": "well adapted for storage, ships well and keeps late. Season January to March or April; in cold storage February to May or later.",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Beach says several different apples are called Limbertwig and describes a small or red and a large or green one; flavour quoted is the small/red Limbertwig. The green one has flesh 'much inferior in flavor and quality'. Which is our Old Fashioned Limbertwig is not certain."
+ },
+ "mere-de-menage": {
+  "line": 13123,
+  "end": 13191,
+  "heading": "MENAGERE",
+  "match": "synonym",
+  "flavour": "Flesh white, coarse-grained, moderately juicy, subacid, fair in flavor and quality.",
+  "quality": "It is undesirable either for dessert or culinary use, being coarse-grained and only fair in quality.",
+  "storage": "Season October to January; under favorable conditions some portion of the fruit may be kept till spring.",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Mere de Menage, Combermere Apple, Flanders Pippin. Beach: an old German variety, suitable only for exhibition."
+ },
+ "northern-spy": {
+  "line": 14497,
+  "end": 14701,
+  "heading": "NORTHERN SPY",
+  "match": "exact",
+  "flavour": "Flesh yellowish, rather firm, moderately fine-grained, very tender, crisp, very juicy, sprightly, aromatic, subacid, very good to best.",
+  "quality": "easily ranks among the very best winter apples of New York",
+  "storage": "It is ready for use in November and December, and retains its crispness and high flavor remarkably well until the close of the season",
+  "climate": "This variety succeeds better in the cooler regions of the interior of the state than it does on the warm slopes south of the Fishkill mountains and on the coastal plain.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": ""
+ },
+ "opalescent": {
+  "line": 15258,
+  "end": 15318,
+  "heading": "OPALESCENT",
+  "match": "exact",
+  "flavour": "Flesh distinctly tinged with yellow, rather firm, moderately tender, a little coarse, juicy or moderately juicy, agreeable mild subacid, aromatic, good to very good.",
+  "quality": "good to very good",
+  "storage": "It does not appear to be as good a keeper as Baldwin. Season November to February or March.",
+  "climate": null,
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Introduced about 1899 by McNary and Gaines, Xenia, Ohio."
+ },
+ "black-twig": {
+  "line": 15532,
+  "end": 15616,
+  "heading": "PARAGON",
+  "match": "synonym",
+  "flavour": "Flesh greenish or tinged with yellow, firm, a little coarse, rather tender, juicy, mild subacid, somewhat aromatic, good to very good.",
+  "quality": "good to very good",
+  "storage": "Season January to May.",
+  "climate": "The fruit evidently does not develop to as high a degree of perfection in New York as it does in more southern latitudes.",
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [
+   "sharp"
+  ],
+  "sweet": null,
+  "acid": 2,
+  "note": "Our aka Paragon (Tennessee, seed planted about 1830). Beach lists 'Black Twig' and 'Mammoth Black Twig' as erroneous synonyms (confusion with Arkansas). Our 'sharp' tag is against Beach's 'mild subacid'."
+ },
+ "pecks-pleasant": {
+  "line": 15963,
+  "end": 16065,
+  "heading": "PECK PLEASANT",
+  "match": "exact",
+  "flavour": "The flesh is tender, pleasantly flavored and ranks very good to best in quality. Flesh yellowish, firm, tender, crisp, fine-grained, juicy, pleasant subacid, aromatic, very good to best.",
+  "quality": "very good to best",
+  "storage": "Toward the close of the season it becomes inferior in quality although it may appear to be still in good condition.",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "The fruit very often scalds in storage."
+ },
+ "pomme-gris": {
+  "line": 16597,
+  "end": 16689,
+  "heading": "POMME GRISE",
+  "match": "exact",
+  "flavour": "Flesh yellowish, firm, crisp, moderately fine-grained, juicy, rich, subacid, aromatic, very good to best.",
+  "quality": "A little russet apple valued only because of its excellent dessert quality.",
+  "storage": "After midwinter it is apt to deteriorate in quality, although it may remain apparently in good condition till March or April.",
+  "climate": "It has the reputation of developing particularly fine flavor when grown in the St. Lawrence valley.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Beach queries Leroy's Reinette Grise synonyms. Swazie (Swazie Pomme Grise) is a separate entry of the Pomme Grise type."
+ },
+ "lanes-prince-albert": {
+  "line": 16794,
+  "end": 16876,
+  "heading": "PRINCE ALBERT",
+  "match": "synonym",
+  "flavour": "Flesh tinged with yellow or green, firm, moderately fine, crisp, tender, very juicy, briskly subacid or sour; suitable for culinary uses but has too much acidity for a good dessert apple.",
+  "quality": "It is too briskly subacid in flavor for a dessert apple but is valued for culinary uses.",
+  "storage": "Its season has not been proved here but it evidently extends from midautumn to midwinter. Hogg gives its season as December to March.",
+  "climate": null,
+  "tags": [
+   "sharp"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "Synonyms Lane's Prince Albert, Lane Albert; Beach follows Bunyard in calling it Prince Albert."
+ },
+ "ralls-janet": {
+  "line": 16955,
+  "end": 17080,
+  "heading": "RALLS",
+  "match": "synonym",
+  "flavour": "Flesh whitish, firm, moderately fine-grained, crisp, moderately tender, juicy, subacid with a slight mingling of sweet, aromatic, pleasant, very good for dessert.",
+  "quality": "very good for dessert",
+  "storage": "it has the merit of being a good keeper and holds its flavor well till late in the season. In ordinary storage it is in season from December to May with April as the commercial limit",
+  "climate": "In districts farther south and west and, generally speaking, throughout the Ben Davis apple regions it produces fruit of superior quality",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Rawle's Janet, Ralls Genet, Neverfail, Jefferson Pippin, Jeniton."
+ },
+ "hereford-redstreak": {
+  "line": 17385,
+  "end": 17441,
+  "heading": "REDSTREAK",
+  "match": "synonym",
+  "flavour": "flesh yellow, rich, firm, dry, good. ... the flesh is yellow, rich, firm, and dry",
+  "quality": "a capital English cider apple",
+  "storage": "the apple keeps well through the winter, and is much esteemed as an excellent kitchen fruit in the latter part of the winter.",
+  "climate": "The climate of America is supposed to have revived the character of this apple, which had deteriorated in its native soil, from the long duration of the variety",
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": null,
+  "note": "Synonyms Herefordshire Redstreak, English Redstreak, Scudamore's Crab. Beach did not fruit it; the description is quoted from Downing (1845) and Coxe (1817). Cider makes a rich, high-flavored, strong liquor."
+ },
+ "rhode-island-greening": {
+  "line": 17628,
+  "end": 17880,
+  "heading": "RHODE ISLAND GREENING",
+  "match": "exact",
+  "flavour": "Flesh yellowish, firm, moderately fine-grained, crisp, tender, juicy, rich, sprightly subacid, peculiarly flavored, very good in quality.",
+  "quality": "one of the very best cooking apples grown ... It is also very good in quality for dessert use.",
+  "storage": "In going down, it scalds badly in storage, loses in quality, turns yellow, becomes mealy and large specimens are liable to burst",
+  "climate": "it appears to do particularly well on fertile gravelly or sandy loam with well-drained clay subsoil",
+  "tags": [
+   "sharp"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Hovey, quoted by Beach: 'To some tastes it is rather acid'."
+ },
+ "rome-beauty": {
+  "line": 18067,
+  "end": 18193,
+  "heading": "ROME",
+  "match": "synonym",
+  "flavour": "Flesh nearly white with slight tinge of yellow or green, firm, moderately fine-grained to a little coarse, rather crisp, juicy, slightly aromatic, agreeable mild subacid, commonly good but not high in quality.",
+  "quality": "commonly good but not high in quality",
+  "storage": "It is thick-skinned, stands handling remarkably well and is a good keeper. It is held in cold storage till May or later.",
+  "climate": "It appears to be better adapted to bottom lands and to fertile sandy or gravelly loams than to heavy clay soils.",
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Synonyms Rome Beauty, Gillett's Seedling."
+ },
+ "roxbury-russet": {
+  "line": 18240,
+  "end": 18374,
+  "heading": "ROXBURY",
+  "match": "synonym",
+  "flavour": "Flesh tinged with yellow or greenish, firm, somewhat coarse, moderately tender, breaking, juicy, sprightly subacid, good to very good.",
+  "quality": "good to very good",
+  "storage": "Being an excellent keeper it is well liked for southern trade. Season December to May or in cold storage to July.",
+  "climate": "Roxbury fruit that is grown in Central and Western New York keeps better than that produced in more southern localities",
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Roxbury Russet, Boston Russet, Putnam Russet, Sylvan Russet. Compared with Golden Russet the Roxbury flesh is rather coarser, yellower, and more mildly subacid."
+ },
+ "smokehouse": {
+  "line": 19400,
+  "end": 19495,
+  "heading": "SMOKEHOUSE",
+  "match": "exact",
+  "flavour": "It is a very pleasant flavored dessert apple but hardly acid enough for most culinary uses. Flesh slightly tinged with yellow, rather firm, moderately fine, crisp, moderately tender, juicy, mild subacid, delicately aromatic, with an agreeable but not high flavor, good.",
+  "quality": "good",
+  "storage": "Season October to February or March.",
+  "climate": null,
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [
+   "sharp"
+  ],
+  "sweet": null,
+  "acid": 2,
+  "note": "Synonyms Gibbons Smokehouse, Millcreek Vandevere, English Vandevere. Our 'sharp' tag is against 'hardly acid enough'."
+ },
+ "stayman-winesap": {
+  "line": 19722,
+  "end": 19806,
+  "heading": "STAYMAN WINESAP",
+  "match": "exact",
+  "flavour": "Flesh tinged with yellow or slightly greenish, firm, moderately fine-grained, tender, moderately crisp, breaking, juicy to very juicy, aromatic, sprightly, pleasant subacid, good to very good.",
+  "quality": "good to very good",
+  "storage": "Season December to May; commercial limit, April.",
+  "climate": "It is evidently not well suited for regions as far north as this.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Raised from Winesap seed in 1866 at Leavenworth, Kan., by Dr. J. Stayman."
+ },
+ "swaar": {
+  "line": 20198,
+  "end": 20305,
+  "heading": "SWAAR",
+  "match": "exact",
+  "flavour": "Flesh yellowish, firm, moderately tender, rather fine-grained, juicy, mild or very mild subacid, aromatic, rich, very good to best.",
+  "quality": "valued especially for dessert use because of its rich flavor and fine quality",
+  "storage": "Its season is somewhat variable but in ordinary storage commonly extends from November or December to March or April",
+  "climate": "Downing observes that this variety requires a deep, rich, sandy loam to bring it to perfection but that it does not succeed well in damp or cold soils",
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Coxe, quoted: 'a large green apple, of great and uncommon flavour and richness'."
+ },
+ "tolman-sweet": {
+  "line": 21173,
+  "end": 21271,
+  "heading": "TOLMAN SWEET",
+  "match": "exact",
+  "flavour": "Flesh white, firm, neither tender nor crisp, rather hard, moderately fine, rather dry to moderately juicy, decidedly sweet, good to very good.",
+  "quality": "good to very good",
+  "storage": "In ordinary storage it is in season from November to January with December as the commercial limit.",
+  "climate": null,
+  "tags": [
+   "sweet"
+  ],
+  "against": [],
+  "sweet": 4,
+  "acid": null,
+  "note": "Much esteemed for pickling, boiling and baking; one of the hardiest old New England varieties."
+ },
+ "tompkins-king": {
+  "line": 21279,
+  "end": 21527,
+  "heading": "TOMPKINS KING",
+  "match": "exact",
+  "flavour": "Flesh attractive yellowish, rather coarse, crisp, tender, aromatic, juicy, subacid, very good to best. Its very agreeable perfumed flavor is equal to the Swaar.",
+  "quality": "excellent in quality for either dessert or culinary uses",
+  "storage": "Some of the fruit is often kept in cellars till spring, but not with prime flavor, for usually it begins to lose flavor by midwinter or earlier.",
+  "climate": "In the lake region of Central and Western New York in many cases it appears to succeed better on the uplands than it does close to the lakes.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "The 'perfumed flavor ... equal to the Swaar' sentence is from an 1850s grower's letter quoted in the Historical section."
+ },
+ "westfield-seek-no-further": {
+  "line": 22377,
+  "end": 22545,
+  "heading": "WESTFIELD SEEK-NO-FURTHER",
+  "match": "exact",
+  "flavour": "at its best it has a peculiarly pleasant, rich, mild subacid flavor which has made it popular. Flesh slightly tinged with pale yellow, firm, medium in grain or a little coarse, crisp, tender, breaking, juicy, mild subacid, rich, sometimes a little astringent, peculiarly aromatic, sprightly, very good to best.",
+  "quality": "very good to best",
+  "storage": "toward the close of the season it is apt to shrivel badly",
+  "climate": "It does not commonly develop as good color or quality on heavy, cold soils, particularly if they are not well drained, as it does on well-drained, fertile, gravelly or sandy loam.",
+  "tags": [
+   "perfumed",
+   "mild",
+   "astringent"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Beach's RED WINTER PEARMAIN note (line 17443) lists that name as a synonym of Westfield Seek-No-Further among others."
+ },
+ "winesap": {
+  "line": 22972,
+  "end": 23099,
+  "heading": "WINESAP",
+  "match": "exact",
+  "flavour": "Flesh tinged with yellow, veins sometimes red, very firm, rather coarse, moderately crisp, very juicy, sprightly subacid, good to very good.",
+  "quality": "When well grown it is of very good quality",
+  "storage": "It is a good shipper and stands heat well before going into storage, but late in the season it often scalds, particularly when not well colored.",
+  "climate": "It does best on rather light, rich, deep soils and does not succeed on heavy clays or in low, damp locations.",
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Coxe called it the most favored cider fruit in West Jersey."
+ },
+ "winter-banana": {
+  "line": 23104,
+  "end": 23185,
+  "heading": "WINTER BANANA",
+  "match": "exact",
+  "flavour": "characteristically aromatic, of good dessert quality, but too mild in flavor to excel for culinary uses. Flesh whitish tinged with pale yellow, moderately firm, a little coarse, somewhat crisp, tender, juicy, mild subacid, distinctly aromatic, good to very good.",
+  "quality": "of good dessert quality",
+  "storage": "In cold storage it ranks as a keeper about with Rhode Island Greening, but is not equal to Baldwin.",
+  "climate": null,
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Beach notes it is not a sweet apple and is distinct from Banana Sweet. No banana flavour is mentioned."
+ },
+ "yellow-bellflower": {
+  "line": 23338,
+  "end": 23478,
+  "heading": "YELLOW BELLFLOWER",
+  "match": "exact",
+  "flavour": "Flesh whitish tinged with pale yellow, firm, crisp, moderately fine-grained, rather tender, juicy, aromatic, very good for culinary use, rather too acid for dessert early in the season but later its acidity becomes somewhat subdued.",
+  "quality": "generally highly esteemed for culinary uses and also for its excellent dessert qualities",
+  "storage": "It does not reach its best condition for dessert use till January or later, when its acidity becomes somewhat subdued.",
+  "climate": "It seems to thrive particularly well on warm, well-drained soils.",
+  "tags": [
+   "perfumed",
+   "sharp"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "End excludes the following 'Yellow Bellflower group' section."
+ },
+ "york-imperial": {
+  "line": 23568,
+  "end": 23690,
+  "heading": "YORK IMPERIAL",
+  "match": "exact",
+  "flavour": "Flesh yellowish, firm, crisp, somewhat breaking, a little coarse, moderately tender, moderately juicy, at first sprightly subacid but becoming mild subacid or nearly sweet, somewhat aromatic, good to very good.",
+  "quality": "good to very good",
+  "storage": "It stands heat fairly well before going into storage, but often scalds badly and when it begins to deteriorate goes down rather quickly.",
+  "climate": "It seems to prefer rather heavy clay soils and seldom does well on soils that are light or in any way thin or leachy.",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonym Johnson's Fine Winter. When grown as far north as New York the fruit is deficient in color, size and quality."
+ },
+ "bailey": {
+  "line": 3863,
+  "end": 3941,
+  "heading": "BAILEY SWEET",
+  "match": "synonym",
+  "flavour": "This is a very beautiful red apple, distinctly sweet and of very good quality. Flesh tinged with yellow, firm, moderately coarse, moderately crisp, rather tender, moderately juicy to juicy, decidedly sweet, agreeable in flavor, very good in quality.",
+  "quality": "very good in quality",
+  "storage": "It is not a very good keeper.",
+  "climate": null,
+  "tags": [
+   "sweet"
+  ],
+  "against": [],
+  "sweet": 4,
+  "acid": null,
+  "note": "Synonyms include Edgerly Sweet, Howard's Sweet and Patterson's Sweet, as in our record. Introduced from Perry, Wyoming county, N.Y."
+ },
+ "black-ben-davis": {
+  "line": 5231,
+  "end": 5302,
+  "heading": "BLACK BEN DAVIS",
+  "match": "exact",
+  "flavour": "Flesh whitish, firm, somewhat coarse, moderately crisp, not tender, moderately juicy, mild subacid, a little aromatic, good in quality.",
+  "quality": "As grown in this state it is but little better than Ben Davis in quality.",
+  "storage": "It appears to be as good a keeper as Ben Davis.",
+  "climate": null,
+  "tags": [
+   "mild",
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Originated about 1880 in Washington county, Arkansas; Beach notes it closely resembles Gano but is probably distinct."
+ },
+ "jersey-black": {
+  "line": 5400,
+  "end": 5452,
+  "heading": "BLACK JERSEY",
+  "match": "synonym",
+  "flavour": "Flesh yellowish-white often tinged with red, juicy, crisp, a little coarse, subacid becoming mildly sweet, aromatic, agreeable in flavor but not high in quality.",
+  "quality": "agreeable in flavor but not high in quality",
+  "storage": null,
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": 3,
+  "acid": null,
+  "note": "Described as Black Jersey with synonyms Black Apple, Black American, Dodge's Black and Jersey Black (all in our aka). Beach notes several varieties went as Black Apple and that Warder's Jersey Black may be a different apple."
+ },
+ "boiken": {
+  "line": 5605,
+  "end": 5687,
+  "heading": "BOIKEN",
+  "match": "exact",
+  "flavour": "Its flavor is a rather brisk subacid. It is hardly rich enough in quality or mild enough in flavor to excel as a dessert fruit, but it is desirable for culinary use and for market. Flesh white, firm, crisp, tender, fine-grained, very juicy, sprightly, brisk subacid, not high in quality, good.",
+  "quality": "not high in quality, good",
+  "storage": "It appears to be better adapted than Rhode Island Greening for storage (20). In cold storage its season extends to May or later (20).",
+  "climate": null,
+  "tags": [
+   "sharp"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "German variety (Prussia); found by own search (no candidate line)."
+ },
+ "edelborsdorfer": {
+  "line": 5689,
+  "end": 5768,
+  "heading": "BORSDORF",
+  "match": "synonym",
+  "flavour": "Flesh whitish, tinged slightly with yellow, rather coarse, moderately crisp, rather tender, moderately juicy, mild subacid, becoming nearly sweet, aromatic.",
+  "quality": "valued in many parts of Europe as a dessert fruit of first quality",
+  "storage": null,
+  "climate": "It is not recommended for planting in New York state because it is less desirable here than other well-known varieties.",
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": 3,
+  "acid": 2,
+  "note": "Described under Borsdorf; Edelborsdorfer and Queen's are among its synonyms. Beach quotes Hogg on its history."
+ },
+ "reinette-du-canada": {
+  "line": 6282,
+  "end": 6367,
+  "heading": "CANADA REINETTE",
+  "match": "synonym",
+  "flavour": "Flesh has a decided yellow tinge and is firm, moderately tender, coarse, breaking, not crisp, juicy, subacid, very good.",
+  "quality": "very good",
+  "storage": "Late in the season the fruit begins to lose in flavor although it may apparently be still in good condition.",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms include Reinette du Canada, Reinette Monstrueuse du Canada, Pariser Rambour Reinette; listed in France by 1771."
+ },
+ "dutch-mignonne": {
+  "line": 7568,
+  "end": 7649,
+  "heading": "DUTCH MIGNONNE",
+  "match": "exact",
+  "flavour": "Flesh tinged with yellow, firm, nearly fine, crisp, rather tender, juicy, subacid, sprightly, good for dessert, excellent for cooking.",
+  "quality": "excellent for cooking, good for dessert and a good keeper",
+  "storage": "Season somewhat variable; often extending till May. Commercial limit usually March (20, 22).",
+  "climate": null,
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms include Reinette de Caux, Grosse Casseler Reinette, Paternoster Apple and Christ's Golden Reinette."
+ },
+ "roter-eiserapfel": {
+  "line": 7715,
+  "end": 7782,
+  "heading": "EISER",
+  "match": "synonym",
+  "flavour": "Flesh whitish, slightly tinged with yellow, very firm, moderately fine, crisp, breaking, moderately juicy, mild subacid, good.",
+  "quality": "Fruit very attractive, of good size, very beautiful color and good quality; suitable for general uses.",
+  "storage": "It stands shipping well and is an excellent keeper, being much superior to Baldwin in this respect.",
+  "climate": null,
+  "tags": [
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Described as Eiser with synonyms Rother Eiserapfel, Eiser Rouge, Arsapple; German, imported from Austria by Budd. Found by own search."
+ },
+ "english-russet": {
+  "line": 7797,
+  "end": 7924,
+  "heading": "ENGLISH RUSSET",
+  "match": "exact",
+  "flavour": "Flesh yellowish-white, firm, rather crisp, moderately tender, fine-grained, not very juicy, somewhat aromatic, pleasant, rather mild subacid, good.",
+  "quality": "not especially attractive in color nor high in quality, but one of the best keeping apples known",
+  "storage": "In ordinary cellar storage it has often been kept till the next crop has ripened. Late in the season it is apt to shrivel some.",
+  "climate": "Fruit-dealers report that the fruit from Southern and Southwestern New York is larger and has poorer keeping quality, while that from Northern and Western New York is smaller and keeps better.",
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Synonyms Poughkeepsie Russet and Winter Russet as in our aka; Beach says it is the American English Russet, distinct from Warder's and from the 'English Russet of England'. Has the reputation of making exceptionally good cider."
+ },
+ "fallawater": {
+  "line": 8216,
+  "end": 8310,
+  "heading": "FALLAWATER",
+  "match": "exact",
+  "flavour": "Flesh tinged with yellow or green, firm, coarse, crisp, moderately tender, juicy, subacid to mildly sweet, without distinct or high flavor, quality good or nearly so.",
+  "quality": "The flesh is coarse and at best but second rate in quality.",
+  "storage": "It is variable in season, ranking as a keeper sometimes with Hubbardston and sometimes with Rhode Island Greening.",
+  "climate": "In favorable localities on Long Island it colors well and develops better quality than it commonly does north of Orange county.",
+  "tags": [
+   "mild"
+  ],
+  "against": [],
+  "sweet": 3,
+  "acid": 2,
+  "note": "Synonyms Tulpehocken and Fallenwalder as in our aka; origin Bucks county, Pennsylvania."
+ },
+ "holland-pippin": {
+  "line": 10299,
+  "end": 10404,
+  "heading": "HOLLAND WINTER",
+  "match": "probable",
+  "flavour": "Flesh nearly white, firm, rather crisp, moderately fine-grained, juicy, subacid with mild, pleasing aroma, good.",
+  "quality": "not equal to Rhode Island Greening in flavor or quality for dessert or culinary uses but it is a better keeper and less liable to scald",
+  "storage": "it is a better keeper and less liable to scald",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Beach names this late-keeping 'Holland Pippin' of Pennsylvania 'Holland Winter' and says it was identified as the Holland Pippin of Hogg, Langley and Miller (Lincolnshire), but that the identification is not confirmed; he quotes Hogg's description ('sweet, and briskly acid'). The other American Holland Pippin (vol. 2, an autumn cooking apple) is a different variety and is not ours."
+ },
+ "malinda": {
+  "line": 12692,
+  "end": 12738,
+  "heading": "MALINDA",
+  "match": "exact",
+  "flavour": "Flesh yellowish-white, firm, juicy, very mild subacid with sweet after-taste, fair.",
+  "quality": "The fruit ranks only fair in quality.",
+  "storage": null,
+  "climate": "It has done well in Iowa and Minnesota when top-worked on the very hardy Hibernal apple or on the Virginia crab stock (5).",
+  "tags": [
+   "mild",
+   "sweet"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Originated in Orange county, Vermont; untested in New York in 1905."
+ },
+ "melon": {
+  "line": 13009,
+  "end": 13121,
+  "heading": "MELON",
+  "match": "exact",
+  "flavour": "When it is properly developed the Melon is one of the best dessert apples of its season, being crisp, tender and delicious. Flesh white slightly tinged with yellow, moderately firm, rather fine-grained, crisp, very tender, juicy, sprightly, somewhat aromatic, pleasantly subacid, very good.",
+  "quality": "one of the best dessert apples of its season",
+  "storage": "If kept later than January in ordinary storage it soon loses in flavor and quality (24).",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Norton's Melon, Watermelon, Melon Norton as in our aka; originated East Bloomfield, Ontario county, N.Y., from an orchard planted about 1800 - same apple, not one of the other 'Melon' homonyms."
+ },
+ "oliver": {
+  "line": 15027,
+  "end": 15113,
+  "heading": "OLIVER",
+  "match": "exact",
+  "flavour": "Flesh whitish with tinge of yellow or green, moderately fine and crisp, rather tender, breaking, juicy, somewhat sprightly subacid eventually approaching sweet, good or possibly very good.",
+  "quality": "An attractive dark red apple of good size and good quality.",
+  "storage": "Its commercial season in ordinary storage appears to be December to midwinter; in cold storage it extends to March or April.",
+  "climate": "It is doubtful whether it can always be properly ripened in the northern portion of the Baldwin apple belt, but in the southern portion it appears to be more promising.",
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Senator and Oliver's Red as in our aka; propagated since about 1873 in northwestern Arkansas."
+ },
+ "ontario": {
+  "line": 15165,
+  "end": 15256,
+  "heading": "ONTARIO",
+  "match": "exact",
+  "flavour": "Flesh whitish tinged with yellow, rather firm, moderately fine or a little coarse, crisp, tender, very juicy, sprightly, rather brisk subacid, more so than Northern Spy, aromatic, good to very good; especially desirable for culinary use.",
+  "quality": "inferior to Northern Spy both in color and quality",
+  "storage": "So far as tested here it appears to follow Northern Spy in that it shows considerable variation in different seasons in its keeping quality (21).",
+  "climate": "As grown in that region and also in some parts of Michigan it is on the average larger and more highly colored than we have found it to be at this Station.",
+  "tags": [
+   "sharp",
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 4,
+  "note": "Northern Spy x Wagener, raised by Charles Arnold, Paris, Ontario."
+ },
+ "ortley": {
+  "line": 15380,
+  "end": 15489,
+  "heading": "ORTLEY",
+  "match": "exact",
+  "flavour": "The fruit has less acidity than Yellow Bellflower and is more pleasant in flavor for dessert use. Flesh whitish tinged with yellow, moderately fine, crisp, tender, juicy, sprightly subacid, very good.",
+  "quality": "very good",
+  "storage": null,
+  "climate": "As grown in the North the fruit tends to be more oblong, smaller and of a paler yellowish-white color, coarser texture and sprightlier flavor than when grown farther south (17).",
+  "tags": [],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Woolman's Long, White Bellflower, White Detroit, Van Dyne, Ortley Pippin as in our aka; old New Jersey variety. Beach says it does better farther south and west."
+ },
+ "pewaukee": {
+  "line": 16259,
+  "end": 16363,
+  "heading": "PEWAUKEE",
+  "match": "exact",
+  "flavour": "Flesh nearly white, moderately firm, slightly coarse, rather tender, very juicy, subacid, slightly aromatic, fair to good.",
+  "quality": "Its quality ranks fair to good for either culinary or dessert uses.",
+  "storage": "Pewaukee varies much in keeping qualities in different seasons (19). In ordinary storage its commercial limit varies from November to January, or under favorable conditions till February.",
+  "climate": "it is very hardy, although it has not proven as hardy in the North and Northwest as was at first expected, being inferior to Wealthy in this respect",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Oldenburg x Northern Spy, Pewaukee, Wisconsin, about 1870."
+ },
+ "sweet-winesap": {
+  "line": 20589,
+  "end": 20713,
+  "heading": "SWEET WINESAP",
+  "match": "exact",
+  "flavour": "Flesh nearly white, firm, rather fine, moderately crisp, tender, juicy, distinctly sweet, good to very good.",
+  "quality": "It is excellent in quality for dessert or for baking or other culinary uses.",
+  "storage": "The fruit has a tough skin, stands heat well before going into storage and remains sprightly and crisp till late in the season. As grown in Western New York it ordinarily comes into season in November and may be held in common storage till April first or in cold storage till May fifteenth (10).",
+  "climate": null,
+  "tags": [
+   "sweet"
+  ],
+  "against": [],
+  "sweet": 4,
+  "acid": null,
+  "note": "Synonyms Henrick Sweet, Hendrick Sweet as in our aka; Pennsylvania variety."
+ },
+ "wagener": {
+  "line": 21798,
+  "end": 21932,
+  "heading": "WAGENER",
+  "match": "exact",
+  "flavour": "Wagener, at its best, is an apple of superior excellence. It has fine texture, high flavor and excellent quality. Flesh whitish slightly tinged with yellow, moderately firm, rather fine-grained, crisp, tender, juicy to very juicy, subacid, aromatic, sprightly, very good to best.",
+  "quality": "Wagener, at its best, is an apple of superior excellence.",
+  "storage": "often some portion of the fruit may be kept in ordinary storage till late spring. It does not stand heat well before going into storage and is quite apt to scald toward the close of the season, particularly if not well colored. After scalding it goes down quickly (29, 30).",
+  "climate": null,
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Penn Yan, Yates county, N.Y., from seed sown 1791."
+ },
+ "white-winter-pearmain": {
+  "line": 22547,
+  "end": 22622,
+  "heading": "WHITE PEARMAIN",
+  "match": "synonym",
+  "flavour": "Flesh slightly tinged with yellow, firm, fine-grained, crisp, tender, juicy, mild subacid, sprightly, very pleasantly aromatic, very good to best.",
+  "quality": "very good to best",
+  "storage": null,
+  "climate": "It appears to succeed better in those regions than it does in New York.",
+  "tags": [
+   "perfumed",
+   "mild"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 2,
+  "note": "Synonym White Winter Pearmain; an old favourite dessert apple of the Middle West from Ohio to Kansas."
+ },
+ "swazie": {
+  "line": 20307,
+  "end": 20383,
+  "heading": "SWAZIE.",
+  "match": "exact",
+  "flavour": "Flesh whitish tinged with pale yellow, fine-grained, tender, crisp, juicy, highly aromatic, sprightly, rather mild subacid, pleasant, very good to best for dessert.",
+  "quality": "very good to best for dessert",
+  "storage": "Season December to March.",
+  "climate": "it succeeds well in Southern Ontario especially in the Niagara district",
+  "tags": [
+   "perfumed"
+  ],
+  "against": [],
+  "sweet": null,
+  "acid": 3,
+  "note": "Synonyms Swazie Pomme Grise, Pomme Grise d'Or, Swayzie. Pomme Grise group; more oblong, more golden and more highly aromatic than Pomme Grise. Supposed to have originated on the Swazie farm near Niagara. Shy bearer."
+ }
 }

@@ -1,0 +1,464 @@
+[
+ {
+  "id": "collins-june",
+  "name": "Collins June",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": null,
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An obscure early American summer apple preserved in the USDA apple collection at Geneva, New York (PI 589149, donated in 1985). Its history is unrecorded; it is a different apple from Collins of Arkansas, whose synonyms include Champion.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": null,
+   "description": "Large, rounded-oblate, greenish-yellow to yellow summer apple."
+  },
+  "taste": {
+   "summary": "Soft, cream-coloured flesh with a sub-acid flavour; the USDA rates its eating quality only fair. Low in sugar and juice in Canadian trials.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 1,
+   "juicy": 2,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "light",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Recorded as unproductive in the USDA collection."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": null
+  },
+  "season": {
+   "harvest": "early Aug-mid Aug",
+   "eating": "Aug",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": null,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": null,
+   "poor_climates": null
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 4,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Rated fairly susceptible to fire blight (7 on the USDA scale)."
+  },
+  "grow_notes": "Of collection interest only: a very early, soft yellow apple with light crops. Eat as soon as it is picked.",
+  "conf": "low"
+ },
+ {
+  "id": "crimson-gold",
+  "name": "Crimson Gold",
+  "aka": ["Little Rosybloom"],
+  "uses": ["dessert", "culinary", "juice"],
+  "origin": {
+   "country": "US",
+   "place": "Northern California (Albert Etter's breeding work)",
+   "year": 1944,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Apple x crab-apple hybrid (applecrab); exact parents unrecorded",
+   "raised_by": "Albert Etter"
+  },
+  "history": "One of Albert Etter's Californian applecrabs, first called Little Rosybloom; Etter died in 1950 before its patent was completed and it was nearly lost until Ram Fishman found it on a single surviving limb around 1970. The name is also loosely applied to other apples in trade (the Czech Svatava and Wickson), which causes confusion.",
+  "look": {
+   "size": "small",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 85,
+   "stripes": false,
+   "russet": 0,
+   "description": "Golf-ball-sized apple, mostly covered in ruby red with a plum-like bloom, the yellow ground showing only in shade."
+  },
+  "taste": {
+   "summary": "Crisp, very sweet small apple balanced by a good tartness; high in sugar for its size. Keeps its texture even after long cooking, and makes good juice.",
+   "sweet": 4,
+   "acid": 4,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 5,
+   "juicy": 3,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Used as a pollinizer for Honeycrisp, Gala and Fuji in Washington State orchards."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": null,
+   "notes": "Blooms mid-season to late; valued as a pollen source for commercial varieties."
+  },
+  "season": {
+   "harvest": "late Sep-mid Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 700,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild coastal northern California where it was raised; also grown in Washington State orchards.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "A small, ornamental-looking applecrab for fresh eating, baking and juice, and a useful pollinator. Beware of trees sold under this name that are a different variety.",
+  "conf": "low"
+ },
+ {
+  "id": "crimson-king",
+  "name": "Crimson King",
+  "aka": ["John Toucher's", "Bewley Down Pippin"],
+  "uses": ["cider", "culinary"],
+  "origin": {
+   "country": "GB",
+   "place": "Bewley Down, Chardstock, on the Somerset-Devon border, England",
+   "year": 1895,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "John Toucher"
+  },
+  "history": "Raised in the late 19th century by John Toucher of Bewley Down, Chardstock, and first recorded in 1895. Planted first in west Somerset, then across Devon and the West Country cider districts.",
+  "look": {
+   "size": "large",
+   "shape": "irregular",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 70,
+   "stripes": true,
+   "russet": 1,
+   "description": "Medium to very large, variably shaped fruit, heavily flushed and striped red."
+  },
+  "taste": {
+   "summary": "A vintage-quality sharp cider apple: high acid, little or no tannin, giving a light, fruity cider. The big fruit is sometimes used for cooking.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 1,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sharp"],
+   "cider_class": "sharp",
+   "best_eaten": "Milled for cider in autumn; also cooks"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "triploid",
+   "notes": "A vigorous, spreading triploid that bears heavy crops with little biennial tendency."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Flowered early at Brogdale; as a triploid it is a poor pollen donor and needs two diploid partners."
+  },
+  "season": {
+   "harvest": "late Sep-mid Oct",
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Mild, damp West Country cider districts of Somerset and Devon.",
+   "poor_climates": "Wet sites with heavy scab pressure; hot climates untested."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Fairly prone to scab."
+  },
+  "grow_notes": "A good choice for the acid component of a cider blend. Give it space, as it makes a big spreading tree, and plant two diploid pollinators.",
+  "conf": "medium"
+ },
+ {
+  "id": "directeur-lesage",
+  "name": "Directeur Lesage",
+  "aka": ["Précoce de Wirwignes"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "FR",
+   "place": "Northern France or Belgium (uncertain)",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An early eating apple grown in Belgium and northern France; the National Fruit Collection received it from France in 1949 but suspects a Belgian origin. Its other name, Précoce de Wirwignes, refers to a village in the Pas-de-Calais.",
+  "look": {
+   "size": "medium",
+   "shape": "ribbed",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": null,
+   "description": "Medium, truncate-conical and distinctly ribbed, greenish-yellow with orange-red stripes and flecks."
+  },
+  "taste": {
+   "summary": "Crisp, juicy, fine white flesh with a fresh sweet-sharp balance. Like most August apples it must be eaten within days.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": 2,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "A weak-growing spur-bearer that crops heavily and regularly; fruit ripens over a period, so pick over several times."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early flowering; an average pollinator."
+  },
+  "season": {
+   "harvest": "early Aug-late Aug",
+   "eating": "Aug",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool temperate north-west European climates; reported to be cold-hardy.",
+   "poor_climates": "Not documented; hot summers would shorten its very brief keeping life further."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some scab resistance; some susceptibility to powdery mildew."
+  },
+  "grow_notes": "An easy, compact early apple for the garden. Pick little and often from early August and eat fresh.",
+  "conf": "low"
+ },
+ {
+  "id": "dufflin",
+  "name": "Dufflin",
+  "aka": [],
+  "uses": ["cider"],
+  "origin": {
+   "country": "GB",
+   "place": "Kea, near Truro, Cornwall (the National Fruit Collection calls it a Devon apple)",
+   "year": 1896,
+   "year_note": "before",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old West Country cider apple, grown around Kea near Truro in the 19th century; Quiller-Couch mentions Dufflin cider in a story of 1896. Long Ashton Research Station included it in orchard trials in 1957.",
+  "look": {
+   "size": "small",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": 2,
+   "description": "Small to medium, round yellow fruit with no blush and a heavily russeted skin."
+  },
+  "taste": {
+   "summary": "Soft flesh with high sugar; sources disagree on class, one calling it bittersharp with the sugar softening it, another listing it as a sweet cider apple. Valued for making and blending cider.",
+   "sweet": 4,
+   "acid": null,
+   "aroma": null,
+   "tannin": null,
+   "crisp": 1,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "For cider"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Vigorous and a good cropper."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Recorded as flowering early at Brogdale, but in a different year from most records, so the group is not certain."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": null,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Mild, wet south-west England, where its scab resistance is an advantage.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Reported resistant to scab."
+  },
+  "grow_notes": "A local cider apple for mild, damp West Country sites. Its cider class is unclear, so taste or test the juice before planning a blend around it.",
+  "conf": "low"
+ },
+ {
+  "id": "dukat",
+  "name": "Dukat",
+  "aka": ["Dukát"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CZ",
+   "place": "Czechoslovakia (now Czech Republic)",
+   "year": 1965,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Cox's Orange Pippin",
+   "raised_by": null
+  },
+  "history": "A Czech Golden Delicious x Cox's Orange Pippin cross from about 1965, the same parentage as Champion (Šampion). The National Fruit Collection received it from Czechoslovakia in 1974.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 45,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, rounded-conical, greenish-yellow apple with a red striped and mottled flush and some russet."
+  },
+  "taste": {
+   "summary": "Firm, crisp, rather coarse and juicy yellowish flesh with a very sweet flavour and low acidity.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": null
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering at Brogdale (full bloom around 10 May)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Central European continental climates like Bohemia where it was bred.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "A rarely grown Czech dessert apple; little growing advice is published. Pick in mid-October and eat within about two months.",
+  "conf": "low"
+ }
+]

@@ -1,0 +1,101 @@
+{
+ "clarke-pearmain": [
+  {
+   "line": 15121,
+   "page": null,
+   "score": 1.3,
+   "key": "CLARKES PEARMAIN",
+   "text": "=Clarke's Pearmain.="
+  },
+  {
+   "line": 18559,
+   "page": null,
+   "score": 1.3,
+   "key": "COLUMBIAN RUSSET",
+   "text": "=Columbian Russet.="
+  },
+  {
+   "line": 18670,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "=Golden Pearmain.=--[Of Kentucky.]"
+  },
+  {
+   "line": 22159,
+   "page": null,
+   "score": 1.3,
+   "key": "COLUMBIAN RUSSET",
+   "text": "=Columbian Russet=  |sm. | Sou.?|  III.  I. 2. 3.  | Winter |v. good|622"
+  },
+  {
+   "line": 22448,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden Pearmain     |sm. |   ?  |  III.  I. 2. 3.  | Winter | good  |"
+  },
+  {
+   "line": 22449,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "=Golden Pearmain=   |sm. | (Ky.)|  III.  I. 2. 1.  |        |       |"
+  }
+ ],
+ "autumn-bough": [
+  {
+   "line": 21380,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet Bellflower,"
+  },
+  {
+   "line": 21784,
+   "page": null,
+   "score": 1.8,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet Bellflower,"
+  },
+  {
+   "line": 20454,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "=Sweet Bellflower.="
+  },
+  {
+   "line": 23377,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "=Sweet Bellflower=  |lg. | Ohio |   IV. II. 1. 1.  | Winter | good  |683"
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 21470,
+   "page": null,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson,"
+  },
+  {
+   "line": 23163,
+   "page": null,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson Stripe     |med.| (O.) |   II.  I. 2. 2.  | Autumn | poor  |"
+  }
+ ],
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 22261,
+   "page": null,
+   "score": 1.0,
+   "key": "OLDENBURG",
+   "text": "Oldenburg=        |    |      |{ III.  I. 2. 2. }|        |       |"
+  }
+ ]
+}

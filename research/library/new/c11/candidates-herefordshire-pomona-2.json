@@ -1,0 +1,59 @@
+{
+ "clarke-pearmain": [
+  {
+   "line": 10293,
+   "page": 4,
+   "score": 1.0,
+   "key": "GLOUCESTER",
+   "text": "Gloucester  (1873)  “for  its  excellence  as  a  cider  fruit.”"
+  }
+ ],
+ "woodcock": [
+  {
+   "line": 10941,
+   "page": 4,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock. — A  very  old  variety  mentioned  by"
+  },
+  {
+   "line": 15407,
+   "page": 10,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock"
+  },
+  {
+   "line": 12259,
+   "page": 10,
+   "score": 1.0,
+   "key": "WOODCOCK",
+   "text": "- Woodcock  ..."
+  }
+ ],
+ "styre": [
+  {
+   "line": 11003,
+   "page": 4,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  },
+  {
+   "line": 15835,
+   "page": 10,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 15769,
+   "page": 10,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee"
+  }
+ ]
+}

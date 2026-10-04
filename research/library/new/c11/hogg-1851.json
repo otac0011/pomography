@@ -1,0 +1,39 @@
+{
+  "_book": "hogg-1851",
+  "red-autumn-calville": {
+    "line": 3641, "end": 3676, "heading": "58. CALVILLE ROUGE D'AUTOMNE.--Knoop.", "match": "synonym",
+    "flavour": "Flesh, white, tinged with red under the skin, and very much so on the side which is exposed to the sun; it is tender, delicate, and juicy, with a pleasant, vinous, and violet scented flavor.",
+    "quality": "A culinary apple of inferior quality in this country, but highly esteemed on the Continent, both as a culinary and a dessert fruit.",
+    "storage": "It is in season during October and November.",
+    "climate": "To have the fruit in perfection it ought to be grown on the paradise stock as an open dwarf, in a fine sandy loam",
+    "tags": ["wine", "floral"], "against": [], "sweet": null, "acid": null,
+    "note": "Synonyms include Red Autumn Calville and Rothe Herbstcalville."
+  },
+  "coccagee": {
+    "line": 4067, "end": 4097, "heading": "73. COCCAGEE.--Hort.", "match": "exact",
+    "flavour": "Flesh, yellowish white, soft, sharply acid, and austere.",
+    "quality": "One of the oldest and best cider apples.",
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 5,
+    "note": "Irish origin, brought to Minehead, Somerset c.1727 (Langley). Cider 'of the color of sherry' with 'a more vinous taste than any cyder I ever drank'. Rich flavour when baked."
+  },
+  "styre": {
+    "line": 5657, "end": 5680, "heading": "128. FOREST STYRE.--Knight.", "match": "exact",
+    "flavour": null,
+    "quality": "a fine old Gloucestershire cider apple",
+    "storage": null,
+    "climate": "extensively cultivated on the thin limestone soils of the Forest of Dean",
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Synonyms Stire, Forest Styre. Says only 'Flesh, firm'; the cider is 'strong bodied, rich, and highly flavored'."
+  },
+  "woodcock": {
+    "line": 12765, "end": 12784, "heading": "394. WOODCOCK.--Evelyn.", "match": "exact",
+    "flavour": null,
+    "quality": "one of the oldest cider apples, and is highly commended by the writers of the seventeenth century",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "No taste words; Knight thought it had long ceased to deserve planting."
+  }
+}

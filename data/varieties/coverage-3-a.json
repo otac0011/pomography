@@ -1,0 +1,696 @@
+[
+  {
+    "id": "edelborsdorfer",
+    "name": "Edelborsdorfer",
+    "aka": [
+      "Borsdorfer",
+      "Edler Winterborsdorfer",
+      "Reinette Batarde",
+      "Reinette d'Allemagne",
+      "Leipziger Reinette",
+      "Maschanzker",
+      "Queen's Apple"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Saxony, Germany (Borsdorf near Leipzig, or the Meissen district)",
+      "year": 1561,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Regarded as the oldest documented German apple: the Borsdorfer is named in records of the 1500s, and German writers link it to a monastery mention as far back as the 12th century. It was a prestige apple across central Europe and was reputedly a favourite of Queen Charlotte, who had fruit sent to England from Germany.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 25,
+      "stripes": false,
+      "russet": 1,
+      "description": "Small to medium, flattish fruit, golden yellow with a red cheek on the sunny side and scattered russet dots and veins."
+    },
+    "taste": {
+      "summary": "Firm, fine, juicy flesh with a sweet, wine-like flavour; German sources add a faint cinnamon-like spice. A winter apple that is eaten from late autumn and keeps into spring.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "wine",
+        "sweet",
+        "cinnamon"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Forms a rounded crown with long, slender shoots that hang down towards the ground. Very long-lived; foliage small, glossy and leathery."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "German sources call it late-flowering, with blossom that tolerates frost. Group estimated from that and from National Fruit Collection flowering dates; no published group found."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm, sheltered sites in central Europe with rich, evenly moist soil; the late blossom escapes most spring frosts.",
+      "poor_climates": "Cold, exposed or dry sites and poor soils, where German growers say the fruit stays small and the tree disappoints."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Leaves are described as healthy and disease-resistant. Main demand is a warm site and nutrient-rich soil."
+    },
+    "grow_notes": "Give it a warm, sheltered position on fertile, moisture-retentive soil. Its pendulous shoots need little shortening; thin rather than head back.",
+    "conf": "medium"
+  },
+  {
+    "id": "eden",
+    "name": "Eden",
+    "aka": [
+      "SJCA38R6A74"
+    ],
+    "uses": [
+      "dessert",
+      "culinary",
+      "juice"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Quebec, Canada",
+      "year": 2006,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Linda x Jonamac",
+      "raised_by": "Agriculture and Agri-Food Canada"
+    },
+    "history": "A Quebec-bred apple from Agriculture and Agri-Food Canada, crossed decades earlier and released around 2006 under the name Eden. Its selling point is flesh that stays white for a long time after cutting, which suits fresh-cut slices and dried chips; fruit also hangs on the tree into winter and has been used for ice cider. Not the same as the English 'Eden' (John Standish x Cox, 1948) held at the National Fruit Collection.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Rounded, medium-sized fruit (about 150 g) that resists bruising; colour details not confirmed from the sources used."
+    },
+    "taste": {
+      "summary": "White, firm, crisp and juicy flesh with a strongly aromatic flavour, balanced between sweetness and acidity and leaning to the sweet side. The cut flesh is very slow to brown.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Semi-vigorous with wide branch angles. Fruit is unusually persistent and can be left hanging long after maturity."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Flowers about a week ahead of McIntosh; Orange Pippin puts it in group 2."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool continental and mild, damp temperate climates like its home in southern Quebec.",
+      "poor_climates": "Not documented; as a McIntosh-family apple it is unlikely to do well in hot, humid summers."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": null,
+      "bitter_pit": 3,
+      "other": "Susceptible to scab; some resistance to mildew and fire blight; some bitter pit reported."
+    },
+    "grow_notes": "Needs a regular scab spray programme in wet districts. Plant an early-flowering partner such as another group 2 apple.",
+    "conf": "medium"
+  },
+  {
+    "id": "elise-rathke",
+    "name": "Elise Rathke",
+    "aka": [
+      "Elisa Rathke",
+      "Eliza Ratke"
+    ],
+    "uses": [
+      "dessert",
+      "ornamental"
+    ],
+    "origin": {
+      "country": "PL",
+      "place": "West Prussia, near Danzig (Gdansk) or Elbing (Elblag); then Germany",
+      "year": 1884,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Rathke of Praust near Danzig, or A. Duhring of Elbing (sources differ)"
+    },
+    "history": "A 19th-century apple from West Prussia, first recorded in 1884 and distributed from 1886 by the Spaeth nursery in Berlin. It is best known today as a naturally weeping small tree, often top-grafted as an ornamental standard that also gives edible fruit.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 35,
+      "stripes": true,
+      "russet": 1,
+      "description": "Small to medium, greasy-skinned fruit, yellow with a pinkish-red flush and streaks and brown dots."
+    },
+    "taste": {
+      "summary": "Fine, soft flesh, moderately sweet with little acidity and a light spicy note. Brogdale's assessors found it rather crumbly and dry.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "spice",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Strongly weeping, forming a broad, half-open umbrella about 3 m tall when top-worked on a stem. Grown as much for its form and pale pink blossom as for fruit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found; estimated from National Fruit Collection flowering dates."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool temperate and Baltic-type climates; a Dutch tree nursery rates it frost-resistant.",
+      "poor_climates": "Wet, humid districts where scab is severe; performance in hot climates not recorded."
+    },
+    "health": {
+      "scab": 5,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to scab."
+    },
+    "grow_notes": "Plant it where the weeping crown has room to spread, in an open, airy spot to reduce scab. Usually bought top-grafted on a clear stem; little pruning beyond removing upright shoots.",
+    "conf": "low"
+  },
+  {
+    "id": "fenouillet-gris",
+    "name": "Fenouillet Gris",
+    "aka": [
+      "Caraway Russet",
+      "Anise Fenouillet",
+      "Epice d'Hiver",
+      "Fenouillet"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Anjou, France",
+      "year": 1608,
+      "year_note": "first recorded",
+      "kind": "ancient",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old French russet from Anjou, described as early as 1608 and prized for its anise scent; in England it was called Caraway Russet. It is also sold under the short name 'Anis', which should not be confused with the Russian Anis apples.",
+    "look": {
+      "size": "small",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small, flat and often lopsided fruit, largely covered in grey to reddish-brown russet over a dull yellow and red skin."
+    },
+    "taste": {
+      "summary": "Sweet, fine, crisp but rather dry white flesh with almost no acidity and a distinctive anise or musky fennel aroma. An unusual, highly scented dessert apple rather than a juicy one.",
+      "sweet": 4,
+      "acid": 1,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "aniseed",
+        "sweet",
+        "musky"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour, regular cropper, spur-bearing."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4 per Orange Pippin; diploid, an average pollen donor."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm temperate regions such as western France, and warm-summer climates generally.",
+      "poor_climates": "Cool, short seasons where late russets struggle to ripen fully."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Some scab resistance reported; otherwise average disease resistance."
+    },
+    "grow_notes": "Give it a warm, sunny site so the late fruit ripens and develops its scent. Pick in mid October and store cool; it keeps for three months or more.",
+    "conf": "medium"
+  },
+  {
+    "id": "ginger-gold",
+    "name": "Ginger Gold",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Nelson County, Virginia, USA",
+      "year": 1969,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Chance seedling, probably Golden Delicious x Albemarle Pippin (or another pollen parent)",
+      "raised_by": "Clyde and Frances 'Ginger' Harvey (discoverers)"
+    },
+    "history": "Found as a seedling in a Virginia orchard that was being replanted after Hurricane Camille in 1969, and named after Frances 'Ginger' Harvey. It became one of the main early-season commercial apples in the eastern USA from the 1980s.",
+    "look": {
+      "size": "large",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, conical, waxy fruit, pale green ripening to soft yellow, with a long stalk like Golden Delicious."
+    },
+    "taste": {
+      "summary": "Crisp, juicy cream flesh with a mild flavour, sweeter than tart but a little sharper than Golden Delicious. Slices brown slowly and hold their shape when cooked.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "mild",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep; keeps several weeks in a fridge"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous to average vigour, precocious and regular. An unusually good keeper for an early apple."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Group 4 per Orange Pippin."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Oct",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 4,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Warm-summer temperate regions such as Virginia and the Carolinas, where it ripens in July-August; also grown in Ontario and Quebec.",
+      "poor_climates": "Humid areas with heavy fire blight, mildew or cedar-apple rust pressure."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 4,
+      "rust": 5,
+      "bitter_pit": null,
+      "other": "Susceptible to fire blight and powdery mildew; very susceptible to cedar-apple rust."
+    },
+    "grow_notes": "A good early apple for warmer gardens; pick as soon as the ground colour turns yellow. Watch for mildew and fire blight and avoid planting near junipers where cedar-apple rust occurs.",
+    "conf": "medium"
+  },
+  {
+    "id": "golden-harvey",
+    "name": "Golden Harvey",
+    "aka": [
+      "Brandy Apple",
+      "Round Russet Harvey",
+      "Guernsey Pippin",
+      "Bradley's Golden Pippin"
+    ],
+    "uses": [
+      "dessert",
+      "cider",
+      "juice"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Herefordshire, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Herefordshire russet thought to date from the 1600s. Its very sugary juice made a strong cider, hence the old name Brandy Apple, and it was also valued as a small, rich dessert apple.",
+    "look": {
+      "size": "small",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 3,
+      "description": "Small, rounded fruit almost covered with rough golden-brown russet, sometimes with a faint orange-red flush."
+    },
+    "taste": {
+      "summary": "Firm, crisp yellow flesh with an intense, sweet yet sharp, rich and aromatic flavour. Its high sugar gives a strong cider.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [
+        "sweet",
+        "sharp",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": null,
+      "biennial": null,
+      "precocity": 2,
+      "ploidy": "diploid",
+      "notes": "Vigorous and slow to start bearing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 per Orange Pippin."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "West of England cider country and similar mild temperate climates.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated average for disease resistance; specific weaknesses not recorded."
+    },
+    "grow_notes": "A vigorous tree that takes a few years to crop, so a dwarfing rootstock helps in gardens. Leave the fruit until mid October and store before eating or pressing.",
+    "conf": "medium"
+  },
+  {
+    "id": "jefferis",
+    "name": "Jefferis",
+    "aka": [
+      "Jefferies",
+      "Jeffries",
+      "Everbearing",
+      "Grantham"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Newlin Township, Chester County, Pennsylvania, USA",
+      "year": 1830,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Isaac Jefferis"
+    },
+    "history": "A seedling raised by Isaac Jefferis in Chester County, Pennsylvania, around 1830 and named by the Pennsylvania Horticultural Society, which brought it to notice in 1848. It was long regarded as one of the best early-autumn dessert apples of the eastern USA.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, flattish, thin-skinned fruit, light red with darker red stripes over greenish yellow; skin rather greasy."
+    },
+    "taste": {
+      "summary": "Juicy flesh that is crisp yet melting, with a rich, sweetish, mildly acid flavour that recalls pear. An aromatic early-autumn dessert apple.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "pear",
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": "part-tip",
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Bears on spurs and partly at shoot tips; little else recorded."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "No published group found; estimated from National Fruit Collection flowering dates."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mid-Atlantic US climates like its Pennsylvania home.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well recorded. Thin skin marks easily."
+    },
+    "grow_notes": "A partial tip-bearer, so prune lightly and renew rather than spur back hard. Eat soon after picking in September.",
+    "conf": "low"
+  },
+  {
+    "id": "jonadel",
+    "name": "Jonadel",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Iowa Agricultural Experiment Station, Ames, Iowa, USA",
+      "year": 1923,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Jonathan x Delicious",
+      "raised_by": "H. L. Lantz, Iowa Agricultural Experiment Station"
+    },
+    "history": "Crossed in 1923 by H. L. Lantz at the Iowa station from Jonathan and Delicious, but not introduced until 1958. It never became widely grown.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, rather tall fruit with orange-red streaks over greenish yellow and a little russet."
+    },
+    "taste": {
+      "summary": "Firm yet tender, fine-grained yellowish-white flesh with a sweet, gently acid and slightly rich flavour.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree characteristics not well recorded."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "No published group found; estimated from National Fruit Collection flowering dates, which are a few days later than average."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for the cold-winter, warm-summer Midwest of the USA.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not recorded in the sources used."
+    },
+    "grow_notes": "A collector's apple; treat it like Jonathan, with a sunny site and a mid-season pollination partner.",
+    "conf": "low"
+  }
+]

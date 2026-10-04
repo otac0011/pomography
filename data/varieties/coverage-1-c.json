@@ -1,0 +1,464 @@
+[
+ {
+  "id": "indo",
+  "name": "Indo",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "JP",
+   "place": "Japan, from seed sent from Indiana, USA",
+   "year": 1930,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": "White Winter Pearmain x unknown, per the National Fruit Collection; Japanese sources describe it only as a seedling from American seed",
+   "raised_by": null
+  },
+  "history": "A Japanese apple grown from seed received from Indiana in the late 19th century, which gave it its name; it was promoted commercially in the early 20th century and became a prized gift apple before sweeter, juicier varieties such as Fuji replaced it. It is chiefly remembered as the pollen parent of Mutsu (Crispin).",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "cream",
+   "blush": "brown",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 1,
+   "description": "Medium to large, strongly crowned conical fruit, whitish yellow with only a faint washed-out brownish-red cheek."
+  },
+  "taste": {
+   "summary": "Exceptionally sweet with almost no acidity and little aroma. Firm and chewy at picking; by mid-winter in store the white flesh becomes soft and rather dry.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 2,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Spreading to drooping habit at the National Fruit Collection; little other growing information."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Mid-season flowering."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": null,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Historically grown in the northern Japanese apple districts.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not documented."
+  },
+  "grow_notes": "Mostly of historical and breeding interest. Pick in mid-October and store; it suits people who want a very sweet, low-acid apple.",
+  "conf": "low"
+ },
+ {
+  "id": "maiden-blush",
+  "name": "Maiden Blush",
+  "aka": ["Maiden's Blush", "Lady Blush", "Red Cheek"],
+  "uses": ["dessert", "culinary", "cider"],
+  "origin": {
+   "country": "US",
+   "place": "Burlington, New Jersey",
+   "year": 1817,
+   "year_note": "before",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old New Jersey apple, recorded before 1817 and later grown across the northern and southern United States. Valued for drying because its slices stay pale, and for sauce and pies.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "crimson",
+   "blush_cover": 20,
+   "stripes": false,
+   "russet": 0,
+   "description": "Flattened, pale lemon-yellow apple with a sharply defined crimson blush on the side that faced the sun."
+  },
+  "taste": {
+   "summary": "Fine, tender, moderately crisp white flesh with a sharp flavour that softens as the fruit ripens. Better for cooking and drying than for long storage.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sharp"],
+   "cider_class": "sharp",
+   "best_eaten": "Sep-Nov"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little modern growing information."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": "late Aug-mid Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Eastern US conditions from the North to the South; old nursery catalogues gave picking dates for both regions.",
+   "poor_climates": "Humid areas with heavy scab pressure."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 1,
+   "bitter_pit": null,
+   "other": "Susceptible to scab; rated resistant to cedar-apple rust."
+  },
+  "grow_notes": "A useful heritage apple for drying, sauce and pies. Pick from late August and use within a couple of months.",
+  "conf": "medium"
+ },
+ {
+  "id": "malinda",
+  "name": "Malinda",
+  "aka": ["Melinda"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Vermont",
+   "year": 1860,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old Vermont apple of unknown parentage that became important as a hardy parent in the University of Minnesota breeding programme. It appears in the ancestry of Haralson, Beacon, Keepsake, Sweet Sixteen and, more distantly, Honeycrisp.",
+  "look": {
+   "size": null,
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 15,
+   "stripes": false,
+   "russet": 0,
+   "description": "Conical, somewhat angular yellow apple with a mottled red blush. Sources disagree on size (small in one list, above medium in Beach)."
+  },
+  "taste": {
+   "summary": "Dense, juicy flesh that is very low in acid, with a mild sweetness and a pear-like flavour. Long-keeping; rated only fair for quality.",
+   "sweet": 4,
+   "acid": 1,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["pear", "mild", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Feb-Mar"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information; valued for winter hardiness."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": "Jan-Mar",
+   "storage_weeks": 14
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 4,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold northern climates with heavy snowfall, such as Vermont and Minnesota.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not documented."
+  },
+  "grow_notes": "Mainly of interest as a historic hardy parent of Minnesota apples. Store the fruit until late winter, when it is at its best.",
+  "conf": "low"
+ },
+ {
+  "id": "mantet",
+  "name": "Mantet",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Dominion Experimental Station, Morden, Manitoba, Canada",
+   "year": 1928,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Tetofsky x unknown (National Fruit Collection); Orange Pippin gives McIntosh x Tetofsky",
+   "raised_by": "Dominion Experimental Station, Morden"
+  },
+  "history": "Selected in 1928 at the Morden station in Manitoba and introduced in 1929; the name joins 'Man' for Manitoba and 'Tet' for Tetofsky. Bred as a hardy early apple for the Canadian prairies, it is a parent of State Fair.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "orange",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium to large, narrowly conical and strongly ribbed yellow apple streaked with orange-red."
+  },
+  "taste": {
+   "summary": "Tender, fine, creamy flesh that is sweet, juicy and tangy with a good aroma, notably full-flavoured for such an early apple. It turns soft and mealy within days of picking.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Spreading habit; very cold-hardy."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering; needs a partner."
+  },
+  "season": {
+   "harvest": "mid Aug-late Aug",
+   "eating": "Aug-Sep",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 1200,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold prairie and northern climates; grown successfully as far north-east as Nova Scotia.",
+   "poor_climates": "Does not perform well in warm climates."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not well documented; growers report scab in unsprayed trees."
+  },
+  "grow_notes": "One of the best-flavoured early apples for very cold gardens. Pick over several times as fruit colours and use at once, for eating or sauce.",
+  "conf": "medium"
+ },
+ {
+  "id": "ortley",
+  "name": "Ortley",
+  "aka": ["Woolman's Long", "Woolman's Long Pippin", "White Bellflower", "Cleopatra", "Van Dyne", "White Detroit", "Ortley Pippin"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Orchard of Michael Ortley, New Jersey",
+   "year": 1817,
+   "year_note": "before",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A New Jersey apple from the orchard of Michael Ortley, described in 1817 as Woolman's Long Pippin, renamed Ortley in 1825 and sold commercially as Cleopatra from 1872. It carries dozens of synonyms; note that 'Jersey Greening' and 'Golden Pippin' are also used for other apples.",
+  "look": {
+   "size": "large",
+   "shape": "oblong",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 5,
+   "stripes": false,
+   "russet": 1,
+   "description": "Tall, ribbed, pale yellow apple, sometimes with a faint pinkish cheek and dotted russet, rather like Yellow Bellflower. The thin, waxy skin bruises easily."
+  },
+  "taste": {
+   "summary": "Tender, crisp, very juicy creamy flesh with a pleasant, mild, lightly tart flavour; well balanced but not strongly aromatic.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 5,
+   "tags": ["mild"],
+   "cider_class": null,
+   "best_eaten": "Nov-Mar"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": "marked",
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Tends to bear biennially; drooping habit at the National Fruit Collection."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "No published group; National Fruit Collection records place it in mid-season."
+  },
+  "season": {
+   "harvest": "mid Oct-late Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Widely grown in the 19th-century eastern and western US, including Ohio, Michigan and Oregon.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Fruit bruises and discolours easily in handling; biennial bearing."
+  },
+  "grow_notes": "Handle the pale fruit gently at picking. Thin in heavy years to reduce biennial bearing, and store for winter eating.",
+  "conf": "medium"
+ },
+ {
+  "id": "paula-red",
+  "name": "Paula Red",
+  "aka": ["Paulared"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Sparta Township, Kent County, Michigan",
+   "year": 1960,
+   "year_note": "",
+   "kind": "chance",
+   "parentage": "Chance seedling; genetic tests indicate McIntosh x Duchess of Oldenburg",
+   "raised_by": "Lewis Arends"
+  },
+  "history": "Found in 1960 by Lewis Arends in his Sparta, Michigan orchard and named after his wife Pauline; introduced in 1968. It is one of the first McIntosh-type apples of the season in the northern US and is often confused with Tydeman's Early Worcester.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 85,
+   "stripes": false,
+   "russet": 0,
+   "description": "Bright red apple with a few yellow and tan spots and a dusty bloom on the skin."
+  },
+  "taste": {
+   "summary": "Firm, crisp, juicy white flesh with a lively, balanced flavour that is vinous with a hint of strawberry. Goes soft and mealy quickly once past its best; cooks down to a smooth sauce.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["wine", "strawberry"],
+   "cider_class": null,
+   "best_eaten": "Sep, soon after picking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information in the sources checked."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "No published group; National Fruit Collection records place it with early mid-season varieties."
+  },
+  "season": {
+   "harvest": "mid Sep-late Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 4,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Northern US apple districts such as Michigan, New York and New England.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Main drawback is rapid softening after picking."
+  },
+  "grow_notes": "An early McIntosh-style apple; pick when coloured and eat or cook within a few weeks, as the flesh turns mealy quickly.",
+  "conf": "medium"
+ }
+]

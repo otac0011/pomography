@@ -1,0 +1,541 @@
+[
+ {
+  "id": "boiken",
+  "name": "Boiken",
+  "aka": ["Boikenapfel", "Boiken Apple", "Boikovo"],
+  "uses": ["culinary", "dessert", "juice"],
+  "origin": {
+   "country": "DE",
+   "place": "Bremen area, Germany",
+   "year": 1828,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A north German apple from around Bremen, named after a dike-warden called Boike and known since 1828. The pomologist Oberdieck promoted it, and the German Pomological Society included it among its 50 recommended varieties in 1874.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 25,
+   "stripes": true,
+   "russet": null,
+   "description": "Large, flattish, strongly ribbed yellow apple with some red striping."
+  },
+  "taste": {
+   "summary": "Snow-white, firm, fine-grained and juicy flesh with high, wine-like acidity and a slight spiciness. Very sharp at picking and long in store; English tasters found little flavour beyond the acid.",
+   "sweet": 2,
+   "acid": 5,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sharp", "wine"],
+   "cider_class": null,
+   "best_eaten": "Feb-May, after long storage"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "upright",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Moderately vigorous, forming a tall crown. Reported to adapt to most soils and to do well at higher elevations."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Late flowering, which helps it escape spring frosts."
+  },
+  "season": {
+   "harvest": "mid Oct-late Oct",
+   "eating": "Jan-May",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Cool northern European climates, including frost-prone upland sites where late blossom is an advantage.",
+   "poor_climates": "Wet sites where scab and canker take hold; hot climates are untested."
+  },
+  "health": {
+   "scab": 4,
+   "canker": 4,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Susceptible to scab and canker."
+  },
+  "grow_notes": "A late-flowering keeper for cold, frost-prone gardens. Pick in late October and store until late winter; use it for cooking, drying and juice, or eat it fresh in spring.",
+  "conf": "medium"
+ },
+ {
+  "id": "campanino",
+  "name": "Campanino",
+  "aka": ["Modenese"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "IT",
+   "place": "Province of Modena, Emilia-Romagna, Italy",
+   "year": 1751,
+   "year_note": "first recorded",
+   "kind": "ancient",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old apple of the lower Po valley, first mentioned in 1751 and described by Gallesio in 1815 as the Modena apple. It is still grown around Modena, Ferrara, Mantua, Reggio Emilia, Rovigo and Venice, and is traditional in mostarda and other local preserves.",
+  "look": {
+   "size": "small",
+   "shape": "round",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small, neat, rounded fruit, yellow-green with a purplish-red flush and stripes on the sunny side and a little russet netting at the eye."
+  },
+  "taste": {
+   "summary": "Very firm, crisp, greenish-white flesh with a sugary but distinctly acid, aromatic flavour; rather dry. It holds its shape when cooked.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 5,
+   "juicy": 2,
+   "tags": ["sharp", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Jan-Mar, after a few months of storage"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": null
+  },
+  "pollination": {
+   "flower_group": 5,
+   "self_fertile": "no",
+   "notes": "Late flowering at Brogdale (full bloom around 16 May)."
+  },
+  "season": {
+   "harvest": "late Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 24
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 6,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "The hot-summer, cool-winter plains of north-east Italy where it is a traditional crop.",
+   "poor_climates": "Short, cool seasons may not ripen a late-October apple fully."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "A late, long-keeping regional apple; the fruit is said to keep about six months without refrigeration. Best suited to warm-summer sites.",
+  "conf": "medium"
+ },
+ {
+  "id": "cellini",
+  "name": "Cellini",
+  "aka": ["Cellini Pippin", "Phillips' Seedling", "Norfolk Challenger"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "Vauxhall, London, England",
+   "year": 1828,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Seedling of Nonsuch (pollen parent unknown)",
+   "raised_by": "Leonard Phillips, nurseryman"
+  },
+  "history": "Raised by the Vauxhall nurseryman Leonard Phillips from a seed of Nonsuch and introduced around 1828. Hogg admired it as a showy apple, and it is a parent of Duchess of Bedford, Exquisite and James Lawson.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, flattish, smooth and slightly greasy fruit, greenish-yellow mottled and streaked with orange-red."
+  },
+  "taste": {
+   "summary": "Soft, loose, coarse and juicy white flesh with a gentle acidity and a distinctive aniseed-like aromatic note. Mainly a cooker, but eatable fresh when ripe; it soon turns soft.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["aniseed", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, within a few weeks of picking"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Average vigour; a spur-bearer that crops heavily and regularly."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Listed as group 4; full bloom around 12 May at Brogdale."
+  },
+  "season": {
+   "harvest": "mid Sep-late Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Temperate climates with cool summers, such as southern England.",
+   "poor_climates": "Hot summers would hasten its already short life; wet canker-prone sites."
+  },
+  "health": {
+   "scab": null,
+   "canker": 3,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some susceptibility to canker reported."
+  },
+  "grow_notes": "A reliable, heavy-cropping old garden apple for cooking and early use. Pick in September and use within a few weeks; it is a good pollen source for mid-to-late flowerers.",
+  "conf": "medium"
+ },
+ {
+  "id": "champion",
+  "name": "Champion",
+  "aka": ["Šampion", "Sampion", "Shampion"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CZ",
+   "place": "Czechoslovakia (now Czech Republic)",
+   "year": 1960,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Cox's Orange Pippin",
+   "raised_by": null
+  },
+  "history": "A Czech Golden Delicious x Cox cross made around 1960 and released in the 1970s; it became an important commercial apple in central and eastern Europe before newer varieties replaced it. Not to be confused with the American 'Champion', a synonym of Collins.",
+  "look": {
+   "size": "large",
+   "shape": "round",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, rounded fruit, greenish-yellow with an uneven orange-red flush and stripes, nearly all red on the sunny side."
+  },
+  "taste": {
+   "summary": "Juicy, creamy-white flesh, sweet to very sweet with only gentle acidity and a pleasant, fairly simple flavour. It keeps for several months.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Jan"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": 5,
+   "ploidy": "diploid",
+   "notes": "Moderate vigour; crops early, regularly and heavily, and tends to overset, so thin to keep fruit size. Tolerates pruning well and suits weak to moderate rootstocks."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering diploid; Idared and James Grieve are listed as good pollinators."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Oct-Feb",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Warm or moderately warm, sheltered sites in central Europe with deep, moist, fertile soil.",
+   "poor_climates": "Poor, dry soils reduce quality; wet scab-prone areas without spraying."
+  },
+  "health": {
+   "scab": 5,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Usually heavily attacked by scab but fairly resistant to powdery mildew; sensitive to some virus diseases."
+  },
+  "grow_notes": "Plant in a warm, sheltered spot on good soil and thin the fruit. Spray or choose a dry site for scab control.",
+  "conf": "medium"
+ },
+ {
+  "id": "charden",
+  "name": "Charden",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "FR",
+   "place": "France (INRA)",
+   "year": 1959,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Reinette Clochard",
+   "raised_by": "INRA (French national agricultural research institute)"
+  },
+  "history": "A French Golden Delicious x Reinette Clochard cross raised in 1959 and introduced in the 1970s; Chantecler (Belchard) comes from the same pairing. It is a triploid.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 5,
+   "stripes": false,
+   "russet": 1,
+   "description": "Green to greenish-yellow, rounded-conical apple with only a trace of red and a little russet."
+  },
+  "taste": {
+   "summary": "Fairly crisp, juicy, yellowish flesh with a sweet, honeyed flavour and only modest acidity. Keeps for several months.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "honey"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": "triploid",
+   "notes": "Vigorous but precocious and heavy-cropping."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Triploid: a poor pollen donor, so plant two other diploid varieties flowering at the same time."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Temperate to warm climates, such as France, where a late Golden-type apple ripens fully.",
+   "poor_climates": "Short, cool seasons where a mid-October apple struggles to sweeten."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Described as having average disease resistance; specific ratings not found."
+  },
+  "grow_notes": "Give it room, as it is a vigorous triploid, and two diploid pollinators. Store the fruit for winter use.",
+  "conf": "medium"
+ },
+ {
+  "id": "chenango",
+  "name": "Chenango",
+  "aka": ["Chenango Strawberry", "Sherwood's Favourite", "Strawberry"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Lebanon, Madison County, or Chenango County, New York (accounts differ)",
+   "year": 1850,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A New York apple known from about 1850; it either arose at Lebanon in Madison County or was brought into Chenango County from Connecticut. Valued in its day as a handsome, scented late-summer apple, though too tender to ship.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "cream",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 0,
+   "description": "Tall, conical, smooth whitish-yellow apple striped and splashed with crimson."
+  },
+  "taste": {
+   "summary": "Tender, juicy white flesh with a mild, gently tart, aromatic flavour often said to carry a hint of strawberry. Soft rather than crisp, and it does not keep.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["perfumed", "strawberry", "mild"],
+   "cider_class": null,
+   "best_eaten": "Late Aug-Sep, when the skin turns milky-white"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": null,
+   "notes": "Vigorous and precocious; tends to overcrop, so thin and prune firmly. Fruit ripens over a long period and needs several pickings."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering at Brogdale (full bloom around 13 May)."
+  },
+  "season": {
+   "harvest": "late Aug-early Sep",
+   "eating": "Aug-Sep",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool to warm summers (below about 30 C), as in New York and New England.",
+   "poor_climates": "Hot summers soften it further; humid sites encourage scab and fruit rots."
+  },
+  "health": {
+   "scab": 3,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": 3,
+   "rust": 2,
+   "bitter_pit": null,
+   "other": "Some susceptibility to scab, mildew and fire blight; some resistance to cedar-apple rust. Fruit can mummify on the tree and bruises easily."
+  },
+  "grow_notes": "A fussy but rewarding garden tree. Pick over several passes as the skin turns milky and refrigerate at once; use for eating fresh, pies and sauce.",
+  "conf": "medium"
+ },
+ {
+  "id": "chieftain",
+  "name": "Chieftain",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Iowa Agricultural Experiment Station, Ames, Iowa",
+   "year": 1917,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Jonathan x Delicious",
+   "raised_by": "S. A. Beach, Iowa Agricultural Experiment Station"
+  },
+  "history": "Raised in 1917 by S. A. Beach at the Iowa station in Ames from Jonathan x Delicious, but not introduced until 1966-67. A hardy, good-keeping Midwestern apple that never became widely known.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 80,
+   "stripes": true,
+   "russet": 0,
+   "description": "Round, medium to large apple largely covered in crimson flush and stripes over yellow."
+  },
+  "taste": {
+   "summary": "Firm, crisp, juicy white flesh; sweet with a light acidity that is softer than Jonathan but livelier than Delicious. The flesh is slow to brown.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Average vigour, spur-bearing and regular-cropping; easy for beginners."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Listed as group 4; full bloom around 12 May at Brogdale."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter continental climates such as the US Midwest; also temperate and warm-summer regions.",
+   "poor_climates": "Short-season sites where a mid-October apple cannot ripen."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some resistance to scab and fire blight; generally healthy."
+  },
+  "grow_notes": "A hardy, easy dual-purpose apple for cold districts. Pick in mid-October and store for a month or two.",
+  "conf": "medium"
+ }
+]

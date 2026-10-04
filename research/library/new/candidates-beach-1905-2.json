@@ -1,0 +1,1313 @@
+{
+ "golden-sweet": [
+  {
+   "line": 4848,
+   "page": 57,
+   "score": 3.8,
+   "key": "GOLDEN SWEET",
+   "text": "GOLDEN  SWEET."
+  },
+  {
+   "line": 12638,
+   "page": 57,
+   "score": 3.8,
+   "key": "SUMMER SWEET",
+   "text": "SUMMER  SWEET."
+  },
+  {
+   "line": 16881,
+   "page": 83,
+   "score": 3.3,
+   "key": "GOLDEN SWEET",
+   "text": "GOLDEN    SWEET 81"
+  },
+  {
+   "line": 19100,
+   "page": 203,
+   "score": 3.3,
+   "key": "SUMMER SWEET",
+   "text": "SUMMER  SWEET 216"
+  },
+  {
+   "line": 21834,
+   "page": 203,
+   "score": 3.3,
+   "key": "GOLDEN SWEET",
+   "text": "GOLDEN  SWEET  81"
+  },
+  {
+   "line": 25676,
+   "page": 203,
+   "score": 3.3,
+   "key": "SUMMER SWEET",
+   "text": "SUMMER  SWEET  216"
+  }
+ ],
+ "jefferis": [
+  {
+   "line": 6461,
+   "page": 57,
+   "score": 3.5,
+   "key": "JEFFERIS",
+   "text": "JEFFERIS."
+  },
+  {
+   "line": 6503,
+   "page": 57,
+   "score": 3.5,
+   "key": "JEFFERIS",
+   "text": "JEFFERIS"
+  },
+  {
+   "line": 17153,
+   "page": 83,
+   "score": 3.0,
+   "key": "JEFFERIS",
+   "text": "JEFFERIS   108"
+  },
+  {
+   "line": 22376,
+   "page": 203,
+   "score": 3.0,
+   "key": "JEFFERIS",
+   "text": "JEFFERIS    108"
+  },
+  {
+   "line": 97,
+   "page": null,
+   "score": 1.0,
+   "key": "JEFFERIS",
+   "text": "Jefferis 108"
+  },
+  {
+   "line": 16684,
+   "page": 83,
+   "score": 1.0,
+   "key": "EVERBEARING",
+   "text": "Everbearing    108"
+  }
+ ],
+ "chenango": [
+  {
+   "line": 2187,
+   "page": 29,
+   "score": 3.5,
+   "key": "CHENANGO",
+   "text": "CHENANGO."
+  },
+  {
+   "line": 12111,
+   "page": 57,
+   "score": 3.5,
+   "key": "STRAWBERRY",
+   "text": "STRAWBERRY."
+  },
+  {
+   "line": 16258,
+   "page": 83,
+   "score": 3.0,
+   "key": "CHENANGO",
+   "text": "CHENANGO 33"
+  },
+  {
+   "line": 20789,
+   "page": 203,
+   "score": 3.0,
+   "key": "CHENANGO",
+   "text": "CHENANGO    33"
+  },
+  {
+   "line": 2203,
+   "page": 29,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  (10,  n,  14,  17,  18,  19,  22).  CHENANGO  Strawberry  (12).  Frank"
+  },
+  {
+   "line": 11906,
+   "page": 57,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  (30).  Warden's  Pie  Apple  (17,  18).  Washington  (17,  18)."
+  }
+ ],
+ "detroit-red": [
+  {
+   "line": 2957,
+   "page": 29,
+   "score": 3.8,
+   "key": "DETROIT RED",
+   "text": "DETROIT  RED."
+  },
+  {
+   "line": 2992,
+   "page": 29,
+   "score": 3.3,
+   "key": "DETROIT RED",
+   "text": "DETROIT   RED"
+  },
+  {
+   "line": 16474,
+   "page": 83,
+   "score": 3.3,
+   "key": "DETROIT RED",
+   "text": "DETROIT   RED    « . . . .  46"
+  },
+  {
+   "line": 21095,
+   "page": 203,
+   "score": 3.3,
+   "key": "DETROIT RED",
+   "text": "DETROIT  RED   \" 12  46"
+  },
+  {
+   "line": 2968,
+   "page": 29,
+   "score": 1.5,
+   "key": "DETROIT",
+   "text": "Detroit  (2,  8).  Crimson  Pippin  (6,  8,  of  some  2).  DETROIT  (i,  2,  4,  6,  8)."
+  },
+  {
+   "line": 2969,
+   "page": 29,
+   "score": 1.5,
+   "key": "DETROIT",
+   "text": "Detroit  (9).  DETROIT  BLACK  (10).  DETROIT  RED  (3,  9,  11,  12,  13,  14,  15)."
+  }
+ ],
+ "maiden-blush": [
+  {
+   "line": 23080,
+   "page": 203,
+   "score": 3.8,
+   "key": "MAIDEN BLUSH",
+   "text": "MAIDEN  BLUSH   17,     18  139"
+  },
+  {
+   "line": 8386,
+   "page": 57,
+   "score": 3.3,
+   "key": "MAIDEN BLUSH",
+   "text": "MAIDEN   BLUSH"
+  },
+  {
+   "line": 17554,
+   "page": 83,
+   "score": 3.3,
+   "key": "MAIDEN BLUSH",
+   "text": "MAIDEN  BLUSH  139"
+  },
+  {
+   "line": 196,
+   "page": null,
+   "score": 1.3,
+   "key": "MAIDEN BLUSH",
+   "text": "Maiden  Blush 140"
+  },
+  {
+   "line": 17315,
+   "page": 83,
+   "score": 1.3,
+   "key": "LADY BLUSH",
+   "text": "Lady  Blush 139"
+  },
+  {
+   "line": 17560,
+   "page": 83,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's  Blush  (synonym  of"
+  }
+ ],
+ "primate": [
+  {
+   "line": 9962,
+   "page": 57,
+   "score": 3.5,
+   "key": "PRIMATE",
+   "text": "PRIMATE."
+  },
+  {
+   "line": 10017,
+   "page": 57,
+   "score": 3.5,
+   "key": "PRIMATE",
+   "text": "PRIMATE"
+  },
+  {
+   "line": 18268,
+   "page": 115,
+   "score": 3.0,
+   "key": "PRIMATE",
+   "text": "PRIMATE 167"
+  },
+  {
+   "line": 24364,
+   "page": 203,
+   "score": 3.0,
+   "key": "PRIMATE",
+   "text": "PRIMATE 167"
+  },
+  {
+   "line": 16601,
+   "page": 83,
+   "score": 1.3,
+   "key": "EARLY TART HARVEST",
+   "text": "Early  Tart  Harvest 168"
+  },
+  {
+   "line": 17200,
+   "page": 83,
+   "score": 1.3,
+   "key": "JULY APPLE",
+   "text": "July  Apple 168"
+  }
+ ],
+ "pumpkin-sweet": [
+  {
+   "line": 9943,
+   "page": 57,
+   "score": 3.8,
+   "key": "POUND SWEET",
+   "text": "POUND  SWEET."
+  },
+  {
+   "line": 10198,
+   "page": 57,
+   "score": 3.8,
+   "key": "PUMPKIN SWEET",
+   "text": "PUMPKIN  SWEET."
+  },
+  {
+   "line": 24427,
+   "page": 203,
+   "score": 3.8,
+   "key": "PUMPKIN SWEET",
+   "text": "PUMPKIN  SWEET   16,  17,     18  171"
+  },
+  {
+   "line": 10270,
+   "page": 57,
+   "score": 3.3,
+   "key": "PUMPKIN SWEET",
+   "text": "PUMPKIN  SWEET"
+  },
+  {
+   "line": 18256,
+   "page": 115,
+   "score": 3.3,
+   "key": "POUND SWEET",
+   "text": "POUND  SWEET 167"
+  },
+  {
+   "line": 18308,
+   "page": 115,
+   "score": 3.3,
+   "key": "PUMPKIN SWEET",
+   "text": "PUMPKIN  SWEET  171"
+  }
+ ],
+ "sweet-bough": [
+  {
+   "line": 12652,
+   "page": 57,
+   "score": 3.8,
+   "key": "SWEET BOUGH",
+   "text": "SWEET  BOUGH."
+  },
+  {
+   "line": 19123,
+   "page": 203,
+   "score": 3.8,
+   "key": "SWEET BOUGH",
+   "text": "SWEET  BOUGH  , . . . , 216"
+  },
+  {
+   "line": 25730,
+   "page": 203,
+   "score": 3.8,
+   "key": "SWEET BOUGH",
+   "text": "SWEET  BOUGH  12,  15,     16  216"
+  },
+  {
+   "line": 12680,
+   "page": 57,
+   "score": 3.3,
+   "key": "SWEET BOUGH",
+   "text": "SWEET   BOUGH"
+  },
+  {
+   "line": 220,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BOUGH",
+   "text": "Sweet  Bough 216"
+  },
+  {
+   "line": 1771,
+   "page": null,
+   "score": 1.3,
+   "key": "SWEET BOUGH",
+   "text": "Sweet  Bough.  See  page  216."
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 14126,
+   "page": 57,
+   "score": 3.5,
+   "key": "WILLIAMS",
+   "text": "WILLIAMS."
+  },
+  {
+   "line": 19478,
+   "page": 203,
+   "score": 3.5,
+   "key": "WILLIAMS",
+   "text": "WILLIAMS  .  .  .  ....... 242"
+  },
+  {
+   "line": 26371,
+   "page": 203,
+   "score": 3.0,
+   "key": "WILLIAMS",
+   "text": "WILLIAMS  242"
+  },
+  {
+   "line": 17329,
+   "page": 83,
+   "score": 1.3,
+   "key": "LADYS APPLE",
+   "text": "Lady's  Apple  242"
+  },
+  {
+   "line": 19480,
+   "page": 203,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY",
+   "text": "Williams  Early 242"
+  },
+  {
+   "line": 19482,
+   "page": 203,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY RED",
+   "text": "Williams  Early  Red   242"
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 12354,
+   "page": 57,
+   "score": 3.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "SUMMER  PEARMAIN."
+  },
+  {
+   "line": 12372,
+   "page": 57,
+   "score": 3.8,
+   "key": "EARLY SUMMER PEARMAIN",
+   "text": "EARLY  SUMMER  PEARMAIN  (2,  5,  6).  Early  Summer  Pearmain  (7,  n,  14,  16,"
+  },
+  {
+   "line": 19066,
+   "page": 203,
+   "score": 3.3,
+   "key": "SUMMER PEARMAIN",
+   "text": "SUMMER  PEARMAIN  211"
+  },
+  {
+   "line": 25648,
+   "page": 203,
+   "score": 3.3,
+   "key": "SUMMER PEARMAIN",
+   "text": "SUMMER  PEARMAIN   15  211"
+  },
+  {
+   "line": 9983,
+   "page": 57,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  BEST  (9).  North  American  Best  (14).  Powers  (2,  14).  PRI-"
+  },
+  {
+   "line": 19863,
+   "page": 203,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  BLUSH   45"
+  }
+ ],
+ "ontario": [
+  {
+   "line": 23791,
+   "page": 203,
+   "score": 3.5,
+   "key": "ONTARIO",
+   "text": "ONTARIO 21,  24,  240"
+  },
+  {
+   "line": 2781,
+   "page": 29,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario,  where  it  is  favorably  regarded  as  a  fall  or  early  winter"
+  },
+  {
+   "line": 6398,
+   "page": 57,
+   "score": 1.0,
+   "key": "ONTARIO",
+   "text": "Ontario  county,  N.  Y.  We  have  not  obtained  it  from  any  other  locality.  We"
+  }
+ ],
+ "holland-pippin": [
+  {
+   "line": 6052,
+   "page": 57,
+   "score": 3.8,
+   "key": "HOLLAND PIPPIN",
+   "text": "HOLLAND  PIPPIN."
+  },
+  {
+   "line": 3800,
+   "page": 57,
+   "score": 3.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "HOLLAND  PIPPIN  AND   FALL  PIPPIN   COMPARED."
+  },
+  {
+   "line": 17071,
+   "page": 83,
+   "score": 3.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "HOLLAND  PIPPIN 101"
+  },
+  {
+   "line": 22173,
+   "page": 203,
+   "score": 3.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "HOLLAND  PIPPIN   101"
+  },
+  {
+   "line": 22183,
+   "page": 203,
+   "score": 3.3,
+   "key": "HOLLAND WINTER",
+   "text": "HOLLAND  WINTER   159"
+  },
+  {
+   "line": 3802,
+   "page": 57,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin.    The  Holland  Pippin  indeed  much  resembles  Fall"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 4600,
+   "page": 57,
+   "score": 3.8,
+   "key": "GLORIA MUNDI",
+   "text": "GLORIA  MUNDI."
+  },
+  {
+   "line": 16848,
+   "page": 83,
+   "score": 3.3,
+   "key": "GLORIA MUNDI",
+   "text": "GLORIA  MUNDI  76"
+  },
+  {
+   "line": 21772,
+   "page": 203,
+   "score": 3.3,
+   "key": "GLORIA MUNDI",
+   "text": "GLORIA  MUNDI    76"
+  },
+  {
+   "line": 15743,
+   "page": 57,
+   "score": 1.3,
+   "key": "AMERICAN MAMMOTH",
+   "text": "American  Mammoth  .  ."
+  },
+  {
+   "line": 15994,
+   "page": 83,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi)  77"
+  },
+  {
+   "line": 16846,
+   "page": 83,
+   "score": 1.3,
+   "key": "GLAZENWOOD GLORIA MUNDI",
+   "text": "Glazenwood  Gloria  Mundi 77"
+  }
+ ],
+ "hibernal": [
+  {
+   "line": 5775,
+   "page": 57,
+   "score": 3.5,
+   "key": "HIBERNAL",
+   "text": "HIBERNAL."
+  },
+  {
+   "line": 17033,
+   "page": 83,
+   "score": 3.0,
+   "key": "HIBERNAL",
+   "text": "HIBERNAL   96"
+  },
+  {
+   "line": 22133,
+   "page": 203,
+   "score": 3.0,
+   "key": "HIBERNAL",
+   "text": "HIBERNAL   26  96"
+  },
+  {
+   "line": 18026,
+   "page": 115,
+   "score": 1.0,
+   "key": "ORSIMUI",
+   "text": "Orsimui  97"
+  },
+  {
+   "line": 23847,
+   "page": 203,
+   "score": 1.0,
+   "key": "ORSIMUI",
+   "text": "Orsimui   97"
+  }
+ ],
+ "harrison": [
+  {
+   "line": 7481,
+   "page": 57,
+   "score": 3.8,
+   "key": "LONG STEM",
+   "text": "LONG  STEM."
+  },
+  {
+   "line": 7492,
+   "page": 57,
+   "score": 3.3,
+   "key": "LONG STEM",
+   "text": "LONG  STEM  OF  MASSACHUSETTS.  The  following  is  Cole's  description  of  this"
+  },
+  {
+   "line": 7500,
+   "page": 57,
+   "score": 3.3,
+   "key": "LONG STEM",
+   "text": "LONG  STEM  OF  CONNECTICUT.  Downing  (4)  describes  this  variety  as  hav-"
+  },
+  {
+   "line": 17468,
+   "page": 83,
+   "score": 3.3,
+   "key": "LONG STEM",
+   "text": "LONG  STEM 125"
+  },
+  {
+   "line": 22957,
+   "page": 203,
+   "score": 3.3,
+   "key": "LONG STEM",
+   "text": "LONG  STEM  OF  PENNSYLVANIA 196"
+  },
+  {
+   "line": 22959,
+   "page": 203,
+   "score": 3.3,
+   "key": "LONG STEM",
+   "text": "LONG  STEM    125"
+  }
+ ],
+ "liveland-raspberry": [
+  {
+   "line": 7722,
+   "page": 57,
+   "score": 3.8,
+   "key": "LOWLAND RASPBERRY",
+   "text": "LOWLAND  RASPBERRY."
+  },
+  {
+   "line": 17499,
+   "page": 83,
+   "score": 3.3,
+   "key": "LOWLAND RASPBERRY",
+   "text": "LOWLAND  RASPBERRY  129"
+  },
+  {
+   "line": 22995,
+   "page": 203,
+   "score": 3.3,
+   "key": "LOWLAND RASPBERRY",
+   "text": "LOWLAND  RASPBERRY   129"
+  },
+  {
+   "line": 17410,
+   "page": 83,
+   "score": 1.3,
+   "key": "LIEVLAND RASPBERRY",
+   "text": "Lievland  Raspberry 129"
+  },
+  {
+   "line": 17432,
+   "page": 83,
+   "score": 1.3,
+   "key": "LIVLAND RASPBERRY",
+   "text": "Livland   Raspberry    129"
+  },
+  {
+   "line": 22855,
+   "page": 203,
+   "score": 1.3,
+   "key": "LIEVLAND RASPBERRY",
+   "text": "Lievland  Raspberry    129"
+  }
+ ],
+ "ohio-nonpareil": [
+  {
+   "line": 8806,
+   "page": 57,
+   "score": 3.8,
+   "key": "OHIO NONPAREIL",
+   "text": "OHIO  NONPAREIL."
+  },
+  {
+   "line": 17938,
+   "page": 115,
+   "score": 3.3,
+   "key": "OHIO NONPAREIL",
+   "text": "OHIO  NONPAREIL 148"
+  },
+  {
+   "line": 23738,
+   "page": 203,
+   "score": 3.3,
+   "key": "OHIO NONPAREIL",
+   "text": "OHIO  NONPAREIL  148"
+  },
+  {
+   "line": 8820,
+   "page": 57,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil  (5,  13).  OHIO  NONPAREIL  (2,  16).  Red  Bellfiower  of"
+  },
+  {
+   "line": 16006,
+   "page": 83,
+   "score": 1.3,
+   "key": "BELLFLOWER OF THE WEST",
+   "text": "Bellflower  of  the  West  148"
+  },
+  {
+   "line": 16212,
+   "page": 83,
+   "score": 1.3,
+   "key": "CATTELL APPLE",
+   "text": "Cattell   Apple    148"
+  }
+ ],
+ "potts-seedling": [
+  {
+   "line": 9802,
+   "page": 57,
+   "score": 1.3,
+   "key": "DEANS CODLIN",
+   "text": "Dean's  Codlin  (2).  POMONA  (9)."
+  },
+  {
+   "line": 16413,
+   "page": 83,
+   "score": 1.3,
+   "key": "DEANS CODLIN",
+   "text": "Dean's  Codlin  165"
+  },
+  {
+   "line": 21022,
+   "page": 203,
+   "score": 1.3,
+   "key": "DEANS CODLIN",
+   "text": "Dean's  Codlin   165"
+  }
+ ],
+ "american-golden-pippin": [
+  {
+   "line": 15739,
+   "page": 57,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden 83"
+  },
+  {
+   "line": 15742,
+   "page": 57,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "American  Golden  Pippin"
+  },
+  {
+   "line": 16854,
+   "page": 83,
+   "score": 1.3,
+   "key": "GOLDEN APPLE",
+   "text": "Golden  Apple    83"
+  },
+  {
+   "line": 19873,
+   "page": 203,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  83"
+  },
+  {
+   "line": 19875,
+   "page": 203,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "American  Golden  Pippin 83"
+  },
+  {
+   "line": 19877,
+   "page": 203,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  Russet 89"
+  }
+ ],
+ "jersey-black": [
+  {
+   "line": 16047,
+   "page": 83,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple  46"
+  },
+  {
+   "line": 20363,
+   "page": 203,
+   "score": 1.3,
+   "key": "BLACK AMERICAN",
+   "text": "Black  American  79"
+  },
+  {
+   "line": 20373,
+   "page": 203,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple  (synonym  of  Black  Jersey} 79"
+  },
+  {
+   "line": 20375,
+   "page": 203,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple  (synonym  of  Detroit  Red) 46"
+  },
+  {
+   "line": 20391,
+   "page": 203,
+   "score": 1.3,
+   "key": "BLACK JERSEY",
+   "text": "BLACK  Jersey   79"
+  },
+  {
+   "line": 21127,
+   "page": 203,
+   "score": 1.3,
+   "key": "DODGES BLACK",
+   "text": "Dodge's  Black    79"
+  }
+ ],
+ "edelborsdorfer": [
+  {
+   "line": 16111,
+   "page": 83,
+   "score": 1.0,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer 5"
+  },
+  {
+   "line": 20488,
+   "page": 203,
+   "score": 1.0,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer   (synonym  of  Borsdorf) 84"
+  },
+  {
+   "line": 20490,
+   "page": 203,
+   "score": 1.0,
+   "key": "BORSDORFER",
+   "text": "Borsdorfer    (synonym   of   Anisim) 5"
+  },
+  {
+   "line": 21286,
+   "page": 203,
+   "score": 1.0,
+   "key": "EDELBORSDORFER",
+   "text": "Edelborsdorfer   84"
+  }
+ ],
+ "reinette-du-canada": [
+  {
+   "line": 20647,
+   "page": 203,
+   "score": 3.8,
+   "key": "CANADA REINETTE",
+   "text": "CANADA  REINETTE    32,    93"
+  },
+  {
+   "line": 16184,
+   "page": 83,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada    Reinette     (synonym    of"
+  },
+  {
+   "line": 20649,
+   "page": 203,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette   (synonym  of  Cheeseboro) 33"
+  },
+  {
+   "line": 22519,
+   "page": 203,
+   "score": 1.3,
+   "key": "KANADA REINETTE",
+   "text": "Kanada  Reinette   94"
+  },
+  {
+   "line": 23924,
+   "page": 203,
+   "score": 1.3,
+   "key": "PARISER RAMBOUR REINETTE",
+   "text": "Pariser  Rambour  Reinette 94"
+  },
+  {
+   "line": 24825,
+   "page": 203,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada 94"
+  }
+ ],
+ "crimson-beauty": [
+  {
+   "line": 16387,
+   "page": 83,
+   "score": 1.3,
+   "key": "CRIMSON BEAUTY",
+   "text": "Crimson  Beauty  196"
+  },
+  {
+   "line": 20967,
+   "page": 203,
+   "score": 1.3,
+   "key": "CRIMSON BEAUTY",
+   "text": "Crimson  Beauty  196"
+  }
+ ],
+ "dutch-mignonne": [
+  {
+   "line": 21206,
+   "page": 203,
+   "score": 3.8,
+   "key": "DUTCH MIGNONNE",
+   "text": "DUTCH  MIGNONNE   32,  1 14"
+  },
+  {
+   "line": 16520,
+   "page": 83,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch    Mignonne     (synonym    of"
+  },
+  {
+   "line": 20805,
+   "page": 203,
+   "score": 1.3,
+   "key": "CHRISTS GOLDEN REINETTE",
+   "text": "Christ's    Golden    Reinette 114"
+  },
+  {
+   "line": 21208,
+   "page": 203,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne   (synonym  of  Blenheim)    21"
+  },
+  {
+   "line": 24807,
+   "page": 203,
+   "score": 1.3,
+   "key": "REINETTE DE CAUX",
+   "text": "Reinette  de  Caux 1 14"
+  },
+  {
+   "line": 23954,
+   "page": 203,
+   "score": 1.0,
+   "key": "PATERNOSTER",
+   "text": "Paternoster  Apple   , 1 14"
+  }
+ ],
+ "bietigheimer": [
+  {
+   "line": 18411,
+   "page": 115,
+   "score": 1.3,
+   "key": "RED BIETIGHEIMER",
+   "text": "Red  Bietigheimer 19"
+  },
+  {
+   "line": 24593,
+   "page": 203,
+   "score": 1.3,
+   "key": "RED BIETIGHEIMER",
+   "text": "Red  Bietigheimer 19"
+  }
+ ],
+ "bailey": [
+  {
+   "line": 20126,
+   "page": 203,
+   "score": 3.3,
+   "key": "BAILEY SWEET",
+   "text": "BAILEY  SWEET 54"
+  },
+  {
+   "line": 20128,
+   "page": 203,
+   "score": 1.3,
+   "key": "BAILEY SWEET",
+   "text": "Bailey  Sweet  (synonym  of  Sweet  Winesap) 333"
+  },
+  {
+   "line": 21299,
+   "page": 203,
+   "score": 1.3,
+   "key": "EDGERLY SWEET",
+   "text": "Edgerly  Sweet  54"
+  },
+  {
+   "line": 22245,
+   "page": 203,
+   "score": 1.3,
+   "key": "HOWARDS SWEET",
+   "text": "Howard's  Sweet   54"
+  },
+  {
+   "line": 23964,
+   "page": 203,
+   "score": 1.3,
+   "key": "PATTERSONS SWEET",
+   "text": "Patterson's  Sweet  54"
+  }
+ ],
+ "baxters-pearmain": [
+  {
+   "line": 20196,
+   "page": 203,
+   "score": 1.0,
+   "key": "BAXTERS",
+   "text": "Baxter's  Red  64"
+  }
+ ],
+ "black-ben-davis": [
+  {
+   "line": 20379,
+   "page": 203,
+   "score": 3.3,
+   "key": "BLACK BEN DAVIS",
+   "text": "BLACK  BEN  DAVIS 76"
+  },
+  {
+   "line": 20381,
+   "page": 203,
+   "score": 1.3,
+   "key": "BLACK BEN DAVIS",
+   "text": "Black  Ben  Davis  (synonym  of  Gano) 135"
+  }
+ ],
+ "rokewood": [
+  {
+   "line": 20566,
+   "page": 203,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Pippin   (synonym  of  Bullock) 89"
+  },
+  {
+   "line": 20568,
+   "page": 203,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Pippin    (synonym  of  Ewalt) 124"
+  }
+ ],
+ "champion": [
+  {
+   "line": 20724,
+   "page": 203,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion    99"
+  },
+  {
+   "line": 20726,
+   "page": 203,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion  Red   99"
+  }
+ ],
+ "roter-eiserapfel": [
+  {
+   "line": 21319,
+   "page": 203,
+   "score": 1.3,
+   "key": "EISER ROUGE",
+   "text": "Eiser  Rouge   1 16"
+  }
+ ],
+ "english-russet": [
+  {
+   "line": 21381,
+   "page": 203,
+   "score": 3.3,
+   "key": "ENGLISH RUSSET",
+   "text": "ENGLISH  RUSSET  1 18"
+  },
+  {
+   "line": 21383,
+   "page": 203,
+   "score": 1.3,
+   "key": "ENGLISH RUSSET",
+   "text": "English  Russet  (synonym  of  Long  Island  Russet  I) 194"
+  },
+  {
+   "line": 24312,
+   "page": 203,
+   "score": 1.3,
+   "key": "POUGHKEEPSIE RUSSET",
+   "text": "Poughkeepsie  Russet  (synonym  of  English  Russet)    118"
+  },
+  {
+   "line": 24314,
+   "page": 203,
+   "score": 1.3,
+   "key": "POUGHKEEPSIE RUSSET",
+   "text": "Poughkeepsie  Russet  (synonym  of  Perry  Russet)   257"
+  },
+  {
+   "line": 26494,
+   "page": 203,
+   "score": 1.3,
+   "key": "WINTER RUSSET",
+   "text": "Winter  Russet  (synonym  of  English  Russet)    118"
+  },
+  {
+   "line": 26496,
+   "page": 203,
+   "score": 1.3,
+   "key": "WINTER RUSSET",
+   "text": "Winter  Russet  (synonym  of  Perry  Russet)    257"
+  }
+ ],
+ "sweet-winesap": [
+  {
+   "line": 25772,
+   "page": 203,
+   "score": 3.3,
+   "key": "SWEET WINESAP",
+   "text": "SWEET    WINESAP  333"
+  },
+  {
+   "line": 22096,
+   "page": 203,
+   "score": 1.3,
+   "key": "HENDRICK SWEET",
+   "text": "Hendrick  Sweet  333"
+  },
+  {
+   "line": 22102,
+   "page": 203,
+   "score": 1.3,
+   "key": "HENRICK SWEET",
+   "text": "Henrick   Sweet  333"
+  }
+ ],
+ "malinda": [
+  {
+   "line": 23098,
+   "page": 203,
+   "score": 3.0,
+   "key": "MALINDA",
+   "text": "MALINDA    199"
+  },
+  {
+   "line": 23218,
+   "page": 203,
+   "score": 1.0,
+   "key": "MELINDA",
+   "text": "Melinda     199"
+  }
+ ],
+ "melon": [
+  {
+   "line": 23228,
+   "page": 203,
+   "score": 1.3,
+   "key": "MELON NORTON",
+   "text": "Melon,  Norton 204"
+  },
+  {
+   "line": 23575,
+   "page": 203,
+   "score": 1.3,
+   "key": "NORTONS MELON",
+   "text": "Norton's  Melon   204"
+  },
+  {
+   "line": 26223,
+   "page": 203,
+   "score": 1.0,
+   "key": "WATERMELON",
+   "text": "Watermelon   204"
+  }
+ ],
+ "oliver": [
+  {
+   "line": 23783,
+   "page": 203,
+   "score": 1.3,
+   "key": "OLIVERS RED",
+   "text": "Oliver's  Red  238"
+  },
+  {
+   "line": 25252,
+   "page": 203,
+   "score": 1.0,
+   "key": "SENATOR",
+   "text": "Senator    238"
+  }
+ ],
+ "orleans": [
+  {
+   "line": 23833,
+   "page": 203,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans   161"
+  }
+ ],
+ "ortley": [
+  {
+   "line": 23853,
+   "page": 203,
+   "score": 1.3,
+   "key": "ORTLEY PIPPIN",
+   "text": "Ortley  Pippin 244"
+  },
+  {
+   "line": 26069,
+   "page": 203,
+   "score": 1.3,
+   "key": "VAN DYNE",
+   "text": "Van  Dyne 244"
+  },
+  {
+   "line": 26071,
+   "page": 203,
+   "score": 1.3,
+   "key": "VAN DYNE",
+   "text": "Van  Dyne  Apple   77"
+  },
+  {
+   "line": 26320,
+   "page": 203,
+   "score": 1.3,
+   "key": "WHITE DETROIT",
+   "text": "White  Detroit  244"
+  },
+  {
+   "line": 26547,
+   "page": 203,
+   "score": 1.3,
+   "key": "WOOLMANS LONG",
+   "text": "Woolman's  Long  Pippin 244"
+  }
+ ],
+ "pewaukee": [
+  {
+   "line": 24114,
+   "page": 203,
+   "score": 3.5,
+   "key": "PEWAUKEE",
+   "text": "PEWAUKEE   25,  258"
+  },
+  {
+   "line": 24041,
+   "page": 203,
+   "score": 1.0,
+   "key": "PEEWAUKEE",
+   "text": "Peewaukee    258"
+  }
+ ],
+ "api-etoile": [
+  {
+   "line": 25480,
+   "page": 203,
+   "score": 3.3,
+   "key": "STAR LADY",
+   "text": "STAR  LADY  APPLE  182"
+  }
+ ],
+ "fallawater": [
+  {
+   "line": 26004,
+   "page": 203,
+   "score": 1.0,
+   "key": "TULPEHOCKEN",
+   "text": "Tulpehocken 125"
+  }
+ ],
+ "wagener": [
+  {
+   "line": 26163,
+   "page": 203,
+   "score": 3.5,
+   "key": "WAGENER",
+   "text": "WAGENER  21,  24,  354"
+  }
+ ],
+ "white-winter-pearmain": [
+  {
+   "line": 26340,
+   "page": 203,
+   "score": 3.3,
+   "key": "WHITE PEARMAIN",
+   "text": "WHITE  PEARMAIN 367"
+  },
+  {
+   "line": 26359,
+   "page": 203,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter  Pearmain 367"
+  }
+ ]
+}

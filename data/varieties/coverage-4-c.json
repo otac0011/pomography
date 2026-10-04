@@ -1,0 +1,387 @@
+[
+ {
+  "id": "wagener",
+  "name": "Wagener",
+  "aka": ["Wagener Price", "Wagoner", "Wageners Preisapfel"],
+  "uses": ["dessert", "culinary", "juice"],
+  "origin": {
+   "country": "US",
+   "place": "Penn Yan, Yates County, New York",
+   "year": 1791,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Seedling from Dutchess County apple seed; parents unknown",
+   "raised_by": "George Wheeler; propagated by Abraham Wagener"
+  },
+  "history": "Grown about 1791 by George Wheeler at Penn Yan from Dutchess County seed and later propagated and sold by Abraham Wagener, after whom it is named. It won a New York State Agricultural Society award in 1847 and an RHS Award of Merit in 1910, became popular in Germany, and is a parent of Idared.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, flattened and ribbed apple with smooth glossy skin, pale green turning sulphur-yellow, striped to solidly blushed red on the sunny side."
+  },
+  "taste": {
+   "summary": "Very crisp, fine-grained, juicy white flesh with a harmonious sweet-sharp, aromatic flavour; German growers liken the aroma to cinnamon and rosemary, others find it honeyed or Northern Spy-like. It turns mealy if left too long or stored too warm.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["perfumed", "honey", "cinnamon", "herbal", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "upright",
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "marked",
+   "precocity": 5,
+   "ploidy": "diploid",
+   "notes": "Grows fast and upright at first, then slows as it starts cropping very early and heavily. Without thinning it overcrops, gives small poor fruit and falls into a strong biennial habit even on dwarfing stocks."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Fairly early flowering with relatively frost-tolerant blossom; Brogdale records full bloom around 6 May (group 2-3)."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cool to warm temperate climates of the north-eastern USA, Canada, England and Germany; it is also grown in warmer southern US states, where it ripens about three weeks earlier and keeps less well.",
+   "poor_climates": "Wet districts, where scab and fruit rots are severe; poor, dry soils give small fruit."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Very susceptible to scab and fruit rot in wet regions; attractive to codling moth and sawfly. Stored below about 2.5 C the skin and flesh can brown."
+  },
+  "grow_notes": "Thin hard every year to keep fruit size and avoid alternate bearing, and give it a fertile, moisture-retentive soil. Pick early in the harvest window if the fruit is to be stored.",
+  "conf": "high"
+ },
+ {
+  "id": "white-winter-pearmain",
+  "name": "White Winter Pearmain",
+  "aka": ["White Pearmain", "Campbellite", "Winter White Pearmain"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Probably the eastern United States",
+   "year": 1849,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old American pearmain of uncertain origin, recorded by 1849 and once a favourite dessert apple of the Midwest from Ohio to Kansas. It travelled west with settlers and is now valued in California and other mild-winter regions; it is the mother of the Japanese variety Indo.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "brown",
+   "blush_cover": 15,
+   "stripes": false,
+   "russet": 1,
+   "description": "Medium, oblong-conical, somewhat ribbed pale yellow apple with a slight brownish-red flush and numerous pale or russet dots."
+  },
+  "taste": {
+   "summary": "Firm, crisp, fine and tender flesh, juicy and mildly subacid with a sweet, honeyed and very pleasant aromatic flavour that improves in store.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["perfumed", "honey", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar, after some weeks in store"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little published tree information; an Australian heritage orchard calls it an excellent pollinator for other varieties."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "partial",
+   "notes": "An Australian heritage orchard describes it as self-fertile and a good pollen donor. Brogdale scores the flowering of its accession as mid-season (taken here as group 3)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 500,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm temperate and mild-winter regions such as California and south-eastern Australia, where it is treated as low-chill; historically also the Midwest.",
+   "poor_climates": "It did poorly in New York, where it was not recommended; cool short seasons do not ripen this late apple fully."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "One of the better old dessert apples for mild-winter gardens. Pick late and store for a few weeks for the honeyed flavour to develop.",
+  "conf": "medium"
+ },
+ {
+  "id": "wijcik-mcintosh",
+  "name": "Wijcik McIntosh",
+  "aka": ["Wijcik"],
+  "uses": ["dessert", "ornamental"],
+  "origin": {
+   "country": "CA",
+   "place": "Kelowna, British Columbia",
+   "year": 1964,
+   "year_note": "c.",
+   "kind": "sport",
+   "parentage": "Limb sport of McIntosh",
+   "raised_by": "Anthony Wijcik (found); evaluated at Summerland Research Station"
+  },
+  "history": "A columnar branch mutation found in the mid-1960s on a 50-year-old McIntosh tree in Anthony Wijcik's orchard at Kelowna, evaluated at Summerland and patented by Stark Brothers in 1979. Its dominant compact (Co) gene was the source of the columnar 'Ballerina' and later columnar apples. The fruit is ordinary McIntosh.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "green",
+   "blush": "red",
+   "blush_cover": 75,
+   "stripes": false,
+   "russet": 0,
+   "description": "As McIntosh: a medium, flattish apple largely covered by a solid red to pinkish-red flush over pale green."
+  },
+  "taste": {
+   "summary": "McIntosh fruit: rather soft, very juicy greenish-white flesh with a sweet, pleasant vinous flavour.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 5,
+   "tags": ["wine", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Sep-Nov"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "columnar",
+   "bearing": "spur",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Grows as a single upright stem with very short internodes and almost no side branching, fruiting on spurs along the trunk. Mainly of interest for very small spaces, pots and as breeding stock."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early: Brogdale records full bloom around 29 April (group 2, as for McIntosh)."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Sep-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Inferred from McIntosh: cool continental climates with cold winters and cool autumn nights, such as British Columbia, New England and eastern Canada.",
+   "poor_climates": "Inferred from McIntosh: hot summers give soft, poorly coloured fruit."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Expected to share McIntosh's high scab susceptibility (inferred, not separately documented)."
+  },
+  "grow_notes": "Needs almost no pruning beyond removing the occasional side shoot; plant 60 cm apart or in a large pot. Pair with an early-flowering pollinator.",
+  "conf": "medium"
+ },
+ {
+  "id": "abbondanza",
+  "name": "Abbondanza",
+  "aka": ["Belfort", "Pella", "Abundanza"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "IT",
+   "place": "San Pietro Capofiume, Molinella, province of Bologna, Emilia-Romagna",
+   "year": 1896,
+   "year_note": "",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A chance seedling found at San Pietro Capofiume near Molinella in 1896, widely planted in Emilia-Romagna and the Veneto from the 1930s to the 1970s and exported. A fully red mutant, Abbondanza Rossa, was found in Ferrara province in 1962. It is now grown mainly by amateurs and listed in the regional register of local varieties.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "orange",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, broad round-conical greenish-yellow apple streaked with orange-red (red over the whole skin in the Rossa sport)."
+  },
+  "taste": {
+   "summary": "Compact, firm cream-white flesh, moderately sweet and fairly juicy with a clear acidity and a strong, wine-like and fairly perfumed flavour. Excellent for cooking and drying as well as eating.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 3,
+   "tags": ["wine", "perfumed", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Mar"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Medium vigour, branching tree bearing on spurs and mixed shoots. Flowers and crops abundantly, so thin to keep fruit size; little prone to biennial bearing or pre-harvest drop."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Mid-late flowering in Italy; Brogdale records full bloom around 12 May (group 3)."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "The Po plain and the Apennine foothills of Emilia-Romagna; noted as adapting to colder hill districts, where it was planted in hedgerows and at woodland edges.",
+   "poor_climates": "Wet sites with heavy scab pressure."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Susceptible to scab; tolerates powdery mildew fairly well."
+  },
+  "grow_notes": "A robust, heavy-cropping keeper that stores for months even without refrigeration. Thin the crop for size and spray or choose an airy site against scab.",
+  "conf": "medium"
+ },
+ {
+  "id": "american-golden-pippin",
+  "name": "American Golden Pippin",
+  "aka": ["Golden Apple", "Golden Pippin of Westchester County", "American Golden", "Golden American Pippin"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Westchester County, New York",
+   "year": 1822,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An early 19th-century apple of the lower Hudson Valley, associated with Westchester County and described in Thacher's American Orchardist of 1822. It was still in existence in 1905 but is not held in the UK National Fruit Collection.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "brown",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 1,
+   "description": "Medium to large, flattish-conical yellow apple, sometimes flushed brownish red, with some russet."
+  },
+  "taste": {
+   "summary": "Coarse yellowish flesh with a subacid, aromatic flavour; little else is recorded.",
+   "sweet": null,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["perfumed"],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No reliable tree information found."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Unknown."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Known only from the lower Hudson Valley of New York.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "Rare; identity should be checked against old descriptions because 'Golden Pippin' was applied to several different apples, including the unrelated English Golden Pippin.",
+  "conf": "low"
+ }
+]

@@ -1,0 +1,140 @@
+{
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 8952,
+   "page": 57,
+   "score": 3.5,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG."
+  },
+  {
+   "line": 23754,
+   "page": 203,
+   "score": 3.5,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG   17,  18,  25,    26  150"
+  },
+  {
+   "line": 17960,
+   "page": 115,
+   "score": 3.0,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG    150"
+  },
+  {
+   "line": 23758,
+   "page": 203,
+   "score": 3.0,
+   "key": "OLDENBURG",
+   "text": "OLDENBURG  GROUP 25"
+  },
+  {
+   "line": 4557,
+   "page": 57,
+   "score": 1.5,
+   "key": "OLDENBURG",
+   "text": "Oldenburg.  It  is  not  equal  to  either  of  these  varieties  in  quality."
+  },
+  {
+   "line": 8988,
+   "page": 57,
+   "score": 1.5,
+   "key": "OLDENBURG",
+   "text": "Oldenburg  (23,  41,  48,  49).  DUCHESS  OF  OLDENBURGH  (i,  2,  5,  9,  10,  14,  18)."
+  }
+ ],
+ "autumn-bough": [
+  {
+   "line": 771,
+   "page": null,
+   "score": 3.8,
+   "key": "AUTUMN BOUGH",
+   "text": "AUTUMN  BOUGH."
+  },
+  {
+   "line": 15863,
+   "page": 83,
+   "score": 3.8,
+   "key": "AUTUMN BOUGH",
+   "text": "AUTUMN  BOUGH  .  10"
+  },
+  {
+   "line": 20070,
+   "page": 203,
+   "score": 3.3,
+   "key": "AUTUMN BOUGH",
+   "text": "AUTUMN  BOUGH I5  I0"
+  },
+  {
+   "line": 15875,
+   "page": 83,
+   "score": 1.3,
+   "key": "AUTUMN BOUGH",
+   "text": "Autumn  Bough 10"
+  },
+  {
+   "line": 15877,
+   "page": 83,
+   "score": 1.3,
+   "key": "AUTUMN BOUGH",
+   "text": "Autumn  Bough  (synonym  of"
+  },
+  {
+   "line": 15901,
+   "page": 83,
+   "score": 1.3,
+   "key": "AUTUMN SWEET BOUGH",
+   "text": "Autumn  Sweet  Bough 10"
+  }
+ ],
+ "new-brunswicker": [
+  {
+   "line": 8991,
+   "page": 57,
+   "score": 1.3,
+   "key": "NEW BRUNSWICK",
+   "text": "New  Brunswick  (34).  OLDENBURG  (23,  26,  39,  45,  48,  49).  Oldenburg  (35,"
+  },
+  {
+   "line": 17705,
+   "page": 83,
+   "score": 1.3,
+   "key": "NEW BRUNSWICK",
+   "text": "New  Brunswick   151"
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 16852,
+   "page": 83,
+   "score": 1.0,
+   "key": "GLOUCESTER",
+   "text": "Gloucester  Pippin   21"
+  },
+  {
+   "line": 21776,
+   "page": 203,
+   "score": 1.0,
+   "key": "GLOUCESTER",
+   "text": "Gloucester  Pippin 21"
+  }
+ ],
+ "swazie": [
+  {
+   "line": 24259,
+   "page": 203,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or 328"
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 24949,
+   "page": 203,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson    316"
+  }
+ ]
+}

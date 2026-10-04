@@ -33,6 +33,7 @@ export function renderGuide(app) {
       <ol>
         <li><b>Explore varieties.</b> Filter ${c.varieties} apples by flavour (rose-water, vanilla, pineapple, nutty&hellip;), season, use, origin or disease resistance. Open a variety for its taste profile, growing habits, pollination partners and climate needs.</li>
         <li><b>Check the flavour evidence.</b> The small number on each flavour tag is how many independent sources back it. Each variety page quotes the old pomology books, lists who says what, and shows measured sugar and acidity and expert tasting scores where they exist. The <a href="#/flavour">Flavour</a> page explains the method and maps every measured apple from sweet to sharp. Tasted one? Use <i>Report your tasting</i>.</li>
+        <li><b>Grow it where you are.</b> On any variety page, pick your place on a pop-up map (or search for it, or use your location). You get whether it will grow there and how that climate changes the apple: picking date, sugar, acidity, overall taste, aroma, red colour, sunburn, texture and keeping. The place is remembered, so every variety page then shows it. <a href="#how-changes" data-jump-guide>How the changes are worked out</a>.</li>
         <li><b>Heart the ones you like.</b> Your favourites are kept in your browser.</li>
         <li><b>Click the world map.</b> Click one of the dots or anywhere at all: Pomography downloads ten years of real weather for that spot and scores each favourite for winter chill, hardiness, spring frost, ripening, summer heat and disease &mdash; with the reasons in words.</li>
         <li><b>Compare rootstocks.</b> See how vigour, precocity, anchorage and disease resistance differ, or use the chooser.</li>
@@ -58,6 +59,22 @@ export function renderGuide(app) {
       <p><span class="kind kind-measured">Measured</span> counted directly from the weather record (hot days, rainfall, elevation, humidity) &nbsp; <span class="kind kind-modelled">Modelled</span> an apple-specific index calculated from that weather (chill, bloom date, frost risk, leaf wetness, disease pressure) &nbsp; <span class="kind kind-regional">Regional</span> looked up by country or range, because weather cannot tell you whether a disease exists there (fire blight status, cedar-apple rust, a few pests) &nbsp; <span class="kind kind-assumed">Assumed</span> a default, such as a variety's unrecorded chill need &nbsp; <span class="kind kind-extrapolated">Extrapolated</span> blended from the nearest reference places because live weather could not be loaded.</p>
       <p><b>Humidity and disease.</b> Disease pressure uses leaf wetness, not just rainfall: hours of dew (from the day's dew point) and rain together decide how many apple-scab infection periods occur in spring (after Mills' infection table). Fire blight uses a Maryblyt-style model of warm, wet blossom days; powdery mildew uses warm dry days after humid nights; European canker uses mild wet days from October to March. The <i>Regional</i> tab then says whether fire blight or cedar-apple rust exists there at all.</p>
       <p><b>If the live weather service is busy</b> (it is free and rate-limited), the panel falls back to <span class="kind kind-extrapolated">extrapolated</span> values: an inverse-distance blend of up to four reference places in the same hemisphere within 1,500 km. The banner names them and their distances, and offers a retry.</p>
+    </section>
+    <section class="card pad wide" id="how-changes">
+      <h2>How an apple changes in another climate</h2>
+      <p>The <i>Grow it where you are</i> panel compares your place with the variety's home: the reference place nearest where it was raised, or Kent (the National Fruit Collection's home, where most of our taste notes are written) when no reference place near its origin has weather data. Most of what decides how an apple tastes is set in the <b>six weeks before picking</b>, so the panel compares the average day and night temperatures of that window in both places.</p>
+      <table class="dt"><tbody>
+        <tr><td><b>Picking date</b></td><td>The number of days from full bloom to picking stays nearly the same for a variety wherever it grows (Gala about 130&ndash;140, Fuji about 175); warm weather in the first two months after bloom shortens it a little. Pomography takes the variety's days-after-bloom in south-east England and shortens it 2.5% for every °C those two months are warmer (at most by a quarter). Whether there is enough warmth to ripen it at all still comes from the degree-days to the first hard frost.</td></tr>
+        <tr><td><b>Sugar</b></td><td>Warmer ripening weather lets fruit build more sugar; fruit that cannot finish ripening keeps starch and tastes less sweet. Shown when the window differs by 1.5 °C or more.</td></tr>
+        <tr><td><b>Acidity</b></td><td>Malic acid is used up faster in warm weather, warm nights especially, so warm places give less sharp fruit and cool ones sharper fruit (Japanese records over 30&ndash;40 years of warming show exactly this in Fuji and Tsugaru).</td></tr>
+        <tr><td><b>Overall taste</b></td><td>The same shift reads differently for each apple: a sharp apple becomes balanced in warmth, a low-acid one turns bland, a cooking apple loses the acidity it is grown for, a cider apple gains sugar and loses acid.</td></tr>
+        <tr><td><b>Aroma</b></td><td>The variety's own sourced note where we have one (Cox loses aroma in hot summers); otherwise strongly aromatic apples are expected to lose some perfume when they ripen in heat, and fruit that does not ripen fully tastes plain.</td></tr>
+        <tr><td><b>Red colour</b></td><td>The red pigment forms in cool nights and sunlight before harvest and is suppressed by heat: nights averaging 16 °C or more mean a weak blush; 13 °C is already too warm for varieties known to need cool nights.</td></tr>
+        <tr><td><b>Sunburn</b></td><td>On days of 35 °C or more, sun-facing fruit reaches the 46&ndash;49 °C at which the skin browns.</td></tr>
+        <tr><td><b>Texture &amp; keeping</b></td><td>Fruit that ripens in warm weather softens faster and keeps less long; cool ripening keeps it firm. Varieties prone to bitter pit get a warning where summers are hot or dry.</td></tr>
+        <tr><td><b>Skin</b></td><td>Long leaf-wetness in the weeks after blossom roughens the skin into russet on susceptible apples; dry weather gives smoother skin.</td></tr>
+      </tbody></table>
+      <p class="small muted" style="margin-top:8px">These are tendencies from fruit research, not measurements of a given apple at your place. Crop load, pruning, irrigation and picking date change taste as much as climate does. Sources: Sugiura et al. 2013 (Scientific Reports 3:2418); Warrington et al. 1999 (J. Amer. Soc. Hort. Sci. 124:468); Lin-Wang et al. 2011 (Plant, Cell &amp; Environment 34:1176); Schrader et al. 2003 (Acta Horticulturae 618:397); Faust &amp; Shear 1972 (HortScience 7:233). Details: decision 0006 in the repository.</p>
     </section>
     <section class="card pad">
       <h2>Where the numbers come from</h2>
@@ -92,4 +109,6 @@ export function renderGuide(app) {
       <dl>${GLOSS.map(([t, d]) => `<dt>${esc(t)}</dt><dd>${esc(d)}</dd>`).join('')}</dl>
     </section>
   </div>`;
+  // the hash router owns '#...', so in-page links scroll instead of navigating
+  app.querySelectorAll('[data-jump-guide]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); app.querySelector(a.getAttribute('href')).scrollIntoView({ behavior: 'smooth' }); }));
 }

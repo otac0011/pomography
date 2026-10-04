@@ -1,0 +1,66 @@
+{
+  "_book": "downing-1900",
+  "autumn-bough": {
+    "line": 6379, "end": 6393, "heading": "Autumn Sweet Bough. Late Bough. Sweet Bellflower. Fall Bough. Philadelphia Sweet. White Sugar ?", "match": "synonym",
+    "flavour": "Flesh white, very tender, with a sweet, refreshing, vinous flavor.",
+    "quality": "One of the very best dessert sweet Apples of its season.",
+    "storage": "Last of August to first of October.",
+    "climate": null,
+    "tags": ["sweet", "wine"], "against": [], "sweet": 4, "acid": null,
+    "note": "Listed under Autumn Sweet Bough, with our synonyms Late Bough, Fall Bough, Sweet Bellflower, Philadelphia Sweet."
+  },
+  "clarke-pearmain": {
+    "line": 9079, "end": 9092, "heading": "Clarke Pearmain. Yellow Pearmain. Columbian Russet. Gloucester Pearmain. Golden Pearmain.", "match": "exact",
+    "flavour": "Flesh yellow, rather firm, crisp, rich, subacid.",
+    "quality": "Very good.",
+    "storage": "December.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "'From North Carolina, an old variety.' Subacid rather than sweet, but not a clear contradiction of our 'sweet'."
+  },
+  "coccagee": {
+    "line": 9191, "end": 9197, "heading": "Coccagee. Cocko Gee.", "match": "exact",
+    "flavour": "Flesh yellowish, acid.",
+    "quality": null,
+    "storage": "October, December.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "'An Irish Apple, mostly valued for cider.' Short entry after Hogg."
+  },
+  "styre": {
+    "line": 12258, "end": 12264, "heading": "Forest Styre. Styre. Stire.", "match": "synonym",
+    "flavour": "Flesh firm, brisk acid.",
+    "quality": null,
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "'A cider fruit, from Gloucestershire, England.' Short entry after Lindley (who in fact gives no taste)."
+  },
+  "poveshon": {
+    "line": 20019, "end": 20023, "heading": "Poveshon.", "match": "exact",
+    "flavour": "Flesh yellow, dry, sweet.",
+    "quality": "Good.",
+    "storage": "September, October.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "'An old New Jersey Apple, valued mainly for making early cider.' Small, oblate, deep red."
+  },
+  "red-autumn-calville": {
+    "line": 20724, "end": 20738, "heading": "Red Autumn Calville. Calville Rouge d'Automne. Calville Rouge. Calville d'Automne. Pomme Violette. Erd Beere, or Strawberry of Switzerland.", "match": "exact",
+    "flavour": "Flesh white, tender, juicy, often stained with red, sprightly aromatic, subacid.",
+    "quality": "Good.",
+    "storage": "September to December.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Synonyms include 'Pomme Violette' and 'Erd Beere, or Strawberry of Switzerland' (Rosseau, incorrectly). Downing calls it 'An unprofitable variety.'"
+  },
+  "swazie": {
+    "line": 90270, "end": 90293, "heading": "Swazie Pomme Grise. Pomme Grise d'Or.", "match": "exact",
+    "flavour": "flesh tender, juicy, mild subacid, rich and aromatic",
+    "quality": "very good or best",
+    "storage": "January to March or April.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Appendix entry, badly OCR'd. Probably originated on the Colonel Swazie farm near Niagara; 'more oblong, more golden in color, and more aromatic than the Pomme Grise, and is considered superior to it.'"
+  }
+}

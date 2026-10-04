@@ -1,0 +1,541 @@
+[
+ {
+  "id": "surprise",
+  "name": "Surprise",
+  "aka": ["Red Core"],
+  "uses": ["culinary"],
+  "origin": {
+   "country": null,
+   "place": "Uncertain; circulating in European collections by 1831",
+   "year": 1831,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": "Thought to descend from the red-fleshed wild apple Malus niedzwetzkyana of Central Asia",
+   "raised_by": null
+  },
+  "history": "A small red-fleshed apple recorded in the London Horticultural Society's garden in 1831 and taken to the Ohio Valley by German settlers around 1840. It was judged of little worth for eating but became an ancestor of later pink- and red-fleshed apples, including Pink Pearl. Not to be confused with Surprise (Veitch) at the National Fruit Collection, a large cream-fleshed apple, nor with Landsberger Reinette, which has also been called Surprise.",
+  "look": {
+   "size": "small",
+   "shape": "round",
+   "ground": "yellow-green",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": null,
+   "description": "Small, round apple with dull pale green to whitish-yellow skin hiding pink to red-stained flesh."
+  },
+  "taste": {
+   "summary": "Very tart; its interest is the pink-red flesh rather than eating quality.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": null,
+   "tannin": null,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little growing information. A tree survived in a Michigan orchard into the 1950s."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": null,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Reported to do better on the US West Coast, with long seasons of hot days and cool nights.",
+   "poor_climates": "Reported as poorly suited to the US Midwest and East."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not documented."
+  },
+  "grow_notes": "Mainly of interest to collectors of red-fleshed apples and breeders. Check the source of any tree carefully, as the name is shared by at least two other apples.",
+  "conf": "low"
+ },
+ {
+  "id": "aroma",
+  "name": "Aroma",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "SE",
+   "place": "Balsgård Fruit Breeding Institute, Fjälkestad, Skåne, Sweden",
+   "year": 1947,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Ingrid Marie x Filippa",
+   "raised_by": "Balsgård (Swedish University of Agricultural Sciences)"
+  },
+  "history": "Crossed at Balsgård in southern Sweden in the late 1940s and released in 1973; it is now a leading apple in Sweden and Norway and the provincial apple of Skåne. Several redder sports exist, including Amorosa and Norwegian 'red Aroma' strains.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 35,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, broadly conical yellow apple with a striped and mottled orange-red to red cheek."
+  },
+  "taste": {
+   "summary": "Very juicy, rather tender yellowish-white flesh with a sweet, well-balanced, fruity and aromatic flavour.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 5,
+   "tags": ["perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Spreading to drooping habit at the National Fruit Collection; widely grown commercially in Scandinavia."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Mid-late flowering; needs a partner."
+  },
+  "season": {
+   "harvest": "late Sep-early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool Scandinavian climates; recommended for southern Sweden (zones 1-3) and a main commercial variety in Norway.",
+   "poor_climates": "Not recorded in warm climates; a Scandinavian apple likely to be soft and poorly coloured in hot summers."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Reported to have reasonable field resistance to scab and fruit rots."
+  },
+  "grow_notes": "A good dessert apple for cool northern gardens. Plant with another mid-season flowering variety and pick from late September.",
+  "conf": "medium"
+ },
+ {
+  "id": "benoni",
+  "name": "Benoni",
+  "aka": ["Fail-me-Never"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Farm of Mason Richards, Dedham, Massachusetts",
+   "year": 1830,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An early-season dessert apple that appeared on the Dedham, Massachusetts farm of Mason Richards around 1830 and was later introduced to England by Rivers of Sawbridgeworth. Hogg rated it a delicious dessert apple; a redder sport, Red Benoni, also exists.",
+  "look": {
+   "size": "small",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small to medium, somewhat lopsided orange-yellow apple flushed light red and striped crimson, with a smooth, slightly greasy skin."
+  },
+  "taste": {
+   "summary": "Tender, fine-grained, juicy yellow flesh with a sweet, gentle, moderately aromatic flavour. A short-season apple to eat from the tree.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Late Aug-Sep, straight from the tree"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "upright",
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": "marked",
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Upright tree that comes into bearing early and tends to over-crop, which drives a biennial cycle; thin fruit in heavy years."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Needs a mid-season partner."
+  },
+  "season": {
+   "harvest": "late Aug-early Sep",
+   "eating": "Aug-Sep",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate climates such as New England and southern England.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented; main problem is biennial bearing."
+  },
+  "grow_notes": "Thin heavily in a big year to keep it cropping annually. Pick in late August and eat within a week or two.",
+  "conf": "medium"
+ },
+ {
+  "id": "clivia",
+  "name": "Clivia",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "DE",
+   "place": "Institut für Acker- und Pflanzenbau, Müncheberg, Brandenburg, Germany",
+   "year": 1961,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Geheimrat Dr. Oldenburg x Cox's Orange Pippin",
+   "raised_by": "M. Schmidt, Müncheberg"
+  },
+  "history": "Bred at Müncheberg in East Germany from the same parents as Alkmene and released in the early 1960s. It is best known as a parent of Pinova and of several other German apples such as Pilot and Rubinstep.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 1,
+   "description": "Small to medium, slightly conical apple with a smooth, greasy skin striped yellowish-red to reddish-brown over greenish yellow."
+  },
+  "taste": {
+   "summary": "Firm, fine, juicy yellowish-white flesh with a sweet-sharp balance and a refined aroma close to Cox's Orange Pippin.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec in England; German sources give Dec-Apr"
+  },
+  "tree": {
+   "vigor": 2,
+   "habit": "upright-spreading",
+   "bearing": "spur",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Weak-growing with obliquely upright main limbs, few laterals and many short fruiting shoots; the small crown needs firm annual pruning to keep it productive."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": null,
+   "notes": "No published group; National Fruit Collection records show it opening with early varieties such as Alkmene and Egremont Russet."
+  },
+  "season": {
+   "harvest": "late Sep-early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Central European and British temperate climates.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Low scab susceptibility and good mildew resistance reported."
+  },
+  "grow_notes": "Choose a vigorous rootstock or a good soil to offset its weak growth, and prune each winter. Store for a few weeks before eating.",
+  "conf": "medium"
+ },
+ {
+  "id": "dutch-mignonne",
+  "name": "Dutch Mignonne",
+  "aka": ["Reinette de Caux", "Grosse Casseler Reinette", "Paternoster", "Christ's Golden Reinette", "Mignonne de Hollande"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "NL",
+   "place": "Thought to be the Netherlands",
+   "year": 1771,
+   "year_note": "before",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old reinette believed to be Dutch, brought to England around 1771 by Thomas Harvey of Catton, Norwich, and distributed by George Lindley about 1820 under the name Dutch Mignonne because its true name was unknown. On the Continent it is the same apple as Reinette de Caux and Grosse Casseler Reinette.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 25,
+   "stripes": true,
+   "russet": 1,
+   "description": "Medium to large, somewhat flattened greenish-yellow apple with an orange-red flush stippled and striped red, and some russet around the stalk."
+  },
+  "taste": {
+   "summary": "Firm, crisp, juicy cream flesh with a slightly acid, only lightly sweet and faintly aromatic flavour that holds well in store. Useful for both cooking and eating.",
+   "sweet": 2,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "Nov-Mar"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "spreading",
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Average vigour spur-bearer with a drooping habit."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Mid-season flowering."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate north-west European climates; described as cold-hardy.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented in the sources checked."
+  },
+  "grow_notes": "A long-keeping dual-purpose reinette. Pick in October and store cool; use for cooking early in the winter and for eating later.",
+  "conf": "medium"
+ },
+ {
+  "id": "fireside",
+  "name": "Fireside",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Minnesota Agricultural Experiment Station, Excelsior, Minnesota",
+   "year": 1917,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Uncertain: McIntosh x Longfield according to the National Fruit Collection; Wealthy x Northwestern Greening according to Orange Pippin",
+   "raised_by": "Charles Haralson, University of Minnesota"
+  },
+  "history": "Selected in 1917 by Charles Haralson at the University of Minnesota's Excelsior station and introduced in 1943 as a large, hardy, late keeping apple for the upper Midwest.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "green",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, conical green apple striped scarlet, sometimes with a mottled orange-red flush."
+  },
+  "taste": {
+   "summary": "Firm, crisp, juicy greenish-white flesh with a sweet, low-acid, mildly aromatic flavour; sweetness improves if left late on the tree. Softens somewhat after long storage.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Oct-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Drooping habit at the National Fruit Collection; reported to give large annual crops."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Mid-season flowering."
+  },
+  "season": {
+   "harvest": "late Sep-early Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 1200,
+   "hardiness_zone": 4,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental Upper Midwest climates for which it was bred.",
+   "poor_climates": "Not recorded."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not documented in the sources checked."
+  },
+  "grow_notes": "A hardy late apple for cold districts. Leave the fruit on the tree as long as frost allows for best sweetness, then store cool.",
+  "conf": "medium"
+ },
+ {
+  "id": "foxwhelp",
+  "name": "Foxwhelp",
+  "aka": ["Old Foxwhelp"],
+  "uses": ["cider"],
+  "origin": {
+   "country": "GB",
+   "place": "Gloucestershire or Herefordshire, England",
+   "year": 1664,
+   "year_note": "first recorded",
+   "kind": "ancient",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "One of the oldest named English cider apples, mentioned by John Evelyn in 1664 and long used to give strength to Herefordshire ciders. The tree throws sports readily, so several clones carry the name (Broxwood, Red, Black and Bulmer's Improved Foxwhelp); the unrelated 'Rejuvenated Foxwhelp' is a different apple. By the 1960s only a few very old trees of the original remained.",
+  "look": {
+   "size": "small",
+   "shape": "ribbed",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": 75,
+   "stripes": true,
+   "russet": null,
+   "description": "Small to medium, uneven, ridged fruit in deep crimson streaked with yellow; yellow flesh tinged red."
+  },
+  "taste": {
+   "summary": "A classic bittersharp: high malic acid with marked tannin and plenty of sugar, giving a strong, rich, coloured juice for blending.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": null,
+   "tannin": 3,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["sharp", "astringent", "bitter"],
+   "cider_class": "bittersharp",
+   "best_eaten": "Not for eating; mill in Sep-Oct"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": "upright",
+   "bearing": "spur",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Upright tree with large, stout branches and distinctive curled, wavy leaves; prone to producing sports on single branches."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": "no",
+   "notes": "Orange Pippin gives group 5 but treats the clones as one variety; plant with other cider apples."
+  },
+  "season": {
+   "harvest": "early Sep-late Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": null,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": true,
+   "best_climates": "The cool, moist cider country of Herefordshire, Gloucestershire and the Welsh Marches.",
+   "poor_climates": "Wet sites with heavy scab pressure; little known about hot climates."
+  },
+  "health": {
+   "scab": 4,
+   "canker": 3,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Scab-prone; some susceptibility to canker."
+  },
+  "grow_notes": "Check which clone you are buying, as most trees sold as Foxwhelp today are Broxwood or Bulmer's selections. An early bittersharp, so press it with other early fruit or store briefly.",
+  "conf": "low"
+ }
+]

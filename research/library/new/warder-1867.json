@@ -1,0 +1,209 @@
+{
+ "_book": "warder-1867",
+ "american-golden-pippin": {
+  "line": 19031, "end": 19051, "heading": "American Golden Pippin", "match": "exact",
+  "flavour": "Flesh yellowish, tender, juicy, nearly melting, with a rich, refreshing, almost vinous, aromatic flavor",
+  "quality": "this fine fruit",
+  "storage": "November to February.", "climate": null,
+  "tags": ["wine", "perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Warder had mislaid his notes and quotes Downing's description. Synonyms given: Golden Pippin of Downing, New York Greening."
+ },
+ "american-summer-pearmain": {
+  "line": 17323, "end": 17347, "heading": "American Summer Pearmain", "match": "exact",
+  "flavour": "Flesh yellow, exceedingly tender, almost melting, crisp, fine-grained, juicy; Flavor very mild sub-acid, aromatic, deliciously refreshing",
+  "quality": "Quality best; Use, the dessert",
+  "storage": null, "climate": null,
+  "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+  "note": "'This delicious apple'; essentially a fruit for the amateur, not profitable for market. August and September."
+ },
+ "bailey": {
+  "line": 18927, "end": 18945, "heading": "Bailey Sweet", "match": "synonym",
+  "flavour": "Flesh yellow, tender, fine-grained, juicy; Flavor very sweet, rich",
+  "quality": "Quality good to very good",
+  "storage": null, "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 5, "acid": null,
+  "note": "From Wyoming County, New York; season October; 'A very valuable variety also for stock.'"
+ },
+ "benoni": {
+  "line": 19468, "end": 19492, "heading": "Benoni", "match": "exact",
+  "flavour": "Flesh yellow, fine-grained, juicy; Flavor rich, sub-acid, spicy",
+  "quality": "Quality best; Use, dessert, kitchen and market",
+  "storage": null, "climate": null,
+  "tags": ["spice"], "against": [], "sweet": null, "acid": 3,
+  "note": "'This handsome and delicious early apple'; native of Dedham, Massachusetts; July and August; 'Delicious and profitable.'"
+ },
+ "chenango": {
+  "line": 20734, "end": 20750, "heading": "Frank or Chenango", "match": "synonym",
+  "flavour": "Flesh tender, juicy; Flavor sub-acid, aromatic",
+  "quality": "Quality very good; Use, dessert",
+  "storage": null, "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym Chenango Strawberry; also called Late Strawberry, so Warder prefers the local name Frank. Native of New York; autumn."
+ },
+ "detroit-red": {
+  "line": 15752, "end": 15776, "heading": "Detroit Black", "match": "probable",
+  "flavour": "Flesh whitish, tender, breaking, juicy; Flavor acid, poor",
+  "quality": "Quality second to third rate; Use, kitchen and drying",
+  "storage": null, "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+  "note": "Sub-heading 'Detroit Red?--Grand Sachem'. Warder lumps Black and Red Detroit together as very much alike, but adds 'The Red variety may be distinct, as it keeps later.' Downing keeps them apart. September and October."
+ },
+ "dutch-mignonne": {
+  "line": 17644, "end": 17663, "heading": "Dutch Mignonne", "match": "probable",
+  "flavour": "Flesh yellowish white, breaking, coarse-grained, juicy; Flavor acid to sub-acid, rich",
+  "quality": "Quality good to very good; Use, kitchen, market, drying",
+  "storage": null, "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym Reinette Doree; 'A fine large apple from Holland'. Season given as September, October, whereas Downing's Dutch Mignonne keeps December to March and Downing admits confusion over which apple bears the name, hence probable."
+ },
+ "english-russet": {
+  "line": 15513, "end": 15533, "heading": "Poughkeepsie Russet", "match": "synonym",
+  "flavour": "Flesh greenish, firm, inclined to be tough; Flavor acid, poor",
+  "quality": "Quality third rate; Use, market and cooking only",
+  "storage": "valued because it keeps soundly for a long time; Season, December until June.",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+  "note": "Synonym English Russet; origin New York. Warder's separate entry 'English Russet' (line 18653) is a different apple, as Downing points out."
+ },
+ "fallawater": {
+  "line": 14622, "end": 14650, "heading": "Fallawater", "match": "exact",
+  "flavour": "Flesh whitish, often greenish-white, light, tender, juicy; Flavor very mild sub-acid, or sweet, with little character",
+  "quality": "Quality scarcely good; Use, market and stock",
+  "storage": "Season, November, December, and may be kept longer if desired.",
+  "climate": null,
+  "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonym Tulpehocken; native of Pennsylvania. 'Essentially a market apple, having little to recommend it but its size, appearance and productiveness.'"
+ },
+ "golden-harvey": {
+  "line": 19726, "end": 19738, "heading": "Golden Harvey", "match": "exact",
+  "flavour": "Flesh yellow, of fine texture, with a rich sub-acid flavor.",
+  "quality": "This highly flavored English apple",
+  "storage": "The fruit is apt to shrivel.", "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym Brandy Apple; rarely seen in American collections, so Warder quotes Downing's description."
+ },
+ "golden-sweet": {
+  "line": 16375, "end": 16394, "heading": "Golden Sweet", "match": "exact",
+  "flavour": "Flesh yellow, breaking, fine-grained, juicy; Flavor very sweet, aromatic, like sassafrass",
+  "quality": "Quality good to very good; Use, baking and market",
+  "storage": null, "climate": null,
+  "tags": ["sweet", "perfumed", "spice"], "against": [], "sweet": 5, "acid": null,
+  "note": "Synonym Orange Sweeting; from Connecticut; season August - our apple. The 'spice' tag stands for the sassafras-like aroma."
+ },
+ "harrison": {
+  "line": 15815, "end": 15841, "heading": "Harrison", "match": "exact",
+  "flavour": "Flesh yellow, compact, dry till ripe, then juicy; flavor acid to sub-acid, very rich, saccharine",
+  "quality": "Quality good; Use, especially for cider, also for cooking and for dessert in April.",
+  "storage": "Keeps well.",
+  "climate": "has been carried westward over a great extent of territory, where it succeeds admirably well",
+  "tags": ["sweet"], "against": [], "sweet": null, "acid": 3,
+  "note": "This famous Jersey cider apple, from Essex County, New Jersey."
+ },
+ "jefferis": {
+  "line": 12846, "end": 12868, "heading": "Jefferies", "match": "synonym",
+  "flavour": "Flesh yellow, breaking, fine-grained, juicy; flavor sub-acid, aromatic, delicious",
+  "quality": "Quality very good, for table and market",
+  "storage": null, "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "'This delicious autumn apple originated in Chester County, Pennsylvania'; August to October."
+ },
+ "jersey-black": {
+  "line": 19562, "end": 19599, "heading": "Jersey Black", "match": "exact",
+  "flavour": "Flesh yellow, crisp, fine-grained, juicy, often stained pink or reddish; Flavor rich, mild sub-acid, aromatic, not spicy, satisfying",
+  "quality": "Quality good; Use, table, kitchen, cider and for stock",
+  "storage": "Season, December, January; keeps sound.",
+  "climate": null,
+  "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+  "note": "Warder says it 'cannot be the Black Apple of Coxe and Downing' (which he describes as Small Black, line 18269), so our aka 'Black Apple' is doubtful."
+ },
+ "maiden-blush": {
+  "line": 11933, "end": 11958, "heading": "Maiden's Blush", "match": "exact",
+  "flavour": "Flesh white, breaking, fine grained, juicy; Flavor acid, aromatic, and to most palates not agreeable at the dessert, but very good when cooked, and requiring but a short time to be reduced to a delicious pulp of light color.",
+  "quality": "very good when cooked",
+  "storage": null, "climate": null,
+  "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 4,
+  "note": "Native of New Jersey; approved by thirteen of eighteen States reporting to the American Pomological Society; also used for drying. September and October."
+ },
+ "melon": {
+  "line": 14409, "end": 14427, "heading": "Melon", "match": "exact",
+  "flavour": "Flesh yellow, tender, fine grained, juicy; Flavor acid, sub-acid, aromatic, rich",
+  "quality": "Quality almost best",
+  "storage": "Season, November to January.", "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Origin East Bloomfield, New York (Norton's Melon) - our apple."
+ },
+ "ohio-nonpareil": {
+  "line": 13074, "end": 13101, "heading": "Ohio Nonpareil", "match": "exact",
+  "flavour": "Flesh yellowish, tender, fine-grained, juicy; sub-acid, rich",
+  "quality": "First quality, for table, market, cooking or drying",
+  "storage": null, "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms Myer's Nonpareil, Western Beauty; originated with Mr. Myers near Massillon, Ohio; September to December. Against Hawley, Fall Pippin and others it was declared 'better than the best'."
+ },
+ "ortley": {
+  "line": 20096, "end": 20129, "heading": "Ortley", "match": "exact",
+  "flavour": "Flesh yellowish, tender, breaking, juicy; Flavor acid to sub-acid, sprightly, refreshing",
+  "quality": "Quality best; Use, table, kitchen",
+  "storage": "Season, November to January.", "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym White Bellflower 'and many others'; New Jersey. Becoming so defective from scab and bitter-rot that it is disappearing from nurseries; flesh fine enough 'to suit even the invalid'. Acid to sub-acid sits uneasily with our 'mild' tag."
+ },
+ "primate": {
+  "line": 19248, "end": 19271, "heading": "Primate", "match": "exact",
+  "flavour": "Flesh greenish-white, very tender, fine-grained; Flavor mild sub-acid, very agreeable",
+  "quality": "Quality best; Use, the dessert",
+  "storage": null, "climate": null,
+  "tags": ["mild"], "against": ["sharp"], "sweet": null, "acid": 2,
+  "note": "'This delicious table apple'; skin and flesh too delicate for market. July and August."
+ },
+ "pumpkin-sweet": {
+  "line": 15606, "end": 15624, "heading": "Lyman's Pumpkin Sweet", "match": "synonym",
+  "flavour": "Flesh yellowish, breaking, juicy, often water-cored and heavy; Flavor very sweet",
+  "quality": "Quality good; Use, baking and stock-feeding",
+  "storage": "Season, October to December.", "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 5, "acid": null,
+  "note": "Synonym Pound Sweet; origin orchard of S. Lyman, Manchester, Connecticut. Warder's separate 'Pumpkin Sweet' (line 14879, Sweet Russet of Ohio, russeted) is a different apple."
+ },
+ "reinette-du-canada": {
+  "line": 14102, "end": 14131, "heading": "Canada Reinette", "match": "synonym",
+  "flavour": "Flesh breaking, fine grained, very juicy; Flavor acid to sub-acid, aromatic, rich",
+  "quality": "Quality very good; Use, table and cooking",
+  "storage": "Season, December to February, in northern Indiana.",
+  "climate": null,
+  "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Origin uncertain, probably European; Warder omits the synonyms and says the White Pippin is distinct."
+ },
+ "sweet-bough": {
+  "line": 14599, "end": 14619, "heading": "Large Bough", "match": "synonym",
+  "flavour": "Flesh white, very soft, light, juicy; Flavor very sweet when ripe, somewhat bitter when green",
+  "quality": "Quality only good--by some called best",
+  "storage": null, "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 5, "acid": null,
+  "note": "Synonym Large Yellow Bough; 'much admired as an early sweet apple'; tasteless when cooked; July and August."
+ },
+ "wagener": {
+  "line": 14469, "end": 14490, "heading": "Wagener", "match": "exact",
+  "flavour": "Flesh yellowish-white, tender, fine-grained, juicy; Flavor mild sub-acid",
+  "quality": "Quality good; Uses, market, table and kitchen",
+  "storage": "Season, November and December.", "climate": null,
+  "tags": ["mild"], "against": ["sharp"], "sweet": null, "acid": 2,
+  "note": "Originated at Penn Yan, Yates County, New York. Downing (1900) instead calls it brisk, somewhat vinous."
+ },
+ "white-winter-pearmain": {
+  "line": 15002, "end": 15034, "heading": "White Winter Pearmain", "match": "exact",
+  "flavour": "Flesh yellow, fine grained, tender, crisp, juicy; Flavor mild sub-acid, very rich",
+  "quality": "Quality best; Uses table, kitchen, market",
+  "storage": "Season December to March.",
+  "climate": "often scabby on rich limestone soils and on old trees",
+  "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+  "note": "Brought to Indiana by early pomologists as an unnamed graft; never identified (Downing suggested Winter Harvey); distinct from Michael Henry."
+ },
+ "williams-favourite": {
+  "line": 18423, "end": 18438, "heading": "Williams' Favorite", "match": "exact",
+  "flavour": "Flesh whitish-yellow, streaked red, breaking, not juicy; Flavor sub-acid, peculiar",
+  "quality": "Quality scarcely good",
+  "storage": null, "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym Williams' Early; origin Roxbury, Massachusetts; July and August."
+ }
+}

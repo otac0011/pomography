@@ -1,0 +1,541 @@
+[
+ {
+  "id": "spencer-seedless",
+  "name": "Spencer Seedless",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Grand Junction, Colorado",
+   "year": 1905,
+   "year_note": "c.",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": "Propagated and promoted by John F. Spencer"
+  },
+  "history": "An apetalous, largely seedless apple propagated by John F. Spencer of Grand Junction, Colorado, after about a decade of trials, and promoted around 1905 as a future commercial apple. Another account traces the tree to Virginia via Wisconsin in the 1850s. It reached the UK National Fruit Trials from Long Ashton in 1970.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "green",
+   "blush": "red",
+   "blush_cover": 30,
+   "stripes": false,
+   "russet": 1,
+   "description": "Large to very large, flattish pale-green apple with a mottled red flush when fully ripe; the core is tiny and usually seedless."
+  },
+  "taste": {
+   "summary": "Dense, crisp and rather dry flesh that is mildly sweet, low in acid and without aroma. One enthusiast finds it pleasant; the National Fruit Collection rates the flavour very poor. Its interest is botanical rather than culinary.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 2,
+   "tags": ["mild"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "The flowers have no petals and no stamens, so the tree barely seems to blossom; fruit sets without pollination (parthenocarpy), and any seeds come from stray cross-pollination. Described as hardy and prolific."
+  },
+  "pollination": {
+   "flower_group": 6,
+   "self_fertile": "yes",
+   "notes": "Sets fruit without pollination, but its petal-less flowers give almost no pollen, so it is useless as a pollinator. Very late: Brogdale records full bloom around 23 May."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": null,
+   "hardiness_zone": 5,
+   "heat_tolerance": null,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Recorded from the irrigated fruit district of western Colorado and grown in English collections; described as cold-hardy.",
+   "poor_climates": "No documented reports."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found. Early promoters hoped the seedless fruit would starve codling moth larvae."
+  },
+  "grow_notes": "A curiosity for collectors: it crops without a pollinator and keeps a long time, but eating quality is modest. The late flowering helps it avoid spring frosts.",
+  "conf": "low"
+ },
+ {
+  "id": "splendour",
+  "name": "Splendour",
+  "aka": ["Starksplendor"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "NZ",
+   "place": "Napier, Hawke's Bay, New Zealand",
+   "year": 1948,
+   "year_note": "",
+   "kind": "chance",
+   "parentage": "Unknown; suspected Red Dougherty x Golden Delicious, not confirmed by genetic analysis",
+   "raised_by": "Charles L. Roberts"
+  },
+  "history": "Discovered in 1948 by Charles Roberts at Napier and introduced commercially in the 1960s; long a popular New Zealand dessert apple. It is an ancestor of Pacific Rose (Sciros) and Aurora Golden Gala.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "pink",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium-large, ribbed, conical apple with thin pale greenish-yellow skin, a soft pink to orange streaked blush and green lenticels."
+  },
+  "taste": {
+   "summary": "Crisp, firm and juicy yellowish-white flesh with a sweet, low-acid flavour, a little richer than Golden Delicious and firmer in texture. Pleasant rather than aromatic.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Nov-Feb"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": "part-tip",
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Reliable, heavy cropper that bears on both spurs and tips. The fruit hangs well on the tree but has thin skin and bruises easily."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Group 4 (Orange Pippin; Brogdale full bloom around 15 May)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Nov-Feb",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 600,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm temperate climates like Hawke's Bay and California; one US nursery lists it as low-chill for zones 5-10.",
+   "poor_climates": "Cool short seasons may not ripen it well because it is late; handling damage limits it as a market apple."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 2,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "One US nursery rates its disease resistance excellent and its fire-blight resistance among the best; bruises easily."
+  },
+  "grow_notes": "Plant in a warm, sunny site and handle the fruit gently at picking. Partly a tip-bearer, so avoid hard spur pruning.",
+  "conf": "medium"
+ },
+ {
+  "id": "american-summer-pearmain",
+  "name": "American Summer Pearmain",
+  "aka": ["Early Summer Pearmain", "Summer Pearmain", "American Pearmain", "American Summer"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": null,
+   "year": 1817,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old American summer apple of unrecorded origin, first described in 1817 and long valued in eastern US home orchards. It is a parent of Meku.",
+  "look": {
+   "size": "medium",
+   "shape": "oblong",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": null,
+   "description": "Medium, oblong-conical yellow-green apple flushed and streaked with red to purplish red."
+  },
+  "taste": {
+   "summary": "Very tender, almost melting, juicy yellow flesh with a sweet, mildly subacid and pleasantly aromatic flavour. Picked early it is crisper and sweeter; left longer it softens and becomes better for pies.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Aug-Sep, straight from the tree; keeps about a week"
+  },
+  "tree": {
+   "vigor": 2,
+   "habit": "upright",
+   "bearing": "spur",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Smallish upright tree, easy for beginners. Fruit ripens over a period, so pick in several passes."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Group 2 (Orange Pippin; Brogdale full bloom around 5-6 May)."
+  },
+  "season": {
+   "harvest": "late Aug-mid Sep",
+   "eating": "Aug-Sep",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Orange Pippin lists it as cold-hardy and suited to cool, warm and cold summers in temperate regions.",
+   "poor_climates": "No specific reports; very hot summers ripen it early and soften it."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": 3,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Average general disease resistance, with some susceptibility to powdery mildew and fire blight."
+  },
+  "grow_notes": "A good early dessert apple for small gardens; plant with an early-flowering partner. Eat or cook promptly, as the fruit does not keep.",
+  "conf": "medium"
+ },
+ {
+  "id": "sweet-bough",
+  "name": "Sweet Bough",
+  "aka": ["Early Bough", "Large Yellow Bough", "August Sweet", "August Sweeting", "Bough", "Early Sweet Bough", "Yellow Bough"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": null,
+   "year": 1817,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An early American sweet apple described by 1817 and widely grown in eastern North America under many names; also once wrongly sold as 'Washington'.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": null,
+   "description": "Large, conical to oblong pale greenish-yellow apple, occasionally with a faint blush."
+  },
+  "taste": {
+   "summary": "Very tender, juicy white flesh with a honeyed, almost acid-free sweetness and only slight aroma. Admirers value it as an early sweet apple; critics find it one-dimensional and soon mealy.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["honey", "sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Aug-Sep, fresh off the tree"
+  },
+  "tree": {
+   "vigor": 2,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Small tree and heavy bearer with large, strongly scented blossom; responds well to thinning."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Listed by a US nursery as mid-season flowering (taken here as group 3); needs a partner."
+  },
+  "season": {
+   "harvest": "mid Aug",
+   "eating": "Aug-Sep",
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Eastern North American summers; a US nursery lists it for zones 5-9.",
+   "poor_climates": "No specific reports."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Described as disease-hardy; a low-spray grower in Massachusetts reports it largely disease-free."
+  },
+  "grow_notes": "A compact, productive tree for an early sweet apple; thin the fruitlets for size and eat within a couple of weeks of picking.",
+  "conf": "medium"
+ },
+ {
+  "id": "sweet-delicious",
+  "name": "Sweet Delicious",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York",
+   "year": 1911,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Deacon Jones x Delicious",
+   "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
+  },
+  "history": "Raised in 1911 by Richard Wellington at Geneva from Deacon Jones crossed with Delicious; a sister of Orleans from the same cross.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": 40,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, ribbed, truncate-conical greenish-yellow apple flushed reddish orange with red streaks and many russet dots."
+  },
+  "taste": {
+   "summary": "Firm, fine, creamy-white flesh that becomes melting; very sweet with an aromatic flavour and little acidity.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": null,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Oct-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little modern growing information."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": null,
+   "notes": "Brogdale records full bloom around 15 May, which corresponds to group 4."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Inferred from its New York breeding: temperate climates with warm summers.",
+   "poor_climates": "No documented reports."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A very sweet keeping apple for collectors; grow like Delicious in a sunny, open site with a mid-season pollinator.",
+  "conf": "low"
+ },
+ {
+  "id": "tumanga",
+  "name": "Tumanga",
+  "aka": ["Auralia"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "DE",
+   "place": "Kaiser-Wilhelm-Institut fuer Zuechtungsforschung, Muencheberg, Brandenburg",
+   "year": 1935,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": "Cox's Orange Pippin x Schoener aus Nordhausen",
+   "raised_by": "Kaiser-Wilhelm-Institut, Muencheberg"
+  },
+  "history": "Bred at Muencheberg in the 1930s (German Wikipedia gives 1935, Orange Pippin 1930) from Cox's Orange Pippin and Schoener aus Nordhausen, and marketed in East Germany from 1960 as Tumanga; in the West and at Brogdale it is known as Auralia. It is a parent of Pikkolo.",
+  "look": {
+   "size": "medium",
+   "shape": "flat",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 25,
+   "stripes": false,
+   "russet": 1,
+   "description": "Small-to-medium, flat apple with smooth yellowish-green skin and a mottled orange-red cheek."
+  },
+  "taste": {
+   "summary": "Juicy, tender, fine-grained yellowish-white flesh with a delicate sweet-sharp balance and a pleasant aromatic, perfumed character from its Cox parent. The flavour builds in store and is best from mid-winter to March.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar, after storage"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "spreading",
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Strong grower forming a broad pyramid with dense, drooping branches; bears on short spurs and also laterally on one- and two-year wood. Described as a regular bearer."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": null,
+   "notes": "Blossom is described as hardy and long-lasting. Brogdale records full bloom around 14 May, which corresponds to group 4."
+  },
+  "season": {
+   "harvest": "late Sep-mid Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Central European continental climates like Brandenburg, where it was bred for commercial growing.",
+   "poor_climates": "Inferred: hot summers, where Cox-type aromas fade; humid sites favour mildew."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": 4,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Prone to powdery mildew but fairly scab-resistant; the fruit bruises easily in handling and transport."
+  },
+  "grow_notes": "Give it room, as it is vigorous and spreading, and an airy site to limit mildew. Pick carefully in October and store cool for eating after Christmas.",
+  "conf": "medium"
+ },
+ {
+  "id": "upton-pyne",
+  "name": "Upton Pyne",
+  "aka": [],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "Denver Nurseries, Topsham, Devon, England",
+   "year": 1910,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": "George Pyne"
+  },
+  "history": "Raised by George Pyne of Denver Nurseries, Topsham, and introduced in 1910, named after the Devon village of Upton Pyne. Fruit was shown at the RHS in 1933.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 30,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, conical golden-yellow apple striped and mottled with pinkish orange."
+  },
+  "taste": {
+   "summary": "Firm, rather coarse and juicy flesh with a fairly sharp flavour carrying a delicate pineapple note. Mainly a cooker, it cooks to a purée, but it can be eaten fresh later in the season.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["pineapple", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "upright",
+   "bearing": null,
+   "cropping": null,
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Upright tree described as a regular bearer."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Brogdale records full bloom around 11 May, which corresponds to group 3."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 18
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild, moist south-west England, where it originated and is still grown locally.",
+   "poor_climates": "Not documented; listed as suited to cool summers."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some resistance to scab."
+  },
+  "grow_notes": "A good Devon dual-purpose apple for wetter western gardens. Store the fruit until after Christmas for fresh eating.",
+  "conf": "medium"
+ }
+]

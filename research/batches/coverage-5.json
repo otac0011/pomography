@@ -1,0 +1,294 @@
+{
+ "batch": "coverage-5",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "api-etoile",
+   "name": "Api Etoile",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Star Apple",
+    "Star Lady Apple",
+    "cs. Api hvězdovité",
+    "de. Sternapi"
+   ],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Api_Etoile"
+  },
+  {
+   "id": "ard-cairn-russet",
+   "name": "Ard Cairn Russet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/ard-cairn-russet"
+  },
+  {
+   "id": "aurora-golden-gala",
+   "name": "Aurora Golden Gala",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Aurora_Golden_Gala"
+  },
+  {
+   "id": "bailey",
+   "name": "Bailey",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Bailey Sweet"
+   ],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Bailey_Sweet"
+  },
+  {
+   "id": "bancroft",
+   "name": "Bancroft",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "baumanns-reinette",
+   "name": "Baumann's Reinette",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/baumanns-reinette"
+  },
+  {
+   "id": "baxters-pearmain",
+   "name": "Baxter's Pearmain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "beeley-pippin",
+   "name": "Beeley Pippin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/beeley-pippin"
+  },
+  {
+   "id": "belle-fleur-de-france",
+   "name": "Belle Fleur de France",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/belle-fleur-de-france"
+  },
+  {
+   "id": "bietigheimer",
+   "name": "Bietigheimer",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "birgit-bonnier",
+   "name": "Birgit Bonnier",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Birgit_Bonnier"
+  },
+  {
+   "id": "black-ben-davis",
+   "name": "Black Ben Davis",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "black-oxford",
+   "name": "Black Oxford",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/black-oxford"
+  },
+  {
+   "id": "brabant-bellefleur",
+   "name": "Brabant Bellefleur",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Brabantsche Bellefleur"
+   ],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/brabant-bellefleur"
+  },
+  {
+   "id": "brettacher-samling",
+   "name": "Brettacher Samling",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "britemac",
+   "name": "Britemac",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/britemac"
+  },
+  {
+   "id": "burgundy",
+   "name": "Burgundy",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/burgundy"
+  },
+  {
+   "id": "bushey-grove",
+   "name": "Bushey Grove",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/bushey-grove"
+  },
+  {
+   "id": "carlton",
+   "name": "Carlton",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "carola",
+   "name": "Carola",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Kalco"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

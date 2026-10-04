@@ -1,0 +1,249 @@
+{
+ "batch": "coverage-10",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "brina",
+   "name": "Brina",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Brina"
+  },
+  {
+   "id": "cap-of-liberty",
+   "name": "Cap of Liberty",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Cap_of_Liberty_%28apple%29"
+  },
+  {
+   "id": "creston",
+   "name": "Creston",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Creston_%28apple%29"
+  },
+  {
+   "id": "crimson-delight",
+   "name": "Crimson Delight",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Crimson_Delight"
+  },
+  {
+   "id": "delrouval",
+   "name": "Delrouval",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Delrouval"
+  },
+  {
+   "id": "dougherty",
+   "name": "Dougherty",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "english-russet",
+   "name": "English Russet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/English_Russet"
+  },
+  {
+   "id": "eva",
+   "name": "Eva",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Eva_%28apple%29"
+  },
+  {
+   "id": "evercrisp",
+   "name": "EverCrisp",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/EverCrisp"
+  },
+  {
+   "id": "golden-orange",
+   "name": "Golden Orange",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Golden_Orange_%28apple%29"
+  },
+  {
+   "id": "golden-sweet",
+   "name": "Golden Sweet",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Golden_Sweet"
+  },
+  {
+   "id": "hangdown",
+   "name": "Hangdown",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Hangdown_%28apple%29"
+  },
+  {
+   "id": "harrison",
+   "name": "Harrison",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Harrison Cider"
+   ],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Harrison_Cider_Apple"
+  },
+  {
+   "id": "kalmar-glasapple",
+   "name": "Kalmar Glasäpple",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Kalmar_Glas%C3%A4pple"
+  },
+  {
+   "id": "king-byerd",
+   "name": "King Byerd",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/King_Byerd"
+  },
+  {
+   "id": "lady-alice",
+   "name": "Lady Alice",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Lady_Alice_%28apple%29"
+  },
+  {
+   "id": "nicola",
+   "name": "Nicola",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Nicola_%28apple%29"
+  },
+  {
+   "id": "pams-delight",
+   "name": "Pam's Delight",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Pam%27s_Delight"
+  },
+  {
+   "id": "summerfree",
+   "name": "Summerfree",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Summerfree"
+  },
+  {
+   "id": "tentation",
+   "name": "Tentation",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Tentation"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "_book": "herefordshire-pomona-1",
+ "foxwhelp": {
+  "line": 15973, "end": 16095, "heading": "THE FOX-WHELP APPLE", "match": "exact",
+  "flavour": "Flesh yellow tinged with red, tender, and with a rough and acid flavour.",
+  "quality": "The Fox-whelp Apple is the favourite cider Apple of Herefordshire.",
+  "storage": null,
+  "climate": null,
+  "tags": ["astringent", "sharp"], "against": [], "sweet": null, "acid": 4,
+  "note": "The old Foxwhelp (Plate I), first recorded by Evelyn 1664, 'of the Forest of Deane'. Juice 'strongly acidulated'. Vol. 1 also has REJUVENATED FOXWHELP (line 17364), which the book thinks is the old variety regrafted ('a piquant acid rough flavour'), plus Bastard, Red and Black Foxwhelp seedlings - not recorded here."
+ },
+ "edelborsdorfer": {
+  "line": 16560, "end": 16594, "heading": "BORSDORFFER", "match": "synonym",
+  "flavour": "Flesh ; white with a yellowish tinge, crisp, and delicate, brisk, juicy, and sugary ; and with a rich, vinous, and aromatic flavour.",
+  "quality": "The Borsdorffer is a dessert apple of the first quality",
+  "storage": "in season from November to January.",
+  "climate": "The bloom is also very hardy, and withstands the night frosts of spring better than most other varieties.",
+  "tags": ["sweet", "wine", "perfumed", "sharp"], "against": [], "sweet": 4, "acid": 3,
+  "note": "Synonyms include Queen's Apple and Reinette d'Allemagne as in our aka; Cordus 1561 praised its 'sweet and generous flavour' and 'pleasant perfume'."
+ },
+ "gloria-mundi": {
+  "line": 18085, "end": 18164, "heading": "GLORIA MUNDI", "match": "exact",
+  "flavour": "Flesh, white, tender, and juicy, but not highly flavoured.",
+  "quality": "It is an excellent culinary apple",
+  "storage": "in season from October to December.",
+  "climate": "It grows best on a standard, but requires a sheltered situation, to prevent the heavy fruit from being blown off by the wind.",
+  "tags": ["mild"], "against": [], "sweet": null, "acid": null,
+  "note": "The heading line is lost in the OCR (Plate X); the entry starts at the synonym line: Baltimore, Belle Dubois, Mammoth, Monstrous Pippin, Ox Apple."
+ },
+ "potts-seedling": {
+  "line": 18170, "end": 18190, "heading": "POTTS' SEEDLING", "match": "exact",
+  "flavour": "Flesh, white, with a very agreeable acidity.",
+  "quality": "This is an excellent cooking apple.",
+  "storage": "It is in its best flavour in October and November, but it will keep, with care, until January.",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Raised from seed of an American apple at Ashton-under-Lyne about 1849 by Samuel Potts."
+ },
+ "cellini": {
+  "line": 19103, "end": 19117, "heading": "CELLINI", "match": "exact",
+  "flavour": "Flesh, white, tender, very juicy, brisk and pleasantly flavoured, with a somewhat balsamic aroma.",
+  "quality": "its chief use is as a culinary apple of the first quality.",
+  "storage": "It is in season during October and November.",
+  "climate": null,
+  "tags": ["perfumed", "sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Originated with Leonard Phillips of Vauxhall; 'resembling the Nonsuch, from which it was probably raised'."
+ },
+ "manningtons-pearmain": {
+  "line": 19493, "end": 19519, "heading": "MANNINGTON'S PEARMAIN", "match": "exact",
+  "flavour": "Flesh, yellow, firm, crisp, juicy, and very sugary, with a brisk and particularly rich flavour.",
+  "quality": "This is one of the best and richest flavoured dessert apples",
+  "storage": "in season from November even till March. The fruit should be allowed to hang late on the tree to secure its richness of flavour, and its good keeping properties, for if gathered too soon it is apt to shrivel.",
+  "climate": null,
+  "tags": ["sweet", "sharp"], "against": [], "sweet": 5, "acid": 3,
+  "note": "Originated about 1770 at Uckfield, Sussex."
+ },
+ "golden-harvey": {
+  "line": 19848, "end": 19897, "heading": "GOLDEN HARVEY", "match": "exact",
+  "flavour": "Flesh : yellow, firm, crisp, juicy, sugary, with an exceedingly rich and powerful aromatic flavour.",
+  "quality": "in a warm and favourable season, is perhaps the most delicious of all dessert apples.",
+  "storage": "It is fit for the table from December to May or June, but it requires however to be carefully kept, in jars, or in boxes in sand, for if exposed to light and air it will shrivel",
+  "climate": "in a warm and favourable season, is perhaps the most delicious of all dessert apples.",
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+  "note": "Synonyms Round Russet Harvey, Brandy Apple as in our aka. 'The juice is singularly rich and aromatic'; Knight found its specific gravity 1085, the highest he examined."
+ },
+ "fenouillet-gris": {
+  "line": 21315, "end": 21326, "heading": "CARAWAY RUSSET", "match": "synonym",
+  "flavour": "Flesh : yellowish, firm, crisp, rich, juicy and sweet, with a fine aroma.",
+  "quality": "A dessert apple of great excellence",
+  "storage": "in season from November to February.",
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+  "note": "Caraway Russet is our aka; Bunyard (citing this very page) gives Fenouillet Gris as its correct name. No mention of aniseed here."
+ }
+}

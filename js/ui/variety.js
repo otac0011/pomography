@@ -2,6 +2,7 @@
 import { S, esc, countryName, pollinators, similar, chillClass, seasonName, tagLabel, isFav, loadFlavour, tasteReportURL } from '../data.js';
 import { appleSVG, bar, meter, chips, evChips, usesBadges, favBtn, keepersBadge, breederBadge, radar, seasonTimeline, scoreRing, DISEASES } from './widgets.js';
 import { scoreVariety, labelOf } from '../score/score.js';
+import { renderGrowHere } from './growhere.js';
 
 const CONF = { high: ['High', 'Verified against several independent sources.'], medium: ['Medium', 'Broadly documented; some fields are inferred from season, parentage or origin.'], low: ['Low', 'Sparsely documented. Core facts only; many fields are unrecorded or estimated.'] };
 const VIGOR = ['', 'very weak', 'weak', 'moderate', 'vigorous', 'very vigorous'];
@@ -140,6 +141,11 @@ export function renderVariety(app, id) {
       </div>
     </section>
 
+    <section class="card pad wide" id="here">
+      <h2>Grow it where you are</h2>
+      <div data-here></div>
+    </section>
+
     <section class="card pad wide" id="evidence">
       <h2>Flavour: the evidence</h2>
       <div data-evidence><p class="small muted">Loading sources&hellip;</p></div>
@@ -235,6 +241,7 @@ export function renderVariety(app, id) {
   </div>`;
   // the hash router owns '#...', so in-page jumps scroll instead of navigating
   app.querySelectorAll('[data-jump]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); app.querySelector('#evidence').scrollIntoView({ behavior: 'smooth' }); }));
+  renderGrowHere(app.querySelector('[data-here]'), v);
   loadFlavour().then(F => {
     const el = app.querySelector('[data-evidence]');
     if (!el || !el.isConnected) return;

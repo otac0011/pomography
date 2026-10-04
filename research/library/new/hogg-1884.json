@@ -1,0 +1,241 @@
+{
+  "_book": "hogg-1884",
+  "alfriston": {
+    "line": 4098, "end": 4122, "heading": "ALFRISTON (Lord Gwydyr's Newtown Pippin; Oldaker's New; Shepherd's Pippin; Shepherd's Seedling)", "match": "exact",
+    "flavour": "Flesh, yellowish white, crisp, juicy, sugary, and briskly flavoured.",
+    "quality": "one of the largest and best culinary apples",
+    "storage": "It comes into use in the beginning of November and continues till April.",
+    "climate": "on strong soils that are not well drained it is apt to canker.",
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Raised by Shepherd at Uckfield, Sussex; named Alfriston after specimens sent by Mr. Brooker of Alfriston."
+  },
+  "american-summer-pearmain": {
+    "line": 4225, "end": 4237, "heading": "AMERICAN SUMMER PEARMAIN (Early Summer Pearmain)", "match": "exact",
+    "flavour": "Flesh, yellow, very tender, rich, and pleasantly flavoured.",
+    "quality": "An excellent early apple, either for dessert or kitchen use.",
+    "storage": "It is ripe in the end of August, and will keep till the end of September.",
+    "climate": "The tree is a healthy grower, a prolific bearer, and succeeds well on light soils.",
+    "tags": [], "against": [], "sweet": null, "acid": null, "note": ""
+  },
+  "api-etoile": {
+    "line": 4358, "end": 4374, "heading": "API ETOILE (Pomme Etoilee; Sternapfel)", "match": "exact",
+    "flavour": "It is a well-flavoured apple",
+    "quality": "only of second-rate quality",
+    "storage": "ripens about the middle or end of September.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Short entry: a much-flattened, five-angled, star-shaped variety of the Api. Hogg says the tree received under this name by the Horticultural Society was wrong (Api Petit)."
+  },
+  "baumanns-reinette": {
+    "line": 4744, "end": 4760, "heading": "BAUMANN'S REINETTE", "match": "exact",
+    "flavour": "Flesh, white, crisp, juicy, and with a pleasant aroma.",
+    "quality": "A good but not high-class dessert apple.",
+    "storage": "It is ripe in the end of November, and keeps till March.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+    "note": "Raised by MM. Baumann of Bolwyller, Alsace."
+  },
+  "baxters-pearmain": {
+    "line": 4762, "end": 4777, "heading": "BAXTER'S PEARMAIN", "match": "exact",
+    "flavour": "Flesh, yellowish, firm, brisk, and sugary, and with an abundance of pleasantly acid juice.",
+    "quality": "An excellent apple, suitable either for culinary purposes or the dessert",
+    "storage": "in use from November to March.",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 4,
+    "note": "Extensively cultivated in Norfolk; a very reliable cropper."
+  },
+  "benoni": {
+    "line": 4990, "end": 5007, "heading": "BENONI", "match": "exact",
+    "flavour": "Flesh, yellow, very tender and delicate, sweet, brisk, with a remarkably high perfume, like that of pine apple.",
+    "quality": "A delicious dessert apple",
+    "storage": "ripe in September.",
+    "climate": null,
+    "tags": ["sweet", "sharp", "perfumed", "pineapple"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Originated at Dedham, Massachusetts; introduced by Rivers."
+  },
+  "edelborsdorfer": {
+    "line": 5349, "end": 5392, "heading": "BORSDORFER (Borsdorf Hative; Queen's Apple; Red Borsdorfer; Borsdorf; Postophe d'Hiver; Pomme de Prochain; Reinette d'Allemagne; Blanche de Leipsic; Reinette de Misnie; Grand Bohemian Borsdorfer; Garret Pippin; King; King George; King George the Third)", "match": "synonym",
+    "flavour": "Flesh, white with a yellowish tinge, crisp and delicate, brisk, juicy, and sugary, and with a rich, vinous, and aromatic flavour.",
+    "quality": "A dessert apple of the first quality",
+    "storage": "in use from November to January.",
+    "climate": "The bloom is very hardy, and withstands the night frosts of spring better than most other varieties.",
+    "tags": ["sweet", "sharp", "wine", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Described as Borsdorfer. Hogg cites Cordus (1561) on its 'sweet and generous flavour, and the pleasant perfume which it exhales'; Diel's 'Pride of the Germans'."
+  },
+  "brabant-bellefleur": {
+    "line": 5470, "end": 5488, "heading": "BRABANT BELLEFLEUR (Glory of Flanders; Iron Apple)", "match": "exact",
+    "flavour": "Flesh, yellowish white, firm, crisp, and juicy, with a sugary, aromatic, and pleasantly sub-acid flavour.",
+    "quality": "An excellent culinary apple of the finest quality",
+    "storage": "in use from November to April.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": 3,
+    "note": "Sent to the Horticultural Society by Booth of Hamburg."
+  },
+  "fenouillet-gris": {
+    "line": 6176, "end": 6186, "heading": "CARAWAY RUSSET", "match": "probable",
+    "flavour": "Flesh, yellowish, firm, crisp, rich, juicy, and sweet, with a very fine aroma.",
+    "quality": "A dessert apple of great excellence",
+    "storage": "keeps till February.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Described under Caraway Russet, which Lindley (1831) lists as a synonym of Fenouillet Gris; Hogg 1884 has no Fenouillet Gris entry, gives no synonym here, does not mention anise, and calls it oblate where his 1851 Fenouillet Gris is roundish-ovate - so probable only. Hogg's Fenouillet Jaune is a different apple."
+  },
+  "cellini": {
+    "line": 6293, "end": 6307, "heading": "CELLINI", "match": "exact",
+    "flavour": "Flesh, white, tender, very juicy, brisk, and pleasantly flavoured, with a somewhat balsamic aroma.",
+    "quality": "A culinary apple of the first quality",
+    "storage": "in use during October and November.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Originated with Leonard Phillips of Vauxhall; probably from the Nonesuch."
+  },
+  "reinette-rouge-etoilee": {
+    "line": 7904, "end": 7915, "heading": "EARLY RED CALVILLE (Calville Rouge Precoce)", "match": "probable",
+    "flavour": "Flesh, tender, pleasantly acid, but not highly flavoured.",
+    "quality": "A very ornamental apple, whose greatest recommendation is the brilliancy of its colour.",
+    "storage": "It is in use in October and November.",
+    "climate": null,
+    "tags": ["sharp", "mild"], "against": [], "sweet": null, "acid": 3,
+    "note": "Early Red Calville is an aka in our record; brilliant crimson all over with large fawn russet dots, ornamental, Oct-Nov fits the Sternrenette, but Hogg gives no star/Etoilee synonym, so the identity is not certain."
+  },
+  "dutch-mignonne": {
+    "line": 7742, "end": 7764, "heading": "DUTCH MIGNONNE (Christ's Golden Reinette; Copmanthorpe Crab; Reinette de Caux; Stettin Pippin)", "match": "exact",
+    "flavour": "Flesh, yellow, firm, crisp, very juicy, rich, sweet, and aromatic.",
+    "quality": "A very valuable and delicious dessert apple",
+    "storage": "in use from December to April.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Hogg describes Grosse Casseler Reinette (an aka in our record) as a separate small second-rate German apple."
+  },
+  "frogmore-prolific": {
+    "line": 8764, "end": 8781, "heading": "FROGMORE PROLIFIC", "match": "exact",
+    "flavour": "Flesh, white, very tender, juicy, and sweet.",
+    "quality": "Its great merit rests in its cooking qualities, being esteemed one of the finest which is sent into the Royal household at Windsor.",
+    "storage": "In use from September to Christmas.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Raised at Frogmore by Mr. Ingram, the royal gardener. Hogg calls the flesh sweet and says nothing of acidity; our tag is sharp."
+  },
+  "gloria-mundi": {
+    "line": 8887, "end": 8918, "heading": "GLORIA MUNDI (Baltimore; Belle Dubois; Glazenwood Gloria Mundi; Mammoth; Monstrous Pippin; Ox Apple)", "match": "exact",
+    "flavour": "Flesh, white, tender, juicy, and, though not highly flavoured, is an excellent culinary apple.",
+    "quality": "an excellent culinary apple",
+    "storage": "It is in use from October to Christmas.",
+    "climate": null,
+    "tags": ["mild"], "against": [], "sweet": null, "acid": null,
+    "note": "Hogg doubts the American origin: reported raised by Maszman of Hanover in 1805."
+  },
+  "golden-harvey": {
+    "line": 9051, "end": 9078, "heading": "GOLDEN HARVEY (Brandy Apple; Round Russet Harvey)", "match": "exact",
+    "flavour": "Flesh, yellow, firm, crisp, juicy, sugary, with an exceedingly rich and powerful aromatic flavour.",
+    "quality": "one of the richest and most excellent dessert apples",
+    "storage": "in use from December to May, but is very apt to shrivel if exposed to light and air, as most russety apples are.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Also one of the best for cider; juice of specific gravity 1085, hence Brandy Apple. Hogg describes Guernsey Pippin (an aka in our record) as a separate apple."
+  },
+  "holland-pippin": {
+    "line": 10323, "end": 10339, "heading": "HOLLAND PIPPIN", "match": "exact",
+    "flavour": "Flesh, yellowish white, firm, tender, juicy, sweet, and briskly acid.",
+    "quality": "A valuable apple, of first-rate quality for culinary purposes",
+    "storage": "it is in use from November to March.",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 3, "acid": 4,
+    "note": "Hogg: the Holland Pippin of Langley and Miller, a native of the Holland district of Lincolnshire, but NOT the Kirton Pippin of Ray and Austen (which is small and oblate) - this contradicts the Kirton Pippin aka in our record."
+  },
+  "sweet-bough": {
+    "line": 11428, "end": 11437, "heading": "LARGE YELLOW BOUGH (Large Early Yellow Bough; Sweet Bough; Early Bough; Bough; Sweet Harvest)", "match": "synonym",
+    "flavour": "Flesh, white, very tender, crisp, and very juicy, with a rich, sweet, sprightly flavour.",
+    "quality": "A dessert apple of first-rate quality.",
+    "storage": "Ripe in the beginning of August.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null, "note": "Described as Large Yellow Bough."
+  },
+  "lucombes-seedling": {
+    "line": 11902, "end": 11916, "heading": "LUCOMBE'S SEEDLING", "match": "exact",
+    "flavour": "Flesh, white, firm, juicy, and pleasantly flavoured.",
+    "quality": "A culinary apple of first-rate quality",
+    "storage": "in use from October to February.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null, "note": "Raised in the Exeter nursery (Lucombe's)."
+  },
+  "maiden-blush": {
+    "line": 11984, "end": 12001, "heading": "MAIDEN'S BLUSH", "match": "exact",
+    "flavour": "Flesh, white, tender, brisk, and pleasantly acid.",
+    "quality": "A very beautiful culinary apple, but not of first-rate quality",
+    "storage": "it is in use during September and October.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "American apple esteemed round Philadelphia, considered the best for drying; little valued in England."
+  },
+  "manningtons-pearmain": {
+    "line": 12063, "end": 12114, "heading": "MANNINGTON'S PEARMAIN", "match": "exact",
+    "flavour": "Flesh, yellow, firm, crisp, juicy, and very sugary, with a brisk and particularly rich flavour.",
+    "quality": "one of the best and richest flavoured of our dessert apples",
+    "storage": "it comes into use in October and November, and continues in good condition till March.",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 5, "acid": 3,
+    "note": "Mannington advised letting the fruit hang late: 'if gathered too soon, it loses much of its fine richness, and is very apt to shrivel'. Originated about 1770 at Uckfield, Sussex."
+  },
+  "melon": {
+    "line": 12374, "end": 12391, "heading": "MELON APPLE", "match": "exact",
+    "flavour": "Flesh, yellowish white, very tender and crisp, juicy, sweet, and vinous, with a delicate and very agreeable perfume.",
+    "quality": "A first-rate dessert apple",
+    "storage": "in use in December.",
+    "climate": null,
+    "tags": ["sweet", "wine", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Raised at East Bloomfield, New York - Norton's Melon, so the same as our record (not another Melon homonym)."
+  },
+  "nanny": {
+    "line": 12779, "end": 12799, "heading": "NANNY", "match": "exact",
+    "flavour": "Flesh, yellow, rather soft and tender, juicy, sugary, and highly flavoured.",
+    "quality": "A dessert apple of excellent quality, and when in perfection a first-rate fruit",
+    "storage": "it is in use during October, but soon becomes mealy.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Resembles Ribston Pippin in flavour; found about Havant, West Sussex."
+  },
+  "pine-golden-pippin": {
+    "line": 14148, "end": 14164, "heading": "PINE GOLDEN PIPPIN", "match": "exact",
+    "flavour": "Flesh, yellowish white, very tender and juicy, with a fine, sprightly, and distinct pine-apple flavour.",
+    "quality": "One of the best dessert apples",
+    "storage": "in use during October and November.",
+    "climate": null,
+    "tags": ["pineapple"], "against": [], "sweet": null, "acid": null,
+    "note": "Origin untraced; earliest record at Chiswick, sent by Dickson & Son of Hassendean Burn near Hawick."
+  },
+  "potts-seedling": {
+    "line": 14419, "end": 14433, "heading": "POTTS'S SEEDLING", "match": "exact",
+    "flavour": "Flesh, very tender, and pleasantly sub-acid, with all the character of the flesh of Codlins.",
+    "quality": "An excellent early kitchen apple",
+    "storage": "ripe during September and the early part of October.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": 3,
+    "note": "Raised by Samuel Potts, Ashton-under-Lyne, about 1849. Hogg describes Deans' Codlin (an aka in our record) separately: a Jedburgh apple in use November to February, so not the same."
+  },
+  "reinette-du-canada": {
+    "line": 15077, "end": 15094, "heading": "REINETTE DE CANADA (Portugal; St. Helena Russet; Canada Reinette)", "match": "exact",
+    "flavour": "Flesh, yellowish white, firm, juicy, brisk, and highly flavoured.",
+    "quality": "An apple of first-rate quality, either for culinary or dessert use",
+    "storage": "it is in season from November to April.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3, "note": ""
+  },
+  "williams-favourite": {
+    "line": 18137, "end": 18147, "heading": "WILLIAMS' FAVOURITE (Williams' Early; Williams' Red)", "match": "exact",
+    "flavour": "Flesh, white with a greenish tinge, remarkably tender, not very juicy, and with a fine balsamic aroma.",
+    "quality": "A very handsome early cooking apple",
+    "storage": "ripe in the beginning of August.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": null, "note": "Of American origin."
+  },
+  "ortley": {
+    "line": 18501, "end": 18515, "heading": "WOOLMAN'S LONG (Ortley; Van Dyne)", "match": "synonym",
+    "flavour": "Flesh, yellowish, crisp, brittle, juicy, with a rich, brisk, and perfumed flavour.",
+    "quality": "An excellent apple of first-rate quality, suitable either for culinary or dessert use",
+    "storage": "it is in season from December to April.",
+    "climate": null,
+    "tags": ["sharp", "perfumed"], "against": ["mild"], "sweet": null, "acid": 3,
+    "note": "Described as Woolman's Long; originated in New Jersey."
+  }
+}

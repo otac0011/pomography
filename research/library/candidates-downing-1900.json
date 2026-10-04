@@ -2,86 +2,130 @@
  "newtown-pippin": [
   {
    "line": 50943,
-   "page": 1900,
+   "page": 812,
    "score": 1.5,
    "key": "NEWTOWN",
    "text": "Newtown."
   },
   {
    "line": 110,
-   "page": 1900,
+   "page": null,
    "score": 1.3,
    "key": "NEWTOWN PIPPIN",
    "text": "Newtown  Pippin  best  and  most  profitable.  The  Northern  Spy"
   },
   {
    "line": 5013,
-   "page": 1900,
+   "page": 42,
    "score": 1.3,
    "key": "NEWTOWN PIPPIN",
    "text": "Newtown  Pippin  is  now  pretty  generally  admitted  to  be  the  finest  ap-"
   },
   {
    "line": 13507,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "GREEN NEWTOWN",
    "text": "Green  Newtown  Pippin."
   },
   {
    "line": 13546,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "GREEN NEWTOWN",
    "text": "Green  Newtown  Pippin."
   },
   {
    "line": 26337,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "YELLOW NEWTOWN",
    "text": "Yellow  Newtown  Pippin."
   }
  ],
+ "american-summer-pearmain": [
+  {
+   "line": 32143,
+   "page": 503,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  VARIETIES."
+  },
+  {
+   "line": 33623,
+   "page": 514,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "AMERICAN  GRAPES."
+  },
+  {
+   "line": 6708,
+   "page": 85,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American,  small,  conical,  yellow,  striped  with  red.  Flesh  white,"
+  },
+  {
+   "line": 13342,
+   "page": 170,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American.  Large,  yellowish,  tinged  with  red,  juicy,  acid,  cooking."
+  },
+  {
+   "line": 38671,
+   "page": 608,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American."
+  },
+  {
+   "line": 56339,
+   "page": 901,
+   "score": 1.5,
+   "key": "AMERICAN",
+   "text": "American.  Tree  productive.  Branches  smooth  or  slightly  downy,"
+  }
+ ],
  "arbroath-pippin": [
   {
    "line": 12995,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "BURR KNOT",
    "text": "Burr  Knot."
   },
   {
    "line": 19108,
-   "page": 1900,
+   "page": 296,
    "score": 1.3,
    "key": "ARBROATH PIPPIN",
    "text": "Arbroath  Pippin."
   },
   {
    "line": 847,
-   "page": 1900,
+   "page": null,
    "score": 1.0,
    "key": "ORIGINAL",
    "text": "original  edition  has  been  retained,  and,  so  far  as  known,  I  have  con-"
   },
   {
    "line": 1526,
-   "page": 1900,
+   "page": 1,
    "score": 1.0,
    "key": "ORIGINAL",
    "text": "original  species.  When  they  come  into  bearing,  it  is  probable  we  shall"
   },
   {
    "line": 38834,
-   "page": 1900,
+   "page": 613,
    "score": 1.0,
    "key": "ORIGINAL",
    "text": "original  tree  stood  in  the  garden  of  Mi*.  Gill,  Broad  Street,  New  York."
   },
   {
    "line": 68876,
-   "page": 1900,
+   "page": 1031,
    "score": 1.0,
    "key": "ORIGINAL",
    "text": "Original  Nonpareil 288"
@@ -90,86 +134,130 @@
  "ralls-janet": [
   {
    "line": 11494,
-   "page": 1900,
+   "page": 164,
    "score": 1.5,
    "key": "NEVERFAIL",
    "text": "Neverfail."
   },
   {
    "line": 17243,
-   "page": 1900,
+   "page": 258,
    "score": 1.5,
    "key": "NEVERFAIL",
    "text": "Neverfail.  Munche's  Pippin."
   },
   {
    "line": 58009,
-   "page": 1900,
+   "page": 921,
    "score": 1.5,
    "key": "JEFFERSON",
    "text": "Jefferson."
   },
   {
    "line": 58050,
-   "page": 1900,
+   "page": 921,
    "score": 1.5,
    "key": "JEFFERSON",
    "text": "Jefferson."
   },
   {
    "line": 60155,
-   "page": 1900,
+   "page": 951,
    "score": 1.5,
    "key": "JEFFERSON",
    "text": "Jefferson.     Table  and  market."
   },
   {
    "line": 68575,
-   "page": 1900,
+   "page": 1028,
    "score": 1.5,
    "key": "NEVERFAIL",
    "text": "Neverfail 166,"
   }
  ],
+ "chenango": [
+  {
+   "line": 61593,
+   "page": 959,
+   "score": 3.0,
+   "key": "STRAWBERRY",
+   "text": "STRAWBERRY    BLOSSOM&"
+  },
+  {
+   "line": 1893,
+   "page": 1,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry,  of  the  gourd  or  melon  family,  intermix  with  the  greatest"
+  },
+  {
+   "line": 21333,
+   "page": 329,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry.  Wine.  Dirck's  Graft."
+  },
+  {
+   "line": 40100,
+   "page": 613,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry."
+  },
+  {
+   "line": 77009,
+   "page": 1060,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry"
+  },
+  {
+   "line": 86860,
+   "page": 1098,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry,  history  and  uses,  974 ;  pro-"
+  }
+ ],
  "baldwin": [
   {
    "line": 6540,
-   "page": 1900,
+   "page": 78,
    "score": 1.5,
    "key": "WOODPECKER",
    "text": "Woodpecker."
   },
   {
    "line": 6546,
-   "page": 1900,
+   "page": 78,
    "score": 1.5,
    "key": "BALDWIN",
    "text": "Baldwin."
   },
   {
    "line": 6557,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "BUTTERS",
    "text": "Butters."
   },
   {
    "line": 6580,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "BALDWIN",
    "text": "Baldwin."
   },
   {
    "line": 6862,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "BALDWIN",
    "text": "Baldwin,  very  productive."
   },
   {
    "line": 26841,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "BALDWIN",
    "text": "Baldwin.     Table  and  market."
@@ -178,42 +266,42 @@
  "rhode-island-greening": [
   {
    "line": 13466,
-   "page": 1900,
+   "page": 170,
    "score": 1.5,
    "key": "GREENING",
    "text": "Greening."
   },
   {
    "line": 19039,
-   "page": 1900,
+   "page": 296,
    "score": 1.3,
    "key": "JERSEY GREENING",
    "text": "Jersey  Greening."
   },
   {
    "line": 21265,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RHODE ISLAND GREENING",
    "text": "Rhode  Island  Greening."
   },
   {
    "line": 21267,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "BURLINGTON GREENING",
    "text": "Burlington  Greening.  Russine.  Bell  Dubois,"
   },
   {
    "line": 21269,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "JERSEY GREENING",
    "text": "Jersey  Greening.  Grunting  von  Rhode  Island ."
   },
   {
    "line": 21285,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RHODE ISLAND GREENING",
    "text": "Rhode  Island  Greening."
@@ -222,42 +310,42 @@
  "adams-pearmain": [
   {
    "line": 18575,
-   "page": 1900,
+   "page": 286,
    "score": 1.5,
    "key": "NORFOLK",
    "text": "Norfolk."
   },
   {
    "line": 68645,
-   "page": 1900,
+   "page": 1028,
    "score": 1.5,
    "key": "NORFOLK",
    "text": "Norfolk"
   },
   {
    "line": 5881,
-   "page": 1900,
+   "page": 42,
    "score": 1.3,
    "key": "ADAMS PEARMAIN",
    "text": "Adams  Pearmain."
   },
   {
    "line": 5882,
-   "page": 1900,
+   "page": 42,
    "score": 1.3,
    "key": "NORFOLK PIPPIN",
    "text": "Norfolk  Pippin.  Matchless."
   },
   {
    "line": 64021,
-   "page": 1900,
+   "page": 989,
    "score": 1.3,
    "key": "ADAMS PEARMAIN",
    "text": "Adams  Pearmain. 73"
   },
   {
    "line": 68729,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "NORFOLK PIPPIN",
    "text": "Norfolk  Pippin 73"
@@ -266,86 +354,174 @@
  "emperor-alexander": [
   {
    "line": 5942,
-   "page": 1900,
+   "page": 42,
    "score": 1.5,
    "key": "ALEXANDER",
    "text": "Alexander."
   },
   {
    "line": 41526,
-   "page": 1900,
+   "page": 653,
    "score": 1.5,
    "key": "ALEXANDER",
    "text": "Alexander."
   },
   {
    "line": 77216,
-   "page": 1900,
+   "page": 1060,
    "score": 1.5,
    "key": "ALEXANDER",
    "text": "Alexander"
   },
   {
    "line": 5944,
-   "page": 1900,
+   "page": 42,
    "score": 1.3,
    "key": "EMPEROR ALEXANDER",
    "text": "Emperor  Alexander.  Russian  Emperor.     Aporta."
   },
   {
    "line": 64043,
-   "page": 1900,
+   "page": 989,
    "score": 1.0,
    "key": "ALEXANDER",
    "text": "Alexander 74"
   },
   {
    "line": 88894,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "ALEXANDER",
    "text": "'     Alexander."
   }
  ],
+ "alfriston": [
+  {
+   "line": 5956,
+   "page": 42,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston."
+  },
+  {
+   "line": 64045,
+   "page": 989,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston. 74"
+  },
+  {
+   "line": 5960,
+   "page": 42,
+   "score": 1.3,
+   "key": "SHEPHERDS PIPPIN",
+   "text": "Shepherd's  Pippin.  Baltimore,  incorrectly."
+  },
+  {
+   "line": 70495,
+   "page": 1033,
+   "score": 1.3,
+   "key": "SHEPHERDS PIPPIN",
+   "text": "Shepherd's  Pippin"
+  },
+  {
+   "line": 22400,
+   "page": 347,
+   "score": 1.0,
+   "key": "SHEPHERDS",
+   "text": "Shepherd's  Fame."
+  },
+  {
+   "line": 70493,
+   "page": 1033,
+   "score": 1.0,
+   "key": "SHEPHERDS",
+   "text": "Shepherd's  Fame"
+  }
+ ],
+ "american-golden-pippin": [
+  {
+   "line": 6044,
+   "page": 42,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "American  Golden  Pippin."
+  },
+  {
+   "line": 6065,
+   "page": 42,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "American  Golden  Pippin."
+  },
+  {
+   "line": 6073,
+   "page": 42,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  Russet."
+  },
+  {
+   "line": 6098,
+   "page": 42,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  Russet."
+  },
+  {
+   "line": 26835,
+   "page": 421,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN PIPPIN",
+   "text": "American  Golden  Pippin.     Table  and  market."
+  },
+  {
+   "line": 26837,
+   "page": 421,
+   "score": 1.3,
+   "key": "AMERICAN GOLDEN",
+   "text": "American  Golden  Russet.     Table."
+  }
+ ],
  "golden-russet": [
   {
    "line": 6075,
-   "page": 1900,
+   "page": 42,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "Golden  Russet.         Bullock's  Pippin."
   },
   {
    "line": 13207,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "Golden  Russet."
   },
   {
    "line": 13226,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "Golden  Russet,  of  Massachusetts."
   },
   {
    "line": 19509,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "Golden  Russet."
   },
   {
    "line": 52163,
-   "page": 1900,
+   "page": 827,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "golden  russet.     Flesh  juicy.     Good.     January.     (Hort.)"
   },
   {
    "line": 66546,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
    "key": "GOLDEN RUSSET",
    "text": "Golden  Russet [..   196"
@@ -354,42 +530,42 @@
  "kerry-pippin": [
   {
    "line": 6284,
-   "page": 1900,
+   "page": 78,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.     November,  December.     (Hogg.)"
   },
   {
    "line": 6487,
-   "page": 1900,
+   "page": 78,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.     Core  large.     Nearly  very  good.     September  and  October."
   },
   {
    "line": 6921,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.      Core  medium.     Very  good.     October."
   },
   {
    "line": 8907,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.     Good  to  very  good.     September  and  October."
   },
   {
    "line": 9183,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.     November,  December.     (Lind.)"
   },
   {
    "line": 9240,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "AROMATIC",
    "text": "aromatic.     Good  to  very  good.     November,  February."
@@ -398,21 +574,21 @@
  "aromatic-russet": [
   {
    "line": 6215,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "AROMATIC RUSSET",
    "text": "Aromatic  Russet."
   },
   {
    "line": 18862,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "SPICE APPLE",
    "text": "Spice  Apple  of  some"
   },
   {
    "line": 64124,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "AROMATIC RUSSET",
    "text": "Aromatic  Russet 79"
@@ -421,14 +597,14 @@
  "ashmeads-kernel": [
   {
    "line": 6239,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "ASHMEADS KERNEL",
    "text": "Ashmead's  Kernel."
   },
   {
    "line": 64130,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "ASHMEADS KERNEL",
    "text": "Ashmead's  Kernel 80"
@@ -437,35 +613,35 @@
  "autumn-pearmain": [
   {
    "line": 6335,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn  Pearmain."
   },
   {
    "line": 64172,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn  Pearmain 81"
   },
   {
    "line": 88903,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn  Pearmain."
   },
   {
    "line": 88907,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn  Pearmain."
   },
   {
    "line": 88931,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "AUTUMN PEARMAIN",
    "text": "Autumn  Pearmain."
@@ -474,58 +650,102 @@
  "winter-pearmain": [
   {
    "line": 6337,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain."
   },
   {
    "line": 23160,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain  of  some.  Missouri  Keeper  ?"
   },
   {
    "line": 26011,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain."
   },
   {
    "line": 87951,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain 2"
   },
   {
    "line": 88802,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "' '     Winter  Pearmain '"
   },
   {
    "line": 91499,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain.  ly.  Russam."
   }
  ],
+ "autumn-bough": [
+  {
+   "line": 6379,
+   "page": 78,
+   "score": 1.3,
+   "key": "AUTUMN SWEET BOUGH",
+   "text": "Autumn  Sweet  Bough."
+  },
+  {
+   "line": 6381,
+   "page": 78,
+   "score": 1.3,
+   "key": "LATE BOUGH",
+   "text": "Late  Bough.  Sweet  Bellflower."
+  },
+  {
+   "line": 6383,
+   "page": 78,
+   "score": 1.3,
+   "key": "FALL BOUGH",
+   "text": "Fall  Bough.  Philadelphia  Sweet."
+  },
+  {
+   "line": 6385,
+   "page": 78,
+   "score": 1.3,
+   "key": "WHITE SUGAR",
+   "text": "White  Sugar  ?"
+  },
+  {
+   "line": 23780,
+   "page": 368,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet  Bellflower."
+  },
+  {
+   "line": 23790,
+   "page": 368,
+   "score": 1.3,
+   "key": "SWEET BELLFLOWER",
+   "text": "Sweet  Bellflower  of  Wyandot  County."
+  }
+ ],
  "darcy-spice": [
   {
    "line": 6461,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "BADDOW PIPPIN",
    "text": "Baddow  Pippin."
   },
   {
    "line": 64206,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BADDOW PIPPIN",
    "text": "Baddow  Pippin 83"
@@ -534,42 +754,42 @@
  "claygate-pearmain": [
   {
    "line": 65122,
-   "page": 1900,
+   "page": 1017,
    "score": 1.3,
    "key": "CLAYGATE PEARMAIN",
    "text": "Claygate  Pearmain 1 28"
   },
   {
    "line": 6463,
-   "page": 1900,
+   "page": 78,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin,  Spring."
   },
   {
    "line": 21305,
-   "page": 1900,
+   "page": 329,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin."
   },
   {
    "line": 21320,
-   "page": 1900,
+   "page": 329,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin."
   },
   {
    "line": 26990,
-   "page": 1900,
+   "page": 421,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin.     Table  and  market,  North."
   },
   {
    "line": 69986,
-   "page": 1900,
+   "page": 1033,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin"
@@ -578,74 +798,150 @@
  "ribston-pippin": [
   {
    "line": 6463,
-   "page": 1900,
+   "page": 78,
    "score": 1.3,
    "key": "RIBSTON PIPPIN",
    "text": "Ribston  Pippin,  Spring."
   },
   {
    "line": 21305,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RIBSTON PIPPIN",
    "text": "Ribston  Pippin."
   },
   {
    "line": 21306,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "GLORY OF YORK",
    "text": "Glory  of  York.         Travers'.         Formosa  Pippin.         Rockhill's  Russet"
   },
   {
    "line": 21320,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RIBSTON PIPPIN",
    "text": "Ribston  Pippin."
   },
   {
    "line": 26990,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "RIBSTON PIPPIN",
    "text": "Ribston  Pippin.     Table  and  market,  North."
   },
   {
    "line": 66209,
-   "page": 1900,
+   "page": 1021,
    "score": 1.3,
    "key": "FORMOSA PIPPIN",
    "text": "Formosa  Pippin"
   }
  ],
+ "bailey": [
+  {
+   "line": 6489,
+   "page": 78,
+   "score": 1.3,
+   "key": "BAILEYS SWEET",
+   "text": "Bailey's   Sweet."
+  },
+  {
+   "line": 64216,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BAILEYS SWEET",
+   "text": "Bailey's  Sweet 84"
+  },
+  {
+   "line": 67092,
+   "page": 1024,
+   "score": 1.3,
+   "key": "HOWARDS SWEET",
+   "text": "Howard's  Sweet ,"
+  }
+ ],
  "esopus-spitzenburg": [
   {
    "line": 6567,
-   "page": 1900,
+   "page": 85,
    "score": 1.3,
    "key": "ESOPUS SPITZENBERG",
    "text": "Esopus  Spitzenberg,  and  deserves  its  extensive  popularity."
   },
   {
    "line": 11375,
-   "page": 1900,
+   "page": 164,
    "score": 1.3,
    "key": "ESOPUS SPITZENBERG",
    "text": "Esopus  Spitzenberg.  iEsopus  Spitzenburg."
   }
  ],
+ "fallawater": [
+  {
+   "line": 6633,
+   "page": 85,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater."
+  },
+  {
+   "line": 11542,
+   "page": 164,
+   "score": 1.5,
+   "key": "FALLAWATER",
+   "text": "Fallawater."
+  },
+  {
+   "line": 11548,
+   "page": 164,
+   "score": 1.5,
+   "key": "TULPEHOCKEN",
+   "text": "Tulpehocken.  Mountain  Pippin.  Molly  Whopper."
+  },
+  {
+   "line": 64686,
+   "page": 1016,
+   "score": 1.0,
+   "key": "BRUBACKER",
+   "text": "Brubacker 167"
+  }
+ ],
+ "baxters-pearmain": [
+  {
+   "line": 64289,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter's  Pearmain ...    89"
+  },
+  {
+   "line": 6777,
+   "page": 85,
+   "score": 1.0,
+   "key": "BAXTERS",
+   "text": "Baxter's   Pearmaist."
+  },
+  {
+   "line": 39111,
+   "page": 613,
+   "score": 1.0,
+   "key": "BAXTERS",
+   "text": "Baxter's  Seedling,  No.  1.  Irish  Jane."
+  }
+ ],
  "beauty-of-kent": [
   {
    "line": 6818,
-   "page": 1900,
+   "page": 85,
    "score": 1.3,
    "key": "BEAUTY OF KENT",
    "text": "Beauty  of  Kent."
   },
   {
    "line": 64313,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BEAUTY OF KENT",
    "text": "Beauty  of  Kent     .       89"
@@ -654,42 +950,42 @@
  "yellow-bellflower": [
   {
    "line": 29681,
-   "page": 1900,
+   "page": 467,
    "score": 1.5,
    "key": "LINCOLN",
    "text": "Lincoln."
   },
   {
    "line": 34019,
-   "page": 1900,
+   "page": 529,
    "score": 1.5,
    "key": "LINCOLN",
    "text": "Lincoln.  Sherry.  McLean."
   },
   {
    "line": 39329,
-   "page": 1900,
+   "page": 613,
    "score": 1.5,
    "key": "LINCOLN",
    "text": "Lincoln."
   },
   {
    "line": 76596,
-   "page": 1900,
+   "page": 1058,
    "score": 1.5,
    "key": "LINCOLN",
    "text": "Lincoln"
   },
   {
    "line": 93254,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "LINCOLN",
    "text": "Lincoln-  Pippin."
   },
   {
    "line": 26102,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "LINCOLN PIPPIN",
    "text": "Lincoln  Pippin.  Howe  Apple."
@@ -698,86 +994,130 @@
  "manks-codlin": [
   {
    "line": 6971,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "BELMONT",
    "text": "Belmont"
   },
   {
    "line": 6984,
-   "page": 1900,
+   "page": 85,
    "score": 1.5,
    "key": "BELMONT",
    "text": "Belmont."
   },
   {
    "line": 26845,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "BELMONT",
    "text": "Belmont.     Table."
   },
   {
    "line": 42349,
-   "page": 1900,
+   "page": 666,
    "score": 1.5,
    "key": "BELMONT",
    "text": "Belmont."
   },
   {
    "line": 77589,
-   "page": 1900,
+   "page": 1062,
    "score": 1.5,
    "key": "BELMONT",
    "text": "Belmont"
   },
   {
    "line": 17173,
-   "page": 1900,
+   "page": 258,
    "score": 1.3,
    "key": "MANKS CODLIN",
    "text": "Mank's  Codlin."
   }
  ],
+ "detroit-red": [
+  {
+   "line": 9065,
+   "page": 124,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  few  gray  dots.  Stalk  short,  slender.  Cavity  narrow,  rather"
+  },
+  {
+   "line": 10213,
+   "page": 124,
+   "score": 1.5,
+   "key": "DETROIT",
+   "text": "Detroit.  Black  Apple  of  some.  Large  Black."
+  },
+  {
+   "line": 10249,
+   "page": 124,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  sprinkled  with  numerous  gveen  dots.  Flesh  nearly  white,"
+  },
+  {
+   "line": 11276,
+   "page": 157,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson.  Stalk  rather  long.  Calyx  open.  Flesh  yellow,  crisp,  juicy,"
+  },
+  {
+   "line": 12031,
+   "page": 170,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson.  Flesh  yellowish,  crisp,  juicy,  pleasant,  mild  subacid,  half  spicy"
+  },
+  {
+   "line": 12253,
+   "page": 170,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson,  and  many  large  light  dots.  Stalk  rather  short.  Cavity  deep,"
+  }
+ ],
  "ben-davis": [
   {
    "line": 7020,
-   "page": 1900,
+   "page": 85,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "Ben  Davis."
   },
   {
    "line": 26847,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "Ben  Davis.     Market,  South  and  Southwest."
   },
   {
    "line": 64392,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "Ben  Davis 93"
   },
   {
    "line": 88670,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "Ben  Davis."
   },
   {
    "line": 88678,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "\"  Ben  Davis."
   },
   {
    "line": 88714,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "'•  Ben  Davis."
@@ -786,35 +1126,35 @@
  "fiesta": [
   {
    "line": 7027,
-   "page": 1900,
+   "page": 85,
    "score": 1.3,
    "key": "RED PIPPIN",
    "text": "Red  Pippin.  Carolina  Red  Streak."
   },
   {
    "line": 18458,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "RED PIPPIN",
    "text": "Red  Pippin."
   },
   {
    "line": 23083,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "RED PIPPIN",
    "text": "Red  Pippin.  Hempstead.  Quaker  of  some."
   },
   {
    "line": 69658,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "RED PIPPIN",
    "text": "Red  Pippin 93,  235,  286,"
   },
   {
    "line": 87749,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "RED PIPPIN",
    "text": "Red  Pippin 55"
@@ -823,58 +1163,111 @@
  "bess-pool": [
   {
    "line": 7123,
-   "page": 1900,
+   "page": 85,
    "score": 1.3,
    "key": "BESS POOL",
    "text": "Bess,  Pool."
   },
   {
    "line": 64416,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BESS POOL",
    "text": "Bess  Pool 95"
   }
  ],
+ "black-oxford": [
+  {
+   "line": 7269,
+   "page": 96,
+   "score": 1.3,
+   "key": "BLACK OXFORD",
+   "text": "Black  Oxford."
+  },
+  {
+   "line": 64480,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BLACK OXFORD",
+   "text": "Black  Oxford 98"
+  }
+ ],
+ "jersey-black": [
+  {
+   "line": 7309,
+   "page": 96,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple."
+  },
+  {
+   "line": 64462,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BLACK AMERICAN",
+   "text": "Black  American 99"
+  },
+  {
+   "line": 64466,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple 99"
+  },
+  {
+   "line": 64468,
+   "page": 1014,
+   "score": 1.3,
+   "key": "BLACK APPLE",
+   "text": "Black  Apple  144"
+  },
+  {
+   "line": 67333,
+   "page": 1025,
+   "score": 1.3,
+   "key": "JERSEY BLACK",
+   "text": "Jersey  Black. 99"
+  }
+ ],
  "sheepnose": [
   {
    "line": 22220,
-   "page": 1900,
+   "page": 347,
    "score": 1.5,
    "key": "GILLIFLOWER",
    "text": "Gilliflower.     Origin  unknown."
   },
   {
    "line": 22376,
-   "page": 1900,
+   "page": 347,
    "score": 1.5,
    "key": "SHEEPNOSE",
    "text": "Sheepnose."
   },
   {
    "line": 70485,
-   "page": 1900,
+   "page": 1033,
    "score": 1.5,
    "key": "SHEEPNOSE",
    "text": "Sheepnose"
   },
   {
    "line": 87836,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "SHEEPNOSE",
    "text": "Sheepnose 52,  53-55"
   },
   {
    "line": 91297,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "SHEEPNOSE",
    "text": "Sheepnose.  Fox  Sheepnose."
   },
   {
    "line": 7321,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "BLACK GILLIFLOWER",
    "text": "Black  Gilliflower."
@@ -883,42 +1276,42 @@
  "blenheim-orange": [
   {
    "line": 7374,
-   "page": 1900,
+   "page": 96,
    "score": 1.5,
    "key": "BLENHEIM",
    "text": "Blenheim.  Blenheim  Orange.  Woodstock  Pippin."
   },
   {
    "line": 55076,
-   "page": 1900,
+   "page": 881,
    "score": 1.5,
    "key": "WOODSTOCK",
    "text": "Woodstock."
   },
   {
    "line": 83265,
-   "page": 1900,
+   "page": 1082,
    "score": 1.5,
    "key": "WOODSTOCK",
    "text": "Woodstock. 886"
   },
   {
    "line": 87074,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "BLENHEIM",
    "text": "Blenheim.  Orange 3"
   },
   {
    "line": 7372,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "BLENHEIM PIPPIN",
    "text": "Blenheim  Pippin."
   },
   {
    "line": 64511,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BLENHEIM ORANGE",
    "text": "Blenheim  Orange 100"
@@ -927,14 +1320,14 @@
  "blue-pearmain": [
   {
    "line": 7450,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "BLUE PEARMAIN",
    "text": "Blue  Pearmain."
   },
   {
    "line": 64531,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BLUE PEARMAIN",
    "text": "Blue  Pearmain 101"
@@ -943,35 +1336,35 @@
  "magnum-bonum": [
   {
    "line": 7501,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum."
   },
   {
    "line": 60016,
-   "page": 1900,
+   "page": 951,
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum."
   },
   {
    "line": 60081,
-   "page": 1900,
+   "page": 951,
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum.  The  fruit  is  precisely  similar  in  appearance  and  quality,  though"
   },
   {
    "line": 61099,
-   "page": 1900,
+   "page": 959,
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum."
   },
   {
    "line": 85483,
-   "page": 1900,
+   "page": 1091,
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum 970"
@@ -980,58 +1373,146 @@
  "braddick-nonpareil": [
   {
    "line": 7652,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "BRADDICKS NONPAREIL",
    "text": "Braddick's  Nonpareil."
   },
   {
    "line": 64589,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BRADDICKS NONPAREIL",
    "text": "Braddick's  Nonpareil 104"
   }
  ],
+ "reinette-du-canada": [
+  {
+   "line": 8333,
+   "page": 96,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette."
+  },
+  {
+   "line": 8341,
+   "page": 96,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada  Blanche.  Wahr  Reinette."
+  },
+  {
+   "line": 8345,
+   "page": 96,
+   "score": 1.3,
+   "key": "REINETTE DU CANADA",
+   "text": "Reinette  du  Canada  a  Cortes."
+  },
+  {
+   "line": 8377,
+   "page": 96,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette."
+  },
+  {
+   "line": 13646,
+   "page": 202,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette  Gris."
+  },
+  {
+   "line": 26863,
+   "page": 421,
+   "score": 1.3,
+   "key": "CANADA REINETTE",
+   "text": "Canada  Reinette.     Table  and  market."
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 8426,
+   "page": 96,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet."
+  },
+  {
+   "line": 11960,
+   "page": 170,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  Gris."
+  },
+  {
+   "line": 66043,
+   "page": 1021,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  Gris"
+  },
+  {
+   "line": 11965,
+   "page": 170,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Jaune."
+  },
+  {
+   "line": 11973,
+   "page": 170,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Rouge."
+  },
+  {
+   "line": 66045,
+   "page": 1021,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Jaune"
+  }
+ ],
  "caroline": [
   {
    "line": 8489,
-   "page": 1900,
+   "page": 96,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline."
   },
   {
    "line": 8498,
-   "page": 1900,
+   "page": 96,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline."
   },
   {
    "line": 8509,
-   "page": 1900,
+   "page": 96,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline."
   },
   {
    "line": 18442,
-   "page": 1900,
+   "page": 286,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline."
   },
   {
    "line": 28876,
-   "page": 1900,
+   "page": 456,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline."
   },
   {
    "line": 64940,
-   "page": 1900,
+   "page": 1017,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline 286,  402"
@@ -1040,42 +1521,42 @@
  "early-harvest": [
   {
    "line": 8534,
-   "page": 1900,
+   "page": 96,
    "score": 1.3,
    "key": "EARLY HARVEST",
    "text": "Early  Harvest,  not  equal  to  it  in  flavor,  but  more  profitable  as  an  orchard"
   },
   {
    "line": 10771,
-   "page": 1900,
+   "page": 153,
    "score": 1.3,
    "key": "EARLY HARVEST",
    "text": "Early  Harvest."
   },
   {
    "line": 10774,
-   "page": 1900,
+   "page": 153,
    "score": 1.3,
    "key": "JULY PIPPIN",
    "text": "July  Pippin.  Tart  Bough."
   },
   {
    "line": 10776,
-   "page": 1900,
+   "page": 153,
    "score": 1.3,
    "key": "YELLOW HARVEST",
    "text": "Yellow  Harvest.  Early  French  Reinette."
   },
   {
    "line": 10802,
-   "page": 1900,
+   "page": 154,
    "score": 1.3,
    "key": "EARLY HARVEST",
    "text": "Early  Harvest."
   },
   {
    "line": 23433,
-   "page": 1900,
+   "page": 368,
    "score": 1.3,
    "key": "TART BOUGH",
    "text": "Tart  Bough."
@@ -1084,65 +1565,199 @@
  "catshead": [
   {
    "line": 8682,
-   "page": 1900,
+   "page": 96,
    "score": 1.5,
    "key": "CATSHEAD",
    "text": "Catshead."
   },
   {
    "line": 11658,
-   "page": 1900,
+   "page": 169,
    "score": 1.5,
    "key": "CATHEAD",
    "text": "Cathead,  incorrectly."
   },
   {
    "line": 64978,
-   "page": 1900,
+   "page": 1017,
    "score": 1.5,
    "key": "CATHEAD",
    "text": "Cathead 169,  324"
   },
   {
    "line": 18330,
-   "page": 1900,
+   "page": 269,
    "score": 1.3,
    "key": "CATS HEAD",
    "text": "Cat's  Head."
   },
   {
    "line": 64974,
-   "page": 1900,
+   "page": 1017,
    "score": 1.3,
    "key": "CATS HEAD",
    "text": "Cat's  Head 285"
   },
   {
    "line": 8663,
-   "page": 1900,
+   "page": 96,
    "score": 1.0,
    "key": "CATHEAD",
    "text": "Cathead  Sweet."
   }
  ],
+ "cellini": [
+  {
+   "line": 8740,
+   "page": 96,
+   "score": 1.5,
+   "key": "CELLINI",
+   "text": "Cellini."
+  },
+  {
+   "line": 19549,
+   "page": 301,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillips'  Sweet."
+  },
+  {
+   "line": 65006,
+   "page": 1017,
+   "score": 1.0,
+   "key": "CELLINI",
+   "text": "Cellini 122"
+  },
+  {
+   "line": 69057,
+   "page": 1031,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillips'  Sweet 303"
+  }
+ ],
+ "pumpkin-sweet": [
+  {
+   "line": 8838,
+   "page": 96,
+   "score": 1.3,
+   "key": "PUMPKIN SWEET",
+   "text": "Pumpkin  Sweet  of  some.         Kingsbury  Russet."
+  },
+  {
+   "line": 20011,
+   "page": 301,
+   "score": 1.3,
+   "key": "POUND SWEET",
+   "text": "Pound  Sweet."
+  },
+  {
+   "line": 20331,
+   "page": 315,
+   "score": 1.3,
+   "key": "PUMPKIN SWEET",
+   "text": "Pumpkin  Sweet."
+  },
+  {
+   "line": 20332,
+   "page": 315,
+   "score": 1.3,
+   "key": "VERMONT PUMPKIN SWEET",
+   "text": "Vermont  Pumpkin  Sweet.         Lyman's  Pumpkin  Sweet.         Pound  Sweet"
+  },
+  {
+   "line": 68011,
+   "page": 1027,
+   "score": 1.3,
+   "key": "LYMANS PUMPKIN SWEET",
+   "text": "Lyman's  Pumpkin  Sweet 317"
+  },
+  {
+   "line": 69289,
+   "page": 1031,
+   "score": 1.3,
+   "key": "POUND SWEET",
+   "text": "Pound  Sweet"
+  }
+ ],
+ "clarke-pearmain": [
+  {
+   "line": 9079,
+   "page": 124,
+   "score": 1.3,
+   "key": "CLARKE PEARMAIN",
+   "text": "Clarke  Pearmain."
+  },
+  {
+   "line": 9081,
+   "page": 124,
+   "score": 1.3,
+   "key": "YELLOW PEARMAIN",
+   "text": "Yellow  Pearmain.  Columbian  Russet."
+  },
+  {
+   "line": 9083,
+   "page": 124,
+   "score": 1.3,
+   "key": "GLOUCESTER PEARMAIN",
+   "text": "Gloucester  Pearmain.  Golden  Pearmain."
+  },
+  {
+   "line": 13065,
+   "page": 170,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain."
+  },
+  {
+   "line": 65118,
+   "page": 1017,
+   "score": 1.3,
+   "key": "CLARKE PEARMAIN",
+   "text": "Clarke  Pearmain. 127"
+  },
+  {
+   "line": 66493,
+   "page": 1022,
+   "score": 1.3,
+   "key": "GLOUCESTER PEARMAIN",
+   "text": "Gloucester  Pearmain 127"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 9191,
+   "page": 124,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee."
+  },
+  {
+   "line": 65158,
+   "page": 1017,
+   "score": 1.0,
+   "key": "COCCAGEE",
+   "text": "Coccagee 129"
+  }
+ ],
  "cockle-pippin": [
   {
    "line": 9199,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "COCKLE PIPPIN",
    "text": "Cockle  Pippin."
   },
   {
    "line": 64670,
-   "page": 1900,
+   "page": 1016,
    "score": 1.3,
    "key": "BROWN COCKLE",
    "text": "Brown  Cockle 129"
   },
   {
    "line": 65160,
-   "page": 1900,
+   "page": 1017,
    "score": 1.3,
    "key": "COCKLE PIPPIN",
    "text": "Cockle  Pippin         129"
@@ -1151,35 +1766,35 @@
  "costard": [
   {
    "line": 9297,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "PRUSSIAN",
    "text": "Prussian."
   },
   {
    "line": 9502,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "COSTARD",
    "text": "Costard."
   },
   {
    "line": 9504,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "COULTHARD",
    "text": "Coulthard.  Prussian  Pippin."
   },
   {
    "line": 69449,
-   "page": 1900,
+   "page": 1031,
    "score": 1.0,
    "key": "PRUSSIAN",
    "text": "Prussian 131"
   },
   {
    "line": 69451,
-   "page": 1900,
+   "page": 1031,
    "score": 1.0,
    "key": "PRUSSIAN",
    "text": "Prussian  Pijyjnn 1 34"
@@ -1188,14 +1803,14 @@
  "cornish-aromatic": [
   {
    "line": 9452,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "CORNISH AROMATIC",
    "text": "Cornish  Aromatic."
   },
   {
    "line": 65267,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "CORNISH AROMATIC",
    "text": "Cornish  Aromatic 133"
@@ -1204,28 +1819,28 @@
  "cornish-gilliflower": [
   {
    "line": 9460,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "CORNISH GILLIFLOWER",
    "text": "Cornish  Gilliflower."
   },
   {
    "line": 9462,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "CORNISH JULY FLOWER",
    "text": "Cornish  July-flower.  Pomme  Regelans.  Red  Gilliflower  f"
   },
   {
    "line": 9464,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "CALVILLE DANGLETERRE",
    "text": "Calville  d'Angleterre.  Cornwallisser.  Nelken  Apfel."
   },
   {
    "line": 65269,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "CORNISH GILLIFLOWER",
    "text": "Cornish  Gilliflower 133"
@@ -1234,42 +1849,42 @@
  "court-pendu-plat": [
   {
    "line": 9548,
-   "page": 1900,
+   "page": 124,
    "score": 1.8,
    "key": "COURT PENDU",
    "text": "Court-pendu.  Court-pendu  MuBque\\"
   },
   {
    "line": 65295,
-   "page": 1900,
+   "page": 1018,
    "score": 1.8,
    "key": "COURT PENDU",
    "text": "Court-pendu 13-1"
   },
   {
    "line": 9538,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "COURT PENDU",
    "text": "Court  Pendu  de  Tournay."
   },
   {
    "line": 9546,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
-   "key": "COURT PENDU",
+   "key": "COURT PENDU PLAT",
    "text": "Court  Pendu  Plat."
   },
   {
    "line": 9549,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
-   "key": "COURT PENDU",
+   "key": "COURT PENDU PLAT",
    "text": "Court-pendu  plat  rougeatre.  Rouge  Musque\\"
   },
   {
    "line": 9553,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "GARNONS APPLE",
    "text": "Garnon's  Apple.  Pomme  de  Berlin."
@@ -1278,28 +1893,28 @@
  "orleans-reinette": [
   {
    "line": 9540,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "REINETTE DORLEANS",
    "text": "Reinette  d'Orleans."
   },
   {
    "line": 18984,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "ORLEANS REINETTE",
    "text": "Orleans  Reinette."
   },
   {
    "line": 18986,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "REINETTE DORLEANS",
    "text": "Reinette  d'Orleans."
   },
   {
    "line": 68878,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "ORLEANS REINETTE",
    "text": "Orleans  Reinette 295"
@@ -1308,30 +1923,30 @@
  "coxs-orange-pippin": [
   {
    "line": 9616,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's  Orange  Pippin."
   },
   {
    "line": 65328,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's  Orange  Pippin 135"
   }
  ],
  "coxs-pomona": [
   {
    "line": 9626,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "COXS POMONA",
    "text": "Cox's  Pomona."
   },
   {
    "line": 65330,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "COXS POMONA",
    "text": "Cox's  Pomona 135"
@@ -1340,14 +1955,14 @@
  "crispin": [
   {
    "line": 9783,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "CRISPIN",
    "text": "Crispin."
   },
   {
    "line": 65370,
-   "page": 1900,
+   "page": 1018,
    "score": 1.0,
    "key": "CRISPIN",
    "text": "Crispin 138"
@@ -1356,35 +1971,35 @@
  "democrat": [
   {
    "line": 10153,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "DEMOCRAT",
    "text": "Democrat."
   },
   {
    "line": 10179,
-   "page": 1900,
+   "page": 124,
    "score": 1.5,
    "key": "DEMOCRAT",
    "text": "Democrat."
   },
   {
    "line": 45974,
-   "page": 1900,
+   "page": 732,
    "score": 1.5,
    "key": "DEMOCRAT",
    "text": "Democrat."
   },
   {
    "line": 65501,
-   "page": 1900,
+   "page": 1018,
    "score": 1.5,
    "key": "DEMOCRAT",
    "text": "Democrat 143,  144"
   },
   {
    "line": 79672,
-   "page": 1900,
+   "page": 1069,
    "score": 1.0,
    "key": "DEMOCRAT",
    "text": "Democrat 734"
@@ -1393,14 +2008,14 @@
  "devonshire-quarrenden": [
   {
    "line": 10245,
-   "page": 1900,
+   "page": 124,
    "score": 1.3,
    "key": "RED QUARRENDEN",
    "text": "Red  Quarrenden.  Sack  Apple."
   },
   {
    "line": 65523,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "DEVONSHIRE QUARRENDEN",
    "text": "Devonshire  Quarrenden 145"
@@ -1409,42 +2024,42 @@
  "duchess-of-oldenburg": [
   {
    "line": 96340,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "DUCHESS",
    "text": "Duchess."
   },
   {
    "line": 97491,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "DUCHESS",
    "text": "Duchess."
   },
   {
    "line": 10553,
-   "page": 1900,
+   "page": 147,
    "score": 1.0,
    "key": "DUCHESS",
    "text": "Duchess  of  Oldenburgh."
   },
   {
    "line": 10576,
-   "page": 1900,
+   "page": 147,
    "score": 1.0,
    "key": "DUCHESS",
    "text": "Duchess  of  Oldenburgh."
   },
   {
    "line": 33086,
-   "page": 1900,
+   "page": 514,
    "score": 1.0,
    "key": "DUCHESS",
    "text": "Duchess  of  Buccleugh."
   },
   {
    "line": 65616,
-   "page": 1900,
+   "page": 1018,
    "score": 1.0,
    "key": "DUCHESS",
    "text": "Duchess  of  Oldenburgh 149"
@@ -1453,174 +2068,359 @@
  "dumelows-seedling": [
   {
    "line": 10634,
-   "page": 1900,
+   "page": 151,
    "score": 1.5,
    "key": "WELLINGTON",
    "text": "Wellington.  Dumelow's  Crab."
   },
   {
    "line": 30174,
-   "page": 1900,
+   "page": 473,
    "score": 1.5,
    "key": "WELLINGTON",
    "text": "Wellington."
   },
   {
    "line": 54610,
-   "page": 1900,
+   "page": 878,
    "score": 1.5,
    "key": "WELLINGTON",
    "text": "Wellington."
   },
   {
    "line": 71565,
-   "page": 1900,
+   "page": 1039,
    "score": 1.5,
    "key": "WELLINGTON",
    "text": "Wellington"
   },
   {
    "line": 10632,
-   "page": 1900,
+   "page": 151,
    "score": 1.3,
    "key": "DUMELOWS SEEDLING",
    "text": "Dumelow's  Seedling."
   },
   {
    "line": 65634,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "DUMELOWS CRAB",
    "text": "Dumelow's  Crab 151"
   }
  ],
+ "dutch-mignonne": [
+  {
+   "line": 10669,
+   "page": 151,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch    Mignonne."
+  },
+  {
+   "line": 21144,
+   "page": 329,
+   "score": 1.3,
+   "key": "REINETTE DE CAUX",
+   "text": "Reinette  de  Caux."
+  },
+  {
+   "line": 65648,
+   "page": 1018,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne 151"
+  },
+  {
+   "line": 69844,
+   "page": 1033,
+   "score": 1.3,
+   "key": "REINETTE DE CAUX",
+   "text": "Reinette  de  Caux 331"
+  },
+  {
+   "line": 89184,
+   "page": 1098,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne,  erroneously."
+  },
+  {
+   "line": 10673,
+   "page": 151,
+   "score": 1.0,
+   "key": "PATERNOSTER",
+   "text": "Paternoster  Apfel.  Settin  Pippin.  Copmanthorpe  Crab."
+  }
+ ],
  "king-of-the-pippins": [
   {
    "line": 15740,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KING OF THE PIPPINS",
    "text": "King  of  the  Pippins."
   },
   {
    "line": 15742,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "HAMPSHIRE YELLOW",
    "text": "Hampshire  Yellow."
   },
   {
    "line": 67498,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KING OF THE PIPPINS",
    "text": "King  of  the  Pippins 240"
   },
   {
    "line": 10773,
-   "page": 1900,
+   "page": 153,
    "score": 1.0,
    "key": "PRINCES",
    "text": "Prince's  Harvest,  or  Early  French  Reinette,  of  Coxe."
   },
   {
    "line": 20671,
-   "page": 1900,
+   "page": 315,
    "score": 1.0,
    "key": "PRINCES",
    "text": "Prince's  Large  Red  and  Green  Sweet."
   },
   {
    "line": 29916,
-   "page": 1900,
+   "page": 471,
    "score": 1.0,
    "key": "PRINCES",
    "text": "Prince's  Black  Heart."
   }
  ],
+ "primate": [
+  {
+   "line": 20148,
+   "page": 301,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate."
+  },
+  {
+   "line": 20169,
+   "page": 301,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate."
+  },
+  {
+   "line": 26976,
+   "page": 421,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate.     Table."
+  },
+  {
+   "line": 69335,
+   "page": 1031,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate"
+  },
+  {
+   "line": 88917,
+   "page": 1098,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate."
+  },
+  {
+   "line": 88927,
+   "page": 1098,
+   "score": 1.5,
+   "key": "PRIMATE",
+   "text": "Primate."
+  }
+ ],
+ "maiden-blush": [
+  {
+   "line": 11171,
+   "page": 157,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  in  sun.'  Flesh  white,  rather  tender,  juicy,  subacid.  Hardly"
+  },
+  {
+   "line": 12458,
+   "page": 170,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  in  the  sun.      Flesh   yellowish  white,  half  tender,   melting,"
+  },
+  {
+   "line": 13704,
+   "page": 202,
+   "score": 1.3,
+   "key": "RED CHEEK",
+   "text": "red  cheek  in  the  sui..  Stalk  short.  Cavity  rather  large.  Basin  small."
+  },
+  {
+   "line": 14158,
+   "page": 202,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's  Blush,  but  is  inferior  to  that  fruit  in  flavor.  An  excellent"
+  },
+  {
+   "line": 16021,
+   "page": 239,
+   "score": 1.3,
+   "key": "LADY BLUSH",
+   "text": "Lady  Blush."
+  },
+  {
+   "line": 17026,
+   "page": 258,
+   "score": 1.3,
+   "key": "MAIDENS BLUSH",
+   "text": "Maiden's  Blush."
+  }
+ ],
  "millers-seedling": [
   {
    "line": 11181,
-   "page": 1900,
+   "page": 157,
    "score": 1.3,
    "key": "MILLERS SEEDLING",
    "text": "Miller's  Seedling."
   },
   {
    "line": 68384,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "MILLERS SEEDLING",
    "text": "Miller's  Seedling"
   },
   {
    "line": 20035,
-   "page": 1900,
+   "page": 301,
    "score": 1.0,
    "key": "MILLERS",
    "text": "Miller's  Apple."
   },
   {
    "line": 33323,
-   "page": 1900,
+   "page": 514,
    "score": 1.0,
    "key": "MILLERS",
    "text": "Miller's  Burgundy."
   },
   {
    "line": 51428,
-   "page": 1900,
+   "page": 827,
    "score": 1.0,
    "key": "MILLERS",
    "text": "Miller's  Early.  Chenille."
   },
   {
    "line": 74914,
-   "page": 1900,
+   "page": 1051,
    "score": 1.0,
    "key": "MILLERS",
    "text": "Miller's  Burgundy 520"
   }
  ],
+ "english-russet": [
+  {
+   "line": 11283,
+   "page": 157,
+   "score": 1.3,
+   "key": "ENGLISH RUSSET",
+   "text": "English  Russet."
+  },
+  {
+   "line": 11285,
+   "page": 157,
+   "score": 1.3,
+   "key": "POUGHKEEPSIE RUSSET",
+   "text": "Poughkeepsie  Russet.  Po'keepsie  Russet."
+  },
+  {
+   "line": 26881,
+   "page": 421,
+   "score": 1.3,
+   "key": "ENGLISH RUSSET",
+   "text": "English  Russet.     Market  and  keeper."
+  }
+ ],
+ "rokewood": [
+  {
+   "line": 11457,
+   "page": 164,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Pippin  of  some."
+  },
+  {
+   "line": 29850,
+   "page": 470,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Heart."
+  },
+  {
+   "line": 64718,
+   "page": 1016,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullocks  Pippin 76.  166"
+  },
+  {
+   "line": 87113,
+   "page": 1098,
+   "score": 1.0,
+   "key": "BULLOCKS",
+   "text": "Bullock's  Pippin 53"
+  }
+ ],
  "fall-pippin": [
   {
    "line": 11648,
-   "page": 1900,
+   "page": 164,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin."
   },
   {
    "line": 11656,
-   "page": 1900,
+   "page": 169,
    "score": 1.3,
    "key": "POUND PIPPIN",
    "text": "Pound  Pippin.  Golden  Pippin,  erroneously.  Pound  Royal  of  some"
   },
   {
    "line": 11664,
-   "page": 1900,
+   "page": 169,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin."
   },
   {
    "line": 14537,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin,  and  not  so  much  flattened,  though  a  good  deal  like  it,  a"
   },
   {
    "line": 25485,
-   "page": 1900,
+   "page": 394,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin,  erroneously.  Reinette  d'Espagne."
   },
   {
    "line": 26889,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin.     Table  and  market."
@@ -1629,42 +2429,42 @@
  "mere-de-menage": [
   {
    "line": 17617,
-   "page": 1900,
+   "page": 269,
    "score": 1.3,
    "key": "MERE DE MENAGE",
    "text": "Mere  de  Menage."
   },
   {
    "line": 66083,
-   "page": 1900,
+   "page": 1021,
    "score": 1.3,
    "key": "FLANDERS PIPPIN",
    "text": "Flanders  Pippin"
   },
   {
    "line": 12101,
-   "page": 1900,
+   "page": 170,
    "score": 1.0,
    "key": "FLANDERS",
    "text": "Flanders  Pipput."
   },
   {
    "line": 12113,
-   "page": 1900,
+   "page": 170,
    "score": 1.0,
    "key": "FLANDERS",
    "text": "Flanders  Beinette."
   },
   {
    "line": 66085,
-   "page": 1900,
+   "page": 1021,
    "score": 1.0,
    "key": "FLANDERS",
    "text": "Flanders  Reinette"
   },
   {
    "line": 75671,
-   "page": 1900,
+   "page": 1052,
    "score": 1.0,
    "key": "FLANDERS",
    "text": "Flanders 570"
@@ -1673,46 +2473,164 @@
  "flower-of-kent": [
   {
    "line": 12183,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "FLOWER OF KENT",
    "text": "Flower  of  Kent."
   },
   {
    "line": 66109,
-   "page": 1900,
+   "page": 1021,
    "score": 1.3,
    "key": "FLOWER OF KENT",
    "text": "Flower  of  Kent"
   }
  ],
+ "styre": [
+  {
+   "line": 12258,
+   "page": 170,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre."
+  },
+  {
+   "line": 23250,
+   "page": 347,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre."
+  },
+  {
+   "line": 66199,
+   "page": 1021,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  },
+  {
+   "line": 66201,
+   "page": 1021,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre ..."
+  }
+ ],
  "american-mother": [
   {
    "line": 12723,
-   "page": 1900,
+   "page": 170,
    "score": 1.0,
    "key": "GARDNERS",
    "text": "Gardner's  Sweet  Pearmain."
   },
   {
    "line": 66409,
-   "page": 1900,
+   "page": 1022,
    "score": 1.0,
    "key": "GARDNERS",
    "text": "Gardner's  Sweet  Pearmain 188"
   }
  ],
+ "gloria-mundi": [
+  {
+   "line": 12917,
+   "page": 170,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi."
+  },
+  {
+   "line": 12919,
+   "page": 170,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin.  Belle  Josephine.  Baltimore  of  some."
+  },
+  {
+   "line": 12923,
+   "page": 170,
+   "score": 1.3,
+   "key": "AMERICAN MAMMOTH",
+   "text": "American  Mammoth.  Mississippi?  Ox  Apple."
+  },
+  {
+   "line": 64075,
+   "page": 989,
+   "score": 1.3,
+   "key": "AMERICAN MAMMOTH",
+   "text": "American  Mammoth   191"
+  },
+  {
+   "line": 66485,
+   "page": 1022,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria  Mundi 191"
+  },
+  {
+   "line": 68449,
+   "page": 1028,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin 191"
+  }
+ ],
+ "golden-harvey": [
+  {
+   "line": 53392,
+   "page": 867,
+   "score": 1.5,
+   "key": "GUERNSEY",
+   "text": "Guernsey."
+  },
+  {
+   "line": 13012,
+   "page": 170,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden  Harvey."
+  },
+  {
+   "line": 13013,
+   "page": 170,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple."
+  },
+  {
+   "line": 13782,
+   "page": 202,
+   "score": 1.3,
+   "key": "GUERNSEY PIPPIN",
+   "text": "Guernsey  Pippin."
+  },
+  {
+   "line": 66517,
+   "page": 1022,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden  Harvey ]  93"
+  },
+  {
+   "line": 66763,
+   "page": 1022,
+   "score": 1.3,
+   "key": "GUERNSEY PIPPIN",
+   "text": "Guernsey  Pippin 206"
+  }
+ ],
  "golden-knob": [
   {
    "line": 13023,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "GOLDEN KNOB",
    "text": "Golden   Knob."
   },
   {
    "line": 66519,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
    "key": "GOLDEN KNOB",
    "text": "Golden  Knob 193"
@@ -1721,44 +2639,88 @@
  "golden-noble": [
   {
    "line": 13048,
-   "page": 1900,
+   "page": 170,
    "score": 1.3,
    "key": "GOLDEN NOBLE",
    "text": "Golden   Noble."
   },
   {
    "line": 66528,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
    "key": "GOLDEN NOBLE",
    "text": "Golden  Noble 193"
   }
  ],
+ "golden-sweet": [
+  {
+   "line": 13255,
+   "page": 170,
+   "score": 1.3,
+   "key": "GOLDEN SWEET",
+   "text": "Golden  Sweet."
+  },
+  {
+   "line": 13274,
+   "page": 170,
+   "score": 1.3,
+   "key": "GOLDEN SWEET",
+   "text": "Golden  Sweet."
+  },
+  {
+   "line": 14383,
+   "page": 202,
+   "score": 1.3,
+   "key": "SUMMER SWEET",
+   "text": "Summer  Sweet.  Sweet  June."
+  },
+  {
+   "line": 23591,
+   "page": 368,
+   "score": 1.3,
+   "key": "SUMMER SWEET",
+   "text": "Summer  Sweet."
+  },
+  {
+   "line": 23601,
+   "page": 368,
+   "score": 1.3,
+   "key": "SUMMER SWEET",
+   "text": "Summer  Sweet  Paradise."
+  },
+  {
+   "line": 26899,
+   "page": 421,
+   "score": 1.3,
+   "key": "GOLDEN SWEET",
+   "text": "Golden  Sweet.     Market  and  cooking."
+  }
+ ],
  "gravenstein": [
   {
    "line": 13414,
-   "page": 1900,
+   "page": 170,
    "score": 1.5,
    "key": "GRAVENSTEIN",
    "text": "Gravenstein."
   },
   {
    "line": 13439,
-   "page": 1900,
+   "page": 170,
    "score": 1.5,
    "key": "GRAVENSTEIN",
    "text": "Gravenstein."
   },
   {
    "line": 26901,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "GRAVENSTEIN",
    "text": "Gravenstein.     Market  and  cooking."
   },
   {
    "line": 93332,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "GRAVENSTEIN",
    "text": "Gravenstein.  Tree  a  thrifty  grower,  bears  full  crops  on  alternate"
@@ -1767,7 +2729,7 @@
  "holstein": [
   {
    "line": 13418,
-   "page": 1900,
+   "page": 170,
    "score": 1.5,
    "key": "HOLSTEIN",
    "text": "Holstein,  and  is  thought  one  of  the  finest  apples  of  the  North  of  Eu-"
@@ -1776,58 +2738,58 @@
  "grimes-golden": [
   {
    "line": 13711,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
-   "key": "GRIMES GOLDEN PIPPIN",
+   "key": "GRIMES GOLDEN",
    "text": "Grimes'  Golden  Pippin."
   },
   {
    "line": 13713,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "GRIMES GOLDEN",
    "text": "Grimes  Golden."
   },
   {
    "line": 13722,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
-   "key": "GRIMES GOLDEN PIPPIN",
+   "key": "GRIMES GOLDEN",
    "text": "Grimes'  Golden  Pippin."
   },
   {
    "line": 26905,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
-   "key": "GRIMES GOLDEN PIPPIN",
+   "key": "GRIMES GOLDEN",
    "text": "Grimes'  Golden  Pippin.     Table  and  market*"
   },
   {
    "line": 66721,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
    "key": "GRIMES GOLDEN",
    "text": "Grimes   Golden 205"
   },
   {
    "line": 66723,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
-   "key": "GRIMES GOLDEN PIPPIN",
+   "key": "GRIMES GOLDEN",
    "text": "Grimes'  Golden  Pippin 205"
   }
  ],
  "hagloe-crab": [
   {
    "line": 13807,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "HAGLOE CRAB",
    "text": "Hagloe  Crab."
   },
   {
    "line": 66779,
-   "page": 1900,
+   "page": 1022,
    "score": 1.3,
    "key": "HAGLOE CRAB",
    "text": "Hagloe  Crab 206"
@@ -1836,44 +2798,132 @@
  "hambledon-deux-ans": [
   {
    "line": 13876,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "HAMBLEDON DEUX ANS",
    "text": "Hambledon  Deux  Ans."
   }
  ],
+ "melon": [
+  {
+   "line": 13975,
+   "page": 202,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon."
+  },
+  {
+   "line": 48797,
+   "page": 781,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon.  Eshleman."
+  },
+  {
+   "line": 54951,
+   "page": 881,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon,  of  some."
+  },
+  {
+   "line": 71489,
+   "page": 1039,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon"
+  },
+  {
+   "line": 71491,
+   "page": 1039,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon ,"
+  },
+  {
+   "line": 83134,
+   "page": 1082,
+   "score": 1.5,
+   "key": "WATERMELON",
+   "text": "Watermelon 784.  ss:;"
+  }
+ ],
+ "harrison": [
+  {
+   "line": 14029,
+   "page": 202,
+   "score": 1.5,
+   "key": "HARRISON",
+   "text": "Harrison."
+  },
+  {
+   "line": 16662,
+   "page": 252,
+   "score": 1.3,
+   "key": "LONG STEM",
+   "text": "Long  Stem."
+  },
+  {
+   "line": 67965,
+   "page": 1027,
+   "score": 1.3,
+   "key": "LONG STEM",
+   "text": "Long  Stem 256"
+  },
+  {
+   "line": 67967,
+   "page": 1027,
+   "score": 1.3,
+   "key": "LONG STEM",
+   "text": "Long  Stem  Sweet 84"
+  },
+  {
+   "line": 30205,
+   "page": 473,
+   "score": 1.0,
+   "key": "HARRISON",
+   "text": "Harrison  Heart  ?  Large  White  Bigarreau.       Turkey  Bigarreau."
+  },
+  {
+   "line": 66856,
+   "page": 1022,
+   "score": 1.0,
+   "key": "HARRISON",
+   "text": "Harrison 210"
+  }
+ ],
  "hawthornden": [
   {
    "line": 14153,
-   "page": 1900,
+   "page": 202,
    "score": 1.5,
    "key": "HAWTHORNDEN",
    "text": "Hawthornden."
   },
   {
    "line": 14154,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "WHITE HAWTHORNDEN",
    "text": "White  Hawthornden."
   },
   {
    "line": 16495,
-   "page": 1900,
+   "page": 252,
    "score": 1.0,
    "key": "LINCOLNSHIRE",
    "text": "Lincolnshire  Holland  Pippin."
   },
   {
    "line": 66882,
-   "page": 1900,
+   "page": 1022,
    "score": 1.0,
    "key": "HAWTHORNDEN",
    "text": "Hawthornden 212"
   },
   {
    "line": 67909,
-   "page": 1900,
+   "page": 1027,
    "score": 1.0,
    "key": "LINCOLNSHIRE",
    "text": "Lincolnshire  Holland  Pippin 253"
@@ -1882,51 +2932,95 @@
  "hewes-crab": [
   {
    "line": 14284,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "HUGHES VIRGINIA CRAB",
    "text": "Hughe's  Virginia  Crab."
   }
  ],
+ "holland-pippin": [
+  {
+   "line": 57664,
+   "page": 916,
+   "score": 1.5,
+   "key": "HOLLAND",
+   "text": "Holland."
+  },
+  {
+   "line": 14525,
+   "page": 202,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin."
+  },
+  {
+   "line": 67001,
+   "page": 1024,
+   "score": 1.3,
+   "key": "HOLLAND PIPPIN",
+   "text": "Holland  Pippin 219"
+  },
+  {
+   "line": 14544,
+   "page": 202,
+   "score": 1.0,
+   "key": "HOLLAND",
+   "text": "Holland  Sweet."
+  },
+  {
+   "line": 29803,
+   "page": 470,
+   "score": 1.0,
+   "key": "HOLLAND",
+   "text": "Holland  Bigarreau  ?"
+  },
+  {
+   "line": 29818,
+   "page": 470,
+   "score": 1.0,
+   "key": "HOLLAND",
+   "text": "Holland  Bigarreau  is  so  much  like  the  above  that  we  think  it"
+  }
+ ],
  "hubbardston-nonesuch": [
   {
    "line": 14821,
-   "page": 1900,
+   "page": 202,
    "score": 3.8,
    "key": "HUBBARDSTON NONSUCH",
    "text": "HUBBARDSTON   NONSUCH."
   },
   {
    "line": 14822,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "JOHN MAY",
    "text": "John  May.  Old  Town  Pippin.  Hubbardston."
   },
   {
    "line": 14841,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "HUBBARDSTON NONSUCH",
    "text": "Hubbardston  Nonsuch."
   },
   {
    "line": 26917,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "HUBBARDSTON NONSUCH",
    "text": "Hubbardston  Nonsuch.     Table  and  market."
   },
   {
    "line": 67114,
-   "page": 1900,
+   "page": 1024,
    "score": 1.3,
    "key": "HUBBARDSTON NONSUCH",
    "text": "Hubbardston  Nonsuch"
   },
   {
    "line": 67357,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "JOHN MAY",
    "text": "John  May 224"
@@ -1935,102 +3029,148 @@
  "irish-peach": [
   {
    "line": 15058,
-   "page": 1900,
+   "page": 202,
    "score": 1.3,
    "key": "IRISH PEACH APPLE",
    "text": "Irish  Peach  Apple."
   },
   {
    "line": 65664,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "EARLY CROFTON",
    "text": "Early  Crofton 229"
   },
   {
    "line": 67269,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "IRISH PEACH APPLE",
    "text": "Irish  Peach  Apple 221)"
   }
  ],
+ "jefferis": [
+  {
+   "line": 15169,
+   "page": 202,
+   "score": 1.5,
+   "key": "JEFFERIS",
+   "text": "Jefferis."
+  },
+  {
+   "line": 35819,
+   "page": 569,
+   "score": 1.5,
+   "key": "EVERBEARING",
+   "text": "Everbearing.  Originated  here  from  seed  of  the  Multicaulis.  Tree"
+  },
+  {
+   "line": 67317,
+   "page": 1025,
+   "score": 1.5,
+   "key": "JEFFERIS",
+   "text": "Jefferis 2-0"
+  },
+  {
+   "line": 75576,
+   "page": 1052,
+   "score": 1.0,
+   "key": "EVERBEARING",
+   "text": "Everbearing 564"
+  }
+ ],
  "jonathan": [
   {
    "line": 26923,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "JONATHAN",
    "text": "Jonathan.     Table  and  market."
   },
   {
    "line": 67380,
-   "page": 1900,
+   "page": 1025,
    "score": 1.5,
    "key": "JONATHAN",
    "text": "Jonathan .   232"
   },
   {
    "line": 15274,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "KING PHILIP",
    "text": "King  Philip."
   },
   {
    "line": 15277,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "PHILIP RICK",
    "text": "Philip  Rick."
   },
   {
    "line": 67496,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KING PHILIP",
    "text": "King  Philip 232"
   }
  ],
+ "jubilee": [
+  {
+   "line": 15360,
+   "page": 232,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "Jubilee  Pippin."
+  },
+  {
+   "line": 67386,
+   "page": 1025,
+   "score": 1.0,
+   "key": "JUBILEE",
+   "text": "Jubilee  Pippin 234"
+  }
+ ],
  "westfield-seek-no-further": [
   {
    "line": 15425,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  Winter  Pearmain,  erroneously.  Red  Phoenix."
   },
   {
    "line": 21010,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  Winter  Calville."
   },
   {
    "line": 21027,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  \"Winter  Pearmain."
   },
   {
    "line": 21054,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  Winter  Pearmain."
   },
   {
    "line": 21064,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  Winter  Sweet."
   },
   {
    "line": 23923,
-   "page": 1900,
+   "page": 368,
    "score": 1.3,
    "key": "RED WINTER",
    "text": "Red  Winter  Sweet  ?  Sweet  Nonsuch."
@@ -2039,42 +3179,42 @@
  "colonel-vaughan": [
   {
    "line": 30602,
-   "page": 1900,
+   "page": 477,
    "score": 1.5,
    "key": "KENTISH",
    "text": "Kentish."
   },
   {
    "line": 15589,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "KENTISH PIPPIN",
    "text": "Kentish  Pippin."
   },
   {
    "line": 15591,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
-   "key": "RED KENTISH",
+   "key": "RED KENTISH PIPPIN",
    "text": "Red  Kentish  Pippin.  Vaun's  Pippin."
   },
   {
    "line": 67462,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KENTISH PIPPIN",
    "text": "Kentish  Pippin. 237"
   },
   {
    "line": 69638,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
-   "key": "RED KENTISH",
+   "key": "RED KENTISH PIPPIN",
    "text": "Red  Kentish  Pippin"
   },
   {
    "line": 15557,
-   "page": 1900,
+   "page": 232,
    "score": 1.0,
    "key": "KENTISH",
    "text": "Kentish  Broading."
@@ -2083,42 +3223,42 @@
  "kentish-fillbasket": [
   {
    "line": 15575,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "KENTISH FILL BASKET",
    "text": "Kentish  Fill-Basket."
   },
   {
    "line": 15576,
-   "page": 1900,
+   "page": 232,
    "score": 1.3,
    "key": "POTTERS LARGE",
    "text": "Potter's  Large  Seedling.  Lady  de  Grey's."
   },
   {
    "line": 19957,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "POTTERS LARGE",
    "text": "Potter's  Large."
   },
   {
    "line": 19958,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "POTTERS LARGE",
    "text": "Potter's  Large  Apple.  Potter's  Large  Seedling."
   },
   {
    "line": 67460,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KENTISH FILL BASKET",
    "text": "Kentish  Fill-Basket 2::  7"
   },
   {
    "line": 69265,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "POTTERS LARGE",
    "text": "Potter's  Large"
@@ -2127,42 +3267,42 @@
  "keswick-codlin": [
   {
    "line": 35819,
-   "page": 1900,
+   "page": 569,
    "score": 1.5,
    "key": "EVERBEARING",
    "text": "Everbearing.  Originated  here  from  seed  of  the  Multicaulis.  Tree"
   },
   {
    "line": 15679,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KESWICK CODLIN",
    "text": "Keswick  Codlin."
   },
   {
    "line": 15688,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KESWICK CODLIN",
    "text": "Keswick  Codlin."
   },
   {
    "line": 16727,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "KESWICK CODLIN",
    "text": "Keswick  Codlin.     The  tree  hardy,  and  a  great  bearer."
   },
   {
    "line": 26925,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "KESWICK CODLIN",
    "text": "Keswick  Codlin.     Market  and  cooking."
   },
   {
    "line": 67480,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KESWICK CODLIN",
    "text": "Keswick  Codlin 239"
@@ -2171,21 +3311,21 @@
  "tompkins-king": [
   {
    "line": 15738,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KING OF TOMPKINS COUNTY",
    "text": "King  of  Tompkins  County."
   },
   {
    "line": 15751,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KING OF TOMPKINS COUNTY",
    "text": "King  of  Tompkins  County."
   },
   {
    "line": 67502,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "KING OF TOMPKINS COUNTY",
    "text": "King  of  Tompkins  County 241"
@@ -2194,14 +3334,14 @@
  "warners-king": [
   {
    "line": 15752,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KING APPLE",
    "text": "King  Apple.  Toms  Red.  Tommy  Red-"
   },
   {
    "line": 25056,
-   "page": 1900,
+   "page": 394,
    "score": 1.3,
    "key": "WARNERS KING",
    "text": "\"Warner's  King."
@@ -2210,14 +3350,14 @@
  "kingston-black": [
   {
    "line": 15776,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KINGSTON BLACK",
    "text": "Kingston  Black."
   },
   {
    "line": 67515,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "KINGSTON BLACK",
    "text": "Kingston  Black"
@@ -2226,35 +3366,35 @@
  "knobby-russet": [
   {
    "line": 15874,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KNOBBY RUSSET",
    "text": "Knobby  Russet."
   },
   {
    "line": 15876,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "KNOBBED RUSSET",
    "text": "Knobbed  Russet.  Old  Maid's.  Winter  Russet."
   },
   {
    "line": 67548,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "KNOBBED RUSSET",
    "text": "Knobbed  Russet"
   },
   {
    "line": 67550,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "KNOBBY RUSSET",
    "text": "Knobby  Russet"
   },
   {
    "line": 68805,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "OLD MAIDS",
    "text": "Old  Maid's 243"
@@ -2263,42 +3403,42 @@
  "api": [
   {
    "line": 15967,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "LADY APPLE",
    "text": "Lady  Apple."
   },
   {
    "line": 15971,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "POMME DAPI",
    "text": "Pomme  d'Api  Rouge.  Petit  Api  Rouge.  Gros  Api  Rouge."
   },
   {
    "line": 15978,
-   "page": 1900,
+   "page": 239,
    "score": 1.3,
    "key": "LADY APPLE",
    "text": "Lady  Apple."
   },
   {
    "line": 22532,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "LADY APPLE",
    "text": "Lady  Apple,  and  very  productive.      The  fruit  a  little  earlier  in  ripening"
   },
   {
    "line": 26931,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "LADY APPLE",
    "text": "Lady  Apple.     Table  and  market."
   },
   {
    "line": 67593,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "LADY APPLE",
    "text": "Lady  Apple"
@@ -2307,37 +3447,74 @@
  "lady-of-wemyss": [
   {
    "line": 16074,
-   "page": 1900,
+   "page": 246,
    "score": 1.3,
    "key": "LADY OF THE WEMYSS",
    "text": "Lady  of  the  Wemyss."
   },
   {
    "line": 67613,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "LADY OF THE WEMYSS",
    "text": "Lady  of  the  Wemyss"
   }
  ],
+ "sweet-bough": [
+  {
+   "line": 16269,
+   "page": 249,
+   "score": 1.3,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "Large  Yellow  Bough."
+  },
+  {
+   "line": 16271,
+   "page": 249,
+   "score": 1.3,
+   "key": "EARLY SWEET BOUGH",
+   "text": "Early  Sweet  Bough.  Sweet  Harvest.  Bough."
+  },
+  {
+   "line": 16273,
+   "page": 249,
+   "score": 1.3,
+   "key": "AUGUST SWEET",
+   "text": "August  Sweet.  Washington,  incorrectly.         Sweet  Bough."
+  },
+  {
+   "line": 26935,
+   "page": 421,
+   "score": 1.3,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "Large  Yellow  Bough.     Table  and  market."
+  },
+  {
+   "line": 67750,
+   "page": 1026,
+   "score": 1.3,
+   "key": "LARGE YELLOW BOUGH",
+   "text": "Large  Yellow  Bough"
+  }
+ ],
  "lemon-pippin": [
   {
    "line": 16422,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "LEMON PIPPIN",
    "text": "Lemon  Pippin."
   },
   {
    "line": 16424,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "KIRKES LEMON PIPPIN",
    "text": "Kirke's  Lemon  Pippin.  Pepin  Limon  de  Galles  ?"
   },
   {
    "line": 67806,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "LEMON PIPPIN",
    "text": "Lemon  Pippin"
@@ -2346,14 +3523,14 @@
  "liberty": [
   {
    "line": 16463,
-   "page": 1900,
+   "page": 252,
    "score": 1.5,
    "key": "LIBERTY",
    "text": "Liberty."
   },
   {
    "line": 67816,
-   "page": 1900,
+   "page": 1026,
    "score": 1.5,
    "key": "LIBERTY",
    "text": "Liberty"
@@ -2362,7 +3539,7 @@
  "lodgemore-nonpareil": [
   {
    "line": 16567,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "CLISSOLDS SEEDLING",
    "text": "Clissold's  Seedling."
@@ -2371,42 +3548,42 @@
  "london-pippin": [
   {
    "line": 16576,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "LONDON PIPPIN",
    "text": "London  Pippin."
   },
   {
    "line": 16577,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
-   "key": "FIVE CROWNED PIPPIN",
+   "key": "FIVE CROWNED",
    "text": "Five- Crowned  Pippin.         New  London  Pippin.         Royal  Somerset"
   },
   {
    "line": 21864,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "ROYAL SOMERSET",
    "text": "Royal  Somerset."
   },
   {
    "line": 66079,
-   "page": 1900,
+   "page": 1021,
    "score": 1.3,
-   "key": "FIVE CROWNED PIPPIN",
+   "key": "FIVE CROWNED",
    "text": "Five  Crowned  Pippin"
   },
   {
    "line": 70263,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "ROYAL SOMERSET",
    "text": "Royal  Somerset 343"
   },
   {
    "line": 70265,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "ROYAL SOMERSET",
    "text": "Royal  Somerset 2.\"55"
@@ -2415,30 +3592,104 @@
  "lord-suffield": [
   {
    "line": 16724,
-   "page": 1900,
+   "page": 252,
    "score": 1.3,
    "key": "LORD SUFFIELD",
    "text": "Lord  Suffield."
   },
   {
    "line": 67979,
-   "page": 1900,
+   "page": 1027,
    "score": 1.3,
    "key": "LORD SUFFIELD",
    "text": "Lord  Suffield 257"
   }
  ],
+ "lucombes-seedling": [
+  {
+   "line": 16842,
+   "page": 258,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling."
+  },
+  {
+   "line": 75718,
+   "page": 1052,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling 567"
+  },
+  {
+   "line": 16834,
+   "page": 258,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe's  Pine-Apple."
+  },
+  {
+   "line": 58350,
+   "page": 921,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": ".Lucombe's  Nonesuch."
+  },
+  {
+   "line": 75716,
+   "page": 1052,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe's  Black 567"
+  },
+  {
+   "line": 84287,
+   "page": 1086,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe's  Nonesuch 930"
+  }
+ ],
+ "manningtons-pearmain": [
+  {
+   "line": 94859,
+   "page": 1098,
+   "score": 1.5,
+   "key": "MANNINGTON",
+   "text": "Mannington"
+  },
+  {
+   "line": 17188,
+   "page": 258,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's  Pearmain."
+  },
+  {
+   "line": 68092,
+   "page": 1027,
+   "score": 1.3,
+   "key": "MANNINGTONS PEARMAIN",
+   "text": "Mannington's  Pearmain 265"
+  },
+  {
+   "line": 88382,
+   "page": 1098,
+   "score": 1.0,
+   "key": "MANNINGTON",
+   "text": "Mannington I   9"
+  }
+ ],
  "melrose": [
   {
    "line": 17545,
-   "page": 1900,
+   "page": 269,
    "score": 1.5,
    "key": "MELROSE",
    "text": "Melrose."
   },
   {
    "line": 68258,
-   "page": 1900,
+   "page": 1028,
    "score": 1.5,
    "key": "MELROSE",
    "text": "Melrose"
@@ -2447,21 +3698,21 @@
  "margil": [
   {
    "line": 18172,
-   "page": 1900,
+   "page": 269,
    "score": 1.3,
    "key": "MUSCAT REINETTE",
    "text": "Muscat  Reinette."
   },
   {
    "line": 18173,
-   "page": 1900,
+   "page": 269,
    "score": 1.3,
    "key": "REINETTE MUSQUEE",
    "text": "Reinette  Musquee."
   },
   {
    "line": 68526,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "MUSCAT REINETTE",
    "text": "Muscat  Reinette. . ."
@@ -2470,21 +3721,21 @@
  "yates": [
   {
    "line": 18480,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "RED WARRIOR",
    "text": "Red  Warrior,  erroneously"
   },
   {
    "line": 21000,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "RED WARRIOR",
    "text": "Red  Warrior."
   },
   {
    "line": 69788,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "RED WARRIOR",
    "text": "Red  Warrior 328"
@@ -2493,42 +3744,42 @@
  "nonpareil": [
   {
    "line": 18544,
-   "page": 1900,
+   "page": 286,
    "score": 1.5,
    "key": "NONPAREIL",
    "text": "Nonpareil."
   },
   {
    "line": 50999,
-   "page": 1900,
+   "page": 821,
    "score": 1.5,
    "key": "NONPAREIL",
    "text": "Nonpareil."
   },
   {
    "line": 57894,
-   "page": 1900,
+   "page": 921,
    "score": 1.5,
    "key": "NONPAREIL",
    "text": "Nonpareil.  Incomparable  Prune."
   },
   {
    "line": 68635,
-   "page": 1900,
+   "page": 1028,
    "score": 1.5,
    "key": "NONPAREIL",
    "text": "Nonpareil"
   },
   {
    "line": 18546,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "ENGLISH NONPAREIL",
    "text": "English  Nonpareil.  Old  Nonpareil.  Original  Nonpareil."
   },
   {
    "line": 65877,
-   "page": 1900,
+   "page": 1020,
    "score": 1.3,
    "key": "ENGLISH NONPAREIL",
    "text": "English  Nonpareil 288"
@@ -2537,88 +3788,206 @@
  "northern-spy": [
   {
    "line": 18631,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "NORTHERN SPY",
    "text": "Northern  Spy."
   },
   {
    "line": 18634,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "NORTHERN SPY",
    "text": "Northern  Spy."
   },
   {
    "line": 26964,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "NORTHERN SPY",
    "text": "Northern  Spy.     Table  and  market."
   },
   {
    "line": 68747,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "NORTHERN SPY",
    "text": "Northern  Spy 289"
   }
  ],
+ "ohio-nonpareil": [
+  {
+   "line": 18758,
+   "page": 286,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil."
+  },
+  {
+   "line": 18760,
+   "page": 286,
+   "score": 1.3,
+   "key": "MYERS NONPAREIL",
+   "text": "Myer'S  Nonpareil.  Cattell  Apple."
+  },
+  {
+   "line": 18786,
+   "page": 286,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil."
+  },
+  {
+   "line": 26966,
+   "page": 421,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil.     Table  and  market."
+  },
+  {
+   "line": 68785,
+   "page": 1028,
+   "score": 1.3,
+   "key": "OHIO NONPAREIL",
+   "text": "Ohio  Nonpareil 291"
+  },
+  {
+   "line": 70307,
+   "page": 1033,
+   "score": 1.3,
+   "key": "RUSTY CORE",
+   "text": "Rusty  Core 291"
+  }
+ ],
  "leathercoat-russet": [
   {
    "line": 18855,
-   "page": 1900,
+   "page": 286,
    "score": 1.3,
    "key": "LEATHER COAT",
    "text": "Leather  Coat  Russet."
   },
   {
    "line": 21847,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "LEATHERCOAT RUSSET",
    "text": "Leathercoat  Russet.  Reinette  de  Canada  Platte."
   },
   {
    "line": 67788,
-   "page": 1900,
+   "page": 1026,
    "score": 1.3,
    "key": "LEATHER COAT",
    "text": "Leather  Coat  Russet 293,"
   }
  ],
+ "orleans": [
+  {
+   "line": 58717,
+   "page": 921,
+   "score": 1.5,
+   "key": "ORLEANS",
+   "text": "Orleans."
+  },
+  {
+   "line": 18984,
+   "page": 286,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans  Reinette."
+  },
+  {
+   "line": 68878,
+   "page": 1031,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans  Reinette 295"
+  },
+  {
+   "line": 84470,
+   "page": 1087,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans 935"
+  }
+ ],
+ "ortley": [
+  {
+   "line": 19022,
+   "page": 296,
+   "score": 1.3,
+   "key": "ORTLEY PIPPIN",
+   "text": "Ortley  Pippin."
+  },
+  {
+   "line": 19023,
+   "page": 296,
+   "score": 1.3,
+   "key": "WOOLMANS LONG",
+   "text": "Woolman's  Long."
+  },
+  {
+   "line": 19026,
+   "page": 296,
+   "score": 1.3,
+   "key": "VAN DYNE",
+   "text": "Van  Dyne."
+  },
+  {
+   "line": 19035,
+   "page": 296,
+   "score": 1.3,
+   "key": "WHITE BELLFLOWER",
+   "text": "White  Bellflower."
+  },
+  {
+   "line": 19036,
+   "page": 296,
+   "score": 1.3,
+   "key": "WHITE DETROIT",
+   "text": "White  Detroit."
+  },
+  {
+   "line": 68886,
+   "page": 1031,
+   "score": 1.3,
+   "key": "ORTLEY PIPPIN",
+   "text": "Ortley  Pippin 296"
+  }
+ ],
  "pecks-pleasant": [
   {
    "line": 19400,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "PECKS PLEASANT",
    "text": "Peck's  Pleasant."
   },
   {
    "line": 19402,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "WALTZ APPLE",
    "text": "Waltz  Apple."
   },
   {
    "line": 19411,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "PECKS PLEASANT",
    "text": "Peck's  Pleasant."
   },
   {
    "line": 26970,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "PECKS PLEASANT",
    "text": "Peck's  Pleasant.     Table  and  market."
   },
   {
    "line": 68989,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "PECKS PLEASANT",
    "text": "Peck's  Pleasant 301"
@@ -2627,14 +3996,14 @@
  "pitmaston-pine-apple": [
   {
    "line": 19738,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "PITMASTON PINE",
    "text": "Pitmaston  Pine-Apple."
   },
   {
    "line": 69132,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "PITMASTON PINE",
    "text": "Pitmaston  Pine- Apple 306"
@@ -2643,123 +4012,227 @@
  "pomme-gris": [
   {
    "line": 19830,
-   "page": 1900,
+   "page": 301,
    "score": 3.8,
    "key": "POMME GRISE",
    "text": "POMME    GRISE.'"
   },
   {
    "line": 19842,
-   "page": 1900,
+   "page": 301,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  Grise."
   },
   {
    "line": 26972,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  Grise.     Table  and  market,  North."
   },
   {
    "line": 87707,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  Grise  d'Or.  .  *. 27"
   },
   {
    "line": 90281,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  Grise  d'Or."
   }
  ],
+ "poveshon": [
+  {
+   "line": 20019,
+   "page": 301,
+   "score": 1.5,
+   "key": "POVESHON",
+   "text": "Poveshon."
+  },
+  {
+   "line": 69295,
+   "page": 1031,
+   "score": 1.5,
+   "key": "POVESHON",
+   "text": "Poveshon"
+  }
+ ],
  "red-astrachan": [
   {
    "line": 20688,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "RED ASTRACHAN",
    "text": "Red  Astrachan."
   },
   {
    "line": 20692,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "ASTRACHAN ROUGE",
    "text": "Astrachan  Rouge.  Abe  Lincoln."
   },
   {
    "line": 20702,
-   "page": 1900,
+   "page": 315,
    "score": 1.3,
    "key": "RED ASTRACHAN",
    "text": "Red  Astrachan."
   },
   {
    "line": 26984,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "RED ASTRACHAN",
    "text": "Red  Astrachan.     Market  and  cooking."
   },
   {
    "line": 69582,
-   "page": 1900,
+   "page": 1031,
    "score": 1.3,
    "key": "RED ASTRACHAN",
    "text": "Red  Astrachan"
   },
   {
    "line": 93507,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "RED ASTRACHAN",
    "text": "Red  Astrachan.  Tree  moderately  vigorous,  spreading,  producing"
   }
  ],
+ "red-autumn-calville": [
+  {
+   "line": 20724,
+   "page": 315,
+   "score": 1.3,
+   "key": "RED AUTUMN CALVILLE",
+   "text": "Red  Autumn  Calville."
+  },
+  {
+   "line": 20726,
+   "page": 315,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "Calville  Rouge  d'Automne.  Calville  Rouge."
+  },
+  {
+   "line": 69584,
+   "page": 1031,
+   "score": 1.3,
+   "key": "RED AUTUMN CALVILLE",
+   "text": "Red  Autumn  Calville"
+  },
+  {
+   "line": 87234,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig  Reinette 84"
+  },
+  {
+   "line": 87236,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig 84"
+  },
+  {
+   "line": 92808,
+   "page": 1098,
+   "score": 1.0,
+   "key": "EDELKONIG",
+   "text": "Edelkonig  Reinette."
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 54535,
+   "page": 878,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson."
+  },
+  {
+   "line": 54541,
+   "page": 878,
+   "score": 1.5,
+   "key": "ROBERTSON",
+   "text": "Robertson."
+  },
+  {
+   "line": 93637,
+   "page": 1098,
+   "score": 1.5,
+   "key": "ROBINSON",
+   "text": "Robinson."
+  },
+  {
+   "line": 21036,
+   "page": 329,
+   "score": 1.0,
+   "key": "ROBERTSON",
+   "text": "Robertson  s  Pearmain."
+  },
+  {
+   "line": 82246,
+   "page": 1077,
+   "score": 1.0,
+   "key": "ROBERTSON",
+   "text": "Robertson 878"
+  },
+  {
+   "line": 82250,
+   "page": 1077,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson 878"
+  }
+ ],
  "gladstone": [
   {
    "line": 21037,
-   "page": 1900,
+   "page": 329,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "Jackson's  Red."
   },
   {
    "line": 49097,
-   "page": 1900,
+   "page": 781,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "Jackson's  Elizabeth."
   },
   {
    "line": 80873,
-   "page": 1900,
+   "page": 1073,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "Jackson's  Elizabeth 789"
   },
   {
    "line": 87439,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "•Jackson's  Roman  Stem 48"
   },
   {
    "line": 91116,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "Jackson's  Roman  Stem.  Cheese  Apple."
   },
   {
    "line": 95824,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "JACKSONS",
    "text": "Jackson's  Seckel \""
@@ -2768,42 +4241,42 @@
  "smokehouse": [
   {
    "line": 22610,
-   "page": 1900,
+   "page": 347,
    "score": 1.5,
    "key": "SMOKEHOUSE",
    "text": "Smokehouse."
   },
   {
    "line": 22628,
-   "page": 1900,
+   "page": 347,
    "score": 1.5,
    "key": "SMOKEHOUSE",
    "text": "Smokehouse."
   },
   {
    "line": 26998,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "SMOKEHOUSE",
    "text": "Smokehouse.     Market  and  cooking."
   },
   {
    "line": 48799,
-   "page": 1900,
+   "page": 781,
    "score": 1.5,
    "key": "SMOKEHOUSE",
    "text": "Smokehouse.  Moore's  Pear."
   },
   {
    "line": 21042,
-   "page": 1900,
+   "page": 329,
    "score": 1.3,
    "key": "RED VANDEVERE",
    "text": "Red  Vandevere.  Meig's."
   },
   {
    "line": 22611,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "RED VANDEVERE",
    "text": "Red  Vandevere."
@@ -2812,21 +4285,21 @@
  "reinette-clochard": [
   {
    "line": 21517,
-   "page": 1900,
+   "page": 333,
    "score": 3.0,
    "key": "ROCHELLE",
    "text": "ROCHELLE    REINETTE."
   },
   {
    "line": 97310,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "ROCHELLE",
    "text": "Rochelle,  N.  Y. ;  plant  hardy,  or  nearly  so,  a  very  strong,  upright,"
   },
   {
    "line": 70132,
-   "page": 1900,
+   "page": 1033,
    "score": 1.0,
    "key": "ROCHELLE",
    "text": "Rochelle  Reinette 337"
@@ -2835,21 +4308,21 @@
  "rome-beauty": [
   {
    "line": 21645,
-   "page": 1900,
+   "page": 333,
    "score": 1.3,
    "key": "ROME BEAUTY",
    "text": "Rome  Beauty."
   },
   {
    "line": 21646,
-   "page": 1900,
+   "page": 333,
    "score": 1.3,
    "key": "GILLETTS SEEDLING",
    "text": "Gillett's  Seedling."
   },
   {
    "line": 70174,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "ROME BEAUTY",
    "text": "Rome  Beauty 340"
@@ -2858,7 +4331,7 @@
  "rosemary-russet": [
   {
    "line": 21713,
-   "page": 1900,
+   "page": 333,
    "score": 1.3,
    "key": "ROSEMARY RUSSET",
    "text": "Rosemary  Russet."
@@ -2867,7 +4340,7 @@
  "ross-nonpareil": [
   {
    "line": 21719,
-   "page": 1900,
+   "page": 333,
    "score": 1.3,
    "key": "ROSS NONPAREIL",
    "text": "Ross  Nonpareil."
@@ -2876,42 +4349,42 @@
  "roxbury-russet": [
   {
    "line": 21786,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "ROXBURY RUSSET",
    "text": "Roxbury  Russet."
   },
   {
    "line": 21795,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "BOSTON RUSSET",
    "text": "Boston  Russet."
   },
   {
    "line": 21796,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "PUTNAM RUSSET",
    "text": "Putnam  Russet."
   },
   {
    "line": 21798,
-   "page": 1900,
+   "page": 342,
    "score": 1.3,
    "key": "SYLVAN RUSSET",
    "text": "Sylvan  Russet."
   },
   {
    "line": 26992,
-   "page": 1900,
+   "page": 421,
    "score": 1.3,
    "key": "ROXBURY RUSSET",
    "text": "Roxbury  Russet.     Market  and  keeper,  North  and  West."
   },
   {
    "line": 64567,
-   "page": 1900,
+   "page": 1014,
    "score": 1.3,
    "key": "BOSTON RUSSET",
    "text": "Boston  Russet 342"
@@ -2920,21 +4393,21 @@
  "sam-young": [
   {
    "line": 22037,
-   "page": 1900,
+   "page": 344,
    "score": 1.3,
    "key": "SAM YOUNG",
    "text": "Sam  Young."
   },
   {
    "line": 22039,
-   "page": 1900,
+   "page": 344,
    "score": 1.3,
    "key": "IRISH RUSSET",
    "text": "Irish  Russet."
   },
   {
    "line": 70343,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "SAM YOUNG",
    "text": "Sam  Young 346"
@@ -2943,21 +4416,21 @@
  "scotch-bridget": [
   {
    "line": 22232,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "SCOTCH BRIDGET",
    "text": "Scotch  Bridget."
   },
   {
    "line": 25346,
-   "page": 1900,
+   "page": 394,
    "score": 1.3,
    "key": "WHITE CALVILLE",
    "text": "White  Calville."
   },
   {
    "line": 70419,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "SCOTCH BRIDGET",
    "text": "Scotch  Bridget"
@@ -2966,35 +4439,35 @@
  "sops-in-wine": [
   {
    "line": 22682,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "Sops  of  Wine."
   },
   {
    "line": 70655,
-   "page": 1900,
+   "page": 1033,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "Sops  of  Wine 356"
   },
   {
    "line": 88632,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "\"  Sops  of  Wine."
   },
   {
    "line": 88893,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": ";     Sops  of  Wine."
   },
   {
    "line": 89063,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "Sops  of  Wine."
@@ -3003,7 +4476,7 @@
  "sturmer-pippin": [
   {
    "line": 23228,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "STURMER PIPPIN",
    "text": "Sturmer  Pippin."
@@ -3012,28 +4485,28 @@
  "yellow-ingestrie": [
   {
    "line": 23357,
-   "page": 1900,
+   "page": 347,
    "score": 1.3,
    "key": "SUMMER GOLDEN PIPPIN",
    "text": "Summer  Golden  Pippin."
   },
   {
    "line": 26311,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "YELLOW INGESTRIE",
    "text": "Yellow  Ingestrie."
   },
   {
    "line": 70915,
-   "page": 1900,
+   "page": 1036,
    "score": 1.3,
    "key": "SUMMER GOLDEN PIPPIN",
    "text": "Summer  Golden  Pippin 367"
   },
   {
    "line": 72072,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "YELLOW INGESTRIE",
    "text": "Yellow  Ingestrie"
@@ -3042,21 +4515,21 @@
  "summer-rambo": [
   {
    "line": 23520,
-   "page": 1900,
+   "page": 368,
    "score": 1.3,
    "key": "SUMMER RAMBO",
    "text": "Summer  Rambo."
   },
   {
    "line": 23524,
-   "page": 1900,
+   "page": 368,
    "score": 1.3,
    "key": "SUMMER RAMBOUR",
    "text": "Summer  Rambour.        Rambour  d'Ete."
   },
   {
    "line": 70943,
-   "page": 1900,
+   "page": 1036,
    "score": 1.3,
    "key": "SUMMER RAMBO",
    "text": "Summer  Rambo 370"
@@ -3065,37 +4538,90 @@
  "calville-blanc-dhiver": [
   {
    "line": 23627,
-   "page": 1900,
+   "page": 368,
    "score": 1.3,
    "key": "CALVILLE BLANC",
    "text": "Calville  Blanc.  Wahrer  Weiser  Sommercalville."
   },
   {
    "line": 25348,
-   "page": 1900,
+   "page": 394,
    "score": 1.3,
    "key": "WHITE WINTER CALVILLE",
    "text": "White  Winter  Calville.  Calville  Blanche  d'Hiver."
   },
   {
    "line": 71739,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "WHITE WINTER CALVILLE",
    "text": "White  Winter  Calville"
   }
  ],
+ "surprise": [
+  {
+   "line": 23659,
+   "page": 368,
+   "score": 1.5,
+   "key": "SURPRISE",
+   "text": "Surprise."
+  },
+  {
+   "line": 61321,
+   "page": 959,
+   "score": 1.5,
+   "key": "SURPRISE",
+   "text": "Surprise."
+  },
+  {
+   "line": 70988,
+   "page": 1037,
+   "score": 1.0,
+   "key": "SURPRISE",
+   "text": "Surprise 373"
+  },
+  {
+   "line": 85565,
+   "page": 1091,
+   "score": 1.0,
+   "key": "SURPRISE",
+   "text": "Surprise 9  <  3"
+  }
+ ],
+ "sweet-winesap": [
+  {
+   "line": 23987,
+   "page": 368,
+   "score": 1.3,
+   "key": "SWEET WINESAP",
+   "text": "Sweet  Winesap."
+  },
+  {
+   "line": 23989,
+   "page": 368,
+   "score": 1.3,
+   "key": "HENRICK SWEET",
+   "text": "Henrick  Sweet  ?        Henry  Sweet.         Ladies  Sweet,  of  some."
+  },
+  {
+   "line": 71088,
+   "page": 1037,
+   "score": 1.3,
+   "key": "SWEET WINESAP",
+   "text": "Sweet  Winesap 378"
+  }
+ ],
  "tom-putt": [
   {
    "line": 24310,
-   "page": 1900,
+   "page": 379,
    "score": 1.3,
    "key": "TOM POTTER",
    "text": "Tom  Potter."
   },
   {
    "line": 71191,
-   "page": 1900,
+   "page": 1037,
    "score": 1.3,
    "key": "TOM POTTER",
    "text": "Tom  Potter"
@@ -3104,65 +4630,88 @@
  "twenty-ounce": [
   {
    "line": 24565,
-   "page": 1900,
+   "page": 379,
    "score": 1.3,
    "key": "TWENTY OUNCE",
    "text": "Twenty  Ounce."
   },
   {
    "line": 24569,
-   "page": 1900,
+   "page": 379,
    "score": 1.3,
    "key": "TWENTY OUNCE",
    "text": "Twenty  Ounce  Apple.  Cayuga  Red  Streak."
   },
   {
    "line": 24571,
-   "page": 1900,
+   "page": 379,
    "score": 1.3,
    "key": "EIGHTEEN OUNCE",
    "text": "Eighteen  Ounce  Apple.  Lima."
   },
   {
    "line": 64998,
-   "page": 1900,
+   "page": 1017,
    "score": 1.3,
    "key": "CAYUGA RED STREAK",
    "text": "Cayuga  Red  Streak. 888"
   },
   {
    "line": 71819,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "WINE OF CONNECTICUT",
    "text": "Wine  of  Connecticut"
   }
  ],
+ "wagener": [
+  {
+   "line": 24968,
+   "page": 394,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "Wagener."
+  },
+  {
+   "line": 24976,
+   "page": 394,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "Wagener."
+  },
+  {
+   "line": 27016,
+   "page": 421,
+   "score": 1.5,
+   "key": "WAGENER",
+   "text": "Wagener.     Table."
+  }
+ ],
  "wealthy": [
   {
    "line": 25175,
-   "page": 1900,
+   "page": 394,
    "score": 1.5,
    "key": "WEALTHY",
    "text": "Wealthy."
   },
   {
    "line": 71535,
-   "page": 1900,
+   "page": 1039,
    "score": 1.5,
    "key": "WEALTHY",
    "text": "Wealthy"
   },
   {
    "line": 87931,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "WEALTHY",
    "text": "Wealthy"
   },
   {
    "line": 90699,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "WEALTHY",
    "text": "Wealthy."
@@ -3171,74 +4720,171 @@
  "wheelers-russet": [
   {
    "line": 25293,
-   "page": 1900,
+   "page": 394,
    "score": 1.3,
    "key": "WHEELERS RUSSET",
    "text": "Wheeler's  Russet."
   },
   {
    "line": 71593,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "WHEELERS RUSSET",
    "text": "Wheeler's  Russet"
   }
  ],
+ "white-winter-pearmain": [
+  {
+   "line": 25588,
+   "page": 394,
+   "score": 1.5,
+   "key": "CAMPBELLITE",
+   "text": "Campbellite."
+  },
+  {
+   "line": 25348,
+   "page": 394,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter  Calville.  Calville  Blanche  d'Hiver."
+  },
+  {
+   "line": 25577,
+   "page": 394,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter."
+  },
+  {
+   "line": 25587,
+   "page": 394,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter  Pearmain."
+  },
+  {
+   "line": 25607,
+   "page": 394,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter  Pearmain."
+  },
+  {
+   "line": 26790,
+   "page": 421,
+   "score": 1.3,
+   "key": "WHITE WINTER",
+   "text": "White  Winter."
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 90095,
+   "page": 1098,
+   "score": 1.5,
+   "key": "WILLIAMS",
+   "text": "Williams,  Nova  Scotia.     Tree  verv  vigoious,  making  a  large  spreading"
+  },
+  {
+   "line": 25680,
+   "page": 394,
+   "score": 1.3,
+   "key": "WILLIAMS FAVORITE",
+   "text": "William's  Favorite."
+  },
+  {
+   "line": 25681,
+   "page": 394,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY",
+   "text": "William's  Early.  William's  Red."
+  },
+  {
+   "line": 71777,
+   "page": 1039,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY",
+   "text": "William's  Early"
+  },
+  {
+   "line": 71779,
+   "page": 1039,
+   "score": 1.3,
+   "key": "WILLIAMS FAVORITE",
+   "text": "William's  Favorite"
+  },
+  {
+   "line": 83211,
+   "page": 1082,
+   "score": 1.3,
+   "key": "WILLIAMS EARLY",
+   "text": "Williams'  Early 883"
+  }
+ ],
  "winesap": [
   {
    "line": 27028,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "WINESAP",
    "text": "Winesap.     Table,  market,  and  keeper."
   },
   {
    "line": 89055,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "WINESAP",
    "text": "Winesap."
   },
   {
    "line": 25863,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "WINE SOP",
    "text": "Wine  Sop  ?  Potpie  Apple."
   },
   {
    "line": 71900,
-   "page": 1900,
+   "page": 1039,
    "score": 1.0,
    "key": "WINESAP",
    "text": "Winesap 411"
   },
   {
    "line": 88668,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "WINESAP",
    "text": "' '  Winesap."
   },
   {
    "line": 88716,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "WINESAP",
    "text": "\"  Winesap."
   }
  ],
+ "reinette-simirenko": [
+  {
+   "line": 26146,
+   "page": 406,
+   "score": 1.3,
+   "key": "WOODS GREENING",
+   "text": "Wood's  Greening."
+  }
+ ],
  "wyken-pippin": [
   {
    "line": 26210,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "WARWICKSHIRE PIPPIN",
    "text": "Warwickshire  Pippin.  Girkin  Pippin.  Arley."
   },
   {
    "line": 72041,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "WYKEN PIPPIN",
    "text": "Wyken  Pippin 417"
@@ -3247,28 +4893,28 @@
  "york-imperial": [
   {
    "line": 26387,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "YORK IMPERIAL",
    "text": "York  Imperial."
   },
   {
    "line": 26388,
-   "page": 1900,
+   "page": 406,
    "score": 1.3,
    "key": "JOHNSONS FINE WINTER",
    "text": "Johnson's  Fine  Winter."
   },
   {
    "line": 67369,
-   "page": 1900,
+   "page": 1025,
    "score": 1.3,
    "key": "JOHNSONS FINE WINTER",
    "text": "Johnson's  Fine  Winter 420"
   },
   {
    "line": 72100,
-   "page": 1900,
+   "page": 1039,
    "score": 1.3,
    "key": "YORK IMPERIAL",
    "text": "York  Imperial"
@@ -3277,14 +4923,14 @@
  "transcendent": [
   {
    "line": 26769,
-   "page": 1900,
+   "page": 421,
    "score": 1.5,
    "key": "TRANSCENDENT",
    "text": "Transcendent."
   },
   {
    "line": 71209,
-   "page": 1900,
+   "page": 1037,
    "score": 1.0,
    "key": "TRANSCENDENT",
    "text": "Transcendent 426"
@@ -3293,42 +4939,42 @@
  "red-delicious": [
   {
    "line": 28566,
-   "page": 1900,
+   "page": 452,
    "score": 1.5,
    "key": "DELICIOUS",
    "text": "delicious.     End  of  June.     (Hogg.)"
   },
   {
    "line": 47518,
-   "page": 1900,
+   "page": 763,
    "score": 1.5,
    "key": "DELICIOUS",
    "text": "delicious.     Very  good  to  best.     Latrt  of  September."
   },
   {
    "line": 62610,
-   "page": 1900,
+   "page": 989,
    "score": 1.5,
    "key": "DELICIOUS",
    "text": "delicious."
   },
   {
    "line": 29145,
-   "page": 1900,
+   "page": 461,
    "score": 1.0,
    "key": "DELICIOUS",
    "text": "delicious  rich  flavor.     Very  good.     Last  of  June."
   },
   {
    "line": 62717,
-   "page": 1900,
+   "page": 989,
    "score": 1.0,
    "key": "DELICIOUS",
    "text": "delicious  pineapple  flavor."
   },
   {
    "line": 97400,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "DELICIOUS",
    "text": "delicious  flavor  as  the  Antwerps — Franconia,  Brinekle's  Orange,"
@@ -3337,42 +4983,42 @@
  "lanes-prince-albert": [
   {
    "line": 31281,
-   "page": 1900,
+   "page": 486,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert."
   },
   {
    "line": 32086,
-   "page": 1900,
+   "page": 503,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert,  early."
   },
   {
    "line": 51984,
-   "page": 1900,
+   "page": 827,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert."
   },
   {
    "line": 58932,
-   "page": 1900,
+   "page": 938,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert  ?"
   },
   {
    "line": 63043,
-   "page": 1900,
+   "page": 989,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert."
   },
   {
    "line": 73893,
-   "page": 1900,
+   "page": 1047,
    "score": 1.3,
    "key": "PRINCE ALBERT",
    "text": "Prince  Albert 491"
@@ -3381,42 +5027,42 @@
  "chestnut-crab": [
   {
    "line": 31652,
-   "page": 1900,
+   "page": 497,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut.  Chestnut-colored  Ischia."
   },
   {
    "line": 36361,
-   "page": 1900,
+   "page": 569,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut,  and  which  is  excellent  when  boiled  or  roasted.  It  thrives"
   },
   {
    "line": 73963,
-   "page": 1900,
+   "page": 1047,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut-colored  Iscliia 497"
   },
   {
    "line": 86558,
-   "page": 1900,
+   "page": 1094,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut,  572."
   },
   {
    "line": 73961,
-   "page": 1900,
+   "page": 1047,
    "score": 1.0,
    "key": "CHESTNUT",
    "text": "Chestnut 497"
   },
   {
    "line": 75812,
-   "page": 1900,
+   "page": 1052,
    "score": 1.0,
    "key": "CHESTNUT",
    "text": "Chestnut 572"
@@ -3425,23 +5071,62 @@
  "freedom": [
   {
    "line": 32091,
-   "page": 1900,
+   "page": 503,
    "score": 1.5,
    "key": "FREEDOM",
    "text": "Freedom."
   },
   {
    "line": 37218,
-   "page": 1900,
+   "page": 569,
    "score": 1.0,
    "key": "FREEDOM",
    "text": "freedom  from  such  disease,  and  with  the  least  possible  care.     The  great"
   }
  ],
+ "keepsake": [
+  {
+   "line": 32115,
+   "page": 503,
+   "score": 1.5,
+   "key": "KEEPSAKE",
+   "text": "Keepsake."
+  },
+  {
+   "line": 74132,
+   "page": 1048,
+   "score": 1.0,
+   "key": "KEEPSAKE",
+   "text": "Keepsake 503"
+  }
+ ],
+ "burgundy": [
+  {
+   "line": 35125,
+   "page": 543,
+   "score": 1.0,
+   "key": "BURGUNDY",
+   "text": "Burgundy  of  Georgia.  Red  Lenoir."
+  },
+  {
+   "line": 56292,
+   "page": 901,
+   "score": 1.0,
+   "key": "BURGUNDY",
+   "text": "Burgundy  Prune."
+  },
+  {
+   "line": 83585,
+   "page": 1083,
+   "score": 1.0,
+   "key": "BURGUNDY",
+   "text": "Burgundy  Prune 902"
+  }
+ ],
  "worcester-pearmain": [
   {
    "line": 36236,
-   "page": 1900,
+   "page": 569,
    "score": 1.5,
    "key": "WORCESTER",
    "text": "Worcester,  England.  The  tree  is  vigorous.  Leaves  with  globose"
@@ -3450,21 +5135,21 @@
  "early-victoria": [
   {
    "line": 38641,
-   "page": 1900,
+   "page": 608,
    "score": 1.3,
    "key": "EARLY VICTORIA",
    "text": "Early  Victoria."
   },
   {
    "line": 88161,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "EARLY VICTORIA",
    "text": "Early  Victoria 170"
   },
   {
    "line": 96591,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "EARLY VICTORIA",
    "text": "Early  Victoria."
@@ -3473,28 +5158,28 @@
  "ambrosia": [
   {
    "line": 41661,
-   "page": 1900,
+   "page": 653,
    "score": 1.5,
    "key": "AMBROSIA",
    "text": "Ambrosia."
   },
   {
    "line": 61672,
-   "page": 1900,
+   "page": 959,
    "score": 1.5,
    "key": "AMBROSIA",
    "text": "Ambrosia."
   },
   {
    "line": 77273,
-   "page": 1900,
+   "page": 1061,
    "score": 1.0,
    "key": "AMBROSIA",
    "text": "Ambrosia 658"
   },
   {
    "line": 85627,
-   "page": 1900,
+   "page": 1091,
    "score": 1.0,
    "key": "AMBROSIA",
    "text": "Ambrosia 978"
@@ -3503,37 +5188,90 @@
  "kronprinz-rudolf": [
   {
    "line": 48097,
-   "page": 1900,
+   "page": 763,
    "score": 1.0,
    "key": "KRONPRINZ",
    "text": "Kronprinz  Ferdinand.  Beurre  d'Ardenpont."
   },
   {
    "line": 81030,
-   "page": 1900,
+   "page": 1073,
    "score": 1.0,
    "key": "KRONPRINZ",
    "text": "Kronprinz  Ferdinand 773"
   },
   {
    "line": 81032,
-   "page": 1900,
+   "page": 1073,
    "score": 1.0,
    "key": "KRONPRINZ",
    "text": "Kronprinz  von  Oestreich 77:!"
   }
  ],
+ "ontario": [
+  {
+   "line": 51145,
+   "page": 823,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario."
+  },
+  {
+   "line": 88457,
+   "page": 1098,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario.  .  .  .  137"
+  },
+  {
+   "line": 91800,
+   "page": 1098,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario."
+  },
+  {
+   "line": 91821,
+   "page": 1098,
+   "score": 1.5,
+   "key": "ONTARIO",
+   "text": "Ontario."
+  },
+  {
+   "line": 75065,
+   "page": 1052,
+   "score": 1.0,
+   "key": "ONTARIO",
+   "text": "Ontario 557"
+  },
+  {
+   "line": 81669,
+   "page": 1075,
+   "score": 1.0,
+   "key": "ONTARIO",
+   "text": "Ontario 824"
+  }
+ ],
+ "crimson-beauty": [
+  {
+   "line": 56369,
+   "page": 901,
+   "score": 1.3,
+   "key": "EARLY SCARLET",
+   "text": "Early  Scarlet.  De  Virginie.  Prunus  Cerasifera."
+  }
+ ],
  "grenadier": [
   {
    "line": 60193,
-   "page": 1900,
+   "page": 951,
    "score": 1.5,
    "key": "GRENADIER",
    "text": "Grenadier,  of  the  French  ;  Gfrcmatenbaum,  German ;  Melagran»,"
   },
   {
    "line": 85232,
-   "page": 1900,
+   "page": 1089,
    "score": 1.0,
    "key": "GRENADIER",
    "text": "Grenadier  a  Fruit  Doux 957"
@@ -3542,44 +5280,97 @@
  "white-transparent": [
   {
    "line": 61303,
-   "page": 1900,
+   "page": 959,
    "score": 1.3,
    "key": "WHITE TRANSPARENT",
    "text": "White  Transparent."
   },
   {
    "line": 73754,
-   "page": 1900,
+   "page": 1046,
    "score": 1.3,
    "key": "WHITE TRANSPARENT",
    "text": "White  Transparent 462"
   },
   {
    "line": 85590,
-   "page": 1900,
+   "page": 1091,
    "score": 1.3,
    "key": "WHITE TRANSPARENT",
    "text": "White  Transparent 973"
   },
   {
    "line": 94294,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "YELLOW TRANSPARENT",
    "text": "Yellow  Transparent."
   }
  ],
+ "champion": [
+  {
+   "line": 61895,
+   "page": 959,
+   "score": 1.5,
+   "key": "CHAMPION",
+   "text": "Champion."
+  },
+  {
+   "line": 97440,
+   "page": 1098,
+   "score": 1.5,
+   "key": "CHAMPION",
+   "text": "Champion."
+  },
+  {
+   "line": 85754,
+   "page": 1092,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion 982"
+  },
+  {
+   "line": 88479,
+   "page": 1098,
+   "score": 1.0,
+   "key": "CHAMPION",
+   "text": "Champion Igii    Monarch  of  the  West  Ififl"
+  }
+ ],
+ "frogmore-prolific": [
+  {
+   "line": 62268,
+   "page": 959,
+   "score": 1.0,
+   "key": "FROGMORE",
+   "text": "Frogmore  Late  Pine."
+  },
+  {
+   "line": 85921,
+   "page": 1092,
+   "score": 1.0,
+   "key": "FROGMORE",
+   "text": "Frogmore  Late  Pine 9  ■ ;"
+  },
+  {
+   "line": 97119,
+   "page": 1098,
+   "score": 1.0,
+   "key": "FROGMORE",
+   "text": "Frogmore  Damson."
+  }
+ ],
  "stirling-castle": [
   {
    "line": 63324,
-   "page": 1900,
+   "page": 989,
    "score": 1.3,
    "key": "STIRLING CASTLE",
    "text": "Stirling  Castle  Pine."
   },
   {
    "line": 86374,
-   "page": 1900,
+   "page": 1094,
    "score": 1.3,
    "key": "STIRLING CASTLE",
    "text": "Stirling  Castle  Pine 1003"
@@ -3588,7 +5379,7 @@
  "calville-rouge-dhiver": [
   {
    "line": 64833,
-   "page": 1900,
+   "page": 1016,
    "score": 1.3,
    "key": "CALVILLE ROUGE DHIVER",
    "text": "Calville  Rouge  d'Hiver 328"
@@ -3597,32 +5388,50 @@
  "duke-of-devonshire": [
   {
    "line": 65628,
-   "page": 1900,
+   "page": 1018,
    "score": 1.3,
    "key": "DUKE OF DEVONSHIRE",
    "text": "Duke  of  Devonshire 150"
   }
  ],
+ "benoni": [
+  {
+   "line": 65781,
+   "page": 1020,
+   "score": 1.8,
+   "key": "FAIL ME NEVER",
+   "text": "Fail-Me-Never"
+  }
+ ],
  "norfolk-beefing": [
   {
    "line": 68723,
-   "page": 1900,
+   "page": 1028,
    "score": 1.3,
    "key": "NORFOLK BEEFING",
    "text": "Norfolk  Beefing 288"
   }
  ],
+ "api-etoile": [
+  {
+   "line": 70768,
+   "page": 1036,
+   "score": 1.3,
+   "key": "STAR LADY",
+   "text": "Star  Lady  Apple 245"
+  }
+ ],
  "fortune": [
   {
    "line": 80248,
-   "page": 1900,
+   "page": 1070,
    "score": 1.5,
    "key": "FORTUNE",
    "text": "Fortune,  de  Bemme 766"
   },
   {
    "line": 80246,
-   "page": 1900,
+   "page": 1070,
    "score": 1.0,
    "key": "FORTUNE",
    "text": "Fortune 766"
@@ -3631,7 +5440,7 @@
  "belle-de-boskoop": [
   {
    "line": 87034,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "BELLE DE BOSKOOP",
    "text": "Belle  de  Boskoop 77"
@@ -3640,7 +5449,7 @@
  "black-twig": [
   {
    "line": 87066,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "BLACK TWIG",
    "text": "Black  Twig 78"
@@ -3649,14 +5458,14 @@
  "centennial": [
   {
    "line": 92602,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "CENTENNIAL",
    "text": "Centennial."
   },
   {
    "line": 87137,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "CENTENNIAL",
    "text": "Centennial 80"
@@ -3665,39 +5474,78 @@
  "landsberger-reinette": [
   {
    "line": 87505,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "LANDSBERGER REINETTE",
    "text": "Landsberger  Reinette 20"
   },
   {
    "line": 89984,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "REINETTE DE LANDSBERG",
    "text": "Reinette  de  Landsberg."
   }
  ],
+ "swazie": [
+  {
+   "line": 87707,
+   "page": 1098,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or.  .  *. 27"
+  },
+  {
+   "line": 90270,
+   "page": 1098,
+   "score": 1.3,
+   "key": "SWAZIE POMME GRISE",
+   "text": "Swazie  Pomme  Grise."
+  },
+  {
+   "line": 90281,
+   "page": 1098,
+   "score": 1.3,
+   "key": "POMME GRISE DOR",
+   "text": "Pomme  Grise  d'Or."
+  }
+ ],
  "wolf-river": [
   {
    "line": 87953,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "WOLF RIVER",
    "text": "Wolf  River"
   },
   {
    "line": 94206,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "WOLF RIVER",
    "text": "Wolf  River."
   }
  ],
+ "pewaukee": [
+  {
+   "line": 90231,
+   "page": 1098,
+   "score": 1.5,
+   "key": "PEWAUKEE",
+   "text": "Pewaukee."
+  },
+  {
+   "line": 90234,
+   "page": 1098,
+   "score": 1.5,
+   "key": "PEWAUKEE",
+   "text": "Pewaukee,  Wis.,  who  sends  us  specimens,  and  writes  that  the  tree  ia"
+  }
+ ],
  "lady-henniker": [
   {
    "line": 91445,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "LADY HENNIKER",
    "text": "Lady  Henniker."
@@ -3706,7 +5554,7 @@
  "mcintosh-red": [
   {
    "line": 91542,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "MCINTOSH RED",
    "text": "Mcintosh  Red."
@@ -3715,7 +5563,7 @@
  "shenandoah": [
   {
    "line": 92056,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "SHENANDOAH",
    "text": "Shenandoah  Valley  of  its  season  ;  tree  thrifty  and  vigorous,  making  a"
@@ -3724,14 +5572,14 @@
  "francis": [
   {
    "line": 92687,
-   "page": 1900,
+   "page": 1098,
    "score": 1.5,
    "key": "FRANCIS",
    "text": "Francis  H.  Dawes,  of  Cummington,  Mass.,  where  it  is  much  culti-"
   },
   {
    "line": 95818,
-   "page": 1900,
+   "page": 1098,
    "score": 1.0,
    "key": "FRANCIS",
    "text": "Francis  Borgia  \""
@@ -3740,26 +5588,44 @@
  "peasgoods-nonsuch": [
   {
    "line": 93561,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "PEASGOODS NONESUCH",
    "text": "Peasgood's  Nonesuch."
   }
  ],
+ "bietigheimer": [
+  {
+   "line": 93607,
+   "page": 1098,
+   "score": 1.3,
+   "key": "RED BIETIGHEIMER",
+   "text": "Red  Bietigheimer."
+  }
+ ],
  "stayman-winesap": [
   {
    "line": 93858,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "STAYMANS WINESAP",
    "text": "Stayman's  Winesap."
   },
   {
    "line": 93865,
-   "page": 1900,
+   "page": 1098,
    "score": 1.3,
    "key": "STAYMANS WINESAP",
    "text": "Stayman's  Winesap."
+  }
+ ],
+ "niagara": [
+  {
+   "line": 96437,
+   "page": 1098,
+   "score": 1.5,
+   "key": "NIAGARA",
+   "text": "Niagara."
   }
  ]
 }

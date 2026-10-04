@@ -1,0 +1,102 @@
+{
+  "_book": "lindley-1831",
+  "alfriston": {
+    "line": 2377, "end": 2398, "heading": "ALFRISTON", "match": "exact",
+    "flavour": "Flesh yellowish white, very crisp and tender. Juice plentiful, saccharine, combined with a smart brisk acid.",
+    "quality": "A very fine and excellent culinary apple",
+    "storage": "in October and till Christmas.",
+    "climate": null,
+    "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 4,
+    "note": "Lindley gives the season as October till Christmas (Hogg: November to April). Sometimes wrongly called Newtown Pippin."
+  },
+  "edelborsdorfer": {
+    "line": 2998, "end": 3025, "heading": "BORSDORFF", "match": "synonym",
+    "flavour": "Flesh yellowish white, firm, crisp. Juice sugary, with a singularly musky perfume.",
+    "quality": "a German apple of very excellent quality",
+    "storage": "A dessert apple from November till February.",
+    "climate": null,
+    "tags": ["sweet", "musky", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Synonyms Borsdorffer, Reinette batarde, Postophe d'Hiver, Bursdoff or Queen's Apple. A favourite of Queen Charlotte; specimen brought from Leipsic in 1798."
+  },
+  "reinette-du-canada": {
+    "line": 3066, "end": 3111, "heading": "CANADIAN REINETTE", "match": "synonym",
+    "flavour": "Flesh yellowish white, firm, juicy, with a high, brisk, sub-acid flavour.",
+    "quality": "An excellent dessert fruit",
+    "storage": "in December, and keeps well till March.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+    "note": "Synonyms Reinette de Canada, Grosse Reinette d'Angleterre, Reinette de Canada blanche, Reinette de Canada a Cotes, Portugal apple, Janurea. Often sold in London as Newtown Pippin."
+  },
+  "dutch-mignonne": {
+    "line": 3267, "end": 3310, "heading": "DUTCH MIGNONNE", "match": "exact",
+    "flavour": "Flesh very firm, crisp. Juice plentiful, with a delicious aromatic, sub-acid flavour.",
+    "quality": "This very valuable apple",
+    "storage": "A dessert apple from November till May or June.",
+    "climate": null,
+    "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+    "note": "Synonyms Christ's Golden Reinette, Reinette Doree, Pomme de Laak, Paternoster Apple. Brought from Holland to Catton near Norwich by Thomas Harvey."
+  },
+  "golden-harvey": {
+    "line": 3507, "end": 3528, "heading": "GOLDEN HARVEY", "match": "exact",
+    "flavour": "Flesh yellow, firm, breaking, very rich, juicy, spicy, and high flavoured.",
+    "quality": "A most excellent and beautiful dessert apple",
+    "storage": "ripening in December, and keeping till May or June.",
+    "climate": null,
+    "tags": ["spice"], "against": [], "sweet": null, "acid": null,
+    "note": "Synonym Brandy Apple."
+  },
+  "holland-pippin": {
+    "line": 3613, "end": 3627, "heading": "HOLLAND PIPPIN", "match": "exact",
+    "flavour": "Flesh yellowish white, pretty firm, tender. Juice sub-acid, mixed with a good deal of sugar, and a slight perfume.",
+    "quality": "A culinary apple",
+    "storage": "from November till January.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 3, "acid": 3,
+    "note": "Miller's Holland Pippin (the one Hogg accepts as the true Holland Pippin); no Kirton synonym given."
+  },
+  "lucombes-seedling": {
+    "line": 3676, "end": 3691, "heading": "LUCOMBE'S SEEDLING", "match": "exact",
+    "flavour": "Flesh whitish, firm, juicy, and agreeable, but not high flavoured.",
+    "quality": "A very handsome culinary fruit",
+    "storage": "from October till February or March.",
+    "climate": null,
+    "tags": ["mild"], "against": [], "sweet": null, "acid": null,
+    "note": "Raised by Mr. Lucombe of Exeter."
+  },
+  "baxters-pearmain": {
+    "line": 4174, "end": 4192, "heading": "BAXTER'S PEARMAIN", "match": "exact",
+    "flavour": "Flesh firm. Juice saccharine, and well flavoured.",
+    "quality": null,
+    "storage": "A culinary apple from November till March.",
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "A real Norfolk apple, in general cultivation throughout the county."
+  },
+  "ortley": {
+    "line": 4941, "end": 4959, "heading": "ORTLEY APPLE", "match": "exact",
+    "flavour": "Flesh inclining to yellow, crisp, and breaking. Juice plentiful, with the same fine flavour which distinguishes the Newtown Pippin.",
+    "quality": "This most excellent variety",
+    "storage": "A dessert apple from November till April.",
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Native of New Jersey; shown to the Horticultural Society in March 1825. Likened to the yellow Newtown Pippin."
+  },
+  "fenouillet-gris": {
+    "line": 5451, "end": 5484, "heading": "FENOUILLET GRIS", "match": "exact",
+    "flavour": "Flesh yellowish white, crisp, tender, with a saccharine and highly flavoured aromatic juice.",
+    "quality": "a very neat French apple",
+    "storage": "A dessert apple from November till February.",
+    "climate": null,
+    "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+    "note": "Synonyms Anis, Caraway Russet, Spice Apple, Brown Apple of Burnt Island, Rook's-nest Apple; often sold in London as Aromatic Russet. This ties our Caraway Russet aka to Fenouillet Gris. Lindley does not mention anise beyond the synonym."
+  },
+  "foxwhelp": {
+    "line": 6252, "end": 6268, "heading": "FOX-WHELP", "match": "exact",
+    "flavour": "The expressed juice of this is extremely rich and saccharine, and enters, in a greater or less proportion, into the composition of many of the finest ciders now made in Herefordshire, to which it communicates both strength and flavour.",
+    "quality": null,
+    "storage": null,
+    "climate": null,
+    "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+    "note": "Specific gravity of the juice 1076 to 1080. Known since Ray (1688); Knight believed it native to Herefordshire. No mention of acidity or astringency."
+  }
+}

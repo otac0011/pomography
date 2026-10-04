@@ -1,0 +1,464 @@
+[
+  {
+    "id": "gloria-mundi",
+    "name": "Gloria Mundi",
+    "aka": ["Pound", "American Mammoth", "Monstrous Pippin", "Glazenwood Gloria Mundi", "Ox Apple"],
+    "uses": ["culinary"],
+    "origin": {
+      "country": "US",
+      "place": "Probably New York (some say Germany)",
+      "year": 1804,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A giant cooking apple first recorded in the USA in 1804, thought to have been raised in New York though a German origin has also been suggested. Its many names overlap with other huge apples: the National Fruit Collection lists Mère de Ménage as a synonym and vice versa, but the two are held as separate accessions and Bunyard considered them distinct. 'Pound' is also used for other big apples, including Fallawater.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "brown",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": null,
+      "description": "Very large, broad, ribbed green-yellow apple, sometimes with a faint bronze blush."
+    },
+    "taste": {
+      "summary": "Rather soft, coarse, yellowish to greenish flesh with a mild subacid flavour, somewhat dry; valued for size and cooking rather than taste.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": ["mild"],
+      "cider_class": null,
+      "best_eaten": "Oct-Mar for cooking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "light",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous, spreading tree that USDA Geneva rates as unproductive; the heavy fruit needs a sheltered site."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Mar",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Sheltered temperate gardens in eastern North America and southern England.",
+      "poor_climates": "Windy sites, where the huge fruit is blown down (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found; poor cropping is the main recorded fault."
+    },
+    "grow_notes": "Grown as a curiosity for its enormous fruit. Plant on a sheltered site and thin to single fruits per cluster so they reach full size.",
+    "conf": "medium"
+  },
+  {
+    "id": "golden-nugget",
+    "name": "Golden Nugget",
+    "aka": [],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "CA",
+      "place": "Kentville Research Station, Nova Scotia",
+      "year": 1932,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Golden Russet x Cox's Orange Pippin",
+      "raised_by": "C.J. Bishop, Kentville"
+    },
+    "history": "Raised in 1932 by C.J. Bishop at Kentville, Nova Scotia, from Golden Russet crossed with Cox, and introduced in 1964. It was bred as a richly flavoured yellow dessert apple for maritime Canada.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "orange",
+      "blush_cover": 20,
+      "stripes": true,
+      "russet": 2,
+      "description": "Small, broadly conical golden apple with a long stalk, orange streaks and splashes, and plenty of russet."
+    },
+    "taste": {
+      "summary": "Crisp, juicy flesh with a very sweet, rich and mellow flavour. Good fresh and excellent for pies, sauce and apple butter, but it does not keep long.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Spreading to drooping habit at Brogdale."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group 3 per Orange Pippin; Brogdale records early-May flowering."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Oct-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool maritime climates such as Nova Scotia and the UK.",
+      "poor_climates": "Not documented; probably loses its rich flavour quickly in hot climates (inferred from short keeping)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found. Short storage life."
+    },
+    "grow_notes": "A good garden dessert apple for cool, damp climates. Eat or cook the crop within a few weeks of picking.",
+    "conf": "medium"
+  },
+  {
+    "id": "guldborg",
+    "name": "Guldborg",
+    "aka": ["Guldborgæble"],
+    "uses": ["culinary", "dessert"],
+    "origin": {
+      "country": "DK",
+      "place": "Lolland, Denmark (Guldborg area)",
+      "year": 1870,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": "Seedling of Maglemer",
+      "raised_by": null
+    },
+    "history": "A Danish summer apple from the Guldborg district of Lolland, known by the 1870s and recorded by the Danish Pometet as a Maglemer seedling. It remains one of the best-known Lolland-Falster apples and is regarded in Denmark as a classic early cooking apple.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 25,
+      "stripes": true,
+      "russet": 0,
+      "description": "Tall, conical, strongly ribbed apple with a thin, greasy creamy-yellow skin, lightly flushed and flecked scarlet."
+    },
+    "taste": {
+      "summary": "Firm white flesh with a subacid flavour that Brogdale's panel found evenly balanced between sweet and sharp but not very juicy; the Wikipedia list calls it aromatic. Mainly a cooking apple for late summer.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Upright tree."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Flowers early at Brogdale (around 1 May)."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool Baltic and North Sea climates of Denmark and southern Scandinavia.",
+      "poor_climates": "Late-frost sites could damage its early blossom (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No reliable disease ratings found."
+    },
+    "grow_notes": "A regional heritage apple for cool northern gardens. Use the crop quickly in late summer for cooking.",
+    "conf": "low"
+  },
+  {
+    "id": "halberstadter-jungfernapfel",
+    "name": "Halberstädter Jungfernapfel",
+    "aka": ["Halberstadter Jungfernapfel", "Schmuckapfel"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "DE",
+      "place": "Harz region, near Halberstadt, Germany",
+      "year": 1885,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old apple of the Harz area of central Germany, recorded in 1885. It is the mother of Geheimrat Breuhahn.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": null,
+      "description": "Tall, ribbed green to yellow apple blushed and striped orange-scarlet."
+    },
+    "taste": {
+      "summary": "Firm, rather coarse pale cream flesh with a moderately sweet, subacid flavour. Brogdale's tasting panel rated it balanced but low in aroma and only moderately juicy.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Spreading habit at Brogdale."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool central German upland climates.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found."
+    },
+    "grow_notes": "A regional heritage apple for collectors; little practical growing information is published in English.",
+    "conf": "low"
+  },
+  {
+    "id": "hammerstein",
+    "name": "Hammerstein",
+    "aka": ["Minister von Hammerstein", "Hammersteinovo", "General von Hammerstein"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "DE",
+      "place": "Royal Pomological Institute (Höhere Lehranstalt), Geisenheim, Germany",
+      "year": 1882,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Landsberger Reinette seedling (open-pollinated)",
+      "raised_by": "Rudolph Goethe, Geisenheim"
+    },
+    "history": "Raised from seed of Landsberger Reinette at Geisenheim in 1882 under Rudolph Goethe; it first fruited in 1891 and was sold from 1895. It was named after the Prussian agriculture minister Ernst von Hammerstein-Loxten and became a garden apple in Germany and northern Bohemia; it is the mother of Geheimrat Doktor Oldenburg.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "orange",
+      "blush_cover": 15,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish, bluntly ribbed apple with a smooth, greasy yellowish-green skin ripening golden, finely speckled, with a faint washed brownish-orange cheek."
+    },
+    "taste": {
+      "summary": "Very juicy, firm yellowish flesh with a sweet-subacid to tart, aromatic flavour that holds its quality through storage. Brogdale's panel found sweetness and acidity both fairly high and well balanced.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": ["perfumed", "sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb; does not shrivel in store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Strong when young, later moderate, making a broad round crown with plenty of short fruiting spurs; suits espaliers and small trained forms. Crops early and heavily but alternates; thin heavy sets to keep size up."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May). Blossom is reported to be frost-resistant."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool central European climates; resistant to wood and blossom frost, so suited to colder German and Bohemian sites.",
+      "poor_climates": "Damp, disease-prone sites because of its scab, canker and woolly aphid susceptibility."
+    },
+    "health": {
+      "scab": 4,
+      "canker": 4,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Susceptible to scab, canker and woolly aphid, moderately to mildew; fruit bruises easily and can rot in store. Overcropping gives small fruit."
+    },
+    "grow_notes": "Train as an espalier or small tree and thin fruitlets in heavy years. Needs a spray programme or an airy site against scab; handle fruit gently.",
+    "conf": "medium"
+  },
+  {
+    "id": "herma",
+    "name": "Herma",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "DE",
+      "place": "Kaiser Wilhelm Institute, Müncheberg, Brandenburg, Germany",
+      "year": 1935,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Jonathan seedling (pollen parent unknown)",
+      "raised_by": "Kaiser Wilhelm Institute for Breeding Research, Müncheberg"
+    },
+    "history": "Raised in the 1930s at the Kaiser Wilhelm Institute in Müncheberg from a Jonathan seedling. Material later went to Poland's Skierniewice institute, the USDA in 1969 and the UK National Fruit Trials in 1977.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 65,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, ribbed, rounded yellow apple flushed and striped red over much of the skin, which can be tough."
+    },
+    "taste": {
+      "summary": "Crisp, juicy cream flesh, slightly acid, with a delicate perfume; USDA records liken it to Northern Spy but rate the eating quality only fair.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": ["perfumed"],
+      "cider_class": null,
+      "best_eaten": "Dec-Mar after storage"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Comes into bearing early with moderate productivity; drooping habit at Brogdale."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Dec-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central European continental climates with a long enough autumn to ripen a late-October apple.",
+      "poor_climates": "Short-season sites where a late-October apple cannot ripen (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found."
+    },
+    "grow_notes": "A late keeper for collectors: leave on the tree until late October and store cool until winter.",
+    "conf": "low"
+  }
+]

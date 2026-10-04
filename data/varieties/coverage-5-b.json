@@ -1,0 +1,618 @@
+[
+ {
+  "id": "belle-fleur-de-france",
+  "name": "Belle Fleur de France",
+  "aka": ["Belle Fleur Double", "Double Bon Pommier", "Double Bonne Ente", "Grosse Bonne Ente"],
+  "uses": ["dessert", "culinary", "juice"],
+  "origin": {
+   "country": null,
+   "place": "Belgium or northern France",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old dual-purpose apple of the Low Countries and northern France, held in the UK National Fruit Collection since 1948. Its exact origin and date were not found.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": false,
+   "russet": null,
+   "description": "Large, broadly conical, ribbed fruit, green to yellow with a solid red flush; cream flesh."
+  },
+  "taste": {
+   "summary": "Firm, fairly juicy flesh with a good sweet-sharp balance leaning to sweet and moderate aroma; used both fresh and in the kitchen.",
+   "sweet": 4,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "spreading",
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "triploid",
+   "notes": "Vigorous, regular-bearing triploid spur-bearer with good crops."
+  },
+  "pollination": {
+   "flower_group": 5,
+   "self_fertile": "no",
+   "notes": "Triploid, so a poor pollen donor; needs two diploid partners. Brogdale dates put it late (about group 5); Orange Pippin lists group 4."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Jan",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate north-west European conditions like Belgium, northern France and southern England.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": 2,
+   "canker": 3,
+   "mildew": 3,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Average disease resistance overall: some scab resistance, some susceptibility to canker and powdery mildew."
+  },
+  "grow_notes": "A big, vigorous triploid for orchards or large gardens; give it room and two diploid pollinators. Suited to low-input or organic growing.",
+  "conf": "low"
+ },
+ {
+  "id": "bietigheimer",
+  "name": "Bietigheimer",
+  "aka": ["Red Bietigheimer", "Roter Bietigheimer"],
+  "uses": ["culinary"],
+  "origin": {
+   "country": "DE",
+   "place": "Germany (name refers to Bietigheim, Württemberg)",
+   "year": 1870,
+   "year_note": "before",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A German apple brought to North America around 1870 and received by the UK National Fruit Trials in 1905. It was noted mainly for its huge, handsome fruit. In Germany the name 'Bietigheimer' is also a regional synonym of Roter Stettiner, so take care with identity.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": null,
+   "russet": 1,
+   "description": "Very large, broad, ribbed fruit, pale greenish yellow flushed pinkish to deep red, with russet dots."
+  },
+  "taste": {
+   "summary": "Coarse, crisp, white flesh that is juicy and acid to subacid; plain as a dessert apple but cooks well.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Sep-Nov, for cooking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Spreading to drooping habit at Brogdale; little other tree data."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": null,
+   "notes": "Flowers early at Brogdale (about group 2)."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 6
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate central European and north-eastern American conditions where it was historically grown.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease data found."
+  },
+  "grow_notes": "Grow it as a curiosity for its very large early-autumn cooking apples. Use the fruit within a couple of months of picking.",
+  "conf": "low"
+ },
+ {
+  "id": "birgit-bonnier",
+  "name": "Birgit Bonnier",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "SE",
+   "place": "Balsgård, Skåne, Sweden",
+   "year": 1988,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Cortland x Lord Lambourne",
+   "raised_by": "Balsgård fruit breeding institute"
+  },
+  "history": "A Swedish dessert apple from the Balsgård breeding station, released in 1988 and named after the fruit grower Birgit Bonnier, wife of the publisher Albert Bonnier Jr., who ran an organic orchard at Dalarö.",
+  "look": {
+   "size": "medium",
+   "shape": "flat",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 1,
+   "description": "Medium, flat fruit, pale green to yellowish, flushed and striped orange-red over much of the skin."
+  },
+  "taste": {
+   "summary": "Sweet, pleasantly aromatic flesh. Swedish sources call it juicy, though fruit assessed at Brogdale was soft and rather dry.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, within a month of picking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Spreading to drooping habit at Brogdale."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Flowering time not recorded; both parents flower early to mid season."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 4
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Southern and central Sweden (Swedish growing zones 1-4) and similar cool, short-summer climates.",
+   "poor_climates": "Untested in hot climates."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": 2,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some resistance to scab and mildew is reported."
+  },
+  "grow_notes": "An early-autumn dessert apple for cool Nordic-type gardens. Eat the fruit soon after picking, as it keeps only about a month.",
+  "conf": "medium"
+ },
+ {
+  "id": "black-ben-davis",
+  "name": "Black Ben Davis",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Farm of M. Black, Washington County, Arkansas, USA",
+   "year": 1880,
+   "year_note": "c.",
+   "kind": "discovered",
+   "parentage": "Thought to be a seedling or deeper-coloured sport of Ben Davis",
+   "raised_by": null
+  },
+  "history": "Found around 1880 on M. Black's farm in Washington County, Arkansas, and regarded as a more highly coloured seedling or sport of Ben Davis. It was grown as a showy market apple that kept into spring.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": 90,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium to large, roundish-conical fruit with smooth, glossy skin almost entirely covered in brilliant dark crimson."
+  },
+  "taste": {
+   "summary": "Firm, rather coarse, moderately crisp and moderately juicy white flesh; mildly subacid and sweetish with only a little aroma. Quality is fair to good.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["mild"],
+   "cider_class": null,
+   "best_eaten": "Jan-Apr"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "upright",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Upright habit at Brogdale; otherwise expected to grow like Ben Davis."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Flowers late-mid season at Brogdale (group 4-5)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 22
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm continental summers like the Ozarks and US Midwest, where Ben Davis types were widely planted.",
+   "poor_climates": "Cool maritime summers leave it plain-flavoured."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "A long-keeping, highly coloured market apple for warm-summer areas. Store it cool and eat from mid-winter.",
+  "conf": "medium"
+ },
+ {
+  "id": "black-oxford",
+  "name": "Black Oxford",
+  "aka": [],
+  "uses": ["dessert", "culinary", "cider"],
+  "origin": {
+   "country": "US",
+   "place": "Paris, Oxford County, Maine, USA",
+   "year": 1790,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Reported as Hunt Russet x Blue Pearmain (not confirmed)",
+   "raised_by": null
+  },
+  "history": "An old Maine apple from Paris in Oxford County, dating to about 1790 and widely grown in the state in the 1800s. It has made a comeback among heritage growers in New England.",
+  "look": {
+   "size": "medium",
+   "shape": "round",
+   "ground": null,
+   "blush": "purple",
+   "blush_cover": 95,
+   "stripes": false,
+   "russet": null,
+   "description": "Medium, round fruit of a deep purple, almost black colour under a bluish bloom, like a large plum."
+  },
+  "taste": {
+   "summary": "Firm, rather dry white flesh, sweet-sharp at first and growing steadily sweeter over months in store; still firm into early summer. Good for pies, pink sauce and late cider.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 2,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Late Dec-Mar, after storage"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "light",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Average vigour spur-bearer; light cropping is reported. Blossom is an unusual pale pink."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Early to mid-season bloom in Maine; Orange Pippin lists group 4."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 24
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold-winter New England conditions like inland Maine.",
+   "poor_climates": "Not documented; short-season far-northern sites may not ripen it fully."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Some insect and disease resistance is reported; overall disease resistance rated good."
+  },
+  "grow_notes": "A hardy, long-keeping all-purpose apple for cold northern areas. Pick late, store cool and eat from the New Year when it has sweetened.",
+  "conf": "medium"
+ },
+ {
+  "id": "brabant-bellefleur",
+  "name": "Brabant Bellefleur",
+  "aka": ["Brabantsche Bellefleur", "Belle-Fleur de Brabant", "Belle Fleur Simple", "Petit Bon Ente"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "NL",
+   "place": "Brabant (southern Netherlands / Flanders)",
+   "year": 1780,
+   "year_note": "c.",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old apple of Flemish or Dutch Brabant, noticed in the late 1700s and grown in the Netherlands, Belgium and northern France. It gained an RHS Award of Merit in 1901.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "orange-red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 1,
+   "description": "Medium to large, broadly conical fruit, greenish yellow with an orange-red flush and red stripes, sometimes some russet."
+  },
+  "taste": {
+   "summary": "Firm, crisp, yellowish-white flesh with a sweet flavour balanced by some acidity and a slight aroma. A late keeper used in the kitchen and for eating.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 3,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "upright-spreading",
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Fairly vigorous with good crops. Ploidy is uncertain: Orange Pippin lists it as diploid yet a poor pollinator."
+  },
+  "pollination": {
+   "flower_group": 6,
+   "self_fertile": "no",
+   "notes": "Late flowering (Brogdale dates suggest group 6; Orange Pippin lists 5), which helps it escape spring frost. Pair with another late-flowering variety."
+  },
+  "season": {
+   "harvest": "mid Oct-late Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 20
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate north-west European conditions like the Low Countries; late blossom suits frosty sites.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease ratings found."
+  },
+  "grow_notes": "A late-flowering, long-keeping kitchen and table apple that is easy for beginners. Plant with another late-blossoming variety and store the fruit for winter.",
+  "conf": "medium"
+ },
+ {
+  "id": "brettacher-samling",
+  "name": "Brettacher Samling",
+  "aka": ["Brettacher"],
+  "uses": ["culinary", "dessert", "juice", "cider"],
+  "origin": {
+   "country": "DE",
+   "place": "Brettach, near Heilbronn, Württemberg, Germany",
+   "year": 1908,
+   "year_note": "c.",
+   "kind": "chance",
+   "parentage": "Usually given as a chance seedling; the National Fruit Collection lists Reinette de Champagne x Jakob Lebel",
+   "raised_by": "Mr Kuttruff, farmer at Brettach"
+  },
+  "history": "A seedling from Brettach near Heilbronn (seed reportedly sown around 1900, tree noticed about 1908), spread from the 1920s and still a main orchard apple in Baden-Württemberg. 'Samling' is the Scandinavian word for seedling.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 25,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large to very large, flattened, ribbed fruit, greenish yellow with a pink flush and red streaks under a thick waxy skin."
+  },
+  "taste": {
+   "summary": "Coarse, crisp, very juicy flesh with a refreshing tart acidity and modest sugar. It mellows from Christmas onward and keeps until late spring.",
+   "sweet": 2,
+   "acid": 4,
+   "aroma": 1,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Jan-Apr"
+  },
+  "tree": {
+   "vigor": 5,
+   "habit": "spreading",
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "triploid",
+   "notes": "Strong-growing triploid with sparse branching and a broad, flat crown. Robust and healthy on suitable soils."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Triploid, so useless as a pollinator; needs two diploid partners. Flowers late-mid season."
+  },
+  "season": {
+   "harvest": "late Oct",
+   "eating": "Dec-Apr",
+   "storage_weeks": 26
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm lowland sites with a long growing season, like the Neckar valley.",
+   "poor_climates": "High, cold sites (fruit tastes grassy) and cold, wet soils, where canker becomes a problem."
+  },
+  "health": {
+   "scab": 2,
+   "canker": 4,
+   "mildew": null,
+   "fire_blight": 3,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Generally robust, but canker-prone on cold, wet soils and somewhat susceptible to fire blight."
+  },
+  "grow_notes": "A big, robust triploid for warm, well-drained orchard sites. Pick late and store cool; the fruit is used for cooking, juice and cider as well as late eating.",
+  "conf": "medium"
+ },
+ {
+  "id": "britemac",
+  "name": "Britemac",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New Jersey Agricultural Experiment Station, New Brunswick, New Jersey, USA",
+   "year": 1934,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "(Melba x McIntosh) x (Kildare x Langford Beauty), seedlings of open-pollinated crosses",
+   "raised_by": "Prof. M.A. Blake, New Jersey Agricultural Experiment Station"
+  },
+  "history": "Raised in 1934 by M.A. Blake at the New Jersey station as a brighter-coloured McIntosh-type dessert apple. It is now rarely grown.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 65,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, broadly conical fruit, greenish yellow brightly flushed and striped red."
+  },
+  "taste": {
+   "summary": "Sweet, crisp, juicy white flesh in the McIntosh style; in store it softens and becomes mild.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": "spreading",
+   "bearing": "spur",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Spur-bearing; little other tree data."
+  },
+  "pollination": {
+   "flower_group": 5,
+   "self_fertile": "no",
+   "notes": "Flowers late-mid season (Orange Pippin group 5; Brogdale dates group 4-5)."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 6
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": true,
+   "best_climates": "North-eastern US conditions with cool autumn nights, as for other McIntosh types.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": 2,
+   "bitter_pit": null,
+   "other": "Rated resistant to cedar-apple rust."
+  },
+  "grow_notes": "An early-autumn McIntosh-type apple to eat fresh off the tree. Plant with a late-mid season pollinator.",
+  "conf": "low"
+ }
+]

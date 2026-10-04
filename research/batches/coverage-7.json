@@ -1,0 +1,290 @@
+{
+ "batch": "coverage-7",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "hibernal",
+   "name": "Hibernal",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "histon-favourite",
+   "name": "Histon Favourite",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Chiver's Seedling"
+   ],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/histon-favourite"
+  },
+  {
+   "id": "holiday",
+   "name": "Holiday",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/holiday"
+  },
+  {
+   "id": "holland-pippin",
+   "name": "Holland Pippin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Pie Apple",
+    "Summer Pippin"
+   ],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/broad-eyed-pippin"
+  },
+  {
+   "id": "idagold",
+   "name": "Idagold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "idajon",
+   "name": "Idajon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "ingol",
+   "name": "Ingol",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "jamba-69",
+   "name": "Jamba 69",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "jersey-black",
+   "name": "Jersey Black",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "refpop",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Jersey_Black"
+  },
+  {
+   "id": "jerseymac",
+   "name": "Jerseymac",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/jersey-mac"
+  },
+  {
+   "id": "john-standish",
+   "name": "John Standish",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "jonalicious",
+   "name": "Jonalicious",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/jonalicious"
+  },
+  {
+   "id": "jubilee",
+   "name": "Jubilee",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Jubilee_apple"
+  },
+  {
+   "id": "kandil-sinap",
+   "name": "Kandil Sinap",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/kandil-sinap"
+  },
+  {
+   "id": "king-cole",
+   "name": "King Cole",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/king-cole"
+  },
+  {
+   "id": "linda",
+   "name": "Linda",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "liveland-raspberry",
+   "name": "Liveland Raspberry",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Lowland Raspberry"
+   ],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Liveland_Raspberry_apple"
+  },
+  {
+   "id": "lucombes-seedling",
+   "name": "Lucombe's Seedling",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Lucombe%27s_Seedling"
+  },
+  {
+   "id": "manningtons-pearmain",
+   "name": "Mannington's Pearmain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "medina",
+   "name": "Medina",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

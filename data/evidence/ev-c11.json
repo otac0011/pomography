@@ -1,0 +1,196 @@
+{
+ "_batch": "ev-c11",
+ "autumn-bough": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=256&&fruit=apple",
+    "words": ["sweet to subacid", "soft", "white flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia has no flavour words and calls it 'early ripening', which conflicts with the name and with The Apples of New York's treatment as a later 'Bough'. The NFC register's synonym list overlaps with Sweet Bough (id 686), which it lists separately. No Orange Pippin page."
+ },
+ "black-diamond": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://es.wikipedia.org/wiki/Black_Diamond_(manzana)",
+    "words": ["grano fino", "crujiente", "jugoso", "dulce", "ligeramente ácido"], "tags": ["sweet"], "sweet": null, "acid": 2, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": {"needs": "cool", "note": "The near-black colour is credited to growing above 3,500 m with large day-night temperature swings and strong UV (en and es Wikipedia)."},
+  "peak": null,
+  "notes": "en.wikipedia gives no flavour words. Both Wikipedias place it in the Huaniu family; es says it is not itself Red Delicious, but zh.wikipedia treats Huaniu as Red Delicious grown in Tianshui. No Orange Pippin or NFC page."
+ },
+ "clarke-pearmain": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=1134&&fruit=apple",
+    "words": ["sweet", "subacid", "firm", "crisp"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/golden-pearmain",
+    "words": ["rich", "tender", "rather dry", "extremely good eating"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The Orange Pippin page is titled 'Golden Pearmain', a synonym the NFC gives for Clarke Pearmain, but the NFC also lists two other Golden Pearmains, so there is a homonym risk. Its text describes heavy bright russet, while the NFC records only russet dots. No en.wikipedia flavour words (stub)."
+ },
+ "coccagee": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Coccagee",
+    "words": ["harsh", "austere", "acidic", "rich flavour when cooked"], "tags": ["sharp"], "sweet": 1, "acid": 5, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The Wikipedia flavour words come from Hogg (1859) and an 18th-century poem, not modern tasting. The NFC lists only a CIBO local-register entry 'Coccagee (of Calluragh)', with no description. Probably extinct."
+ },
+ "geheimrat-dr-oldenburg": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Geheimrat_Dr._Oldenburg",
+    "words": ["locker", "saftig", "fein süßsäuerlich", "fast exotisch"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=2219&&fruit=apple",
+    "words": ["fine, softish flesh", "subacid", "crisp", "loose texture"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null,
+  "peak": "October to December after a September harvest (de.wikipedia).",
+  "notes": "NFC gives 'softish' flesh in one section and 'crisp' in its own characterisation. No Orange Pippin page; en.wikipedia has no flavour words."
+ },
+ "huaniu": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Huaniu",
+    "words": ["sweet", "comparable with Fuji"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://regional.chinadaily.com.cn/gansu/2025-01/14/c_1064271.htm",
+    "words": ["crisp texture", "distinctive in flavor", "ruby color"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": {"needs": "cool", "note": "China Daily credits the Loess Plateau's deep soil, abundant sunshine and moderate rain; as a red Delicious type its colour depends on cool nights."},
+  "peak": null,
+  "notes": "zh.wikipedia (Red Delicious article) says Huaniu is Red Delicious introduced to Huaniu village and tastes noticeably different from US-grown Red Delicious. en.wikipedia instead says it is a hybrid of ten varieties. en.wikipedia gives malic acid as 0.08%, which would mean very low acidity."
+ },
+ "julieta": {
+  "sources": [
+   {"src": "other", "url": "https://ishs.org/ishs-article/872_25/",
+    "words": ["good quality for the season"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Keeps about 30-45 days in a cold room (ISHS abstract).",
+  "climate_flavour": {"needs": "warm", "note": "Bred for subtropical sites with only 100-500 chill units."},
+  "peak": null,
+  "notes": "No flavour description found anywhere; en.wikipedia is a stub."
+ },
+ "new-brunswicker": {
+  "sources": [],
+  "storage_change": "Does not store well (en.wikipedia).", "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia (stub) gives uses only (eating and baking). No Orange Pippin or NFC page found."
+ },
+ "poveshon": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Poveshon",
+    "words": ["sweet", "uncommonly dry", "rich yellow flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The Wikipedia words quote Coxe (1817) and Downing; there is no modern tasting. A possible rediscovered tree (NY, 2015) is unconfirmed."
+ },
+ "red-autumn-calville": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/calville-rouge-dautomne",
+    "words": ["sweet", "slight strawberry flavor", "tender", "juicy", "smooth creamy texture"], "tags": ["sweet", "strawberry"], "sweet": null, "acid": null, "against": []},
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=921&&fruit=apple",
+    "words": ["subacid", "perfumed", "tender", "coarse"], "tags": ["perfumed"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://de.wikipedia.org/wiki/Roter_Herbstkalvill",
+    "words": ["intensiv himbeer- bis erdbeerartiges Aroma", "aromatic juice"], "tags": ["berry", "strawberry", "perfumed"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The Wikipedia entry combines de (raspberry-strawberry aroma) and en ('aromatic' red-tinged juice) as one source. The NFC synonym list is very long and includes names such as Edelkonig that the NFC also uses for a separate Dutch accession."
+ },
+ "red-pineapple": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5468&&fruit=apple",
+    "words": ["sweet", "subacid", "fine, firm flesh"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia (stub) has no flavour words. The NFC entry 'Roter Ananas' matches the Danish name Rød Ananas. No source mentions a pineapple flavour."
+ },
+ "sciros": {
+  "sources": [
+   {"src": "orangepippin", "url": "https://www.orangepippin.com/varieties/apples/pacific-rose",
+    "words": ["crisp", "juicy", "sweet", "subtle flavor"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Sciros",
+    "words": ["mostly sweet", "very little acidity", "compared to Fuji"], "tags": ["sweet", "mild"], "sweet": null, "acid": 1, "against": []}
+  ],
+  "storage_change": "Keeps very well in storage (en.wikipedia).", "climate_flavour": null, "peak": null,
+  "notes": "Orange Pippin gives the cultivar name as 'Scirose'; Wikipedia uses 'Sciros'. Orange Pippin visitor reviews are split between 'best apple' and 'bland'; those reviews were not used as a source."
+ },
+ "styre": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Styre",
+    "words": ["bittersharp", "high in tannin and acid", "initially acidic", "sweet, honey-like with keeping", "exceptionally flavoursome cider"], "tags": ["sharp", "astringent", "honey", "sweet"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Acidic when picked; becomes sweet, honeyed and edible after keeping (en and fr Wikipedia).",
+  "climate_flavour": null, "peak": null,
+  "notes": "fr.wikipedia repeats the same points and is not counted separately. Extinct since 1968; the descriptions are historical."
+ },
+ "sugarbee": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/SugarBee",
+    "words": ["sweet", "crisp", "caramel", "honey", "molasses"], "tags": ["sweet", "caramel", "honey"], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://patents.google.com/patent/USPP23777",
+    "words": ["firm, crisp, melting", "sweet", "sub-acid", "juicy", "mild aroma"], "tags": ["sweet"], "sweet": null, "acid": null, "against": []},
+   {"src": "other", "url": "https://specialtyproduce.com/produce/SugarBee_Apples_18673.php",
+    "words": ["sweet aroma", "mild", "sweet", "subacid", "fruity undertones", "caramel", "floral nuances", "crunchy"], "tags": ["sweet", "mild", "caramel", "floral"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Keeps up to about five months in cold storage and longer in CA, outlasting Honeycrisp (patent; Wikipedia).",
+  "climate_flavour": null, "peak": null,
+  "notes": "The plant patent (CN 121) is the breeder's own description. Specialty Produce gives 14.6 Brix against Honeycrisp's 13.8. No Orange Pippin or NFC page."
+ },
+ "sunflare": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Sunflare_(apple)",
+    "words": ["sweet and tart", "crisp", "juicy", "not as hard"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []},
+   {"src": "university", "url": "https://news.cahnrs.wsu.edu/?p=64669",
+    "words": ["sweet yet tart", "crunchy", "juicy", "firm bite", "complex, balanced"], "tags": ["sweet", "sharp"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": "Stores 9-12 months in controlled atmosphere and resists bruising (en.wikipedia).",
+  "climate_flavour": null, "peak": null,
+  "notes": "Too new for Orange Pippin or the NFC. Wikipedia mentions mild sunburn susceptibility."
+ },
+ "swazie": {
+  "sources": [],
+  "storage_change": "Keeps well through the winter (en.wikipedia).", "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia says only 'high-quality'; there are no flavour words. No Orange Pippin or NFC entry under Swazie, Swayzie or Pomme Grise d'Or. The Apples of New York (1905, vol. 1 pp. 328-329) has the full description but was not consulted."
+ },
+ "sweetie": {
+  "sources": [
+   {"src": "other", "url": "https://patents.google.com/patent/USPP19762",
+    "words": ["sweet", "medium acidity", "rich aroma", "crisp", "very juicy", "moderately firm"], "tags": ["sweet", "perfumed"], "sweet": null, "acid": 3, "against": []},
+   {"src": "other", "url": "https://www.specialtyproduce.com/produce/Sweetie_Apples_10034.php",
+    "words": ["low acidity", "very sweet", "subtly spiced", "very mild", "crisp"], "tags": ["sweet", "spice", "mild"], "sweet": 5, "acid": 2, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The two sources disagree: the patent (breeder) gives medium acidity and rich aroma, while Specialty Produce says low acid and very mild. The patent gives the cross as Braeburn x Royal Gala; Wikipedia reverses it. en.wikipedia has no flavour words."
+ },
+ "taliaferro": {
+  "sources": [
+   {"src": "wikipedia", "url": "https://en.wikipedia.org/wiki/Taliaferro_(apple)",
+    "words": ["very juicy", "good for eating"], "tags": [], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "The words are Jefferson's, quoted on Wikipedia, which also reports his comparison of the cider to wine or Champagne (about the cider, so not tagged). Monticello pages were not reachable. Probably extinct."
+ },
+ "tartu-rose": {
+  "sources": [
+   {"src": "nfc", "url": "https://www.nationalfruitcollection.org.uk/full2.php?id=5532&&fruit=apple",
+    "words": ["do not have much flavour", "firm", "crisp", "juicy"], "tags": ["mild"], "sweet": null, "acid": null, "against": []}
+  ],
+  "storage_change": null,
+  "climate_flavour": {"needs": "cool", "note": "The NFC says the fruit has little flavour in the UK, implying it does better in its Baltic home climate."},
+  "peak": null,
+  "notes": "The NFC accession is 'Rozovoe iz Tartu' (from the Vavilov Institute, 1976). et/en Wikipedia cite Hansman (1970) saying it is probably identical to Wealthy, but the NFC clone picks a month before Wealthy and is crisp rather than soft, so its identity is unresolved."
+ },
+ "woodcock": {
+  "sources": [],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia gives appearance only (Hogg) and no flavour words. Not the same as NFC 'Green Woodcock'. Probably lost; 'Frederick' has been suggested as a possible survivor."
+ },
+ "amanda": {
+  "sources": [
+   {"src": "other", "url": "https://www.rhs.org.uk/plants/505728/malus-domestica-amanda-cider/details",
+    "words": ["medium bittersweet", "early pressings"], "tags": ["bitter", "astringent"], "sweet": null, "acid": null, "against": []},
+   {"src": "pomology-site", "url": "https://pomiferous.com/applebyname/amanda-id-6828",
+    "words": ["medium bitter sweet", "tannin more than 0.2%", "acidity less than 0.45%"], "tags": ["bitter", "astringent"], "sweet": null, "acid": 1, "against": []}
+  ],
+  "storage_change": null, "climate_flavour": null, "peak": null,
+  "notes": "en.wikipedia ('bittersweet') is not counted because it is drawn from the RHS and Pomiferous pages. Pomiferous lists flowering group C and partial tip-bearing; RHS says early-flowering."
+ }
+}

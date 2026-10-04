@@ -257,3 +257,25 @@ details > summary { cursor: pointer; font-weight: 600; }
 .vocab .card { padding: 10px 12px; font-size: .88rem; }
 .vocab h4 { margin: 0 0 4px; }
 .lead { font-size: 1.05rem; max-width: 72ch; }
+/* grow it where you are (variety page) + place picker */
+.gh-head { display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: space-between; align-items: flex-start; }
+.gh-head h3 { margin: 0; }
+.gh-score { display: flex; gap: 14px; align-items: center; margin: 14px 0 6px; }
+.changes { display: grid; gap: 8px; margin-bottom: 12px; }
+.chg { display: grid; grid-template-columns: 26px 1fr; gap: 8px; align-items: start; padding: 7px 10px; border-radius: 10px; background: var(--panel2); border-left: 4px solid var(--none); font-size: .9rem; }
+.chg.good { border-left-color: var(--good); } .chg.ok { border-left-color: var(--ok); } .chg.warn { border-left-color: var(--warn); } .chg.bad { border-left-color: var(--bad); }
+.chg .arr { font-size: .95rem; line-height: 1.5; text-align: center; color: var(--muted); }
+.chg span { color: var(--muted); }
+.chg b { color: var(--ink); }
+.linklike { background: none; border: 0; padding: 0; color: var(--link); text-decoration: underline; cursor: pointer; font: inherit; }
+.pickdlg { width: min(860px, calc(100vw - 24px)); max-height: calc(100vh - 24px); padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
+.pickdlg::backdrop { background: rgba(20, 15, 5, .45); }
+.pick-head { display: flex; justify-content: space-between; align-items: center; }
+.pick-head h3 { margin: 0; }
+.pick-tools { display: flex; gap: 8px; margin: 10px 0 6px; }
+.pick-tools input { flex: 1; min-width: 0; }
+.pick-res { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+.pick-hit { border: 1px solid var(--line); background: var(--panel2); color: var(--ink); border-radius: 999px; padding: 4px 10px; font: inherit; font-size: .86rem; cursor: pointer; }
+.pick-hit:hover, .pick-hit:focus { border-color: var(--accent); }
+.pick-map { height: min(60vh, 520px); border-radius: 10px; border: 1px solid var(--line); }
+@media (max-width: 600px) { .pick-tools { flex-wrap: wrap; } .pick-map { height: 52vh; } }

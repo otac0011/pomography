@@ -2,51 +2,95 @@
  "charles-ross": [
   {
    "line": 5476,
-   "page": 89,
+   "page": 30,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT, F.R.S, Xc."
   },
   {
    "line": 5596,
-   "page": 89,
+   "page": 30,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT."
   },
   {
    "line": 5647,
-   "page": 89,
+   "page": 30,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT."
   },
   {
    "line": 5707,
-   "page": 89,
+   "page": 32,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT."
   },
   {
    "line": 5763,
-   "page": 89,
+   "page": 32,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT."
   },
   {
    "line": 5824,
-   "page": 89,
+   "page": 34,
    "score": 3.8,
    "key": "THOMAS ANDREW KNIGHT",
    "text": "THOMAS ANDREW KNIGHT."
   }
  ],
+ "foxwhelp": [
+  {
+   "line": 813,
+   "page": null,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp."
+  },
+  {
+   "line": 15946,
+   "page": 159,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp."
+  },
+  {
+   "line": 17538,
+   "page": 159,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp."
+  },
+  {
+   "line": 17540,
+   "page": 159,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp."
+  },
+  {
+   "line": 17542,
+   "page": 159,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp."
+  },
+  {
+   "line": 24843,
+   "page": 159,
+   "score": 1.5,
+   "key": "FOXWHELP",
+   "text": "Foxwhelp, re-cultivated ... tv."
+  }
+ ],
  "hereford-redstreak": [
   {
    "line": 932,
-   "page": 89,
+   "page": 30,
    "score": 1.8,
    "key": "HEREFORD REDSTREAK",
    "text": "Hereford Redstreak."
@@ -59,17 +103,26 @@
    "text": "Redstreak Apple"
   }
  ],
+ "chenango": [
+  {
+   "line": 939,
+   "page": 30,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry Hereford."
+  }
+ ],
  "worcester-pearmain": [
   {
    "line": 1044,
-   "page": 89,
+   "page": 30,
    "score": 1.5,
    "key": "WORCESTER",
    "text": "Worcester"
   },
   {
    "line": 4920,
-   "page": 89,
+   "page": 30,
    "score": 1.0,
    "key": "WORCESTER",
    "text": "“ Worcester a pear tree laden with its fruit.”"
@@ -89,10 +142,77 @@
    "text": "Worcester Rolls"
   }
  ],
+ "clarke-pearmain": [
+  {
+   "line": 1052,
+   "page": 30,
+   "score": 1.5,
+   "key": "GLOUCESTER",
+   "text": "Gloucester"
+  },
+  {
+   "line": 9100,
+   "page": 76,
+   "score": 1.5,
+   "key": "GLOUCESTER",
+   "text": "Gloucester, 4th June, 1643.” Waller."
+  },
+  {
+   "line": 24273,
+   "page": 159,
+   "score": 1.5,
+   "key": "GLOUCESTER",
+   "text": "Gloucester, but there are other villages called Staunton."
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 19313,
+   "page": 159,
+   "score": 1.8,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer Pearmain. It is figured in Ronalds’ Pyrus Malus Brentfordiensis, plate xxii, fig. 4."
+  },
+  {
+   "line": 1129,
+   "page": 30,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American apples are brought in considerable quantities into our own markets, and the careful"
+  },
+  {
+   "line": 4071,
+   "page": 30,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American orchard. He thinks that the translation which represents the Hebrew word “ taffuah”"
+  },
+  {
+   "line": 13669,
+   "page": 129,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American Blight (Aphis lanigera). —'The common Apple-tree aphis in Spring is often"
+  },
+  {
+   "line": 24395,
+   "page": 159,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American Blight"
+  },
+  {
+   "line": 24827,
+   "page": 159,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "-American ... 145"
+  }
+ ],
  "adams-pearmain": [
   {
    "line": 4597,
-   "page": 89,
+   "page": 30,
    "score": 1.5,
    "key": "NORFOLK",
    "text": "Norfolk, by petty serjeantry, the paying of 200 pearmains, and four hogsheads ( modios ) of"
@@ -101,7 +221,7 @@
  "costard": [
   {
    "line": 4614,
-   "page": 89,
+   "page": 30,
    "score": 1.0,
    "key": "COSTARD",
    "text": "Costard tree.” It must have been extensively grown and appreciated at one time for it has given"
@@ -117,16 +237,53 @@
  "discovery": [
   {
    "line": 5669,
-   "page": 89,
+   "page": 30,
    "score": 1.0,
    "key": "DISCOVERY",
    "text": "discovery was awarded to Mr. Knight by common consent. It can, however, easily be shown, that"
   }
  ],
+ "golden-harvey": [
+  {
+   "line": 5861,
+   "page": 34,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey, Orange Pippin, and Siberian Crab —and the results of their hybridization are"
+  },
+  {
+   "line": 5885,
+   "page": 34,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 5893,
+   "page": 34,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 5908,
+   "page": 34,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  },
+  {
+   "line": 5914,
+   "page": 34,
+   "score": 1.8,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden Harvey"
+  }
+ ],
  "yellow-ingestrie": [
   {
    "line": 5883,
-   "page": 89,
+   "page": 34,
    "score": 1.8,
    "key": "YELLOW INGESTRIE",
    "text": "Yellow Ingestrie ... 1800"
@@ -135,21 +292,21 @@
  "siberian-crab": [
   {
    "line": 5898,
-   "page": 89,
+   "page": 34,
    "score": 1.8,
    "key": "SIBERIAN CRAB",
    "text": "Siberian Crab"
   },
   {
    "line": 5906,
-   "page": 89,
+   "page": 34,
    "score": 1.8,
    "key": "SIBERIAN CRAB",
    "text": "Siberian Crab"
   },
   {
    "line": 6280,
-   "page": 89,
+   "page": 40,
    "score": 1.8,
    "key": "SIBERIAN CRAB",
    "text": "Siberian Crab , and the pollen of the Golden Harvey. The fruit will be fit for the press early in"
@@ -158,7 +315,7 @@
  "arbroath-pippin": [
   {
    "line": 6219,
-   "page": 89,
+   "page": 39,
    "score": 1.0,
    "key": "ORIGINAL",
    "text": "Original tree at Wormsley Grange, and raised from a seed of the Orange Pippin and the pollen of"
@@ -174,7 +331,7 @@
  "kerry-pippin": [
   {
    "line": 6322,
-   "page": 89,
+   "page": 40,
    "score": 1.8,
    "key": "RED STREAK",
    "text": "Red Streak ......... 1079"
@@ -190,7 +347,7 @@
  "court-pendu-plat": [
   {
    "line": 6339,
-   "page": 89,
+   "page": 40,
    "score": 1.0,
    "key": "GARNONS",
    "text": "Garnon’s Pear."
@@ -206,7 +363,7 @@
  "manks-codlin": [
   {
    "line": 6410,
-   "page": 89,
+   "page": 42,
    "score": 1.0,
    "key": "BELMONT",
    "text": "Belmont Pear."
@@ -217,6 +374,22 @@
    "score": 1.0,
    "key": "BELMONT",
    "text": "Belmont Pear ... ... ... 42"
+  }
+ ],
+ "alfriston": [
+  {
+   "line": 7191,
+   "page": 52,
+   "score": 1.0,
+   "key": "SHEPHERDS",
+   "text": "(Shepherd’s Week — Thursday — 91.)"
+  },
+  {
+   "line": 7217,
+   "page": 52,
+   "score": 1.0,
+   "key": "SHEPHERDS",
+   "text": "(Shepherds Week — Thursday — 99.)"
   }
  ],
  "christmas-pearmain": [
@@ -236,7 +409,7 @@
   },
   {
    "line": 7632,
-   "page": 89,
+   "page": 58,
    "score": 1.0,
    "key": "CHRISTMAS",
    "text": "(Christmas in the Olden Time.)"
@@ -259,10 +432,19 @@
  "francis": [
   {
    "line": 9881,
-   "page": 89,
+   "page": 88,
    "score": 1.0,
    "key": "FRANCIS",
    "text": "Francis Stretton for Ceiling the Church, dated August 22nd, 1634 ; Agreement of Wages for Parish"
+  }
+ ],
+ "williams-favourite": [
+  {
+   "line": 11400,
+   "page": 96,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "Williams Bon Chretien."
   }
  ],
  "wyken-pippin": [
@@ -340,6 +522,45 @@
    "text": "Woodstock, within ten yards of the wall of Blenheim Park stands all that remains of the original"
   }
  ],
+ "detroit-red": [
+  {
+   "line": 17838,
+   "page": 159,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson. Eye, small and closed, with erect pointed segments, set in a deep and plaited basin ;"
+  },
+  {
+   "line": 21205,
+   "page": 159,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson ; the surface is strewed more or less with minute russet spots. Eye : closed, with"
+  },
+  {
+   "line": 22908,
+   "page": 159,
+   "score": 1.5,
+   "key": "CRIMSON",
+   "text": "crimson. Eye : scarcely at all depressed, large, half open, with broad and flat segments, which"
+  },
+  {
+   "line": 18013,
+   "page": 159,
+   "score": 1.0,
+   "key": "CRIMSON",
+   "text": "crimson next the sun, covered with crimson and russety dots. Eye, small and open, set in a rather"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 18098,
+   "page": 159,
+   "score": 1.3,
+   "key": "GLORIA MUNDI",
+   "text": "Gloria Mundi with Golden Mundi , which he has described under the head of Monstows Pepping."
+  }
+ ],
  "gloster": [
   {
    "line": 18466,
@@ -363,7 +584,7 @@
    "line": 19824,
    "page": 159,
    "score": 1.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "Cox's Orange Pippin."
   }
  ],

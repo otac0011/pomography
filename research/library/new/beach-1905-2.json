@@ -1,0 +1,156 @@
+{
+ "_book": "beach-1905-2",
+ "benoni": {
+  "line": 1162, "end": 1223, "heading": "BENONI", "match": "exact",
+  "flavour": "Flesh yellow, firm, crisp, fine-grained, tender, juicy, pleasant subacid, good to very good.",
+  "quality": "Benoni is a fine dessert apple, very attractive in appearance and excellent in quality but not large enough to be a good market variety.",
+  "storage": null,
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Originated in Dedham, Massachusetts; introduced shortly before 1832. Found by own search (no candidate line)."
+ },
+ "bietigheimer": {
+  "line": 1225, "end": 1288, "heading": "BETIGHEIMER", "match": "synonym",
+  "flavour": "It is a good cooking apple but coarse, subacid and not desirable for dessert use. Flesh almost white, firm, very coarse, crisp, somewhat tough, juicy, subacid, fair to nearly good.",
+  "quality": "Fruit remarkable only for its great size and beauty.",
+  "storage": null,
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Heading spelt Betigheimer; synonyms Bietigheimer, Red Bietigheimer. Origin Germany. Found by own search."
+ },
+ "chenango": {
+  "line": 2187, "end": 2268, "heading": "CHENANGO", "match": "exact",
+  "flavour": "Flesh white, moderately firm, tender, juicy, mild subacid, very aromatic, good to very good.",
+  "quality": "of excellent dessert quality and good also for culinary uses",
+  "storage": "The latest ripening fruit may be kept in ordinary storage till November, but after that the color fades and it deteriorates much in quality, even though it may remain apparently sound (22).",
+  "climate": null,
+  "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonyms Chenango Strawberry, Sherwood's Favorite, Strawberry as in our aka."
+ },
+ "detroit-red": {
+  "line": 2957, "end": 3062, "heading": "DETROIT RED", "match": "exact",
+  "flavour": "It is esteemed by many for dessert use because of its mild, pleasant flavor. Flesh white, sometimes streaked or stained with red, rather coarse, tender, juicy, agreeable mild subacid, very aromatic, good to very good.",
+  "quality": "good to very good",
+  "storage": "It is quite variable in keeping qualities, being commonly in season about with Maiden Blush.",
+  "climate": null,
+  "tags": ["mild", "perfumed"], "against": ["sharp"], "sweet": null, "acid": 2,
+  "note": "Synonyms Detroit, Detroit Black, Black Detroit, Crimson Pippin as in our aka. Beach warns that Detroit Red and Detroit Black may be two or more varieties grown under these names in Western New York; he describes them as one. Supposed brought to Detroit by early French settlers."
+ },
+ "gloria-mundi": {
+  "line": 4600, "end": 4674, "heading": "GLORIA MUNDI", "match": "exact",
+  "flavour": "Flesh slightly tinged with greenish-yellow, coarse, moderately crisp, rather tender, juicy, rather mild subacid, fair or nearly good in quality.",
+  "quality": "fair or nearly good in quality",
+  "storage": null,
+  "climate": null,
+  "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonyms American Mammoth, Monstrous Pippin, Glazenwood Gloria Mundi, Ox Apple, Pound as in our aka. Fruit of largest size, suitable only for culinary purposes."
+ },
+ "golden-sweet": {
+  "line": 4848, "end": 4910, "heading": "GOLDEN SWEET", "match": "exact",
+  "flavour": "Fruit of good medium size, attractive clear yellow when fully mature, rich, sweet, very good in flavor and quality. Flesh yellowish-white, firm, fine-grained, moderately tender, juicy, very sweet, aromatic, good to very good.",
+  "quality": "very good in flavor and quality",
+  "storage": null,
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 5, "acid": null,
+  "note": "Old Connecticut variety, mid-August to late September; synonyms Golden Sweeting and Early Golden Sweet match ours. Beach describes 'Summer Sweet' (another old Connecticut sweet apple, in our aka) as a separate variety, so that entry was not used."
+ },
+ "american-golden-pippin": {
+  "line": 4960, "end": 4994, "heading": "GOLDING", "match": "synonym",
+  "flavour": "flesh rather coarse, aromatic, subacid and excellent in quality for either dessert or culinary uses.",
+  "quality": "excellent in quality for either dessert or culinary uses",
+  "storage": null,
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Described under Golding, with synonyms American Golden Pippin, American Golden, Golden Apple and Golden Pippin of Westchester County (all in our aka). Found by own search via Beach's note on 'The Golden Pippins'."
+ },
+ "hibernal": {
+  "line": 5775, "end": 5821, "heading": "HIBERNAL", "match": "exact",
+  "flavour": "flesh acid, with some astringency, juicy, good for cooking. Flesh yellowish, crisp, tender, juicy, acid; core small; quality above medium.",
+  "quality": "Although not a good dessert fruit this is a fine cooking apple and on account of its great hardiness and productiveness is one of the best of the Russian apples",
+  "storage": null,
+  "climate": "A Russian variety which is proving valuable in portions of the Upper Mississippi valley and the Northwest because of its ability to withstand the rigorous climatic conditions of those regions.",
+  "tags": ["sharp", "astringent"], "against": [], "sweet": null, "acid": 5,
+  "note": "Flavour sentences are Beach's quotations of Hansen and Macoun. Synonyms Orsimui, Osimoe, Ronma (Romna) match ours; Beach describes Romna (Romenskoe) separately as a distinct Russian apple."
+ },
+ "jefferis": {
+  "line": 6461, "end": 6535, "heading": "JEFFERIS", "match": "exact",
+  "flavour": "Fruit of medium size, yellow, blushed and splashed with red; flesh tender, mild subacid, delicious. Flesh yellowish-white, firm, fine, crisp, tender, very juicy, mild subacid, very good.",
+  "quality": "very good",
+  "storage": "It begins to ripen in September and continues in season till early winter. Commercial limit October (25).",
+  "climate": null,
+  "tags": ["mild"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonyms Everbearing, Grantham as in our aka; Chester county, Pa., 1848."
+ },
+ "liveland-raspberry": {
+  "line": 7722, "end": 7739, "heading": "LOWLAND RASPBERRY", "match": "synonym",
+  "flavour": "flesh white, often stained with red, fine, very tender, pleasant mild subacid, almost sweet",
+  "quality": null,
+  "storage": null,
+  "climate": null,
+  "tags": ["mild", "sweet"], "against": [], "sweet": 3, "acid": 2,
+  "note": "Short note quoting Hansen; synonyms Liveland, Livland and Lievland Raspberry. Not tested in New York."
+ },
+ "maiden-blush": {
+  "line": 8303, "end": 8411, "heading": "MAIDEN BLUSH", "match": "exact",
+  "flavour": "The flesh is white, sprightly, not superior in flavor but good in quality. Flesh white or with slight yellow tinge, fine, moderately crisp, tender, very juicy, subacid, good in quality especially for culinary uses.",
+  "quality": "good in quality especially for culinary uses",
+  "storage": "Later than this although the fruit may appear sound it is deficient in quality. In cold storage its commercial limit appears to be about December 15th. It does not stand heat well before going into storage.",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Heading OCR 'MADDEN BLUSH'. Synonyms Lady Blush, Red Cheek as in our aka; described by Coxe in 1817, named by Samuel Allinson of Burlington, N.J."
+ },
+ "ohio-nonpareil": {
+  "line": 8806, "end": 8870, "heading": "OHIO NONPAREIL", "match": "exact",
+  "flavour": "Flesh tinged with yellow, firm, moderately fine, crisp, tender, juicy, agreeable subacid, aromatic, good to very good.",
+  "quality": "A fine fall apple of good color and good quality for either dessert or culinary purposes.",
+  "storage": null,
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms Myers Nonpareil, Bellflower of the West, Cattell Apple, Rusty Core, Wells as in our aka; originated near Massillon, Ohio. Beach's vol. 1 'Wells' is a different (Maryland) apple."
+ },
+ "primate": {
+  "line": 9962, "end": 10072, "heading": "PRIMATE", "match": "exact",
+  "flavour": "the fruit ripens in succession during a period of several weeks and is of fine flavor and excellent quality particularly for dessert use. Flesh whitish, fine, crisp, very tender, juicy, subacid, aromatic, sprightly, very good to best.",
+  "quality": "very good to best",
+  "storage": null,
+  "climate": "In some localities the tree has proved somewhat tender, not very long-lived and rather susceptible to the attacks of the apple canker",
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms July Apple, Powers, Scott, Early Tart Harvest, Sour Harvest, Rough and Ready as in our aka. Commonly considered the best apple of its season for the home orchard."
+ },
+ "pumpkin-sweet": {
+  "line": 10198, "end": 10321, "heading": "PUMPKIN SWEET", "match": "exact",
+  "flavour": "By many it is esteemed as one of the best sweet apples of its season for baking and for canning or stewing with quinces, but generally it is not valued for dessert because it is rather coarse and has a peculiar flavor. Flesh tinged with yellow, firm, medium in texture, crispness and juiciness, decidedly sweet with a peculiar flavor; good for culinary use and especially esteemed for baking.",
+  "quality": "good for culinary use and especially esteemed for baking",
+  "storage": "Its keeping qualities differ greatly in different localities and in different seasons. The rate of loss in ordinary storage is usually high during the fall, and the season closes in December or early January",
+  "climate": "It appears to thrive particularly well on well fertilized gravelly or sandy loam, with well drained subsoil.",
+  "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+  "note": "Synonyms Pound Sweet, Lyman's Pumpkin Sweet, Pumpkin Sweeting, Vermont Pumpkin Sweet, Rhode Island Sweet as in our aka; Manchester, Conn. Beach notes other apples sold as Pumpkin Sweet are russeted or red; this one is green-yellow."
+ },
+ "american-summer-pearmain": {
+  "line": 12354, "end": 12407, "heading": "SUMMER PEARMAIN", "match": "synonym",
+  "flavour": "An amateur fruit which when perfect is beautiful and of mild, rich, excellent flavor (26). Flesh yellowish, very fine, tender, almost melting, juicy, aromatic, crisp, mild subacid, best.",
+  "quality": "best",
+  "storage": null,
+  "climate": null,
+  "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonyms American Summer Pearmain, Early Summer Pearmain, American Pearmain, American Summer as in our aka; first described by Coxe 1817. Beach notes a different, later English Summer Pearmain."
+ },
+ "sweet-bough": {
+  "line": 12652, "end": 12749, "heading": "SWEET BOUGH", "match": "exact",
+  "flavour": "As a table apple, it will not rank as high as the Early Harvest; but, as a kitchen fruit, in its honied sweetness and tender flesh, it has no equal of its season. Flesh white, moderately firm, fine, somewhat crisp, very tender, juicy, sweet, slightly aromatic, good to very good.",
+  "quality": "good to very good",
+  "storage": "It is handled to a limited extent in local markets, but is too soft to stand shipping to distant markets.",
+  "climate": "In unfavorable locations the tree is sometimes injured by winter",
+  "tags": ["sweet", "honey", "perfumed"], "against": [], "sweet": 4, "acid": null,
+  "note": "The 'honied sweetness' sentence is Beach's quotation of Hovey. Synonyms Early Bough, Large Yellow Bough, August Sweet, Bough, Early Sweet Bough, Yellow Bough as in our aka."
+ },
+ "williams-favourite": {
+  "line": 14126, "end": 14222, "heading": "WILLIAMS", "match": "synonym",
+  "flavour": "Williams is a very beautiful, bright red apple of mild agreeable flavor, good for dessert but not suitable for culinary uses. Flesh sometimes tinged with red, firm, a little coarse, moderately crisp, tender, rather juicy, becoming dry when overripe, pleasant mild subacid, aromatic, good.",
+  "quality": "good for dessert but not suitable for culinary uses",
+  "storage": "rather juicy, becoming dry when overripe",
+  "climate": null,
+  "tags": ["mild", "perfumed"], "against": [], "sweet": null, "acid": 2,
+  "note": "Synonyms Williams Favorite, Williams Early Red, Williams Red, Queen, Lady's Apple as in our aka; Roxbury, Mass."
+ }
+}

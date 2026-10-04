@@ -1,0 +1,53 @@
+{
+ "_book": "leroy-4",
+ "melon": {
+  "line": 3875, "end": 3936, "heading": "Pomme NORTON", "match": "synonym",
+  "flavour": "Chair : jaunâtre, fine, compacte, assez ferme. — Eau : abondante, faiblement acidulée, très-sucrée, vineuse, bien parfumée, participant de la saveur des cantaloups.",
+  "flavour_en": "Flesh: yellowish, fine, compact, fairly firm. Juice: abundant, faintly acidulous, very sweet, vinous, well perfumed, partaking of the flavour of cantaloupes.",
+  "quality": "Première.",
+  "storage": "Maturité. — Décembre-Mars.",
+  "climate": null,
+  "tags": ["sweet", "wine", "perfumed", "melon"], "against": [], "sweet": 5, "acid": 2,
+  "note": "Synonyms Watermelon, Melon de Norton (Norton's Melon) as in our aka; raised at East Bloomfield, New York. Leroy chose the name Norton to avoid confusion with the German Pomme MELON (line 1186), a different apple."
+ },
+ "baumanns-reinette": {
+  "line": 11258, "end": 11339, "heading": "Pomme REINETTE BAUMANN", "match": "exact",
+  "flavour": "Chair : jaunâtre, demi-fine, assez ferme. — Eau : peu abondante, sucrée, acidulée, légèrement parfumée.",
+  "flavour_en": "Flesh: yellowish, medium-fine, fairly firm. Juice: not abundant, sweet, acidulous, lightly perfumed.",
+  "quality": "Deuxième.",
+  "storage": "Maturité. — Janvier-Mars.",
+  "climate": null,
+  "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 3, "acid": 3,
+  "note": "Raised by Van Mons at Brussels, dedicated to the Baumann brothers of Bollwiller; first figured 1811. Leroy suspects Reinette de Bollwiller is the same fruit renamed."
+ },
+ "reinette-du-canada": {
+  "line": 12180, "end": 12388, "heading": "Pomme REINETTE DU CANADA", "match": "exact",
+  "flavour": "Chair : jaunâtre, fine, mi-tendre et légèrement croquante. — Eau : abondante, sucrée, fortement acidulée, possédant toute la délicate saveur particulière aux Reinettes.",
+  "flavour_en": "Flesh: yellowish, fine, medium-tender and slightly crisp. Juice: abundant, sweet, strongly acidulous, with all the delicate flavour peculiar to the Reinettes.",
+  "quality": "Première.",
+  "storage": "Cette Reinette demande à être récoltée avec les plus grandes précautions, le moindre coup noircissant aussitôt sa chair et en amenant la décomposition. Pour la conserver très-longtemps il faut la cueillir un peu verte",
+  "climate": null,
+  "tags": ["sweet", "sharp"], "against": [], "sweet": 3, "acid": 4,
+  "note": "Synonyms Reinette monstrueuse du Canada (Andrieux 1771), Reinette de Canada blanche - as in our aka. Leroy keeps it distinct from Reinette d'Angleterre, with which most authors confused it; origin unknown, probably not Canadian."
+ },
+ "dutch-mignonne": {
+  "line": 12630, "end": 12803, "heading": "Pomme REINETTE DE CAUX", "match": "synonym",
+  "flavour": "Chair : jaunâtre, fine, ferme et assez croquante. — Eau : abondante, très-sucrée, savoureusement acidulée et parfumée.",
+  "flavour_en": "Flesh: yellowish, fine, firm and fairly crisp. Juice: abundant, very sweet, pleasantly acidulous and perfumed.",
+  "quality": "Première.",
+  "storage": "Maturité. — Octobre-Avril.",
+  "climate": null,
+  "tags": ["sweet", "sharp", "perfumed"], "against": [], "sweet": 5, "acid": 3,
+  "note": "Synonyms Dutch Mignonne, Paternoster, Copmanthorpe Crab, Stettin Pippin. Leroy concludes it is Dutch (Mignonne de Hollande), brought to Catton near Norwich about 1771, and that the name Reinette de Caux is a French misnomer."
+ },
+ "reinette-rouge-etoilee": {
+  "line": 18266, "end": 18340, "heading": "Pomme REINETTE ROUGE ÉTOILÉE", "match": "exact",
+  "flavour": "Chair : blanche, généralement un peu rosée, fine, compacte et mi-tendre. — Eau : suffisante ou abondante, acidulée et bien sucrée, possédant un parfum exquis.",
+  "flavour_en": "Flesh: white, usually a little pinkish, fine, compact and medium-tender. Juice: sufficient or abundant, acidulous and well sweetened, with an exquisite perfume.",
+  "quality": "Première.",
+  "storage": "Maturité. — Janvier-Mars.",
+  "climate": null,
+  "tags": ["sweet", "sharp", "perfumed"], "against": ["mild"], "sweet": 4, "acid": 3,
+  "note": "Synonyms Calville étoilé, Reinette étoilée, Rothe Sternreinette; common in Limburg and Liège. The name comes from the red star seen in the flesh when cut across. 'Exquisite perfume' and acidity contradict our mild tag."
+ }
+}

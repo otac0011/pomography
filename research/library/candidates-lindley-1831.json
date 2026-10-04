@@ -1,4 +1,48 @@
 {
+ "dutch-mignonne": [
+  {
+   "line": 56,
+   "page": null,
+   "score": 3.5,
+   "key": "PATERNOSTER",
+   "text": "PATERNOSTER-ROW."
+  },
+  {
+   "line": 3270,
+   "page": null,
+   "score": 1.3,
+   "key": "CHRISTS GOLDEN REINETTE",
+   "text": "Christ's  Golden  Reinette.      Taschenb.  p.  405."
+  },
+  {
+   "line": 6707,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne"
+  },
+  {
+   "line": 6773,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne"
+  },
+  {
+   "line": 7295,
+   "page": null,
+   "score": 1.3,
+   "key": "CHRISTS GOLDEN REINETTE",
+   "text": "Christ's  Golden  Reinette  -     82"
+  },
+  {
+   "line": 7358,
+   "page": null,
+   "score": 1.3,
+   "key": "DUTCH MIGNONNE",
+   "text": "Dutch  Mignonne  -  82"
+  }
+ ],
  "discovery": [
   {
    "line": 41440,
@@ -41,7 +85,7 @@
   },
   {
    "line": 7677,
-   "page": 126,
+   "page": null,
    "score": 1.5,
    "key": "ORGELINE",
    "text": "Orgeline  -  -.,»  --  6"
@@ -99,14 +143,14 @@
   },
   {
    "line": 7387,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "EVE APPLE",
    "text": "Eve  Apple"
   },
   {
    "line": 7594,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "MANKS CODLIN",
    "text": "Mank's  Codlin         -  -     59"
@@ -203,7 +247,7 @@
   },
   {
    "line": 7926,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "WHITE HAWTHORNDEN",
    "text": "White  Hawthornden  -     27"
@@ -258,6 +302,50 @@
    "score": 1.0,
    "key": "AROMATIC",
    "text": "aromatic  Nonpareil  flavour."
+  }
+ ],
+ "holland-pippin": [
+  {
+   "line": 41874,
+   "page": 330,
+   "score": 3.5,
+   "key": "HOLLAND",
+   "text": "HOLLAND.-PROGRESSIVE  EDUCATION ;"
+  },
+  {
+   "line": 41882,
+   "page": 330,
+   "score": 3.5,
+   "key": "HOLLAND",
+   "text": "HOLLAND.-A  TREATISE  ON  THE  MANUFACTURES  IN"
+  },
+  {
+   "line": 41890,
+   "page": 330,
+   "score": 3.5,
+   "key": "HOLLAND",
+   "text": "HOLLAND.--MEDICAL  NOTES  AND  REFLECTIONS."
+  },
+  {
+   "line": 2358,
+   "page": null,
+   "score": 1.5,
+   "key": "HOLLAND",
+   "text": "Holland.  All  the  cottagers  round  Wyken  have  from"
+  },
+  {
+   "line": 4218,
+   "page": null,
+   "score": 1.5,
+   "key": "HOLLAND",
+   "text": "Holland,  of  some  collections."
+  },
+  {
+   "line": 25571,
+   "page": 330,
+   "score": 1.5,
+   "key": "HOLLAND",
+   "text": "Holland,  and  Germany,  under  various  other  names,  not"
   }
  ],
  "beauty-of-kent": [
@@ -323,17 +411,61 @@
   },
   {
    "line": 7864,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SOPS IN WINE",
    "text": "Sops  in  Wine            -  -     63"
   },
   {
    "line": 7866,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SOPS OF WINE",
    "text": "Sops  of  Wine  -     63"
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 2766,
+   "page": null,
+   "score": 1.3,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer  Pearmain.     Miller  Ed.  8.  No.  3."
+  },
+  {
+   "line": 7896,
+   "page": null,
+   "score": 1.3,
+   "key": "SUMMER PEARMAIN",
+   "text": "Summer  Pearmain  -     64"
+  },
+  {
+   "line": 3788,
+   "page": null,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Newtown  Pippin.     Ib."
+  },
+  {
+   "line": 7211,
+   "page": null,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Neivtotvn  Pippin  103  Belvoir  Pippin  -  69*"
+  },
+  {
+   "line": 20796,
+   "page": 240,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Clingstone.     Nurs.  Catalogues."
+  },
+  {
+   "line": 21137,
+   "page": 279,
+   "score": 1.0,
+   "key": "AMERICAN",
+   "text": "American  Clingstone"
   }
  ],
  "autumn-pearmain": [
@@ -346,7 +478,7 @@
   },
   {
    "line": 7896,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SUMMER PEARMAIN",
    "text": "Summer  Pearmain  -     64"
@@ -383,10 +515,33 @@
   },
   {
    "line": 7959,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "WOODSTOCK PIPPIN",
    "text": "Woodstock  Pippin         -  -     72"
+  }
+ ],
+ "edelborsdorfer": [
+  {
+   "line": 3001,
+   "page": null,
+   "score": 1.3,
+   "key": "REINETTE BATARDE",
+   "text": "Reinette  batarde.     Ib."
+  },
+  {
+   "line": 7760,
+   "page": null,
+   "score": 1.3,
+   "key": "QUEENS APPLE",
+   "text": "Queens  Apple          -  -73"
+  },
+  {
+   "line": 7784,
+   "page": null,
+   "score": 1.3,
+   "key": "REINETTE BATARDE",
+   "text": "Reinette  Batarde  -  -  73"
   }
  ],
  "court-pendu-plat": [
@@ -399,7 +554,7 @@
   },
   {
    "line": 7447,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "GARNONS APPLE",
    "text": "Garnon's  Apple"
@@ -465,6 +620,50 @@
    "text": "delicious  flavour."
   }
  ],
+ "fenouillet-gris": [
+  {
+   "line": 5454,
+   "page": null,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet.      Hort  Soc.  Cat.  No.  982."
+  },
+  {
+   "line": 7281,
+   "page": null,
+   "score": 1.3,
+   "key": "CARAWAY RUSSET",
+   "text": "Caraway  Russet         -  -  169"
+  },
+  {
+   "line": 7407,
+   "page": null,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  Gris"
+  },
+  {
+   "line": 3368,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Jaime.     Duhamel,  No.  12."
+  },
+  {
+   "line": 7409,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Jaune    -"
+  },
+  {
+   "line": 7411,
+   "page": null,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  Rouge"
+  }
+ ],
  "margil": [
   {
    "line": 3407,
@@ -475,10 +674,54 @@
   },
   {
    "line": 7624,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "NEVER FAIL",
    "text": "Never:fail             -  -     86"
+  }
+ ],
+ "golden-harvey": [
+  {
+   "line": 6312,
+   "page": null,
+   "score": 3.8,
+   "key": "GOLDEN HARVEY",
+   "text": "—  GOLDEN  HARVEY.     See  No.  91."
+  },
+  {
+   "line": 3510,
+   "page": null,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple.     Forsyth,  Ed.  7.  p.  95."
+  },
+  {
+   "line": 6315,
+   "page": null,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple,  is  of  very  great  strength,  with  little"
+  },
+  {
+   "line": 6709,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden  Harvey"
+  },
+  {
+   "line": 7247,
+   "page": null,
+   "score": 1.3,
+   "key": "BRANDY APPLE",
+   "text": "Brandy  Apple  -  -     91"
+  },
+  {
+   "line": 7463,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN HARVEY",
+   "text": "Golden  Harvey     -"
   }
  ],
  "london-pippin": [
@@ -486,19 +729,19 @@
    "line": 3657,
    "page": null,
    "score": 1.3,
-   "key": "FIVE CROWNED PIPPIN",
+   "key": "FIVE CROWNED",
    "text": "Five-crowned  Pippin.     Forsyihy  Ed.  3.    No.  99."
   },
   {
    "line": 7413,
-   "page": 125,
+   "page": null,
    "score": 1.3,
-   "key": "FIVE CROWNED PIPPIN",
+   "key": "FIVE CROWNED",
    "text": "Five-crowned  Pippin"
   },
   {
    "line": 7584,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "LONDON PIPPIN",
    "text": "London  Pippin         -  97"
@@ -514,7 +757,7 @@
   },
   {
    "line": 7628,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "NEWTOWN PIPPIN",
    "text": "Newtown  Pippin         -  v  -   103"
@@ -528,7 +771,7 @@
   },
   {
    "line": 7630,
-   "page": 126,
+   "page": null,
    "score": 1.0,
    "key": "NEWTOWN",
    "text": "Newtown  Spitzemberg  -  104"
@@ -565,7 +808,7 @@
   },
   {
    "line": 7653,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "NORFOLK PIPPIN",
    "text": "Norfolk  Pippin  r  ;*vi  -  115"
@@ -668,7 +911,7 @@
   },
   {
    "line": 7665,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "OLD NONPAREIL",
    "text": "Old  Nonpareil  -  -  175"
@@ -691,7 +934,7 @@
   },
   {
    "line": 7580,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "LEMON PIPPIN",
    "text": "Lemon  Pippin          -  -  145"
@@ -714,21 +957,21 @@
   },
   {
    "line": 7421,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "FORMOSA PIPPIN",
    "text": "Formosa  Pippin"
   },
   {
    "line": 7457,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "GLORY OF YORK",
    "text": "Glory  of  York         -"
   },
   {
    "line": 7811,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "RIBSTON PIPPIN",
    "text": "Ribston  Pippin     '-'}*•'**  -  155"
@@ -758,7 +1001,7 @@
   },
   {
    "line": 7811,
-   "page": 127,
+   "page": null,
    "score": 1.0,
    "key": "RIBSTON",
    "text": "Ribston  Pippin     '-'}*•'**  -  155"
@@ -774,21 +1017,21 @@
   },
   {
    "line": 7393,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin"
   },
   {
    "line": 7395,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin,  Cobbett's"
   },
   {
    "line": 7397,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "FALL PIPPIN",
    "text": "Fall  Pippin,  Sudlow's"
@@ -850,14 +1093,14 @@
   },
   {
    "line": 7819,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "ROOKS NEST",
    "text": "Rook's  Nest  -  169"
   },
   {
    "line": 7870,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SPICE APPLE",
    "text": "Spice  Apple  -  169"
@@ -873,10 +1116,33 @@
   },
   {
    "line": 7842,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SAM YOUNG",
    "text": "Sam  Young  -  186"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 6142,
+   "page": null,
+   "score": 1.5,
+   "key": "COCKAGEE",
+   "text": "Cockagee.     Forsyth,  Ed.  3.  No.  22."
+  },
+  {
+   "line": 7307,
+   "page": null,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee  -  -  195"
+  },
+  {
+   "line": 7309,
+   "page": null,
+   "score": 1.5,
+   "key": "COCKAGEE",
+   "text": "Cockagee  -  -  195"
   }
  ],
  "siberian-crab": [
@@ -905,10 +1171,54 @@
   },
   {
    "line": 7945,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "WINTER PEARMAIN",
    "text": "Winter  Pearmain  -  161"
+  }
+ ],
+ "cellini": [
+  {
+   "line": 42874,
+   "page": 330,
+   "score": 3.5,
+   "key": "PHILLIPS",
+   "text": "PHILLIPS.- AN  ELEMENTARY  INTRODUCTION  TO  MINE-"
+  },
+  {
+   "line": 42881,
+   "page": 330,
+   "score": 3.5,
+   "key": "PHILLIPS",
+   "text": "PHILLIPS.-FIGURES     AND     DESCRIPTIONS    OF    THE"
+  },
+  {
+   "line": 42888,
+   "page": 330,
+   "score": 3.5,
+   "key": "PHILLIPS",
+   "text": "PHILLIPS.-A  GUIDE  TO  GEOLOGY."
+  },
+  {
+   "line": 42892,
+   "page": 330,
+   "score": 3.5,
+   "key": "PHILLIPS",
+   "text": "PHILLIPS.-A  TREATISE  ON  GEOLOGY."
+  },
+  {
+   "line": 6670,
+   "page": null,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillips  in  his  poem  on  cider."
+  },
+  {
+   "line": 7720,
+   "page": null,
+   "score": 1.0,
+   "key": "PHILLIPS",
+   "text": "Phillip's  Reinette  -  79"
   }
  ],
  "keswick-codlin": [
@@ -950,6 +1260,38 @@
    "text": "Cornish  Aromatic     -  -     78"
   }
  ],
+ "alfriston": [
+  {
+   "line": 7209,
+   "page": null,
+   "score": 1.5,
+   "key": "ALFRISTON",
+   "text": "Alfriston  -  -  46  Bell's  Scarlet  -         -     62"
+  },
+  {
+   "line": 34070,
+   "page": 330,
+   "score": 1.3,
+   "key": "OLDAKERS NEW",
+   "text": "Oldaker's  New  Pine.        Red  Pine  Apple."
+  },
+  {
+   "line": 35191,
+   "page": 330,
+   "score": 1.3,
+   "key": "OLDAKERS NEW",
+   "text": "Oldaker's  New  Pine"
+  }
+ ],
+ "baxters-pearmain": [
+  {
+   "line": 7233,
+   "page": null,
+   "score": 1.3,
+   "key": "BAXTERS PEARMAIN",
+   "text": "Baxter's  Pearmain    -  -  119  Borsdorff  -     73"
+  }
+ ],
  "braddick-nonpareil": [
   {
    "line": 7245,
@@ -984,37 +1326,108 @@
    "text": "Cockle  Pippin  -  128"
   }
  ],
+ "benoni": [
+  {
+   "line": 7391,
+   "page": null,
+   "score": 1.8,
+   "key": "FAIL ME NEVER",
+   "text": "Fail-me-never"
+  }
+ ],
  "flower-of-kent": [
   {
    "line": 7415,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "FLOWER OF KENT",
    "text": "Flower  of  Kent     -"
   }
  ],
+ "styre": [
+  {
+   "line": 7417,
+   "page": null,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  }
+ ],
  "golden-noble": [
   {
    "line": 7467,
-   "page": 125,
+   "page": null,
    "score": 1.3,
    "key": "GOLDEN NOBLE",
    "text": "Golden  Noble"
   }
  ],
+ "clarke-pearmain": [
+  {
+   "line": 7469,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain"
+  }
+ ],
  "knobby-russet": [
   {
    "line": 7572,
-   "page": 126,
+   "page": null,
    "score": 1.3,
    "key": "KNOBBY RUSSET",
    "text": "Knobby  Russet        -  -  173"
   }
  ],
+ "lucombes-seedling": [
+  {
+   "line": 7588,
+   "page": null,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling  -     98"
+  },
+  {
+   "line": 22053,
+   "page": 281,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling.     Nurs.  Catalogues."
+  },
+  {
+   "line": 23397,
+   "page": 313,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling.     Nursery  Catalogues."
+  },
+  {
+   "line": 24542,
+   "page": 330,
+   "score": 1.3,
+   "key": "LUCOMBES SEEDLING",
+   "text": "Lucombe's  Seedling  -     27"
+  },
+  {
+   "line": 22051,
+   "page": 281,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe's  Black.     Forsyth."
+  },
+  {
+   "line": 23395,
+   "page": 313,
+   "score": 1.0,
+   "key": "LUCOMBES",
+   "text": "Lucombe's  Black.     Forsyth."
+  }
+ ],
  "kentish-fillbasket": [
   {
    "line": 7750,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "POTTERS LARGE",
    "text": "Potter's  Large     -—  -     37"
@@ -1023,16 +1436,32 @@
  "hereford-redstreak": [
   {
    "line": 7780,
-   "page": 127,
+   "page": null,
    "score": 1.0,
    "key": "REDSTREAK",
    "text": "Redstreak             -  -  209"
   }
  ],
+ "taliaferro": [
+  {
+   "line": 43057,
+   "page": 330,
+   "score": 3.5,
+   "key": "ROBINSON",
+   "text": "ROBINSON.- GREEK  AND  ENGLISH  LEXICON   TO   THE"
+  },
+  {
+   "line": 7813,
+   "page": null,
+   "score": 1.0,
+   "key": "ROBINSON",
+   "text": "Robinson  Pippin  -  107"
+  }
+ ],
  "ross-nonpareil": [
   {
    "line": 7821,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "ROSS NONPAREIL",
    "text": "Ross  Nonpareil         -  -  184?"
@@ -1041,14 +1470,14 @@
  "yellow-ingestrie": [
   {
    "line": 7892,
-   "page": 127,
+   "page": null,
    "score": 1.3,
    "key": "SUMMER GOLDEN PIPPIN",
    "text": "Summer  Golden  Pippin  -     10"
   },
   {
    "line": 7971,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "YELLOW INGESTRIE",
    "text": "Yellow  Ingestrie      -  -     45"
@@ -1057,16 +1486,57 @@
  "wheelers-russet": [
   {
    "line": 7920,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "WHEELERS RUSSET",
    "text": "Wheeler's  Russet  -  191"
   }
  ],
+ "williams-favourite": [
+  {
+   "line": 21874,
+   "page": 281,
+   "score": 1.5,
+   "key": "WILLIAMS",
+   "text": "Williams,  Esq.  of  Pitmaston,  near  Worcester,  from  a"
+  },
+  {
+   "line": 41965,
+   "page": 330,
+   "score": 1.5,
+   "key": "WILLIAMS",
+   "text": "Williams,  uniform  with  \"Visits  to  Remarkable  Places,\"  21s.  cloth."
+  },
+  {
+   "line": 7937,
+   "page": null,
+   "score": 1.0,
+   "key": "WILLIAMS",
+   "text": "William's  Pippin     -  -     66"
+  }
+ ],
+ "white-winter-pearmain": [
+  {
+   "line": 7952,
+   "page": null,
+   "score": 1.3,
+   "key": "WINTER WHITE",
+   "text": "Winter  White  Calville  -  113"
+  }
+ ],
+ "woodcock": [
+  {
+   "line": 7954,
+   "page": null,
+   "score": 1.0,
+   "key": "WOODCOCK",
+   "text": "Woodcock          -  -  213"
+  }
+ ],
  "wyken-pippin": [
   {
    "line": 7963,
-   "page": 128,
+   "page": null,
    "score": 1.3,
    "key": "WYKEN PIPPIN",
    "text": "Wyken  Pippin        -  -44"
@@ -1075,14 +1545,14 @@
  "colonel-vaughan": [
   {
    "line": 9356,
-   "page": 128,
+   "page": null,
    "score": 1.5,
    "key": "KENTISH",
    "text": "Kentish  -  8     Waterloo  -  -     13"
   },
   {
    "line": 9609,
-   "page": 128,
+   "page": null,
    "score": 1.0,
    "key": "KENTISH",
    "text": "Kentish         -  8"
@@ -1091,31 +1561,40 @@
  "chestnut-crab": [
   {
    "line": 9843,
-   "page": 128,
+   "page": null,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut-coloured  Ischia.     /£."
   },
   {
    "line": 10108,
-   "page": 128,
+   "page": null,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut  -       9  Nerii  -  24?"
   },
   {
    "line": 10304,
-   "page": 128,
+   "page": null,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut"
   },
   {
    "line": 10306,
-   "page": 128,
+   "page": null,
    "score": 1.5,
    "key": "CHESTNUT",
    "text": "Chestnut-coloured  Ischia"
+  }
+ ],
+ "champion": [
+  {
+   "line": 15846,
+   "page": 240,
+   "score": 1.5,
+   "key": "CHAMPION",
+   "text": "Champion,  Mills's."
   }
  ],
  "millers-seedling": [
@@ -1153,6 +1632,59 @@
    "score": 1.0,
    "key": "MILLERS",
    "text": "Miller's  time,  are  supposed  to  have  proceeded  from  the"
+  }
+ ],
+ "burgundy": [
+  {
+   "line": 18416,
+   "page": 240,
+   "score": 1.0,
+   "key": "BURGUNDY",
+   "text": "Burgundy             -  9"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 20883,
+   "page": 240,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  Pavy  of  Pomponne.     Miller,  No.  29."
+  },
+  {
+   "line": 21259,
+   "page": 280,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  Pavie  of  Pom-"
+  },
+  {
+   "line": 21262,
+   "page": 280,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  Pavy  of  Pom-"
+  },
+  {
+   "line": 23664,
+   "page": 313,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  Pavy  of  Pomponne.     Miller."
+  },
+  {
+   "line": 24198,
+   "page": 328,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  Pavie  of  Pom-"
+  },
+  {
+   "line": 24201,
+   "page": 328,
+   "score": 1.0,
+   "key": "MONSTROUS",
+   "text": "Monstrous  PavyofPomponne  81"
   }
  ],
  "lord-grosvenor": [
@@ -1221,6 +1753,22 @@
    "text": "Ambrosia               -  -  1  Aston  Town         -  -     4-1"
   }
  ],
+ "orleans": [
+  {
+   "line": 32236,
+   "page": 330,
+   "score": 1.5,
+   "key": "ORLEANS",
+   "text": "Orleans,  and  separates  clean  from  the  stone.  Juice"
+  },
+  {
+   "line": 33236,
+   "page": 330,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orleans  *  29"
+  }
+ ],
  "magnum-bonum": [
   {
    "line": 32584,
@@ -1228,6 +1776,54 @@
    "score": 1.3,
    "key": "MAGNUM BONUM",
    "text": "Magnum  Bonum,  but  is  not  so  much  pointed,  of  a"
+  }
+ ],
+ "chenango": [
+  {
+   "line": 34152,
+   "page": 330,
+   "score": 1.5,
+   "key": "STRAWBERRY",
+   "text": "Strawberry;  its  habit  is  dwarf;  the  leaves  light  green,"
+  },
+  {
+   "line": 35627,
+   "page": 330,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  beds  should  now  be  covered  between  the"
+  }
+ ],
+ "jersey-black": [
+  {
+   "line": 34281,
+   "page": 330,
+   "score": 1.3,
+   "key": "BLACK AMERICAN",
+   "text": "Black  American.     Ib."
+  },
+  {
+   "line": 34962,
+   "page": 330,
+   "score": 1.3,
+   "key": "BLACK AMERICAN",
+   "text": "Black  American  -        -  36     Carmine  Roseberry  -  41"
+  }
+ ],
+ "crimson-beauty": [
+  {
+   "line": 34534,
+   "page": 330,
+   "score": 1.3,
+   "key": "EARLY SCARLET",
+   "text": "Early  Scarlet.  Scarlet-"
+  },
+  {
+   "line": 35025,
+   "page": 330,
+   "score": 1.3,
+   "key": "EARLY SCARLET",
+   "text": "Early  Scarlet           -  -  56"
   }
  ],
  "rosemary-russet": [

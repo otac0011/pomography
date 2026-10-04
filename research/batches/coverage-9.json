@@ -1,0 +1,285 @@
+{
+ "batch": "coverage-9",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "roter-eiserapfel",
+   "name": "Roter Eiserapfel",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "rouville",
+   "name": "Rouville",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/rouville"
+  },
+  {
+   "id": "sandow",
+   "name": "Sandow",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Sandow_%28apple%29"
+  },
+  {
+   "id": "shinsei",
+   "name": "Shinsei",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "refpop"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/shinsei"
+  },
+  {
+   "id": "sinta",
+   "name": "Sinta",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/sinta"
+  },
+  {
+   "id": "snovit",
+   "name": "Snövit",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "spigold",
+   "name": "Spigold",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "star-of-devon",
+   "name": "Star of Devon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Star_of_Devon"
+  },
+  {
+   "id": "stark-earliest",
+   "name": "Stark Earliest",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/starks-earliest"
+  },
+  {
+   "id": "summerred",
+   "name": "Summerred",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "sundance",
+   "name": "Sundance",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/sundance"
+  },
+  {
+   "id": "sweet-winesap",
+   "name": "Sweet Winesap",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Hendrick Sweet"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/sweet-winesap"
+  },
+  {
+   "id": "sylvia",
+   "name": "Sylvia",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop"
+   ],
+   "ref": null
+  },
+  {
+   "id": "uttwiler-spatlauber",
+   "name": "Uttwiler Spätlauber",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Uttwiler_Sp%C3%A4tlauber"
+  },
+  {
+   "id": "venus-pippin",
+   "name": "Venus Pippin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "vilberie",
+   "name": "Vilberie",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/vilberie"
+  },
+  {
+   "id": "williams-favourite",
+   "name": "Williams Favourite",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Williams",
+    "Williams Early"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "zoete-ermgaard",
+   "name": "Zoete Ermgaard",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop"
+   ],
+   "ref": null
+  },
+  {
+   "id": "aia-ilu",
+   "name": "Aia Ilu",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Aia_Ilu"
+  },
+  {
+   "id": "autumn-glory",
+   "name": "Autumn Glory",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Autumn_Glory"
+  }
+ ]
+}

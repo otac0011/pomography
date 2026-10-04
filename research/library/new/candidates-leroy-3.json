@@ -1,0 +1,105 @@
+{
+ "api-etoile": [
+  {
+   "line": 18903,
+   "page": 288,
+   "score": 1.8,
+   "key": "POMME ETOILEE",
+   "text": "Pomme  ÉTOILÉE.  —  Synonyme  de  Reinette  rouge  étoilée.  Voir  ce  nom."
+  },
+  {
+   "line": 1637,
+   "page": 32,
+   "score": 1.3,
+   "key": "API ETOILE",
+   "text": "*Api  étoile."
+  },
+  {
+   "line": 5252,
+   "page": 155,
+   "score": 1.3,
+   "key": "API ETOILE",
+   "text": "Api  étoile  vu  par-dessous."
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 19104,
+   "page": 290,
+   "score": 3.0,
+   "key": "FENOUILLET",
+   "text": "—         FENOUILLET  ANISÉ,"
+  },
+  {
+   "line": 19182,
+   "page": 290,
+   "score": 3.0,
+   "key": "FENOUILLET",
+   "text": "—         FENOUILLET  DRAP  D'OR,  (      Voir  Ce  nom'"
+  },
+  {
+   "line": 19259,
+   "page": 290,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  gris  n'était  déjà  plus  uniquement  cultivé  dans  l'Anjou.  Merlet  fut,"
+  },
+  {
+   "line": 2067,
+   "page": 32,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "»    *  Fenouillet  roux.  [C'est  le  Gris.]"
+  },
+  {
+   "line": 19173,
+   "page": 290,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  long  et  du  Fenouillet  de  Ribou,  tous  spontanément  poussés  dans  l'Anjou,"
+  }
+ ],
+ "american-summer-pearmain": [
+  {
+   "line": 4718,
+   "page": 155,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "-       AMERICAN  MAMMOTH,                     \\  F"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 4718,
+   "page": 155,
+   "score": 3.3,
+   "key": "AMERICAN MAMMOTH",
+   "text": "-       AMERICAN  MAMMOTH,                     \\  F"
+  },
+  {
+   "line": 26413,
+   "page": 407,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin,  n'ayant  rien  de  commun  avec  la  pomme  Monmouth  Pippin  des"
+  }
+ ],
+ "chenango": [
+  {
+   "line": 11978,
+   "page": 174,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  Apple),  qui  du  reste  se  rencontre  très-rarement  chez  nos  pépiniéristes."
+  }
+ ],
+ "orleans": [
+  {
+   "line": 14720,
+   "page": 221,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orléans  dans  le  ver-"
+  }
+ ]
+}

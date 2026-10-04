@@ -1,0 +1,618 @@
+[
+ {
+  "id": "autumn-bough",
+  "name": "Autumn Bough",
+  "aka": ["Autumn Sweet Bough", "Fall Bough", "Late Bough", "Montgomery Sweet", "Philadelphia Sweet", "Sweet Bellflower", "White Sugar"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": null,
+   "year": 1851,
+   "year_note": "first recorded",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old American sweet apple recorded by 1851 and described in The Apples of New York (1905); the Southern name 'White Sugar' also belongs to it. Its many 'Bough' names overlap with the summer-ripening Sweet Bough, and registers mix the two, but it is treated as a later, separate variety. The UK National Apple Register lists it as the seed parent of Lodi and Carlton.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": 1,
+   "description": "Medium to large, tall and somewhat ribbed fruit with plain yellow skin and scattered russet dots."
+  },
+  "taste": {
+   "summary": "A sweet apple with little acidity and soft white flesh. Registers give only the basic sweet-to-subacid rating, and no fuller tasting notes were found.",
+   "sweet": 4,
+   "acid": 1,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Fresh from the tree; soft-fleshed sweet apples do not keep long"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No reliable modern growing notes found."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Flowering time not recorded; plant with any compatible diploid of similar season."
+  },
+  "season": {
+   "harvest": "late Aug-mid Sep",
+   "eating": "Aug-Sep",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Grown historically in the north-eastern and southern United States, so it copes with continental summers.",
+   "poor_climates": "No documented weak spots; as a soft early-autumn apple it is unlikely to give much in cool, wet seasons."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not recorded."
+  },
+  "grow_notes": "A heritage curiosity for collectors of old American sweet apples. Make sure the wood comes from a reliable source, because its names are easily confused with Sweet Bough. Pick as soon as the fruit colours to yellow and use it quickly.",
+  "conf": "low"
+ },
+ {
+  "id": "black-diamond",
+  "name": "Black Diamond",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CN",
+   "place": "Nyingchi, Tibet, China",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": "Counted as a member of the Huaniu (Chinese Delicious-type) apple family; exact origin not documented",
+   "raised_by": null
+  },
+  "history": "A very dark, purple-skinned luxury apple grown above 3,500 m in Nyingchi, Tibet, and sold at high prices in upmarket Chinese shops. Sources place it in the Huaniu family, which Chinese Wikipedia treats as Red Delicious grown in Tianshui. It may therefore be a regional product of Delicious-type trees rather than a separate cultivar. The near-black colour comes from strong UV light and big swings between day and night temperatures.",
+  "look": {
+   "size": null,
+   "shape": null,
+   "ground": null,
+   "blush": "purple",
+   "blush_cover": null,
+   "stripes": null,
+   "russet": null,
+   "description": "Glossy, waxy skin coloured deep purple to almost black, with white flesh."
+  },
+  "taste": {
+   "summary": "The flesh is fine-grained and crisp, juicy and sweet with only a little acidity. Its taste is typical of the Delicious type it comes from.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "From late autumn; stores for months in cold storage"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": 1,
+   "ploidy": null,
+   "notes": "Reported to need up to eight years to reach full bearing in its Tibetan growing area, where the season is very short; that slowness may reflect the site rather than the tree."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded; Delicious-type apples need a cross-pollinator."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": 24
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": true,
+   "best_climates": "High, sunny plateau valleys with cold nights and intense UV, which give the near-black colour.",
+   "poor_climates": "In warm lowland climates it would colour like an ordinary red Delicious-type apple and lose its distinctive look."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found; see Red Delicious for the general behaviour of the type."
+  },
+  "grow_notes": "The appeal comes from its mountain growing site, not from a special tree, so garden growers elsewhere should expect an ordinary Delicious-type apple. Use a red Delicious strain for the same fruit outside Tibet.",
+  "conf": "low"
+ },
+ {
+  "id": "clarke-pearmain",
+  "name": "Clarke Pearmain",
+  "aka": ["Clarke's Pearmain", "Golden Pearmain", "Gloucester Pearmain", "Yellow Pearmain", "Columbian Russet"],
+  "uses": ["dessert", "cider"],
+  "origin": {
+   "country": "US",
+   "place": "South-eastern United States (Virginia and North Carolina)",
+   "year": null,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An old Southern eating apple that Thomas Jefferson grew at Monticello. The UK register records it from North Carolina in an 1867 description. It was widely known as Golden Pearmain, a name that other apples also used.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "orange-red",
+   "blush_cover": null,
+   "stripes": true,
+   "russet": 1,
+   "description": "A medium, rather flat apple. Its yellow skin is flushed orange and striped red, with russet dots that can spread into larger patches."
+  },
+  "taste": {
+   "summary": "Its firm, crisp yellow flesh is sweet with mild acidity. One description calls it rich and tender but on the dry side.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 2,
+   "tags": ["sweet"],
+   "cider_class": "sweet",
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": null,
+   "notes": "One old description calls it a steady, even cropper."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Flowering time not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm, long-season climates of the American South and mid-Atlantic, where it was traditionally grown.",
+   "poor_climates": "Untested in cool maritime climates; a russeted Southern apple may struggle to ripen fully in a short English season."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Disease behaviour not recorded."
+  },
+  "grow_notes": "Best for collectors of Jeffersonian or Southern heirloom apples in warm-summer areas. The name Golden Pearmain is shared with other apples, so buy from a nursery that can trace its wood.",
+  "conf": "low"
+ },
+ {
+  "id": "coccagee",
+  "name": "Coccagee",
+  "aka": ["Cackagee", "Cockagee", "Irish Crab", "Lord Cork's Crab", "Afal baw gwydd"],
+  "uses": ["cider", "culinary"],
+  "origin": {
+   "country": "IE",
+   "place": "Ireland (later common in counties Clare and Limerick)",
+   "year": 1700,
+   "year_note": "before",
+   "kind": "unknown",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "A very old Irish cider apple. Its name comes from Irish for 'goose dung', after the colour of the skin. Around 1710 it was taken to Somerset near Minehead and became a favoured cider apple across the west of England and Wales. Single-variety Coccagee cider sold at a premium in Ireland. It is now thought lost, though the Gloucestershire apple 'Hen's Turd' has been suggested as a survivor.",
+  "look": {
+   "size": "small",
+   "shape": "conical",
+   "ground": "yellow-green",
+   "blush": "none",
+   "blush_cover": 0,
+   "stripes": false,
+   "russet": null,
+   "description": "Small to medium, egg-shaped to conical fruit with pale yellow skin flecked with green."
+  },
+  "taste": {
+   "summary": "Raw, it was notorious as one of the harshest, most austere apples known, with acidic yellowish-white flesh. Cooked, it is reported to taste rich. It made a pale, straw-coloured cider that was highly prized.",
+   "sweet": 1,
+   "acid": 5,
+   "aroma": null,
+   "tannin": null,
+   "crisp": null,
+   "juicy": null,
+   "tags": ["sharp"],
+   "cider_class": "sharp",
+   "best_eaten": "Not for eating raw; for cider or cooking"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "A vigorous tree that could be grown from cuttings struck straight into the ground, as was common in Ireland."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Mild, moist Atlantic climates: Ireland, the West Country and Wales, where it was historically grown.",
+   "poor_climates": "No record of performance outside the British Isles."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not recorded; the variety is probably extinct."
+  },
+  "grow_notes": "Probably not available. If a candidate tree such as 'Hen's Turd' is confirmed, it would suit a wet western cider orchard. Being able to root from cuttings makes it easy to propagate.",
+  "conf": "low"
+ },
+ {
+  "id": "geheimrat-dr-oldenburg",
+  "name": "Geheimrat Dr. Oldenburg",
+  "aka": ["Geheimrat Doktor Oldenburg", "Geheimrat Oldenburg", "Oldenburg"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "DE",
+   "place": "Geisenheim, Rheingau, Hesse, Germany",
+   "year": 1897,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Recorded as Minister von Hammerstein x Baumanns Reinette; an SNP study instead points to Alexander x Ananas Reinette",
+   "raised_by": "Fruit-growing research institute (Lehranstalt) at Geisenheim"
+  },
+  "history": "Raised at Geisenheim in 1897 and first fruiting in 1904, it became an important parent in German breeding. Alkmene (Early Windsor), Roba, Clivia, Elektra and Apollo descend from it. Not to be confused with Duchess of Oldenburg.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, tallish fruit, yellow-green to orange with a red flush and stripes on the sunny side. It is slightly ribbed at the eye and has almost no russet."
+  },
+  "taste": {
+   "summary": "Loose-textured, juicy, fine-grained flesh with a delicate sweet-sharp balance. German sources call the flavour unusual, almost exotic. British records rate it simply subacid, with softish flesh.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 4,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": null,
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": 4,
+   "ploidy": null,
+   "notes": "Forms a medium, airy crown. It starts cropping early and bears reasonably even on poor soil, though it does best with good soil and feeding. The fruit is easily blown off in wind."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": null,
+   "notes": "Flowers fairly early at Brogdale, a few days ahead of Wealthy; the group number is inferred from those dates."
+  },
+  "season": {
+   "harvest": "early Sep-mid Sep",
+   "eating": "Sep-Dec",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Sheltered sites in temperate central Europe with good, well-fed soil.",
+   "poor_climates": "Exposed, windy sites (fruit drop) and poor, wet soils where canker takes hold."
+  },
+  "health": {
+   "scab": null,
+   "canker": 4,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Prone to canker on poor soils; fruit drops easily in wind."
+  },
+  "grow_notes": "Give it a sheltered spot and fertile soil, and keep it fed so canker does not get established. Pick promptly in September before wind brings the fruit down.",
+  "conf": "medium"
+ },
+ {
+  "id": "huaniu",
+  "name": "Huaniu",
+  "aka": ["Hua Niu", "Chinese Red Delicious"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CN",
+   "place": "Huaniu, Maiji District, Tianshui, Gansu, China",
+   "year": 1956,
+   "year_note": "",
+   "kind": "unknown",
+   "parentage": "Chinese Wikipedia describes it as Red Delicious introduced and grown at Huaniu village; English Wikipedia instead calls it a hybrid from ten varieties including Red Delicious, Golden Delicious and Ralls Janet. Most likely a Delicious-group strain",
+   "raised_by": null
+  },
+  "history": "Delicious-type apples grown around Huaniu village in Tianshui since 1956. In 1965 they were sent to Mao Zedong and exported to Hong Kong, where buyers preferred them to imported American Red Delicious. Huaniu is now a protected geographical name for Tianshui's Delicious-type apples, so treat it as a Chinese strain of Red Delicious rather than a separate cultivar.",
+  "look": {
+   "size": null,
+   "shape": null,
+   "ground": null,
+   "blush": "deep-red",
+   "blush_cover": null,
+   "stripes": null,
+   "russet": null,
+   "description": "Deep ruby-red to purplish-red, Delicious-shaped fruit."
+  },
+  "taste": {
+   "summary": "Crisp and sweet with very low acidity; Chinese sources compare the sweetness with Fuji. Chinese Wikipedia notes it tastes noticeably different from American-grown Red Delicious.",
+   "sweet": 4,
+   "acid": 1,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "See Red Delicious; no separate tree description found."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "As a Delicious-type apple it needs a cross-pollinator."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Oct-Jan",
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Sunny loess-plateau uplands with deep soil, moderate rain and cool nights, as in Tianshui, Gansu.",
+   "poor_climates": "Warm humid lowlands, where red Delicious types colour poorly and soften."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not separately recorded; expect Red Delicious behaviour."
+  },
+  "grow_notes": "Outside China, any red Delicious strain will give the same apple; Huaniu is defined more by where it grows than by a distinct tree.",
+  "conf": "low"
+ },
+ {
+  "id": "julieta",
+  "name": "Julieta",
+  "aka": ["IPR Julieta"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "BR",
+   "place": "Paraná, Brazil",
+   "year": 2010,
+   "year_note": "c.",
+   "kind": "bred",
+   "parentage": null,
+   "raised_by": "Instituto Agronômico do Paraná (IAPAR)"
+  },
+  "history": "A low-chill apple from IAPAR's breeding programme in Paraná, made for subtropical southern Brazil. It was published around 2010 as an early cultivar to pollinate the already popular Eva.",
+  "look": {
+   "size": null,
+   "shape": null,
+   "ground": null,
+   "blush": null,
+   "blush_cover": null,
+   "stripes": null,
+   "russet": null,
+   "description": "No published description of the fruit's appearance was found."
+  },
+  "taste": {
+   "summary": "Its breeder calls the fruit good quality for such an early apple, but no flavour description was found.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": null,
+   "juicy": null,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "At picking or within a few weeks"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Described as highly productive in its home region."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Released largely as a pollinator for Eva (IAPAR 75), so the two bloom together in low-chill climates."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": 5
+  },
+  "climate": {
+   "chill_hours": 300,
+   "hardiness_zone": 8,
+   "heat_tolerance": 5,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Subtropical, humid areas that get only about 100-500 chill units, like southern Brazil. It ripens 10-14 days ahead of Eva.",
+   "poor_climates": "Cold-winter climates, where it would break bud too early and lose its flowers to frost."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Resistant to Glomerella (Colletotrichum) leaf blotch, the main apple disease of humid southern Brazil."
+  },
+  "grow_notes": "For warm-winter gardens only. Plant it with Eva, which it is meant to pollinate. Fruit keeps about a month to six weeks in a cold store.",
+  "conf": "low"
+ },
+ {
+  "id": "new-brunswicker",
+  "name": "New Brunswicker",
+  "aka": ["Sharp's New Brunswick", "New Brunswick", "Duchess of New Brunswick"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "New Brunswick, Canada",
+   "year": null,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Not confirmed; the alternative name 'Duchess of New Brunswick' hints at Duchess of Oldenburg ancestry",
+   "raised_by": "Francis Peabody Sharp"
+  },
+  "history": "Raised in the 19th century by the New Brunswick nurseryman Francis Peabody Sharp, who bred hardy apples for the cold Maritime provinces. It was used for both eating and baking.",
+  "look": {
+   "size": null,
+   "shape": null,
+   "ground": null,
+   "blush": null,
+   "blush_cover": null,
+   "stripes": null,
+   "russet": null,
+   "description": "No reliable appearance description found."
+  },
+  "taste": {
+   "summary": "An all-purpose apple for eating and baking; no detailed tasting notes were found.",
+   "sweet": null,
+   "acid": null,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": null,
+   "juicy": null,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": "Soon after picking; it keeps poorly"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Bred for winter hardiness."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": null,
+   "notes": "Not recorded."
+  },
+  "season": {
+   "harvest": null,
+   "eating": null,
+   "storage_weeks": 2
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental and Maritime Canadian winters, which it was raised to survive.",
+   "poor_climates": "Hot-summer regions; there is no record of it being grown in warm climates."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Not recorded."
+  },
+  "grow_notes": "A choice for very cold gardens. Use the fruit quickly, because it does not store.",
+  "conf": "low"
+ }
+]

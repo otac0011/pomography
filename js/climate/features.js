@@ -425,6 +425,22 @@ export function compactFeatures(F) {
   return walk(F);
 }
 
+const MID = [15.5, 45, 74.5, 105, 135.5, 166, 196.5, 227.5, 258, 288.5, 319, 349.5];   // mid-month, day of year (0-based)
+/** Monthly mean daily max/min interpolated to a calendar day of year (0..364). */
+export function climAt(F, doy) {
+  const m = F.monthly, i = MID.findIndex(x => x > doy);
+  let a, b, f;
+  if (i <= 0) { a = 11; b = 0; f = ((doy - MID[11] + 365) % 365) / (365 - MID[11] + MID[0]); }
+  else { a = i - 1; b = i; f = (doy - MID[a]) / (MID[b] - MID[a]); }
+  return { tmax: m.tmax[a] + (m.tmax[b] - m.tmax[a]) * f, tmin: m.tmin[a] + (m.tmin[b] - m.tmin[a]) * f };
+}
+/** Mean daily max / min / mean over virtual days [fromVi, toVi] (from the monthly normals). */
+export function spanClim(F, fromVi, toVi) {
+  let sx = 0, sn = 0, n = 0;
+  for (let vi = fromVi; vi <= toVi; vi += 3) { const c = climAt(F, viToDate(vi, F.southern).doy); sx += c.tmax; sn += c.tmin; n++; }
+  return { tmax: sx / n, tmin: sn / n, tmean: (sx + sn) / (2 * n) };
+}
+
 /** Curve value (mean cumulative GDD from bloom) at a fractional day offset. */
 export function curveAt(curve, off) {
   const s = PARAMS.curveStep, x = clamp(off / s, 0, curve.length - 1), i = Math.floor(x), f = x - i;

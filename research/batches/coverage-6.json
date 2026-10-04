@@ -1,0 +1,297 @@
+{
+ "batch": "coverage-6",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "carroll",
+   "name": "Carroll",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/carroll"
+  },
+  {
+   "id": "chehalis",
+   "name": "Chehalis",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/chehalis"
+  },
+  {
+   "id": "dayton",
+   "name": "Dayton",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Co-op 21"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/dayton"
+  },
+  {
+   "id": "delbard-jubilee",
+   "name": "Delbard Jubilée",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "detroit-red",
+   "name": "Detroit Red",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Detroit"
+   ],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Detroit_Red_%28apple%29"
+  },
+  {
+   "id": "diana",
+   "name": "Diana",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop"
+   ],
+   "ref": null
+  },
+  {
+   "id": "dunning",
+   "name": "Dunning",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "elektra",
+   "name": "Elektra",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "emilia",
+   "name": "Emilia",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop"
+   ],
+   "ref": null
+  },
+  {
+   "id": "exeter-cross",
+   "name": "Exeter Cross",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/exeter"
+  },
+  {
+   "id": "fallawater",
+   "name": "Fallawater",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Tulpehocken"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/fallawater"
+  },
+  {
+   "id": "flamenco",
+   "name": "Flamenco",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Obelisk"
+   ],
+   "listed_in": [
+    "orangepippin",
+    "wikipedia-article",
+    "wikipedia-list"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Flamenco_%28apple%29"
+  },
+  {
+   "id": "frogmore-prolific",
+   "name": "Frogmore Prolific",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "gewurzluiken",
+   "name": "Gewürzluiken",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "gloria-mundi",
+   "name": "Gloria Mundi",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Pound"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "golden-nugget",
+   "name": "Golden Nugget",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/golden-nugget"
+  },
+  {
+   "id": "guldborg",
+   "name": "Guldborg",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "halberstadter-jungfernapfel",
+   "name": "Halberstädter Jungfernapfel",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "hammerstein",
+   "name": "Hammerstein",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Minister von Hammerstein",
+    "cs. Hammersteinovo"
+   ],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "herma",
+   "name": "Herma",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

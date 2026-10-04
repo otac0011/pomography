@@ -1,5 +1,25 @@
 [
 {
+"id": "abbondanza",
+"name": "Abbondanza",
+"aka": [
+"Belfort",
+"Pella",
+"Abundanza"
+],
+"country": "IT",
+"year": 1896,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"wine",
+"perfumed",
+"sharp"
+]
+},
+{
 "id": "adams-pearmain",
 "name": "Adams Pearmain",
 "aka": [
@@ -17,6 +37,21 @@
 "nutty",
 "sweet",
 "wine"
+]
+},
+{
+"id": "aia-ilu",
+"name": "Aia Ilu",
+"aka": [],
+"country": "EE",
+"year": 1946,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"sharp"
 ]
 },
 {
@@ -40,6 +75,61 @@
 ]
 },
 {
+"id": "akero",
+"name": "Åkerö",
+"aka": [
+"Akero",
+"Okera",
+"Schmidts Junkerapfel"
+],
+"country": "SE",
+"year": 1858,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"berry",
+"spice"
+]
+},
+{
+"id": "alfriston",
+"name": "Alfriston",
+"aka": [
+"Shepherd's Pippin",
+"Shepherd's Seedling",
+"Lord Gwydyr's Newtown Pippin",
+"Oldaker's New"
+],
+"country": "GB",
+"year": 1790,
+"uses": [
+"culinary",
+"juice"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "alkmene",
+"name": "Alkmene",
+"aka": [
+"Early Windsor"
+],
+"country": "DE",
+"year": 1930,
+"uses": [
+"dessert"
+],
+"tags": [
+"honey",
+"perfumed",
+"sharp"
+]
+},
+{
 "id": "allington-pippin",
 "name": "Allington Pippin",
 "aka": [
@@ -57,6 +147,20 @@
 "sharp",
 "sweet",
 "perfumed"
+]
+},
+{
+"id": "amanda",
+"name": "Amanda",
+"aka": [],
+"country": "GB",
+"year": 2008,
+"uses": [
+"cider"
+],
+"tags": [
+"bitter",
+"astringent"
 ]
 },
 {
@@ -93,6 +197,24 @@
 ]
 },
 {
+"id": "american-golden-pippin",
+"name": "American Golden Pippin",
+"aka": [
+"Golden Apple",
+"Golden Pippin of Westchester County",
+"American Golden",
+"Golden American Pippin"
+],
+"country": "US",
+"year": 1822,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed"
+]
+},
+{
 "id": "american-mother",
 "name": "American Mother",
 "aka": [
@@ -110,6 +232,26 @@
 ],
 "tags": [
 "banana",
+"perfumed",
+"sweet"
+]
+},
+{
+"id": "american-summer-pearmain",
+"name": "American Summer Pearmain",
+"aka": [
+"Early Summer Pearmain",
+"Summer Pearmain",
+"American Pearmain",
+"American Summer"
+],
+"country": "US",
+"year": 1817,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
 "perfumed",
 "sweet"
 ]
@@ -247,6 +389,27 @@
 ]
 },
 {
+"id": "api-etoile",
+"name": "Api Etoile",
+"aka": [
+"Star Apple",
+"Star Lady Apple",
+"Pomme Etoilée",
+"Sternapi",
+"Api hvězdovité"
+],
+"country": "CH",
+"year": 1613,
+"uses": [
+"dessert",
+"ornamental"
+],
+"tags": [
+"perfumed",
+"sweet"
+]
+},
+{
 "id": "aport",
 "name": "Aport",
 "aka": [
@@ -288,6 +451,23 @@
 ]
 },
 {
+"id": "ard-cairn-russet",
+"name": "Ard Cairn Russet",
+"aka": [
+"Ard Cairn"
+],
+"country": "IE",
+"year": 1890,
+"uses": [
+"dessert",
+"juice"
+],
+"tags": [
+"sweet",
+"banana"
+]
+},
+{
 "id": "ariane",
 "name": "Ariane",
 "aka": [],
@@ -320,6 +500,36 @@
 "almond",
 "vanilla",
 "honey"
+]
+},
+{
+"id": "arlet",
+"name": "Arlet",
+"aka": [
+"Swiss Gourmet"
+],
+"country": "CH",
+"year": 1958,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "aroma",
+"name": "Aroma",
+"aka": [],
+"country": "SE",
+"year": 1947,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet"
 ]
 },
 {
@@ -389,6 +599,72 @@
 ]
 },
 {
+"id": "atlas",
+"name": "Atlas",
+"aka": [],
+"country": "CA",
+"year": 1898,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": []
+},
+{
+"id": "aurora-golden-gala",
+"name": "Aurora Golden Gala",
+"aka": [
+"Aurora",
+"8S6923"
+],
+"country": "CA",
+"year": 2003,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "autumn-bough",
+"name": "Autumn Bough",
+"aka": [
+"Autumn Sweet Bough",
+"Fall Bough",
+"Late Bough",
+"Montgomery Sweet",
+"Philadelphia Sweet",
+"Sweet Bellflower",
+"White Sugar"
+],
+"country": "US",
+"year": 1851,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "autumn-glory",
+"name": "Autumn Glory",
+"aka": [],
+"country": "US",
+"year": 1976,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"caramel",
+"cinnamon",
+"sweet"
+]
+},
+{
 "id": "autumn-glow",
 "name": "Autumn Glow",
 "aka": [],
@@ -415,6 +691,26 @@
 "tags": [
 "nutty",
 "sweet"
+]
+},
+{
+"id": "bailey",
+"name": "Bailey",
+"aka": [
+"Bailey Sweet",
+"Bailey's Sweet",
+"Edgerly Sweet",
+"Howard's Sweet",
+"Patterson's Sweet"
+],
+"country": "US",
+"year": 1840,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
 ]
 },
 {
@@ -467,6 +763,19 @@
 ]
 },
 {
+"id": "bancroft",
+"name": "Bancroft",
+"aka": [
+"Bankroft"
+],
+"country": "CA",
+"year": 1935,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
 "id": "bardsey",
 "name": "Bardsey",
 "aka": [
@@ -512,6 +821,20 @@
 "tags": []
 },
 {
+"id": "barry",
+"name": "Barry",
+"aka": [],
+"country": "US",
+"year": 1936,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "battleford",
 "name": "Battleford",
 "aka": [],
@@ -522,6 +845,59 @@
 "dessert"
 ],
 "tags": []
+},
+{
+"id": "baumanns-reinette",
+"name": "Baumann's Reinette",
+"aka": [
+"Baumanns Renette",
+"Reinette Baumann",
+"Reinette de Bollwiller",
+"Red Winter Reinette",
+"Couronne des Dames"
+],
+"country": "BE",
+"year": 1811,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
+"id": "baxters-pearmain",
+"name": "Baxter's Pearmain",
+"aka": [
+"King of the Orchard"
+],
+"country": "GB",
+"year": 1821,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": []
+},
+{
+"id": "beacon",
+"name": "Beacon",
+"aka": [
+"Miller Red",
+"Fenton"
+],
+"country": "US",
+"year": 1908,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"mild"
+]
 },
 {
 "id": "beauty-of-bath",
@@ -570,6 +946,22 @@
 ]
 },
 {
+"id": "beeley-pippin",
+"name": "Beeley Pippin",
+"aka": [
+"Beely Pippin"
+],
+"country": "GB",
+"year": 1880,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "belle-de-boskoop",
 "name": "Belle de Boskoop",
 "aka": [
@@ -599,6 +991,27 @@
 "year": 1869,
 "uses": [
 "dessert"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
+"id": "belle-fleur-de-france",
+"name": "Belle Fleur de France",
+"aka": [
+"Belle Fleur Double",
+"Double Bon Pommier",
+"Double Bonne Ente",
+"Grosse Bonne Ente"
+],
+"country": null,
+"year": null,
+"uses": [
+"dessert",
+"culinary",
+"juice"
 ],
 "tags": [
 "sweet",
@@ -644,6 +1057,22 @@
 "dessert"
 ],
 "tags": []
+},
+{
+"id": "benoni",
+"name": "Benoni",
+"aka": [
+"Fail-me-Never"
+],
+"country": "US",
+"year": 1830,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
 },
 {
 "id": "bens-red",
@@ -726,6 +1155,22 @@
 ]
 },
 {
+"id": "bietigheimer",
+"name": "Bietigheimer",
+"aka": [
+"Red Bietigheimer",
+"Roter Bietigheimer"
+],
+"country": "DE",
+"year": 1870,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "binet-rouge",
 "name": "Binet Rouge",
 "aka": [],
@@ -737,6 +1182,20 @@
 "tags": [
 "bitter",
 "sweet"
+]
+},
+{
+"id": "birgit-bonnier",
+"name": "Birgit Bonnier",
+"aka": [],
+"country": "SE",
+"year": 1988,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -754,6 +1213,47 @@
 ],
 "tags": [
 "sharp"
+]
+},
+{
+"id": "black-ben-davis",
+"name": "Black Ben Davis",
+"aka": [],
+"country": "US",
+"year": 1880,
+"uses": [
+"dessert"
+],
+"tags": [
+"mild"
+]
+},
+{
+"id": "black-diamond",
+"name": "Black Diamond",
+"aka": [],
+"country": "CN",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "black-oxford",
+"name": "Black Oxford",
+"aka": [],
+"country": "US",
+"year": 1790,
+"uses": [
+"dessert",
+"culinary",
+"cider"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -829,6 +1329,24 @@
 ]
 },
 {
+"id": "bodil-neergaard",
+"name": "Bodil Neergaard",
+"aka": [
+"Bodil Neergård"
+],
+"country": "DK",
+"year": 1850,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"wine",
+"sharp",
+"sweet"
+]
+},
+{
 "id": "bohnapfel",
 "name": "Bohnapfel",
 "aka": [
@@ -847,6 +1365,26 @@
 "tags": [
 "sharp",
 "mild"
+]
+},
+{
+"id": "boiken",
+"name": "Boiken",
+"aka": [
+"Boikenapfel",
+"Boiken Apple",
+"Boikovo"
+],
+"country": "DE",
+"year": 1828,
+"uses": [
+"culinary",
+"dessert",
+"juice"
+],
+"tags": [
+"sharp",
+"wine"
 ]
 },
 {
@@ -891,6 +1429,25 @@
 "uses": [
 "dessert",
 "culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "brabant-bellefleur",
+"name": "Brabant Bellefleur",
+"aka": [
+"Brabantsche Bellefleur",
+"Belle-Fleur de Brabant",
+"Belle Fleur Simple",
+"Petit Bon Ente"
+],
+"country": "NL",
+"year": 1780,
+"uses": [
+"culinary",
+"dessert"
 ],
 "tags": [
 "sweet"
@@ -985,6 +1542,48 @@
 ]
 },
 {
+"id": "brettacher-samling",
+"name": "Brettacher Samling",
+"aka": [
+"Brettacher"
+],
+"country": "DE",
+"year": 1908,
+"uses": [
+"culinary",
+"dessert",
+"juice",
+"cider"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "brina",
+"name": "Brina",
+"aka": [],
+"country": "IT",
+"year": 1998,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "britemac",
+"name": "Britemac",
+"aka": [],
+"country": "US",
+"year": 1934,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "brown-snout",
 "name": "Brown Snout",
 "aka": [],
@@ -1028,6 +1627,32 @@
 "tags": [
 "sweet",
 "astringent"
+]
+},
+{
+"id": "burgundy",
+"name": "Burgundy",
+"aka": [],
+"country": "US",
+"year": 1974,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "bushey-grove",
+"name": "Bushey Grove",
+"aka": [],
+"country": "GB",
+"year": 1897,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp"
 ]
 },
 {
@@ -1116,6 +1741,43 @@
 ]
 },
 {
+"id": "campanino",
+"name": "Campanino",
+"aka": [
+"Modenese"
+],
+"country": "IT",
+"year": 1751,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"sharp",
+"perfumed"
+]
+},
+{
+"id": "cap-of-liberty",
+"name": "Cap of Liberty",
+"aka": [
+"Red Soldier",
+"Red Soldiers",
+"Bloody Soldier"
+],
+"country": "GB",
+"year": null,
+"uses": [
+"cider"
+],
+"tags": [
+"sharp",
+"astringent",
+"bitter",
+"spice"
+]
+},
+{
 "id": "captain-kidd",
 "name": "Captain Kidd",
 "aka": [],
@@ -1132,6 +1794,33 @@
 ]
 },
 {
+"id": "carlton",
+"name": "Carlton",
+"aka": [],
+"country": "US",
+"year": 1912,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "carola",
+"name": "Carola",
+"aka": [
+"Kalco"
+],
+"country": "DE",
+"year": 1962,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "caroline",
 "name": "Caroline",
 "aka": [
@@ -1144,6 +1833,20 @@
 ],
 "tags": [
 "sweet"
+]
+},
+{
+"id": "carroll",
+"name": "Carroll",
+"aka": [],
+"country": "CA",
+"year": 1961,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"mild"
 ]
 },
 {
@@ -1174,6 +1877,25 @@
 ]
 },
 {
+"id": "cellini",
+"name": "Cellini",
+"aka": [
+"Cellini Pippin",
+"Phillips' Seedling",
+"Norfolk Challenger"
+],
+"country": "GB",
+"year": 1828,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"aniseed",
+"perfumed"
+]
+},
+{
 "id": "centennial",
 "name": "Centennial",
 "aka": [
@@ -1187,6 +1909,38 @@
 "culinary"
 ],
 "tags": []
+},
+{
+"id": "champion",
+"name": "Champion",
+"aka": [
+"Šampion",
+"Sampion",
+"Shampion"
+],
+"country": "CZ",
+"year": 1960,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "charden",
+"name": "Charden",
+"aka": [],
+"country": "FR",
+"year": 1959,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"honey"
+]
 },
 {
 "id": "charles-ross",
@@ -1207,6 +1961,21 @@
 ]
 },
 {
+"id": "chehalis",
+"name": "Chehalis",
+"aka": [],
+"country": "US",
+"year": 1955,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"honey"
+]
+},
+{
 "id": "chelmsford-wonder",
 "name": "Chelmsford Wonder",
 "aka": [
@@ -1218,6 +1987,26 @@
 "culinary"
 ],
 "tags": []
+},
+{
+"id": "chenango",
+"name": "Chenango",
+"aka": [
+"Chenango Strawberry",
+"Sherwood's Favourite",
+"Strawberry"
+],
+"country": "US",
+"year": 1850,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"perfumed",
+"strawberry",
+"mild"
+]
 },
 {
 "id": "cherry-cox",
@@ -1252,6 +2041,20 @@
 "nutty",
 "sweet",
 "wine"
+]
+},
+{
+"id": "chieftain",
+"name": "Chieftain",
+"aka": [],
+"country": "US",
+"year": 1917,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -1315,6 +2118,26 @@
 ]
 },
 {
+"id": "clarke-pearmain",
+"name": "Clarke Pearmain",
+"aka": [
+"Clarke's Pearmain",
+"Golden Pearmain",
+"Gloucester Pearmain",
+"Yellow Pearmain",
+"Columbian Russet"
+],
+"country": "US",
+"year": null,
+"uses": [
+"dessert",
+"cider"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "claygate-pearmain",
 "name": "Claygate Pearmain",
 "aka": [
@@ -1330,6 +2153,40 @@
 "nutty",
 "pineapple",
 "sweet"
+]
+},
+{
+"id": "clivia",
+"name": "Clivia",
+"aka": [],
+"country": "DE",
+"year": 1961,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet"
+]
+},
+{
+"id": "coccagee",
+"name": "Coccagee",
+"aka": [
+"Cackagee",
+"Cockagee",
+"Irish Crab",
+"Lord Cork's Crab",
+"Afal baw gwydd"
+],
+"country": "IE",
+"year": 1700,
+"uses": [
+"cider",
+"culinary"
+],
+"tags": [
+"sharp"
 ]
 },
 {
@@ -1360,6 +2217,17 @@
 "year": null,
 "uses": [
 "culinary"
+],
+"tags": []
+},
+{
+"id": "collins-june",
+"name": "Collins June",
+"aka": [],
+"country": "US",
+"year": null,
+"uses": [
+"dessert"
 ],
 "tags": []
 },
@@ -1555,6 +2423,36 @@
 ]
 },
 {
+"id": "creston",
+"name": "Creston",
+"aka": [],
+"country": "CA",
+"year": 1976,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": []
+},
+{
+"id": "crimson-beauty",
+"name": "Crimson Beauty",
+"aka": [
+"Early Red Bird",
+"Early Scarlet",
+"Crimson Beauty (Canada)"
+],
+"country": "CA",
+"year": 1880,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "crimson-bramley",
 "name": "Crimson Bramley",
 "aka": [
@@ -1587,6 +2485,58 @@
 "sharp",
 "sweet",
 "spice"
+]
+},
+{
+"id": "crimson-delight",
+"name": "Crimson Delight",
+"aka": [
+"WA 2",
+"Sunrise Magic"
+],
+"country": "US",
+"year": 2009,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "crimson-gold",
+"name": "Crimson Gold",
+"aka": [
+"Little Rosybloom"
+],
+"country": "US",
+"year": 1944,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
+"id": "crimson-king",
+"name": "Crimson King",
+"aka": [
+"John Toucher's",
+"Bewley Down Pippin"
+],
+"country": "GB",
+"year": 1895,
+"uses": [
+"cider",
+"culinary"
+],
+"tags": [
+"sharp"
 ]
 },
 {
@@ -1709,6 +2659,22 @@
 ]
 },
 {
+"id": "dayton",
+"name": "Dayton",
+"aka": [
+"Co-op 21"
+],
+"country": "US",
+"year": 1988,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "decio",
 "name": "Decio",
 "aka": [
@@ -1723,6 +2689,25 @@
 ],
 "tags": [
 "mild"
+]
+},
+{
+"id": "delbard-jubilee",
+"name": "Delbard Jubilée",
+"aka": [
+"Delgollune",
+"Delbard Jubile",
+"Jubilé Delbard"
+],
+"country": "FR",
+"year": 1964,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -1754,6 +2739,19 @@
 "tags": []
 },
 {
+"id": "delrouval",
+"name": "Delrouval",
+"aka": [
+"Cybèle"
+],
+"country": "FR",
+"year": 1995,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
 "id": "democrat",
 "name": "Democrat",
 "aka": [],
@@ -1764,6 +2762,25 @@
 ],
 "tags": [
 "sweet"
+]
+},
+{
+"id": "detroit-red",
+"name": "Detroit Red",
+"aka": [
+"Detroit",
+"Crimson Pippin",
+"Grand Sachem"
+],
+"country": "US",
+"year": 1805,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"perfumed",
+"sharp"
 ]
 },
 {
@@ -1783,6 +2800,35 @@
 "wine",
 "strawberry",
 "sweet"
+]
+},
+{
+"id": "diana",
+"name": "Diana",
+"aka": [],
+"country": "CA",
+"year": 1913,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "directeur-lesage",
+"name": "Directeur Lesage",
+"aka": [
+"Précoce de Wirwignes"
+],
+"country": "FR",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"sharp"
 ]
 },
 {
@@ -1844,6 +2890,20 @@
 ],
 "tags": [
 "sweet"
+]
+},
+{
+"id": "dougherty",
+"name": "Dougherty",
+"aka": [],
+"country": "AU",
+"year": 1885,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"spice"
 ]
 },
 {
@@ -1914,6 +2974,34 @@
 ]
 },
 {
+"id": "dufflin",
+"name": "Dufflin",
+"aka": [],
+"country": "GB",
+"year": 1896,
+"uses": [
+"cider"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "dukat",
+"name": "Dukat",
+"aka": [
+"Dukát"
+],
+"country": "CZ",
+"year": 1965,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "duke-of-devonshire",
 "name": "Duke of Devonshire",
 "aka": [
@@ -1950,6 +3038,20 @@
 ]
 },
 {
+"id": "dunning",
+"name": "Dunning",
+"aka": [],
+"country": "US",
+"year": 1923,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "dunns-favourite",
 "name": "Dunn's Favourite",
 "aka": [],
@@ -1957,6 +3059,24 @@
 "year": null,
 "uses": [
 "dessert"
+],
+"tags": []
+},
+{
+"id": "dutch-mignonne",
+"name": "Dutch Mignonne",
+"aka": [
+"Reinette de Caux",
+"Grosse Casseler Reinette",
+"Paternoster",
+"Christ's Golden Reinette",
+"Mignonne de Hollande"
+],
+"country": "NL",
+"year": 1771,
+"uses": [
+"dessert",
+"culinary"
 ],
 "tags": []
 },
@@ -2045,6 +3165,47 @@
 ]
 },
 {
+"id": "edelborsdorfer",
+"name": "Edelborsdorfer",
+"aka": [
+"Borsdorfer",
+"Edler Winterborsdorfer",
+"Reinette Batarde",
+"Reinette d'Allemagne",
+"Leipziger Reinette",
+"Maschanzker",
+"Queen's Apple"
+],
+"country": "DE",
+"year": 1561,
+"uses": [
+"dessert"
+],
+"tags": [
+"wine",
+"sweet",
+"cinnamon"
+]
+},
+{
+"id": "eden",
+"name": "Eden",
+"aka": [
+"SJCA38R6A74"
+],
+"country": "CA",
+"year": 2006,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"perfumed",
+"sweet"
+]
+},
+{
 "id": "edward-vii",
 "name": "Edward VII",
 "aka": [
@@ -2087,6 +3248,39 @@
 ],
 "tags": [
 "sharp"
+]
+},
+{
+"id": "elektra",
+"name": "Elektra",
+"aka": [],
+"country": "DE",
+"year": 1930,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "elise-rathke",
+"name": "Elise Rathke",
+"aka": [
+"Elisa Rathke",
+"Eliza Ratke"
+],
+"country": "PL",
+"year": 1884,
+"uses": [
+"dessert",
+"ornamental"
+],
+"tags": [
+"spice",
+"sweet"
 ]
 },
 {
@@ -2153,6 +3347,20 @@
 ]
 },
 {
+"id": "emilia",
+"name": "Emilia",
+"aka": [],
+"country": "CA",
+"year": 1915,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "emperor-alexander",
 "name": "Emperor Alexander",
 "aka": [
@@ -2188,6 +3396,21 @@
 "melon",
 "elderflower"
 ]
+},
+{
+"id": "english-russet",
+"name": "English Russet",
+"aka": [
+"Poughkeepsie Russet",
+"Winter Russet"
+],
+"country": "US",
+"year": 1842,
+"uses": [
+"dessert",
+"cider"
+],
+"tags": []
 },
 {
 "id": "enterprise",
@@ -2246,6 +3469,36 @@
 ]
 },
 {
+"id": "eva",
+"name": "Eva",
+"aka": [
+"IAPAR 75",
+"IAPAR 75 Eva"
+],
+"country": "BR",
+"year": 1999,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "evercrisp",
+"name": "EverCrisp",
+"aka": [
+"MAIA-1",
+"MAIA 1"
+],
+"country": "US",
+"year": 1998,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "evereste",
 "name": "Evereste",
 "aka": [
@@ -2261,6 +3514,20 @@
 ],
 "tags": [
 "sharp"
+]
+},
+{
+"id": "exeter-cross",
+"name": "Exeter Cross",
+"aka": [],
+"country": "GB",
+"year": 1924,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -2282,6 +3549,25 @@
 ]
 },
 {
+"id": "fallawater",
+"name": "Fallawater",
+"aka": [
+"Tulpehocken",
+"Fallenwalder",
+"Brubacker",
+"Molly Whopper"
+],
+"country": "US",
+"year": 1842,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"mild"
+]
+},
+{
 "id": "falstaff",
 "name": "Falstaff",
 "aka": [],
@@ -2294,6 +3580,26 @@
 "tags": [
 "sweet",
 "sharp"
+]
+},
+{
+"id": "fenouillet-gris",
+"name": "Fenouillet Gris",
+"aka": [
+"Caraway Russet",
+"Anise Fenouillet",
+"Epice d'Hiver",
+"Fenouillet"
+],
+"country": "FR",
+"year": 1608,
+"uses": [
+"dessert"
+],
+"tags": [
+"aniseed",
+"sweet",
+"musky"
 ]
 },
 {
@@ -2328,6 +3634,38 @@
 "tags": []
 },
 {
+"id": "fireside",
+"name": "Fireside",
+"aka": [],
+"country": "US",
+"year": 1917,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "flamenco",
+"name": "Flamenco",
+"aka": [
+"Obelisk",
+"Ballerina Flamenco"
+],
+"country": "GB",
+"year": 1970,
+"uses": [
+"dessert",
+"ornamental"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "flanders-cox",
 "name": "Flanders Cox",
 "aka": [],
@@ -2337,6 +3675,23 @@
 "dessert"
 ],
 "tags": []
+},
+{
+"id": "florina",
+"name": "Florina",
+"aka": [
+"Querina"
+],
+"country": "FR",
+"year": 1977,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet",
+"sharp"
+]
 },
 {
 "id": "flower-of-kent",
@@ -2362,6 +3717,23 @@
 ],
 "tags": [
 "sweet"
+]
+},
+{
+"id": "foxwhelp",
+"name": "Foxwhelp",
+"aka": [
+"Old Foxwhelp"
+],
+"country": "GB",
+"year": 1664,
+"uses": [
+"cider"
+],
+"tags": [
+"sharp",
+"astringent",
+"bitter"
 ]
 },
 {
@@ -2468,6 +3840,21 @@
 ]
 },
 {
+"id": "frogmore-prolific",
+"name": "Frogmore Prolific",
+"aka": [
+"Frogmore"
+],
+"country": "GB",
+"year": 1865,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "frostbite",
 "name": "Frostbite",
 "aka": [
@@ -2552,6 +3939,24 @@
 ]
 },
 {
+"id": "geheimrat-dr-oldenburg",
+"name": "Geheimrat Dr. Oldenburg",
+"aka": [
+"Geheimrat Doktor Oldenburg",
+"Geheimrat Oldenburg",
+"Oldenburg"
+],
+"country": "DE",
+"year": 1897,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
 "id": "gennet-moyle",
 "name": "Gennet Moyle",
 "aka": [
@@ -2595,6 +4000,40 @@
 ]
 },
 {
+"id": "gewurzluiken",
+"name": "Gewürzluiken",
+"aka": [
+"Gewürzluike",
+"Gewürzluikenapfel"
+],
+"country": "DE",
+"year": 1885,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"sharp",
+"spice"
+]
+},
+{
+"id": "ginger-gold",
+"name": "Ginger Gold",
+"aka": [],
+"country": "US",
+"year": 1969,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"mild",
+"sweet"
+]
+},
+{
 "id": "gladstone",
 "name": "Gladstone",
 "aka": [
@@ -2630,6 +4069,25 @@
 "tags": [
 "sharp",
 "perfumed"
+]
+},
+{
+"id": "gloria-mundi",
+"name": "Gloria Mundi",
+"aka": [
+"Pound",
+"American Mammoth",
+"Monstrous Pippin",
+"Glazenwood Gloria Mundi",
+"Ox Apple"
+],
+"country": "US",
+"year": 1804,
+"uses": [
+"culinary"
+],
+"tags": [
+"mild"
 ]
 },
 {
@@ -2698,6 +4156,28 @@
 ]
 },
 {
+"id": "golden-harvey",
+"name": "Golden Harvey",
+"aka": [
+"Brandy Apple",
+"Round Russet Harvey",
+"Guernsey Pippin",
+"Bradley's Golden Pippin"
+],
+"country": "GB",
+"year": null,
+"uses": [
+"dessert",
+"cider",
+"juice"
+],
+"tags": [
+"sweet",
+"sharp",
+"perfumed"
+]
+},
+{
 "id": "golden-hornet",
 "name": "Golden Hornet",
 "aka": [
@@ -2749,6 +4229,31 @@
 ]
 },
 {
+"id": "golden-nugget",
+"name": "Golden Nugget",
+"aka": [],
+"country": "CA",
+"year": 1932,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "golden-orange",
+"name": "Golden Orange",
+"aka": [],
+"country": "IT",
+"year": 1979,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
 "id": "golden-russet",
 "name": "Golden Russet",
 "aka": [
@@ -2784,6 +4289,26 @@
 "tags": [
 "sharp",
 "astringent"
+]
+},
+{
+"id": "golden-sweet",
+"name": "Golden Sweet",
+"aka": [
+"Golden Sweeting",
+"Early Golden Sweet",
+"Summer Sweet"
+],
+"country": "US",
+"year": 1832,
+"uses": [
+"dessert",
+"culinary",
+"cider"
+],
+"tags": [
+"sweet",
+"honey"
 ]
 },
 {
@@ -2918,6 +4443,20 @@
 ]
 },
 {
+"id": "guldborg",
+"name": "Guldborg",
+"aka": [
+"Guldborgæble"
+],
+"country": "DK",
+"year": 1870,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": []
+},
+{
 "id": "gyllenkroks-astrakan",
 "name": "Gyllenkroks Astrakan",
 "aka": [
@@ -2944,6 +4483,21 @@
 "bitter",
 "astringent"
 ]
+},
+{
+"id": "halberstadter-jungfernapfel",
+"name": "Halberstädter Jungfernapfel",
+"aka": [
+"Halberstadter Jungfernapfel",
+"Schmuckapfel"
+],
+"country": "DE",
+"year": 1885,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": []
 },
 {
 "id": "hambledon-deux-ans",
@@ -2980,6 +4534,44 @@
 ]
 },
 {
+"id": "hammerstein",
+"name": "Hammerstein",
+"aka": [
+"Minister von Hammerstein",
+"Hammersteinovo",
+"General von Hammerstein"
+],
+"country": "DE",
+"year": 1882,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"perfumed",
+"sweet"
+]
+},
+{
+"id": "hangdown",
+"name": "Hangdown",
+"aka": [
+"Hangy Down",
+"Hangydown",
+"Horner",
+"Pocket Apple"
+],
+"country": "GB",
+"year": null,
+"uses": [
+"cider"
+],
+"tags": [
+"sweet",
+"bitter"
+]
+},
+{
 "id": "haralson",
 "name": "Haralson",
 "aka": [],
@@ -2991,6 +4583,24 @@
 ],
 "tags": [
 "sharp"
+]
+},
+{
+"id": "harrison",
+"name": "Harrison",
+"aka": [
+"Harrison Cider",
+"Long Stem",
+"Newark"
+],
+"country": "US",
+"year": 1770,
+"uses": [
+"cider"
+],
+"tags": [
+"sweet",
+"quince"
 ]
 },
 {
@@ -3061,6 +4671,19 @@
 "tags": []
 },
 {
+"id": "herma",
+"name": "Herma",
+"aka": [],
+"country": "DE",
+"year": 1935,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed"
+]
+},
+{
 "id": "herrings-pippin",
 "name": "Herring's Pippin",
 "aka": [
@@ -3100,6 +4723,25 @@
 ]
 },
 {
+"id": "hibernal",
+"name": "Hibernal",
+"aka": [
+"Orsimui",
+"Orsimoi",
+"Osimoe",
+"Romna"
+],
+"country": "RU",
+"year": 1870,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp",
+"astringent"
+]
+},
+{
 "id": "hidden-rose",
 "name": "Hidden Rose",
 "aka": [
@@ -3118,6 +4760,24 @@
 ]
 },
 {
+"id": "histon-favourite",
+"name": "Histon Favourite",
+"aka": [
+"Chivers' Seedling",
+"Chiver's Seedling",
+"Histon Favorite"
+],
+"country": "GB",
+"year": 1883,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "hokuto",
 "name": "Hokuto",
 "aka": [],
@@ -3131,6 +4791,35 @@
 "honey",
 "perfumed"
 ]
+},
+{
+"id": "holiday",
+"name": "Holiday",
+"aka": [],
+"country": "US",
+"year": 1940,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"wine",
+"sweet"
+]
+},
+{
+"id": "holland-pippin",
+"name": "Holland Pippin",
+"aka": [
+"Holland Winter"
+],
+"country": "GB",
+"year": 1729,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": []
 },
 {
 "id": "holstein",
@@ -3203,6 +4892,22 @@
 ]
 },
 {
+"id": "huaniu",
+"name": "Huaniu",
+"aka": [
+"Hua Niu",
+"Chinese Red Delicious"
+],
+"country": "CN",
+"year": 1956,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "hubbardston-nonesuch",
 "name": "Hubbardston Nonesuch",
 "aka": [
@@ -3238,6 +4943,31 @@
 ]
 },
 {
+"id": "idagold",
+"name": "Idagold",
+"aka": [],
+"country": "US",
+"year": 1944,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "idajon",
+"name": "Idajon",
+"aka": [],
+"country": "US",
+"year": 1949,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "idared",
 "name": "Idared",
 "aka": [
@@ -3253,6 +4983,31 @@
 "wine",
 "mild"
 ]
+},
+{
+"id": "indo",
+"name": "Indo",
+"aka": [],
+"country": "JP",
+"year": 1930,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
+"id": "ingol",
+"name": "Ingol",
+"aka": [],
+"country": "DE",
+"year": 1954,
+"uses": [
+"dessert"
+],
+"tags": []
 },
 {
 "id": "ingrid-marie",
@@ -3286,6 +5041,22 @@
 "peach",
 "perfumed",
 "sharp"
+]
+},
+{
+"id": "jamba-69",
+"name": "Jamba 69",
+"aka": [
+"Jamba"
+],
+"country": "DE",
+"year": 1954,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp",
+"perfumed"
 ]
 },
 {
@@ -3327,6 +5098,27 @@
 ]
 },
 {
+"id": "jefferis",
+"name": "Jefferis",
+"aka": [
+"Jefferies",
+"Jeffries",
+"Everbearing",
+"Grantham"
+],
+"country": "US",
+"year": 1830,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"pear",
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "jelly-king",
 "name": "Jelly King",
 "aka": [
@@ -3341,6 +5133,42 @@
 "ornamental"
 ],
 "tags": [
+"sharp"
+]
+},
+{
+"id": "jersey-black",
+"name": "Jersey Black",
+"aka": [
+"Black Apple",
+"Black Jersey",
+"Black American",
+"Dodge's Black"
+],
+"country": "US",
+"year": 1817,
+"uses": [
+"dessert",
+"cider"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "jerseymac",
+"name": "Jerseymac",
+"aka": [
+"Jersey Mac"
+],
+"country": "US",
+"year": 1956,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
 "sharp"
 ]
 },
@@ -3376,6 +5204,47 @@
 ]
 },
 {
+"id": "john-standish",
+"name": "John Standish",
+"aka": [],
+"country": "GB",
+"year": 1873,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "jonadel",
+"name": "Jonadel",
+"aka": [],
+"country": "US",
+"year": 1923,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "jonafree",
+"name": "Jonafree",
+"aka": [
+"Co-op 22"
+],
+"country": "US",
+"year": 1965,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "jonagold",
 "name": "Jonagold",
 "aka": [],
@@ -3407,6 +5276,37 @@
 ]
 },
 {
+"id": "jonalicious",
+"name": "Jonalicious",
+"aka": [],
+"country": "US",
+"year": 1933,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "jonamac",
+"name": "Jonamac",
+"aka": [],
+"country": "US",
+"year": 1944,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet",
+"honey",
+"strawberry"
+]
+},
+{
 "id": "jonathan",
 "name": "Jonathan",
 "aka": [
@@ -3424,6 +5324,51 @@
 "spice",
 "wine",
 "sharp"
+]
+},
+{
+"id": "jubilee",
+"name": "Jubilee",
+"aka": [],
+"country": "CA",
+"year": 1926,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
+"id": "julieta",
+"name": "Julieta",
+"aka": [
+"IPR Julieta"
+],
+"country": "BR",
+"year": 2010,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "julyred",
+"name": "Julyred",
+"aka": [
+"July Red"
+],
+"country": "US",
+"year": 1962,
+"uses": [
+"dessert"
+],
+"tags": [
+"wine",
+"berry",
+"perfumed",
+"sweet"
 ]
 },
 {
@@ -3472,6 +5417,43 @@
 ]
 },
 {
+"id": "kalmar-glasapple",
+"name": "Kalmar Glasäpple",
+"aka": [
+"Spansk Renett",
+"Kalmar Glassapple"
+],
+"country": null,
+"year": null,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"sharp"
+]
+},
+{
+"id": "kandil-sinap",
+"name": "Kandil Sinap",
+"aka": [
+"Candil Sinap",
+"Kandile",
+"Sinap Kandille"
+],
+"country": "UA",
+"year": 1800,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"wine",
+"perfumed"
+]
+},
+{
 "id": "kanzi",
 "name": "Kanzi",
 "aka": [
@@ -3489,6 +5471,25 @@
 ]
 },
 {
+"id": "karmijn-de-sonnaville",
+"name": "Karmijn de Sonnaville",
+"aka": [
+"Karmijn"
+],
+"country": "NL",
+"year": 1949,
+"uses": [
+"dessert",
+"juice"
+],
+"tags": [
+"perfumed",
+"spice",
+"sharp",
+"sweet"
+]
+},
+{
 "id": "katy",
 "name": "Katy",
 "aka": [
@@ -3503,6 +5504,22 @@
 "tags": [
 "strawberry",
 "mild"
+]
+},
+{
+"id": "keepsake",
+"name": "Keepsake",
+"aka": [],
+"country": "US",
+"year": 1978,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"perfumed",
+"spice",
+"sweet"
 ]
 },
 {
@@ -3619,6 +5636,39 @@
 ]
 },
 {
+"id": "king-byerd",
+"name": "King Byerd",
+"aka": [
+"King Bayard"
+],
+"country": "GB",
+"year": null,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"sharp",
+"sweet"
+]
+},
+{
+"id": "king-cole",
+"name": "King Cole",
+"aka": [
+"R. G. Cole's Champion",
+"Cole"
+],
+"country": "AU",
+"year": 1912,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "king-david",
 "name": "King David",
 "aka": [],
@@ -3714,6 +5764,22 @@
 ]
 },
 {
+"id": "lady-alice",
+"name": "Lady Alice",
+"aka": [],
+"country": "US",
+"year": 1979,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"honey",
+"almond"
+]
+},
+{
 "id": "lady-henniker",
 "name": "Lady Henniker",
 "aka": [
@@ -3785,6 +5851,21 @@
 "tags": [
 "sharp",
 "sweet"
+]
+},
+{
+"id": "lakeland",
+"name": "Lakeland",
+"aka": [],
+"country": "US",
+"year": 1950,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"mild"
 ]
 },
 {
@@ -3953,6 +6034,41 @@
 ]
 },
 {
+"id": "linda",
+"name": "Linda",
+"aka": [],
+"country": "CA",
+"year": 1908,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed",
+"strawberry"
+]
+},
+{
+"id": "liveland-raspberry",
+"name": "Liveland Raspberry",
+"aka": [
+"Lowland Raspberry",
+"Livland Raspberry",
+"Lievland Raspberry",
+"Framboise de Livonie",
+"Livlaender Himbeerapfel"
+],
+"country": "LV",
+"year": 1870,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "lobo",
 "name": "Lobo",
 "aka": [],
@@ -4089,6 +6205,25 @@
 ]
 },
 {
+"id": "lucombes-seedling",
+"name": "Lucombe's Seedling",
+"aka": [
+"Kirton Fair",
+"Newquay Prizetaker",
+"Uncle Barney",
+"Luckombe's Seedling"
+],
+"country": "GB",
+"year": 1831,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"spice"
+]
+},
+{
 "id": "macoun",
 "name": "Macoun",
 "aka": [],
@@ -4120,6 +6255,25 @@
 "tags": [
 "perfumed",
 "sweet",
+"sharp"
+]
+},
+{
+"id": "maiden-blush",
+"name": "Maiden Blush",
+"aka": [
+"Maiden's Blush",
+"Lady Blush",
+"Red Cheek"
+],
+"country": "US",
+"year": 1817,
+"uses": [
+"dessert",
+"culinary",
+"cider"
+],
+"tags": [
 "sharp"
 ]
 },
@@ -4168,6 +6322,24 @@
 ]
 },
 {
+"id": "malinda",
+"name": "Malinda",
+"aka": [
+"Melinda"
+],
+"country": "US",
+"year": 1860,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"pear",
+"mild",
+"sweet"
+]
+},
+{
 "id": "malus-sieversii",
 "name": "Malus sieversii",
 "aka": [
@@ -4200,6 +6372,38 @@
 ],
 "tags": [
 "sharp"
+]
+},
+{
+"id": "manningtons-pearmain",
+"name": "Mannington's Pearmain",
+"aka": [
+"Mannington Pearmain"
+],
+"country": "GB",
+"year": 1770,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed",
+"nutty"
+]
+},
+{
+"id": "mantet",
+"name": "Mantet",
+"aka": [],
+"country": "CA",
+"year": 1928,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -4262,6 +6466,20 @@
 ]
 },
 {
+"id": "medina",
+"name": "Medina",
+"aka": [],
+"country": "US",
+"year": 1911,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "melba",
 "name": "Melba",
 "aka": [],
@@ -4274,6 +6492,24 @@
 "tags": [
 "perfumed",
 "wine",
+"sweet"
+]
+},
+{
+"id": "melon",
+"name": "Melon",
+"aka": [
+"Norton's Melon",
+"Watermelon",
+"Melon Norton"
+],
+"country": "US",
+"year": 1800,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
 "sweet"
 ]
 },
@@ -4329,6 +6565,19 @@
 ]
 },
 {
+"id": "merton-delight",
+"name": "Merton Delight",
+"aka": [],
+"country": "GB",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "merton-russet",
 "name": "Merton Russet",
 "aka": [],
@@ -4340,6 +6589,19 @@
 "tags": [
 "sweet",
 "spice"
+]
+},
+{
+"id": "merton-worcester",
+"name": "Merton Worcester",
+"aka": [],
+"country": "GB",
+"year": 1914,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -4392,6 +6654,46 @@
 ]
 },
 {
+"id": "milton",
+"name": "Milton",
+"aka": [],
+"country": "US",
+"year": 1909,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"berry"
+]
+},
+{
+"id": "minnehaha",
+"name": "Minnehaha",
+"aka": [],
+"country": "US",
+"year": 1920,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "mio",
+"name": "Mio",
+"aka": [],
+"country": "SE",
+"year": 1932,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "mollies-delicious",
 "name": "Mollie's Delicious",
 "aka": [
@@ -4421,6 +6723,20 @@
 ]
 },
 {
+"id": "monroe",
+"name": "Monroe",
+"aka": [],
+"country": "US",
+"year": 1910,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "muscadet-de-dieppe",
 "name": "Muscadet de Dieppe",
 "aka": [],
@@ -4433,6 +6749,19 @@
 "sweet",
 "bitter"
 ]
+},
+{
+"id": "nanny",
+"name": "Nanny",
+"aka": [
+"Nancy"
+],
+"country": "GB",
+"year": 1842,
+"uses": [
+"dessert"
+],
+"tags": []
 },
 {
 "id": "nehou",
@@ -4449,6 +6778,22 @@
 "bitter",
 "astringent"
 ]
+},
+{
+"id": "new-brunswicker",
+"name": "New Brunswicker",
+"aka": [
+"Sharp's New Brunswick",
+"New Brunswick",
+"Duchess of New Brunswick"
+],
+"country": "CA",
+"year": null,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": []
 },
 {
 "id": "newton-wonder",
@@ -4487,6 +6832,36 @@
 "wine",
 "sharp",
 "citrus"
+]
+},
+{
+"id": "niagara",
+"name": "Niagara",
+"aka": [],
+"country": "US",
+"year": 1950,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "nicola",
+"name": "Nicola",
+"aka": [
+"SPA440"
+],
+"country": "CA",
+"year": 1981,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -4545,6 +6920,20 @@
 ]
 },
 {
+"id": "norfolk-royal",
+"name": "Norfolk Royal",
+"aka": [],
+"country": "GB",
+"year": 1908,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"melon"
+]
+},
+{
 "id": "norfolk-royal-russet",
 "name": "Norfolk Royal Russet",
 "aka": [],
@@ -4593,6 +6982,53 @@
 ]
 },
 {
+"id": "nova-easygro",
+"name": "Nova Easygro",
+"aka": [
+"Nova Easy Gro",
+"NovaEasygro"
+],
+"country": "CA",
+"year": 1956,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "novamac",
+"name": "Novamac",
+"aka": [],
+"country": "CA",
+"year": 1963,
+"uses": [
+"dessert"
+],
+"tags": [
+"wine",
+"sweet",
+"sharp"
+]
+},
+{
+"id": "novaspy",
+"name": "Novaspy",
+"aka": [],
+"country": "CA",
+"year": 1986,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "nuvar-cheerfull-gold",
 "name": "Nuvar Cheerfull Gold",
 "aka": [
@@ -4622,6 +7058,62 @@
 ],
 "tags": [
 "sweet"
+]
+},
+{
+"id": "ohio-nonpareil",
+"name": "Ohio Nonpareil",
+"aka": [
+"Myers' Nonpareil",
+"Bellflower of the West",
+"Cattell Apple",
+"Rusty Core",
+"Wells"
+],
+"country": "US",
+"year": 1848,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"savoury",
+"perfumed"
+]
+},
+{
+"id": "oliver",
+"name": "Oliver",
+"aka": [
+"Senator",
+"Oliver's Red"
+],
+"country": "US",
+"year": 1873,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "ontario",
+"name": "Ontario",
+"aka": [
+"Ontarioapfel"
+],
+"country": "CA",
+"year": 1874,
+"uses": [
+"culinary",
+"dessert",
+"juice"
+],
+"tags": [
+"sharp",
+"perfumed"
 ]
 },
 {
@@ -4673,6 +7165,33 @@
 ]
 },
 {
+"id": "oriole",
+"name": "Oriole",
+"aka": [],
+"country": "US",
+"year": 1949,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "orleans",
+"name": "Orleans",
+"aka": [],
+"country": "US",
+"year": 1923,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "orleans-reinette",
 "name": "Orleans Reinette",
 "aka": [
@@ -4689,6 +7208,27 @@
 "nutty",
 "sweet",
 "mango"
+]
+},
+{
+"id": "ortley",
+"name": "Ortley",
+"aka": [
+"Woolman's Long",
+"Woolman's Long Pippin",
+"White Bellflower",
+"Cleopatra",
+"Van Dyne",
+"White Detroit",
+"Ortley Pippin"
+],
+"country": "US",
+"year": 1817,
+"uses": [
+"dessert"
+],
+"tags": [
+"mild"
 ]
 },
 {
@@ -4718,6 +7258,22 @@
 ]
 },
 {
+"id": "ozark-gold",
+"name": "Ozark Gold",
+"aka": [],
+"country": "US",
+"year": 1970,
+"uses": [
+"dessert"
+],
+"tags": [
+"honey",
+"sweet",
+"mild",
+"spice"
+]
+},
+{
 "id": "palmers-rosey",
 "name": "Palmer's Rosey",
 "aka": [],
@@ -4728,6 +7284,19 @@
 ],
 "tags": [
 "perfumed"
+]
+},
+{
+"id": "pams-delight",
+"name": "Pam's Delight",
+"aka": [],
+"country": "GB",
+"year": 1956,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -4774,6 +7343,23 @@
 ]
 },
 {
+"id": "paula-red",
+"name": "Paula Red",
+"aka": [
+"Paulared"
+],
+"country": "US",
+"year": 1960,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"wine",
+"strawberry"
+]
+},
+{
 "id": "peasgoods-nonsuch",
 "name": "Peasgood's Nonsuch",
 "aka": [
@@ -4809,6 +7395,22 @@
 ]
 },
 {
+"id": "pederstrup",
+"name": "Pederstrup",
+"aka": [
+"Pederstrup Reinette",
+"Pommerske",
+"Stettiner"
+],
+"country": "DK",
+"year": 1858,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": []
+},
+{
 "id": "pepin-shafranny",
 "name": "Pepin Shafranny",
 "aka": [
@@ -4825,6 +7427,21 @@
 "wine",
 "spice",
 "sweet"
+]
+},
+{
+"id": "pewaukee",
+"name": "Pewaukee",
+"aka": [
+"Peewaukee"
+],
+"country": "US",
+"year": 1870,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed"
 ]
 },
 {
@@ -4852,6 +7469,25 @@
 "tags": [
 "sharp",
 "sweet"
+]
+},
+{
+"id": "pine-golden-pippin",
+"name": "Pine Golden Pippin",
+"aka": [
+"Golden Pine Pippin",
+"Pine-Golden Pippin",
+"Pepin d'Or Ananas"
+],
+"country": "GB",
+"year": 1861,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet",
+"honey"
 ]
 },
 {
@@ -5001,6 +7637,38 @@
 ]
 },
 {
+"id": "potts-seedling",
+"name": "Pott's Seedling",
+"aka": [
+"Potts' Seedling",
+"Dean's Codlin",
+"Nott's Seedling"
+],
+"country": "GB",
+"year": 1849,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "poveshon",
+"name": "Poveshon",
+"aka": [
+"Povershon"
+],
+"country": "US",
+"year": 1775,
+"uses": [
+"cider"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "prairie-spy",
 "name": "Prairie Spy",
 "aka": [
@@ -5017,6 +7685,57 @@
 ]
 },
 {
+"id": "priam",
+"name": "Priam",
+"aka": [],
+"country": "US",
+"year": 1974,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp",
+"sweet"
+]
+},
+{
+"id": "prima",
+"name": "Prima",
+"aka": [
+"Co-op 2"
+],
+"country": "US",
+"year": 1970,
+"uses": [
+"dessert"
+],
+"tags": [
+"mild",
+"sweet"
+]
+},
+{
+"id": "primate",
+"name": "Primate",
+"aka": [
+"July Apple",
+"Powers",
+"Scott",
+"Early Tart Harvest",
+"Sour Harvest",
+"Rough and Ready"
+],
+"country": "US",
+"year": 1840,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp",
+"perfumed"
+]
+},
+{
 "id": "primrose-pippin",
 "name": "Primrose Pippin",
 "aka": [],
@@ -5028,6 +7747,19 @@
 "tags": [
 "sweet",
 "sharp"
+]
+},
+{
+"id": "primus",
+"name": "Primus",
+"aka": [],
+"country": "NL",
+"year": 1935,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -5081,6 +7813,28 @@
 ]
 },
 {
+"id": "pumpkin-sweet",
+"name": "Pumpkin Sweet",
+"aka": [
+"Pound Sweet",
+"Lyman's Pumpkin Sweet",
+"Pumpkin Sweeting",
+"Vermont Pumpkin Sweet",
+"Rhode Island Sweet",
+"Yankee Apple"
+],
+"country": "US",
+"year": 1834,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "queen-cox",
 "name": "Queen Cox",
 "aka": [],
@@ -5094,6 +7848,21 @@
 "pear-drop",
 "honey",
 "rose"
+]
+},
+{
+"id": "quinte",
+"name": "Quinte",
+"aka": [],
+"country": "CA",
+"year": 1964,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"sharp"
 ]
 },
 {
@@ -5182,6 +7951,29 @@
 ]
 },
 {
+"id": "red-autumn-calville",
+"name": "Red Autumn Calville",
+"aka": [
+"Calville Rouge d'Automne",
+"Roter Herbstkalvill",
+"Autumn Red Calville",
+"Grosser Roter Sommer-Himbeerapfel",
+"Edelkönig"
+],
+"country": "FR",
+"year": 1670,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"strawberry",
+"berry",
+"perfumed",
+"sweet"
+]
+},
+{
 "id": "red-delicious",
 "name": "Red Delicious",
 "aka": [
@@ -5243,6 +8035,25 @@
 ],
 "tags": [
 "sharp",
+"sweet"
+]
+},
+{
+"id": "red-pineapple",
+"name": "Red Pineapple",
+"aka": [
+"Roter Ananas",
+"Rød Ananas",
+"Ananas Rouge",
+"Rother Ananasapfel",
+"Krasnyi Ananas"
+],
+"country": "DE",
+"year": 1854,
+"uses": [
+"dessert"
+],
+"tags": [
 "sweet"
 ]
 },
@@ -5312,6 +8123,52 @@
 ]
 },
 {
+"id": "redgold",
+"name": "Redgold",
+"aka": [
+"Red Gold",
+"Stark Redgold"
+],
+"country": "US",
+"year": 1946,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet"
+]
+},
+{
+"id": "redwell",
+"name": "Redwell",
+"aka": [],
+"country": "US",
+"year": 1911,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"mild"
+]
+},
+{
+"id": "regent",
+"name": "Regent",
+"aka": [],
+"country": "US",
+"year": 1964,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"honey",
+"sweet",
+"sharp"
+]
+},
+{
 "id": "reinette-clochard",
 "name": "Reinette Clochard",
 "aka": [
@@ -5332,12 +8189,35 @@
 ]
 },
 {
+"id": "reinette-du-canada",
+"name": "Reinette du Canada",
+"aka": [
+"Reinette Blanche du Canada",
+"Canada Reinette",
+"Canada Blanc",
+"Kanada Reinette",
+"Pariser Rambour-Reinette",
+"Reinette Monstrueuse du Canada"
+],
+"country": "FR",
+"year": 1771,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"sharp",
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "reinette-grise-du-canada",
 "name": "Reinette Grise du Canada",
 "aka": [
 "Canada Gris",
 "Grise du Canada",
-"Monstrueuse du Canada",
 "Gros Fenouillet Gris",
 "Reinette du Canada Grise"
 ],
@@ -5352,6 +8232,67 @@
 "sharp",
 "spice",
 "perfumed"
+]
+},
+{
+"id": "reinette-rouge-etoilee",
+"name": "Reinette Rouge Etoilée",
+"aka": [
+"Reinette Etoilée",
+"Rote Sternrenette",
+"Rothe Stern-Reinette",
+"Sterappel",
+"Calville Etoilée",
+"Pomme de Coeur",
+"Early Red Calville"
+],
+"country": "NL",
+"year": 1830,
+"uses": [
+"dessert",
+"juice",
+"ornamental"
+],
+"tags": [
+"mild",
+"sweet"
+]
+},
+{
+"id": "reinette-simirenko",
+"name": "Reinette Simirenko",
+"aka": [
+"Renet Simirenko",
+"Simirenko",
+"Reinette Verte de Simirenko",
+"Zelenyi Renet Simirenko",
+"Wood's Greening"
+],
+"country": "UA",
+"year": 1880,
+"uses": [
+"dessert",
+"juice"
+],
+"tags": [
+"wine",
+"spice",
+"perfumed",
+"sweet"
+]
+},
+{
+"id": "renown",
+"name": "Renown",
+"aka": [],
+"country": "GB",
+"year": 1908,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
 ]
 },
 {
@@ -5434,6 +8375,22 @@
 ]
 },
 {
+"id": "rokewood",
+"name": "Rokewood",
+"aka": [
+"Bullock's Seedling"
+],
+"country": "AU",
+"year": 1870,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "rome-beauty",
 "name": "Rome Beauty",
 "aka": [
@@ -5507,6 +8464,48 @@
 "fennel",
 "aniseed",
 "sweet"
+]
+},
+{
+"id": "roter-eiserapfel",
+"name": "Roter Eiserapfel",
+"aka": [
+"Rote Eiserapfel",
+"Bamberger",
+"Paradiesapfel",
+"Eiser Rouge",
+"Hunt's Royal Red",
+"Schornsteinfeger",
+"Roter Krieger"
+],
+"country": "DE",
+"year": 1600,
+"uses": [
+"culinary",
+"dessert",
+"juice"
+],
+"tags": [
+"sweet",
+"astringent"
+]
+},
+{
+"id": "rouville",
+"name": "Rouville",
+"aka": [],
+"country": "CA",
+"year": 1983,
+"uses": [
+"dessert",
+"juice",
+"cider",
+"culinary"
+],
+"tags": [
+"berry",
+"sweet",
+"astringent"
 ]
 },
 {
@@ -5660,6 +8659,22 @@
 ]
 },
 {
+"id": "sandow",
+"name": "Sandow",
+"aka": [],
+"country": "CA",
+"year": 1912,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"berry",
+"sweet",
+"sharp"
+]
+},
+{
 "id": "sansa",
 "name": "Sansa",
 "aka": [],
@@ -5719,6 +8734,23 @@
 "tags": [
 "sharp",
 "perfumed"
+]
+},
+{
+"id": "sciros",
+"name": "Sciros",
+"aka": [
+"Pacific Rose",
+"Scirose"
+],
+"country": "NZ",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
 ]
 },
 {
@@ -5788,6 +8820,20 @@
 ]
 },
 {
+"id": "sharon",
+"name": "Sharon",
+"aka": [],
+"country": "US",
+"year": 1922,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "sheepnose",
 "name": "Sheepnose",
 "aka": [
@@ -5850,6 +8896,20 @@
 ]
 },
 {
+"id": "shinsei",
+"name": "Shinsei",
+"aka": [],
+"country": "JP",
+"year": 1930,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
 "id": "siberian-crab",
 "name": "Siberian Crab",
 "aka": [
@@ -5896,6 +8956,20 @@
 "tags": [
 "sweet",
 "sharp"
+]
+},
+{
+"id": "sinta",
+"name": "Sinta",
+"aka": [],
+"country": "CA",
+"year": 1955,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -5952,6 +9026,23 @@
 "sweet",
 "sharp",
 "spice"
+]
+},
+{
+"id": "snovit",
+"name": "Snövit",
+"aka": [
+"Snovit"
+],
+"country": "SE",
+"year": 1936,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -6021,6 +9112,52 @@
 ]
 },
 {
+"id": "spencer-seedless",
+"name": "Spencer Seedless",
+"aka": [],
+"country": "US",
+"year": 1905,
+"uses": [
+"dessert"
+],
+"tags": [
+"mild"
+]
+},
+{
+"id": "spigold",
+"name": "Spigold",
+"aka": [],
+"country": "US",
+"year": 1962,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"sweet",
+"honey",
+"citrus"
+]
+},
+{
+"id": "splendour",
+"name": "Splendour",
+"aka": [
+"Starksplendor"
+],
+"country": "NZ",
+"year": 1948,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
 "id": "st-edmunds-pippin",
 "name": "St Edmund's Pippin",
 "aka": [
@@ -6049,6 +9186,37 @@
 "tags": [
 "floral",
 "sweet"
+]
+},
+{
+"id": "star-of-devon",
+"name": "Star of Devon",
+"aka": [],
+"country": "GB",
+"year": 1905,
+"uses": [
+"dessert"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "stark-earliest",
+"name": "Stark Earliest",
+"aka": [
+"Stark's Earliest",
+"Scarlet Pimpernel",
+"Starks Allerfrühester"
+],
+"country": "US",
+"year": 1938,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"sharp"
 ]
 },
 {
@@ -6136,6 +9304,44 @@
 ]
 },
 {
+"id": "styre",
+"name": "Styre",
+"aka": [
+"Stire",
+"Forest Styre"
+],
+"country": "GB",
+"year": 1600,
+"uses": [
+"cider"
+],
+"tags": [
+"sharp",
+"astringent",
+"honey"
+]
+},
+{
+"id": "sugarbee",
+"name": "SugarBee",
+"aka": [
+"CN 121",
+"B-51"
+],
+"country": "US",
+"year": 2004,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet",
+"caramel",
+"honey",
+"floral"
+]
+},
+{
 "id": "summer-rambo",
 "name": "Summer Rambo",
 "aka": [
@@ -6155,6 +9361,64 @@
 "sweet",
 "sharp",
 "perfumed"
+]
+},
+{
+"id": "summerfree",
+"name": "Summerfree",
+"aka": [],
+"country": "IT",
+"year": 1996,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
+"id": "summerred",
+"name": "Summerred",
+"aka": [],
+"country": "CA",
+"year": 1964,
+"uses": [
+"dessert"
+],
+"tags": [
+"wine"
+]
+},
+{
+"id": "sundance",
+"name": "Sundance",
+"aka": [
+"Co-op 29"
+],
+"country": "US",
+"year": 2004,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"spice",
+"lemon",
+"sharp"
+]
+},
+{
+"id": "sunflare",
+"name": "Sunflare",
+"aka": [
+"WA 64"
+],
+"country": "US",
+"year": 1998,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"sharp"
 ]
 },
 {
@@ -6205,6 +9469,21 @@
 ]
 },
 {
+"id": "surprise",
+"name": "Surprise",
+"aka": [
+"Red Core"
+],
+"country": null,
+"year": 1831,
+"uses": [
+"culinary"
+],
+"tags": [
+"sharp"
+]
+},
+{
 "id": "swaar",
 "name": "Swaar",
 "aka": [
@@ -6223,6 +9502,20 @@
 ]
 },
 {
+"id": "swazie",
+"name": "Swazie",
+"aka": [
+"Swazie Pomme Grise",
+"Pomme Grise d'Or"
+],
+"country": "CA",
+"year": 1790,
+"uses": [
+"dessert"
+],
+"tags": []
+},
+{
 "id": "sweet-alford",
 "name": "Sweet Alford",
 "aka": [],
@@ -6233,6 +9526,30 @@
 "juice"
 ],
 "tags": [
+"sweet",
+"mild"
+]
+},
+{
+"id": "sweet-bough",
+"name": "Sweet Bough",
+"aka": [
+"Early Bough",
+"Large Yellow Bough",
+"August Sweet",
+"August Sweeting",
+"Bough",
+"Early Sweet Bough",
+"Yellow Bough"
+],
+"country": "US",
+"year": 1817,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"honey",
 "sweet",
 "mild"
 ]
@@ -6249,6 +9566,20 @@
 "tags": [
 "sweet",
 "mild"
+]
+},
+{
+"id": "sweet-delicious",
+"name": "Sweet Delicious",
+"aka": [],
+"country": "US",
+"year": 1911,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
 ]
 },
 {
@@ -6281,6 +9612,24 @@
 ]
 },
 {
+"id": "sweet-winesap",
+"name": "Sweet Winesap",
+"aka": [
+"Hendrick Sweet",
+"Henrick Sweet",
+"Sweet Wine Sap"
+],
+"country": "US",
+"year": null,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
+]
+},
+{
 "id": "sweetango",
 "name": "SweeTango",
 "aka": [
@@ -6297,6 +9646,69 @@
 "floral",
 "citrus",
 "cinnamon"
+]
+},
+{
+"id": "sweetie",
+"name": "Sweetie",
+"aka": [
+"PremA280"
+],
+"country": "NZ",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"spice",
+"mild"
+]
+},
+{
+"id": "sylvia",
+"name": "Sylvia",
+"aka": [],
+"country": "SE",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"sweet",
+"perfumed"
+]
+},
+{
+"id": "taliaferro",
+"name": "Taliaferro",
+"aka": [
+"Robinson",
+"Robertson"
+],
+"country": "US",
+"year": 1778,
+"uses": [
+"cider",
+"dessert"
+],
+"tags": []
+},
+{
+"id": "tartu-rose",
+"name": "Tartu Rose",
+"aka": [
+"Tartu roos",
+"Tartu roosõun",
+"Rozovoe iz Tartu"
+],
+"country": "EE",
+"year": null,
+"uses": [
+"dessert"
+],
+"tags": [
+"mild"
 ]
 },
 {
@@ -6322,6 +9734,22 @@
 "cider",
 "dessert",
 "culinary"
+],
+"tags": [
+"sweet",
+"mild"
+]
+},
+{
+"id": "tentation",
+"name": "Tentation",
+"aka": [
+"Delblush"
+],
+"country": "FR",
+"year": 1979,
+"uses": [
+"dessert"
 ],
 "tags": [
 "sweet",
@@ -6504,6 +9932,22 @@
 ]
 },
 {
+"id": "tumanga",
+"name": "Tumanga",
+"aka": [
+"Auralia"
+],
+"country": "DE",
+"year": 1935,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"sweet"
+]
+},
+{
 "id": "twenty-ounce",
 "name": "Twenty Ounce",
 "aka": [
@@ -6558,6 +10002,71 @@
 ]
 },
 {
+"id": "upton-pyne",
+"name": "Upton Pyne",
+"aka": [],
+"country": "GB",
+"year": 1910,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"pineapple",
+"sharp"
+]
+},
+{
+"id": "uttwiler-spatlauber",
+"name": "Uttwiler Spätlauber",
+"aka": [
+"Uttwiler Spätlese"
+],
+"country": "CH",
+"year": 1750,
+"uses": [
+"culinary",
+"cider"
+],
+"tags": [
+"sharp",
+"spice"
+]
+},
+{
+"id": "venus-pippin",
+"name": "Venus Pippin",
+"aka": [
+"Plumderity",
+"Venus' Pippin",
+"Plum Bidy"
+],
+"country": "GB",
+"year": 1800,
+"uses": [
+"culinary",
+"dessert"
+],
+"tags": [
+"sharp"
+]
+},
+{
+"id": "vilberie",
+"name": "Vilberie",
+"aka": [],
+"country": "FR",
+"year": null,
+"uses": [
+"cider"
+],
+"tags": [
+"bitter",
+"astringent",
+"sweet"
+]
+},
+{
 "id": "virginia-beauty",
 "name": "Virginia Beauty",
 "aka": [
@@ -6585,6 +10094,29 @@
 "tags": [
 "berry",
 "wine"
+]
+},
+{
+"id": "wagener",
+"name": "Wagener",
+"aka": [
+"Wagener Price",
+"Wagoner",
+"Wageners Preisapfel"
+],
+"country": "US",
+"year": 1791,
+"uses": [
+"dessert",
+"culinary",
+"juice"
+],
+"tags": [
+"perfumed",
+"honey",
+"cinnamon",
+"herbal",
+"sharp"
 ]
 },
 {
@@ -6697,6 +10229,25 @@
 ]
 },
 {
+"id": "white-winter-pearmain",
+"name": "White Winter Pearmain",
+"aka": [
+"White Pearmain",
+"Campbellite",
+"Winter White Pearmain"
+],
+"country": "US",
+"year": 1849,
+"uses": [
+"dessert"
+],
+"tags": [
+"perfumed",
+"honey",
+"sweet"
+]
+},
+{
 "id": "wickson-crab",
 "name": "Wickson Crab",
 "aka": [
@@ -6717,6 +10268,23 @@
 ]
 },
 {
+"id": "wijcik-mcintosh",
+"name": "Wijcik McIntosh",
+"aka": [
+"Wijcik"
+],
+"country": "CA",
+"year": 1964,
+"uses": [
+"dessert",
+"ornamental"
+],
+"tags": [
+"wine",
+"sweet"
+]
+},
+{
 "id": "william-crump",
 "name": "William Crump",
 "aka": [],
@@ -6728,6 +10296,29 @@
 "tags": [
 "sweet",
 "perfumed"
+]
+},
+{
+"id": "williams-favourite",
+"name": "Williams Favourite",
+"aka": [
+"Williams",
+"Williams Early",
+"Williams Early Red",
+"Williams Red",
+"Williams' Favorite",
+"Queen",
+"Lady's Apple"
+],
+"country": "US",
+"year": 1750,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"perfumed",
+"mild"
 ]
 },
 {
@@ -6841,6 +10432,20 @@
 "mild",
 "sweet"
 ]
+},
+{
+"id": "woodcock",
+"name": "Woodcock",
+"aka": [
+"Afal coes y dryw",
+"Afal coeshir y gwin"
+],
+"country": "GB",
+"year": 1670,
+"uses": [
+"cider"
+],
+"tags": []
 },
 {
 "id": "worcester-pearmain",
@@ -7052,6 +10657,23 @@
 "tags": [
 "sweet",
 "sharp"
+]
+},
+{
+"id": "zoete-ermgaard",
+"name": "Zoete Ermgaard",
+"aka": [
+"Sweet Ermgaard",
+"Armgaard"
+],
+"country": "NL",
+"year": 1864,
+"uses": [
+"dessert",
+"culinary"
+],
+"tags": [
+"sweet"
 ]
 },
 {

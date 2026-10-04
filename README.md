@@ -24,6 +24,9 @@ Karim Habibi).
   (a sweet-vs-sharp chart). A defined flavour vocabulary links notes to aroma chemistry; visitors can report tastings
   through a GitHub issue form; `docs/flavour-audit.md` lists what changed. The map says how a place will change an
   apple's flavour (e.g. Cox milder in hot summers).
+* **Grow it where you are** - on every variety page, pick a place in a pop-up map (or search, or use your location) to
+  see whether it will grow there and how that climate changes it compared with its home: picking date, sugar, acidity,
+  overall taste, aroma, red colour, sunburn, texture and keeping (decision 0006).
 * **Favourites** - side-by-side comparison and a pollination check (flowering groups, triploids).
 
 Live site: https://otac0011.github.io/pomography/ (GitHub Pages from `main`, repo root).
@@ -43,7 +46,9 @@ No Node, no bundler. Leaflet comes from cdnjs; weather from Open-Meteo; place na
 | `index.html`, `css/`, `js/` | the site (ES modules, hash router) |
 | `js/climate/features.js` | pure climate-metric extraction (chill, zone, bloom, frost, season, heat, humidity, leaf wetness, disease) |
 | `js/climate/regional.js`, `extrapolate.js`, `fetch.js` | regional presence lookups, extrapolation from neighbours, live Open-Meteo lookup |
-| `js/score/score.js` | variety x place scoring + reasons, rootstock advice |
+| `js/score/score.js` | variety x place scoring + reasons, picking date (days after bloom), rootstock advice |
+| `js/score/change.js`, `js/ui/growhere.js`, `js/climate/place.js` | how an apple changes in another climate; the place picker; one place's analysis (shared with the map) |
+| `tools/coverage_gaps.py` | which well-known apples are missing, from Wikipedia, Orange Pippin, the NFC and research collections -> `research/coverage-gaps.md` (decision 0007) |
 | `library/` | public-domain pomology books (text committed, scans git-ignored); `tools/fetch_library.py` |
 | `data/historic/`, `data/evidence/`, `data/chemistry/`, `data/panel/`, `data/flavour_vocab.json`, `data/tastings.json` | flavour evidence (decision 0005); merged by `tools/flavour.py` during the build into `assets/flavour.json` |
 | `tools/flavour_audit.py` | writes `docs/flavour-audit.md` |

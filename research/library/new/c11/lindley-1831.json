@@ -1,0 +1,30 @@
+{
+  "_book": "lindley-1831",
+  "coccagee": {
+    "line": 6141, "end": 6164, "heading": "195. COCCAGEE. Hort. Soc. Cat. 167, Cockagee. Forsyth, Ed. 3. No. 22.", "match": "exact",
+    "flavour": "Flesh rather soft, yellowish white. Juice sharp acid, with an unpleasant astringency.",
+    "quality": "This apple produces the well known, and by some highly esteemed, Coccagee Cider.",
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp", "astringent"], "against": [], "sweet": null, "acid": 5,
+    "note": "Lindley's fruit was pale lemon with no red; Forsyth described a red cheek."
+  },
+  "styre": {
+    "line": 6203, "end": 6224, "heading": "197. FOREST STYRE. Pom. Heref. t. 12. Red Styre. Ib.", "match": "exact",
+    "flavour": null,
+    "quality": null,
+    "storage": null,
+    "climate": "is planted principally in the light soils, in the neighbourhood of the Forest of Dean, where it affords a stronger cider than the deeper soils of Herefordshire.",
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "'The Styre, or Stire, is a native of Gloucestershire'; Philips's 'Stirom'. Styre cider kept thirty and forty years. No taste words."
+  },
+  "woodcock": {
+    "line": 6632, "end": 6653, "heading": "213. WOODCOCK APPLE. Pom. Heref. t. 10.", "match": "exact",
+    "flavour": null,
+    "quality": "a cider apple of great excellence",
+    "storage": null,
+    "climate": null,
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Praised by 17th-century writers; cultivation declining by 1831. No taste words."
+  }
+}

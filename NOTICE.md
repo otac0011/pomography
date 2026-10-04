@@ -18,6 +18,9 @@ National Fruit Collection (Brogdale / University of Reading / Defra), Orange Pip
 *Fruit Manual* (1884), Bunyard's *Handbook of Hardy Fruits* (1920), university extension and breeder pages (Cornell /
 Geneva, WSU, Michigan State, University of Minnesota, Penn State, East Malling), regional pomological societies.
 Individual agents' notes of conflicts between sources are kept inside each record (`notes`, `history`).
+To check which well-known apples were missing (decision 0007), variety *names* were compared with Wikipedia's "List of
+apple cultivars" and its "Apple cultivars" category, Orange Pippin's A-Z index and the collections above; only names
+were used, and the downloaded lists are not redistributed (`cache/` is not in the repository).
 
 ## Flavour evidence (decision 0005)
 * **Public-domain books** in `library/` (Hogg, the Herefordshire Pomona, Bunyard, Lindley, Beach, Downing, Warder, Ragan,

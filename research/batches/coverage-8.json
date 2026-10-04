@@ -1,0 +1,290 @@
+{
+ "batch": "coverage-8",
+ "theme": "coverage",
+ "count": 20,
+ "varieties": [
+  {
+   "id": "merton-worcester",
+   "name": "Merton Worcester",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/merton-worcester"
+  },
+  {
+   "id": "minnehaha",
+   "name": "Minnehaha",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "monroe",
+   "name": "Monroe",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "nova-easygro",
+   "name": "Nova Easygro",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/nova-easy-gro"
+  },
+  {
+   "id": "novamac",
+   "name": "Novamac",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/novamac"
+  },
+  {
+   "id": "novaspy",
+   "name": "Novaspy",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/novaspy"
+  },
+  {
+   "id": "ohio-nonpareil",
+   "name": "Ohio Nonpareil",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "oliver",
+   "name": "Oliver",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "pederstrup",
+   "name": "Pederstrup",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "pewaukee",
+   "name": "Pewaukee",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "pine-golden-pippin",
+   "name": "Pine Golden Pippin",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "grin",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/pine-golden-pippin"
+  },
+  {
+   "id": "potts-seedling",
+   "name": "Pott's Seedling",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/potts-seedling"
+  },
+  {
+   "id": "primus",
+   "name": "Primus",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "refpop"
+   ],
+   "ref": null
+  },
+  {
+   "id": "quinte",
+   "name": "Quinte",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "nfc",
+    "orangepippin",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/quinte"
+  },
+  {
+   "id": "redwell",
+   "name": "Redwell",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/redwell"
+  },
+  {
+   "id": "regent",
+   "name": "Regent",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "orangepippin"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/regent"
+  },
+  {
+   "id": "reinette-du-canada",
+   "name": "Reinette du Canada",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Reinette_du_Canada"
+  },
+  {
+   "id": "reinette-rouge-etoilee",
+   "name": "Reinette Rouge Etoilée",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [
+    "Reinette Etoilée",
+    "Rothe Stern-Reinette",
+    "nl. Sterappel"
+   ],
+   "listed_in": [
+    "nfc",
+    "orangepippin",
+    "refpop",
+    "wikipedia-list"
+   ],
+   "ref": "https://www.orangepippin.com/varieties/apples/reinette-rouge-etoilee"
+  },
+  {
+   "id": "renown",
+   "name": "Renown",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  },
+  {
+   "id": "rokewood",
+   "name": "Rokewood",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "abc",
+    "grin",
+    "nfc",
+    "wikipedia-list"
+   ],
+   "ref": null
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "_note": "coverage pass (decision 0007): the National Fruit Collection lists Reinette (Monstrueuse) du Canada as a synonym of the white Reinette du Canada, not of the grey form; 'Aromatic Russet' is a separate English apple already in the atlas, not a synonym of Fenouillet Gris; Downing (1900) describes Detroit Black as a separate apple, so it is not listed as a synonym of Detroit Red; Hogg 1884 separates Holland Pippin from Kirton Pippin; Bunyard (1920) describes September Beauty as a separate Laxton apple, so it is not a synonym of Nanny",
+ "reinette-grise-du-canada": {
+  "aka": [
+   "Canada Gris",
+   "Grise du Canada",
+   "Gros Fenouillet Gris",
+   "Reinette du Canada Grise"
+  ]
+ },
+ "reinette-du-canada": {
+  "aka": [
+   "Reinette Blanche du Canada",
+   "Canada Reinette",
+   "Canada Blanc",
+   "Kanada Reinette",
+   "Pariser Rambour-Reinette",
+   "Reinette Monstrueuse du Canada"
+  ]
+ },
+ "fenouillet-gris": {
+  "aka": [
+   "Caraway Russet",
+   "Anise Fenouillet",
+   "Epice d'Hiver",
+   "Fenouillet"
+  ]
+ },
+ "detroit-red": {
+  "aka": [
+   "Detroit",
+   "Crimson Pippin",
+   "Grand Sachem"
+  ]
+ },
+ "holland-pippin": {
+  "aka": [
+   "Holland Winter"
+  ],
+  "history": "An old Lincolnshire apple, recorded in 1729 as Kirton Pippin; the 'Holland' is the Parts of Holland in south Lincolnshire, not the Netherlands. The name is shared by an unrelated old North American kitchen apple (also called Summer Pippin or Pie Apple), and Orange Pippin files the name under Broad-Eyed Pippin; this record follows the Lincolnshire tree held at the National Fruit Collection. Sources disagree on the Kirton Pippin link: the National Fruit Collection ties the names together, but Hogg (1884) says Holland Pippin and Kirton Pippin are different apples, so the synonym is not listed here."
+ },
+ "nanny": {
+  "aka": [
+   "Nancy"
+  ]
+ }
+}

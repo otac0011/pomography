@@ -1,0 +1,541 @@
+[
+  {
+    "id": "brina",
+    "name": "Brina",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "IT",
+      "place": "Trento, Trentino, Italy",
+      "year": 1998,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Open-pollinated seedling of the Purdue-Rutgers-Illinois selection PRI 2059-101 (as given on Wikipedia)",
+      "raised_by": "Istituto Sperimentale per la Frutticoltura, Trento section (later part of CRA-FRU)"
+    },
+    "history": "A late-season dessert apple released in 1998 by the Trento section of Italy's state fruit-research institute, from a programme breeding for disease resistance. It carries resistance to both scab and powdery mildew; it has remained a minor variety and English-language descriptions are sparse.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": 0,
+      "description": "Medium to fairly large fruit with smooth, russet-free skin marked by pale lenticels; described by its breeders as attractive."
+    },
+    "taste": {
+      "summary": "Its breeders rate the eating quality highly, but no published tasting notes describing its sweetness, acidity or aroma were found.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous with a spreading habit and heavy production according to the breeders' description."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "partial",
+      "notes": "Flowers medium-late; the release paper calls it partially self-fertile, so a mid-to-late flowering partner will still improve set. Group number is inferred from that description."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred and tested in the Alpine valleys of Trentino, where it is picked in the first days of October; suited to similar temperate fruit-growing areas, especially where low-spray growing matters.",
+      "poor_climates": "Untested in very cold or very hot regions; as a late apple it needs a reasonably long, warm autumn to ripen in cool maritime climates."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Bred for resistance to apple scab (Vf-derived) and powdery mildew; other susceptibilities are not recorded."
+    },
+    "grow_notes": "A candidate for organic or low-input gardens because of its scab and mildew resistance. Give it full sun and a mid-to-late flowering partner, and thin heavy crops for size. Little UK growing experience is recorded, so treat performance here as untested.",
+    "conf": "low"
+  },
+  {
+    "id": "cap-of-liberty",
+    "name": "Cap of Liberty",
+    "aka": ["Red Soldier", "Red Soldiers", "Bloody Soldier"],
+    "uses": ["cider"],
+    "origin": {
+      "country": "GB",
+      "place": "Martock area, central Somerset, England",
+      "year": null,
+      "year_note": "",
+      "kind": "unknown",
+      "parentage": "Unknown; a link with Lambrook Pippin has been suggested",
+      "raised_by": null
+    },
+    "history": "An old Somerset cider apple from around Martock. It was little planted after the 1920s and was considered close to extinct by the 1960s, but cider-tree nurseries now offer it again. It is rated a vintage variety, good enough to make a single-variety cider.",
+    "look": {
+      "size": "small",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": null,
+      "description": "Small, rough-skinned fruit, roughly conical to cylindrical, pale yellow heavily flushed and streaked with red."
+    },
+    "taste": {
+      "summary": "A full bittersharp: high in both tannin and malic acid, giving a sharp, astringent juice. Nurseries describe its cider contribution as aromatic, complex and spicy; on its own it makes a fairly light, acidic and slightly bitter cider, so it is usually blended with sweeter fruit.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 4,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sharp", "astringent", "bitter", "spice"],
+      "cider_class": "bittersharp",
+      "best_eaten": "Not for eating; mill within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A medium-sized but vigorous tree with a distinctive frame of several long, unbranched, spreading limbs. Crops heavily, but mostly in alternate years."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Self-sterile; plant near other cider or dessert apples flowering at the same time. Flowering group not recorded."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Mild, moist south-west England cider country and similar cool maritime climates; also grown by cider orchards in coastal British Columbia.",
+      "poor_climates": "Wet sites with heavy scab pressure ruin the tree; untested in hot continental summers."
+    },
+    "health": {
+      "scab": 5,
+      "canker": 4,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Extremely prone to scab, with some scab and resulting shoot die-back nearly always present; also susceptible to canker."
+    },
+    "grow_notes": "Best on an open, airy site where scab is less severe, and in a cider orchard where its sharp, tannic juice can be blended with bittersweets and sweets. Expect alternate-year cropping and press the fruit promptly since it does not keep.",
+    "conf": "medium"
+  },
+  {
+    "id": "creston",
+    "name": "Creston",
+    "aka": [],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "CA",
+      "place": "Summerland, British Columbia, Canada",
+      "year": 1976,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Golden Delicious x NJ 381049 (a New Jersey breeding selection)",
+      "raised_by": "Agriculture Canada research station, Summerland (Pacific Agri-Food Research Centre)"
+    },
+    "history": "Selected at the Summerland research station in British Columbia between 1969 and 1976 and formally described in 1999. It is a triploid producing large Jonagold-like fruit, used both fresh and for pies and sauce, and remains a minor garden and farm-market apple.",
+    "look": {
+      "size": "large",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Large, Jonagold-like apple, yellow with an orange-red flush that often colours poorly; the skin can turn greasy."
+    },
+    "taste": {
+      "summary": "Described by its breeders as having good flavour and texture. No pomological tasting notes give specific flavours; Orange Pippin notes that the fruit softens in storage.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Triploid; its fruit set is described as self-thinning, which reduces hand-thinning work."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Triploid with poor pollen: it cannot pollinate other trees, so plant two different diploid pollinators nearby."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred for the dry interior fruit valleys of British Columbia; grown by home and market growers in Canada and the northern USA.",
+      "poor_climates": "Little documented; poor colouring is reported, which is likely to be worse in warm-night climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "As a triploid it needs two other compatible varieties for pollination and is useless as a pollinator itself. Plant in full sun to help its patchy colour, and use fruit fairly promptly as it can soften in store.",
+    "conf": "low"
+  },
+  {
+    "id": "crimson-delight",
+    "name": "Crimson Delight",
+    "aka": ["WA 2", "Sunrise Magic"],
+    "uses": ["dessert", "culinary"],
+    "origin": {
+      "country": "US",
+      "place": "WSU Tree Fruit Research and Extension Center, Wenatchee, Washington",
+      "year": 2009,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Splendour x Gala according to the WSU breeding programme (another WSU page calls it a Splendour open-pollinated seedling)",
+      "raised_by": "Washington State University apple breeding programme"
+    },
+    "history": "The first apple released by Washington State University's breeding programme, issued to growers in 2009 as WA 2. It was relaunched with managed licensing in 2016 under the brand Sunrise Magic; 'Crimson Delight' was an earlier marketing name.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 80,
+      "stripes": null,
+      "russet": 0,
+      "description": "Round, Braeburn-sized fruit with an orange-red to pinkish-red blush over most of a yellow ground, marked by large, conspicuous lenticels."
+    },
+    "taste": {
+      "summary": "Sweet with moderate acidity and a well-balanced flavour. The flesh is crisp, juicy and very firm, and it keeps that firmness through long storage; flavour is said to improve after a spell in store and a few days at room temperature.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 5,
+      "juicy": 4,
+      "tags": ["sweet"],
+      "cider_class": null,
+      "best_eaten": "Nov onwards; improves after some weeks in store and holds condition for months"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "compact",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "slight",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Compact grower with average productivity; crops annually if thinned. Late picking raises the risk of splits in the stem bowl."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time and pollination needs not published; plant with another diploid of similar season."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Developed for irrigated central Washington, where WSU reports good quality from the northern to the southern districts; low sunburn risk suits sunny, dry-summer regions.",
+      "poor_climates": "Not documented outside Washington; in cool, short-season climates a late-September-to-October apple may struggle to ripen fully."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": 3,
+      "rust": null,
+      "bitter_pit": 2,
+      "other": "Moderately susceptible to powdery mildew and fire blight; little bitter pit or sunburn, but stem-bowl splitting if harvested late."
+    },
+    "grow_notes": "A compact, manageable tree for sunny sites; thin to keep it cropping every year and pick on time to avoid stem-end splits. Mostly a licensed commercial variety, so garden trees may be hard to source.",
+    "conf": "medium"
+  },
+  {
+    "id": "delrouval",
+    "name": "Delrouval",
+    "aka": ["Cybèle"],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "FR",
+      "place": "France",
+      "year": 1995,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Delbarestivale (Delcorf) x Akane",
+      "raised_by": "Georges Delbard nursery"
+    },
+    "history": "A red dessert apple from the French nursery Delbard, combining their Delbarestivale with the Japanese Akane, recorded from 1995. Information outside short French catalogue entries is scarce.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": null,
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "Small-to-medium fruit with smooth red skin."
+    },
+    "taste": {
+      "summary": "No reliable flavour description was found for this variety.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Recommended in France for training as cordons on wires or against a wall."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "French Wikipedia lists it as diploid, self-fertile and in flowering group C (about group 3); a pollinator flowering at the same time will still help set."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": null,
+      "hardiness_zone": null,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Not documented; presumably suited to French temperate gardens where it is sold.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "Suited to trained forms such as cordons in small gardens. Little is recorded about its season or health, so treat it as an experimental choice in the UK.",
+    "conf": "low"
+  },
+  {
+    "id": "dougherty",
+    "name": "Dougherty",
+    "aka": [],
+    "uses": ["dessert"],
+    "origin": {
+      "country": "AU",
+      "place": "Australia",
+      "year": 1885,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old late apple grown in Australia by 1885 and later widely in New Zealand, from where fruit was exported to Britain. A redder bud sport, Red Dougherty, was found at Twyford, New Zealand, around 1930 and became the commercial form; Red Dougherty is a parent of the New Zealand apple Splendour.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": null,
+      "description": "Medium, roughly truncate-conical fruit, greenish yellow with a red flush; the Red Dougherty sport is coloured a dull red with some russet."
+    },
+    "taste": {
+      "summary": "Sweet, with a hint of spice; the Red Dougherty sport has firm, fine-textured, greenish-white flesh.",
+      "sweet": 4,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": ["sweet", "spice"],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No reliable tree information found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Grown historically in Australia and New Zealand, where it ripened late in the season; the figures here are inferred from that range, not measured.",
+      "poor_climates": "Not documented; as a late apple from mild southern-hemisphere regions it may ripen poorly in short, cool seasons."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Wikipedia credits it with good disease resistance, without specifics."
+    },
+    "grow_notes": "Rare in the northern hemisphere and no longer held at the UK National Fruit Collection. Its late season suggests a warm, sunny site if tried in Britain.",
+    "conf": "low"
+  },
+  {
+    "id": "english-russet",
+    "name": "English Russet",
+    "aka": ["Poughkeepsie Russet", "Winter Russet"],
+    "uses": ["dessert", "cider"],
+    "origin": {
+      "country": "US",
+      "place": null,
+      "year": 1842,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Despite its name this is an American russet, recorded from 1842 and also known as Poughkeepsie Russet, which suggests the Hudson Valley of New York. It was valued as a very long-keeping winter apple and for cider, and is sometimes confused with Golden Russet.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "none",
+      "blush_cover": 0,
+      "stripes": false,
+      "russet": 3,
+      "description": "Medium, flattish, slightly ribbed apple, pale green to yellow and more or less covered in russet."
+    },
+    "taste": {
+      "summary": "Firm, rather crisp, fine-grained yellowish-white flesh with a mild subacid flavour; rated good rather than outstanding. Its strength is keeping quality rather than flavour.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Jan-May from store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Upright tree according to the National Apple Register; little else is recorded."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Jan-May",
+      "storage_weeks": 24
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "North-eastern US apple country with cold winters and warm summers; inferred from its New York history.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A curiosity for keen russet collectors; pick late and store cool to eat from midwinter into spring. Not held at the UK National Fruit Collection, so UK performance is unknown.",
+    "conf": "low"
+  }
+]

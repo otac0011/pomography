@@ -1,0 +1,588 @@
+[
+  {
+    "id": "carroll",
+    "name": "Carroll",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Manitoba, Canada (Agriculture Canada prairie breeding)",
+      "year": 1961,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Moscow Pear seedling x Melba",
+      "raised_by": "C.R. Ure (Agriculture Canada)"
+    },
+    "history": "A Canadian prairie apple selected in 1947 and released in 1961, bred for extreme winter hardiness from a Russian-type Moscow Pear seedling crossed with Melba. It was chosen as a Manitoba centennial fruit in 1970 and is still grown on the Canadian prairies.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "green",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Mid-sized pale green apple mottled and streaked with rosy red, rather like a brightly coloured Melba."
+    },
+    "taste": {
+      "summary": "A soft, mild early apple of Melba type, pleasant fresh and good for sauce and pies; prairie growers note the flesh is slow to brown when cut. It is not as crisp or juicy as commercial western apples.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, soon after picking"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Dwarfish to medium-sized, strongly branched tree that bears annually. Crotch angles can be awkward, so train scaffolds early."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering time not recorded in sources checked; plant with another hardy early variety."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold continental interiors such as the Canadian prairies and northern plains, where it survives winters near -45 C.",
+      "poor_climates": "Hot, humid summers would soften this early, soft-fleshed apple further; little value where better-quality early apples can be grown."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Rated resistant to cedar-apple rust in Arkansas extension listings. Occasional winter injury in the very coldest prairie winters."
+    },
+    "grow_notes": "A choice for gardens in zone 3 where few quality apples survive. Pick as soon as ripe and use within a couple of months; train young trees to wide crotch angles.",
+    "conf": "medium"
+  },
+  {
+    "id": "chehalis",
+    "name": "Chehalis",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Near the Chehalis River, Oakville, Washington",
+      "year": 1955,
+      "year_note": "",
+      "kind": "discovered",
+      "parentage": "Probably a Golden Delicious seedling (open-pollinated)",
+      "raised_by": "Found by Lloyd Lonborg"
+    },
+    "history": "Found in 1955 by Lloyd Lonborg near the Chehalis River at Oakville in western Washington and widely planted in Pacific Northwest gardens. It looks and tastes much like a large, elongated Golden Delicious, from which it probably descends.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": 1,
+      "description": "Big, somewhat elongated greenish-yellow apple, often with a faint pink cheek on the sunny side."
+    },
+    "taste": {
+      "summary": "Sweet and juicy with a Golden Delicious character and a honeyed note; crisp at first but the cream flesh turns soft and melting within days of picking. Picked early it is noticeably tart, and the sweetness develops quickly.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "honey"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct; eat within a few weeks before it softens"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous spur-bearer with a drooping habit at Brogdale; crops regularly. Judge ripeness by a gentle lift - fruit is ready when it parts easily."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "yes",
+      "notes": "Described as self-fertile by Orange Pippin and USDA Geneva; a partner in group 3 will still improve set."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Mild, wet maritime climates like western Washington and British Columbia, where its scab resistance pays off.",
+      "poor_climates": "Hot regions hasten softening; very cold interiors are untested in the sources consulted."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Highly resistant to scab and somewhat resistant to mildew, which makes it popular with organic growers in the Pacific Northwest. Fruit softens quickly after picking."
+    },
+    "grow_notes": "A good low-spray apple for damp climates. Pick in stages when fruit lifts off easily and use promptly; it makes good pies and dried rings.",
+    "conf": "medium"
+  },
+  {
+    "id": "dayton",
+    "name": "Dayton",
+    "aka": [
+      "Co-op 21"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "PRI co-operative programme (cross at New Brunswick, New Jersey; Purdue, Rutgers and Illinois)",
+      "year": 1988,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "NJ 123249 x PRI 1235-100 (ancestry includes Melba, Jonathan, Rome Beauty and Malus floribunda)",
+      "raised_by": "Purdue-Rutgers-Illinois (PRI) co-operative breeding programme"
+    },
+    "history": "A scab-immune early apple from the PRI disease-resistance programme: the cross was made in 1966 in New Jersey, the seedling planted in 1969 and selected in 1976, and it was released in 1988 as Co-op 21. It is named after Daniel F. Dayton of the University of Illinois breeding team.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 90,
+      "stripes": false,
+      "russet": 0,
+      "description": "Glossy, bright medium red over almost the whole of a roundish to slightly flattened fruit."
+    },
+    "taste": {
+      "summary": "Firm, crisp, fine-grained pale yellow flesh with a sweet, mild, subacid flavour, like Prima but less tart. A good fresh-eating apple for its early season; it holds texture for about a month in a fridge.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, within about four weeks of picking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately upright, vigorous tree similar in habit to Delicious; crops regularly and heavily. Fruit hangs well and ripens over a period."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Needs a pollinator flowering in mid season."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 4
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Humid eastern and midwestern US conditions where scab pressure is high; also suited to cool to warm temperate summers.",
+      "poor_climates": "Very short-season northern sites gain little from it; the fruit does not keep, so it is poor where a storage apple is wanted."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Carries the Vf scab gene and is field-immune to scab; only slightly susceptible to fire blight and mildew, moderately to cedar-apple rust."
+    },
+    "grow_notes": "One of the easiest early apples for low-spray or organic gardens. Plant with a mid-season pollinator and eat the crop fresh, as it stores only a few weeks.",
+    "conf": "medium"
+  },
+  {
+    "id": "delbard-jubilee",
+    "name": "Delbard Jubilée",
+    "aka": [
+      "Delgollune",
+      "Delbard Jubile",
+      "Jubilé Delbard"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Delbard nurseries, France",
+      "year": 1964,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "Golden Delicious x Lundbytorp",
+      "raised_by": "Georges Delbard (Delbard nurseries)"
+    },
+    "history": "Selected by Georges Delbard from his apple crosses and named to mark his 80th birthday and the nursery's 50th year; sources give 1962 or 1964 for its raising. It is a different apple from the Canadian Jubilee (McIntosh x Grimes Golden), though the National Fruit Collection lists it simply as 'Jubile'.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 1,
+      "description": "Large straw-yellow apple almost completely covered in bright red, with a little russet around the stalk."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and sweet with a well-balanced acidity and a pronounced but light aromatic flavour; the breeder claimed a floral scent with hints of banana and hazelnut. It keeps its quality well into late winter.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar after a few weeks in store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Bears good crops of large fruit; growth habit is spreading to drooping at Brogdale."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Sources disagree: Wikipedia calls it mid-season flowering, while Brogdale records an unusually early 10% flowering date (late April). Choose a pollinator flowering in groups 2-3."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Temperate western European climates such as northern and central France and southern England with a long enough autumn to ripen a mid-October apple.",
+      "poor_climates": "Short-season or very cold areas where mid-October fruit cannot ripen; possible frost risk to blossom if it flowers as early as Brogdale recorded."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to have generally good disease resistance, but no disease-by-disease ratings were found."
+    },
+    "grow_notes": "A late dessert apple for storing: pick in mid-October and keep cool until winter. Provide an early-to-mid season pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "detroit-red",
+    "name": "Detroit Red",
+    "aka": [
+      "Detroit",
+      "Crimson Pippin",
+      "Grand Sachem"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Said to have been brought to Detroit, Michigan, by French settlers",
+      "year": 1805,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old American apple of muddled identity, said to have come to Detroit with French settlers; Thomas Jefferson grew it at Monticello, and the National Apple Register records it from 1842. Detroit Red and Detroit Black may be one variable apple, and old lists confuse several dark red 'Detroit' apples; Orange Pippin even gives north Georgia as its origin.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 95,
+      "stripes": true,
+      "russet": 0,
+      "description": "Thick-skinned apple almost entirely covered in very dark crimson, sometimes nearly black, with purplish stripes and ribbing around the eye."
+    },
+    "taste": {
+      "summary": "Soft, coarse, juicy white flesh, sometimes stained red under the skin, with an aromatic, subacid to tart flavour. Wikipedia calls the quality mediocre.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": "light",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Crops somewhat unreliably or every other year."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "No flowering data found."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Eastern North American conditions from the Great Lakes to Virginia, where it was historically grown.",
+      "poor_climates": "Not documented; its irregular cropping makes it a poor choice where reliable yields matter."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found; main documented weakness is irregular or biennial cropping."
+    },
+    "grow_notes": "Mainly of historical interest as a Jefferson-era apple. Thin heavy crops to reduce biennial bearing, and check the identity of nursery stock, given the confusion of 'Detroit' names.",
+    "conf": "low"
+  },
+  {
+    "id": "diana",
+    "name": "Diana",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Ontario, Canada (Agriculture Canada, probably the Central Experimental Farm, Ottawa)",
+      "year": 1913,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": null,
+      "raised_by": "Agriculture Canada"
+    },
+    "history": "A Canadian dessert apple from Agriculture Canada, dated to about 1913 in research-collection records. The UK National Fruit Trials received it in 1967 by a roundabout route from Yugoslavia via Scotland.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Attractive mid-sized apple with a pale whitish-yellow ground, mostly covered in striped and flushed red."
+    },
+    "taste": {
+      "summary": "Soft, juicy white flesh with a McIntosh-like flavour; Brogdale finds it sweet, while USDA Geneva rates it slightly acid and of only poor to fair eating quality.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Nov, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Crops heavily every year, but ripens unevenly and fruit tends to drop before it is ripe."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Brogdale records mid-season flowering (early May)."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool continental climates of eastern Canada and the north-eastern US; also grows in southern England.",
+      "poor_climates": "Hot summers would worsen its soft texture and pre-harvest drop (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Pre-harvest fruit drop and uneven ripening are the main recorded faults."
+    },
+    "grow_notes": "Of interest mainly to collectors. Pick in several passes because fruit ripens unevenly and drops early.",
+    "conf": "low"
+  },
+  {
+    "id": "dunning",
+    "name": "Dunning",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1923,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Early McIntosh x Cox's Orange Pippin",
+      "raised_by": "Richard Wellington, NYSAES Geneva"
+    },
+    "history": "Raised in 1923 by Richard Wellington at the Geneva station in New York and introduced in 1938. One of several early Geneva apples combining McIntosh and Cox ancestry.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "cream",
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Smallish, tall apple heavily striped in glossy dark red over a pale ground, with a waxy bloom."
+    },
+    "taste": {
+      "summary": "A very sweet, low-acid early apple; Brogdale's tasting panel found it soft, not very juicy and almost without acidity or aroma, though older descriptions call the flesh firm and crisp with a faint perfume.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 2,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, upright-spreading tree of medium productivity with a strong tendency to crop in alternate years."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Mid-season flowering at Brogdale (early May)."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool north-eastern North American and north-west European climates suited to its McIntosh parent.",
+      "poor_climates": "Hot summers would make the soft early fruit go over even faster (inferred)."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease ratings found; strongly biennial."
+    },
+    "grow_notes": "Thin fruitlets in heavy years to even out its biennial habit. Eat the crop fresh in late summer, as it keeps only a short time.",
+    "conf": "medium"
+  }
+]

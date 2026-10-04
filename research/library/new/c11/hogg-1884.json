@@ -1,0 +1,39 @@
+{
+  "_book": "hogg-1884",
+  "red-autumn-calville": {
+    "line": 6045, "end": 6069, "heading": "CALVILLE ROUGE D'AUTOMNE (Autumn Calville; Autumn Red Calville)", "match": "synonym",
+    "flavour": "Flesh, white, tinged with red under the skin, and very much so on the side which is exposed to the sun; it is tender, delicate, and juicy, with a pleasant, vinous, and violet scented flavour.",
+    "quality": "A culinary apple of inferior quality in this country, but highly esteemed on the Continent, both as a culinary and a dessert fruit.",
+    "storage": "It is in season during October and November.",
+    "climate": "To have the fruit in perfection it ought to be grown on the paradise stock as an open dwarf, in a fine sandy loam",
+    "tags": ["wine", "floral"], "against": [], "sweet": null, "acid": null,
+    "note": "Heading Calville Rouge d'Automne; our aka. Violet-scented."
+  },
+  "coccagee": {
+    "line": 6542, "end": 6550, "heading": "COCCAGEE", "match": "exact",
+    "flavour": "Flesh, yellowish white, soft, sharply acid, and austere.",
+    "quality": "One of the oldest and best cider apples",
+    "storage": "in use from October to December.",
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 5,
+    "note": "'perhaps the most harsh and austere apple known', yet one of the best for baking, with a rich flavour when cooked."
+  },
+  "styre": {
+    "line": 8464, "end": 8482, "heading": "FOREST STYRE (Stire)", "match": "synonym",
+    "flavour": null,
+    "quality": "a fine old Gloucestershire cider apple",
+    "storage": null,
+    "climate": "extensively cultivated on the thin limestone soils of the Forest of Dean",
+    "tags": [], "against": [], "sweet": null, "acid": null,
+    "note": "Synonym printed as 'Stive' (OCR for Stire). Only 'Flesh, firm'; the cider is 'strong bodied, rich, and highly flavoured'. Hogg also has a separate 'STYRE (Forest Styre)' entry at line 16881 ('One of the oldest Herefordshire cider apples', flesh tender, very juicy) - he lists two apples under the name."
+  },
+  "woodcock": {
+    "line": 18455, "end": 18477, "heading": "WOODCOCK", "match": "exact",
+    "flavour": "Flesh, yellowish, sometimes stained with red under the skin, tender, juicy, and acid.",
+    "quality": "A Herefordshire cider apple.",
+    "storage": null,
+    "climate": null,
+    "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+    "note": "The old 17th-century Herefordshire cider Woodcock; not Hogg's Sussex culinary Green Woodcock (line 9644)."
+  }
+}

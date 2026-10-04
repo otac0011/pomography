@@ -1,0 +1,93 @@
+{
+ "_book": "herefordshire-pomona-2",
+ "pine-golden-pippin": {
+  "line": 1361, "end": 1374, "heading": "PINE GOLDEN PIPPIN", "match": "exact",
+  "flavour": "Flesh : yellowish white, very tender and juicy, with a fine sprightly and distinct flavour of the pine apple.",
+  "quality": "One of the best dessert Apples",
+  "storage": "in season during October and November.",
+  "climate": null,
+  "tags": ["pineapple"], "against": [], "sweet": null, "acid": null,
+  "note": "Russet-coated; 'origin not given in any of the leading horticultural works'."
+ },
+ "benoni": {
+  "line": 3333, "end": 3356, "heading": "BENONI APPLE", "match": "exact",
+  "flavour": "Flesh : yellow, very tender and delicate in tissue, sweet and briskly flavoured, and with a remarkably high perfume like that of pine-apple, which is very characteristic of this Apple when highly ripened.",
+  "quality": "Very good or best, a valuable variety for market or table use",
+  "storage": "It ripens in September.",
+  "climate": null,
+  "tags": ["sweet", "sharp", "perfumed", "pineapple"], "against": [], "sweet": 4, "acid": 3,
+  "note": "From Dedham, Massachusetts (after Downing); introduced to England by Rivers. The quality verdict is Downing's, quoted by the book."
+ },
+ "alfriston": {
+  "line": 6319, "end": 6341, "heading": "ALFRISTON", "match": "exact",
+  "flavour": "Flesh : yellowish white, crisp, juicy, sugary and briskly flavoured.",
+  "quality": "This is one of the largest and best culinary apples.",
+  "storage": "It is in season from the beginning of November until April or May.",
+  "climate": null,
+  "tags": ["sweet", "sharp"], "against": [], "sweet": 4, "acid": 3,
+  "note": "Synonyms Shepherd's Seedling, Shepherd's Pippin, Lord Gwydyr's Newtown Pippin, Oldaker's New - all in our aka. Says raised at Uckfield, Sussex, by a Mr. Shepherd."
+ },
+ "baumanns-reinette": {
+  "line": 7268, "end": 7283, "heading": "REINETTE BAUMANN", "match": "synonym",
+  "flavour": "Flesh : white, crisp, juicy, and with a pleasant aroma.",
+  "quality": "A good, but not high classed dessert apple, which holds its place chiefly by its great beauty.",
+  "storage": "It is in season from December, to February or March.",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Raised by the Baumann brothers of Bollwiller, Alsace (our aka Reinette Baumann, Reinette de Bollwiller)."
+ },
+ "reinette-du-canada": {
+  "line": 7398, "end": 7418, "heading": "REINETTE DE CANADA", "match": "synonym",
+  "flavour": "Flesh : yellowish white, firm, juicy, briskly, and highly flavoured.",
+  "quality": "An apple of excellent quality, either for culinary or dessert use.",
+  "storage": "It is in season from November to April.",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms Canada Reinette, Portugal, St. Helena Russet; figured by Lindley pl. 77."
+ },
+ "dutch-mignonne": {
+  "line": 8241, "end": 8260, "heading": "DUTCH MIGNONNE", "match": "exact",
+  "flavour": "Flesh : yellow, firm, crisp, very juicy, rich, sugary, and aromatic.",
+  "quality": "A very valuable and delicious dessert apple",
+  "storage": "in season from December to April.",
+  "climate": null,
+  "tags": ["sweet", "perfumed"], "against": [], "sweet": 4, "acid": null,
+  "note": "Synonyms Christ's Golden Reinette, Copmanthorpe Crab, Stettin Pippin; imported from Holland, made known by George Lindley (1819)."
+ },
+ "frogmore-prolific": {
+  "line": 9251, "end": 9265, "heading": "FROGMORE PROLIFIC", "match": "exact",
+  "flavour": "Flesh : white, very tender, juicy, and sweet.",
+  "quality": "A culinary apple of excellent flavour",
+  "storage": "It is in season from September to Christmas.",
+  "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+  "note": "Raised at Frogmore (c. 1865) by Mr. Ingram. 'Sweet' here sits oddly with our sharp tag (Bunyard says sub-acid) but is not a clear contradiction."
+ },
+ "dufflin": {
+  "line": 10372, "end": 10374, "heading": "Dufflin", "match": "exact",
+  "flavour": null,
+  "quality": "An old Devonshire apple, formerly much esteemed.",
+  "storage": null,
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Short note in the list of cider apples: 'It is doubtful if the true variety is now to be found.'"
+ },
+ "hangdown": {
+  "line": 10499, "end": 10503, "heading": "Hangdown, or Horner", "match": "exact",
+  "flavour": null,
+  "quality": "makes a good rich cider.",
+  "storage": "It is a late variety",
+  "climate": "It blossoms very late, not until June, and bears profusely.",
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Short note in the cider-apple list: 'A small yellow apple in high favour both in Devonshire and Somersetshire.' The separate 'Natural Pocket Apple' (line 10624), a large culinary Devon apple, is not our aka Pocket Apple."
+ },
+ "cap-of-liberty": {
+  "line": 10765, "end": 10769, "heading": "Red Soldier", "match": "probable",
+  "flavour": null,
+  "quality": "it only makes a thin, poor cider, and has thus lost its repute.",
+  "storage": null,
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Short note in the cider-apple list under Red Soldier (our aka); 'A very lucky bearer' of bright colour. No origin or description given, so identity with the Somerset Cap of Liberty is not certain."
+ }
+}

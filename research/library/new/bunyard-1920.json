@@ -1,0 +1,264 @@
+{
+ "_book": "bunyard-1920",
+ "akero": {
+  "line": 671, "end": 679, "heading": "AKERO", "match": "exact",
+  "flavour": "Flesh, white, firm, and juicy.",
+  "quality": "This is now rarely grown, but is of interest only from its remarkable coloration.",
+  "storage": "Dessert, September to October",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Book's synonyms Akera, Okera; 'Origin, probably Swedish'. Says nothing about taste."
+ },
+ "alfriston": {
+  "line": 697, "end": 705, "heading": "ALFRISTON", "match": "exact",
+  "flavour": "Flesh, crisp, pale yellow, sub-acid. This apple cooks a tender, golden brown with a delicious pear-like flavour.",
+  "quality": null,
+  "storage": "culinary, keeps till April",
+  "climate": null,
+  "tags": ["pear"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms Shepherd's Pippin, Shepherd's Seedling as in our aka; raised by Mr. Shepherd at Alfriston, Sussex. The pear-like flavour is of the cooked apple."
+ },
+ "ard-cairn-russet": {
+  "line": 798, "end": 807, "heading": "ARD CAIRN RUSSET", "match": "exact",
+  "flavour": "Flesh, yellow, firm, good russet flavour.",
+  "quality": null,
+  "storage": "Dessert, January to February",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "An old Irish variety introduced by Hartland of Ard Cairn, Co. Cork."
+ },
+ "baumanns-reinette": {
+  "line": 976, "end": 990, "heading": "BAUMANN'S REINETTE", "match": "exact",
+  "flavour": "Flesh, white, crisp, juicy, slightly aromatic.",
+  "quality": "A remarkable cropper but of poor quality.",
+  "storage": "Culinary or dessert, December to January",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Synonyms Couronne des Dames, Reinette de Bolwyller as in our aka; raised probably by Van Mons."
+ },
+ "baxters-pearmain": {
+  "line": 995, "end": 1005, "heading": "BAXTER'S PEARMAIN", "match": "exact",
+  "flavour": "Flesh, yellowish, tender, pleasantly acid. It is rather too acid for some palates.",
+  "quality": null,
+  "storage": "Dessert or culinary, December to February",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+  "note": "A Norfolk variety introduced by G. Lindley in 1821."
+ },
+ "benoni": {
+  "line": 1153, "end": 1162, "heading": "BENONI", "match": "exact",
+  "flavour": "Flesh, tender, yellow, aromatic.",
+  "quality": "A very good early fruit.",
+  "storage": "Dessert, mid-September",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Raised at Dedham, Mass."
+ },
+ "bietigheimer": {
+  "line": 1226, "end": 1235, "heading": "BIETIGHEIMER", "match": "probable",
+  "flavour": "Flesh, firm, greenish-white, sweet but with no aroma.",
+  "quality": "Not worthy of cultivation.",
+  "storage": "Culinary, November to February",
+  "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+  "note": "Bunyard treats Bietigheimer as a synonym of Rother Stettiner (Rouge de Stettin, 'more than twenty-five' synonyms) and says that is the correct name; the large crimson culinary fruit fits our record, but the Stettiner confusion makes the identity uncertain. His 'sweet' sits awkwardly with our sharp tag."
+ },
+ "edelborsdorfer": {
+  "line": 1300, "end": 1313, "heading": "BORSDORFER", "match": "synonym",
+  "flavour": "Flesh, firm, juicy, pale yellow, poor flavour.",
+  "quality": "A worthless fruit in this country, except in very warm seasons.",
+  "storage": "Dessert, December to February",
+  "climate": "A worthless fruit in this country, except in very warm seasons.",
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Book gives G. Edelborsdorfer; German, recorded by Cordus in 1561; imported for Queen Charlotte."
+ },
+ "fenouillet-gris": {
+  "line": 1559, "end": 1576, "heading": "CARAWAY RUSSET", "match": "synonym",
+  "flavour": "Flesh, firm, yellow, aromatic.",
+  "quality": "A reliable sort still grown in old orchards.",
+  "storage": "Dessert, November to March",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Bunyard: 'The correct name is Fenouillet Gris'; Leroy takes it for the Epice d'Hiver of Olivier de Serres. No mention of aniseed in the flesh description despite the name."
+ },
+ "cellini": {
+  "line": 1616, "end": 1627, "heading": "CELLINI", "match": "exact",
+  "flavour": "Flesh, tender white, sub-acid, with curious balsamic flavour. Regular cropping is its chief recommendation, but the curious flavour appeals to some.",
+  "quality": "Regular cropping is its chief recommendation",
+  "storage": "Culinary, October to November",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonym Phillips' Seedling; raised by Leonard Phillips, Vauxhall, about 1828. 'Balsamic' is not in our tag list."
+ },
+ "dutch-mignonne": {
+  "line": 2190, "end": 2202, "heading": "DUTCH MIGNONNE", "match": "exact",
+  "flavour": "Flesh, firm, yellow, moderate flavour.",
+  "quality": "A most useful, fertile fruit. Considered by many to be worthy of dessert use late in the season.",
+  "storage": "Culinary or dessert, till March",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "F. Reinette de Caux; G. Grosser Casseler Reinette; Paternoster - all in our aka. Bunyard: 'Grosser Casseler Reinette is the original name'."
+ },
+ "frogmore-prolific": {
+  "line": 2582, "end": 2594, "heading": "FROGMORE PROLIFIC", "match": "exact",
+  "flavour": "Flesh, soft, white, sub-acid.",
+  "quality": null,
+  "storage": "Culinary, September to December",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Raised in the Royal Gardens at Frogmore by Mr. Ingram."
+ },
+ "gloria-mundi": {
+  "line": 2672, "end": 2690, "heading": "GLORIA MUNDI", "match": "exact",
+  "flavour": "Flesh, tender, white, sub-acid. It cooks a brown colour, but is very sweet and rich.",
+  "quality": "Too uncertain a cropper in most parts.",
+  "storage": "Culinary, till January",
+  "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 4, "acid": 3,
+  "note": "Synonyms Monstrous Pippin, Ox Apple, Mammoth as in our aka; first recorded in America in 1804."
+ },
+ "golden-harvey": {
+  "line": 2699, "end": 2711, "heading": "GOLDEN HARVEY", "match": "exact",
+  "flavour": "Flesh, firm, yellow, very sweet and rich.",
+  "quality": "One of the good old sorts which have been neglected.",
+  "storage": "Dessert, till May",
+  "climate": null,
+  "tags": ["sweet"], "against": [], "sweet": 4, "acid": null,
+  "note": "Synonyms Brandy Apple, Round Russet Harvey as in our aka; English, known early in the seventeenth century."
+ },
+ "histon-favourite": {
+  "line": 3053, "end": 3064, "heading": "HISTON FAVOURITE", "match": "exact",
+  "flavour": "Flesh, soft, pale yellow, juicy, slight aromatic flavour.",
+  "quality": "A nice fruit, but rather too small with me.",
+  "storage": "Dessert or cooking, November to December",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Book's synonym Oliver's Seedling; raised at Histon by John Chivers (our aka Chivers' Seedling)."
+ },
+ "kandil-sinap": {
+  "line": 3295, "end": 3305, "heading": "KANDIL SINAP", "match": "exact",
+  "flavour": "Flesh, white, crisp, tender, juicy, and slight flavour.",
+  "quality": "It is one of the most popular market varieties in the Crimea.",
+  "storage": "Dessert or culinary, till February",
+  "climate": null,
+  "tags": ["mild"], "against": [], "sweet": null, "acid": null,
+  "note": "F. Candile Sinope; 'This Russian fruit is remarkable for its elongated barrel shape'."
+ },
+ "manningtons-pearmain": {
+  "line": 3808, "end": 3821, "heading": "MANNINGTON'S PEARMAIN", "match": "exact",
+  "flavour": "Flesh, crisp, yellow, fair flavour. The flavour of this variety is only fair",
+  "quality": "as there are so many better at this season I consider it not worth growing.",
+  "storage": "Dessert, November to March",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Raised at Uckfield, Sussex, about 1770."
+ },
+ "melon": {
+  "line": 3890, "end": 3901, "heading": "MELON", "match": "exact",
+  "flavour": "Flesh, pale yellow, tender, juicy, somewhat aromatic.",
+  "quality": "A good useful late fruit now seldom met with.",
+  "storage": "Dessert, December to January",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "The New York Melon (Norton's Melon) from the Heman Chapin orchard, East Bloomfield, introduced by Ellwanger & Barry in 1845 - same apple as ours despite the homonym risk."
+ },
+ "nanny": {
+  "line": 4071, "end": 4081, "heading": "NANNY", "match": "exact",
+  "flavour": "Flesh, tender, greenish yellow, a little sweet, but of no remarkable flavour.",
+  "quality": null,
+  "storage": "Dessert, December to February",
+  "climate": null,
+  "tags": ["mild"], "against": [], "sweet": 3, "acid": null,
+  "note": "A Sussex apple. Bunyard has a separate SEPTEMBER BEAUTY (line 5293, Laxton c.1885), so our aka September Beauty is probably a different apple."
+ },
+ "ontario": {
+  "line": 4361, "end": 4377, "heading": "ONTARIO", "match": "exact",
+  "flavour": "Flesh, crisp, juicy, pale yellow, sub-acid.",
+  "quality": "An excellent late variety, worthy of extended cultivation.",
+  "storage": "It does not shrivel when kept long.",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": 3,
+  "note": "Wagener x Northern Spy by Charles Arnold, Ontario, before 1874."
+ },
+ "potts-seedling": {
+  "line": 4660, "end": 4671, "heading": "POTTS' SEEDLING", "match": "exact",
+  "flavour": "Flesh, firm, white, acid.",
+  "quality": "A useful kitchen fruit. Most valuable for small gardens.",
+  "storage": "Culinary, October to November",
+  "climate": null,
+  "tags": ["sharp"], "against": [], "sweet": null, "acid": 4,
+  "note": "Synonyms Dean's Codlin, Holland Pippin (the latter is NOT our holland-pippin). Raised at Ashton-under-Lyne, dates from 1849."
+ },
+ "reinette-du-canada": {
+  "line": 4795, "end": 4812, "heading": "REINETTE DU CANADA", "match": "exact",
+  "flavour": "Flesh, firm, pale yellow, of rich flavour.",
+  "quality": "Excellent in warm seasons.",
+  "storage": "Dessert, till April",
+  "climate": "Excellent in warm seasons. Very subject to canker.",
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "G. Pariser Rambour Reinette; 'some forty-eight synonyms'; known in France before 1771."
+ },
+ "reinette-rouge-etoilee": {
+  "line": 4831, "end": 4847, "heading": "REINETTE ROUGE ETOILEE", "match": "exact",
+  "flavour": "Flesh, firm, juicy, pale yellow with suffused red below skin, sub-acid, of slight strawberry flavour.",
+  "quality": "Of fair quality and most attractive in appearance.",
+  "storage": "Dessert, October to December",
+  "climate": null,
+  "tags": ["strawberry"], "against": [], "sweet": null, "acid": 3,
+  "note": "Synonyms Early Red Calville, Reinette Etoilee as in our aka; 'the Early Red Calville of Hogg'."
+ },
+ "renown": {
+  "line": 4865, "end": 4874, "heading": "RENOWN", "match": "exact",
+  "flavour": "Flesh, pale yellow, firm, of pleasant flavour.",
+  "quality": null,
+  "storage": "Dessert or culinary, October to November",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Raised by Charles Ross from the same cross as Charles Ross; Gard. Chron. 1908."
+ },
+ "star-of-devon": {
+  "line": 5405, "end": 5415, "heading": "STAR OF DEVON", "match": "exact",
+  "flavour": "Flesh, soft, nearly white, of poor flavour.",
+  "quality": "Up to the present no particular merit has been discovered.",
+  "storage": "Dessert, till February",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Raised by J. Garland, Broad Clyst, Devon; introduced 1905 by George Pyne, Topsham."
+ },
+ "upton-pyne": {
+  "line": 5673, "end": 5681, "heading": "UPTON PYNE", "match": "exact",
+  "flavour": "Flesh, firm, white, juicy, of brisk pine flavour.",
+  "quality": "Of very distinct flavour and likely to become popular.",
+  "storage": "Exhibition, till March",
+  "climate": null,
+  "tags": ["pineapple", "sharp"], "against": [], "sweet": null, "acid": 3,
+  "note": "Raised by Mr. Pyne of Topsham, introduced in 1910."
+ },
+ "venus-pippin": {
+  "line": 5683, "end": 5697, "heading": "VENUS PIPPIN", "match": "exact",
+  "flavour": "Flesh, tender, pale yellow, juicy and refreshing flavour.",
+  "quality": "Rather too soft for market use and hardly worth retention.",
+  "storage": "Dessert or culinary, September to October",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "Synonym Plumderity as in our aka; 'said to have been raised about 1800'."
+ },
+ "wagener": {
+  "line": 5709, "end": 5721, "heading": "WAGENER", "match": "exact",
+  "flavour": "Flesh, firm, juicy, yellow, pleasantly flavoured.",
+  "quality": "One of the best late varieties",
+  "storage": "keeps well without shrivelling.",
+  "climate": null,
+  "tags": [], "against": [], "sweet": null, "acid": null,
+  "note": "G. Wageners Preis Apfel; raised in the garden of Abraham Wagener about 1796 at Dover, New York."
+ },
+ "williams-favourite": {
+  "line": 5906, "end": 5919, "heading": "WILLIAM'S FAVOURITE", "match": "exact",
+  "flavour": "Flesh, sott, greenish, aromatic.",
+  "quality": "One of the best early dessert apples and well worthy of culture.",
+  "storage": "Dessert, August",
+  "climate": null,
+  "tags": ["perfumed"], "against": [], "sweet": null, "acid": null,
+  "note": "Origin at Roxbury, U.S.A., about 1750. 'sott' is the OCR's misreading of 'soft' (left as printed so the quote validates)."
+ }
+}

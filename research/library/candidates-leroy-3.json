@@ -1,8 +1,31 @@
 {
+ "api-etoile": [
+  {
+   "line": 18903,
+   "page": 288,
+   "score": 1.8,
+   "key": "POMME ETOILEE",
+   "text": "Pomme  ÉTOILÉE.  —  Synonyme  de  Reinette  rouge  étoilée.  Voir  ce  nom."
+  },
+  {
+   "line": 1637,
+   "page": 32,
+   "score": 1.3,
+   "key": "API ETOILE",
+   "text": "*Api  étoile."
+  },
+  {
+   "line": 5252,
+   "page": 155,
+   "score": 1.3,
+   "key": "API ETOILE",
+   "text": "Api  étoile  vu  par-dessous."
+  }
+ ],
  "summer-rambo": [
   {
    "line": 1691,
-   "page": 357,
+   "page": 32,
    "score": 1.3,
    "key": "RAMBOUR DETE",
    "text": "*  Rambour  d'Été  [ou  Rambure]"
@@ -11,42 +34,42 @@
  "court-pendu-plat": [
   {
    "line": 15606,
-   "page": 357,
+   "page": 234,
    "score": 3.8,
    "key": "COURT PENDU",
    "text": "—         COURT-PENDU  EXTRA,"
   },
   {
    "line": 15880,
-   "page": 357,
+   "page": 235,
    "score": 3.8,
    "key": "COURT PENDU",
    "text": "—        COURT-PENDU  PLAT  ROUGEATRE,"
   },
   {
    "line": 15896,
-   "page": 357,
+   "page": 235,
    "score": 3.8,
    "key": "COURT PENDU",
    "text": "—        COURT-PENDU  ROSE ,  )"
   },
   {
    "line": 16050,
-   "page": 357,
+   "page": 240,
    "score": 3.8,
    "key": "COURT PENDU",
    "text": "—         COURT-PENDU  ROUGE  ROYAL,         )"
   },
   {
    "line": 15826,
-   "page": 357,
+   "page": 235,
    "score": 1.8,
    "key": "COURT PENDU",
    "text": "Court-Pendu  :  «  La  pomme  de  Court-Pendu,  ou  Corps-Pendant  —  prétendent-"
   },
   {
    "line": 15870,
-   "page": 357,
+   "page": 235,
    "score": 1.8,
    "key": "COURT PENDU",
    "text": "Court-Pendu,  un  pommier  qui  n'a  rien  de  commun  avec  notre  Court-Pendu  gris,"
@@ -55,46 +78,117 @@
  "calville-blanc-dhiver": [
   {
    "line": 2042,
-   "page": 357,
+   "page": 32,
    "score": 1.3,
    "key": "CALVILLE BLANC",
    "text": "*  Calville  blanc."
   },
   {
    "line": 2653,
-   "page": 357,
+   "page": 102,
    "score": 1.3,
    "key": "CALVILLE BLANC",
    "text": "Calville  blanc  à  côtes."
   }
  ],
+ "red-autumn-calville": [
+  {
+   "line": 2044,
+   "page": 32,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "*  Calville  rouge  [d'automne  et  d'hiver]."
+  }
+ ],
+ "fenouillet-gris": [
+  {
+   "line": 19104,
+   "page": 290,
+   "score": 3.0,
+   "key": "FENOUILLET",
+   "text": "—         FENOUILLET  ANISÉ,"
+  },
+  {
+   "line": 19182,
+   "page": 290,
+   "score": 3.0,
+   "key": "FENOUILLET",
+   "text": "—         FENOUILLET  DRAP  D'OR,  (      Voir  Ce  nom'"
+  },
+  {
+   "line": 19259,
+   "page": 290,
+   "score": 1.3,
+   "key": "FENOUILLET GRIS",
+   "text": "Fenouillet  gris  n'était  déjà  plus  uniquement  cultivé  dans  l'Anjou.  Merlet  fut,"
+  },
+  {
+   "line": 2067,
+   "page": 32,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "»    *  Fenouillet  roux.  [C'est  le  Gris.]"
+  },
+  {
+   "line": 19173,
+   "page": 290,
+   "score": 1.0,
+   "key": "FENOUILLET",
+   "text": "Fenouillet  long  et  du  Fenouillet  de  Ribou,  tous  spontanément  poussés  dans  l'Anjou,"
+  }
+ ],
  "adams-pearmain": [
   {
    "line": 4176,
-   "page": 357,
+   "page": 155,
    "score": 1.3,
    "key": "NORFOLK PIPPIN",
    "text": "Norfolk  pippin  ;  mais  plus  tard  ce  nom  disparut  sous  celui  du  personnage  auquel"
   }
  ],
+ "american-summer-pearmain": [
+  {
+   "line": 4718,
+   "page": 155,
+   "score": 3.0,
+   "key": "AMERICAN",
+   "text": "-       AMERICAN  MAMMOTH,                     \\  F"
+  }
+ ],
+ "gloria-mundi": [
+  {
+   "line": 4718,
+   "page": 155,
+   "score": 3.3,
+   "key": "AMERICAN MAMMOTH",
+   "text": "-       AMERICAN  MAMMOTH,                     \\  F"
+  },
+  {
+   "line": 26413,
+   "page": 407,
+   "score": 1.3,
+   "key": "MONSTROUS PIPPIN",
+   "text": "Monstrous  Pippin,  n'ayant  rien  de  commun  avec  la  pomme  Monmouth  Pippin  des"
+  }
+ ],
  "caroline": [
   {
    "line": 13636,
-   "page": 357,
+   "page": 203,
    "score": 3.0,
    "key": "CAROLINE",
    "text": "—         CAROLINE,  )"
   },
   {
    "line": 5860,
-   "page": 357,
+   "page": 155,
    "score": 1.5,
    "key": "CAROLINE",
    "text": "Caroline -Auguste  —  Carolina  June  —  Carolina  red  June  —  Carolina  Sweet"
   },
   {
    "line": 6356,
-   "page": 357,
+   "page": 155,
    "score": 1.0,
    "key": "CAROLINE",
    "text": "Caroline  du  Nord.  Elle  remonte  en-"
@@ -110,7 +204,7 @@
  "rhode-island-greening": [
   {
    "line": 5864,
-   "page": 357,
+   "page": 155,
    "score": 1.5,
    "key": "GREENING",
    "text": "Greening,  ou  G-reen  Cheese  —  Carolina  red  Streak,  ou  Ben  Davis  —  Carolina  red"
@@ -119,7 +213,7 @@
  "ben-davis": [
   {
    "line": 8757,
-   "page": 357,
+   "page": 155,
    "score": 1.3,
    "key": "BEN DAVIS",
    "text": "Ben  Davis,  qu'actuellement  elle  porte,  et  de  plusieurs  de  ses  synonymes.  >•  [American"
@@ -128,23 +222,32 @@
  "blenheim-orange": [
   {
    "line": 9637,
-   "page": 357,
+   "page": 155,
    "score": 3.8,
    "key": "BLENHEIM PIPPIN",
    "text": "—  BLENHEIM  PIPPIN,"
   },
   {
    "line": 9641,
-   "page": 357,
+   "page": 155,
    "score": 1.5,
    "key": "BLENHEIM",
    "text": "Blenheim.  Voir  ce  nom."
   }
  ],
+ "chenango": [
+  {
+   "line": 11978,
+   "page": 174,
+   "score": 1.0,
+   "key": "STRAWBERRY",
+   "text": "Strawberry  Apple),  qui  du  reste  se  rencontre  très-rarement  chez  nos  pépiniéristes."
+  }
+ ],
  "reinette-clochard": [
   {
    "line": 12564,
-   "page": 357,
+   "page": 188,
    "score": 1.5,
    "key": "ROCHELLE",
    "text": "Rochelle.  Yoir  ce  nom."
@@ -153,7 +256,7 @@
  "catshead": [
   {
    "line": 13952,
-   "page": 357,
+   "page": 209,
    "score": 3.0,
    "key": "CATSHEAD",
    "text": "-         CATSHEAD  GREENING,"
@@ -162,16 +265,25 @@
  "duchess-of-oldenburg": [
   {
    "line": 14114,
-   "page": 357,
+   "page": 211,
    "score": 3.0,
    "key": "CHARLAMOWSKY",
    "text": "—         CHARLAMOWSKY  D'AUTOMNE,"
   }
  ],
+ "orleans": [
+  {
+   "line": 14720,
+   "page": 221,
+   "score": 1.0,
+   "key": "ORLEANS",
+   "text": "Orléans  dans  le  ver-"
+  }
+ ],
  "cornish-gilliflower": [
   {
    "line": 15468,
-   "page": 357,
+   "page": 232,
    "score": 3.3,
    "key": "CORNISH JULY FLOWER",
    "text": "—         CORNISH  JULY  FLOWER,"
@@ -180,7 +292,7 @@
  "orleans-reinette": [
   {
    "line": 15513,
-   "page": 357,
+   "page": 232,
    "score": 1.3,
    "key": "REINETTE DORLEANS",
    "text": "Reinette  d'Orléans.  Voir  ces  noms."
@@ -189,16 +301,16 @@
  "coxs-orange-pippin": [
   {
    "line": 16499,
-   "page": 357,
+   "page": 248,
    "score": 3.3,
-   "key": "COXS ORANGE",
+   "key": "COXS ORANGE PIPPIN",
    "text": "—         COX'S  ORANGE  PIPPIN,"
   }
  ],
  "dumelows-seedling": [
   {
    "line": 18295,
-   "page": 357,
+   "page": 288,
    "score": 3.8,
    "key": "DUMELOWS SEEDLING",
    "text": "DUMELOW'S  SEEDLING,  ^'  V°ir  C6  nom-"
@@ -207,7 +319,7 @@
  "emperor-alexander": [
   {
    "line": 18771,
-   "page": 357,
+   "page": 288,
    "score": 3.3,
    "key": "EMPEREUR ALEXANDRE",
    "text": "EMPEREUR  ALEXANDRE  DE  RUSSIE,  l  ^^^0^\"\""
@@ -216,7 +328,7 @@
  "nonpareil": [
   {
    "line": 22033,
-   "page": 357,
+   "page": 338,
    "score": 1.0,
    "key": "NONPAREIL",
    "text": "Nonpareil  (Elliott,  Fruit  book,  1854,  p.  83).  —  6.  Gravensteiner  (Éd.  Lucas,  Illustrâtes"
@@ -225,14 +337,14 @@
  "pomme-gris": [
   {
    "line": 22364,
-   "page": 357,
+   "page": 342,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  GRISE  DE  CANADA.  —  Synonyme  de  Reinette  grise  du  Canada.  Voir  ce"
   },
   {
    "line": 22368,
-   "page": 357,
+   "page": 342,
    "score": 1.3,
    "key": "POMME GRISE",
    "text": "Pomme  GRISE  (GROSSE-).  —  Voir  Grosse- Grise."

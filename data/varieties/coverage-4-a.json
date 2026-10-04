@@ -1,0 +1,618 @@
+[
+ {
+  "id": "oriole",
+  "name": "Oriole",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
+   "year": 1949,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Uncertain: Minnesota records give it as a seedling of unknown parentage from seed sown in 1914; Orange Pippin lists Wealthy as a parent, and another listing gives Yellow Transparent x Liveland Raspberry.",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "Grown from seed sown in 1914 at the University of Minnesota fruit-breeding farm and released in 1949, one of the series of very hardy summer apples bred for Minnesota winters. It is the pollen parent of State Fair.",
+  "look": {
+   "size": "large",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 20,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, rounded, somewhat ribbed pale-yellow apple with a light pinkish-red flush broken by streaks."
+  },
+  "taste": {
+   "summary": "A juicy summer apple with light, fairly plain acidity and only modest sweetness; crisp for its season but quickly turns soft and coarse. Its breeders called it sprightly and aromatic, but later tasters find it rather bland, so it is as useful for sauce and pies as for eating.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": 4,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Aug, straight from the tree; keeps only a few days"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Fairly vigorous, very winter-hardy tree described as easy for beginners. Pick over several passes as the fruit ripens unevenly and does not keep."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group 3 (Orange Pippin; Brogdale records full bloom around 9 May). Needs a hardy diploid partner flowering at the same time."
+  },
+  "season": {
+   "harvest": "mid Aug",
+   "eating": "Aug",
+   "storage_weeks": 1
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 3,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Cold continental regions with short summers, such as Minnesota, the northern Great Plains and similar inland climates, where it gives an early crop on a very hardy tree.",
+   "poor_climates": "Hot summers ripen it in July and make it soft and short-lived; mild-winter areas will not satisfy its chilling."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Orange Pippin rates its general disease resistance as poor; no specific disease ratings found."
+  },
+  "grow_notes": "A choice for very cold gardens (zone 3 on a vigorous rootstock such as MM111). Pick as soon as the ground colour pales and use within days, or refrigerate for about a week.",
+  "conf": "medium"
+ },
+ {
+  "id": "orleans",
+  "name": "Orleans",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York",
+   "year": 1923,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Deacon Jones x Delicious",
+   "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
+  },
+  "history": "Raised in 1912 by Richard Wellington at the Geneva station from Deacon Jones crossed with Delicious and introduced in 1923; a sister seedling of Sweet Delicious. Not to be confused with the French Orleans Reinette.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, narrowly conical and strongly ribbed yellow apple striped with red, in the Delicious mould."
+  },
+  "taste": {
+   "summary": "Firm, fine-grained and crisp cream flesh with a sweet, low-acid flavour; Brogdale tasters scored sweetness, acidity and aroma all around the middle of the scale.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 3,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little modern growing information; held in the UK National Fruit Collection."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Brogdale records 10% bloom around 4 May and full bloom around 9 May, which corresponds to group 3."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": "Oct-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Inferred from its New York breeding: temperate climates with warm summers and cold winters.",
+   "poor_climates": "No documented reports; climate fields are inferred from origin and parentage."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A curiosity from the Geneva programme, mainly found in collections. Treat like other Delicious-type dessert apples: a sunny, well-drained site and a group 2-4 pollinator.",
+  "conf": "low"
+ },
+ {
+  "id": "ozark-gold",
+  "name": "Ozark Gold",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Missouri State Fruit Experiment Station, Mountain Grove, Missouri",
+   "year": 1970,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x (Red Delicious x Conrad), the second parent recorded as selection A1291",
+   "raised_by": "Missouri State Fruit Experiment Station"
+  },
+  "history": "Released by the Mountain Grove station in 1970 as an earlier-ripening Golden Delicious type with skin that resists russeting. It ripens roughly three weeks ahead of Golden Delicious.",
+  "look": {
+   "size": "large",
+   "shape": "round-conical",
+   "ground": "gold",
+   "blush": "orange",
+   "blush_cover": 10,
+   "stripes": false,
+   "russet": 0,
+   "description": "Large, tall, slightly ribbed golden-yellow apple with a waxy skin and at most a faint orange cheek; clean of russet."
+  },
+  "taste": {
+   "summary": "Very like Golden Delicious: sweet and honeyed with little acidity and plenty of juice, with one nursery noting a spicy note. Firm and crisp when tree-ripened, but it softens fairly quickly and Missouri growers call the fruit soft.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["honey", "sweet", "mild", "spice"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, within a few weeks of picking"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "heavy",
+   "biennial": "slight",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Fairly vigorous spur-bearer that crops heavily and tends towards alternate bearing, so thin early. Let the fruit ripen fully on the tree for best flavour."
+  },
+  "pollination": {
+   "flower_group": 5,
+   "self_fertile": "no",
+   "notes": "A late bloomer: group 5 in Orange Pippin, and Brogdale records full bloom around 20 May. Choose a late-flowering partner."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 6
+  },
+  "climate": {
+   "chill_hours": 600,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm-summer temperate regions of the central and southern USA; one nursery lists it as low-chill for zones 5-10.",
+   "poor_climates": "In very hot spells the fruit softens and drops before harvest; short cool seasons may not ripen it fully."
+  },
+  "health": {
+   "scab": 3,
+   "canker": null,
+   "mildew": 3,
+   "fire_blight": 3,
+   "rust": 3,
+   "bitter_pit": null,
+   "other": "Sources disagree: one nursery calls its disease resistance excellent, while Missouri extension lists it as susceptible to scab, cedar-apple rust, powdery mildew and fire blight. Pre-harvest drop in heat."
+  },
+  "grow_notes": "A useful late-flowering yellow apple where frost hits early blossom. Thin heavy crops to keep it annual and leave the fruit to colour gold on the tree before picking.",
+  "conf": "medium"
+ },
+ {
+  "id": "priam",
+  "name": "Priam",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Purdue University, Lafayette, Indiana (PRI co-operative programme)",
+   "year": 1974,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "PRI 14-126 x Jonathan",
+   "raised_by": "PRI programme (Purdue, Rutgers and Illinois)"
+  },
+  "history": "A scab-resistance selection from the Purdue-Rutgers-Illinois co-operative breeding programme, crossed at Purdue (French Wikipedia dates the work to 1951) and introduced in 1974. It is the parent of the French cultivars Judaine and Judeline.",
+  "look": {
+   "size": "medium",
+   "shape": "conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 60,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium conical apple, bright red flushed and striped over a pale yellow-green ground, with a short stalk."
+  },
+  "taste": {
+   "summary": "Juicy yellow flesh with a sweet-sharp balance and fairly pronounced acidity, in the style of its Jonathan parent.",
+   "sweet": 3,
+   "acid": 4,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": null,
+   "juicy": 4,
+   "tags": ["sharp", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "tip",
+   "cropping": "moderate",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Average vigour; Orange Pippin lists it as a tip-bearer, so prune lightly and renew rather than spur-prune."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Group 3 (Orange Pippin)."
+  },
+  "season": {
+   "harvest": null,
+   "eating": "Nov-Jan",
+   "storage_weeks": 10
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Inferred: temperate climates similar to the US Midwest and France, where low-spray growing benefits from its scab resistance.",
+   "poor_climates": "No documented reports; fields inferred from its origin."
+  },
+  "health": {
+   "scab": 2,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Bred for scab resistance in the PRI programme and rated as having good disease resistance; other susceptibilities not documented."
+  },
+  "grow_notes": "Suited to low-spray orchards because of its scab resistance. As a tip-bearer it is better as a bush or half-standard than as a cordon.",
+  "conf": "low"
+ },
+ {
+  "id": "pumpkin-sweet",
+  "name": "Pumpkin Sweet",
+  "aka": ["Pound Sweet", "Lyman's Pumpkin Sweet", "Pumpkin Sweeting", "Vermont Pumpkin Sweet", "Rhode Island Sweet", "Yankee Apple"],
+  "uses": ["culinary", "dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Orchard of S. Lyman, Manchester, Connecticut",
+   "year": 1834,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "S. Lyman (orchard owner)"
+  },
+  "history": "A very large sweet apple from the Lyman orchard in Manchester, Connecticut, recorded by 1834 and widely grown in New England and New York for baking. Many large sweet apples were sold as 'Pound Sweet', and the Apples of New York treats that name for this one as a synonym.",
+  "look": {
+   "size": "large",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "brown",
+   "blush_cover": 20,
+   "stripes": false,
+   "russet": null,
+   "description": "Very large rounded yellow apple marbled with green, with a dull brownish flush and pale scarf-skin streaks near the stalk."
+  },
+  "taste": {
+   "summary": "Distinctly sweet and almost without acid, with an odd, characteristic flavour and firm yellowish flesh. Brogdale tasters found it very sweet but low in aroma, juice and crunch; its main traditional use is baking, where it holds together and turns rich.",
+   "sweet": 5,
+   "acid": 1,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 3,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec; best baked"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": "tip",
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Orange Pippin lists it as a tip-bearer. Keeping quality varies widely with place and season."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": null,
+   "notes": "Brogdale records full bloom around 13 May, which corresponds to group 4."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": false,
+   "best_climates": "New England and New York, where it was long a farmhouse baking apple.",
+   "poor_climates": "Not documented; mild-winter regions are probably unsuitable for this northern heirloom."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "Grow it for baking and drying rather than fresh eating. As a tip-bearer it suits an open-centre tree with light renewal pruning.",
+  "conf": "medium"
+ },
+ {
+  "id": "redgold",
+  "name": "Redgold",
+  "aka": ["Red Gold", "Stark Redgold"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Cashmere, Washington",
+   "year": 1946,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Golden Delicious x Richared Delicious",
+   "raised_by": "F.A. Schell"
+  },
+  "history": "Raised by F.A. Schell at Cashmere in the Wenatchee district of Washington from Golden Delicious crossed with Richared, and introduced in 1946 (sold by Stark as Stark Redgold).",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow",
+   "blush": "pink",
+   "blush_cover": 75,
+   "stripes": false,
+   "russet": 0,
+   "description": "Medium, tall and strongly ribbed apple in the Delicious style, mostly covered by a pinkish-red flush over pale yellow."
+  },
+  "taste": {
+   "summary": "Tender yellow flesh with a very sweet, low-acid flavour; Orange Pippin calls it one of the sweetest apples, and home growers praise it as sweet and juicy.",
+   "sweet": 5,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec; keeps for weeks refrigerated"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little published growing information; home growers report heavy crops of rather small fruit."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Brogdale records full bloom around 10 May, which corresponds to group 3."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Inferred from its Washington origin: sunny temperate climates with warm days and cool autumn nights.",
+   "poor_climates": "No documented reports."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No published ratings; one UK grower reports heavy scab in a wet year."
+  },
+  "grow_notes": "Grow like Golden Delicious in a sunny, open site. Thin heavy crops to keep up fruit size.",
+  "conf": "low"
+ },
+ {
+  "id": "reinette-simirenko",
+  "name": "Reinette Simirenko",
+  "aka": ["Renet Simirenko", "Simirenko", "Reinette Verte de Simirenko", "Zelenyi Renet Simirenko", "Wood's Greening"],
+  "uses": ["dessert", "juice"],
+  "origin": {
+   "country": "UA",
+   "place": "Platonov khutir near Mliiv, Cherkasy region, Ukraine",
+   "year": 1880,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": "Found in the orchard of Platon Simirenko; described and spread by his son Lev Simirenko"
+  },
+  "history": "A chance seedling noticed by Lev Simirenko in his father's orchard near Mliiv and named for the father; Ukrainian sources date its description to 1880, the National Fruit Collection to 1895. It became the most widely planted winter apple of the Soviet Union and still makes up a large share of Ukrainian orchards.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "green",
+   "blush": "brown",
+   "blush_cover": 5,
+   "stripes": false,
+   "russet": 1,
+   "description": "Bright green, waxy, flattish apple with conspicuous pale or russeted dots and small warty russet spots, sometimes a faint brownish-red cheek in hot districts."
+  },
+  "taste": {
+   "summary": "Dense, very juicy greenish-white flesh with a wine-like sweetness, moderate acidity and a pleasant spicy aftertaste; underripe fruit is sour and slightly astringent. It improves in store and is at its best from late winter into spring.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["wine", "spice", "perfumed", "sweet"],
+   "cider_class": null,
+   "best_eaten": "Jan-May, after some weeks in store"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": "upright-spreading",
+   "bearing": "part-tip",
+   "cropping": "heavy",
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Vigorous tree with a dense, broad crown. In southern orchards it often fruits on the current season's growth as well as on spurs. Trunk and limbs are easily winter-damaged, but the crown regrows quickly."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Self-sterile. Ukrainian growers use Idared, Golden Delicious, Antonovka and similar varieties as pollinators. Brogdale records full bloom around 10 May (group 3)."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-May",
+   "storage_weeks": 26
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 6,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": false,
+   "best_climates": "Warm-summer steppe and forest-steppe climates: southern and central Ukraine, Crimea, the Caucasus and Central Asia, where it tolerates heat and drought well.",
+   "poor_climates": "Places with severe winters, where the trunk suffers frost damage; humid regions with heavy scab and mildew pressure."
+  },
+  "health": {
+   "scab": 4,
+   "canker": null,
+   "mildew": 4,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Below-average resistance to scab and powdery mildew; poor winter hardiness of the wood."
+  },
+  "grow_notes": "Give it a warm, sheltered site and protect the trunk in cold winters. Plant a compatible pollinator, and pick in early to mid autumn for long storage into spring.",
+  "conf": "medium"
+ },
+ {
+  "id": "sharon",
+  "name": "Sharon",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "Iowa State Agricultural Experiment Station, Ames, Iowa",
+   "year": 1922,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "McIntosh x a Russian apple: Glogerovka according to the National Fruit Collection, Longfield according to Orange Pippin",
+   "raised_by": "S.A. Beach, Iowa State Agricultural Experiment Station"
+  },
+  "history": "Crossed in 1906 by S.A. Beach at Ames, Iowa, as part of breeding for hardy apples, and introduced in 1922. Sources disagree on whether the Russian parent was Glogerovka or Longfield.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": null,
+   "description": "Medium, flattish pale-yellow apple striped with red."
+  },
+  "taste": {
+   "summary": "Like a sweeter, firmer McIntosh: crisp, fine and tender greenish-white flesh that is sweet and juicy but can lack acidity and turn woody.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet", "mild"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little modern growing information."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": null,
+   "notes": "Brogdale records full bloom around 7 May, which corresponds to group 2-3."
+  },
+  "season": {
+   "harvest": "early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 8
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Inferred from its Iowa breeding and McIntosh x Russian parentage: cold-winter continental climates.",
+   "poor_climates": "Inferred: hot, humid summers and mild winters."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A hardy McIntosh-type for cold districts; give it an early-to-mid season pollinator.",
+  "conf": "low"
+ }
+]

@@ -1,0 +1,618 @@
+[
+ {
+  "id": "merton-worcester",
+  "name": "Merton Worcester",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "GB",
+   "place": "John Innes Horticultural Institution, Merton, Surrey (now London), England",
+   "year": 1914,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Cox's Orange Pippin x Worcester Pearmain",
+   "raised_by": "M. B. Crane, John Innes Institute"
+  },
+  "history": "Crossed at the John Innes Institute at Merton in 1914, it was not named until 1947 and reached growers around 1948; the RHS gave it an Award of Merit in 1950. The hope was a Worcester with Cox's aroma, but it turned out much more like its Worcester parent. It is a parent of the scab-resistant Gavin.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 80,
+   "stripes": false,
+   "russet": 0,
+   "description": "Broadly conical, greenish-yellow apple mostly covered in red, hard to tell apart from Worcester Pearmain."
+  },
+  "taste": {
+   "summary": "Firm, fine-grained and juicy, with a pleasant sweet flavour. Growers describe it as an improved Worcester rather than a Cox, lacking the aromatic depth that was hoped for.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, soon after picking"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Reported as a regular cropper; was grown on a small commercial scale in England. Little else is recorded about the tree."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 10 May, a few days ahead of Cox, so group 3 is inferred. Orange Pippin rates it an average pollinator."
+  },
+  "season": {
+   "harvest": "early Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 5
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 5,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool maritime summers like southern and central England, where Worcester types colour well and keep their freshness.",
+   "poor_climates": "Hot summers are likely to soften the fruit and dull its colour; mild-winter regions will not meet an English apple's chill requirement."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No specific disease record found; parent Worcester Pearmain is known for some scab tolerance but mildew susceptibility."
+  },
+  "grow_notes": "Grow it as you would Worcester Pearmain: an open sunny site and a mid-season diploid partner. Pick in early September and eat within a few weeks.",
+  "conf": "medium"
+ },
+ {
+  "id": "minnehaha",
+  "name": "Minnehaha",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
+   "year": 1920,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Originally recorded as a Malinda seedling; a 2022 DNA pedigree study (Luby et al., cited by Wikipedia) indicates Wealthy x (Ben Davis x Fameuse).",
+   "raised_by": "University of Minnesota"
+  },
+  "history": "The first apple released by the University of Minnesota breeding programme, selected in 1914 and introduced in 1920. Its recorded pedigree was revised by DNA work a century later.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": null,
+   "stripes": true,
+   "russet": 0,
+   "description": "Flattish yellow apple streaked with dark red."
+  },
+  "taste": {
+   "summary": "Rather soft, coarse flesh with a mildly acid, faintly sweet flavour, according to the National Fruit Collection; little else is recorded about its eating quality.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": [],
+   "cider_class": null,
+   "best_eaten": null
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little documented beyond its Minnesota origin; bred for winter hardiness."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 9 May, so group 3 is inferred (group 2 is possible). Self-fertility not recorded; assume a partner is needed."
+  },
+  "season": {
+   "harvest": "late Sep",
+   "eating": null,
+   "storage_weeks": null
+  },
+  "climate": {
+   "chill_hours": 1100,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cold continental climates with short warm summers, such as Minnesota and the upper Midwest, for which it was bred.",
+   "poor_climates": "Hot, humid summers are likely to give soft, poorly coloured fruit; mild-winter regions will not satisfy its chilling need."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "Of mainly historical interest as the first Minnesota-bred apple. Treat as a hardy mid-season dessert apple and provide a pollination partner.",
+  "conf": "low"
+ },
+ {
+  "id": "monroe",
+  "name": "Monroe",
+  "aka": [],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "New York State Agricultural Experiment Station, Geneva, New York",
+   "year": 1910,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Jonathan x Rome Beauty",
+   "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
+  },
+  "history": "Crossed in 1910 at the Geneva experiment station in New York and released in the late 1940s (1947 or 1949 depending on source). It is a parent of the dark red Burgundy.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": null,
+   "stripes": true,
+   "russet": 0,
+   "description": "Medium, broadly conical red apple, streaked over a greenish-yellow ground; somewhat ribbed."
+  },
+  "taste": {
+   "summary": "Fine-textured, rather soft cream flesh with a sweet, mildly acid flavour. Recorded as both a dessert and a cooking apple.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 2,
+   "juicy": null,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "No tree description found."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "The National Fruit Collection records full bloom around 11 May, so group 3 is inferred. Self-fertility not recorded; plant a partner."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Jan",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Temperate continental climates like upstate New York, where both its parents are long established.",
+   "poor_climates": "Not documented; very mild winters are unlikely to meet its chilling need."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found; both parents (Jonathan, Rome Beauty) are mildew- and fire-blight-prone, but this is not confirmed for Monroe."
+  },
+  "grow_notes": "A late-season, keeping apple from New York. Pick in October and store until winter; give it a mid-season pollinator.",
+  "conf": "low"
+ },
+ {
+  "id": "nova-easygro",
+  "name": "Nova Easygro",
+  "aka": ["Nova Easy Gro", "NovaEasygro"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "CA",
+   "place": "Agriculture Canada Research Station, Kentville, Nova Scotia",
+   "year": 1956,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Spartan x PRI (Purdue-Rutgers-Illinois scab-resistant selection)",
+   "raised_by": "A. D. Crowe, Agriculture Canada, Kentville"
+  },
+  "history": "Crossed in 1956 at Kentville, Nova Scotia, and released in 1971 as a scab-resistant apple that could be grown with little spraying. It later became a parent of Novaspy.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 80,
+   "stripes": true,
+   "russet": 0,
+   "description": "Large, flattened apple with red stripes and blush over most of a greenish-yellow skin."
+  },
+  "taste": {
+   "summary": "Firm, crisp, very white flesh with a gently sweet, mildly acid flavour and moderate juice. It is a little tough when first picked and mellows in store.",
+   "sweet": 3,
+   "acid": 2,
+   "aroma": 2,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 3,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Oct-Dec, after a few weeks in store"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": "diploid",
+   "notes": "Bred for low-spray growing; little published on growth habit."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": "no",
+   "notes": "Flowering group not found; assume a partner flowering mid-season is needed."
+  },
+  "season": {
+   "harvest": "late Sep-early Oct",
+   "eating": "Oct-Dec",
+   "storage_weeks": 12
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool, humid, scab-prone regions such as the Maritime provinces, New England and similar organic or low-spray gardens.",
+   "poor_climates": "Hot summers are likely to reduce colour and texture; not suited to mild-winter regions."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Bred for scab resistance (PRI source); other disease ratings not confirmed from sources read."
+  },
+  "grow_notes": "Good choice where scab is the main problem and spraying is unwanted. Store the fruit for a few weeks before eating to let it soften slightly and sweeten.",
+  "conf": "medium"
+ },
+ {
+  "id": "novamac",
+  "name": "Novamac",
+  "aka": [],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "CA",
+   "place": "Agriculture Canada Research Station, Kentville, Nova Scotia",
+   "year": 1963,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "McIntosh x a scab-resistant seedling",
+   "raised_by": "Agriculture Canada, Kentville"
+  },
+  "history": "Crossed in 1963 at Kentville and introduced in 1978 as a disease-resistant McIntosh-type apple. It ripens a little before McIntosh.",
+  "look": {
+   "size": "medium",
+   "shape": "round-conical",
+   "ground": "yellow-green",
+   "blush": "deep-red",
+   "blush_cover": 80,
+   "stripes": true,
+   "russet": 1,
+   "description": "McIntosh-like round-conical apple, mostly covered with dark red stripes over greenish-yellow."
+  },
+  "taste": {
+   "summary": "White, fine, tender, crisp and juicy flesh with a McIntosh-style vinous flavour, sweet but with a good tart edge; slightly more wine-like than McIntosh itself.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 3,
+   "juicy": 4,
+   "tags": ["wine", "sweet", "sharp"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct, fresh from the tree"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "spur",
+   "cropping": "moderate",
+   "biennial": "none",
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Average vigour, precocious, spur-bearing and a regular cropper (Orange Pippin)."
+  },
+  "pollination": {
+   "flower_group": 4,
+   "self_fertile": "no",
+   "notes": "Orange Pippin lists group 4. Blossom is susceptible to frost."
+  },
+  "season": {
+   "harvest": "mid Sep",
+   "eating": "Sep-Oct",
+   "storage_weeks": 3
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cool northern climates where McIntosh does well: Atlantic Canada, New England, northern Europe.",
+   "poor_climates": "Hot summers give soft, poorly coloured McIntosh types; frost-prone spring sites risk the blossom."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": 4,
+   "fire_blight": 2,
+   "rust": 2,
+   "bitter_pit": null,
+   "other": "Resistant to scab, cedar-apple rust and fire blight but susceptible to powdery mildew (Brooks & Olmo register via Wikipedia). Short keeper."
+  },
+  "grow_notes": "An easy, low-spray McIntosh substitute; watch for mildew and avoid frost pockets. Eat within a few weeks of picking.",
+  "conf": "medium"
+ },
+ {
+  "id": "novaspy",
+  "name": "Novaspy",
+  "aka": [],
+  "uses": ["dessert", "culinary", "juice"],
+  "origin": {
+   "country": "CA",
+   "place": "Agriculture Canada Research Station, Kentville, Nova Scotia",
+   "year": 1986,
+   "year_note": "",
+   "kind": "bred",
+   "parentage": "Nova Easygro x (Northern Spy x Golden Delicious)",
+   "raised_by": "Agriculture Canada, Kentville"
+  },
+  "history": "Released at Kentville in 1986 as a scab-resistant apple in the style of Northern Spy. Opinions differ on whether it matches Spy for flavour.",
+  "look": {
+   "size": "large",
+   "shape": "round",
+   "ground": "yellow",
+   "blush": "deep-red",
+   "blush_cover": 60,
+   "stripes": null,
+   "russet": 0,
+   "description": "Large round apple with a variable (roughly a third to most of the skin) dark red or orange-red flush."
+  },
+  "taste": {
+   "summary": "Creamy-yellow, fine, firm, crisp and juicy flesh with a mildly acid, fairly sharp flavour. Tasters are divided: some find it less tart and complex than Northern Spy, others like it, especially baked or dried.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sharp"],
+   "cider_class": null,
+   "best_eaten": "Nov-Jan, from store"
+  },
+  "tree": {
+   "vigor": 3,
+   "habit": null,
+   "bearing": "part-tip",
+   "cropping": "heavy",
+   "biennial": "none",
+   "precocity": 4,
+   "ploidy": "diploid",
+   "notes": "Average vigour, precocious, partly tip-bearing and a good regular cropper (Orange Pippin); unlike Northern Spy it starts bearing early."
+  },
+  "pollination": {
+   "flower_group": 3,
+   "self_fertile": "no",
+   "notes": "Orange Pippin lists group 3, not self-fertile."
+  },
+  "season": {
+   "harvest": "early Oct-mid Oct",
+   "eating": "Nov-Jan",
+   "storage_weeks": 13
+  },
+  "climate": {
+   "chill_hours": 1000,
+   "hardiness_zone": 4,
+   "heat_tolerance": 2,
+   "colour_needs_cool_nights": true,
+   "best_climates": "Cold-temperate and mild damp climates; hardy to about USDA zone 4.",
+   "poor_climates": "Hot-summer regions are likely to give poor colour; mild-winter regions lack chill."
+  },
+  "health": {
+   "scab": 1,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": 1,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "Scab resistant; Orange Pippin rates it very resistant to fire blight."
+  },
+  "grow_notes": "A low-spray, late keeping apple for cold gardens. Being partly tip-bearing, prune lightly with renewal cuts rather than hard spur pruning.",
+  "conf": "medium"
+ },
+ {
+  "id": "ohio-nonpareil",
+  "name": "Ohio Nonpareil",
+  "aka": ["Myers' Nonpareil", "Bellflower of the West", "Cattell Apple", "Rusty Core", "Wells"],
+  "uses": ["dessert", "culinary"],
+  "origin": {
+   "country": "US",
+   "place": "Orchard of Mr Bowman, Massillon, Ohio",
+   "year": 1848,
+   "year_note": "first recorded",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "Arose in Mr Bowman's orchard at Massillon, Ohio and was described in 1848. It was an important regional apple in 19th-century Ohio and is often compared to Gravenstein.",
+  "look": {
+   "size": "large",
+   "shape": "round-flat",
+   "ground": "yellow-green",
+   "blush": "red",
+   "blush_cover": 50,
+   "stripes": true,
+   "russet": 1,
+   "description": "Large, flattish, slightly ribbed apple; pale greenish-yellow with a pinkish-orange flush streaked and mottled carmine, and russet dots."
+  },
+  "taste": {
+   "summary": "Firm, crisp, fairly fine yellowish flesh, juicy, with a sweet, gently acid and aromatic flavour. Often likened to Gravenstein (sweet yet savoury) but with firmer flesh.",
+   "sweet": 4,
+   "acid": 2,
+   "aroma": 3,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet", "savoury", "perfumed"],
+   "cider_class": null,
+   "best_eaten": "Sep-Oct"
+  },
+  "tree": {
+   "vigor": 4,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Recorded as a vigorous, healthy tree."
+  },
+  "pollination": {
+   "flower_group": 2,
+   "self_fertile": "no",
+   "notes": "Early flowering: the National Fruit Collection records full bloom around 6 May, so group 2 is inferred. Use an early-to-mid flowering partner."
+  },
+  "season": {
+   "harvest": "early Sep-mid Sep",
+   "eating": "Sep-Nov",
+   "storage_weeks": 6
+  },
+  "climate": {
+   "chill_hours": 900,
+   "hardiness_zone": 5,
+   "heat_tolerance": 3,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Midwestern and eastern US climates with warm summers, where it was a regional favourite.",
+   "poor_climates": "Not documented."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found beyond a note that the tree is healthy."
+  },
+  "grow_notes": "An early-autumn dual-purpose apple for baking or eating fresh. It keeps only a month or two, so pick in succession and use promptly.",
+  "conf": "medium"
+ },
+ {
+  "id": "oliver",
+  "name": "Oliver",
+  "aka": ["Senator", "Oliver's Red"],
+  "uses": ["dessert"],
+  "origin": {
+   "country": "US",
+   "place": "North-western Arkansas",
+   "year": 1873,
+   "year_note": "before",
+   "kind": "chance",
+   "parentage": null,
+   "raised_by": null
+  },
+  "history": "An Ozark apple from north-western Arkansas, known by 1873, later sold widely under the nursery name Senator. It was valued in the region as an attractive winter keeper.",
+  "look": {
+   "size": "medium",
+   "shape": "round-flat",
+   "ground": "yellow",
+   "blush": "crimson",
+   "blush_cover": 85,
+   "stripes": true,
+   "russet": 1,
+   "description": "Flattish, glossy apple almost covered in crimson streaked darker red, with prominent pale or russet dots."
+  },
+  "taste": {
+   "summary": "Crisp, tender, breaking, juicy flesh with a lively, mildly acid flavour that turns towards sweet as it keeps; described as rich and refreshing.",
+   "sweet": 3,
+   "acid": 3,
+   "aroma": null,
+   "tannin": 0,
+   "crisp": 4,
+   "juicy": 4,
+   "tags": ["sweet"],
+   "cider_class": null,
+   "best_eaten": "Dec-Mar, from store"
+  },
+  "tree": {
+   "vigor": null,
+   "habit": null,
+   "bearing": null,
+   "cropping": null,
+   "biennial": null,
+   "precocity": null,
+   "ploidy": null,
+   "notes": "Little tree data found."
+  },
+  "pollination": {
+   "flower_group": null,
+   "self_fertile": "no",
+   "notes": "Flowering group not recorded; plant a partner."
+  },
+  "season": {
+   "harvest": "mid Oct",
+   "eating": "Dec-Mar",
+   "storage_weeks": 16
+  },
+  "climate": {
+   "chill_hours": 800,
+   "hardiness_zone": 5,
+   "heat_tolerance": 4,
+   "colour_needs_cool_nights": null,
+   "best_climates": "Warm-summer upland regions of the southern and central US such as the Ozarks, where it originated.",
+   "poor_climates": "Not documented; as a late southern apple it may not ripen fully in short, cool seasons."
+  },
+  "health": {
+   "scab": null,
+   "canker": null,
+   "mildew": null,
+   "fire_blight": null,
+   "rust": null,
+   "bitter_pit": null,
+   "other": "No disease information found."
+  },
+  "grow_notes": "A late-keeping Ozark heirloom. Pick late, store cool, and eat through winter; give it a pollination partner.",
+  "conf": "low"
+ }
+]

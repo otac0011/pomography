@@ -1,0 +1,135 @@
+{
+ "clarke-pearmain": [
+  {
+   "line": 9158,
+   "page": 76,
+   "score": 3.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "GOLDEN  PEARMAIN  (English  Golden  Fearmain;  Buchnan's"
+  },
+  {
+   "line": 6435,
+   "page": 42,
+   "score": 3.0,
+   "key": "CLARKES",
+   "text": "CLARKE'S  PIPPIN. — Fruit,  small,  two  inches  and  a  quarter  wide,"
+  },
+  {
+   "line": 8965,
+   "page": 76,
+   "score": 3.0,
+   "key": "GLOUCESTER",
+   "text": "GLOUCESTER  QUOINING.— Fruit,  large,  three  inches  wide,  and"
+  },
+  {
+   "line": 2128,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain,  Nov. — Mar."
+  },
+  {
+   "line": 2277,
+   "page": null,
+   "score": 1.3,
+   "key": "GOLDEN PEARMAIN",
+   "text": "Golden  Pearmain,  Nov. — Dec."
+  },
+  {
+   "line": 3371,
+   "page": null,
+   "score": 1.0,
+   "key": "CLARKES",
+   "text": "Clarke's  Pippin,  Oct. — Dec."
+  }
+ ],
+ "red-autumn-calville": [
+  {
+   "line": 6045,
+   "page": 32,
+   "score": 3.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "CALVILLE   ROUGE   D'AUTOMNE   {Autumn  Calville;    Autumn"
+  },
+  {
+   "line": 2163,
+   "page": null,
+   "score": 1.3,
+   "key": "CALVILLE ROUGE DAUTOMNE",
+   "text": "Calville  Rouge  d'Automne,  Oct."
+  }
+ ],
+ "woodcock": [
+  {
+   "line": 18455,
+   "page": 130,
+   "score": 3.5,
+   "key": "WOODCOCK",
+   "text": "WOODCOCK.  —Fruit,  medium  sized ;  of  an  oval  shape,  tapering  a"
+  },
+  {
+   "line": 3269,
+   "page": null,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock,  Oct. — Dec."
+  },
+  {
+   "line": 18479,
+   "page": 130,
+   "score": 1.5,
+   "key": "WOODCOCK",
+   "text": "Woodcock.     See  Green  Woodcock,"
+  }
+ ],
+ "coccagee": [
+  {
+   "line": 6542,
+   "page": 42,
+   "score": 3.5,
+   "key": "COCCAGEE",
+   "text": "COCCAGEE. — Fruit,  medium  sized  ;  ovate.  Skin,  fine  yellow,"
+  },
+  {
+   "line": 19818,
+   "page": 130,
+   "score": 1.5,
+   "key": "COCCAGEE",
+   "text": "Coccagee"
+  }
+ ],
+ "styre": [
+  {
+   "line": 8464,
+   "page": 76,
+   "score": 3.3,
+   "key": "FOREST STYRE",
+   "text": "FOREST  STYRE  (Stive).— Fruit,  below  medium  size ;  roundish,"
+  },
+  {
+   "line": 19823,
+   "page": 130,
+   "score": 1.3,
+   "key": "FOREST STYRE",
+   "text": "Forest  Styre"
+  }
+ ],
+ "taliaferro": [
+  {
+   "line": 15914,
+   "page": 130,
+   "score": 1.5,
+   "key": "ROBERTSON",
+   "text": "Robertson,  the  nurseryman  of  Kilkenny."
+  }
+ ],
+ "geheimrat-dr-oldenburg": [
+  {
+   "line": 30718,
+   "page": 130,
+   "score": 1.5,
+   "key": "OLDENBURG",
+   "text": "Oldenburg.    See  Elruge."
+  }
+ ]
+}

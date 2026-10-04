@@ -1,0 +1,238 @@
+{
+ "batch": "coverage-11",
+ "theme": "coverage",
+ "count": 21,
+ "varieties": [
+  {
+   "id": "autumn-bough",
+   "name": "Autumn Bough",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Autumn_Bough"
+  },
+  {
+   "id": "black-diamond",
+   "name": "Black Diamond",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Black_Diamond_Apple"
+  },
+  {
+   "id": "clarke-pearmain",
+   "name": "Clarke Pearmain",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Clarke_Pearmain"
+  },
+  {
+   "id": "coccagee",
+   "name": "Coccagee",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Coccagee"
+  },
+  {
+   "id": "geheimrat-dr-oldenburg",
+   "name": "Geheimrat Dr. Oldenburg",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Geheimrat_Dr._Oldenburg"
+  },
+  {
+   "id": "huaniu",
+   "name": "Huaniu",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Huaniu"
+  },
+  {
+   "id": "julieta",
+   "name": "Julieta",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Julieta_%28apple%29"
+  },
+  {
+   "id": "new-brunswicker",
+   "name": "New Brunswicker",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/New_Brunswicker_%28apple%29"
+  },
+  {
+   "id": "poveshon",
+   "name": "Poveshon",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Poveshon"
+  },
+  {
+   "id": "red-autumn-calville",
+   "name": "Red Autumn Calville",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Red_Autumn_Calville"
+  },
+  {
+   "id": "red-pineapple",
+   "name": "Red Pineapple",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Red_Pineapple_%28apple%29"
+  },
+  {
+   "id": "sciros",
+   "name": "Sciros",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Sciros"
+  },
+  {
+   "id": "styre",
+   "name": "Styre",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Styre"
+  },
+  {
+   "id": "sugarbee",
+   "name": "SugarBee",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/SugarBee"
+  },
+  {
+   "id": "sunflare",
+   "name": "Sunflare",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Sunflare_%28apple%29"
+  },
+  {
+   "id": "swazie",
+   "name": "Swazie",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Swazie_%28apple%29"
+  },
+  {
+   "id": "sweetie",
+   "name": "Sweetie",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Sweetie_%28apple%29"
+  },
+  {
+   "id": "taliaferro",
+   "name": "Taliaferro",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Taliaferro_%28apple%29"
+  },
+  {
+   "id": "tartu-rose",
+   "name": "Tartu Rose",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Tartu_Rose"
+  },
+  {
+   "id": "woodcock",
+   "name": "Woodcock",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Woodcock_%28apple%29"
+  },
+  {
+   "id": "amanda",
+   "name": "Amanda",
+   "theme": "coverage",
+   "keepers": false,
+   "aka_hint": [],
+   "listed_in": [
+    "wikipedia-article"
+   ],
+   "ref": "https://en.wikipedia.org/wiki/Amanda_%28apple%29"
+  }
+ ]
+}
