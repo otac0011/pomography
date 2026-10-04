@@ -26,7 +26,7 @@ export function labelOf(score) {
   if (score >= 55) return 'Workable';
   if (score >= 35) return 'Marginal';
   if (score >= 15) return 'Poor';
-  return 'Not viable';
+  return 'Likely not viable';
 }
 
 /** Build the context once from the reference (south-east England) features. */
@@ -243,7 +243,7 @@ export function flavourHere(v, F) {
 /** Score one variety at one place. F = climate features, ctx = makeContext(ref). */
 export function scoreVariety(v, F, ctx) {
   if (F.error) return { score: 0, label: 'No data', factors: [], limiting: null, error: F.error };
-  if (F.noBloom) return { score: 0, label: 'Not viable', factors: [{ key: 'season', title: 'Season', f: 0, tone: 'bad', text: 'It never warms enough here (10-day mean of 10 °C) for apples to flower.', critical: true }], limiting: 'season' };
+  if (F.noBloom) return { score: 0, label: 'Likely not viable', factors: [{ key: 'season', title: 'Season', f: 0, tone: 'bad', text: 'It never warms enough here (10-day mean of 10 °C) for apples to flower.', critical: true }], limiting: 'season' };
   const parts = {
     chill: fChill(v, F), hardiness: fHardiness(v, F), frost: fFrost(v, F), season: fSeason(v, F, ctx),
     heat: fHeat(v, F), water: fWater(v, F), disease: fDisease(v, F),

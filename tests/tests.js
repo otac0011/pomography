@@ -108,7 +108,7 @@ t('susceptible variety is penalised more than resistant one under high scab pres
 t('score has seven factors with text and tones', () => { const s = scoreVariety(V(), temperate, ctx); eq(s.factors.length, 7); if (!s.factors.every(f => f.text && f.tone)) throw new Error('missing'); });
 t('null variety data does not crash', () => { const s = scoreVariety(V({ climate: {}, pollination: {}, season: {}, health: {} }), temperate, ctx); if (!isFinite(s.score)) throw new Error('NaN'); });
 t('rankVarieties sorts descending', () => { const r = rankVarieties([V({ id: 'a', climate: { chill_hours: 3000, hardiness_zone: 5 } }), V({ id: 'b' })], temperate, ctx); if (r[0].s.score < r[1].s.score) throw new Error('order'); });
-t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Not viable'); });
+t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Likely not viable'); });
 t('thermalNeed grows with later harvest', () => { if (!(thermalNeed(ctx, 300) > thermalNeed(ctx, 230))) throw new Error('monotone'); });
 t('harvestAt: the reference place returns the recorded picking date', () => { const h = harvestAt(V(), temperate, ctx); near(h.vi, 268, 0.5); eq(h.shift, 0); });
 t('harvestAt: a warmer place is earlier, but by days after bloom, not by degree-days', () => {

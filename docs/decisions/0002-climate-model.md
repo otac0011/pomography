@@ -48,7 +48,7 @@ Six factors in [0,1]: chill (w3), hardiness (3), season (3), frost (2), heat (2)
 The exponent makes a failed critical factor drag the score hard (0.3 -> x0.48; 0 -> 0) while a marginal one
 costs little (0.9 -> x0.94); a plain weighted mean let good summers "average away" a dead tree.
 *Rejected:* a strict minimum (too brittle, ignores the non-critical factors); a learned model (no ground truth).
-Labels: >=85 Excellent, 70 Good, 55 Workable, 35 Marginal, 15 Poor, else Not viable.
+Labels: >=85 Excellent, 70 Good, 55 Workable, 35 Marginal, 15 Poor, else Likely not viable (renamed from "Not viable" 2026-10-04 at the owner's request: orchard practice can beat a climate verdict).
 Every factor returns a sentence; the UI shows them verbatim, so a surprising score can always be traced.
 
 ## Rootstock advice

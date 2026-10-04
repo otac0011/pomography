@@ -51,7 +51,7 @@ export function renderGuide(app) {
         <tr><td><b>Water</b> <span class="muted">(${WEIGHTS.water})</span></td><td>Growing-season rain as a share of what the trees would use. Low scores mean irrigation is essential.</td></tr>
         <tr><td><b>Disease</b> <span class="muted">(${WEIGHTS.disease})</span></td><td>Local scab, canker, fire blight, mildew and rust pressure vs. its susceptibility to each (see below).</td></tr>
       </tbody></table>
-      <p style="margin-top:10px">The score is the weighted average, then pulled down hard if any <i>critical</i> factor fails: a Cox cannot be saved by a lovely summer if the winters are too warm to chill it. Anything under 35 is marginal; under 15 is not viable.</p>
+      <p style="margin-top:10px">The score is the weighted average, then pulled down hard if any <i>critical</i> factor fails: a Cox cannot be saved by a lovely summer if the winters are too warm to chill it. Anything under 35 is marginal; under 15 is likely not viable (we say "likely" because orchard practice - shade netting, cooling, irrigation, frost protection - can sometimes beat the climate).</p>
     </section>
     <section class="card pad wide">
       <h2>What you get when you click anywhere</h2>
