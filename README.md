@@ -49,6 +49,7 @@ No Node, no bundler. Leaflet comes from cdnjs; weather from Open-Meteo; place na
 | `js/score/score.js` | variety x place scoring + reasons, picking date (days after bloom), rootstock advice |
 | `js/score/change.js`, `js/ui/growhere.js`, `js/climate/place.js` | how an apple changes in another climate; the place picker; one place's analysis (shared with the map) |
 | `tools/coverage_gaps.py` | which well-known apples are missing, from Wikipedia, Orange Pippin, the NFC and research collections -> `research/coverage-gaps.md` (decision 0007) |
+| `tools/heirloom_gaps.py` | the heirloom apples on the Temperate Orchard Conservancy, Pomiferous and EURISCO lists that are missing, checked against the old books -> `research/heirloom-gaps.md` (decision 0008) |
 | `library/` | public-domain pomology books (text committed, scans git-ignored); `tools/fetch_library.py` |
 | `data/historic/`, `data/evidence/`, `data/chemistry/`, `data/panel/`, `data/flavour_vocab.json`, `data/tastings.json` | flavour evidence (decision 0005); merged by `tools/flavour.py` during the build into `assets/flavour.json` |
 | `tools/flavour_audit.py` | writes `docs/flavour-audit.md` |

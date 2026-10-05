@@ -21,6 +21,9 @@ Individual agents' notes of conflicts between sources are kept inside each recor
 To check which well-known apples were missing (decision 0007), variety *names* were compared with Wikipedia's "List of
 apple cultivars" and its "Apple cultivars" category, Orange Pippin's A-Z index and the collections above; only names
 were used, and the downloaded lists are not redistributed (`cache/` is not in the repository).
+The heirloom check (decision 0008) compared names in the same way with the Temperate Orchard Conservancy's list of its
+Botner collection and Pomiferous (its "apples by use" lists). When EURISCO data is used it is credited as its terms
+require: EURISCO Catalogue, http://eurisco.ecpgr.org, with the date of consultation.
 
 ## Flavour evidence (decision 0005)
 * **Public-domain books** in `library/` (Hogg, the Herefordshire Pomona, Bunyard, Lindley, Beach, Downing, Warder, Ragan,

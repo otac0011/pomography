@@ -23,7 +23,13 @@ from import_chemistry import norm, norm_loose  # noqa: E402
 CACHE = os.path.join(ROOT, "cache", "coverage")
 CHEM = os.path.join(ROOT, "cache", "chem")
 UA = "Pomography/1.0 (https://otac0011.github.io/pomography/)"
-WEIGHT = {"wikipedia-article": 2, "wikipedia-list": 1, "orangepippin": 1, "nfc": 1, "abc": 1, "grin": 1, "refpop": 1}
+WEIGHT = {"wikipedia-article": 2, "wikipedia-list": 1, "orangepippin": 1, "nfc": 1, "abc": 1, "grin": 1, "refpop": 1,
+          "toc": 1, "pomiferous": 1, "eurisco": 1}
+# the heirloom lists (decision 0008): collections and databases that hold thousands of old apples
+HEIRLOOM = ("toc", "pomiferous", "eurisco")
+TOC_PDF = "https://www.temperateorchardconservancy.org/wp-content/uploads/BotnerAppleCollection.pdf"
+POM_USES = ("canning", "cider", "cooking", "culinary", "dessert", "eating", "jelly", "juice", "ornamental", "pie",
+            "pollinization", "sauce")
 
 
 def get(url, dest, pause=0):
@@ -64,6 +70,20 @@ def fetch():
     json.dump(sorted(titles), open(os.path.join(CACHE, "wiki-articles.json"), "w", encoding="utf-8"), indent=0)
     for L in "abcdefghijklmnopqrstuvwxyz":          # Orange Pippin rate-limits parallel requests: one every 3 s
         get("https://www.orangepippin.com/varieties/apples/" + L, os.path.join(CACHE, "op-%s.html" % L), pause=3)
+    get(TOC_PDF, os.path.join(CACHE, "toc-BotnerAppleCollection.pdf"))
+    # Pomiferous has no A-Z index; its twelve "apples by use" lists, 30 a page, one page every 2 s
+    os.makedirs(os.path.join(CACHE, "pomiferous"), exist_ok=True)
+    for use in POM_USES:
+        p = 1
+        while True:
+            dest = os.path.join(CACHE, "pomiferous", "%s-%d.html" % (use, p))
+            get("https://pomiferous.com/applebyuse/%s?page=%d" % (use, p), dest, pause=2)
+            last = max([int(x) for x in re.findall(r"page=(\d+)", open(dest, encoding="utf-8", errors="replace").read())] or [1])
+            if p >= last:
+                break
+            p += 1
+    # EURISCO is an Oracle APEX app without a plain download URL: export Malus domestica from the "Ex situ" search by hand
+    # (Taxonomy > Species "Malus domestica" > Accessions > Download) and save the CSV as cache/coverage/eurisco-malus.csv
     print("fetched; %d Wikipedia articles" % len(titles))
 
 
@@ -144,6 +164,47 @@ def collections():
     return out
 
 
+def heirloom_lists():
+    """Names from the Temperate Orchard Conservancy (Botner collection PDF), Pomiferous and EURISCO."""
+    out = {"toc": set(), "pomiferous": {}, "eurisco": set()}
+    f = os.path.join(CACHE, "toc-BotnerAppleCollection.pdf")
+    if os.path.exists(f):
+        import fitz
+        for page in fitz.open(f):
+            for blk in page.get_text("dict")["blocks"]:
+                for ln in blk.get("lines", []):
+                    t = re.sub(r"\s+", " ", "".join(s["text"] for s in ln["spans"])).strip()
+                    if t and not re.search(r"P a g e|Botner Collection|^[\d\s.()-]+$", t):
+                        out["toc"].add(t)
+    for f in glob.glob(os.path.join(CACHE, "pomiferous", "*.html")):
+        raw = open(f, "rb").read()
+        # each card: <h3 ...>Name</h3> ... the card's own "Learn more" link; some titles are Windows-1252, not UTF-8
+        for title, link, slug in re.findall(rb'<h3 class="text-lg[^>]*>\s*([^<]+?)\s*</h3>.*?applebyname/(([a-z0-9-]+)-id-\d+)" type="button"', raw, re.S):
+            try:
+                name = title.decode("utf-8")
+            except UnicodeDecodeError:
+                name = title.decode("cp1252", errors="replace")
+            name = re.sub(r"^R[FD]:\s*", "", html.unescape(name).strip())          # "RF:" = their red-flesh group
+            name = re.sub(r"\s*>{2,}.*$", "", name)                                 # "Northwood >>>>>cider"
+            name = re.sub("(\\w)�(s\\b)", r"\1'\2", name)
+            if "�" in name:                       # an accent lost on their side: the link slug spells it plainly
+                name = slug.decode().replace("-", " ").title()
+            out["pomiferous"][name] = "https://pomiferous.com/applebyname/" + link.decode()
+    f = os.path.join(CACHE, "eurisco-malus.csv")
+    if os.path.exists(f):
+        text = open(f, encoding="utf-8-sig", errors="replace").read()
+        rows = csv.DictReader(text.splitlines(), dialect=csv.Sniffer().sniff(text[:5000], delimiters=",;\t"))
+        for r in rows:
+            r = {k.strip().upper(): (v or "").strip() for k, v in r.items() if k}
+            status = r.get("SAMPSTAT") or r.get("BIOLOGICAL STATUS") or ""
+            if status and not re.match(r"^(3|4|5)\d\d|cultivar|landrace|breeding", status, re.I):
+                continue                         # wild material and unknowns are not cultivar names
+            for n in re.split(r"\s*;\s*", r.get("ACCENAME") or r.get("ACCESSION NAME") or ""):
+                if n and not re.match(r"^[\d\s/.-]+$", n):
+                    out["eurisco"].add(n)
+    return out
+
+
 SKIP = {
     "Starking": "a red sport of Red Delicious",
     "Goldspur Golden Delicious": "a spur sport of Golden Delicious",
@@ -165,7 +226,10 @@ PER_BATCH = 20
 
 
 def write_batches(missing):
-    pick = [m for m in missing if (m["score"] >= 4 or (m["score"] == 3 and "wikipedia-article" in m["sources"]))
+    # the 0007 rule, scored on the original lists only (the heirloom lists of 0008 have their own report)
+    for m in missing:
+        m["score0"] = sum(WEIGHT[s] for s in m["sources"] if s not in HEIRLOOM)
+    pick = [m for m in missing if (m["score0"] >= 4 or (m["score0"] == 3 and "wikipedia-article" in m["sources"]))
             and m["name"] not in SKIP]
     seen, items = set(), []
     for m in pick:
@@ -228,6 +292,9 @@ def main():
     for src, names in collections().items():
         for n in names:
             add(n, src)
+    for src, names in heirloom_lists().items():
+        for n in names:
+            add(n, src, url=names[n] if isinstance(names, dict) else None)
     # merge a candidate into another when one's synonym is the other's name
     for k, c in list(cand.items()):
         for a in c["aka"]:
@@ -264,7 +331,8 @@ def main():
     covered = {s: sum(1 for c in cand.values() if s in c["src"] and (ours(c["name"]) or any(ours(a) for a in c["aka"]))) for s in WEIGHT}
     json.dump({"lists": total_lists, "covered": covered, "missing": missing}, open(os.path.join(ROOT, "research", "coverage-gaps.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     L = ["# Coverage gaps\n", "Generated by `tools/coverage_gaps.py`. Score: Wikipedia article 2, each other list 1 "
-         "(Wikipedia list, Orange Pippin, National Fruit Collection, ABC, USDA Geneva, REFPOP).\n",
+         "(Wikipedia list, Orange Pippin, National Fruit Collection, ABC, USDA Geneva, REFPOP, and since decision 0008 "
+         "the Temperate Orchard Conservancy, Pomiferous and EURISCO; see research/heirloom-gaps.md for those).\n",
          "| List | names | already in the atlas |", "|---|---|---|"]
     L += ["| %s | %d | %d (%d%%) |" % (s, total_lists[s], covered[s], round(100 * covered[s] / max(1, total_lists[s]))) for s in WEIGHT]
     for lo, title in ((5, "Score 5+ (on most lists)"), (4, "Score 4"), (3, "Score 3")):
