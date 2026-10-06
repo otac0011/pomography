@@ -280,7 +280,8 @@
       "blush_cover": null,
       "stripes": null,
       "russet": null,
-      "description": "Medium, flat-round fruit coloured orange-red to red; white flesh often stained pink in well-coloured apples."
+      "description": "Medium, flat-round fruit coloured orange-red to red; white flesh often stained pink in well-coloured apples.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "A sharp cider apple: fresh, fruity acidity with little tannin. On its own it makes a lively but rather thin cider, so it is mostly blended with bittersweets.",

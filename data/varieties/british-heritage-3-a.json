@@ -286,7 +286,8 @@
       "blush_cover": 85,
       "stripes": false,
       "russet": 1,
-      "description": "Roundish, slightly ribbed fruit almost entirely covered in a dark crimson flush, near-black on the sunny side and under a whitish bloom; the flesh is stained red."
+      "description": "Roundish, slightly ribbed fruit almost entirely covered in a dark crimson flush, near-black on the sunny side and under a whitish bloom; the flesh is stained red.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Tender, juicy flesh streaked red, sweet but not especially rich; some writers call it pleasant, others almost flavourless, and Hogg noted a faint cider-like astringency. Valued more for its colour than its taste.",

@@ -1,618 +1,675 @@
 [
- {
-  "id": "jersey-black",
-  "name": "Jersey Black",
-  "aka": ["Black Apple", "Black Jersey", "Black American", "Dodge's Black"],
-  "uses": ["dessert", "cider"],
-  "origin": {
-   "country": "US",
-   "place": "New Jersey (probably)",
-   "year": 1817,
-   "year_note": "first recorded",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "An old American apple believed to come from New Jersey and recorded by 1817, once used for cider as well as eating. It is best known today as the second parent, with McIntosh, of Macoun.",
-  "look": {
-   "size": "large",
-   "shape": "round-flat",
-   "ground": "yellow-green",
-   "blush": "deep-red",
-   "blush_cover": 85,
-   "stripes": false,
-   "russet": 1,
-   "description": "Flattish, ribbed apple almost covered in a very dark brownish to blackish red flush with light russet dots."
-  },
-  "taste": {
-   "summary": "Sweet, white, rather coarse flesh, sometimes stained red, with mild acidity and a moderate aroma. Firm when picked but softens in store.",
-   "sweet": 4,
-   "acid": 2,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 3,
-   "tags": ["sweet", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Nov-Jan"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Tree details not well documented; National Fruit Collection trees are spreading to drooping."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
-  },
-  "season": {
-   "harvest": "mid Oct-late Oct",
-   "eating": "Nov-Jan",
-   "storage_weeks": 10
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The north-eastern United States and similar climates with warm summers and cold winters; also grown on the coast of British Columbia.",
-   "poor_climates": "Not well documented outside North America."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "Grown now mostly for its striking near-black colour and its place in Macoun's ancestry. Pick in October; it keeps a couple of months and suits cider blends as well as the fruit bowl.",
-  "conf": "medium"
- },
- {
-  "id": "jerseymac",
-  "name": "Jerseymac",
-  "aka": ["Jersey Mac"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "Rutgers University (New Jersey Agricultural Experiment Station), New Brunswick, New Jersey",
-   "year": 1956,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "N.J. 24 x Julyred",
-   "raised_by": "Rutgers University / New Jersey Agricultural Experiment Station"
-  },
-  "history": "Crossed at Rutgers in 1956, selected in 1961 and released in 1971-72 as an early-summer apple of McIntosh type.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 70,
-   "stripes": false,
-   "russet": 0,
-   "description": "Red apple, washed rather than striped, with greenish-yellow patches showing through."
-  },
-  "taste": {
-   "summary": "Tender, juicy, white flesh with a tart-sweet, McIntosh-like aromatic flavour; crisp when just picked but it softens and does not keep.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 4,
-   "tags": ["perfumed", "sharp"],
-   "cider_class": null,
-   "best_eaten": "Aug-Sep, straight from the tree"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": "heavy",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Heavy-cropping; flowers very early."
-  },
-  "pollination": {
-   "flower_group": 2,
-   "self_fertile": null,
-   "notes": "Among the earliest-blossoming apples at the National Fruit Collection (group 1-2), so it needs an early-flowering partner."
-  },
-  "season": {
-   "harvest": "late Aug-early Sep",
-   "eating": "Aug-Sep",
-   "storage_weeks": 3
-  },
-  "climate": {
-   "chill_hours": 800,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Raised for New Jersey's warm-summer climate as an early market apple.",
-   "poor_climates": "Its very early blossom is at risk in frost-prone sites."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": 1,
-   "bitter_pit": null,
-   "other": "Reported as very resistant to cedar-apple rust; poor keeping quality."
-  },
-  "grow_notes": "An early red eating apple best enjoyed from the tree. Avoid frost pockets because it flowers very early, and pair it with another early-blossoming variety.",
-  "conf": "medium"
- },
- {
-  "id": "john-standish",
-  "name": "John Standish",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "GB",
-   "place": "Ascot, Berkshire, England",
-   "year": 1873,
-   "year_note": "c.",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": "John Standish (believed)"
-  },
-  "history": "Thought to have been raised by the nurseryman John Standish at Ascot around 1873 and introduced by Isaac House in 1921; it gained an RHS Award of Merit in 1922. It is the seed parent of the apple Eden.",
-  "look": {
-   "size": "medium",
-   "shape": "round-flat",
-   "ground": "cream",
-   "blush": "red",
-   "blush_cover": 80,
-   "stripes": true,
-   "russet": 0,
-   "description": "Neat, flat-round apple heavily flushed and striped bright red over pale yellow."
-  },
-  "taste": {
-   "summary": "Very firm, fine-grained, juicy flesh with a refreshing, moderately sharp flavour and middling aroma.",
-   "sweet": 3,
-   "acid": 4,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 3,
-   "tags": ["sharp"],
-   "cider_class": null,
-   "best_eaten": "Dec-Feb"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Tree details not documented; National Fruit Collection trees are spreading to drooping."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Dec-Feb",
-   "storage_weeks": 16
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Southern England, where it was raised.",
-   "poor_climates": "No documented performance outside Britain."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "A good-looking late dessert apple for English gardens. Pick in mid October and store until midwinter.",
-  "conf": "low"
- },
- {
-  "id": "jonalicious",
-  "name": "Jonalicious",
-  "aka": [],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "US",
-   "place": "Abilene, Texas",
-   "year": 1933,
-   "year_note": "",
-   "kind": "chance",
-   "parentage": "Believed Jonathan x Red Delicious",
-   "raised_by": "Anna Morris Daniels (finder)"
-  },
-  "history": "A seedling found in 1933 by Anna Morris Daniels at Abilene, Texas, and introduced by Stark Bros. in 1960. It is thought to be a Jonathan x Red Delicious cross.",
-  "look": {
-   "size": "large",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 70,
-   "stripes": false,
-   "russet": 0,
-   "description": "Large, bright red apple mottled over a yellow ground."
-  },
-  "taste": {
-   "summary": "Firm, crisp, juicy cream flesh joining Delicious-style sweetness to Jonathan's tang, with an aromatic finish.",
-   "sweet": 4,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Nov-Jan"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Average vigour."
-  },
-  "pollination": {
-   "flower_group": 6,
-   "self_fertile": "no",
-   "notes": "Late-flowering: National Fruit Collection blossom dates point to group 6, while Orange Pippin lists group 5."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Jan",
-   "storage_weeks": 12
-  },
-  "climate": {
-   "chill_hours": 700,
-   "hardiness_zone": 5,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Found in west Texas, so it copes with hot summers and moderate winters; also grown in cooler temperate climates.",
-   "poor_climates": "Not well documented; very short or cool seasons may not ripen it fully."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Rated average for disease resistance; no specific weaknesses recorded."
-  },
-  "grow_notes": "A good keeper for warmer districts. It flowers late, so choose a late-blossoming pollinator.",
-  "conf": "medium"
- },
- {
-  "id": "jubilee",
-  "name": "Jubilee",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "CA",
-   "place": "Dominion Experimental Farm (later Summerland Research Station), Summerland, British Columbia",
-   "year": 1926,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "McIntosh x Grimes Golden",
-   "raised_by": "R. C. Palmer"
-  },
-  "history": "Crossed by R. C. Palmer at Summerland in 1926, selected in 1936 and released in 1939. Not to be confused with the French Delbard Jubilee or the English Royal Jubilee; Orange Pippin also uses the name for a Fuji sport.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 60,
-   "stripes": false,
-   "russet": 0,
-   "description": "McIntosh-shaped, somewhat irregular apple flushed red over greenish yellow with prominent lenticels."
-  },
-  "taste": {
-   "summary": "Creamy, crisp, fine-grained, juicy flesh with a sweetish sweet-tart balance when fresh; like McIntosh it loses its crunch and flavour in store.",
-   "sweet": 4,
-   "acid": 3,
-   "aroma": null,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "sharp"],
-   "cider_class": null,
-   "best_eaten": "Oct-Dec, soon after picking"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Tree details not documented."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Flowering group not published."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Oct-Jan",
-   "storage_weeks": 10
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Raised for the dry, sunny Okanagan valley of British Columbia, with hot days, cool nights and cold winters.",
-   "poor_climates": "Not documented outside western Canada."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found; storage quality declines like McIntosh."
-  },
-  "grow_notes": "A late McIntosh-family apple from Summerland. Pick about three weeks after McIntosh and eat in the first months after harvest.",
-  "conf": "low"
- },
- {
-  "id": "kandil-sinap",
-  "name": "Kandil Sinap",
-  "aka": ["Candil Sinap", "Kandile", "Sinap Kandille"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "UA",
-   "place": "Crimea",
-   "year": 1800,
-   "year_note": "c.",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "Thought to have arisen in Crimea in the early nineteenth century; some sources link it to Turkey. It is famous for its exceptionally tall, narrow, almost cylindrical shape.",
-  "look": {
-   "size": "medium",
-   "shape": "oblong",
-   "ground": "cream",
-   "blush": "red",
-   "blush_cover": 50,
-   "stripes": true,
-   "russet": 0,
-   "description": "Strikingly tall, slim, cylindrical apple with smooth, porcelain-like creamy yellow skin flushed and striped red."
-  },
-  "taste": {
-   "summary": "Crisp, juicy, fine-textured, snow-white flesh that is sweet with refreshing acidity and a slightly winey, perfumed flavour.",
-   "sweet": 4,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "wine", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Nov-Feb"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "upright",
-   "bearing": "spur",
-   "cropping": "heavy",
-   "biennial": "none",
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Upright, regular and heavy-cropping spur bearer."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": "no",
-   "notes": "Mid-season blossom (group 3)."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Feb",
-   "storage_weeks": 14
-  },
-  "climate": {
-   "chill_hours": 800,
-   "hardiness_zone": 6,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Warm-summer climates such as its Black Sea homeland; listed for zones 6-9 and also succeeds in coastal British Columbia.",
-   "poor_climates": "Not recommended for very cold-winter regions."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No specific weaknesses documented."
-  },
-  "grow_notes": "A conversation piece with genuinely good flavour. Give it a warm, sunny site, pick in mid October and store for winter eating.",
-  "conf": "medium"
- },
- {
-  "id": "king-cole",
-  "name": "King Cole",
-  "aka": ["R. G. Cole's Champion", "Cole"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "AU",
-   "place": "Lang Lang, Victoria",
-   "year": 1912,
-   "year_note": "first recorded",
-   "kind": "unknown",
-   "parentage": "Believed Jonathan x Dutch Mignonne",
-   "raised_by": "R. G. Cole"
-  },
-  "history": "Raised by R. G. Cole at Lang Lang in Victoria, Australia, and first shown in 1912. It is believed to be a Jonathan x Dutch Mignonne cross.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 60,
-   "stripes": true,
-   "russet": 1,
-   "description": "Smooth-skinned apple with a bright, Jonathan-like red flush and stripes over greenish yellow, with the odd russet patch."
-  },
-  "taste": {
-   "summary": "Firm, fine-grained, greenish-white flesh with a brisk, moderately sharp flavour and modest aroma.",
-   "sweet": 3,
-   "acid": 4,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 3,
-   "tags": ["sharp"],
-   "cider_class": null,
-   "best_eaten": "Dec-Feb"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Tree details not documented; National Fruit Collection trees have a drooping habit."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Dec-Feb",
-   "storage_weeks": 18
-  },
-  "climate": {
-   "chill_hours": 800,
-   "hardiness_zone": 6,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Raised in southern Victoria's mild temperate climate; also fruits in south-east England.",
-   "poor_climates": "No documented performance in very cold or very hot regions."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "A late-keeping Australian dessert apple. Pick in mid October; in a cool store it lasts well into the new year.",
-  "conf": "low"
- },
- {
-  "id": "linda",
-  "name": "Linda",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "CA",
-   "place": "Central Experimental Farm, Ottawa, Ontario",
-   "year": 1908,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Langford Beauty x unknown (open-pollinated)",
-   "raised_by": "Central Experimental Farm, Ottawa"
-  },
-  "history": "A Langford Beauty seedling from the Central Experimental Farm in Ottawa that first fruited in 1908, was selected in 1914 and introduced around 1925. It is a parent of Karmen and Lindel.",
-  "look": {
-   "size": "large",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "crimson",
-   "blush_cover": 50,
-   "stripes": true,
-   "russet": 1,
-   "description": "Large, rounded pale yellow apple with a deep carmine flush and stripes."
-  },
-  "taste": {
-   "summary": "Fine, tender, juicy white flesh that is fairly sweet with gentle acidity and some aroma; one grower notes a strawberry-like flavour. The NFC panel found it rather acid and soft.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 4,
-   "tags": ["sweet", "perfumed", "strawberry"],
-   "cider_class": null,
-   "best_eaten": "Sep-Nov"
-  },
-  "tree": {
-   "vigor": 4,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Vigorous tree; National Fruit Collection trees have a drooping habit."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are early mid-season (about group 2-3)."
-  },
-  "season": {
-   "harvest": "late Sep",
-   "eating": "Sep-Nov",
-   "storage_weeks": 6
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Bred for the cold winters of eastern Ontario; also grown in coastal British Columbia.",
-   "poor_climates": "Not documented in hot-summer regions."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found; short storage life."
-  },
-  "grow_notes": "A hardy Canadian autumn apple. Allow room for a vigorous tree and eat the crop within a couple of months of picking.",
-  "conf": "medium"
- }
+  {
+    "id": "jersey-black",
+    "name": "Jersey Black",
+    "aka": [
+      "Black Apple",
+      "Black Jersey",
+      "Black American",
+      "Dodge's Black"
+    ],
+    "uses": [
+      "dessert",
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New Jersey (probably)",
+      "year": 1817,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old American apple believed to come from New Jersey and recorded by 1817, once used for cider as well as eating. It is best known today as the second parent, with McIntosh, of Macoun.",
+    "look": {
+      "size": "large",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 85,
+      "stripes": false,
+      "russet": 1,
+      "description": "Flattish, ribbed apple almost covered in a very dark brownish to blackish red flush with light russet dots.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Sweet, white, rather coarse flesh, sometimes stained red, with mild acidity and a moderate aroma. Firm when picked but softens in store.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not well documented; National Fruit Collection trees are spreading to drooping."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct-late Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The north-eastern United States and similar climates with warm summers and cold winters; also grown on the coast of British Columbia.",
+      "poor_climates": "Not well documented outside North America."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "Grown now mostly for its striking near-black colour and its place in Macoun's ancestry. Pick in October; it keeps a couple of months and suits cider blends as well as the fruit bowl.",
+    "conf": "medium"
+  },
+  {
+    "id": "jerseymac",
+    "name": "Jerseymac",
+    "aka": [
+      "Jersey Mac"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Rutgers University (New Jersey Agricultural Experiment Station), New Brunswick, New Jersey",
+      "year": 1956,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "N.J. 24 x Julyred",
+      "raised_by": "Rutgers University / New Jersey Agricultural Experiment Station"
+    },
+    "history": "Crossed at Rutgers in 1956, selected in 1961 and released in 1971-72 as an early-summer apple of McIntosh type.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Red apple, washed rather than striped, with greenish-yellow patches showing through."
+    },
+    "taste": {
+      "summary": "Tender, juicy, white flesh with a tart-sweet, McIntosh-like aromatic flavour; crisp when just picked but it softens and does not keep.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Heavy-cropping; flowers very early."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Among the earliest-blossoming apples at the National Fruit Collection (group 1-2), so it needs an early-flowering partner."
+    },
+    "season": {
+      "harvest": "late Aug-early Sep",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for New Jersey's warm-summer climate as an early market apple.",
+      "poor_climates": "Its very early blossom is at risk in frost-prone sites."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": 1,
+      "bitter_pit": null,
+      "other": "Reported as very resistant to cedar-apple rust; poor keeping quality."
+    },
+    "grow_notes": "An early red eating apple best enjoyed from the tree. Avoid frost pockets because it flowers very early, and pair it with another early-blossoming variety.",
+    "conf": "medium"
+  },
+  {
+    "id": "john-standish",
+    "name": "John Standish",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Ascot, Berkshire, England",
+      "year": 1873,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "John Standish (believed)"
+    },
+    "history": "Thought to have been raised by the nurseryman John Standish at Ascot around 1873 and introduced by Isaac House in 1921; it gained an RHS Award of Merit in 1922. It is the seed parent of the apple Eden.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 0,
+      "description": "Neat, flat-round apple heavily flushed and striped bright red over pale yellow."
+    },
+    "taste": {
+      "summary": "Very firm, fine-grained, juicy flesh with a refreshing, moderately sharp flavour and middling aroma.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not documented; National Fruit Collection trees are spreading to drooping."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Southern England, where it was raised.",
+      "poor_climates": "No documented performance outside Britain."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A good-looking late dessert apple for English gardens. Pick in mid October and store until midwinter.",
+    "conf": "low"
+  },
+  {
+    "id": "jonalicious",
+    "name": "Jonalicious",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Abilene, Texas",
+      "year": 1933,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Believed Jonathan x Red Delicious",
+      "raised_by": "Anna Morris Daniels (finder)"
+    },
+    "history": "A seedling found in 1933 by Anna Morris Daniels at Abilene, Texas, and introduced by Stark Bros. in 1960. It is thought to be a Jonathan x Red Delicious cross.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, bright red apple mottled over a yellow ground."
+    },
+    "taste": {
+      "summary": "Firm, crisp, juicy cream flesh joining Delicious-style sweetness to Jonathan's tang, with an aromatic finish.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour."
+    },
+    "pollination": {
+      "flower_group": 6,
+      "self_fertile": "no",
+      "notes": "Late-flowering: National Fruit Collection blossom dates point to group 6, while Orange Pippin lists group 5."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Found in west Texas, so it copes with hot summers and moderate winters; also grown in cooler temperate climates.",
+      "poor_climates": "Not well documented; very short or cool seasons may not ripen it fully."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Rated average for disease resistance; no specific weaknesses recorded."
+    },
+    "grow_notes": "A good keeper for warmer districts. It flowers late, so choose a late-blossoming pollinator.",
+    "conf": "medium"
+  },
+  {
+    "id": "jubilee",
+    "name": "Jubilee",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Dominion Experimental Farm (later Summerland Research Station), Summerland, British Columbia",
+      "year": 1926,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "McIntosh x Grimes Golden",
+      "raised_by": "R. C. Palmer"
+    },
+    "history": "Crossed by R. C. Palmer at Summerland in 1926, selected in 1936 and released in 1939. Not to be confused with the French Delbard Jubilee or the English Royal Jubilee; Orange Pippin also uses the name for a Fuji sport.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": false,
+      "russet": 0,
+      "description": "McIntosh-shaped, somewhat irregular apple flushed red over greenish yellow with prominent lenticels."
+    },
+    "taste": {
+      "summary": "Creamy, crisp, fine-grained, juicy flesh with a sweetish sweet-tart balance when fresh; like McIntosh it loses its crunch and flavour in store.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec, soon after picking"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not documented."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowering group not published."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Oct-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised for the dry, sunny Okanagan valley of British Columbia, with hot days, cool nights and cold winters.",
+      "poor_climates": "Not documented outside western Canada."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found; storage quality declines like McIntosh."
+    },
+    "grow_notes": "A late McIntosh-family apple from Summerland. Pick about three weeks after McIntosh and eat in the first months after harvest.",
+    "conf": "low"
+  },
+  {
+    "id": "kandil-sinap",
+    "name": "Kandil Sinap",
+    "aka": [
+      "Candil Sinap",
+      "Kandile",
+      "Sinap Kandille"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "UA",
+      "place": "Crimea",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "Thought to have arisen in Crimea in the early nineteenth century; some sources link it to Turkey. It is famous for its exceptionally tall, narrow, almost cylindrical shape.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Strikingly tall, slim, cylindrical apple with smooth, porcelain-like creamy yellow skin flushed and striped red."
+    },
+    "taste": {
+      "summary": "Crisp, juicy, fine-textured, snow-white flesh that is sweet with refreshing acidity and a slightly winey, perfumed flavour.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "wine",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Feb"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Upright, regular and heavy-cropping spur bearer."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season blossom (group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Feb",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Warm-summer climates such as its Black Sea homeland; listed for zones 6-9 and also succeeds in coastal British Columbia.",
+      "poor_climates": "Not recommended for very cold-winter regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No specific weaknesses documented."
+    },
+    "grow_notes": "A conversation piece with genuinely good flavour. Give it a warm, sunny site, pick in mid October and store for winter eating.",
+    "conf": "medium"
+  },
+  {
+    "id": "king-cole",
+    "name": "King Cole",
+    "aka": [
+      "R. G. Cole's Champion",
+      "Cole"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "AU",
+      "place": "Lang Lang, Victoria",
+      "year": 1912,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": "Believed Jonathan x Dutch Mignonne",
+      "raised_by": "R. G. Cole"
+    },
+    "history": "Raised by R. G. Cole at Lang Lang in Victoria, Australia, and first shown in 1912. It is believed to be a Jonathan x Dutch Mignonne cross.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Smooth-skinned apple with a bright, Jonathan-like red flush and stripes over greenish yellow, with the odd russet patch."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained, greenish-white flesh with a brisk, moderately sharp flavour and modest aroma.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 3,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Dec-Feb"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not documented; National Fruit Collection trees have a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Dec-Feb",
+      "storage_weeks": 18
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 6,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Raised in southern Victoria's mild temperate climate; also fruits in south-east England.",
+      "poor_climates": "No documented performance in very cold or very hot regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A late-keeping Australian dessert apple. Pick in mid October; in a cool store it lasts well into the new year.",
+    "conf": "low"
+  },
+  {
+    "id": "linda",
+    "name": "Linda",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Central Experimental Farm, Ottawa, Ontario",
+      "year": 1908,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Langford Beauty x unknown (open-pollinated)",
+      "raised_by": "Central Experimental Farm, Ottawa"
+    },
+    "history": "A Langford Beauty seedling from the Central Experimental Farm in Ottawa that first fruited in 1908, was selected in 1914 and introduced around 1925. It is a parent of Karmen and Lindel.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "crimson",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Large, rounded pale yellow apple with a deep carmine flush and stripes."
+    },
+    "taste": {
+      "summary": "Fine, tender, juicy white flesh that is fairly sweet with gentle acidity and some aroma; one grower notes a strawberry-like flavour. The NFC panel found it rather acid and soft.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "perfumed",
+        "strawberry"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Vigorous tree; National Fruit Collection trees have a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are early mid-season (about group 2-3)."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 6
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred for the cold winters of eastern Ontario; also grown in coastal British Columbia.",
+      "poor_climates": "Not documented in hot-summer regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found; short storage life."
+    },
+    "grow_notes": "A hardy Canadian autumn apple. Allow room for a vigorous tree and eat the crop within a couple of months of picking.",
+    "conf": "medium"
+  }
 ]

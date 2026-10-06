@@ -198,7 +198,8 @@
       "blush_cover": 90,
       "stripes": true,
       "russet": 1,
-      "description": "Large, strongly ribbed conical fruit almost entirely covered in bright to purplish blood-red, with darker streaks."
+      "description": "Large, strongly ribbed conical fruit almost entirely covered in bright to purplish blood-red, with darker streaks.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Crisp, rather dry flesh streaked pink near the skin, with a mild but sweet flavour some compare to Red Delicious; one grower notices a raspberry hint in sun-ripened fruit, though Orange Pippin classes its style as sharper. The skin is tough, and it makes a striking dark pink sauce or juice.",

@@ -194,7 +194,8 @@
       "blush_cover": 60,
       "stripes": true,
       "russet": 1,
-      "description": "Flattish, rather small-to-medium apple, pale greenish-yellow flushed and streaked bright red; the white flesh is often stained pink under the skin."
+      "description": "Flattish, rather small-to-medium apple, pale greenish-yellow flushed and streaked bright red; the white flesh is often stained pink under the skin.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Soft, very juicy flesh with a sharp, refreshing bite that turns sweeter if eaten the moment it ripens. It has a distinctive early-summer tang but goes mealy within a day or two of picking.",

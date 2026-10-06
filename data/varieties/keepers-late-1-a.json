@@ -614,7 +614,8 @@
       "blush_cover": 80,
       "stripes": false,
       "russet": 0,
-      "description": "Rounded, medium-to-large fruit almost covered by a mottled red flush over pale cream-yellow; the flesh is tinged pink."
+      "description": "Rounded, medium-to-large fruit almost covered by a mottled red flush over pale cream-yellow; the flesh is tinged pink.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Sweet, crisp and firm but rather dry, with pinkish flesh.",

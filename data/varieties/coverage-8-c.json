@@ -126,7 +126,8 @@
       "blush_cover": 90,
       "stripes": false,
       "russet": 1,
-      "description": "Rounded apple washed purple-red to dark red with a bluish bloom and many conspicuous pale star-shaped lenticels."
+      "description": "Rounded apple washed purple-red to dark red with a bluish bloom and many conspicuous pale star-shaped lenticels.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Firm, fine, rather dry white flesh, sometimes pink-tinged under the skin, with a mild sweet-sour flavour and a faint perfume. Generally rated more beautiful than tasty; it goes mealy by mid-winter.",

@@ -71,7 +71,13 @@ export function renderMap(app, regionId, params) {
   legend.addTo(map);
   updateLegend();
   map.on('click', e => { const h = document.getElementById('maphint'); if (h) h.classList.add('quiet'); selectPoint(e.latlng.lat, e.latlng.lng); });
-  offFavs = onFavs(() => { drawSide(); recolour(); updateLegend(); if (sel) renderPanel(); });
+  offFavs = onFavs(() => {
+    drawSide(); recolour(); updateLegend();
+    if (!sel) return;
+    // on "Best here" only the hearts change: redrawing would lose the scroll position in a long list
+    if (tab === 'best') document.querySelectorAll('[data-pfav]').forEach(b => { const on = isFav(b.dataset.pfav); b.classList.toggle('on', on); b.textContent = on ? '♥' : '♡'; b.title = (on ? 'Remove from' : 'Add to') + ' favourites'; });
+    else renderPanel();
+  });
   setTimeout(() => map && map.invalidateSize(), 60);
   if (regionId) {
     if (regionId.startsWith('@')) { const [la, lo] = regionId.slice(1).split(',').map(Number); if (isFinite(la) && isFinite(lo)) { map.setView([la, lo], 6); selectPoint(la, lo); } }
@@ -269,21 +275,58 @@ function pollNote(favs) {
   return `<p class="tiny muted" style="margin-top:12px">Pollination is separate from climate &mdash; check <a href="#/favourites">your favourites page</a> to see whether your picks flower together.</p>`;
 }
 
+// "Best here" kinds: by date of introduction (heirloom = before 1950, the usual cut-off; apples with no recorded date are
+// in neither), by skin (russet 2+ = heavy patches or fully russeted) and by flesh colour (look.flesh_colour, decision 0010)
+const KINDS = [
+  ['', 'All kinds', () => true],
+  ['heirloom', 'Heirloom (before 1950)', v => v.origin.year != null && v.origin.year < 1950],
+  ['modern', 'Modern (1950 on)', v => v.origin.year != null && v.origin.year >= 1950],
+  ['russet', 'Russeted', v => (v.look.russet || 0) >= 2],
+  ['redflesh', 'Red flesh', v => v.look.flesh_colour === 'red'],
+  ['tinged', 'Red or pink-tinged flesh', v => !!v.look.flesh_colour],
+];
+const PAGE = 20;
+const bestState = { keepers: false, use: '', kind: '', by: 'both' };      // kept while you click around the map
 function tBest(body) {
-  const st = { keepers: false, use: '', by: 'both' };
+  const st = bestState;
+  let io = null;
+  const favBtn = v => `<button class="fav ${isFav(v.id) ? 'on' : ''}" style="position:static" data-pfav="${esc(v.id)}" aria-label="Toggle favourite" title="${isFav(v.id) ? 'Remove from' : 'Add to'} favourites">${isFav(v.id) ? '♥' : '♡'}</button>`;
   const draw = () => {
-    let list = S.data.varieties.filter(v => (!st.keepers || v.keepers.listed) && (!st.use || v.uses.includes(st.use)));
+    if (io) io.disconnect();
+    const kind = KINDS.find(k => k[0] === st.kind)[2];
+    const list = S.data.varieties.filter(v => (!st.keepers || v.keepers.listed) && (!st.use || v.uses.includes(st.use)) && kind(v));
     const ranked = rankVarieties(list, sel.F, S.ctx, st.by);
+    let shown = 0;
     body.innerHTML = `<div class="row" style="margin-bottom:8px"><select id="useSel" aria-label="Use"><option value="">All uses</option>${['dessert', 'culinary', 'cider', 'crab'].map(u => `<option value="${u}" ${st.use === u ? 'selected' : ''}>${u}</option>`).join('')}</select>
+      <select id="kindSel" aria-label="Kind of apple">${KINDS.map(([k, l]) => `<option value="${k}" ${st.kind === k ? 'selected' : ''}>${l}</option>`).join('')}</select>
       <select id="bySel" aria-label="Sort by">${[['both', 'Sort: climate and disease'], ['climate', 'Sort: climate only'], ['disease', 'Sort: disease only']].map(([k, l]) => `<option value="${k}" ${st.by === k ? 'selected' : ''}>${l}</option>`).join('')}</select>
       <label class="chk small"><input type="checkbox" id="kOnly" ${st.keepers ? 'checked' : ''}> Keepers range only</label></div>
-      <p class="small muted">Top ${Math.min(20, ranked.length)} of ${ranked.length} varieties here${st.by === 'both' ? ', ranked by the lower of their two scores' : st.by === 'climate' ? ', ranked by climate alone' : ', ranked by disease alone'}. Tap for reasons.</p>
-      ${ranked.slice(0, 20).map(({ v, s }) => scoreRow(v, s, `<button class="fav ${isFav(v.id) ? 'on' : ''}" style="position:static" data-pfav="${esc(v.id)}" aria-label="Toggle favourite" title="${isFav(v.id) ? 'Remove from' : 'Add to'} favourites">${isFav(v.id) ? '♥' : '♡'}</button>`)).join('')}
-      <details style="margin-top:14px"><summary class="small">Least suited here</summary>${ranked.slice(-6).reverse().map(({ v, s }) => scoreRow(v, s)).join('')}</details>`;
+      <p class="small muted">${ranked.length} varieties${st.kind ? ' of this kind' : ''}, ${st.by === 'both' ? 'ranked by the lower of their two scores' : st.by === 'climate' ? 'ranked by climate alone' : 'ranked by disease alone'}. Tap a row for reasons; keep scrolling for more.</p>
+      ${ranked.length ? '' : '<div class="note">No apples in the atlas match these choices.</div>'}
+      <div id="bestRows"></div>
+      <div id="bestMore" class="more-row"></div>`;
+    const rowsEl = body.querySelector('#bestRows'), more = body.querySelector('#bestMore');
+    const addPage = () => {
+      const next = ranked.slice(shown, shown + PAGE);
+      if (!next.length) return;
+      const tmp = document.createElement('div');
+      tmp.innerHTML = next.map(({ v, s }, i) => scoreRow(v, s, `<span class="rank tiny muted">${shown + i + 1}</span>` + favBtn(v))).join('');
+      wireRows(tmp);
+      rowsEl.append(...tmp.childNodes);
+      shown += next.length;
+      more.innerHTML = shown < ranked.length ? `<button class="btn sm" data-more>Show ${Math.min(PAGE, ranked.length - shown)} more (${shown} of ${ranked.length})</button>` : (ranked.length > PAGE ? `<span class="tiny muted">All ${ranked.length} shown.</span>` : '');
+      const mb = more.querySelector('[data-more]'); if (mb) mb.onclick = addPage;
+    };
+    addPage();
+    // keep loading as the end of the list scrolls into view (the button stays as a fallback)
+    if ('IntersectionObserver' in window) {
+      io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting) && shown < ranked.length) addPage(); }, { rootMargin: '200px' });
+      io.observe(more);
+    }
     body.querySelector('#useSel').onchange = e => { st.use = e.target.value; draw(); };
+    body.querySelector('#kindSel').onchange = e => { st.kind = e.target.value; draw(); };
     body.querySelector('#kOnly').onchange = e => { st.keepers = e.target.checked; draw(); };
     body.querySelector('#bySel').onchange = e => { st.by = e.target.value; draw(); };
-    wireRows(body);
   };
   draw();
 }

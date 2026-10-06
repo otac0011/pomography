@@ -35,6 +35,7 @@ for lists. Never guess to fill a gap. Set `conf` to say how well-documented the 
     "blush_cover": 70,               // integer 0-100, % of skin covered by blush colour
     "stripes": true,                 // blush is streaked/striped rather than solid
     "russet": 1,                     // 0 none | 1 dots/patches | 2 heavy patches | 3 fully russeted
+    "flesh_colour": null,            // optional: "red" = red/pink flesh right through | "tinged" = stained pink/red under the skin
     "description": "short phrase on the fruit's appearance, own words"
   },
   "taste": {

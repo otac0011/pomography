@@ -293,7 +293,8 @@
       "blush_cover": 80,
       "stripes": true,
       "russet": 0,
-      "description": "Medium, flattish fruit washed and streaked deep crimson over pale green-yellow, with a bluish waxy bloom."
+      "description": "Medium, flattish fruit washed and streaked deep crimson over pale green-yellow, with a bluish waxy bloom.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Juicy, crisp white flesh, often tinged red, with a brisk tart flavour and some aroma. Good eaten straight from the tree but goes mealy within days; best known as a sauce and pie apple.",

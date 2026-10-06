@@ -376,7 +376,8 @@
       "blush_cover": 30,
       "stripes": false,
       "russet": 0,
-      "description": "Medium, conical fruit with translucent creamy pale green-yellow skin, a soft pink blush and striking bright pink flesh; the blossom is also pink."
+      "description": "Medium, conical fruit with translucent creamy pale green-yellow skin, a soft pink blush and striking bright pink flesh; the blossom is also pink.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Crisp, juicy, bright pink flesh with a very tart flavour lifted by just enough sweetness; tasters compare it to pink grapefruit or sweet lemonade, and one notes a touch of tannin. Almost a cooker in acidity, it makes attractive pink sauce and juice but keeps only two to three weeks.",

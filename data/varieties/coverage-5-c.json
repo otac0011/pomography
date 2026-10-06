@@ -1,310 +1,328 @@
 [
- {
-  "id": "burgundy",
-  "name": "Burgundy",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
-   "year": 1974,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Sources differ: Macoun x Monroe (National Fruit Collection) or Monroe x (Macoun x Antonovka) (Orange Pippin)",
-   "raised_by": "New York State Agricultural Experiment Station"
+  {
+    "id": "burgundy",
+    "name": "Burgundy",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
+      "year": 1974,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Sources differ: Macoun x Monroe (National Fruit Collection) or Monroe x (Macoun x Antonovka) (Orange Pippin)",
+      "raised_by": "New York State Agricultural Experiment Station"
+    },
+    "history": "A very dark red early-autumn apple from the Geneva, New York breeding programme, introduced in 1974.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": null,
+      "blush": "deep-red",
+      "blush_cover": 95,
+      "stripes": false,
+      "russet": 0,
+      "description": "Large, round, glossy fruit almost covered in a deep, nearly black-red flush.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Crisp, sweet, subacid flesh that is often stained pink and browns quickly when cut. It does not keep: within weeks it softens and loses quality.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, straight from the tree"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, regular-bearing spur type; fruit hangs on the tree for about three weeks after ripening."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Brogdale dates put it in group 4; Orange Pippin lists group 3. A good pollinator for others."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold-winter, cool-to-warm summer regions like upstate New York.",
+      "poor_climates": "Humid, fire-blight-prone areas."
+    },
+    "health": {
+      "scab": 4,
+      "canker": null,
+      "mildew": 4,
+      "fire_blight": 5,
+      "rust": 4,
+      "bitter_pit": null,
+      "other": "Poor disease resistance overall: scab, powdery mildew and cedar-apple rust, and very susceptible to fire blight."
+    },
+    "grow_notes": "Best for home growers who can spray and who will eat the fruit fresh within a few weeks. Avoid areas with heavy fire-blight pressure.",
+    "conf": "medium"
   },
-  "history": "A very dark red early-autumn apple from the Geneva, New York breeding programme, introduced in 1974.",
-  "look": {
-   "size": "large",
-   "shape": "round",
-   "ground": null,
-   "blush": "deep-red",
-   "blush_cover": 95,
-   "stripes": false,
-   "russet": 0,
-   "description": "Large, round, glossy fruit almost covered in a deep, nearly black-red flush."
+  {
+    "id": "bushey-grove",
+    "name": "Bushey Grove",
+    "aka": [],
+    "uses": [
+      "culinary"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Bushey Grove, Bushey, Hertfordshire, England",
+      "year": 1897,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Queen x Bismarck (both parents uncertain)",
+      "raised_by": "Good family of Bushey Grove (NFC names Mrs Good; Orange Pippin J.T. Good)"
+    },
+    "history": "Raised in 1897 at Bushey Grove in Hertfordshire and introduced around 1926 by G.W. King of Sidcup, Kent. It received an RHS Award of Merit in 1922.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": true,
+      "russet": null,
+      "description": "Medium to large, broadly conical fruit, greenish yellow with red stripes."
+    },
+    "taste": {
+      "summary": "Very soft, coarse, very juicy flesh with a sharp acidity; a cooker that cooks well.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": 1,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 5,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov, for cooking"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Vigorous, heavy-cropping tree with attractive blossom; spreading to drooping habit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season flowering (group 3)."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "South-east English conditions like its Hertfordshire home, ideally on a dry, airy site.",
+      "poor_climates": "Wet, humid areas where scab is severe."
+    },
+    "health": {
+      "scab": 5,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very prone to apple scab."
+    },
+    "grow_notes": "A heavy-cropping early cooker; give it an open, airy position and clear fallen leaves to keep scab down.",
+    "conf": "medium"
   },
-  "taste": {
-   "summary": "Crisp, sweet, subacid flesh that is often stained pink and browns quickly when cut. It does not keep: within weeks it softens and loses quality.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 4,
-   "tags": ["sweet"],
-   "cider_class": null,
-   "best_eaten": "Sep-Oct, straight from the tree"
+  {
+    "id": "carlton",
+    "name": "Carlton",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
+      "year": 1912,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Autumn Bough x Red Astrachan per the National Fruit Collection (Montgomery x Red Astrachan is also reported)",
+      "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
+    },
+    "history": "Raised in 1912 by Richard Wellington at Geneva, New York, and introduced in 1923 as a late-summer red apple. It is a parent of Niagara and Redhook.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium to large, conical, ribbed fruit, dull yellowish green flushed brownish red and streaked brighter red, with russet dots."
+    },
+    "taste": {
+      "summary": "Firm, fine flesh with a subacid flavour leaning slightly acid; low in aroma. A summer apple for eating soon after picking.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 3,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Aug-Sep"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Spreading habit at Brogdale; little other data."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "Flowers early at Brogdale (about group 2)."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold-winter north-eastern US conditions like upstate New York.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease data found."
+    },
+    "grow_notes": "A late-summer eating apple for collections; plant with an early-flowering partner and use the fruit promptly.",
+    "conf": "low"
   },
-  "tree": {
-   "vigor": 4,
-   "habit": null,
-   "bearing": "spur",
-   "cropping": "heavy",
-   "biennial": "none",
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Vigorous, regular-bearing spur type; fruit hangs on the tree for about three weeks after ripening."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": "no",
-   "notes": "Brogdale dates put it in group 4; Orange Pippin lists group 3. A good pollinator for others."
-  },
-  "season": {
-   "harvest": "mid Sep-late Sep",
-   "eating": "Sep-Oct",
-   "storage_weeks": 3
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cold-winter, cool-to-warm summer regions like upstate New York.",
-   "poor_climates": "Humid, fire-blight-prone areas."
-  },
-  "health": {
-   "scab": 4,
-   "canker": null,
-   "mildew": 4,
-   "fire_blight": 5,
-   "rust": 4,
-   "bitter_pit": null,
-   "other": "Poor disease resistance overall: scab, powdery mildew and cedar-apple rust, and very susceptible to fire blight."
-  },
-  "grow_notes": "Best for home growers who can spray and who will eat the fruit fresh within a few weeks. Avoid areas with heavy fire-blight pressure.",
-  "conf": "medium"
- },
- {
-  "id": "bushey-grove",
-  "name": "Bushey Grove",
-  "aka": [],
-  "uses": ["culinary"],
-  "origin": {
-   "country": "GB",
-   "place": "Bushey Grove, Bushey, Hertfordshire, England",
-   "year": 1897,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Queen x Bismarck (both parents uncertain)",
-   "raised_by": "Good family of Bushey Grove (NFC names Mrs Good; Orange Pippin J.T. Good)"
-  },
-  "history": "Raised in 1897 at Bushey Grove in Hertfordshire and introduced around 1926 by G.W. King of Sidcup, Kent. It received an RHS Award of Merit in 1922.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": null,
-   "stripes": true,
-   "russet": null,
-   "description": "Medium to large, broadly conical fruit, greenish yellow with red stripes."
-  },
-  "taste": {
-   "summary": "Very soft, coarse, very juicy flesh with a sharp acidity; a cooker that cooks well.",
-   "sweet": 2,
-   "acid": 4,
-   "aroma": 1,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 5,
-   "tags": ["sharp"],
-   "cider_class": null,
-   "best_eaten": "Sep-Nov, for cooking"
-  },
-  "tree": {
-   "vigor": 4,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": "heavy",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Vigorous, heavy-cropping tree with attractive blossom; spreading to drooping habit."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": "no",
-   "notes": "Mid-season flowering (group 3)."
-  },
-  "season": {
-   "harvest": "early Sep-mid Sep",
-   "eating": "Sep-Nov",
-   "storage_weeks": 8
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "South-east English conditions like its Hertfordshire home, ideally on a dry, airy site.",
-   "poor_climates": "Wet, humid areas where scab is severe."
-  },
-  "health": {
-   "scab": 5,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Very prone to apple scab."
-  },
-  "grow_notes": "A heavy-cropping early cooker; give it an open, airy position and clear fallen leaves to keep scab down.",
-  "conf": "medium"
- },
- {
-  "id": "carlton",
-  "name": "Carlton",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "New York State Agricultural Experiment Station, Geneva, New York, USA",
-   "year": 1912,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Autumn Bough x Red Astrachan per the National Fruit Collection (Montgomery x Red Astrachan is also reported)",
-   "raised_by": "Richard Wellington, New York State Agricultural Experiment Station"
-  },
-  "history": "Raised in 1912 by Richard Wellington at Geneva, New York, and introduced in 1923 as a late-summer red apple. It is a parent of Niagara and Redhook.",
-  "look": {
-   "size": "large",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 60,
-   "stripes": true,
-   "russet": 1,
-   "description": "Medium to large, conical, ribbed fruit, dull yellowish green flushed brownish red and streaked brighter red, with russet dots."
-  },
-  "taste": {
-   "summary": "Firm, fine flesh with a subacid flavour leaning slightly acid; low in aroma. A summer apple for eating soon after picking.",
-   "sweet": 2,
-   "acid": 3,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 3,
-   "tags": [],
-   "cider_class": null,
-   "best_eaten": "Aug-Sep"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Spreading habit at Brogdale; little other data."
-  },
-  "pollination": {
-   "flower_group": 2,
-   "self_fertile": null,
-   "notes": "Flowers early at Brogdale (about group 2)."
-  },
-  "season": {
-   "harvest": "late Aug",
-   "eating": "Aug-Sep",
-   "storage_weeks": 3
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cold-winter north-eastern US conditions like upstate New York.",
-   "poor_climates": "Not documented."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease data found."
-  },
-  "grow_notes": "A late-summer eating apple for collections; plant with an early-flowering partner and use the fruit promptly.",
-  "conf": "low"
- },
- {
-  "id": "carola",
-  "name": "Carola",
-  "aka": ["Kalco"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "DE",
-   "place": "Müncheberg, Brandenburg, Germany",
-   "year": 1962,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Cox's Orange Pippin x unknown",
-   "raised_by": "Obstbauversuchsanstalt Müncheberg (former Kaiser-Wilhelm-Institut)"
-  },
-  "history": "Bred at the Müncheberg fruit research station in East Germany and released in 1962; the National Fruit Collection holds it under the name Kalco.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 50,
-   "stripes": true,
-   "russet": 0,
-   "description": "Medium to large, flat-conical fruit with prominent ribs at the eye, lemon yellow with red flushing and stripes on the sunny side."
-  },
-  "taste": {
-   "summary": "Very juicy, medium-firm, yellowish flesh with a lively sweet, subacid flavour and a fine Cox-like aroma. Eat it from the tree or within a couple of months.",
-   "sweet": 4,
-   "acid": 3,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 5,
-   "tags": ["sweet", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Sep-Nov"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": "heavy",
-   "biennial": "marked",
-   "precocity": 5,
-   "ploidy": null,
-   "notes": "Medium vigour at first, weaker with age. Crops very early, sometimes in the second year, and heavily, but tends to alternate after big crops; thinning helps."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": "no",
-   "notes": "Mid-season (group 3). German sources list Alkmene, Cox, James Grieve, Goldparmäne, Idared and Oldenburg as suitable partners."
-  },
-  "season": {
-   "harvest": "mid Sep",
-   "eating": "Sep-Nov",
-   "storage_weeks": 10
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Central European continental climates on open, fertile soils.",
-   "poor_climates": "Not documented."
-  },
-  "health": {
-   "scab": 3,
-   "canker": null,
-   "mildew": 3,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": 4,
-   "other": "Prone to bitter pit, water core and storage rots; moderately susceptible to scab and mildew; fruit bruises easily."
-  },
-  "grow_notes": "A precocious, productive Cox-type for garden trees; thin heavy crops to limit biennial bearing and handle fruit gently. Give it open, fertile soil.",
-  "conf": "medium"
- }
+  {
+    "id": "carola",
+    "name": "Carola",
+    "aka": [
+      "Kalco"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Müncheberg, Brandenburg, Germany",
+      "year": 1962,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x unknown",
+      "raised_by": "Obstbauversuchsanstalt Müncheberg (former Kaiser-Wilhelm-Institut)"
+    },
+    "history": "Bred at the Müncheberg fruit research station in East Germany and released in 1962; the National Fruit Collection holds it under the name Kalco.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, flat-conical fruit with prominent ribs at the eye, lemon yellow with red flushing and stripes on the sunny side."
+    },
+    "taste": {
+      "summary": "Very juicy, medium-firm, yellowish flesh with a lively sweet, subacid flavour and a fine Cox-like aroma. Eat it from the tree or within a couple of months.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "marked",
+      "precocity": 5,
+      "ploidy": null,
+      "notes": "Medium vigour at first, weaker with age. Crops very early, sometimes in the second year, and heavily, but tends to alternate after big crops; thinning helps."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Mid-season (group 3). German sources list Alkmene, Cox, James Grieve, Goldparmäne, Idared and Oldenburg as suitable partners."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Central European continental climates on open, fertile soils.",
+      "poor_climates": "Not documented."
+    },
+    "health": {
+      "scab": 3,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 4,
+      "other": "Prone to bitter pit, water core and storage rots; moderately susceptible to scab and mildew; fruit bruises easily."
+    },
+    "grow_notes": "A precocious, productive Cox-type for garden trees; thin heavy crops to limit biennial bearing and handle fruit gently. Give it open, fertile soil.",
+    "conf": "medium"
+  }
 ]

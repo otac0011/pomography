@@ -3,7 +3,9 @@
     "id": "stoke-red",
     "name": "Stoke Red",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Rodney Stoke, near Wells, Somerset, England",
@@ -32,7 +34,10 @@
       "tannin": 3,
       "crisp": null,
       "juicy": null,
-      "tags": ["sharp", "astringent"],
+      "tags": [
+        "sharp",
+        "astringent"
+      ],
       "cider_class": "bittersharp",
       "best_eaten": "Not for eating; mill Nov-Dec."
     },
@@ -80,7 +85,11 @@
     "id": "ten-commandments",
     "name": "Ten Commandments",
     "aka": [],
-    "uses": ["cider", "dessert", "culinary"],
+    "uses": [
+      "cider",
+      "dessert",
+      "culinary"
+    ],
     "origin": {
       "country": "GB",
       "place": "Herefordshire, England",
@@ -99,7 +108,8 @@
       "blush_cover": 90,
       "stripes": false,
       "russet": 0,
-      "description": "Medium apple, often entirely red, with large pale lenticels; flesh tinged red under the skin and ten red spots around the core."
+      "description": "Medium apple, often entirely red, with large pale lenticels; flesh tinged red under the skin and ten red spots around the core.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Mild and mostly sweet with only gentle tannin; pleasant enough to eat and cook, and in cider it adds a pink tinge. Some tasters note an unusual, almost balsamic flavour.",
@@ -109,7 +119,10 @@
       "tannin": 1,
       "crisp": null,
       "juicy": null,
-      "tags": ["sweet", "mild"],
+      "tags": [
+        "sweet",
+        "mild"
+      ],
       "cider_class": "sweet",
       "best_eaten": "Sep-Oct; keeps only a few weeks."
     },
@@ -156,8 +169,12 @@
   {
     "id": "tremletts-bitter",
     "name": "Tremlett's Bitter",
-    "aka": ["Tremlett"],
-    "uses": ["cider"],
+    "aka": [
+      "Tremlett"
+    ],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Exe Valley, Devon, England",
@@ -186,7 +203,10 @@
       "tannin": 5,
       "crisp": null,
       "juicy": null,
-      "tags": ["bitter", "astringent"],
+      "tags": [
+        "bitter",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill Oct, keeps up to three weeks."
     },
@@ -234,7 +254,9 @@
     "id": "yarlington-mill",
     "name": "Yarlington Mill",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Yarlington, near North Cadbury, Somerset, England",
@@ -263,7 +285,10 @@
       "tannin": 3,
       "crisp": null,
       "juicy": null,
-      "tags": ["sweet", "astringent"],
+      "tags": [
+        "sweet",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill Nov-Dec."
     },
@@ -311,7 +336,9 @@
     "id": "brown-snout",
     "name": "Brown Snout",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Yarkhill, Herefordshire, England",
@@ -340,7 +367,10 @@
       "tannin": 3,
       "crisp": 4,
       "juicy": null,
-      "tags": ["sweet", "astringent"],
+      "tags": [
+        "sweet",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill Nov-Dec."
     },
@@ -388,7 +418,9 @@
     "id": "michelin",
     "name": "Michelin",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "FR",
       "place": "Yvetot, Normandy, France",
@@ -417,7 +449,11 @@
       "tannin": 3,
       "crisp": null,
       "juicy": null,
-      "tags": ["sweet", "astringent", "mild"],
+      "tags": [
+        "sweet",
+        "astringent",
+        "mild"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill Nov."
     },
@@ -464,8 +500,12 @@
   {
     "id": "bulmers-norman",
     "name": "Bulmer's Norman",
-    "aka": ["Norman"],
-    "uses": ["cider"],
+    "aka": [
+      "Norman"
+    ],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "FR",
       "place": "Normandy, France (introduced to Hereford, England)",
@@ -494,7 +534,10 @@
       "tannin": 3,
       "crisp": null,
       "juicy": null,
-      "tags": ["sweet", "astringent"],
+      "tags": [
+        "sweet",
+        "astringent"
+      ],
       "cider_class": "bittersweet",
       "best_eaten": "Not for eating; mill Oct."
     },
@@ -542,7 +585,9 @@
     "id": "sweet-coppin",
     "name": "Sweet Coppin",
     "aka": [],
-    "uses": ["cider"],
+    "uses": [
+      "cider"
+    ],
     "origin": {
       "country": "GB",
       "place": "Devon, England",
@@ -571,7 +616,10 @@
       "tannin": 1,
       "crisp": null,
       "juicy": null,
-      "tags": ["sweet", "mild"],
+      "tags": [
+        "sweet",
+        "mild"
+      ],
       "cider_class": "sweet",
       "best_eaten": "Not for eating; mill soon after picking in Nov."
     },

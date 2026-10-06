@@ -296,3 +296,5 @@ details > summary { cursor: pointer; font-weight: 600; }
 .factors h5 { margin: 12px 0 4px; font-size: .85rem; }
 @media (max-width: 560px) { .dtab .bar { width: 54px; } .dtab .meter i { width: 9px; } .pair .ring { width: 46px; height: 46px; } }
 .region-list a span { flex: 1; min-width: 0; } .region-list a .dnum { opacity: .8; font-weight: 500; }
+.more-row { text-align: center; padding: 12px 0 4px; }
+.scorerow .rank { min-width: 1.6em; text-align: right; }

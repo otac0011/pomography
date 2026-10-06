@@ -204,7 +204,8 @@
       "blush_cover": 90,
       "stripes": true,
       "russet": 0,
-      "description": "Medium, roundish to slightly tall and irregularly ribbed apple, almost entirely washed dark red with faint stripes, a lilac-blue bloom and conspicuous pale dots."
+      "description": "Medium, roundish to slightly tall and irregularly ribbed apple, almost entirely washed dark red with faint stripes, a lilac-blue bloom and conspicuous pale dots.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Very juicy, fine greenish-white flesh, sometimes tinged pink, with a sweet, low-acid, winey flavour that German pomologists compare to raspberry. Cut flesh browns quickly.",

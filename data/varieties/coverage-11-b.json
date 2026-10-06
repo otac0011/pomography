@@ -1,618 +1,690 @@
 [
- {
-  "id": "poveshon",
-  "name": "Poveshon",
-  "aka": ["Povershon"],
-  "uses": ["cider"],
-  "origin": {
-   "country": "US",
-   "place": "Slopes of the Watchung Mountains, Essex County, New Jersey, USA",
-   "year": 1775,
-   "year_note": "before",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "An 18th-century New Jersey cider apple, grown in the same Essex County district as Harrison and Campfield both before and after the Revolution. William Coxe described it in 1817. It was long counted as lost, but a possible survivor was found in upstate New York in 2015 and still needs confirming.",
-  "look": {
-   "size": "small",
-   "shape": "flat",
-   "ground": null,
-   "blush": "deep-red",
-   "blush_cover": 80,
-   "stripes": true,
-   "russet": null,
-   "description": "A small, flat apple with smooth deep-red skin streaked lengthwise with darker red blotches and dotted with small pale spots. The flesh is rich yellow."
-  },
-  "taste": {
-   "summary": "Old descriptions call the yellow flesh sweet and unusually dry. It was valued mainly for early-season cider rather than for eating.",
-   "sweet": 4,
-   "acid": 2,
-   "aroma": null,
-   "tannin": null,
-   "crisp": null,
-   "juicy": 1,
-   "tags": ["sweet"],
-   "cider_class": "sweet",
-   "best_eaten": "Pressed for early cider as it ripens and drops in Sep-Oct"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "upright",
-   "bearing": null,
-   "cropping": "heavy",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Old accounts describe a very straight tree with upright branches that cropped heavily."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Not recorded."
-  },
-  "season": {
-   "harvest": "early Sep-mid Oct",
-   "eating": "Sep-Oct",
-   "storage_weeks": null
-  },
-  "climate": {
-   "chill_hours": 900,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The humid continental climate of northern New Jersey, where it was a standard cider apple.",
-   "poor_climates": "No records outside the north-eastern United States."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Not recorded; the fruit drops when ripe."
-  },
-  "grow_notes": "Only of interest if the 2015 candidate tree is confirmed and propagated. Gather fallen fruit promptly for pressing.",
-  "conf": "low"
- },
- {
-  "id": "red-autumn-calville",
-  "name": "Red Autumn Calville",
-  "aka": ["Calville Rouge d'Automne", "Roter Herbstkalvill", "Autumn Red Calville", "Grosser Roter Sommer-Himbeerapfel", "Edelkönig"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "FR",
-   "place": "Probably Auvergne, France",
-   "year": 1670,
-   "year_note": "first recorded",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "An old Calville listed from 1670 and traditionally credited to the Auvergne. German sources identify it with a 'true red apple' grown in the Stuttgart court garden by 1565. It was once common across Central Europe but is now rare. Some fruit rattle when shaken because the seed cavity is so large.",
-  "look": {
-   "size": "large",
-   "shape": "ribbed",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 80,
-   "stripes": false,
-   "russet": null,
-   "description": "Large, tall, ribbed fruit flushed pale to dark red over yellow. The white flesh is stained red just under the skin."
-  },
-  "taste": {
-   "summary": "Tender, juicy, somewhat coarse flesh with a sweet, mildly acid flavour. Its strong aroma recalls raspberry and strawberry, and it makes a pale red juice. It also bakes well, keeping its shape with a creamy texture.",
-   "sweet": 3,
-   "acid": 2,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 4,
-   "tags": ["strawberry", "berry", "perfumed", "sweet"],
-   "cider_class": null,
-   "best_eaten": "An autumn apple, eaten fresh or baked"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Needs good, deep soil and a warm position, plus regular spraying, because it is prone to disease and pests."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Not recorded."
-  },
-  "season": {
-   "harvest": null,
-   "eating": null,
-   "storage_weeks": null
-  },
-  "climate": {
-   "chill_hours": 900,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Warm, sheltered sites on deep fertile soils in France and southern Germany.",
-   "poor_climates": "Cold, exposed or thin-soiled sites, where its disease problems get worse."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Generally prone to diseases and pests; needs plant protection."
-  },
-  "grow_notes": "Plant against a warm wall or in a sheltered sunny spot on rich soil and expect to spray. Grow it for the red-tinged flesh and berry aroma, not for easy cropping.",
-  "conf": "medium"
- },
- {
-  "id": "red-pineapple",
-  "name": "Red Pineapple",
-  "aka": ["Roter Ananas", "Rød Ananas", "Ananas Rouge", "Rother Ananasapfel", "Krasnyi Ananas"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "DE",
-   "place": "Sieglitzer Berg on the Elbe, Germany",
-   "year": 1854,
-   "year_note": "first recorded",
-   "kind": "discovered",
-   "parentage": null,
-   "raised_by": "Found by Richter"
-  },
-  "history": "A German dessert apple found by Richter at Sieglitzer Berg on the Elbe and described in 1854. It spread to Scandinavia and eastern Europe and is still widely grown in Denmark, where it is recommended for gardens as one that can crop without spraying.",
-  "look": {
-   "size": "medium",
-   "shape": "conical",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 80,
-   "stripes": null,
-   "russet": 0,
-   "description": "A medium, conical apple that is mostly covered in red over yellow, with a slightly greasy skin and almost no russet."
-  },
-  "taste": {
-   "summary": "Fine, firm yellowish-white flesh, stained pink under the skin, with a sweet, gently acid flavour. No source found ties the 'pineapple' name to any particular pineapple note.",
-   "sweet": 4,
-   "acid": 2,
-   "aroma": null,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": null,
-   "tags": ["sweet"],
-   "cider_class": null,
-   "best_eaten": null
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Danish growers rate it as suitable for unsprayed garden growing."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "Flowers around the same time as Wealthy at Brogdale (about 8 May); group inferred from those dates."
-  },
-  "season": {
-   "harvest": "late Sep",
-   "eating": null,
-   "storage_weeks": null
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cool temperate northern Europe: Germany, Denmark and further east, where it is widely grown.",
-   "poor_climates": "No records from hot-summer climates."
-  },
-  "health": {
-   "scab": 2,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Reported to be healthy enough to grow without pesticides in Denmark; specific disease ratings not published."
-  },
-  "grow_notes": "A good low-input garden apple for cool climates. Pick in late September; the National Fruit Collection still holds it, so true wood is available.",
-  "conf": "low"
- },
- {
-  "id": "sciros",
-  "name": "Sciros",
-  "aka": ["Pacific Rose", "Scirose"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "NZ",
-   "place": "New Zealand",
-   "year": null,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Gala x Splendour",
-   "raised_by": "New Zealand state apple-breeding programme; marketed by ENZA"
-  },
-  "history": "A New Zealand Gala x Splendour cross sold under the trademark Pacific Rose, which ENZA manages. It reached overseas supermarkets around 2005. Its licensing has been disputed, with unauthorised plantings reported in Chile.",
-  "look": {
-   "size": "medium",
-   "shape": null,
-   "ground": "yellow",
-   "blush": "pink",
-   "blush_cover": null,
-   "stripes": null,
-   "russet": 0,
-   "description": "A rosy apple with mottled pink, red and yellow, much like its Splendour parent, and a fairly thick skin."
-  },
-  "taste": {
-   "summary": "Crisp, juicy and very sweet with hardly any acidity, often likened to Fuji. The flavour is gentle rather than complex, and some tasters find it bland.",
-   "sweet": 5,
-   "acid": 1,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "mild"],
-   "cider_class": null,
-   "best_eaten": "Through winter from store"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "A late, licensed commercial variety; not usually sold to home growers."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": "no",
-   "notes": "Needs a pollination partner."
-  },
-  "season": {
-   "harvest": "late Oct",
-   "eating": "Nov-Mar",
-   "storage_weeks": 20
-  },
-  "climate": {
-   "chill_hours": 600,
-   "hardiness_zone": 6,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Long, sunny seasons like New Zealand's Hawke's Bay and Washington State, where the late fruit ripens fully.",
-   "poor_climates": "Short cool seasons; as a very late apple it may not ripen properly in a poor English autumn."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not published."
-  },
-  "grow_notes": "Normally only available to licensed growers. Where it can be grown, it needs a long warm season and a pollinator. It keeps very well.",
-  "conf": "medium"
- },
- {
-  "id": "styre",
-  "name": "Styre",
-  "aka": ["Stire", "Forest Styre"],
-  "uses": ["cider"],
-  "origin": {
-   "country": "GB",
-   "place": "Forest of Dean, Gloucestershire, England",
-   "year": 1600,
-   "year_note": "before",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "One of the most celebrated old cider apples of the Forest of Dean, with a name that may be Anglo-Saxon. It declined from the mid-19th century, was called almost extinct by 1898, and the last known tree was felled at Halmore in 1968. Pomologists are still looking for survivors.",
-  "look": {
-   "size": "small",
-   "shape": null,
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": null,
-   "stripes": false,
-   "russet": null,
-   "description": "Small, pale yellow fruit with a red flush on the sunny side, on a very short stalk."
-  },
-  "taste": {
-   "summary": "A bittersharp cider apple, high in both acid and tannin. The flesh is sharp at picking but turns sweet and almost honeyed after keeping. It made a famously smooth, long-keeping and deceptively strong cider.",
-   "sweet": 2,
-   "acid": 4,
-   "aroma": null,
-   "tannin": 3,
-   "crisp": null,
-   "juicy": null,
-   "tags": ["sharp", "astringent", "honey"],
-   "cider_class": "bittersharp",
-   "best_eaten": "For cider; edible after storage"
-  },
-  "tree": {
-   "vigor": 5,
-   "habit": "upright",
-   "bearing": null,
-   "cropping": "light",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "A very large, vigorous, upright tree that tended to make wood rather than fruit. It could be propagated without grafting by rooting shoots from the crown. It was probably triploid, which may explain its later poor fruiting."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Probably triploid, so a poor pollen donor."
-  },
-  "season": {
-   "harvest": null,
-   "eating": null,
-   "storage_weeks": null
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The mild, moist west of England around the Forest of Dean.",
-   "poor_climates": "No records outside its home district."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Not recorded; the variety is believed extinct."
-  },
-  "grow_notes": "Not available; believed extinct since 1968. Any candidate tree from the Forest of Dean or Severn Vale should be reported to local orchard groups.",
-  "conf": "low"
- },
- {
-  "id": "sugarbee",
-  "name": "SugarBee",
-  "aka": ["CN 121", "B-51"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "US",
-   "place": "Ocheda Orchard, Worthington, Minnesota, USA",
-   "year": 2004,
-   "year_note": "",
-   "kind": "chance",
-   "parentage": "Open-pollinated Honeycrisp seedling (pollen parent unknown, presumably bee-carried)",
-   "raised_by": "Chuck (Charles) Nystrom"
-  },
-  "history": "Chuck Nystrom grew it from Honeycrisp seed collected in 1994 and picked it out in 2004 at his Minnesota orchard. The cultivar, first numbered B-51 and later CN 121, is now grown under licence in Washington State and sold as SugarBee. It went on sale in 2016, and the name refers to its bee-pollinated origin.",
-  "look": {
-   "size": "medium",
-   "shape": "conical",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 80,
-   "stripes": true,
-   "russet": 1,
-   "description": "A medium to large, often lopsided conical apple. Bright red is washed over a yellow-green base with a few darker stripes and pale lenticels, plus a little russet in the stalk cavity."
-  },
-  "taste": {
-   "summary": "Very sweet and only mildly acid, with crisp, crunchy, juicy flesh. Tasters describe caramel, honey and molasses notes with a light floral, fruity touch. It is sweeter than Honeycrisp.",
-   "sweet": 5,
-   "acid": 2,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "caramel", "honey", "floral"],
-   "cider_class": null,
-   "best_eaten": "Oct-Mar from store"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "upright-spreading",
-   "bearing": null,
-   "cropping": "moderate",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Moderately vigorous and upright to spreading, with average productivity, according to the plant patent."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": "no",
-   "notes": "Blooms at the same time as Honeycrisp; group taken from Honeycrisp."
-  },
-  "season": {
-   "harvest": "early Oct-mid Oct",
-   "eating": "Oct-Mar",
-   "storage_weeks": 20
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 4,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Found in southern Minnesota and grown commercially in central Washington; suits cold-winter continental climates.",
-   "poor_climates": "Untested in warm-winter or humid maritime climates."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "The patent says it is susceptible to all the usual pests and diseases of central Washington and notes no special resistance."
-  },
-  "grow_notes": "A licensed club apple, generally not sold to home gardeners. It ripens about ten days after Honeycrisp and stores for around five months in cold storage.",
-  "conf": "medium"
- },
- {
-  "id": "sunflare",
-  "name": "Sunflare",
-  "aka": ["WA 64"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "Wenatchee, Washington, USA",
-   "year": 1998,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Honeycrisp x Cripps Pink",
-   "raised_by": "Washington State University apple breeding programme"
-  },
-  "history": "WSU made the cross in 1998 at its Columbia View research orchard near Wenatchee and selected the seedling, numbered WA 64, after long trials. It was named Sunflare in 2024. Trees went to Washington growers from 2026, it is reserved for the state for at least a decade, and fruit is expected in shops around 2029.",
-  "look": {
-   "size": "medium",
-   "shape": null,
-   "ground": "yellow",
-   "blush": "pink",
-   "blush_cover": null,
-   "stripes": false,
-   "russet": null,
-   "description": "A small to medium, two-coloured apple with a pink blush over yellow to yellow-orange skin and noticeable lenticels."
-  },
-  "taste": {
-   "summary": "A balanced sweet-tart apple with a firm, crunchy, juicy bite. It is less hard than Cripps Pink, getting its crispness from Honeycrisp and its flavour and firmness from Cripps Pink.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": null,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["sweet", "sharp"],
-   "cider_class": null,
-   "best_eaten": "From harvest; keeps 9-12 months in controlled-atmosphere storage"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Still being trialled by growers; no published tree description yet."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Not published."
-  },
-  "season": {
-   "harvest": "early Oct-mid Oct",
-   "eating": "Oct-Mar",
-   "storage_weeks": null
-  },
-  "climate": {
-   "chill_hours": 800,
-   "hardiness_zone": 5,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The sunny, irrigated semi-arid fruit districts of central Washington where it was bred.",
-   "poor_climates": "Not yet tested outside Washington; it shows some sunburn in strong sun."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": 3,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": 1,
-   "other": "Not prone to bitter pit and resists bruising. Mildly susceptible to mildew, flesh browning and sunburn."
-  },
-  "grow_notes": "Licensed to Washington growers only for now. It is picked about when Golden Delicious is, roughly two weeks before Cosmic Crisp.",
-  "conf": "medium"
- },
- {
-  "id": "swazie",
-  "name": "Swazie",
-  "aka": ["Swazie Pomme Grise", "Pomme Grise d'Or"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "CA",
-   "place": "Near Niagara-on-the-Lake, Ontario, Canada",
-   "year": 1790,
-   "year_note": "c.",
-   "kind": "chance",
-   "parentage": null,
-   "raised_by": "First tree at the nursery of Isaac Swayze"
-  },
-  "history": "A late-18th-century Ontario apple whose first tree grew at Isaac Swayze's nursery near Niagara-on-the-Lake. It is described in The Apples of New York (1905) and may be the same as 'Golden Gray'. Do not confuse it with the French-Canadian Pomme Grise.",
-  "look": {
-   "size": "small",
-   "shape": null,
-   "ground": null,
-   "blush": null,
-   "blush_cover": null,
-   "stripes": null,
-   "russet": null,
-   "description": "A small to medium apple; the name 'golden grey apple' suggests a russeted golden skin, but no direct description was found."
-  },
-  "taste": {
-   "summary": "Considered a high-quality dessert apple, but no fuller tasting notes were found.",
-   "sweet": null,
-   "acid": null,
-   "aroma": null,
-   "tannin": 0,
-   "crisp": null,
-   "juicy": null,
-   "tags": [],
-   "cider_class": null,
-   "best_eaten": "Through the winter from store"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "No tree description found."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Not recorded."
-  },
-  "season": {
-   "harvest": null,
-   "eating": "Nov-Feb",
-   "storage_weeks": 16
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The Niagara fruit belt of Ontario and similar Great Lakes climates.",
-   "poor_climates": "No records outside eastern North America."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Not recorded."
-  },
-  "grow_notes": "A rare Canadian heirloom for collectors. It keeps well into winter.",
-  "conf": "low"
- }
+  {
+    "id": "poveshon",
+    "name": "Poveshon",
+    "aka": [
+      "Povershon"
+    ],
+    "uses": [
+      "cider"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Slopes of the Watchung Mountains, Essex County, New Jersey, USA",
+      "year": 1775,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An 18th-century New Jersey cider apple, grown in the same Essex County district as Harrison and Campfield both before and after the Revolution. William Coxe described it in 1817. It was long counted as lost, but a possible survivor was found in upstate New York in 2015 and still needs confirming.",
+    "look": {
+      "size": "small",
+      "shape": "flat",
+      "ground": null,
+      "blush": "deep-red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": null,
+      "description": "A small, flat apple with smooth deep-red skin streaked lengthwise with darker red blotches and dotted with small pale spots. The flesh is rich yellow."
+    },
+    "taste": {
+      "summary": "Old descriptions call the yellow flesh sweet and unusually dry. It was valued mainly for early-season cider rather than for eating.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": null,
+      "crisp": null,
+      "juicy": 1,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": "sweet",
+      "best_eaten": "Pressed for early cider as it ripens and drops in Sep-Oct"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Old accounts describe a very straight tree with upright branches that cropped heavily."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": "early Sep-mid Oct",
+      "eating": "Sep-Oct",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The humid continental climate of northern New Jersey, where it was a standard cider apple.",
+      "poor_climates": "No records outside the north-eastern United States."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded; the fruit drops when ripe."
+    },
+    "grow_notes": "Only of interest if the 2015 candidate tree is confirmed and propagated. Gather fallen fruit promptly for pressing.",
+    "conf": "low"
+  },
+  {
+    "id": "red-autumn-calville",
+    "name": "Red Autumn Calville",
+    "aka": [
+      "Calville Rouge d'Automne",
+      "Roter Herbstkalvill",
+      "Autumn Red Calville",
+      "Grosser Roter Sommer-Himbeerapfel",
+      "Edelkönig"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "Probably Auvergne, France",
+      "year": 1670,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "An old Calville listed from 1670 and traditionally credited to the Auvergne. German sources identify it with a 'true red apple' grown in the Stuttgart court garden by 1565. It was once common across Central Europe but is now rare. Some fruit rattle when shaken because the seed cavity is so large.",
+    "look": {
+      "size": "large",
+      "shape": "ribbed",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": false,
+      "russet": null,
+      "description": "Large, tall, ribbed fruit flushed pale to dark red over yellow. The white flesh is stained red just under the skin.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Tender, juicy, somewhat coarse flesh with a sweet, mildly acid flavour. Its strong aroma recalls raspberry and strawberry, and it makes a pale red juice. It also bakes well, keeping its shape with a creamy texture.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "strawberry",
+        "berry",
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "An autumn apple, eaten fresh or baked"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Needs good, deep soil and a warm position, plus regular spraying, because it is prone to disease and pests."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Warm, sheltered sites on deep fertile soils in France and southern Germany.",
+      "poor_climates": "Cold, exposed or thin-soiled sites, where its disease problems get worse."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Generally prone to diseases and pests; needs plant protection."
+    },
+    "grow_notes": "Plant against a warm wall or in a sheltered sunny spot on rich soil and expect to spray. Grow it for the red-tinged flesh and berry aroma, not for easy cropping.",
+    "conf": "medium"
+  },
+  {
+    "id": "red-pineapple",
+    "name": "Red Pineapple",
+    "aka": [
+      "Roter Ananas",
+      "Rød Ananas",
+      "Ananas Rouge",
+      "Rother Ananasapfel",
+      "Krasnyi Ananas"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Sieglitzer Berg on the Elbe, Germany",
+      "year": 1854,
+      "year_note": "first recorded",
+      "kind": "discovered",
+      "parentage": null,
+      "raised_by": "Found by Richter"
+    },
+    "history": "A German dessert apple found by Richter at Sieglitzer Berg on the Elbe and described in 1854. It spread to Scandinavia and eastern Europe and is still widely grown in Denmark, where it is recommended for gardens as one that can crop without spraying.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": null,
+      "russet": 0,
+      "description": "A medium, conical apple that is mostly covered in red over yellow, with a slightly greasy skin and almost no russet.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Fine, firm yellowish-white flesh, stained pink under the skin, with a sweet, gently acid flavour. No source found ties the 'pineapple' name to any particular pineapple note.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": null,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": null
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Danish growers rate it as suitable for unsprayed garden growing."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "Flowers around the same time as Wealthy at Brogdale (about 8 May); group inferred from those dates."
+    },
+    "season": {
+      "harvest": "late Sep",
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool temperate northern Europe: Germany, Denmark and further east, where it is widely grown.",
+      "poor_climates": "No records from hot-summer climates."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Reported to be healthy enough to grow without pesticides in Denmark; specific disease ratings not published."
+    },
+    "grow_notes": "A good low-input garden apple for cool climates. Pick in late September; the National Fruit Collection still holds it, so true wood is available.",
+    "conf": "low"
+  },
+  {
+    "id": "sciros",
+    "name": "Sciros",
+    "aka": [
+      "Pacific Rose",
+      "Scirose"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "NZ",
+      "place": "New Zealand",
+      "year": null,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Gala x Splendour",
+      "raised_by": "New Zealand state apple-breeding programme; marketed by ENZA"
+    },
+    "history": "A New Zealand Gala x Splendour cross sold under the trademark Pacific Rose, which ENZA manages. It reached overseas supermarkets around 2005. Its licensing has been disputed, with unauthorised plantings reported in Chile.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": null,
+      "stripes": null,
+      "russet": 0,
+      "description": "A rosy apple with mottled pink, red and yellow, much like its Splendour parent, and a fairly thick skin."
+    },
+    "taste": {
+      "summary": "Crisp, juicy and very sweet with hardly any acidity, often likened to Fuji. The flavour is gentle rather than complex, and some tasters find it bland.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Through winter from store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A late, licensed commercial variety; not usually sold to home growers."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": "no",
+      "notes": "Needs a pollination partner."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 600,
+      "hardiness_zone": 6,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Long, sunny seasons like New Zealand's Hawke's Bay and Washington State, where the late fruit ripens fully.",
+      "poor_climates": "Short cool seasons; as a very late apple it may not ripen properly in a poor English autumn."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not published."
+    },
+    "grow_notes": "Normally only available to licensed growers. Where it can be grown, it needs a long warm season and a pollinator. It keeps very well.",
+    "conf": "medium"
+  },
+  {
+    "id": "styre",
+    "name": "Styre",
+    "aka": [
+      "Stire",
+      "Forest Styre"
+    ],
+    "uses": [
+      "cider"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Forest of Dean, Gloucestershire, England",
+      "year": 1600,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "One of the most celebrated old cider apples of the Forest of Dean, with a name that may be Anglo-Saxon. It declined from the mid-19th century, was called almost extinct by 1898, and the last known tree was felled at Halmore in 1968. Pomologists are still looking for survivors.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": null,
+      "stripes": false,
+      "russet": null,
+      "description": "Small, pale yellow fruit with a red flush on the sunny side, on a very short stalk."
+    },
+    "taste": {
+      "summary": "A bittersharp cider apple, high in both acid and tannin. The flesh is sharp at picking but turns sweet and almost honeyed after keeping. It made a famously smooth, long-keeping and deceptively strong cider.",
+      "sweet": 2,
+      "acid": 4,
+      "aroma": null,
+      "tannin": 3,
+      "crisp": null,
+      "juicy": null,
+      "tags": [
+        "sharp",
+        "astringent",
+        "honey"
+      ],
+      "cider_class": "bittersharp",
+      "best_eaten": "For cider; edible after storage"
+    },
+    "tree": {
+      "vigor": 5,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "light",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A very large, vigorous, upright tree that tended to make wood rather than fruit. It could be propagated without grafting by rooting shoots from the crown. It was probably triploid, which may explain its later poor fruiting."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Probably triploid, so a poor pollen donor."
+    },
+    "season": {
+      "harvest": null,
+      "eating": null,
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The mild, moist west of England around the Forest of Dean.",
+      "poor_climates": "No records outside its home district."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded; the variety is believed extinct."
+    },
+    "grow_notes": "Not available; believed extinct since 1968. Any candidate tree from the Forest of Dean or Severn Vale should be reported to local orchard groups.",
+    "conf": "low"
+  },
+  {
+    "id": "sugarbee",
+    "name": "SugarBee",
+    "aka": [
+      "CN 121",
+      "B-51"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Ocheda Orchard, Worthington, Minnesota, USA",
+      "year": 2004,
+      "year_note": "",
+      "kind": "chance",
+      "parentage": "Open-pollinated Honeycrisp seedling (pollen parent unknown, presumably bee-carried)",
+      "raised_by": "Chuck (Charles) Nystrom"
+    },
+    "history": "Chuck Nystrom grew it from Honeycrisp seed collected in 1994 and picked it out in 2004 at his Minnesota orchard. The cultivar, first numbered B-51 and later CN 121, is now grown under licence in Washington State and sold as SugarBee. It went on sale in 2016, and the name refers to its bee-pollinated origin.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 80,
+      "stripes": true,
+      "russet": 1,
+      "description": "A medium to large, often lopsided conical apple. Bright red is washed over a yellow-green base with a few darker stripes and pale lenticels, plus a little russet in the stalk cavity."
+    },
+    "taste": {
+      "summary": "Very sweet and only mildly acid, with crisp, crunchy, juicy flesh. Tasters describe caramel, honey and molasses notes with a light floral, fruity touch. It is sweeter than Honeycrisp.",
+      "sweet": 5,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "caramel",
+        "honey",
+        "floral"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Mar from store"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "upright-spreading",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Moderately vigorous and upright to spreading, with average productivity, according to the plant patent."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Blooms at the same time as Honeycrisp; group taken from Honeycrisp."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Mar",
+      "storage_weeks": 20
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 4,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Found in southern Minnesota and grown commercially in central Washington; suits cold-winter continental climates.",
+      "poor_climates": "Untested in warm-winter or humid maritime climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "The patent says it is susceptible to all the usual pests and diseases of central Washington and notes no special resistance."
+    },
+    "grow_notes": "A licensed club apple, generally not sold to home gardeners. It ripens about ten days after Honeycrisp and stores for around five months in cold storage.",
+    "conf": "medium"
+  },
+  {
+    "id": "sunflare",
+    "name": "Sunflare",
+    "aka": [
+      "WA 64"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Wenatchee, Washington, USA",
+      "year": 1998,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Honeycrisp x Cripps Pink",
+      "raised_by": "Washington State University apple breeding programme"
+    },
+    "history": "WSU made the cross in 1998 at its Columbia View research orchard near Wenatchee and selected the seedling, numbered WA 64, after long trials. It was named Sunflare in 2024. Trees went to Washington growers from 2026, it is reserved for the state for at least a decade, and fruit is expected in shops around 2029.",
+    "look": {
+      "size": "medium",
+      "shape": null,
+      "ground": "yellow",
+      "blush": "pink",
+      "blush_cover": null,
+      "stripes": false,
+      "russet": null,
+      "description": "A small to medium, two-coloured apple with a pink blush over yellow to yellow-orange skin and noticeable lenticels."
+    },
+    "taste": {
+      "summary": "A balanced sweet-tart apple with a firm, crunchy, juicy bite. It is less hard than Cripps Pink, getting its crispness from Honeycrisp and its flavour and firmness from Cripps Pink.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "From harvest; keeps 9-12 months in controlled-atmosphere storage"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Still being trialled by growers; no published tree description yet."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not published."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Oct-Mar",
+      "storage_weeks": null
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The sunny, irrigated semi-arid fruit districts of central Washington where it was bred.",
+      "poor_climates": "Not yet tested outside Washington; it shows some sunburn in strong sun."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 3,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": 1,
+      "other": "Not prone to bitter pit and resists bruising. Mildly susceptible to mildew, flesh browning and sunburn."
+    },
+    "grow_notes": "Licensed to Washington growers only for now. It is picked about when Golden Delicious is, roughly two weeks before Cosmic Crisp.",
+    "conf": "medium"
+  },
+  {
+    "id": "swazie",
+    "name": "Swazie",
+    "aka": [
+      "Swazie Pomme Grise",
+      "Pomme Grise d'Or"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Near Niagara-on-the-Lake, Ontario, Canada",
+      "year": 1790,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "First tree at the nursery of Isaac Swayze"
+    },
+    "history": "A late-18th-century Ontario apple whose first tree grew at Isaac Swayze's nursery near Niagara-on-the-Lake. It is described in The Apples of New York (1905) and may be the same as 'Golden Gray'. Do not confuse it with the French-Canadian Pomme Grise.",
+    "look": {
+      "size": "small",
+      "shape": null,
+      "ground": null,
+      "blush": null,
+      "blush_cover": null,
+      "stripes": null,
+      "russet": null,
+      "description": "A small to medium apple; the name 'golden grey apple' suggests a russeted golden skin, but no direct description was found."
+    },
+    "taste": {
+      "summary": "Considered a high-quality dessert apple, but no fuller tasting notes were found.",
+      "sweet": null,
+      "acid": null,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": null,
+      "tags": [],
+      "cider_class": null,
+      "best_eaten": "Through the winter from store"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "No tree description found."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Not recorded."
+    },
+    "season": {
+      "harvest": null,
+      "eating": "Nov-Feb",
+      "storage_weeks": 16
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The Niagara fruit belt of Ontario and similar Great Lakes climates.",
+      "poor_climates": "No records outside eastern North America."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Not recorded."
+    },
+    "grow_notes": "A rare Canadian heirloom for collectors. It keeps well into winter.",
+    "conf": "low"
+  }
 ]

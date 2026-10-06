@@ -365,7 +365,8 @@
       "blush_cover": 95,
       "stripes": true,
       "russet": 0,
-      "description": "Thick-skinned apple almost entirely covered in very dark crimson, sometimes nearly black, with purplish stripes and ribbing around the eye."
+      "description": "Thick-skinned apple almost entirely covered in very dark crimson, sometimes nearly black, with purplish stripes and ribbing around the eye.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Soft, coarse, juicy white flesh, sometimes stained red under the skin, with an aromatic, subacid to tart flavour. Wikipedia calls the quality mediocre.",

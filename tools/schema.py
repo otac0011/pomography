@@ -112,6 +112,8 @@ def validate_variety(v):
         e("look.blush_cover")
     if not (lk.get("russet") is None or _int(lk.get("russet"), 0, 3)):
         e("look.russet")
+    if lk.get("flesh_colour") not in (None, "red", "tinged"):
+        e("look.flesh_colour %r" % lk.get("flesh_colour"))
     t = v["taste"]
     for k in ("sweet", "acid", "aroma", "crisp", "juicy"):
         if not (t.get(k) is None or _int(t.get(k), 1, 5)):

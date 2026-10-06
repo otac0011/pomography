@@ -28,7 +28,8 @@
       "blush_cover": 90,
       "stripes": false,
       "russet": 0,
-      "description": "Small, squat apple almost entirely covered in a dark crimson-purple flush, with a little green showing through."
+      "description": "Small, squat apple almost entirely covered in a dark crimson-purple flush, with a little green showing through.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Very juicy white flesh, sometimes stained pink under the skin, melting rather than crisp. The flavour is sweet, delicate and vinous rather than aromatic; a strawberry note shows in some fruit but is elusive and depends on picking at the right moment. Keeps only a few days.",

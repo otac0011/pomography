@@ -25,7 +25,8 @@
       "blush_cover": 70,
       "stripes": true,
       "russet": 0,
-      "description": "Smooth, pale yellow-green apple mostly hidden under bright red streaks and flush; the white flesh is sometimes stained pink."
+      "description": "Smooth, pale yellow-green apple mostly hidden under bright red streaks and flush; the white flesh is sometimes stained pink.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Crisp at first, with tender, very juicy white flesh and a lively, vinous sweet-tart flavour; it is tart unless fully ripe, when growers find it remarkably sweet, and one taster caught a lingering hint of strawberry or banana. It softens and loses its zest within two or three weeks, but makes a pink-tinged sauce and rich apple butter.",

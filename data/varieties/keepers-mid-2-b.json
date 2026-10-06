@@ -195,7 +195,8 @@
       "blush_cover": 70,
       "stripes": true,
       "russet": 0,
-      "description": "Large conical fruit, largely flushed and striped red over pale green; the flesh is often stained pink to the core."
+      "description": "Large conical fruit, largely flushed and striped red over pale green; the flesh is often stained pink to the core.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Coarse, rather dry flesh with a mild, lightly acid flavour; more interesting for its pink colour than its eating quality. Cooks to a rosy sauce.",

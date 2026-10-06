@@ -1,310 +1,345 @@
 [
- {
-  "id": "liveland-raspberry",
-  "name": "Liveland Raspberry",
-  "aka": ["Lowland Raspberry", "Livland Raspberry", "Lievland Raspberry", "Framboise de Livonie", "Livlaender Himbeerapfel"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "LV",
-   "place": "Livonia (Livland Governorate of the Russian Empire, now Latvia/Estonia)",
-   "year": 1870,
-   "year_note": "before",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
+  {
+    "id": "liveland-raspberry",
+    "name": "Liveland Raspberry",
+    "aka": [
+      "Lowland Raspberry",
+      "Livland Raspberry",
+      "Lievland Raspberry",
+      "Framboise de Livonie",
+      "Livlaender Himbeerapfel"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "LV",
+      "place": "Livonia (Livland Governorate of the Russian Empire, now Latvia/Estonia)",
+      "year": 1870,
+      "year_note": "before",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Baltic apple from the old Livland province, recorded before 1870 and among the 'Russian' apples imported to the American Midwest (credited to A. G. Tuttle of Baraboo, Wisconsin); it was formally introduced in the US in 1883. It is often linked to the ancestry of Melba and is a parent of Joyce.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Waxy, pale cream apple flushed and striped light crimson; the white flesh is often stained pinkish red.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Fine, very tender white flesh tinged red, mildly sweet with gentle acidity and a light perfume. Unusually for a summer apple it stays pleasant on and off the tree for a short while.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": null,
+      "biennial": "marked",
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Naturally small, upright and compact tree even on its own roots; inclined to crop every other year."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are early mid-season (about group 2-3)."
+    },
+    "season": {
+      "harvest": "mid Aug",
+      "eating": "Aug",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 3,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold continental and northern climates: the Baltic, Scandinavia, the upper Midwest and New England, where its winter-hardiness matters.",
+      "poor_climates": "Hot summers ripen summer apples like this too fast and soften them; it has little advantage in mild climates."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Biennial bearing is the main recorded fault."
+    },
+    "grow_notes": "A compact, very hardy early apple for cold gardens. Thin the fruit in heavy years to even out cropping and eat it within days of picking.",
+    "conf": "medium"
   },
-  "history": "A Baltic apple from the old Livland province, recorded before 1870 and among the 'Russian' apples imported to the American Midwest (credited to A. G. Tuttle of Baraboo, Wisconsin); it was formally introduced in the US in 1883. It is often linked to the ancestry of Melba and is a parent of Joyce.",
-  "look": {
-   "size": "medium",
-   "shape": "round-flat",
-   "ground": "cream",
-   "blush": "red",
-   "blush_cover": 30,
-   "stripes": true,
-   "russet": 0,
-   "description": "Waxy, pale cream apple flushed and striped light crimson; the white flesh is often stained pinkish red."
+  {
+    "id": "lucombes-seedling",
+    "name": "Lucombe's Seedling",
+    "aka": [
+      "Kirton Fair",
+      "Newquay Prizetaker",
+      "Uncle Barney",
+      "Luckombe's Seedling"
+    ],
+    "uses": [
+      "culinary",
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Lucombe, Pince & Co. nursery, St Thomas, Exeter, Devon",
+      "year": 1831,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": "Lucombe, Pince & Co., Exeter"
+    },
+    "history": "Raised by the Exeter nursery Lucombe, Pince & Co. and described in 1831; it was once widely grown in Devon and Cornwall under local names such as Kirton Fair and Newquay Prizetaker.",
+    "look": {
+      "size": "large",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "crimson",
+      "blush_cover": 30,
+      "stripes": true,
+      "russet": 0,
+      "description": "Large, angular pale yellow-green apple streaked with crimson and dotted with dark spots, on a short thick stalk."
+    },
+    "taste": {
+      "summary": "Firm, juicy white flesh with a pleasant subacid flavour and a spicy note; used both for the kitchen and for eating.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec"
+    },
+    "tree": {
+      "vigor": 2,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Not very vigorous."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
+    },
+    "season": {
+      "harvest": "mid Sep",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "The mild, moist south-west of England, where it was popular.",
+      "poor_climates": "No documented performance outside England."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A West Country heritage apple worth growing in Devon and Cornwall orchards. The tree is modest in vigour, so a more vigorous rootstock suits it.",
+    "conf": "low"
   },
-  "taste": {
-   "summary": "Fine, very tender white flesh tinged red, mildly sweet with gentle acidity and a light perfume. Unusually for a summer apple it stays pleasant on and off the tree for a short while.",
-   "sweet": 3,
-   "acid": 2,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 3,
-   "tags": ["sweet", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Aug, straight from the tree"
+  {
+    "id": "manningtons-pearmain",
+    "name": "Mannington's Pearmain",
+    "aka": [
+      "Mannington Pearmain"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "GB",
+      "place": "Uckfield, Sussex, England",
+      "year": 1770,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Mr Turley (grew the seedling); introduced by John Mannington"
+    },
+    "history": "Grew from pips in cider pomace thrown out in Mr Turley's garden at Uckfield around 1770, and was put on the market by John Mannington in 1847.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "brown",
+      "blush_cover": 30,
+      "stripes": false,
+      "russet": 1,
+      "description": "Roundish greenish-yellow to golden apple with a brownish-red or pinkish flush and some russet."
+    },
+    "taste": {
+      "summary": "Firm, fine-grained, moderately juicy flesh with a rich, sweet, subtly aromatic flavour and a hint of nuttiness.",
+      "sweet": 4,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed",
+        "nutty"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Reasonably vigorous and a reliable cropper; National Fruit Collection trees have a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-late (about group 4)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 14
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "South-east England, where it arose; also grown in coastal British Columbia.",
+      "poor_climates": "No documented performance in hot or very cold regions."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A Sussex late keeper for heritage collections. Pick in mid October and store until the new year, when the flavour is richest.",
+    "conf": "medium"
   },
-  "tree": {
-   "vigor": 2,
-   "habit": "upright",
-   "bearing": null,
-   "cropping": null,
-   "biennial": "marked",
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Naturally small, upright and compact tree even on its own roots; inclined to crop every other year."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are early mid-season (about group 2-3)."
-  },
-  "season": {
-   "harvest": "mid Aug",
-   "eating": "Aug",
-   "storage_weeks": 2
-  },
-  "climate": {
-   "chill_hours": 1200,
-   "hardiness_zone": 3,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cold continental and northern climates: the Baltic, Scandinavia, the upper Midwest and New England, where its winter-hardiness matters.",
-   "poor_climates": "Hot summers ripen summer apples like this too fast and soften them; it has little advantage in mild climates."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Biennial bearing is the main recorded fault."
-  },
-  "grow_notes": "A compact, very hardy early apple for cold gardens. Thin the fruit in heavy years to even out cropping and eat it within days of picking.",
-  "conf": "medium"
- },
- {
-  "id": "lucombes-seedling",
-  "name": "Lucombe's Seedling",
-  "aka": ["Kirton Fair", "Newquay Prizetaker", "Uncle Barney", "Luckombe's Seedling"],
-  "uses": ["culinary", "dessert"],
-  "origin": {
-   "country": "GB",
-   "place": "Lucombe, Pince & Co. nursery, St Thomas, Exeter, Devon",
-   "year": 1831,
-   "year_note": "first recorded",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": "Lucombe, Pince & Co., Exeter"
-  },
-  "history": "Raised by the Exeter nursery Lucombe, Pince & Co. and described in 1831; it was once widely grown in Devon and Cornwall under local names such as Kirton Fair and Newquay Prizetaker.",
-  "look": {
-   "size": "large",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "crimson",
-   "blush_cover": 30,
-   "stripes": true,
-   "russet": 0,
-   "description": "Large, angular pale yellow-green apple streaked with crimson and dotted with dark spots, on a short thick stalk."
-  },
-  "taste": {
-   "summary": "Firm, juicy white flesh with a pleasant subacid flavour and a spicy note; used both for the kitchen and for eating.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 4,
-   "tags": ["spice"],
-   "cider_class": null,
-   "best_eaten": "Oct-Dec"
-  },
-  "tree": {
-   "vigor": 2,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Not very vigorous."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-season (about group 3)."
-  },
-  "season": {
-   "harvest": "mid Sep",
-   "eating": "Oct-Dec",
-   "storage_weeks": 8
-  },
-  "climate": {
-   "chill_hours": 900,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "The mild, moist south-west of England, where it was popular.",
-   "poor_climates": "No documented performance outside England."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "A West Country heritage apple worth growing in Devon and Cornwall orchards. The tree is modest in vigour, so a more vigorous rootstock suits it.",
-  "conf": "low"
- },
- {
-  "id": "manningtons-pearmain",
-  "name": "Mannington's Pearmain",
-  "aka": ["Mannington Pearmain"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "GB",
-   "place": "Uckfield, Sussex, England",
-   "year": 1770,
-   "year_note": "c.",
-   "kind": "chance",
-   "parentage": null,
-   "raised_by": "Mr Turley (grew the seedling); introduced by John Mannington"
-  },
-  "history": "Grew from pips in cider pomace thrown out in Mr Turley's garden at Uckfield around 1770, and was put on the market by John Mannington in 1847.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "brown",
-   "blush_cover": 30,
-   "stripes": false,
-   "russet": 1,
-   "description": "Roundish greenish-yellow to golden apple with a brownish-red or pinkish flush and some russet."
-  },
-  "taste": {
-   "summary": "Firm, fine-grained, moderately juicy flesh with a rich, sweet, subtly aromatic flavour and a hint of nuttiness.",
-   "sweet": 4,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 3,
-   "tags": ["sweet", "perfumed", "nutty"],
-   "cider_class": null,
-   "best_eaten": "Nov-Mar"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Reasonably vigorous and a reliable cropper; National Fruit Collection trees have a drooping habit."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-late (about group 4)."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Mar",
-   "storage_weeks": 14
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "South-east England, where it arose; also grown in coastal British Columbia.",
-   "poor_climates": "No documented performance in hot or very cold regions."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "A Sussex late keeper for heritage collections. Pick in mid October and store until the new year, when the flavour is richest.",
-  "conf": "medium"
- },
- {
-  "id": "medina",
-  "name": "Medina",
-  "aka": [],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "New York State Agricultural Experiment Station, Geneva, New York",
-   "year": 1911,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Deacon Jones x Delicious",
-   "raised_by": "Richard Wellington, NYSAES Geneva"
-  },
-  "history": "Raised in 1911 by Richard Wellington at the Geneva station in New York and introduced in 1922-23 as a larger, later Delicious-type apple.",
-  "look": {
-   "size": "medium",
-   "shape": "round-flat",
-   "ground": "yellow",
-   "blush": "orange-red",
-   "blush_cover": 50,
-   "stripes": true,
-   "russet": 1,
-   "description": "Ribbed, flattish golden-yellow apple with orange-red to red mottling and streaks."
-  },
-  "taste": {
-   "summary": "Tender, fairly coarse yellowish flesh, sweet with low acidity and a pronounced perfumed aroma in the Delicious style.",
-   "sweet": 4,
-   "acid": 2,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 3,
-   "tags": ["sweet", "perfumed"],
-   "cider_class": null,
-   "best_eaten": "Nov-Jan"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Tree details not documented."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": null,
-   "notes": "National Fruit Collection blossom dates are mid-season (about group 3-4)."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Jan",
-   "storage_weeks": 10
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Bred for western New York; warm-summer, cold-winter climates.",
-   "poor_climates": "No documented performance outside the north-eastern US and English trials."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "No disease information found."
-  },
-  "grow_notes": "A Delicious-style keeper of mainly historical interest. Pick in mid October and store for early winter eating.",
-  "conf": "low"
- }
+  {
+    "id": "medina",
+    "name": "Medina",
+    "aka": [],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "New York State Agricultural Experiment Station, Geneva, New York",
+      "year": 1911,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Deacon Jones x Delicious",
+      "raised_by": "Richard Wellington, NYSAES Geneva"
+    },
+    "history": "Raised in 1911 by Richard Wellington at the Geneva station in New York and introduced in 1922-23 as a larger, later Delicious-type apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 50,
+      "stripes": true,
+      "russet": 1,
+      "description": "Ribbed, flattish golden-yellow apple with orange-red to red mottling and streaks."
+    },
+    "taste": {
+      "summary": "Tender, fairly coarse yellowish flesh, sweet with low acidity and a pronounced perfumed aroma in the Delicious style.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 3,
+      "tags": [
+        "sweet",
+        "perfumed"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Tree details not documented."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "National Fruit Collection blossom dates are mid-season (about group 3-4)."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Bred for western New York; warm-summer, cold-winter climates.",
+      "poor_climates": "No documented performance outside the north-eastern US and English trials."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "No disease information found."
+    },
+    "grow_notes": "A Delicious-style keeper of mainly historical interest. Pick in mid October and store for early winter eating.",
+    "conf": "low"
+  }
 ]

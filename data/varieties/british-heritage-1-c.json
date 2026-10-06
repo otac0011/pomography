@@ -29,7 +29,8 @@
       "blush_cover": 70,
       "stripes": true,
       "russet": 1,
-      "description": "Large, broad, slightly ribbed apple with a pale cream skin largely covered in pink to bright scarlet with a waxy bloom; flesh often pink just under the skin."
+      "description": "Large, broad, slightly ribbed apple with a pale cream skin largely covered in pink to bright scarlet with a waxy bloom; flesh often pink just under the skin.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Firm, fine-grained, rather dry white flesh, sweet with only a light, faintly perfumed flavour; sharper at picking and mellower after storage. Grown more for looks, cooking and coloured juice than for depth of flavour.",

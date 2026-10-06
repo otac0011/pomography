@@ -110,7 +110,8 @@
       "blush_cover": 75,
       "stripes": false,
       "russet": 1,
-      "description": "Round to slightly flattened apple, marbled dark red over most of a yellow-green skin, sprinkled with pale brown lenticels; red often stains the flesh just under the skin."
+      "description": "Round to slightly flattened apple, marbled dark red over most of a yellow-green skin, sprinkled with pale brown lenticels; red often stains the flesh just under the skin.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Tender, juicy, yellowish-white flesh with a fresh sweet-tart balance; Scandinavian sources praise its pleasant aroma and one taster finds a hint of Cox, but Orange Pippin rates the flavour light and rather bland. Best soon after picking, though it can be stored into the new year; a traditional Christmas apple in Scandinavia.",

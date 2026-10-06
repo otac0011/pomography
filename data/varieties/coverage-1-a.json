@@ -1,541 +1,605 @@
 [
- {
-  "id": "akero",
-  "name": "Åkerö",
-  "aka": ["Akero", "Okera", "Schmidts Junkerapfel"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "SE",
-   "place": "Probably Åkerö manor, near Bettna, Södermanland, Sweden",
-   "year": 1858,
-   "year_note": "first recorded",
-   "kind": "chance",
-   "parentage": "Unknown; one Wikipedia account suggests Grågylling x Vitgylling, and the Swedish pomologist C. G. Dahl thought it might be the German Schmidts Junkerapfel. Neither is proven.",
-   "raised_by": null
+  {
+    "id": "akero",
+    "name": "Åkerö",
+    "aka": [
+      "Akero",
+      "Okera",
+      "Schmidts Junkerapfel"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "SE",
+      "place": "Probably Åkerö manor, near Bettna, Södermanland, Sweden",
+      "year": 1858,
+      "year_note": "first recorded",
+      "kind": "chance",
+      "parentage": "Unknown; one Wikipedia account suggests Grågylling x Vitgylling, and the Swedish pomologist C. G. Dahl thought it might be the German Schmidts Junkerapfel. Neither is proven.",
+      "raised_by": null
+    },
+    "history": "An old Swedish dessert apple named in the 1850s by the pomologist Olof Eneroth after the manor where the oldest known tree grows; it may have been there since the mid-1700s. Long regarded in Sweden as one of the finest home-grown apples, it is the provincial apple of Södermanland and was once widely planted in Scandinavia and northern Germany.",
+    "look": {
+      "size": "medium",
+      "shape": "oblong",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Tall, egg-shaped fruit with a pale primrose to whitish-yellow skin, streaked and flushed pinkish red on the sunny side."
+    },
+    "taste": {
+      "summary": "Firm, even hard, very juicy pale flesh with a sweet-sharp balance and an unusual aromatic, slightly spicy character that some describe as raspberry-like. Rather hard when first picked and better after some weeks in store.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "berry",
+        "spice"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec in Scandinavia; English records suggest it is ready earlier and keeps less well"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "upright",
+      "bearing": null,
+      "cropping": "moderate",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Strong, upright, almost pear-like branch habit. Swedish advice is to prune moderately and go easy on nitrogen but be generous with potash. Fruit may drop if left on the tree after it ripens."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "no",
+      "notes": "Early flowering; needs an early-blooming partner."
+    },
+    "season": {
+      "harvest": "early Sep-mid Sep",
+      "eating": "Sep-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool northern European summers; in Sweden it is recommended from the south up to about the middle of the country (Swedish zones II-IV).",
+      "poor_climates": "Not recorded in hot climates; a Scandinavian apple unlikely to colour or keep well where summers are hot."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not well documented in English sources; fruit tends to drop once ripe."
+    },
+    "grow_notes": "Give it a partner that flowers early, and allow room for its tall upright growth. Feed lightly with nitrogen. Sources disagree on timing: the National Fruit Collection in Kent picks it as early as late August, while Swedish and Orange Pippin records place it in September-October and say it keeps into winter.",
+    "conf": "medium"
   },
-  "history": "An old Swedish dessert apple named in the 1850s by the pomologist Olof Eneroth after the manor where the oldest known tree grows; it may have been there since the mid-1700s. Long regarded in Sweden as one of the finest home-grown apples, it is the provincial apple of Södermanland and was once widely planted in Scandinavia and northern Germany.",
-  "look": {
-   "size": "medium",
-   "shape": "oblong",
-   "ground": "cream",
-   "blush": "red",
-   "blush_cover": 40,
-   "stripes": true,
-   "russet": 0,
-   "description": "Tall, egg-shaped fruit with a pale primrose to whitish-yellow skin, streaked and flushed pinkish red on the sunny side."
+  {
+    "id": "alkmene",
+    "name": "Alkmene",
+    "aka": [
+      "Early Windsor"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "DE",
+      "place": "Kaiser Wilhelm Institute, Müncheberg, Brandenburg, Germany",
+      "year": 1930,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Geheimrat Dr. Oldenburg",
+      "raised_by": "Kaiser Wilhelm Institute for Breeding Research"
+    },
+    "history": "Bred at Müncheberg in eastern Germany around 1930 from Cox's Orange Pippin and the German apple Geheimrat Dr. Oldenburg, and sold in Britain as Early Windsor. It holds an RHS Award of Garden Merit and has given the red sports Red Alkmene (Red Windsor) and Ceeval.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "orange-red",
+      "blush_cover": 60,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium, rounded apple with an orange-red flush and bold red stripes over greenish-yellow skin."
+    },
+    "taste": {
+      "summary": "A Cox-style apple that is crisper, juicier and a little sharper than Cox, with honeyed sweetness when fully ripe. Firm, dense cream to yellow flesh; flavour is strong but fades within a few weeks of picking.",
+      "sweet": 3,
+      "acid": 4,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "honey",
+        "perfumed",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Oct, straight from the tree or within 2-3 weeks"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "heavy",
+      "biennial": null,
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Moderately vigorous spur-bearer that crops heavily; an easy, healthy choice for gardens in cooler parts of Britain."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": "yes",
+      "notes": "Early flowering and reported self-fertile; also a good pollen donor. Blossom is vulnerable to spring frost."
+    },
+    "season": {
+      "harvest": "mid Sep-late Sep",
+      "eating": "Sep-Oct",
+      "storage_weeks": 3
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cool to mild temperate climates such as Britain, including the north and Scotland, and northern Europe.",
+      "poor_climates": "Frost pockets threaten its early blossom; hot summers are outside its documented range."
+    },
+    "health": {
+      "scab": 2,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Notably resistant to scab; early blossom is frost-tender."
+    },
+    "grow_notes": "A good Cox substitute for colder or wetter gardens where Cox struggles. Avoid frost hollows because it blooms early. Pick when fully coloured and eat soon, as it is a short keeper.",
+    "conf": "high"
   },
-  "taste": {
-   "summary": "Firm, even hard, very juicy pale flesh with a sweet-sharp balance and an unusual aromatic, slightly spicy character that some describe as raspberry-like. Rather hard when first picked and better after some weeks in store.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["perfumed", "berry", "spice"],
-   "cider_class": null,
-   "best_eaten": "Oct-Dec in Scandinavia; English records suggest it is ready earlier and keeps less well"
+  {
+    "id": "beacon",
+    "name": "Beacon",
+    "aka": [
+      "Miller Red",
+      "Fenton"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
+      "year": 1908,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Uncertain: given as Malinda x Wealthy by the National Fruit Collection and Wikipedia, but as (Malinda x Duchess of Oldenburg) x (Malinda x Tetofsky) by Orange Pippin",
+      "raised_by": "University of Minnesota"
+    },
+    "history": "Raised in 1908 at the University of Minnesota breeding farm at Excelsior and released in 1936 as a cold-hardy early red apple for the northern prairies. It descends from Malinda, the Vermont apple behind many Minnesota introductions.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium, conical fruit striped and washed with deep red over yellow."
+    },
+    "taste": {
+      "summary": "A soft, rather pulpy early apple with a mild, sweet flavour; some find it lively and juicy, others call it ordinary. Better for baking or sauce than for keeping.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep, within a week or two of picking"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "diploid",
+      "notes": "Average vigour with a drooping, spreading habit; a regular spur-bearer. Valued mainly for hardiness rather than quality."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Orange Pippin gives group 4; National Fruit Collection records show it opening only a day or so before Bramley, so group 3-4 is realistic."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep",
+      "storage_weeks": 2
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 4,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": true,
+      "best_climates": "Cold continental climates of the upper Midwest and Canada where few early apples survive the winter.",
+      "poor_climates": "Warm regions, where its soft early fruit would go over quickly; susceptible to fire blight where that is common."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": 4,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Susceptible to fire blight and somewhat to cedar-apple rust."
+    },
+    "grow_notes": "Worth planting mainly where winters are too hard for standard varieties. Use the crop promptly for eating fresh, sauce or baking, as the fruit softens within days.",
+    "conf": "medium"
   },
-  "tree": {
-   "vigor": 4,
-   "habit": "upright",
-   "bearing": null,
-   "cropping": "moderate",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Strong, upright, almost pear-like branch habit. Swedish advice is to prune moderately and go easy on nitrogen but be generous with potash. Fruit may drop if left on the tree after it ripens."
+  {
+    "id": "crimson-beauty",
+    "name": "Crimson Beauty",
+    "aka": [
+      "Early Red Bird",
+      "Early Scarlet",
+      "Crimson Beauty (Canada)"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "CA",
+      "place": "Orchard of F. P. Sharp, New Brunswick, Canada",
+      "year": 1880,
+      "year_note": "c.",
+      "kind": "bred",
+      "parentage": "New Brunswicker x Fameuse according to Wikipedia; the National Fruit Collection gives Duchess of Oldenburg x Fameuse (New Brunswicker is itself a Duchess seedling)",
+      "raised_by": "Francis Peabody Sharp"
+    },
+    "history": "Raised by the New Brunswick pomologist Francis Peabody Sharp, who made deliberate crosses to get apples for short seasons and cold winters; it is often cited as one of the first apples from a controlled cross. Stark Bros later sold it as Early Red Bird.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium apple striped and largely covered in red over greenish yellow; the white flesh may show red veining on the sunny side.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "A very early, soft-fleshed apple with a subacid to sharp flavour and little sweetness. Best used quickly, fresh or cooked; it makes a pink sauce.",
+      "sweet": 2,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": 2,
+      "juicy": 2,
+      "tags": [
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Early Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing data; the National Fruit Collection tree has a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 2,
+      "self_fertile": null,
+      "notes": "No published group; National Fruit Collection records show it among the earliest to open (before Egremont Russet), so group 2 or earlier."
+    },
+    "season": {
+      "harvest": "early Aug",
+      "eating": "Aug",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 1200,
+      "hardiness_zone": 4,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Short-season, cold-winter regions such as the Canadian Maritimes, for which it was bred.",
+      "poor_climates": "No firm record; early soft fruit does not store anywhere."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A historical curiosity and very early apple for cold districts. Pick over the tree as fruit colours and use within days. Flowers early, so avoid frost pockets.",
+    "conf": "low"
   },
-  "pollination": {
-   "flower_group": 2,
-   "self_fertile": "no",
-   "notes": "Early flowering; needs an early-blooming partner."
+  {
+    "id": "florina",
+    "name": "Florina",
+    "aka": [
+      "Querina"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "FR",
+      "place": "INRA Station de Recherches d'Arboriculture Fruitière, Angers, France",
+      "year": 1977,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Selection 612-1 x Jonathan; the complex ancestry includes Malus floribunda (source of the Vf scab-resistance gene), Rome Beauty, Golden Delicious, Starking and Jonathan",
+      "raised_by": "INRA, Angers"
+    },
+    "history": "A scab-resistant apple from the French national research station at Angers, released in the late 1970s and sometimes sold as Querina. Its Vf resistance comes from the crab apple Malus floribunda, and it is widely planted in European organic orchards.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "deep-red",
+      "blush_cover": 75,
+      "stripes": false,
+      "russet": 1,
+      "description": "Medium to large round fruit, washed purplish red over most of a yellow skin; a very handsome apple."
+    },
+    "taste": {
+      "summary": "Medium-firm, very juicy flesh with an aromatic sweet-tart balance; some sources find it rather sweet, others rather sharp. Keeps well, though juiciness fades in long storage.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": "spreading",
+      "bearing": "part-tip",
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": "diploid",
+      "notes": "Vigorous, precocious and productive with a spreading to drooping habit; a partial tip-bearer, so prune lightly. Easy for beginners."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Needs a partner but is itself a good pollinator."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 12
+    },
+    "climate": {
+      "chill_hours": 800,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Temperate to warm climates, including western and southern Europe, where its disease resistance makes low-spray growing practical.",
+      "poor_climates": "Short, cool seasons where a mid-October apple may not ripen fully."
+    },
+    "health": {
+      "scab": 1,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": 2,
+      "rust": 3,
+      "bitter_pit": null,
+      "other": "Vf scab resistance; some resistance to mildew, fire blight and woolly aphid. Occasional core mould in store."
+    },
+    "grow_notes": "One of the best choices for unsprayed gardens. Plant with another mid-to-late flowering variety and leave the tip-borne fruit buds when pruning.",
+    "conf": "high"
   },
-  "season": {
-   "harvest": "early Sep-mid Sep",
-   "eating": "Sep-Dec",
-   "storage_weeks": 8
+  {
+    "id": "karmijn-de-sonnaville",
+    "name": "Karmijn de Sonnaville",
+    "aka": [
+      "Karmijn"
+    ],
+    "uses": [
+      "dessert",
+      "juice"
+    ],
+    "origin": {
+      "country": "NL",
+      "place": "IVT, Wageningen, Netherlands",
+      "year": 1949,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Cox's Orange Pippin x Jonathan (some German sources suggest Belle de Boskoop as the pollen parent)",
+      "raised_by": "Piet de Sonnaville"
+    },
+    "history": "Raised in 1949 by Piet de Sonnaville at Wageningen and released in 1971. It never became a major commercial apple because it is awkward to grow, but enthusiasts prize its intense flavour; an Irish orchard grows it for juice.",
+    "look": {
+      "size": "medium",
+      "shape": "round-flat",
+      "ground": "yellow-green",
+      "blush": "red",
+      "blush_cover": 70,
+      "stripes": false,
+      "russet": 2,
+      "description": "Medium to large apple flushed carmine red over yellow-green, often with considerable russet."
+    },
+    "taste": {
+      "summary": "A Cox-type apple with even more intensity: high in both sugar and acid, with a rich, spicy, strongly aromatic flavour. Crisp and juicy, and it becomes more complex after a few weeks in store.",
+      "sweet": 4,
+      "acid": 4,
+      "aroma": 5,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "perfumed",
+        "spice",
+        "sharp",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Oct-Dec, after a few weeks in store"
+    },
+    "tree": {
+      "vigor": 4,
+      "habit": null,
+      "bearing": "spur",
+      "cropping": "moderate",
+      "biennial": "none",
+      "precocity": null,
+      "ploidy": "triploid",
+      "notes": "Vigorous triploid that needs good soil, a good site and careful management; can be difficult to grow."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": "no",
+      "notes": "Triploid: a poor pollen donor that needs two other compatible varieties nearby for good fruit set."
+    },
+    "season": {
+      "harvest": "early Oct",
+      "eating": "Oct-Dec",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 3,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Warmer, drier temperate areas, similar to those that suit Jonathan.",
+      "poor_climates": "Wet, scab-prone districts; cold, poor sites."
+    },
+    "health": {
+      "scab": 5,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Very susceptible to scab; fruit russet can be severe; codling moth damage reported."
+    },
+    "grow_notes": "Plant in a sunny, well-drained, sheltered spot with two pollinators. Expect to manage scab, and leave the fruit in store for a few weeks to reach full flavour.",
+    "conf": "high"
   },
-  "climate": {
-   "chill_hours": 1100,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": true,
-   "best_climates": "Cool northern European summers; in Sweden it is recommended from the south up to about the middle of the country (Swedish zones II-IV).",
-   "poor_climates": "Not recorded in hot climates; a Scandinavian apple unlikely to colour or keep well where summers are hot."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not well documented in English sources; fruit tends to drop once ripe."
-  },
-  "grow_notes": "Give it a partner that flowers early, and allow room for its tall upright growth. Feed lightly with nitrogen. Sources disagree on timing: the National Fruit Collection in Kent picks it as early as late August, while Swedish and Orange Pippin records place it in September-October and say it keeps into winter.",
-  "conf": "medium"
- },
- {
-  "id": "alkmene",
-  "name": "Alkmene",
-  "aka": ["Early Windsor"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "DE",
-   "place": "Kaiser Wilhelm Institute, Müncheberg, Brandenburg, Germany",
-   "year": 1930,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Cox's Orange Pippin x Geheimrat Dr. Oldenburg",
-   "raised_by": "Kaiser Wilhelm Institute for Breeding Research"
-  },
-  "history": "Bred at Müncheberg in eastern Germany around 1930 from Cox's Orange Pippin and the German apple Geheimrat Dr. Oldenburg, and sold in Britain as Early Windsor. It holds an RHS Award of Garden Merit and has given the red sports Red Alkmene (Red Windsor) and Ceeval.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow-green",
-   "blush": "orange-red",
-   "blush_cover": 60,
-   "stripes": true,
-   "russet": 1,
-   "description": "Medium, rounded apple with an orange-red flush and bold red stripes over greenish-yellow skin."
-  },
-  "taste": {
-   "summary": "A Cox-style apple that is crisper, juicier and a little sharper than Cox, with honeyed sweetness when fully ripe. Firm, dense cream to yellow flesh; flavour is strong but fades within a few weeks of picking.",
-   "sweet": 3,
-   "acid": 4,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["honey", "perfumed", "sharp"],
-   "cider_class": null,
-   "best_eaten": "Sep-Oct, straight from the tree or within 2-3 weeks"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": "spur",
-   "cropping": "heavy",
-   "biennial": null,
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Moderately vigorous spur-bearer that crops heavily; an easy, healthy choice for gardens in cooler parts of Britain."
-  },
-  "pollination": {
-   "flower_group": 2,
-   "self_fertile": "yes",
-   "notes": "Early flowering and reported self-fertile; also a good pollen donor. Blossom is vulnerable to spring frost."
-  },
-  "season": {
-   "harvest": "mid Sep-late Sep",
-   "eating": "Sep-Oct",
-   "storage_weeks": 3
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": true,
-   "best_climates": "Cool to mild temperate climates such as Britain, including the north and Scotland, and northern Europe.",
-   "poor_climates": "Frost pockets threaten its early blossom; hot summers are outside its documented range."
-  },
-  "health": {
-   "scab": 2,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Notably resistant to scab; early blossom is frost-tender."
-  },
-  "grow_notes": "A good Cox substitute for colder or wetter gardens where Cox struggles. Avoid frost hollows because it blooms early. Pick when fully coloured and eat soon, as it is a short keeper.",
-  "conf": "high"
- },
- {
-  "id": "beacon",
-  "name": "Beacon",
-  "aka": ["Miller Red", "Fenton"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "US",
-   "place": "University of Minnesota Fruit Breeding Farm, Excelsior, Minnesota",
-   "year": 1908,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Uncertain: given as Malinda x Wealthy by the National Fruit Collection and Wikipedia, but as (Malinda x Duchess of Oldenburg) x (Malinda x Tetofsky) by Orange Pippin",
-   "raised_by": "University of Minnesota"
-  },
-  "history": "Raised in 1908 at the University of Minnesota breeding farm at Excelsior and released in 1936 as a cold-hardy early red apple for the northern prairies. It descends from Malinda, the Vermont apple behind many Minnesota introductions.",
-  "look": {
-   "size": "medium",
-   "shape": "conical",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 75,
-   "stripes": true,
-   "russet": 0,
-   "description": "Medium, conical fruit striped and washed with deep red over yellow."
-  },
-  "taste": {
-   "summary": "A soft, rather pulpy early apple with a mild, sweet flavour; some find it lively and juicy, others call it ordinary. Better for baking or sauce than for keeping.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 4,
-   "tags": ["sweet", "mild"],
-   "cider_class": null,
-   "best_eaten": "Sep, within a week or two of picking"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": "spur",
-   "cropping": "moderate",
-   "biennial": "none",
-   "precocity": null,
-   "ploidy": "diploid",
-   "notes": "Average vigour with a drooping, spreading habit; a regular spur-bearer. Valued mainly for hardiness rather than quality."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": "no",
-   "notes": "Orange Pippin gives group 4; National Fruit Collection records show it opening only a day or so before Bramley, so group 3-4 is realistic."
-  },
-  "season": {
-   "harvest": "early Sep",
-   "eating": "Sep",
-   "storage_weeks": 2
-  },
-  "climate": {
-   "chill_hours": 1200,
-   "hardiness_zone": 4,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": true,
-   "best_climates": "Cold continental climates of the upper Midwest and Canada where few early apples survive the winter.",
-   "poor_climates": "Warm regions, where its soft early fruit would go over quickly; susceptible to fire blight where that is common."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": 4,
-   "rust": 3,
-   "bitter_pit": null,
-   "other": "Susceptible to fire blight and somewhat to cedar-apple rust."
-  },
-  "grow_notes": "Worth planting mainly where winters are too hard for standard varieties. Use the crop promptly for eating fresh, sauce or baking, as the fruit softens within days.",
-  "conf": "medium"
- },
- {
-  "id": "crimson-beauty",
-  "name": "Crimson Beauty",
-  "aka": ["Early Red Bird", "Early Scarlet", "Crimson Beauty (Canada)"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "CA",
-   "place": "Orchard of F. P. Sharp, New Brunswick, Canada",
-   "year": 1880,
-   "year_note": "c.",
-   "kind": "bred",
-   "parentage": "New Brunswicker x Fameuse according to Wikipedia; the National Fruit Collection gives Duchess of Oldenburg x Fameuse (New Brunswicker is itself a Duchess seedling)",
-   "raised_by": "Francis Peabody Sharp"
-  },
-  "history": "Raised by the New Brunswick pomologist Francis Peabody Sharp, who made deliberate crosses to get apples for short seasons and cold winters; it is often cited as one of the first apples from a controlled cross. Stark Bros later sold it as Early Red Bird.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 70,
-   "stripes": true,
-   "russet": 0,
-   "description": "Medium apple striped and largely covered in red over greenish yellow; the white flesh may show red veining on the sunny side."
-  },
-  "taste": {
-   "summary": "A very early, soft-fleshed apple with a subacid to sharp flavour and little sweetness. Best used quickly, fresh or cooked; it makes a pink sauce.",
-   "sweet": 2,
-   "acid": 3,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": 2,
-   "juicy": 2,
-   "tags": ["sharp"],
-   "cider_class": null,
-   "best_eaten": "Early Aug, straight from the tree"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Little modern growing data; the National Fruit Collection tree has a drooping habit."
-  },
-  "pollination": {
-   "flower_group": 2,
-   "self_fertile": null,
-   "notes": "No published group; National Fruit Collection records show it among the earliest to open (before Egremont Russet), so group 2 or earlier."
-  },
-  "season": {
-   "harvest": "early Aug",
-   "eating": "Aug",
-   "storage_weeks": 1
-  },
-  "climate": {
-   "chill_hours": 1200,
-   "hardiness_zone": 4,
-   "heat_tolerance": null,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Short-season, cold-winter regions such as the Canadian Maritimes, for which it was bred.",
-   "poor_climates": "No firm record; early soft fruit does not store anywhere."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not documented."
-  },
-  "grow_notes": "A historical curiosity and very early apple for cold districts. Pick over the tree as fruit colours and use within days. Flowers early, so avoid frost pockets.",
-  "conf": "low"
- },
- {
-  "id": "florina",
-  "name": "Florina",
-  "aka": ["Querina"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "FR",
-   "place": "INRA Station de Recherches d'Arboriculture Fruitière, Angers, France",
-   "year": 1977,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Selection 612-1 x Jonathan; the complex ancestry includes Malus floribunda (source of the Vf scab-resistance gene), Rome Beauty, Golden Delicious, Starking and Jonathan",
-   "raised_by": "INRA, Angers"
-  },
-  "history": "A scab-resistant apple from the French national research station at Angers, released in the late 1970s and sometimes sold as Querina. Its Vf resistance comes from the crab apple Malus floribunda, and it is widely planted in European organic orchards.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "deep-red",
-   "blush_cover": 75,
-   "stripes": false,
-   "russet": 1,
-   "description": "Medium to large round fruit, washed purplish red over most of a yellow skin; a very handsome apple."
-  },
-  "taste": {
-   "summary": "Medium-firm, very juicy flesh with an aromatic sweet-tart balance; some sources find it rather sweet, others rather sharp. Keeps well, though juiciness fades in long storage.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 4,
-   "tags": ["perfumed", "sweet", "sharp"],
-   "cider_class": null,
-   "best_eaten": "Nov-Jan"
-  },
-  "tree": {
-   "vigor": 4,
-   "habit": "spreading",
-   "bearing": "part-tip",
-   "cropping": "heavy",
-   "biennial": "none",
-   "precocity": 4,
-   "ploidy": "diploid",
-   "notes": "Vigorous, precocious and productive with a spreading to drooping habit; a partial tip-bearer, so prune lightly. Easy for beginners."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": "no",
-   "notes": "Needs a partner but is itself a good pollinator."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Jan",
-   "storage_weeks": 12
-  },
-  "climate": {
-   "chill_hours": 800,
-   "hardiness_zone": 5,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": false,
-   "best_climates": "Temperate to warm climates, including western and southern Europe, where its disease resistance makes low-spray growing practical.",
-   "poor_climates": "Short, cool seasons where a mid-October apple may not ripen fully."
-  },
-  "health": {
-   "scab": 1,
-   "canker": null,
-   "mildew": 2,
-   "fire_blight": 2,
-   "rust": 3,
-   "bitter_pit": null,
-   "other": "Vf scab resistance; some resistance to mildew, fire blight and woolly aphid. Occasional core mould in store."
-  },
-  "grow_notes": "One of the best choices for unsprayed gardens. Plant with another mid-to-late flowering variety and leave the tip-borne fruit buds when pruning.",
-  "conf": "high"
- },
- {
-  "id": "karmijn-de-sonnaville",
-  "name": "Karmijn de Sonnaville",
-  "aka": ["Karmijn"],
-  "uses": ["dessert", "juice"],
-  "origin": {
-   "country": "NL",
-   "place": "IVT, Wageningen, Netherlands",
-   "year": 1949,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Cox's Orange Pippin x Jonathan (some German sources suggest Belle de Boskoop as the pollen parent)",
-   "raised_by": "Piet de Sonnaville"
-  },
-  "history": "Raised in 1949 by Piet de Sonnaville at Wageningen and released in 1971. It never became a major commercial apple because it is awkward to grow, but enthusiasts prize its intense flavour; an Irish orchard grows it for juice.",
-  "look": {
-   "size": "medium",
-   "shape": "round-flat",
-   "ground": "yellow-green",
-   "blush": "red",
-   "blush_cover": 70,
-   "stripes": false,
-   "russet": 2,
-   "description": "Medium to large apple flushed carmine red over yellow-green, often with considerable russet."
-  },
-  "taste": {
-   "summary": "A Cox-type apple with even more intensity: high in both sugar and acid, with a rich, spicy, strongly aromatic flavour. Crisp and juicy, and it becomes more complex after a few weeks in store.",
-   "sweet": 4,
-   "acid": 4,
-   "aroma": 5,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["perfumed", "spice", "sharp", "sweet"],
-   "cider_class": null,
-   "best_eaten": "Oct-Dec, after a few weeks in store"
-  },
-  "tree": {
-   "vigor": 4,
-   "habit": null,
-   "bearing": "spur",
-   "cropping": "moderate",
-   "biennial": "none",
-   "precocity": null,
-   "ploidy": "triploid",
-   "notes": "Vigorous triploid that needs good soil, a good site and careful management; can be difficult to grow."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": "no",
-   "notes": "Triploid: a poor pollen donor that needs two other compatible varieties nearby for good fruit set."
-  },
-  "season": {
-   "harvest": "early Oct",
-   "eating": "Oct-Dec",
-   "storage_weeks": 8
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 3,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Warmer, drier temperate areas, similar to those that suit Jonathan.",
-   "poor_climates": "Wet, scab-prone districts; cold, poor sites."
-  },
-  "health": {
-   "scab": 5,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Very susceptible to scab; fruit russet can be severe; codling moth damage reported."
-  },
-  "grow_notes": "Plant in a sunny, well-drained, sheltered spot with two pollinators. Expect to manage scab, and leave the fruit in store for a few weeks to reach full flavour.",
-  "conf": "high"
- },
- {
-  "id": "melon",
-  "name": "Melon",
-  "aka": ["Norton's Melon", "Watermelon", "Melon Norton"],
-  "uses": ["dessert"],
-  "origin": {
-   "country": "US",
-   "place": "East Bloomfield, Ontario County, New York, from seed brought from Connecticut",
-   "year": 1800,
-   "year_note": "c.",
-   "kind": "chance",
-   "parentage": null,
-   "raised_by": "Heman Chapin"
-  },
-  "history": "Grew from seed carried from Connecticut to the orchard of Heman Chapin at East Bloomfield, New York, around 1800, and was introduced in 1845. It was regarded in the 19th century as a first-rate dessert apple.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "cream",
-   "blush": "red",
-   "blush_cover": 40,
-   "stripes": true,
-   "russet": 0,
-   "description": "Medium to large, broadly conical apple with pale whitish-yellow skin striped and partly flushed red."
-  },
-  "taste": {
-   "summary": "Fine-grained, crisp yet very tender and very juicy yellowish flesh, sweet with gentle acidity and a noticeable aroma. Quality falls away if kept much past mid-winter.",
-   "sweet": 4,
-   "acid": 2,
-   "aroma": 4,
-   "tannin": 0,
-   "crisp": 3,
-   "juicy": 5,
-   "tags": ["perfumed", "sweet"],
-   "cider_class": null,
-   "best_eaten": "Nov-Jan"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "Little modern growing information."
-  },
-  "pollination": {
-   "flower_group": 4,
-   "self_fertile": null,
-   "notes": "Late-ish flowering; plant with another mid-to-late variety."
-  },
-  "season": {
-   "harvest": "mid Oct",
-   "eating": "Nov-Jan",
-   "storage_weeks": 10
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": null,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Long-established in New York State and New England conditions.",
-   "poor_climates": "Not recorded."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not documented."
-  },
-  "grow_notes": "A heritage dessert apple for collectors. Pick in mid-October and eat before late winter, when flavour declines.",
-  "conf": "medium"
- }
+  {
+    "id": "melon",
+    "name": "Melon",
+    "aka": [
+      "Norton's Melon",
+      "Watermelon",
+      "Melon Norton"
+    ],
+    "uses": [
+      "dessert"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "East Bloomfield, Ontario County, New York, from seed brought from Connecticut",
+      "year": 1800,
+      "year_note": "c.",
+      "kind": "chance",
+      "parentage": null,
+      "raised_by": "Heman Chapin"
+    },
+    "history": "Grew from seed carried from Connecticut to the orchard of Heman Chapin at East Bloomfield, New York, around 1800, and was introduced in 1845. It was regarded in the 19th century as a first-rate dessert apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "cream",
+      "blush": "red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 0,
+      "description": "Medium to large, broadly conical apple with pale whitish-yellow skin striped and partly flushed red."
+    },
+    "taste": {
+      "summary": "Fine-grained, crisp yet very tender and very juicy yellowish flesh, sweet with gentle acidity and a noticeable aroma. Quality falls away if kept much past mid-winter.",
+      "sweet": 4,
+      "acid": 2,
+      "aroma": 4,
+      "tannin": 0,
+      "crisp": 3,
+      "juicy": 5,
+      "tags": [
+        "perfumed",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Jan"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "Little modern growing information."
+    },
+    "pollination": {
+      "flower_group": 4,
+      "self_fertile": null,
+      "notes": "Late-ish flowering; plant with another mid-to-late variety."
+    },
+    "season": {
+      "harvest": "mid Oct",
+      "eating": "Nov-Jan",
+      "storage_weeks": 10
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": null,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Long-established in New York State and New England conditions.",
+      "poor_climates": "Not recorded."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A heritage dessert apple for collectors. Pick in mid-October and eat before late winter, when flavour declines.",
+    "conf": "medium"
+  }
 ]

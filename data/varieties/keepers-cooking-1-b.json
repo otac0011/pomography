@@ -276,7 +276,8 @@
       "blush_cover": 85,
       "stripes": true,
       "russet": 0,
-      "description": "Large, broad fruit almost entirely streaked dark purplish-red over a pale ground."
+      "description": "Large, broad fruit almost entirely streaked dark purplish-red over a pale ground.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Soft, greenish flesh that is often veined with pink, sweetish with a mild acidity and some aroma. Used mainly for cooking and baking.",

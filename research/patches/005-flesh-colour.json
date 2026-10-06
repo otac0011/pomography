@@ -1,0 +1,193 @@
+{
+ "_note": "Flesh colour from each record's own taste/look text (2026-10-06, decision 0010): red = red or pink right through or streaked through the flesh; tinged = stained pink/red just under the skin or near the core.",
+ "hidden-rose": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "pink-pearl": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "surprise": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "red-sauce": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "harry-baker": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "sops-in-wine": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "bloody-ploughman": {
+  "look": {
+   "flesh_colour": "red"
+  }
+ },
+ "beauty-of-bath": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "bellefleur-krasnyi": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "berner-rosen": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "bess-pool": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "browns-apple": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "burgundy": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "coeur-de-boeuf": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "colonel-vaughan": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "crimson-beauty": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "danziger-kantapfel": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "detroit-red": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "devonshire-quarrenden": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "discovery": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "duchesss-favourite": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "foxwhelp": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "gascoynes-scarlet": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "ingrid-marie": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "jersey-black": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "lakeland": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "liveland-raspberry": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "magnum-bonum": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "mio": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "red-astrachan": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "red-autumn-calville": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "red-pineapple": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "reinette-rouge-etoilee": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "snovit": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "ten-commandments": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "wealthy": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "williams-favourite": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ },
+ "yates": {
+  "look": {
+   "flesh_colour": "tinged"
+  }
+ }
+}

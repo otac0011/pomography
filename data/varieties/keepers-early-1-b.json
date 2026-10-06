@@ -27,7 +27,8 @@
       "blush_cover": 70,
       "stripes": false,
       "russet": 1,
-      "description": "Pale greenish-yellow apple with a glossy bright red flush on the sunny side; the flesh is often tinged pink beneath the skin."
+      "description": "Pale greenish-yellow apple with a glossy bright red flush on the sunny side; the flesh is often tinged pink beneath the skin.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Crisp, juicy and fine-textured, more acidic than sweet with a fresh, tangy finish but little depth; a hint of strawberry appears in some years. Best eaten straight from the tree: flavour drops off within about a week and the flesh soon turns woolly, though chilling slows this. Many growers rate it more highly than the official tasting note does.",
@@ -198,7 +199,8 @@
       "blush_cover": 60,
       "stripes": false,
       "russet": 0,
-      "description": "Medium, rounded apple, green-yellow with a bright red flush; the flesh may show pink staining."
+      "description": "Medium, rounded apple, green-yellow with a bright red flush; the flesh may show pink staining.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Sharp and acidic but fairly mild overall, with flesh often stained pink like Beauty of Bath and Discovery. Pleasant straight from the tree in late summer, though newer apples of the same season outclass it.",

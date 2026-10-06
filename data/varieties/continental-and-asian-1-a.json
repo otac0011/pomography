@@ -121,7 +121,8 @@
       "blush_cover": 80,
       "stripes": null,
       "russet": 0,
-      "description": "Angular, ribbed fruit with a shiny, waxy, silky skin flushed glossy red over most of the surface; flesh sometimes veined with red."
+      "description": "Angular, ribbed fruit with a shiny, waxy, silky skin flushed glossy red over most of the surface; flesh sometimes veined with red.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "A sweet-sharp, moderately aromatic apple with fairly tender white flesh that can be veined with green and red. Pleasant fresh in autumn and useful in the kitchen; picked at the end of September, it is usable from mid-October until about January.",

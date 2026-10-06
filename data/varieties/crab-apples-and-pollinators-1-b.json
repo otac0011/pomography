@@ -286,7 +286,8 @@
       "blush_cover": 100,
       "stripes": false,
       "russet": 0,
-      "description": "Large for a crab, round, with dark ruby-red skin and red-stained flesh."
+      "description": "Large for a crab, round, with dark ruby-red skin and red-stained flesh.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Sharp and fairly juicy with red-tinged flesh; rated very good for the kitchen, giving a rich, deep ruby jelly.",

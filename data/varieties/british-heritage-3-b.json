@@ -29,7 +29,8 @@
       "blush_cover": 60,
       "stripes": true,
       "russet": 1,
-      "description": "Handsome, rather tall and slightly irregular fruit, yellow washed and striped with clear red or crimson on the sunny side, with russet around the short, knobbed stalk."
+      "description": "Handsome, rather tall and slightly irregular fruit, yellow washed and striped with clear red or crimson on the sunny side, with russet around the short, knobbed stalk.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Sweet, gently wine-like flesh, sometimes tinged red under the skin. Old accounts call it tender and juicy, while the National Fruit Collection finds it rather dry and slightly coarse. It stays firm in store until spring.",

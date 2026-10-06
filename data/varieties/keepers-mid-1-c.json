@@ -441,7 +441,8 @@
       "blush_cover": 10,
       "stripes": false,
       "russet": null,
-      "description": "Small, egg-shaped, plain yellow-green apple with prominent lenticels and at most a faint blush, hiding vivid pink-red flesh."
+      "description": "Small, egg-shaped, plain yellow-green apple with prominent lenticels and at most a faint blush, hiding vivid pink-red flesh.",
+      "flesh_colour": "red"
     },
     "taste": {
       "summary": "Very firm, crisp, juicy red flesh with a bright sweet-tart balance and fruity berry and citrus notes; quite sharp if picked early, sweeter after a few weeks, and it can last into February. Flavour depends on site: one grower found it never developed real flavour at a research station.",

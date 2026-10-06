@@ -300,7 +300,8 @@
       "blush_cover": 70,
       "stripes": true,
       "russet": 0,
-      "description": "Small to medium yellow apple largely covered with light and dark red streaks and many small pale dots."
+      "description": "Small to medium yellow apple largely covered with light and dark red streaks and many small pale dots.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Fine-grained, crisp, juicy white flesh, often pink-stained under the skin, with a well-flavoured, aromatic sweet-sharp balance; one grower in England found it a little sharper than Cox. Regarded as one of the best early-autumn southern dessert apples.",
@@ -388,7 +389,8 @@
       "blush_cover": 80,
       "stripes": true,
       "russet": 0,
-      "description": "Small to very small fruit, pale yellow almost hidden under dark red shading and stripes; flesh sometimes tinged red under the skin."
+      "description": "Small to very small fruit, pale yellow almost hidden under dark red shading and stripes; flesh sometimes tinged red under the skin.",
+      "flesh_colour": "tinged"
     },
     "taste": {
       "summary": "Pleasant, sweetish yellowish-white flesh, usually described as tender, juicy and aromatic, though one modern grower found it crisp and fairly dry with a tangy flavour suggesting blood orange. Holds its quality through the winter and is well regarded for cider as well as fresh eating.",

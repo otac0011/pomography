@@ -1,310 +1,346 @@
 [
- {
-  "id": "williams-favourite",
-  "name": "Williams Favourite",
-  "aka": ["Williams", "Williams Early", "Williams Early Red", "Williams Red", "Williams' Favorite", "Queen", "Lady's Apple"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "US",
-   "place": "Roxbury, Massachusetts",
-   "year": 1750,
-   "year_note": "c.",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
+  {
+    "id": "williams-favourite",
+    "name": "Williams Favourite",
+    "aka": [
+      "Williams",
+      "Williams Early",
+      "Williams Early Red",
+      "Williams Red",
+      "Williams' Favorite",
+      "Queen",
+      "Lady's Apple"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Roxbury, Massachusetts",
+      "year": 1750,
+      "year_note": "c.",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "The original tree grew around 1750 on Captain Benjamin Williams's farm at Roxbury, Massachusetts, and the apple was first known locally as Queen or Lady's Apple. It came to wider notice about 1830 and later spread south, where it is still kept in heritage orchards as an early red apple.",
+    "look": {
+      "size": "medium",
+      "shape": "round-conical",
+      "ground": "yellow-green",
+      "blush": "deep-red",
+      "blush_cover": 75,
+      "stripes": true,
+      "russet": 1,
+      "description": "Medium apple heavily washed and striped with two shades of dark red over a green-yellow ground.",
+      "flesh_colour": "tinged"
+    },
+    "taste": {
+      "summary": "Tender, greenish-white flesh, sometimes stained red near the core, with a mild subacid and aromatic flavour. It softens quickly and does not keep.",
+      "sweet": 3,
+      "acid": 2,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 1,
+      "juicy": 2,
+      "tags": [
+        "perfumed",
+        "mild"
+      ],
+      "cider_class": null,
+      "best_eaten": "Late Aug, straight from the tree"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "weeping",
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "National Fruit Collection records a drooping habit."
+    },
+    "pollination": {
+      "flower_group": 3,
+      "self_fertile": "no",
+      "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 13 May)."
+    },
+    "season": {
+      "harvest": "late Aug",
+      "eating": "Aug-Sep",
+      "storage_weeks": 1
+    },
+    "climate": {
+      "chill_hours": 900,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": false,
+      "best_climates": "Eastern US conditions from New England to the upland South, where it ripens in July-August.",
+      "poor_climates": "Not documented; probably short cool summers where its colour and flavour develop poorly."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "A colonial American summer apple for heritage collections. Pick as it colours and eat or cook at once, as it keeps very poorly.",
+    "conf": "medium"
   },
-  "history": "The original tree grew around 1750 on Captain Benjamin Williams's farm at Roxbury, Massachusetts, and the apple was first known locally as Queen or Lady's Apple. It came to wider notice about 1830 and later spread south, where it is still kept in heritage orchards as an early red apple.",
-  "look": {
-   "size": "medium",
-   "shape": "round-conical",
-   "ground": "yellow-green",
-   "blush": "deep-red",
-   "blush_cover": 75,
-   "stripes": true,
-   "russet": 1,
-   "description": "Medium apple heavily washed and striped with two shades of dark red over a green-yellow ground."
+  {
+    "id": "zoete-ermgaard",
+    "name": "Zoete Ermgaard",
+    "aka": [
+      "Sweet Ermgaard",
+      "Armgaard"
+    ],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "NL",
+      "place": "Netherlands (North and South Holland)",
+      "year": 1864,
+      "year_note": "first recorded",
+      "kind": "unknown",
+      "parentage": null,
+      "raised_by": null
+    },
+    "history": "A Dutch sweet apple known since 1864, once the main sweet apple of North and South Holland where it was grown on tall standard trees. It was eaten fresh and used for stewing in the traditional Dutch way.",
+    "look": {
+      "size": "medium",
+      "shape": "conical",
+      "ground": "yellow",
+      "blush": "orange-red",
+      "blush_cover": 40,
+      "stripes": true,
+      "russet": 1,
+      "description": "Fairly small to medium, narrowly conical yellow apple streaked light red."
+    },
+    "taste": {
+      "summary": "Firm, crisp but coarse and rather dry white flesh with a very sweet, low-acid flavour; prized as a sweet stewing apple as well as for eating.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": null,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 2,
+      "tags": [
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Mid Nov-Mar"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "light",
+      "biennial": "marked",
+      "precocity": 2,
+      "ploidy": null,
+      "notes": "Slow to come into bearing, modest and biennial cropper; fruit clings firmly to the tree."
+    },
+    "pollination": {
+      "flower_group": 5,
+      "self_fertile": "no",
+      "notes": "Late flowering; Dutch sources suggest partners such as Bloemee, Brabantse Bellefleur, Sterappel or Zoete Kroon. Group estimated from National Fruit Collection flowering dates (full bloom around 20 May)."
+    },
+    "season": {
+      "harvest": "early Oct-mid Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 22
+    },
+    "climate": {
+      "chill_hours": 1000,
+      "hardiness_zone": 5,
+      "heat_tolerance": 2,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cool, moist maritime lowlands like the western Netherlands; late bloom helps it escape spring frost.",
+      "poor_climates": "Not documented; hot dry summers would probably dry the flesh further."
+    },
+    "health": {
+      "scab": 2,
+      "canker": 2,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Little troubled by disease according to Dutch sources; red spider mite is the main pest."
+    },
+    "grow_notes": "Suited to a large standard tree in a traditional orchard. Expect slow, irregular crops; thin in heavy years. Store until November before eating.",
+    "conf": "medium"
   },
-  "taste": {
-   "summary": "Tender, greenish-white flesh, sometimes stained red near the core, with a mild subacid and aromatic flavour. It softens quickly and does not keep.",
-   "sweet": 3,
-   "acid": 2,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 1,
-   "juicy": 2,
-   "tags": ["perfumed", "mild"],
-   "cider_class": null,
-   "best_eaten": "Late Aug, straight from the tree"
+  {
+    "id": "aia-ilu",
+    "name": "Aia Ilu",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "EE",
+      "place": "Polli experimental station, Estonia",
+      "year": 1946,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Open-pollinated seedling of Antonovka",
+      "raised_by": "Aleksander Siimon"
+    },
+    "history": "Raised in 1946 by Aleksander Siimon at the Polli fruit-breeding station in Estonia from an open-pollinated Antonovka seedling. The name means 'garden beauty'; it is propagated by nurseries but not widely grown.",
+    "look": {
+      "size": "large",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 10,
+      "stripes": false,
+      "russet": null,
+      "description": "Very large, round to slightly conical apple, fully yellow when ripe with a faint red cheek on the sunny side."
+    },
+    "taste": {
+      "summary": "Juicy, yellowish-white flesh of medium firmness with a sweet-sour flavour and only a weak aroma.",
+      "sweet": 3,
+      "acid": 3,
+      "aroma": 2,
+      "tannin": 0,
+      "crisp": null,
+      "juicy": 4,
+      "tags": [
+        "sweet",
+        "sharp"
+      ],
+      "cider_class": null,
+      "best_eaten": "Sep-Nov; keeps a couple of months"
+    },
+    "tree": {
+      "vigor": 3,
+      "habit": "spreading",
+      "bearing": null,
+      "cropping": "heavy",
+      "biennial": "none",
+      "precocity": 4,
+      "ploidy": null,
+      "notes": "Medium-vigour tree with a rounded crown; bears young, regularly and heavily. Large white flowers with pink-edged petals."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "Flowers relatively early according to Estonian sources; no UK group recorded."
+    },
+    "season": {
+      "harvest": "early Sep",
+      "eating": "Sep-Nov",
+      "storage_weeks": 8
+    },
+    "climate": {
+      "chill_hours": 1100,
+      "hardiness_zone": 3,
+      "heat_tolerance": 1,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Cold Baltic and Nordic climates, where it is regarded as fully winter-hardy.",
+      "poor_climates": "Hot summers and mild winters; untested outside northern Europe."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": 2,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Sources disagree on scab: one rates its resistance low, another calls the variety disease-resistant. Resistant to powdery mildew."
+    },
+    "grow_notes": "A hardy, productive autumn apple for very cold gardens. Harvest in September; the large fruit suits drying and stewing as well as eating.",
+    "conf": "low"
   },
-  "tree": {
-   "vigor": null,
-   "habit": "weeping",
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "National Fruit Collection records a drooping habit."
-  },
-  "pollination": {
-   "flower_group": 3,
-   "self_fertile": "no",
-   "notes": "Group estimated from National Fruit Collection flowering dates (full bloom around 13 May)."
-  },
-  "season": {
-   "harvest": "late Aug",
-   "eating": "Aug-Sep",
-   "storage_weeks": 1
-  },
-  "climate": {
-   "chill_hours": 900,
-   "hardiness_zone": 5,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": false,
-   "best_climates": "Eastern US conditions from New England to the upland South, where it ripens in July-August.",
-   "poor_climates": "Not documented; probably short cool summers where its colour and flavour develop poorly."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not documented."
-  },
-  "grow_notes": "A colonial American summer apple for heritage collections. Pick as it colours and eat or cook at once, as it keeps very poorly.",
-  "conf": "medium"
- },
- {
-  "id": "zoete-ermgaard",
-  "name": "Zoete Ermgaard",
-  "aka": ["Sweet Ermgaard", "Armgaard"],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "NL",
-   "place": "Netherlands (North and South Holland)",
-   "year": 1864,
-   "year_note": "first recorded",
-   "kind": "unknown",
-   "parentage": null,
-   "raised_by": null
-  },
-  "history": "A Dutch sweet apple known since 1864, once the main sweet apple of North and South Holland where it was grown on tall standard trees. It was eaten fresh and used for stewing in the traditional Dutch way.",
-  "look": {
-   "size": "medium",
-   "shape": "conical",
-   "ground": "yellow",
-   "blush": "orange-red",
-   "blush_cover": 40,
-   "stripes": true,
-   "russet": 1,
-   "description": "Fairly small to medium, narrowly conical yellow apple streaked light red."
-  },
-  "taste": {
-   "summary": "Firm, crisp but coarse and rather dry white flesh with a very sweet, low-acid flavour; prized as a sweet stewing apple as well as for eating.",
-   "sweet": 5,
-   "acid": 1,
-   "aroma": null,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 2,
-   "tags": ["sweet"],
-   "cider_class": null,
-   "best_eaten": "Mid Nov-Mar"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": "light",
-   "biennial": "marked",
-   "precocity": 2,
-   "ploidy": null,
-   "notes": "Slow to come into bearing, modest and biennial cropper; fruit clings firmly to the tree."
-  },
-  "pollination": {
-   "flower_group": 5,
-   "self_fertile": "no",
-   "notes": "Late flowering; Dutch sources suggest partners such as Bloemee, Brabantse Bellefleur, Sterappel or Zoete Kroon. Group estimated from National Fruit Collection flowering dates (full bloom around 20 May)."
-  },
-  "season": {
-   "harvest": "early Oct-mid Oct",
-   "eating": "Nov-Mar",
-   "storage_weeks": 22
-  },
-  "climate": {
-   "chill_hours": 1000,
-   "hardiness_zone": 5,
-   "heat_tolerance": 2,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cool, moist maritime lowlands like the western Netherlands; late bloom helps it escape spring frost.",
-   "poor_climates": "Not documented; hot dry summers would probably dry the flesh further."
-  },
-  "health": {
-   "scab": 2,
-   "canker": 2,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Little troubled by disease according to Dutch sources; red spider mite is the main pest."
-  },
-  "grow_notes": "Suited to a large standard tree in a traditional orchard. Expect slow, irregular crops; thin in heavy years. Store until November before eating.",
-  "conf": "medium"
- },
- {
-  "id": "aia-ilu",
-  "name": "Aia Ilu",
-  "aka": [],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "EE",
-   "place": "Polli experimental station, Estonia",
-   "year": 1946,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Open-pollinated seedling of Antonovka",
-   "raised_by": "Aleksander Siimon"
-  },
-  "history": "Raised in 1946 by Aleksander Siimon at the Polli fruit-breeding station in Estonia from an open-pollinated Antonovka seedling. The name means 'garden beauty'; it is propagated by nurseries but not widely grown.",
-  "look": {
-   "size": "large",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 10,
-   "stripes": false,
-   "russet": null,
-   "description": "Very large, round to slightly conical apple, fully yellow when ripe with a faint red cheek on the sunny side."
-  },
-  "taste": {
-   "summary": "Juicy, yellowish-white flesh of medium firmness with a sweet-sour flavour and only a weak aroma.",
-   "sweet": 3,
-   "acid": 3,
-   "aroma": 2,
-   "tannin": 0,
-   "crisp": null,
-   "juicy": 4,
-   "tags": ["sweet", "sharp"],
-   "cider_class": null,
-   "best_eaten": "Sep-Nov; keeps a couple of months"
-  },
-  "tree": {
-   "vigor": 3,
-   "habit": "spreading",
-   "bearing": null,
-   "cropping": "heavy",
-   "biennial": "none",
-   "precocity": 4,
-   "ploidy": null,
-   "notes": "Medium-vigour tree with a rounded crown; bears young, regularly and heavily. Large white flowers with pink-edged petals."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "Flowers relatively early according to Estonian sources; no UK group recorded."
-  },
-  "season": {
-   "harvest": "early Sep",
-   "eating": "Sep-Nov",
-   "storage_weeks": 8
-  },
-  "climate": {
-   "chill_hours": 1100,
-   "hardiness_zone": 3,
-   "heat_tolerance": 1,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Cold Baltic and Nordic climates, where it is regarded as fully winter-hardy.",
-   "poor_climates": "Hot summers and mild winters; untested outside northern Europe."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": 2,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Sources disagree on scab: one rates its resistance low, another calls the variety disease-resistant. Resistant to powdery mildew."
-  },
-  "grow_notes": "A hardy, productive autumn apple for very cold gardens. Harvest in September; the large fruit suits drying and stewing as well as eating.",
-  "conf": "low"
- },
- {
-  "id": "autumn-glory",
-  "name": "Autumn Glory",
-  "aka": [],
-  "uses": ["dessert", "culinary"],
-  "origin": {
-   "country": "US",
-   "place": "Washington State",
-   "year": 1976,
-   "year_note": "",
-   "kind": "bred",
-   "parentage": "Fuji x Golden Delicious",
-   "raised_by": "Yu Lin Wang"
-  },
-  "history": "A Washington State cross of Fuji and Golden Delicious made in 1976; Domex Superfresh Growers bought the rights in 2011 and market it exclusively under the Autumn Glory trademark. Not to be confused with an older English exhibition apple of the same name.",
-  "look": {
-   "size": "medium",
-   "shape": "round",
-   "ground": "yellow",
-   "blush": "red",
-   "blush_cover": 60,
-   "stripes": null,
-   "russet": null,
-   "description": "Medium to large apple in mixed red and gold."
-  },
-  "taste": {
-   "summary": "Dense, crisp, juicy flesh that is high in sugar and low in acid, with warm notes that its marketers and reviewers liken to caramel and cinnamon.",
-   "sweet": 5,
-   "acid": 1,
-   "aroma": 3,
-   "tannin": 0,
-   "crisp": 4,
-   "juicy": 4,
-   "tags": ["caramel", "cinnamon", "sweet"],
-   "cider_class": null,
-   "best_eaten": "Nov-Mar; stores well"
-  },
-  "tree": {
-   "vigor": null,
-   "habit": null,
-   "bearing": null,
-   "cropping": null,
-   "biennial": null,
-   "precocity": null,
-   "ploidy": null,
-   "notes": "A managed (club) variety grown only by licensed growers; tree details not published."
-  },
-  "pollination": {
-   "flower_group": null,
-   "self_fertile": null,
-   "notes": "No flowering data published."
-  },
-  "season": {
-   "harvest": "late Oct",
-   "eating": "Nov-Mar",
-   "storage_weeks": 26
-  },
-  "climate": {
-   "chill_hours": 700,
-   "hardiness_zone": 5,
-   "heat_tolerance": 4,
-   "colour_needs_cool_nights": null,
-   "best_climates": "Sunny, irrigated, hot-summer fruit districts like central Washington, where its Fuji and Golden Delicious parents excel.",
-   "poor_climates": "Short cool summers such as northern Britain, where a late-October apple may not ripen fully."
-  },
-  "health": {
-   "scab": null,
-   "canker": null,
-   "mildew": null,
-   "fire_blight": null,
-   "rust": null,
-   "bitter_pit": null,
-   "other": "Disease behaviour not documented."
-  },
-  "grow_notes": "Not generally available to home growers because it is a trademarked managed variety. Climate needs are inferred from its parents and growing region.",
-  "conf": "low"
- }
+  {
+    "id": "autumn-glory",
+    "name": "Autumn Glory",
+    "aka": [],
+    "uses": [
+      "dessert",
+      "culinary"
+    ],
+    "origin": {
+      "country": "US",
+      "place": "Washington State",
+      "year": 1976,
+      "year_note": "",
+      "kind": "bred",
+      "parentage": "Fuji x Golden Delicious",
+      "raised_by": "Yu Lin Wang"
+    },
+    "history": "A Washington State cross of Fuji and Golden Delicious made in 1976; Domex Superfresh Growers bought the rights in 2011 and market it exclusively under the Autumn Glory trademark. Not to be confused with an older English exhibition apple of the same name.",
+    "look": {
+      "size": "medium",
+      "shape": "round",
+      "ground": "yellow",
+      "blush": "red",
+      "blush_cover": 60,
+      "stripes": null,
+      "russet": null,
+      "description": "Medium to large apple in mixed red and gold."
+    },
+    "taste": {
+      "summary": "Dense, crisp, juicy flesh that is high in sugar and low in acid, with warm notes that its marketers and reviewers liken to caramel and cinnamon.",
+      "sweet": 5,
+      "acid": 1,
+      "aroma": 3,
+      "tannin": 0,
+      "crisp": 4,
+      "juicy": 4,
+      "tags": [
+        "caramel",
+        "cinnamon",
+        "sweet"
+      ],
+      "cider_class": null,
+      "best_eaten": "Nov-Mar; stores well"
+    },
+    "tree": {
+      "vigor": null,
+      "habit": null,
+      "bearing": null,
+      "cropping": null,
+      "biennial": null,
+      "precocity": null,
+      "ploidy": null,
+      "notes": "A managed (club) variety grown only by licensed growers; tree details not published."
+    },
+    "pollination": {
+      "flower_group": null,
+      "self_fertile": null,
+      "notes": "No flowering data published."
+    },
+    "season": {
+      "harvest": "late Oct",
+      "eating": "Nov-Mar",
+      "storage_weeks": 26
+    },
+    "climate": {
+      "chill_hours": 700,
+      "hardiness_zone": 5,
+      "heat_tolerance": 4,
+      "colour_needs_cool_nights": null,
+      "best_climates": "Sunny, irrigated, hot-summer fruit districts like central Washington, where its Fuji and Golden Delicious parents excel.",
+      "poor_climates": "Short cool summers such as northern Britain, where a late-October apple may not ripen fully."
+    },
+    "health": {
+      "scab": null,
+      "canker": null,
+      "mildew": null,
+      "fire_blight": null,
+      "rust": null,
+      "bitter_pit": null,
+      "other": "Disease behaviour not documented."
+    },
+    "grow_notes": "Not generally available to home growers because it is a trademarked managed variety. Climate needs are inferred from its parents and growing region.",
+    "conf": "low"
+  }
 ]
