@@ -1,6 +1,6 @@
 // World map: pins for the reference places, click anywhere for live climate, scores for the user's favourites.
 import { S, esc, countryName, getFavs, isFav, toggleFav, setFavs, onFavs, toast, seasonName, fmtInt } from '../data.js';
-import { appleSVG, scoreRing, bar, toneOf, chips } from './widgets.js';
+import { appleSVG, scoreRing, scorePair, diseaseTable, bar, toneOf, chips } from './widgets.js';
 import { scoreVariety, rankVarieties, siteProfile, rootstockAdvice, labelOf, pressureWord, sitePressures } from '../score/score.js';
 import { MONTH_NAMES } from '../climate/features.js';
 import { analysePlace } from '../climate/place.js';
@@ -108,7 +108,7 @@ function recolour() {
 }
 function updateLegend() {
   const d = document.getElementById('legend'); if (!d) return;
-  d.innerHTML = `<b>${getFavs().length ? 'Mean score for your favourites' : 'How apple-friendly (broad sample)'}</b><br>` +
+  d.innerHTML = `<b>${getFavs().length ? 'Mean climate score for your favourites' : 'How apple-friendly the climate is (broad sample)'}</b><br>` +
     [['#3e8a3a', '70+ good'], ['#9db02e', '55–69 workable'], ['#e0961c', '35–54 marginal'], ['#c0392b', 'under 35']].map(([c, l]) => `<span class="sw" style="background:${c}"></span>${l}`).join('&ensp;') +
     `<br><span class="muted">Solid dots: pre-computed places. Dashed dots: reference places analysed live when clicked. Click anywhere else too.</span>`;
 }
@@ -127,7 +127,7 @@ function drawSide() {
     <div>${SETS.map(([n, ids], i) => ids.filter(x => S.byId.has(x)).length >= 2 ? `<button class="chip btnlike" data-set="${i}">${esc(n)}</button>` : '').join('')}</div>
     ${favs.length ? `<p style="margin-top:12px"><button class="btn sm" id="clearfav">Clear all</button> <a class="btn sm" href="#/favourites">Compare</a></p>` : ''}
     <hr style="border:0;border-top:1px solid var(--line);margin:14px 0">
-    <p class="small muted"><b>How to use:</b> click any dot or any spot on the map. You get a score out of 100 for each favourite, with the reasons: winter chill, winter cold, spring frost at blossom, whether the season is long enough to ripen it, summer heat and disease pressure.</p>
+    <p class="small muted"><b>How to use:</b> click any dot or any spot on the map. Each favourite gets two scores out of 100, with the reasons: <b>climate</b> (winter chill, winter cold, spring frost at blossom, whether the season is long enough to ripen it, summer heat, water) and <b>disease</b> (local scab, canker, mildew, fire blight and rust pressure against how susceptible the apple is). The dots show climate.</p>
     <p class="small muted">Try Norfolk, Paris, southern Michigan, Tasmania&hellip; or somewhere surprising.</p>`;
   el.onclick = e => {
     const rm = e.target.closest('[data-rm]'); if (rm) { toggleFav(rm.dataset.rm); return; }
@@ -236,8 +236,9 @@ function factorHTML(f) {
 }
 function scoreRow(v, s, extra = '') {
   const first = s.factors && s.factors.length;
-  return `<div class="scorerow" data-open="${esc(v.id)}" tabindex="0" role="button" aria-expanded="false">${scoreRing(s.score)}<div style="flex:1;min-width:0"><h4>${esc(v.name)}</h4><div class="small muted">${esc(s.label)}${s.harvest ? ' &middot; ripens ~' + esc(s.harvest) : ''}${s.limiting ? ' &middot; limited by <b>' + esc(({ chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply', disease: 'disease' })[s.limiting]) + '</b>' : ''}</div></div>${extra}</div>
-  ${first ? `<div class="factors">${s.factors.map(factorHTML).join('')}${s.flavour ? `<div class="factor"><div class="ft"><span class="dot ${s.flavour.tone}"></span>Flavour here <span class="tiny muted">(not scored)</span></div><div class="fx">${esc(s.flavour.text)}</div></div>` : ''}<p class="small"><a href="#/v/${esc(v.id)}">Full profile of ${esc(v.name)} &rarr;</a></p></div>` : ''}`;
+  const LIM = { chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply' };
+  return `<div class="scorerow" data-open="${esc(v.id)}" tabindex="0" role="button" aria-expanded="false">${scorePair(s)}<div style="flex:1;min-width:0"><h4>${esc(v.name)}</h4><div class="small muted">Climate: ${esc(s.label)}${s.limiting ? ', limited by <b>' + esc(LIM[s.limiting]) + '</b>' : ''}${s.disease ? ' &middot; ' + esc(s.disease.label) : ''}${s.harvest ? ' &middot; ripens ~' + esc(s.harvest) : ''}</div></div>${extra}</div>
+  ${first ? `<div class="factors"><h5>Climate</h5>${s.factors.map(factorHTML).join('')}${s.flavour ? `<div class="factor"><div class="ft"><span class="dot ${s.flavour.tone}"></span>Flavour here <span class="tiny muted">(not scored)</span></div><div class="fx">${esc(s.flavour.text)}</div></div>` : ''}${s.disease ? `<h5>Disease</h5>${diseaseTable(s.disease)}` : ''}<p class="small"><a href="#/v/${esc(v.id)}">Full profile of ${esc(v.name)} &rarr;</a></p></div>` : ''}`;
 }
 function wireRows(body) {
   body.querySelectorAll('.scorerow').forEach(r => {
@@ -251,11 +252,13 @@ function wireRows(body) {
 function tApples(body) {
   const favs = getFavs().map(id => S.byId.get(id));
   if (!favs.length) { body.innerHTML = `<p>You haven't picked any favourites yet. Choose a quick set on the left, or see what grows best here:</p><p><button class="btn primary" data-goto="best">Show the best varieties for this spot</button></p>`; body.querySelector('[data-goto]').onclick = () => { tab = 'best'; renderPanel(); }; return; }
-  const rows = favs.map(v => ({ v, s: scoreVariety(v, sel.F, S.ctx) })).sort((a, b) => b.s.score - a.s.score);
-  const mean = Math.round(rows.reduce((a, r) => a + r.s.score, 0) / rows.length);
-  const bad = rows.filter(r => r.s.score < 35);
-  body.innerHTML = `<p class="small muted" style="margin-bottom:4px">Average for your ${rows.length} favourite${rows.length > 1 ? 's' : ''}: <b class="tone-${toneOf(mean / 100)}">${mean}/100</b>. Tap a row for the reasons.</p>
-    ${bad.length ? `<div class="note bad">${bad.map(r => esc(r.v.name)).join(', ')} ${bad.length > 1 ? 'are' : 'is'} unlikely to do well here.</div>` : ''}
+  const rows = favs.map(v => ({ v, s: scoreVariety(v, sel.F, S.ctx) })).sort((a, b) => b.s.both - a.s.both || b.s.score - a.s.score);
+  const avg = f => Math.round(rows.reduce((a, r) => a + f(r.s), 0) / rows.length);
+  const mean = avg(s => s.score), dmean = avg(s => s.disease ? s.disease.score : 0);
+  const bad = rows.filter(r => r.s.score < 35), sick = rows.filter(r => r.s.score >= 35 && r.s.disease && r.s.disease.score < 40);
+  body.innerHTML = `<p class="small muted" style="margin-bottom:4px">Average for your ${rows.length} favourite${rows.length > 1 ? 's' : ''}: climate <b class="tone-${toneOf(mean / 100)}">${mean}/100</b>, disease <b class="tone-${toneOf(dmean / 100)}">${dmean}/100</b>. Tap a row for the reasons.</p>
+    ${bad.length ? `<div class="note bad">${bad.map(r => esc(r.v.name)).join(', ')} ${bad.length > 1 ? 'are' : 'is'} unlikely to do well in this climate.</div>` : ''}
+    ${sick.length ? `<div class="note warn">${sick.map(r => esc(r.v.name)).join(', ')} would grow, but ${sick.length > 1 ? 'are' : 'is'} likely to be badly hit by disease here without a spray programme.</div>` : ''}
     ${rows.map(r => scoreRow(r.v, r.s)).join('')}
     ${pollNote(favs)}`;
   wireRows(body);
@@ -267,17 +270,19 @@ function pollNote(favs) {
 }
 
 function tBest(body) {
-  const st = { keepers: false, use: '' };
+  const st = { keepers: false, use: '', by: 'both' };
   const draw = () => {
     let list = S.data.varieties.filter(v => (!st.keepers || v.keepers.listed) && (!st.use || v.uses.includes(st.use)));
-    const ranked = rankVarieties(list, sel.F, S.ctx);
+    const ranked = rankVarieties(list, sel.F, S.ctx, st.by);
     body.innerHTML = `<div class="row" style="margin-bottom:8px"><select id="useSel" aria-label="Use"><option value="">All uses</option>${['dessert', 'culinary', 'cider', 'crab'].map(u => `<option value="${u}" ${st.use === u ? 'selected' : ''}>${u}</option>`).join('')}</select>
+      <select id="bySel" aria-label="Sort by">${[['both', 'Sort: climate and disease'], ['climate', 'Sort: climate only'], ['disease', 'Sort: disease only']].map(([k, l]) => `<option value="${k}" ${st.by === k ? 'selected' : ''}>${l}</option>`).join('')}</select>
       <label class="chk small"><input type="checkbox" id="kOnly" ${st.keepers ? 'checked' : ''}> Keepers range only</label></div>
-      <p class="small muted">Top ${Math.min(20, ranked.length)} of ${ranked.length} varieties for this climate. Tap for reasons.</p>
+      <p class="small muted">Top ${Math.min(20, ranked.length)} of ${ranked.length} varieties here${st.by === 'both' ? ', ranked by the lower of their two scores' : st.by === 'climate' ? ', ranked by climate alone' : ', ranked by disease alone'}. Tap for reasons.</p>
       ${ranked.slice(0, 20).map(({ v, s }) => scoreRow(v, s, `<button class="fav ${isFav(v.id) ? 'on' : ''}" style="position:static" data-pfav="${esc(v.id)}" aria-label="Toggle favourite" title="${isFav(v.id) ? 'Remove from' : 'Add to'} favourites">${isFav(v.id) ? '♥' : '♡'}</button>`)).join('')}
       <details style="margin-top:14px"><summary class="small">Least suited here</summary>${ranked.slice(-6).reverse().map(({ v, s }) => scoreRow(v, s)).join('')}</details>`;
     body.querySelector('#useSel').onchange = e => { st.use = e.target.value; draw(); };
     body.querySelector('#kOnly').onchange = e => { st.keepers = e.target.checked; draw(); };
+    body.querySelector('#bySel').onchange = e => { st.by = e.target.value; draw(); };
     wireRows(body);
   };
   draw();

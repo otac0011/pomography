@@ -134,3 +134,20 @@ export function keepersBadge(v) { return v.keepers && v.keepers.listed ? `<span 
 export function breederBadge(v) { return v.tags && v.tags.includes('keepers-bred') ? `<span class="badge breeder" title="Bred by Karim Habibi at Keepers Nursery">Bred by Karim</span>` : ''; }
 
 export const DISEASES = [['scab', 'Apple scab'], ['canker', 'European canker'], ['mildew', 'Powdery mildew'], ['fire_blight', 'Fire blight'], ['rust', 'Cedar-apple rust'], ['bitter_pit', 'Bitter pit']];
+
+/** The two scores side by side: climate (will the tree grow and ripen) and disease (will it stay healthy). */
+export function scorePair(s, big = false) {
+  if (!s.disease) return scoreRing(s.score, big);
+  return `<div class="pair"><div class="pr">${scoreRing(s.score, big)}<span>Climate</span></div><div class="pr">${scoreRing(s.disease.score, big)}<span>Disease</span></div></div>`;
+}
+
+/** Per disease: pressure at the place (bar) and the apple's susceptibility (1-5 meter, * = not recorded, 3 assumed). */
+export function diseaseTable(d) {
+  if (!d) return '';
+  const pt = p => p >= 0.66 ? 'bad' : p >= 0.33 ? 'warn' : p >= 0.12 ? 'ok' : 'good';
+  const rows = d.rows.map(r => `<tr><td><span class="dot ${r.tone}"></span>${esc(r.name)}</td>
+    <td><div class="bar" title="pressure here: ${esc(r.pressureWord)}"><i style="width:${Math.max(3, Math.round(r.pressure * 100))}%;background:var(--${pt(r.pressure)})"></i></div><span class="tiny muted">${esc(r.pressureWord)}</span></td>
+    <td><div class="susc">${meter(r.susc, true, 'susceptibility')}${r.assumed ? '<b class="ast" title="Not recorded for this apple: average susceptibility assumed">*</b>' : ''}</div></td></tr>`).join('');
+  return `<table class="dtab"><thead><tr><th>Disease</th><th>Pressure here</th><th>Susceptibility</th></tr></thead><tbody>${rows}</tbody></table>
+    <p class="small muted">${esc(d.text)}</p>${d.assumed ? '<p class="tiny muted">* Not recorded for this apple, so an average susceptibility (3 of 5) is assumed.</p>' : ''}`;
+}

@@ -1,7 +1,7 @@
 // In-browser unit tests: open /tests/ (served by tools/serve.py). All lines must say PASS before committing.
 import { computeFeatures, chillUnitsDay, utahWeight, koppen, usdaZone, viLabel, viToDate, doyToVi, curveAt, offsetFor, ra, et0Hargreaves, buildCycles, compactFeatures, dayHumidity, leafWetHours, millsHours, blightDegreeHours, humidityClimatology } from '../js/climate/features.js';
 import { regionalFor, inPolygon } from '../js/climate/regional.js';
-import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf, flavourHere, harvestAt } from '../js/score/score.js';
+import { pw, scoreVariety, rankVarieties, makeContext, thermalNeed, rootstockAdvice, siteProfile, labelOf, diseaseLabelOf, flavourHere, harvestAt } from '../js/score/score.js';
 import { climateChanges } from '../js/score/change.js';
 
 const out = document.getElementById('out');
@@ -103,12 +103,25 @@ t('susceptible variety is penalised more than resistant one under high scab pres
   const wet = computeFeatures(synth(52, 10, 7, 3, { rain: 1 }));
   const a = scoreVariety(V({ health: { scab: 1, canker: 1, mildew: 1, fire_blight: 1, rust: 1 } }), wet, ctx);
   const b = scoreVariety(V({ health: { scab: 5, canker: 5, mildew: 5, fire_blight: 5, rust: 5 } }), wet, ctx);
-  if (!(a.score > b.score)) throw new Error(`${a.score} vs ${b.score}`);
+  if (!(a.disease.score > b.disease.score + 20)) throw new Error(`${a.disease.score} vs ${b.disease.score}`);
+  eq(a.score, b.score);                                   // disease no longer moves the climate score
+  eq(b.both, Math.min(b.score, b.disease.score));
+  if (!b.disease.rows.every(r => r.susc === 5 && !r.assumed)) throw new Error('rows');
 });
-t('score has seven factors with text and tones', () => { const s = scoreVariety(V(), temperate, ctx); eq(s.factors.length, 7); if (!s.factors.every(f => f.text && f.tone)) throw new Error('missing'); });
+t('unrated disease susceptibility is assumed 3 and flagged', () => {
+  const s = scoreVariety(V({ health: { scab: 2 } }), temperate, ctx);
+  const r = Object.fromEntries(s.disease.rows.map(x => [x.k, x]));
+  eq(r.scab.assumed, false); eq(r.canker.assumed, true); eq(r.canker.susc, 3); eq(s.disease.assumed, true);
+});
+t('rankVarieties can sort by disease', () => {
+  const wet = computeFeatures(synth(52, 10, 7, 3, { rain: 1 }));
+  const r = rankVarieties([V({ id: 'sick', health: { scab: 5, canker: 5, mildew: 5, fire_blight: 5, rust: 5 } }), V({ id: 'clean', health: { scab: 1, canker: 1, mildew: 1, fire_blight: 1, rust: 1 } })], wet, ctx, 'disease');
+  eq(r[0].v.id, 'clean');
+});
+t('score has six climate factors with text and tones', () => { const s = scoreVariety(V(), temperate, ctx); eq(s.factors.length, 6); if (!s.factors.every(f => f.text && f.tone)) throw new Error('missing'); });
 t('null variety data does not crash', () => { const s = scoreVariety(V({ climate: {}, pollination: {}, season: {}, health: {} }), temperate, ctx); if (!isFinite(s.score)) throw new Error('NaN'); });
-t('rankVarieties sorts descending', () => { const r = rankVarieties([V({ id: 'a', climate: { chill_hours: 3000, hardiness_zone: 5 } }), V({ id: 'b' })], temperate, ctx); if (r[0].s.score < r[1].s.score) throw new Error('order'); });
-t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Likely not viable'); });
+t('rankVarieties sorts descending', () => { const r = rankVarieties([V({ id: 'a', climate: { chill_hours: 3000, hardiness_zone: 5 } }), V({ id: 'b' })], temperate, ctx); if (r[0].s.both < r[1].s.both) throw new Error('order'); });
+t('labelOf thresholds', () => { eq(labelOf(90), 'Excellent'); eq(labelOf(10), 'Likely not viable'); eq(diseaseLabelOf(90), 'Low disease risk'); eq(diseaseLabelOf(20), 'Severe disease risk'); });
 t('thermalNeed grows with later harvest', () => { if (!(thermalNeed(ctx, 300) > thermalNeed(ctx, 230))) throw new Error('monotone'); });
 t('harvestAt: the reference place returns the recorded picking date', () => { const h = harvestAt(V(), temperate, ctx); near(h.vi, 268, 0.5); eq(h.shift, 0); });
 t('harvestAt: a warmer place is earlier, but by days after bloom, not by degree-days', () => {
@@ -180,14 +193,14 @@ t('inPolygon basics', () => { const sq = [[0, 0], [10, 0], [10, 10], [0, 10]]; e
 t('rust makes a rust-susceptible variety score worse where rust occurs (same weather)', () => {
   const wet = computeFeatures(synth(40, 12, 10, 4, { rain: 2 }));
   const v = V({ health: { scab: 1, canker: 1, mildew: 1, fire_blight: 1, rust: 5 } });
-  const a = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).score, b = scoreVariety(v, { ...wet, regional: regionalFor(40, 10, 'IT') }, ctx).score;
+  const a = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).disease.score, b = scoreVariety(v, { ...wet, regional: regionalFor(40, 10, 'IT') }, ctx).disease.score;
   if (!(b > a)) throw new Error(`rust ${a} no-rust ${b}`);
 });
 t('fire blight country status changes the score of a blight-susceptible variety under blight weather', () => {
   const wet = computeFeatures(synth(40, 15, 11, 6, { rain: 2 }));
   const v = V({ health: { scab: 1, canker: 1, mildew: 1, fire_blight: 5, rust: 1 } });
-  const present = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).score, absent = scoreVariety(v, { ...wet, regional: regionalFor(-33, 150, 'AU') }, ctx).score;
-  if (!(absent >= present)) throw new Error(`present ${present} absent ${absent}`);
+  const present = scoreVariety(v, { ...wet, regional: regionalFor(40, -80, 'US') }, ctx).disease.score, absent = scoreVariety(v, { ...wet, regional: regionalFor(-33, 150, 'AU') }, ctx).disease.score;
+  if (!(absent > present)) throw new Error(`present ${present} absent ${absent}`);
 });
 t('extreme heat and aridity are critical: a desert scores near zero even though winters chill', () => {
   const desert = computeFeatures(synth(23, 24.5, 10.5, 9, { rain: 40 }));

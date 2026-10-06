@@ -279,3 +279,20 @@ details > summary { cursor: pointer; font-weight: 600; }
 .pick-hit:hover, .pick-hit:focus { border-color: var(--accent); }
 .pick-map { height: min(60vh, 520px); border-radius: 10px; border: 1px solid var(--line); }
 @media (max-width: 600px) { .pick-tools { flex-wrap: wrap; } .pick-map { height: 52vh; } }
+
+/* climate + disease score pair (decision 0009) */
+.pair { display: flex; gap: 8px; flex: none; }
+.pair .pr { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.pair .pr span { font-size: .68rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.dtab { width: 100%; border-collapse: collapse; font-size: .85rem; margin: 4px 0 6px; }
+.dtab th { text-align: left; font-weight: 600; font-size: .75rem; color: var(--muted); padding: 2px 6px 4px 0; }
+.dtab td { padding: 4px 6px 4px 0; vertical-align: middle; border-top: 1px solid var(--line); }
+.dtab td:first-child { white-space: nowrap; }
+.dtab td:first-child .dot { margin-right: 6px; }
+.dtab .bar { width: 90px; display: inline-block; vertical-align: middle; margin-right: 6px; }
+.dtab .susc { display: flex; align-items: center; gap: 4px; }
+.dtab .meter i { width: 13px; }
+.dtab .ast { color: var(--warn); font-size: 1rem; cursor: help; }
+.factors h5 { margin: 12px 0 4px; font-size: .85rem; }
+@media (max-width: 560px) { .dtab .bar { width: 54px; } .dtab .meter i { width: 9px; } .pair .ring { width: 46px; height: 46px; } }
+.region-list a span { flex: 1; min-width: 0; } .region-list a .dnum { opacity: .8; font-weight: 500; }

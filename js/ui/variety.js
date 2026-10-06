@@ -23,6 +23,10 @@ function rootstockAdvice(v) {
   return `<h4 style="margin-top:12px">Rootstock pairing</h4><p class="small">${bits.map(esc).join(' ')} <a href="#/rootstocks">Compare rootstocks &rarr;</a></p>`;
 }
 
+const toneN = n => n >= 70 ? 'good' : n >= 55 ? 'ok' : n >= 35 ? 'warn' : 'bad';
+function pairNums(s) {
+  return `<b class="tone-${toneN(s.score)}" title="climate score">${s.score}</b>${s.disease ? `<b class="tone-${toneN(s.disease.score)} dnum" title="disease score">${s.disease.score}</b>` : ''}`;
+}
 function kv(rows) { return `<dl class="kv">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`; }
 
 export function regionScores(v) {
@@ -34,7 +38,7 @@ export function regionScores(v) {
     const s = scoreVariety(v, F, S.ctx);
     out.push({ r, s });
   }
-  return out.sort((a, b) => b.s.score - a.s.score);
+  return out.sort((a, b) => b.s.both - a.s.both || b.s.score - a.s.score);
 }
 
 const NEEDS = { cool: 'Flavour is best in a cool climate', warm: 'Needs a warm season for full flavour', any: 'Climate' };
@@ -219,11 +223,11 @@ export function renderVariety(app, id) {
 
     ${rs.length ? `<section class="card pad wide">
       <h2>Where in the world it does well</h2>
-      <p class="small muted">Scored against the climate of ${rs.length} reference places (real weather, 2015–2024). Click one to see why; or <a href="#/map?f=${esc(v.id)}">open the full map</a> and click anywhere.</p>
+      <p class="small muted">Scored against the climate of ${rs.length} reference places (real weather, 2015–2024): the first number is the climate score, the second the disease score, ranked by the lower of the two. Click one to see why; or <a href="#/map?f=${esc(v.id)}">open the full map</a> and click anywhere.</p>
       <h4>Best matches</h4>
-      <div class="region-list">${best.map(({ r, s }) => `<a href="#/map/${esc(r.id)}?f=${esc(v.id)}"><span>${esc(r.name)}</span><b class="tone-${s.score >= 70 ? 'good' : s.score >= 55 ? 'ok' : s.score >= 35 ? 'warn' : 'bad'}">${s.score}</b></a>`).join('')}</div>
+      <div class="region-list">${best.map(({ r, s }) => `<a href="#/map/${esc(r.id)}?f=${esc(v.id)}"><span>${esc(r.name)}</span>${pairNums(s)}</a>`).join('')}</div>
       <h4 style="margin-top:14px">Hardest places</h4>
-      <div class="region-list">${worst.map(({ r, s }) => `<a href="#/map/${esc(r.id)}?f=${esc(v.id)}"><span>${esc(r.name)}</span><b class="tone-${s.score >= 35 ? 'warn' : 'bad'}">${s.score}</b></a>`).join('')}</div>
+      <div class="region-list">${worst.map(({ r, s }) => `<a href="#/map/${esc(r.id)}?f=${esc(v.id)}"><span>${esc(r.name)}</span>${pairNums(s)}</a>`).join('')}</div>
     </section>` : ''}
 
     ${sim.length ? `<section class="card pad wide">

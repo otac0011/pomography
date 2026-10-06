@@ -4,9 +4,9 @@ import { S, esc, fmtInt } from '../data.js';
 import { scoreVariety } from '../score/score.js';
 import { climateChanges } from '../score/change.js';
 import { analysePlace, searchPlaces, getPlace, setPlace } from '../climate/place.js';
-import { scoreRing } from './widgets.js';
+import { scorePair, diseaseTable } from './widgets.js';
 
-const LIMIT = { chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply', disease: 'disease' };
+const LIMIT = { chill: 'winter chill', hardiness: 'winter cold', frost: 'blossom frost', season: 'season length', heat: 'summer heat', water: 'water supply' };
 const ARROW = { up: ['▲', 'more / later'], down: ['▼', 'less / earlier'], same: ['=', 'about the same'] };
 let token = 0;
 
@@ -89,13 +89,16 @@ function panel(v, a) {
   if (F.error || F.noBloom) return head + banner(a) + `<div class="note bad">${F.noBloom ? 'It never gets warm enough here for apple trees to flower.' : 'Not enough weather data for this point.'}</div>`;
   const chill = F.chill ? `${fmtInt(F.chill.mean)} chill units${F.chill.hours72 != null ? ' (about ' + fmtInt(F.chill.hours72) + ' hours below 7.2 °C)' : ''}` : '';
   return head + banner(a) + `
-    <div class="gh-score">${scoreRing(s.score)}<div><b>${esc(s.label)}</b> for growing ${esc(v.name)} here${s.limiting ? ', limited by <b>' + esc(LIMIT[s.limiting]) + '</b>' : ''}.
+    <div class="gh-score">${scorePair(s)}<div><b>Climate: ${esc(s.label)}</b> for growing ${esc(v.name)} here${s.limiting ? ', limited by <b>' + esc(LIMIT[s.limiting]) + '</b>' : ''}.
+      <div><b>${esc(s.disease.label)}</b>${s.disease.score < 65 ? ': expect to spray, or choose a more resistant apple' : ''}.</div>
       <div class="small muted">Winter here: ${chill}; ${esc(v.name)} needs ~${v.climate.chill_hours != null ? fmtInt(v.climate.chill_hours) : '900 (assumed)'}.</div></div></div>
     <h4>How it would change here</h4>
     <p class="small muted">Compared with ${esc(home.name)} (${esc(home.why)}).</p>
     <div class="changes">${ch.items.map(i => `<div class="chg ${i.tone}"><span class="arr" ${i.dir ? `title="${ARROW[i.dir][1]}"` : ''}>${i.dir ? ARROW[i.dir][0] : '•'}</span><div><b>${esc(i.title)}</b> <span>${esc(i.text)}</span></div></div>`).join('')}</div>
     <h4>Will it grow here?</h4>
     <div class="siteprof">${s.factors.map(f => `<div class="sp ${f.tone}"><i></i><div><b>${esc(f.title)}${f.critical ? ' <span class="tiny muted">(critical)</span>' : ''}</b><span>${esc(f.text)}</span></div></div>`).join('')}</div>
+    <h4>Will it stay healthy here?</h4>
+    ${diseaseTable(s.disease)}
     <p class="tiny muted" style="margin-top:12px">These are tendencies from fruit research applied to this place's climate (see <a href="#/guide">the Guide</a>, "How an apple changes in another climate"), not measurements of this apple here. Crop load, pruning, watering and picking date change the taste as much as the weather does. Your place is remembered in this browser only.</p>
     <p class="small"><a href="#/map/@${a.lat.toFixed(3)},${a.lon.toFixed(3)}?f=${esc(v.id)}">Open this spot on the world map &rarr;</a> &middot; <button class="linklike" data-forget>Forget this place</button></p>`;
 }

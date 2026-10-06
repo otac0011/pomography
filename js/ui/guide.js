@@ -41,7 +41,7 @@ export function renderGuide(app) {
     </section>
     <section class="card pad">
       <h2>How the scores work</h2>
-      <p>Each variety is compared with the place on seven factors, each from 0 (hopeless) to 1 (ideal):</p>
+      <p>Each variety gets <b>two separate scores</b> for a place, so an apple that would grow well but be ruined by disease is not hidden behind one good number.</p><h4>Climate score</h4><p>Six factors, each from 0 (hopeless) to 1 (ideal):</p>
       <table class="dt"><tbody>
         <tr><td><b>Winter chill</b> <span class="muted">(critical, weight ${WEIGHTS.chill})</span></td><td>Chill units at the site vs. what the variety needs.</td></tr>
         <tr><td><b>Winter cold</b> <span class="muted">(critical, ${WEIGHTS.hardiness})</span></td><td>Coldest-night zone of the site vs. the variety's hardiness zone.</td></tr>
@@ -49,9 +49,11 @@ export function renderGuide(app) {
         <tr><td><b>Summer heat</b> <span class="muted">(critical, ${WEIGHTS.heat})</span></td><td>Days of 32 °C or more vs. its heat tolerance, plus warm autumn nights for red-blushed apples. A desert fails here whatever else is true.</td></tr>
         <tr><td><b>Blossom frost</b> <span class="muted">(${WEIGHTS.frost})</span></td><td>How often damaging frost fell inside the flowering window of its flowering group.</td></tr>
         <tr><td><b>Water</b> <span class="muted">(${WEIGHTS.water})</span></td><td>Growing-season rain as a share of what the trees would use. Low scores mean irrigation is essential.</td></tr>
-        <tr><td><b>Disease</b> <span class="muted">(${WEIGHTS.disease})</span></td><td>Local scab, canker, fire blight, mildew and rust pressure vs. its susceptibility to each (see below).</td></tr>
       </tbody></table>
-      <p style="margin-top:10px">The score is the weighted average, then pulled down hard if any <i>critical</i> factor fails: a Cox cannot be saved by a lovely summer if the winters are too warm to chill it. Anything under 35 is marginal; under 15 is likely not viable (we say "likely" because orchard practice - shade netting, cooling, irrigation, frost protection - can sometimes beat the climate).</p>
+      <p style="margin-top:10px">The climate score is the weighted average, then pulled down hard if any <i>critical</i> factor fails: a Cox cannot be saved by a lovely summer if the winters are too warm to chill it. Anything under 35 is marginal; under 15 is likely not viable (we say "likely" because orchard practice - shade netting, cooling, irrigation, frost protection - can sometimes beat the climate).</p>
+      <h4>Disease score</h4>
+      <p>For each of apple scab, European canker, powdery mildew, fire blight and cedar-apple rust, the local <b>pressure</b> (0 to 1, from the weather and, for fire blight and rust, whether the disease exists in the region) is multiplied by the apple's <b>susceptibility</b> (1 = resistant to 5 = very susceptible) and by how damaging that disease is. The losses are combined, so 100 means nothing to fear and a very susceptible apple in a wet, scab-prone place drops below 40. Each disease is shown with a bar for the pressure and a five-step meter for the susceptibility; a <b>*</b> marks a susceptibility that is not recorded for that apple, where an average 3 of 5 is assumed. The score assumes no spraying: a low score means "spray, or choose a more resistant apple", not "impossible".</p>
+      <p>Lists of the best apples for a place are ranked by the <b>lower</b> of the two scores, so either one can sink an apple; the map panel can also sort by climate or disease alone. The coloured dots on the map show the climate score.</p>
     </section>
     <section class="card pad wide">
       <h2>What you get when you click anywhere</h2>

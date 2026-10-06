@@ -14,11 +14,20 @@ export function pw(x, pts) {
   return pts[pts.length - 1][1];
 }
 
-export const WEIGHTS = { chill: 3, hardiness: 3, season: 3, frost: 2, heat: 2, water: 1.2, disease: 1.5 };
+// Climate score weights. Disease is scored separately (scoreVariety(...).disease), so a climate that suits the tree but breeds the
+// diseases it is weak against shows up as a good climate score next to a poor disease score (decision 0009).
+export const WEIGHTS = { chill: 3, hardiness: 3, season: 3, frost: 2, heat: 2, water: 1.2 };
 const CRITICAL = ['chill', 'hardiness', 'season', 'heat'];
 const HEAT_ALLOW = [3, 8, 15, 25, 40];           // days >= 32 C per year a variety of heat tolerance 1..5 shrugs off
 const SUSC_W = [0.03, 0.2, 0.5, 0.8, 1.0];       // susceptibility 1..5 -> weight
 
+/** Disease score 0..100 (100 = no expected losses) -> words. */
+export function diseaseLabelOf(score) {
+  if (score >= 85) return 'Low disease risk';
+  if (score >= 65) return 'Some disease risk';
+  if (score >= 40) return 'High disease risk';
+  return 'Severe disease risk';
+}
 export function verdictOf(f) { return f >= 0.85 ? 'good' : f >= 0.6 ? 'ok' : f >= 0.3 ? 'warn' : 'bad'; }
 export function labelOf(score) {
   if (score >= 85) return 'Excellent';
@@ -190,13 +199,15 @@ export function pressureWord(p) { return p >= 0.66 ? 'high' : p >= 0.33 ? 'moder
 function fDisease(v, F) {
   const P = pressures(F);
   let prod = 1;
-  const issues = [];
+  const issues = [], rows = [];
   for (const k of Object.keys(P)) {
     let s = v.health[k];
     const unrated = s == null;
     if (unrated) s = 3;
     const pen = P[k] * SUSC_W[clamp(s, 1, 5) - 1] * strength[k];
     prod *= (1 - pen);
+    rows.push({ k, name: cap(DNAME[k]), pressure: P[k], pressureWord: pressureWord(P[k]), susc: s, assumed: unrated, loss: pen,
+      tone: pen >= 0.4 ? 'bad' : pen >= 0.2 ? 'warn' : pen >= 0.08 ? 'ok' : 'good' });
     if (P[k] >= 0.33 && s >= 3) issues.push({ k, pen, s, unrated, p: P[k] });
   }
   issues.sort((a, b) => b.pen - a.pen);
@@ -209,7 +220,7 @@ function fDisease(v, F) {
     text = issues.slice(0, 3).map(i => cap(DNAME[i.k]) + ' pressure is ' + pressureWord(i.p) + ' here (' + driver(i.k, F) + ') and ' + v.name + ' is ' + (i.s >= 5 ? 'very susceptible' : i.s >= 4 ? 'susceptible' : 'moderately susceptible') + (i.unrated ? ' (assumed)' : '') + '.').join(' ');
   }
   if (hum && hum.estimated) text += ' (Humidity is estimated from the temperature range here.)';
-  return { f: prod, text, pressures: P };
+  return { f: prod, text, pressures: P, rows };
 }
 /** One short phrase on what drives a disease at this place. */
 function driver(k, F) {
@@ -242,13 +253,13 @@ export function flavourHere(v, F) {
 
 /** Score one variety at one place. F = climate features, ctx = makeContext(ref). */
 export function scoreVariety(v, F, ctx) {
-  if (F.error) return { score: 0, label: 'No data', factors: [], limiting: null, error: F.error };
-  if (F.noBloom) return { score: 0, label: 'Likely not viable', factors: [{ key: 'season', title: 'Season', f: 0, tone: 'bad', text: 'It never warms enough here (10-day mean of 10 °C) for apples to flower.', critical: true }], limiting: 'season' };
+  if (F.error) return { score: 0, label: 'No data', factors: [], limiting: null, disease: null, both: 0, error: F.error };
+  if (F.noBloom) return { score: 0, label: 'Likely not viable', factors: [{ key: 'season', title: 'Season', f: 0, tone: 'bad', text: 'It never warms enough here (10-day mean of 10 °C) for apples to flower.', critical: true }], limiting: 'season', disease: null, both: 0 };
   const parts = {
     chill: fChill(v, F), hardiness: fHardiness(v, F), frost: fFrost(v, F), season: fSeason(v, F, ctx),
-    heat: fHeat(v, F), water: fWater(v, F), disease: fDisease(v, F),
+    heat: fHeat(v, F), water: fWater(v, F),
   };
-  const titles = { chill: 'Winter chill', hardiness: 'Winter cold', frost: 'Frost at blossom', season: 'Ripening season', heat: 'Summer heat', water: 'Water', disease: 'Disease pressure' };
+  const titles = { chill: 'Winter chill', hardiness: 'Winter cold', frost: 'Frost at blossom', season: 'Ripening season', heat: 'Summer heat', water: 'Water' };
   let sw = 0, sf = 0;
   const factors = [];
   for (const k of Object.keys(parts)) {
@@ -260,11 +271,17 @@ export function scoreVariety(v, F, ctx) {
   const minCrit = Math.min(...CRITICAL.map(k => parts[k].f));
   const score = Math.round(100 * base * Math.pow(minCrit, 0.6));
   const worst = [...factors].sort((a, b) => a.f - b.f)[0];
-  return { score, label: labelOf(score), factors, limiting: worst.f < 0.7 ? worst.key : null, harvest: parts.season.harvest || null, shift: parts.season.shift ?? null, flavour: flavourHere(v, F) };
+  const d = fDisease(v, F), dScore = Math.round(100 * d.f);
+  const disease = { score: dScore, label: diseaseLabelOf(dScore), text: d.text, rows: d.rows, assumed: d.rows.some(r => r.assumed) };
+  return { score, label: labelOf(score), factors, limiting: worst.f < 0.7 ? worst.key : null, disease, both: Math.min(score, dScore),
+    harvest: parts.season.harvest || null, shift: parts.season.shift ?? null, flavour: flavourHere(v, F) };
 }
 
-export function rankVarieties(varieties, F, ctx) {
-  return varieties.map(v => ({ v, s: scoreVariety(v, F, ctx) })).sort((a, b) => b.s.score - a.s.score);
+/** Sort keys for ranked lists: 'both' = the lower of the climate and disease scores, so either one can sink an apple. */
+export const SORTS = { both: s => s.both, climate: s => s.score, disease: s => s.disease ? s.disease.score : s.score };
+export function rankVarieties(varieties, F, ctx, by = 'both') {
+  const key = SORTS[by] || SORTS.both;
+  return varieties.map(v => ({ v, s: scoreVariety(v, F, ctx) })).sort((a, b) => key(b.s) - key(a.s) || b.s.score - a.s.score);
 }
 
 // ----------------------------------------------------------------- place summary + rootstocks
