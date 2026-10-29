@@ -23,6 +23,25 @@ def validate_region(r):
     return E
 
 
+def validate_profile(p):
+    """A place profile: {"id", "updated", "facts": [{label, value, source?}], "sections": [{title, intro?, items: [{text,
+    name?, url?, source?}]}], "sources": [url]}. Every fact and item should carry a source URL."""
+    E = []
+    for k in ("id", "updated", "facts", "sections", "sources"):
+        if k not in p:
+            E.append("missing " + k)
+    for f in p.get("facts", []):
+        if not f.get("label") or not f.get("value"):
+            E.append("fact without label/value")
+    for s in p.get("sections", []):
+        if not s.get("title") or not isinstance(s.get("items"), list):
+            E.append("section without title/items")
+        for it in s.get("items", []):
+            if not it.get("text"):
+                E.append("item without text in " + str(s.get("title")))
+    return E
+
+
 def main():
     files, batch = [], None
     args = sys.argv[1:]

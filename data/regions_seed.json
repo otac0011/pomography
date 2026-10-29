@@ -1035,6 +1035,15 @@
   "kind": "commercial"
  },
  {
+  "id": "statesville",
+  "name": "Statesville (North Carolina Piedmont)",
+  "country": "US",
+  "lat": 35.78,
+  "lon": -80.89,
+  "group": "United States",
+  "kind": "heritage"
+ },
+ {
   "id": "ellijay",
   "name": "Ellijay (Georgia)",
   "country": "US",

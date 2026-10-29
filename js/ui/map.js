@@ -434,5 +434,31 @@ function tLocal(body) {
   body.innerHTML = `${nearNote}<h4>Climate for apples</h4><p>${esc(r.summary)}</p><h4>Apple culture</h4><p>${esc(r.apple_culture)}</p>
     ${(vs.length || free.length) ? `<h4>Varieties linked with this place</h4><div>${vs.map(v => `<a class="chip" href="#/v/${esc(v.id)}">${esc(v.name)}</a>`).join('')}${free.map(n => `<span class="chip">${esc(n)}</span>`).join('')}</div>` : ''}
     <h4>Pests &amp; diseases</h4><p>${esc(r.pests_diseases)}</p><h4>Tips for growers</h4><p>${esc(r.tips)}</p>
-    <p class="tiny muted">Notes written for this atlas; confidence: ${esc(r.confidence || '?')}.</p>`;
+    <p class="tiny muted">Notes written for this atlas; confidence: ${esc(r.confidence || '?')}.</p>
+    ${r.profile ? '<div id="profile"><p class="small muted">Loading the full profile&hellip;</p></div>' : ''}`;
+  if (r.profile) loadProfile(r.id).then(p => { const el = body.querySelector('#profile'); if (el) el.innerHTML = profileHTML(p); })
+    .catch(() => { const el = body.querySelector('#profile'); if (el) el.innerHTML = '<p class="small muted">The full profile could not be loaded.</p>'; });
+}
+
+// Detailed place profiles (decision 0011): assets/places/<id>.json, fetched the first time the Local tab needs one
+const profiles = new Map();
+function loadProfile(id) {
+  if (!profiles.has(id)) profiles.set(id, fetch('assets/places/' + encodeURIComponent(id) + '.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }));
+  return profiles.get(id);
+}
+function srcLink(u) {
+  if (!u) return '';
+  let host = u; try { host = new URL(u).hostname.replace(/^www\./, ''); } catch (e) { /* keep as is */ }
+  return ` <a class="src-a" href="${esc(u)}" target="_blank" rel="noopener" title="${esc(u)}">${esc(host)}</a>`;
+}
+function profileHTML(p) {
+  const facts = p.facts.length ? `<table class="dt pf-facts"><tbody>${p.facts.map(f => `<tr><td>${esc(f.label)}</td><td>${esc(f.value)}${srcLink(f.source)}</td></tr>`).join('')}</tbody></table>` : '';
+  const item = it => {
+    const name = it.name ? (it.variety_id ? `<a href="#/v/${esc(it.variety_id)}"><b>${esc(it.name)}</b></a>` : `<b>${esc(it.name)}</b>`) + (it.url ? ` <a class="src-a" href="${esc(it.url)}" target="_blank" rel="noopener">site</a>` : '') + ': ' : '';
+    return `<li>${name}${esc(it.text)}${srcLink(it.source)}</li>`;
+  };
+  return `<h3 style="margin-top:18px">In depth</h3><p class="tiny muted">Researched ${esc(p.updated)}. Every line links to its source; the climate numbers in the other tabs are computed from the weather record and may differ from station normals.</p>
+    ${facts}
+    ${p.sections.map(s => `<h4>${esc(s.title)}</h4>${s.intro ? `<p class="small">${esc(s.intro)}</p>` : ''}<ul class="pf-list">${s.items.map(item).join('')}</ul>`).join('')}
+    <details><summary class="small">All ${p.sources.length} sources</summary><ol class="tiny pf-src">${p.sources.map(u => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a></li>`).join('')}</ol></details>`;
 }

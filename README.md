@@ -56,6 +56,7 @@ No Node, no bundler. Leaflet comes from cdnjs; weather from Open-Meteo; place na
 | `tools/import_tastings.py`, `.github/` | visitor taste reports (issue form, nightly import) |
 | `docs/outreach/` | draft letters to Keepers Nursery and the National Fruit Collection (not sent) |
 | `data/varieties/`, `data/rootstocks/`, `data/regions/` | source data (JSON, one array per file) |
+| `data/places/<id>.json` | optional detailed place profile (facts, sections, sources), built to `assets/places/` and loaded by the map's Local tab (decision 0011) |
 | `assets/data.json`, `assets/climate-presets.json` | **built**: re-run the tools below after editing data |
 | `research/` | schemas, agent briefs, batch lists, hand-correction patches |
 | `tools/` | build, validators, climate fetch/bake, dev server |

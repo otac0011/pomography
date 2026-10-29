@@ -18,7 +18,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 from schema import validate_variety, parse_harvest, parse_harvest_range, TASTE_TAGS  # noqa: E402
 from validate_rootstocks import validate_rootstock  # noqa: E402
-from validate_regions import validate_region  # noqa: E402
+from validate_regions import validate_region, validate_profile  # noqa: E402
 import flavour  # noqa: E402
 
 KEEPERS_ROOTSTOCKS = {"m27", "m9", "m26", "mm106", "mm111", "m25"}   # the apple rootstocks Keepers lists
@@ -120,6 +120,24 @@ def main():
             if vid and vid not in ids:
                 ids.append(vid)
         reg["variety_ids"] = ids
+        # optional detailed profile (decision 0011): data/places/<id>.json -> assets/places/<id>.json, loaded on demand
+        pf = os.path.join(ROOT, "data", "places", s["id"] + ".json")
+        if os.path.exists(pf):
+            prof = json.load(open(pf, encoding="utf-8"))
+            errors += ["place %s: %s" % (s["id"], m) for m in validate_profile(prof)]
+            for sec in prof.get("sections", []):
+                for it in sec.get("items", []):
+                    vid = names.get(norm(it["name"])) if it.get("name") else None
+                    if vid:
+                        it["variety_id"] = vid
+            seen_src = []
+            for u in [f.get("source") for f in prof["facts"]] + [it.get("source") for sec in prof["sections"] for it in sec["items"]] + prof["sources"]:
+                if u and u not in seen_src:
+                    seen_src.append(u)
+            prof["sources"] = seen_src
+            os.makedirs(os.path.join(ROOT, "assets", "places"), exist_ok=True)
+            json.dump(prof, open(os.path.join(ROOT, "assets", "places", s["id"] + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+            reg["profile"] = True
         regions.append(reg)
 
     os.makedirs(os.path.join(ROOT, "assets"), exist_ok=True)

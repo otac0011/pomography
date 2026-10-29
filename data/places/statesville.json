@@ -1,0 +1,149 @@
+{
+ "id": "statesville",
+ "updated": "2026-10-29",
+ "facts": [
+  {"label": "Where", "value": "County seat of Iredell County, western North Carolina Piedmont; creeks drain east to the South Yadkin River", "source": "https://en.wikipedia.org/wiki/Statesville,_North_Carolina"},
+  {"label": "Elevation", "value": "about 260 m (850 ft); the NOAA normals station sits at 245 m", "source": "https://en.wikipedia.org/wiki/Statesville,_North_Carolina"},
+  {"label": "Hardiness zone", "value": "8a (10 to 15 °F) on the 2023 USDA map for ZIP 28677; 7b on the older 2012 map", "source": "https://phzmapi.org/28677.json"},
+  {"label": "Climate type", "value": "Humid subtropical (Köppen Cfa)", "source": "https://en.wikipedia.org/wiki/Statesville,_North_Carolina"},
+  {"label": "Normals station", "value": "Statesville 2 NNE (GHCND:USC00318292), NOAA 1991-2020", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00318292&format=json&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&includeStationName=true&includeStationLocation=1"},
+  {"label": "Rain a year", "value": "46.7 in (1,185 mm), spread evenly: wettest August (4.9 in), driest February (3.2 in)", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USC00318292&format=json&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL,ANN-TMIN-PRBLST-T32FP50,ANN-TMIN-PRBFST-T32FP50"},
+  {"label": "Snow a year", "value": "4.9 in", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USC00318292&format=json&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL,ANN-TMIN-PRBLST-T32FP50,ANN-TMIN-PRBFST-T32FP50"},
+  {"label": "Last spring frost", "value": "April 16 (median date of the last 32 °F night)", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USC00318292&format=json&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL,ANN-TMIN-PRBLST-T32FP50,ANN-TMIN-PRBFST-T32FP50"},
+  {"label": "First autumn frost", "value": "October 25 (median), so about 190 frost-free days", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USC00318292&format=json&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL,ANN-TMIN-PRBLST-T32FP50,ANN-TMIN-PRBFST-T32FP50"},
+  {"label": "July", "value": "87.3 °F mean high, 66.8 °F mean low", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00318292&format=json&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&includeStationName=true&includeStationLocation=1"},
+  {"label": "January", "value": "48.8 °F mean high, 26.4 °F mean low", "source": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00318292&format=json&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&includeStationName=true&includeStationLocation=1"},
+  {"label": "Bloom", "value": "Apples flower about with the dogwoods; open blossom is hurt at about 27-28 °F, closed buds survive about 20-23 °F", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+  {"label": "Harvest", "value": "June to November depending on variety (early June-July, mid August-September, late October-November)", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"}
+ ],
+ "sections": [
+  {
+   "title": "Soils",
+   "intro": "Red Piedmont clays on two kinds of rock: Cecil-type soils on granite and gneiss, and Iredell, Mecklenburg and Lloyd soils on dark diabase and gabbro. Which dominates where was not checked against the county soil map; look up a site on the USDA Web Soil Survey.",
+   "items": [
+    {"name": "Cecil", "text": "North Carolina's state soil: deep and well drained, with a red clay subsoil; acid (about pH 4.5-6.5) unless limed, and erodes easily on slopes. Good apple ground once limed.", "source": "https://soilseries.sc.egov.usda.gov/OSD_Docs/C/Cecil.html"},
+    {"name": "Iredell", "text": "Named from the Statesville area in 1901. A dense, shrink-swell clay subsoil that water passes through very slowly, so water perches on it after rain: poor apple ground unless trees are on a mound or raised bed.", "source": "https://soilseries.sc.egov.usda.gov/OSD_Docs/I/Iredell.html"},
+    {"name": "Mecklenburg", "text": "Very deep soil from diabase, found with Cecil, Lloyd, Iredell and Pacolet.", "source": "https://soilseries.sc.egov.usda.gov/OSD_Docs/M/Mecklenburg.html"},
+    {"name": "Lloyd and Pacolet", "text": "Dark-red clay soil from mixed rock (Lloyd), and a Cecil-like soil with a thinner clay layer (Pacolet).", "source": "https://soilseries.sc.egov.usda.gov/OSD_Docs/M/Mecklenburg.html"},
+    {"text": "Before planting, soil-test at 1-8 in and 8-16 in, then mix lime and nutrients down to about 18 in; aim for pH 6.0-6.5. Drip irrigation suits these heavy clays.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"text": "The 1964 USDA Soil Survey of Iredell County has the soil association map for the whole county.", "source": "https://catalog.hathitrust.org/Record/102213552"}
+   ]
+  },
+  {
+   "title": "Apple history around Statesville",
+   "items": [
+    {"text": "Statesville grew in the 1800s as a rail town and a centre for tobacco, whiskey and medicinal roots and herbs. No source found ties it to apple nurseries or apple shipping; the apple trade was in the Brushy Mountains next door.", "source": "https://en.wikipedia.org/wiki/Statesville,_North_Carolina"},
+    {"text": "Alexander County, the Brushy Mountain apple county, was formed in 1847 partly from Iredell County. A short-line railroad still links Taylorsville to Statesville.", "source": "https://en.wikipedia.org/wiki/Alexander_County,_North_Carolina"},
+    {"text": "The Brushy Mountains are an isolated spur of the Blue Ridge north-west of Statesville, rising to Pores Knob (820 m). Their slopes form a thermal belt that stays warmer on frosty spring nights than the valleys, which is why orchards are there.", "source": "https://en.wikipedia.org/wiki/Brushy_Mountains_(North_Carolina)"},
+    {"text": "Taylorsville calls itself Apple Town, puts an apple tree on the county seal, and holds an apple blossom festival in May and an apple festival in October.", "source": "https://taylorsvillenc.com/sightseeing.htm"},
+    {"text": "The Brushy Mountain Apple Festival, run by the Brushy Mountain Ruritan Club since the 1970s, fills downtown North Wilkesboro on the first Saturday of October.", "source": "https://en.wikipedia.org/wiki/Brushy_Mountain_Apple_Festival"},
+    {"text": "A 1936 newspaper report counted about 600,000 bearing apple trees in Wilkes and Alexander counties (seen only in the digitised newspaper's search text).", "source": "https://newspapers.digitalnc.org/lccn/sn85042127/1936-05-28/ed-1/seq-7/"},
+    {"text": "NC State once ran a Brushy Mountains Apple Research Laboratory for the state experiment station.", "source": "https://d.lib.ncsu.edu/collections/catalog/ua023_007-007-bx0026-005-010"},
+    {"text": "Nearby nurseries sold apples to Piedmont farms: Cedar Cove in Yadkin County (from 1874, about 60 apples by the 1900s), Pores Knob Nursery in Wilkes, the Catawba County Nursery (1890 catalogue) and Startown Nursery at Newton (1902). Before nurseries, farmers dug and replanted root sprouts of a good tree.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apple-history/early-north-carolina-nurseries"}
+   ]
+  },
+  {
+   "title": "Heirloom apples found in and around Iredell County",
+   "intro": "From the state's Horne Creek Farm apple index, which records where old trees were found. Names linked in blue are in this atlas.",
+   "items": [
+    {"name": "Red Potts", "text": "Also called Potts or Brushy. Old trees were found in Statesville and in Taylorsville.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-19"},
+    {"name": "Phifer", "text": "An 1800s tree still stands at the old Phifer homeplace near Statesville.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-17"},
+    {"name": "Vandevere June", "text": "An early apple rediscovered near Statesville by apple hunter Tom Brown.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-25"},
+    {"name": "McLean", "text": "Grown and valued for generations by the Templeton family of Iredell County (not the Canadian apple of the same name).", "source": "https://historicsites.nc.gov/apple-index-magnum-bonum-mississippi-pippin"},
+    {"name": "Mitchell Sweet", "text": "Probably named for John Mitchell of Alexander County, late 1800s.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-14"},
+    {"name": "Chatham Sweet", "text": "Grown in Alexander County since the early 1900s; a tree survives in Taylorsville.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-2"},
+    {"name": "Crack Apple", "text": "Found at an old homeplace near Taylorsville.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-3"},
+    {"name": "Paw", "text": "An 80-year-old tree in Taylorsville; remembered elsewhere in Alexander County.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-17"},
+    {"name": "Ten Ounce", "text": "Grown along the Wilkes-Alexander line in the 1930s-40s.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-24"},
+    {"name": "Tony Apple", "text": "Once widely grown in Rowan County, Statesville's eastern neighbour, and in Stanly and Cabarrus.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-24"},
+    {"name": "Keener Seedling", "text": "Also called Rusty Coat. Spread through Lincoln County and sold by the Catawba County Nursery in 1890.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-11"},
+    {"name": "Sherrill", "text": "Found in Catawba County; sold by Startown Nursery, Newton, in 1902.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-21"},
+    {"name": "Fairgrove", "text": "A tree near Hickory.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-6"},
+    {"name": "Dula's Beauty", "text": "Raised at Lenoir, Caldwell County, from Limbertwig seedlings.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-4"},
+    {"name": "Gragg", "text": "Also Red Gragg or Winter Queen; from James Gragg's farm in Caldwell County.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-7"},
+    {"name": "Alexander's Ice Cream", "text": "Introduced by W. D. Alexander of Mecklenburg County.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple"},
+    {"name": "Pinky", "text": "Brought from Virginia; grown in Cabarrus County and later at Cornelius on Lake Norman.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-17"},
+    {"name": "North Carolina Keeper", "text": "From Davidson County in the Piedmont; found by Tom Brown.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-15"},
+    {"name": "Aunt Sally", "text": "Sold by a Yadkin County nursery 1875-1902; scionwood came from an old Mecklenburg County tree.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple"},
+    {"name": "Mongolian", "text": "Sold in the early 1900s by Pores Knob Nursery in the Brushies.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-14"},
+    {"name": "Donce", "text": "Named for an early Wilkes County settler; the only known tree is at Traphill.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-4"},
+    {"name": "Cothren, Hillside, No Bloom", "text": "Other old Wilkes County apples found by collectors around 2000.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-3"}
+   ]
+  },
+  {
+   "title": "Heirlooms recommended for the Piedmont",
+   "intro": "Lee Calhoun's list for Piedmont home growers, as published by NC State's Chatham County agent (not specific to Iredell).",
+   "items": [
+    {"text": "Early: Aunt Rachel, Early Joe, Red June, Early Strawberry, Yellow Transparent.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"text": "Midseason: American Golden Russet, Carter's Blue, Crow Egg, Dixie Red Delight, Hoover, Horse, Hunge, Jake's Seedling, Lacy, Magnum Bonum, Red Rebel, Summer King.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"text": "Late: Arkansas Black, Black Limbertwig, Blacktwig, Grimes Golden, Keener Seedling, Ingram, Mattamuskeet, Red Royal, Limbertwig, Sulser Red, Terry, Winter Yates, Virginia Beauty.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"}
+   ]
+  },
+  {
+   "title": "Modern varieties: what NC State says",
+   "items": [
+    {"text": "NC State's home-garden list for the state: Gala, Ginger Gold, Jonagold, Empire, Red and Golden Delicious, Crispin (Mutsu), Stayman, Rome and Fuji. Several of these rot or blight badly in the Piedmont without sprays.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"text": "Disease-resistant choices it names: Redfree, Prima, Priscilla and Jonafree (resistant to one or more of scab, mildew, cedar-apple rust and fire blight). It notes that Liberty, though resistant, performs poorly in North Carolina.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"text": "In low-spray plantings, avoid Gala, Pink Lady, Golden Delicious and Jonagold: they are the most susceptible to Glomerella and bitter rot, and Gala and Pink Lady to fire blight as well.", "source": "https://content.ces.ncsu.edu/publication/glomerella-leaf-spot-and-fruit-rot"},
+    {"text": "In a hot season NC State's maturity checks found apples ripening 7-14 days early, and red colour develops poorly in warm areas.", "source": "https://www.freshplaza.com/north-america/article/9866211/north-carolina-apples-mature-7-to-14-days-early-due-to-heat/"}
+   ]
+  },
+  {
+   "title": "Rootstocks for Piedmont clay",
+   "intro": "From NC State's rootstock table. On wet clay, crown-rot resistance matters most; where fire blight is common, avoid M.26 and M.9.",
+   "items": [
+    {"name": "Seedling", "text": "Full-size tree, bears in 6-10 years; medium crown-rot and high fire-blight resistance.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "MM.111", "text": "About 85% of full size (14-16 ft), bears in 4-6 years; medium crown-rot resistance. A sound choice on clay.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "M.7", "text": "About 70% size (12-14 ft); medium crown rot, high fire-blight resistance.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "MM.106", "text": "About 80% size but very low crown-rot resistance: avoid on wet Piedmont clay.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "M.26", "text": "About half size; very low fire-blight resistance, needs staking, dislikes poor drainage.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "M.9", "text": "8-10 ft trees that need permanent staking or a trellis; low fire-blight resistance.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"name": "Geneva (G.41, G.935 and others)", "text": "Bred to resist fire blight and crown rot; NC State's fire blight page recommends the G-series.", "source": "https://content.ces.ncsu.edu/fire-blight"}
+   ]
+  },
+  {
+   "title": "Pests and diseases",
+   "items": [
+    {"name": "Bitter rot and Glomerella", "text": "NC State calls summer rots the most serious apple disease in the state, with no resistant cultivars. Commercial programmes spray from petal fall every 7-14 days to harvest and scout from late May.", "source": "https://content.ces.ncsu.edu/publication/glomerella-leaf-spot-and-fruit-rot"},
+    {"name": "Fire blight", "text": "Spreads in warm, humid weather at bloom and with rain. Prune out strikes 12 in below the dead wood in dry winter weather.", "source": "https://content.ces.ncsu.edu/fire-blight"},
+    {"name": "Cedar-apple rust", "text": "Needs eastern red cedar or juniper nearby, which is hard to avoid in the Piedmont. Prevent it with resistant varieties and well-timed sprays.", "source": "https://content.ces.ncsu.edu/cedar-apple-rusts"},
+    {"name": "Sooty blotch and flyspeck", "text": "Cosmetic smudges and specks in long wet spells. Open the canopy, remove mummies and keep hedgerows down.", "source": "https://content.ces.ncsu.edu/flyspeck-and-sooty-blotch"},
+    {"name": "Scab, black rot and powdery mildew", "text": "Also present in the Piedmont; scab- and rust-resistant varieties help.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"name": "Phytophthora collar rot", "text": "Worst on heavy, badly drained soil and low spots. Keep the graft union above the soil and avoid MM.106.", "source": "https://apples.extension.org/phytophthora-root-crown-and-collar-rot-of-apple"},
+    {"name": "Codling moth and plum curculio", "text": "Bag fruit, trap, or spray at egg hatch for codling moth. For curculio, jar the tree over a tarp early in the morning and pick up the drops.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "Brown marmorated stink bug", "text": "An invasive late-season pest; its feeding spots look like hail damage or bitter pit.", "source": "https://content.ces.ncsu.edu/publication/brown-marmorated-stink-bug-in-the-landscape"}
+   ]
+  },
+  {
+   "title": "Orchards to visit",
+   "items": [
+    {"name": "Carrigan Farms", "text": "Mooresville, southern Iredell County. Pick-your-own apples by hayride in a short September window (reservations); also pumpkins, sunflowers and strawberries.", "source": "https://www.orangepippin.com/orchards/united-states/north-carolina/carrigan-farms"},
+    {"name": "Deal Orchards", "text": "Taylorsville. A small multi-generation family orchard with many varieties and a farm shop (cider, honey, baked goods).", "source": "https://alexander.ces.ncsu.edu/2021/10/extension-to-carry-on-tradition-of-apple-contest"},
+    {"name": "Sugar Loaf Orchards", "text": "Taylorsville, on NC-16 north. Fifth-generation, and said to be the county's oldest apple house.", "source": "https://alexander.ces.ncsu.edu/2021/10/extension-to-carry-on-tradition-of-apple-contest"},
+    {"name": "Perry Lowe Orchards", "text": "Moravian Falls in the Brushies. Apples since the early 1900s, about 30 varieties and single-variety ciders; pick-your-own by reservation in autumn (check before going).", "source": "https://asapconnections.org/broadcasts/brushy-mountain-apples/"}
+   ]
+  },
+  {
+   "title": "Help and resources",
+   "items": [
+    {"name": "Iredell County Extension Center", "url": "https://iredell.ces.ncsu.edu/", "text": "444 Bristol Dr, Statesville; (704) 873-0507. Plant clinic, Master Gardeners and homeowner soil testing.", "source": "https://iredell.ces.ncsu.edu/"},
+    {"name": "Soil testing for homeowners", "url": "https://iredell.ces.ncsu.edu/soil-testing-for-homeowners/", "text": "How to send in samples; do this before liming a new orchard.", "source": "https://iredell.ces.ncsu.edu/soil-testing-for-homeowners/"},
+    {"name": "Alexander County Extension Center", "url": "https://alexander.ces.ncsu.edu/2025/12/fruit-plant-sale-2026/", "text": "Taylorsville. Runs a yearly fruit-plant sale (2026 pickup in early March) and the county apple contests.", "source": "https://alexander.ces.ncsu.edu/2025/12/fruit-plant-sale-2026/"},
+    {"name": "Extension Gardener Handbook, tree fruit chapter", "url": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/", "text": "NC State's home-orchard guide: varieties, rootstocks, pH, pollination and frost tolerance.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"name": "Heirloom apples (Growing Small Farms)", "url": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/", "text": "Piedmont-specific guide to old southern apples: bloom and harvest timing, rootstocks and soil preparation.", "source": "https://growingsmallfarms.ces.ncsu.edu/growingsmallfarms-heirloom-apples/"},
+    {"name": "Southern Appalachian Apples", "url": "https://apples.ces.ncsu.edu/", "text": "NC State's apple site: disease and insect alerts, including fire blight warnings.", "source": "https://apples.ces.ncsu.edu/"},
+    {"name": "Mountain Horticultural Crops Research & Extension Center", "url": "https://mountainhort.ces.ncsu.edu/about-mhcrec/", "text": "Mills River; NC State's apple research station.", "source": "https://mountainhort.ces.ncsu.edu/about-mhcrec/"},
+    {"name": "Horne Creek Farm Southern Heritage Apple Orchard", "url": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard", "text": "State historic site near Pinnacle with 400+ old southern apples, started with Lee Calhoun, and an online apple index with county histories.", "source": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard"}
+   ]
+  },
+  {
+   "title": "Grower notes",
+   "items": [
+    {"text": "Plant at least two varieties that bloom together; triploids give no good pollen; crab apples make good pollinizers. Avoid insecticides during bloom.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"text": "Winter chill is not a limit for apples anywhere in North Carolina; late frost after an early bloom is. Plant on a slope with air drainage, never in a frost pocket.", "source": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts/"},
+    {"text": "Not yet sourced for the Piedmont: deer pressure, Japanese beetle and oriental fruit moth in apples, and local nurseries selling fruit trees in Statesville.", "source": ""}
+   ]
+  }
+ ],
+ "sources": []
+}
